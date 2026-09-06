@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Strong, credential-dense leadership bios (22 and 30+ years respectively, named prior facilities, quantified project figures) paired with a compliance-focused callout that turns the leadership pairing itself into a certification/permit-compliance risk-mitigation argument — a reusable pattern for pursuits with mandatory operator-certification requirements.
-reuse-notes: Named individuals (Howard Brewen, Chris Catlin) and their real credentials/experience are kept verbatim per wiki policy. Swap in the actual proposed leadership pair's real bios for a new pursuit; keep the "integrated, regionally connected leadership" argument structure.
+reuse-notes: Named individuals (Howard Brewen, Chris Catlin) and their real credentials/experience are kept verbatim per wiki policy. Swap in the actual proposed leadership pair's real bios for a new pursuit; keep the "integrated, regionally connected leadership" argument structure. The $9.75M PG&E energy partnership, $140M facility upgrade, $3.5M+ O&M budget, and 120-MGD figures are outcome/scale figures, not commercial rates — restate them, but confirm they are current and approved for the individual before reuse.
 ---
 
 # Key Personnel Bios — Operations Leadership
@@ -48,8 +48,6 @@ Chris Catlin will serve as Manager of Operations, bringing over 30 years of expe
 Jacobs will ensure that all positions assigned to the [CLIENT] project meet the permit regulations for AWTO certification and recognize the requirement for Chief Plant Operator (CPO) to hold an AWT5™ by December 2026. Our local project team will be supported with backup for positions through our substantial network of projects in California and our bench of subject matter experts who carry AWTO certification. Nearby projects at both West Basin and Gilroy have operators on staff with AWTO certification — and the number of AWTO certified employees continues to grow with our training and incentive plans for all California operators.
 
 Jacobs brings added value through our unique culture of engaged management and multi-layered operational oversight. Our approach ensures full operational readiness and permit compliance through the direct involvement of senior leadership with extensive advanced water treatment credentials.
-
-**Howard Brewen (Grade V)**, our proposed Director of Operations, also serves as Jacobs' California Director of Operations and brings a unique talent in developing staff through his decades of experience in the industry. He will provide hands-on oversight and mentorship to ensure operational continuity and permit compliance. **Chris Catlin (AWT5™)**, also part of the management team, is our proposed Manager of Operations and has extensive experience operating advanced water treatment facilities in the state, most recently with the startup of the Soquel Creek Advanced Water Purification Facility.
 
 This **integrated, regionally connected leadership structure** — unique to Jacobs — ensures [CLIENT] benefits from immediate access to a deep bench of AWTO-certified professionals, management and oversight from an experienced team, and the excitement and focus around teammates achieving their next-level AWTO certifications.
 

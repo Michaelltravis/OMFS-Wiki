@@ -1,11 +1,28 @@
 ---
 title: Regional Maintenance Team Capability — Proof-Point Case Studies
 category: technical-approach
+block-type: prose
 tags: [regional-maintenance, asset-management, maintenance-case-studies, uv-system-replacement, ats-replacement, hvac-installation, instrumentation-replacement, proof-points]
 source: santamonica-swip-om-2025
-source-section: "3.1 Staffing Plan — Expert Maintenance Resources (p. 78)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.1 Staffing Plan — Expert Maintenance Resources, Proven, Mobilized, and Ready"
+source-pages: [78]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0078.md#¶11", "verbatim/santamonica-swip-om-2025/pages/p0078.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0078.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0078.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0078.md#¶10"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facilities — 6 onsite FTEs plus 2 shared regional resources"
+geography: "Southern California / CA / SWRCB Division of Drinking Water, Title 22"
+rfp-section-type: [staffing, tech-approach]
+win-theme-map: [regional-bench, asset-management, innovation-value-add, compliance-leadership]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: [ST-0024, ST-0025, ST-0026]
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Four concrete, verifiable maintenance-execution case studies (equipment/system replacement, emergency power restoration, new equipment room construction, instrumentation replacement) from real projects — strong tangible evidence for any "our maintenance team can execute" claim in a technical approach or staffing section.
 reuse-notes: These are real other-client project names and are kept verbatim as proof points (not the pursuit client, so no [CLIENT] substitution applies). Select the subset most relevant to the target facility's likely maintenance needs; verify project names/details are still current/approved for external reuse before each pursuit.
 ---

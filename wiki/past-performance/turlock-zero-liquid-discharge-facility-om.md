@@ -6,7 +6,7 @@ tags: [turlock, zero-liquid-discharge, industrial-water-treatment, reverse-osmos
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Turlock Zero Liquid Discharge Facility O&M (pp. PD-5–PD-6)"
 source-pages: [26, 27]
-verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0026.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶10", "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶7"]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0026.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶10", "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶8"]
 pursuit-type: [water-treatment]
 client-type: authority
 client-size: "0.75 MGD max monthly average ZLD facility serving a 250 MW combined cycle power plant"
@@ -14,8 +14,8 @@ geography: "West / CA / industrial zero liquid discharge"
 rfp-section-type: [past-performance]
 win-theme-map: [energy-chemical-efficiency, innovation-value-add, partner-transparency, asset-management]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0016]
+story-ids: [ST-0015]
 status: preferred
 house-favorite: false
 sanitized: true

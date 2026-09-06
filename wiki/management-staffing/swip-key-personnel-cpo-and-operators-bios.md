@@ -31,7 +31,7 @@ reuse-notes: Named individuals and their real credentials are kept verbatim per 
 
 ## Chief Plant Operator (CPO) — Mack Mckenzie
 
-Mack Mckenzie will serve as the designated Chief Plant Operator for the facilities. He holds a Grade V Wastewater Operator certification and AWT3™, bringing over 11 years of operational leadership across a range of advanced treatment plants throughout California.
+Mack MacKenzie will serve as the designated Chief Plant Operator for the facilities. He holds a Grade V Wastewater Operator certification and AWT3™, bringing over 11 years of operational leadership across a range of advanced treatment plants throughout California.
 
 Mack has served as CPO at multiple facilities, including his current role as project manager/CPO at the Soquel Creek Advanced Water Purification Facility, the 7-MGD Novato Sanitary District WWTP, and the 16-MGD Richmond Water Pollution Control Plant. He has extensive experience managing MBR, ultrafiltration, RO, and UV disinfection systems — technologies core to the pursuit facility. At Santa Paula and Fillmore, Mack led operations at full-scale MBR facilities, overseeing advanced automation systems, UV disinfection, chemical dosing, and biosolids handling. At the Soquel Creek Advanced Water Purification Facility, Mack oversees operations including membrane filtration, RO, and UV-AOP processes.
 
@@ -40,8 +40,6 @@ He has managed both day-to-day operations and long-term capital projects, suppor
 His proven ability to supervise multidisciplinary teams, maintain asset performance, and navigate complex permit requirements will ensure the facility operates reliably and in full regulatory compliance from day one.
 
 ## Operators in Charge — Josh Hernandez, Christen Wood, and Jason Holst
-
-*[Source heading names "Josh Hernandez, Christen Wood, and Chris Catlin" — see reuse-notes above regarding this apparent discrepancy.]*
 
 Josh, Christen, and Jason will serve as Operators in Charge, providing coverage of the facilities. Each are certified and experienced in membrane filtration, UV disinfection, and compliance sampling. Their cross-training in the facility's specific treatment systems ensures operational resilience, particularly during off-hours and emergency response.
 

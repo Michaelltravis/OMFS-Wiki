@@ -15,7 +15,7 @@ rfp-section-type: [exec-summary]
 win-theme-map: [odor-control, compliance-leadership, regional-bench, collection-system, energy-chemical-efficiency, asset-management]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0004, ST-0008]
 status: preferred
 house-favorite: true
 sanitized: true

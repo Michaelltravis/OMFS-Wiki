@@ -1,38 +1,6 @@
 [
-  {
-    "quote": "provide a wealth of knowledge from industry experts who brainstorm ideas for the future direction of our utility that are of great value to the City and our ratepayers.",
-    "speaker": "Vincent Carroccia",
-    "title": "Deputy Commissioner of Public Works",
-    "org": "Reference municipal public works department (phone on record: 302.576.2620)",
-    "page": 86,
-    "para": 21,
-    "block": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md"
-  },
-  {
-    "quote": "Within the first three hours, we had one SmartCover tell us there was a blockage on the way, and we were able to go out and clear the blockage before we had a problem.",
-    "speaker": "unknown",
-    "title": "unknown",
-    "org": "Arlington, Texas",
-    "page": 90,
-    "para": 6,
-    "block": "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md"
-  },
-  {
-    "quote": "SmartCover's data-driven monitoring systems enable us to target cleaning when and where it's needed, and save money when it's not.",
-    "speaker": "unknown",
-    "title": "unknown",
-    "org": "South Coast Water District, California",
-    "page": 90,
-    "para": 8,
-    "block": "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md"
-  },
-  {
-    "quote": "SmartCover has allowed us to perform targeted analysis on our sewers, providing real-time data and alarming to avert sanitary sewer overflows, backups, and subsequent cleanup. In addition, the units are providing valuable data for I&I analysis so we can make informed capital investment decisions. It is a key tool in our toolkit for collection system maintenance and replacements.",
-    "speaker": "unknown",
-    "title": "unknown",
-    "org": "New Jersey American Water",
-    "page": 90,
-    "para": 11,
-    "block": "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md"
-  }
+  {"quote": "provide a wealth of knowledge from industry experts who brainstorm ideas for the future direction of our utility that are of great value to the City and our ratepayers.", "speaker": "Vincent Carroccia", "title": "Deputy Commissioner of Public Works", "org": "unknown (contact 302.576.2620; associated with the Wilmington Innovation Workshop exhibit)", "page": 86, "para": 21, "block": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md"},
+  {"quote": "Within the first three hours, we had one SmartCover tell us there was a blockage on the way, and we were able to go out and clear the blockage before we had a problem.", "speaker": "unattributed", "title": "unknown", "org": "Arlington, Texas", "page": 90, "para": 6, "block": "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md"},
+  {"quote": "SmartCover's data-driven monitoring systems enable us to target cleaning when and where it's needed, and save money when it's not.", "speaker": "unattributed", "title": "unknown", "org": "South Coast Water District, California", "page": 90, "para": 8, "block": "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md"},
+  {"quote": "SmartCover has allowed us to perform targeted analysis on our sewers, providing real-time data and alarming to avert sanitary sewer overflows, backups, and subsequent cleanup. In addition, the units are providing valuable data for I&I analysis so we can make informed capital investment decisions. It is a key tool in our toolkit for collection system maintenance and replacements.", "speaker": "unattributed", "title": "unknown", "org": "New Jersey American Water", "page": 90, "para": 11, "block": "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md"}
 ]

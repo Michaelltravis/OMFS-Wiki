@@ -15,7 +15,7 @@ rfp-section-type: [past-performance, transition, staffing]
 win-theme-map: [workforce-development, transition-continuity, asset-management, energy-chemical-efficiency, digital-tools, innovation-value-add]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0010, ST-0011]
 status: preferred
 house-favorite: false
 sanitized: true

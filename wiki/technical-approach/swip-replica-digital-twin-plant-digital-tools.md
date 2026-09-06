@@ -15,7 +15,7 @@ rfp-section-type: [tech-approach]
 win-theme-map: [digital-tools, innovation-value-add, energy-chemical-efficiency]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0023]
 status: preferred
 house-favorite: false
 sanitized: true

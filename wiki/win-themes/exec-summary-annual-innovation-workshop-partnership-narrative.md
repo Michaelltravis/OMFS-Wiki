@@ -14,8 +14,8 @@ geography: "Northeast / Coastal New England / MassDEP-equivalent state regulator
 rfp-section-type: [exec-summary]
 win-theme-map: [innovation-value-add, partner-transparency, compliance-leadership, regional-bench]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0002]
+story-ids: [ST-0012]
 status: preferred
 house-favorite: true
 sanitized: true

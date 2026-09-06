@@ -39,7 +39,7 @@ reuse-notes: "VERBATIM — real name and license info; no phone/email is given i
 ### Licenses/Registrations
 - Grade 6-C Full Wastewater Operator: MA
 - Grade 4 Wastewater Operator: RI
-- Electrical Certification, NFPA 70E
+- Electrical Certification, NFPA 70E (source resume prints "NEPA 70E")
 
 ### Professional Background
 

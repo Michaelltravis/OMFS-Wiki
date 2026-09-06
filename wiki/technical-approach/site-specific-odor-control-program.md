@@ -15,7 +15,7 @@ rfp-section-type: [tech-approach]
 win-theme-map: [odor-control, community-engagement, compliance-leadership, energy-chemical-efficiency, digital-tools]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0008]
 status: preferred
 house-favorite: false
 sanitized: true

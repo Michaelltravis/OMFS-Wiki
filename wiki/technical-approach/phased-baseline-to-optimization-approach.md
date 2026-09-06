@@ -15,7 +15,7 @@ rfp-section-type: [tech-approach, transition]
 win-theme-map: [incumbent-displacement, compliance-leadership, energy-chemical-efficiency, transition-continuity, digital-tools]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0027]
 status: preferred
 house-favorite: true
 sanitized: true

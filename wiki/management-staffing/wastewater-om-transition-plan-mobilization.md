@@ -14,7 +14,7 @@ geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [transition, staffing]
 win-theme-map: [transition-continuity, incumbent-displacement, regional-bench, workforce-development, partner-transparency]
 proof-point-ids: []
-testimonial-ids: []
+testimonial-ids: [TM-0004, TM-0005]
 story-ids: []
 status: preferred
 house-favorite: true

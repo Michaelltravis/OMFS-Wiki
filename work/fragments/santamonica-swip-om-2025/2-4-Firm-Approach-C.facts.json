@@ -368,5 +368,35 @@
     "para": 20,
     "block": "wiki/technical-approach/swip-annual-innovation-workshop.md",
     "category": "other"
+  },
+  {
+    "claim": "Number of supplemental report types Jacobs offers to prepare on client request (recycled water quality/end-user summaries, executive summaries for public briefings, cost tracking/special project documentation, sustainability report on energy and chemical usage)",
+    "number": "4",
+    "unit": "report types",
+    "as_of": "2025",
+    "page": 62,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+    "category": "other"
+  },
+  {
+    "claim": "Number of real-time and historical trending categories provided by the customized secure web-based digital reporting dashboard (KPIs, work order completion/maintenance activity, chemical usage and inventory, sampling and compliance results, safety and training metrics, operational alerts and alarms)",
+    "number": "6",
+    "unit": "trending categories",
+    "as_of": "2025",
+    "page": 62,
+    "para": 6,
+    "block": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+    "category": "other"
+  },
+  {
+    "claim": "Number of compliance tools in Jacobs' compliance-tool suite (training platform, sample/report tracking tools, Risk Management Plan and tracking tools, standardized non-compliance escalation protocols, secure SharePoint documentation system)",
+    "number": "5",
+    "unit": "tools",
+    "as_of": "2025",
+    "page": 55,
+    "para": 18,
+    "block": "wiki/compliance-plans/swip-laboratory-management-and-sampling-plan.md",
+    "category": "compliance"
   }
 ]

@@ -1,27 +1,60 @@
 ---
 title: Emergency Response and Storm Preparedness Program for Coastal Wastewater Systems
 category: compliance-plans
+block-type: prose
 tags: [emergency-response, storm-preparation, high-flow-management, flood-resilience, standby-power, coastal, collection-system]
 source: hull-wwtf-om-2026
-source-section: "Section 5, Project Understanding and Technical Approach (pp. 35-36)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 5, Project Understanding and Technical Approach — Emergency Response and Storm Preparation (p. 35, Exhibit 5-11)"
+source-pages: [41]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0041.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0041.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0041.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0041.md#¶11", "verbatim/hull-wwtf-om-2026/pages/p0041.md#¶15"]
+pursuit-type: [wwtp-om, collections, stormwater]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi / ~10k pop"
+geography: "Northeast / MA / MassDEP"
+rfp-section-type: [tech-approach, compliance]
+win-theme-map: [transition-continuity, compliance-leadership, stormwater, collection-system, partner-transparency, regional-bench]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: complete emergency-response lifecycle (identification → preparation → response → recovery) with a concrete proof-point case study
-reuse-notes: replace named coordination contacts with role placeholders; replace the case-study reference project if it has already been used elsewhere in the same proposal
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: Complete emergency-response lifecycle (framework → storm identification and advance preparation → high-flow operations → post-storm recovery) with hard response commitments (24-hour line, response begins within 20 minutes) and a concrete, dated collection-system emergency proof point
+reuse-notes: Replace the named coordination contact (Nathan Callison) and the client-side Emergency Management Director reference with the proposed team's actual names and roles; confirm the 20-minute response commitment against the target RFP's stated expectation; replace the Waterbury, CT case study if that reference project already appears elsewhere in the same proposal, and confirm it remains permissioned.
 ---
 
 # Emergency Response and Storm Preparedness Program for Coastal Wastewater Systems
 
-An emergency and storm response program tailored to a coastal location — tidal influences, storm surge exposure, and limited access (e.g., peninsula geography) — integrates advance planning, structured response procedures, regional surge support, and continuous improvement to protect infrastructure, maintain permit compliance, and safeguard public health during severe weather events. The guiding principle: **anticipate and manage emergencies proactively** through disciplined procedures and clear communication, rather than reacting to them.
+Jacobs' emergency and storm response program is tailored to [CLIENT]'s coastal location — a New England coastal municipality with tidal influences, storm surge exposure, and limited peninsula access. Our approach integrates advance planning, structured response procedures, regional surge support, and continuous improvement to protect infrastructure, maintain permit compliance, and safeguard public health during severe weather events.
 
-**Emergency response framework.** A comprehensive Emergency Response Plan maintains staffing, regulatory reporting, and system reliability during short-term disruptions and extended emergencies, defining clear authority, roles, and escalation protocols. [PROJECT MANAGER] serves as the client's primary coordination contact, while the senior on-site representative activates emergency response procedures and regional support resources as conditions require. The client is notified immediately of any condition that could affect permit compliance, public safety, or facility integrity, with coordination through the client's Emergency Management Director and participation in municipal planning efforts so wastewater operations are fully integrated into the broader emergency management framework. A 24-hour emergency response phone line allows residents to report wastewater system issues; calls are answered by trained personnel with response beginning within 20 minutes, integrated with SCADA alarm notifications to enable rapid dispatch of operations personnel.
+Rather than reacting to emergencies, we **anticipate and manage them proactively**, through disciplined procedures and clear communication, **as demonstrated through our proven response to collection system emergencies (see Exhibit 5-11).**
 
-**Storm identification and advance preparation.** National Weather Service forecasts, coastal surge advisories, and local emergency alerts are constantly monitored. When severe weather is forecast, a tiered storm preparation protocol is activated: pump inspection, electrical and SCADA systems verification, alarm functionality confirmation, and critical materials staging. Pump stations and key collection-system assets are inspected in advance of forecast events to confirm operability, telemetry functionality, and emergency power readiness. Flood protection measures (berms, flood barriers, facility access points) are verified prior to storm events. Backup generators are kept in a constant state of readiness through routine exercising, load testing, and fuel verification. Where a dedicated electrical connection exists for rapid portable-generator hookup, that capability should be incorporated into emergency procedures to maintain critical plant systems (influent pumping, aeration, process controls) during extended power outages.
+## Emergency Response Framework
 
-**High-flow operations and post-storm recovery.** During severe weather events, a High-Flow Management Plan is implemented to maintain treatment stability as flows increase: monitoring system hydraulics, adjusting aeration, managing solids retention time, and coordinating pumping operations to maintain effluent quality and minimize overflow risk. Following storm events, inspections are conducted at the treatment facility, pump stations, collection system infrastructure, and flood-control assets; damage or abnormal conditions are documented and corrective actions implemented promptly. After significant events, an after-action review evaluates response effectiveness and incorporates lessons learned to strengthen long-term system resilience.
+Our comprehensive Emergency Response Plan maintains staffing, regulatory reporting, and system reliability during short-term disruptions and extended emergencies. The plan will define **clear authority, roles, and escalation protocols**. Nathan Callison will serve as [CLIENT]'s primary coordination contact, while the senior Jacobs representative on site will activate emergency response procedures and regional support resources as conditions require. [CLIENT] will be notified immediately of any condition that could affect permit compliance, public safety, or facility integrity. We will coordinate with [CLIENT]'s Emergency Management Director and participate in municipal planning efforts to ensure wastewater operations are fully integrated into [CLIENT]'s emergency management framework.
 
-**Proof-point example.** On a specific date, an O&M team at a reference client's wastewater facility responded to a sewer backup in the collection system during a high-rain event. The team partially cleared the blockage (believed caused by an illicit floor drain connection from an adjoining property). Following the initial response, a CCTV line inspection revealed a collapsed 15-inch pipe requiring immediate repair. Working with an outside contractor, the team installed a temporary bypass line to maintain service until the rain subsided; once conditions improved two days later, the collapsed section was permanently repaired, replacing approximately 90 feet of compromised pipe.
+A 24-hour emergency response phone line will allow residents to report wastewater system issues. Calls will be answered by trained personnel, and **response will begin within 20 minutes**, consistent with [CLIENT] expectations. The emergency line will be integrated with SCADA alarm notifications to enable **rapid dispatch of operations personnel**.
+
+## Storm Identification and Advance Preparation
+
+National Weather Service forecasts, coastal surge advisories, and local emergency alerts will be constantly monitored. When severe weather is forecast, a tiered storm preparation protocol will be activated. Preparation activities include pump inspection, electrical and SCADA systems verification, alarm functionality confirmation, and critical materials staging. Pump stations and key collection system assets will be inspected in advance of forecast events to confirm operability, telemetry functionality, and emergency power readiness.
+
+Prior to storm events, flood protection measures will be verified, including inspection of berms, flood barriers, and facility access points. Backup generators will be kept in a **constant state of readiness** through routine exercising, load testing, and fuel verification. [CLIENT] recently installed a dedicated electrical connection at the administration building that allows rapid connection of a portable generator. This connection capability will be incorporated into our emergency procedures to **maintain critical plant systems**, including influent pumping, aeration, and process controls, during extended power outages.
+
+## High-Flow Operations and Post-Storm Recovery
+
+During severe weather events, a High-Flow Management Plan will be implemented to maintain treatment stability as flows increase. Operators will monitor system hydraulics, adjust aeration, manage solids retention time, and coordinate pumping operations to maintain effluent quality and minimize overflow risk. Following storm events, inspections will be conducted at the treatment facility, pump stations, collection system infrastructure, and flood control assets. Any damage or abnormal conditions will be documented and corrective actions implemented promptly. After significant events, an after-action review will evaluate response effectiveness and incorporate lessons to **strengthen long-term system resilience**.
+
+## Exhibit 5-11. Proven Response to Collection System Emergencies
+
+On August 27, 2020, our O&M team at the Waterbury, CT wastewater facility responded to a sewer backup in the City's collection system during a high rain event. The team partially cleared the blockage, which was believed to be caused by an illicit floor drain from an adjoining property.
+
+Following the initial response, the line was televised, revealing a collapsed 15-inch pipe that required immediate repair. Working with an outside contractor, our team installed a temporary bypass line to maintain service until the rain subsided. Once conditions improved two days later, Jacobs and the contractor replaced 90 feet of compromised pipe.
 
 ## Reuse guidance
 
-The four-part structure (framework → identification/preparation → high-flow operations → post-storm recovery) is reusable for any coastal or flood-exposed wastewater system, and adapts to inland flood/high-flow contexts by dropping the surge/tidal language. Replace [PROJECT MANAGER] and any named municipal emergency-management contacts with role placeholders. The case-study proof point names a specific reference client and date — replace with a different reference project if this one has already appeared elsewhere in the same proposal, or confirm the story is still accurate and permissioned for reuse. Pairs well with `integrated-safety-security-cybersecurity-program.md` (storm/flood planning overlaps) and the CMMS/asset-management block (post-storm inspections feed the same asset condition data).
+Universal: the four-part structure (framework → storm identification and advance preparation → high-flow operations → post-storm recovery), the "anticipate rather than react" framing, the 24-hour resident emergency line integrated with SCADA alarm notification, and the after-action review discipline. This reads for any coastal or flood-exposed wastewater system and adapts to inland high-flow contexts by dropping the surge/tidal language. Pursuit-specific: the named coordination contact (Nathan Callison here), the 20-minute response commitment (match the RFP's stated expectation), the portable-generator connection detail (confirm the target site has an equivalent asset), and the Exhibit 5-11 case study, which names Waterbury, CT with a specific date, a collapsed 15-inch pipe, and 90 feet of pipe replaced — keep those figures, but verify the story is still accurate and permissioned and that it does not repeat elsewhere in the same proposal. Pairs with [integrated-safety-security-cybersecurity-program.md](integrated-safety-security-cybersecurity-program.md) (storm and flood planning overlap the Site-Specific Safety Plan), [../technical-approach/ot-scada-modernization-roadmap.md](../technical-approach/ot-scada-modernization-roadmap.md) (Phase 2 scenario-based storm planning), and [../technical-approach/cmms-driven-asset-management-maintenance-program.md](../technical-approach/cmms-driven-asset-management-maintenance-program.md) (post-storm inspections feed the same asset condition data). Full passage: `verbatim/hull-wwtf-om-2026/pages/p0041.md`.

@@ -16,7 +16,7 @@ rfp-section-type: [tech-approach, exec-summary]
 win-theme-map: [partner-transparency, collection-system, incumbent-displacement, regional-bench]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0014]
 status: preferred
 house-favorite: false
 sanitized: true

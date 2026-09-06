@@ -17,7 +17,6 @@ proof-point-ids: []
 testimonial-ids: []
 story-ids: []
 status: preferred
-supersedes: wiki/technical-approach/swip-cmms-inventory-management-value-add.md
 house-favorite: false
 sanitized: true
 sanitization-loss: none

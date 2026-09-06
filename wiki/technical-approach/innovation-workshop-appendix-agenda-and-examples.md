@@ -14,7 +14,7 @@ geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, partner-transparency, community-engagement, digital-tools, energy-chemical-efficiency]
 proof-point-ids: []
-testimonial-ids: []
+testimonial-ids: [TM-0010]
 story-ids: []
 status: preferred
 house-favorite: false

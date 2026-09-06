@@ -15,7 +15,7 @@ rfp-section-type: [past-performance, exec-summary, qualifications]
 win-theme-map: [partner-transparency, compliance-leadership, asset-management, collection-system, innovation-value-add, community-engagement]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0005]
 status: preferred
 house-favorite: true
 sanitized: true

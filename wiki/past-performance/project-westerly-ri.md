@@ -6,7 +6,7 @@ tags: [past-performance, project-description, westerly, rhode-island, dbo, progr
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-2"
 source-pages: [77]
-verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0077.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶12", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶23", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶26"]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0077.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶7", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶10", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶11", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶12", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶23", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶24", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶25", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶26"]
 pursuit-type: [wwtp-om, solids]
 client-type: municipal
 client-size: "3.3 MGD / 9 pump stations"
@@ -14,8 +14,8 @@ geography: "Northeast / RI / RIDEM, EPA New England"
 rfp-section-type: [past-performance]
 win-theme-map: [incumbent-displacement, transition-continuity, compliance-leadership, innovation-value-add, energy-chemical-efficiency, partner-transparency]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0007]
+story-ids: [ST-0001, ST-0002, ST-0003]
 status: preferred
 house-favorite: true
 sanitized: true

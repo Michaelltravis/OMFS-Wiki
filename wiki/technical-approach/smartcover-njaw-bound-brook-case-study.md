@@ -15,7 +15,7 @@ rfp-section-type: [tech-approach, past-performance]
 win-theme-map: [collection-system, digital-tools, innovation-value-add, asset-management, compliance-leadership]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0020]
 status: preferred
 house-favorite: false
 sanitized: true

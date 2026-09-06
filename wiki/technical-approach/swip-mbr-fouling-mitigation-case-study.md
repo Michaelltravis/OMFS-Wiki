@@ -15,7 +15,7 @@ rfp-section-type: [exec-summary]
 win-theme-map: [innovation-value-add, regional-bench, compliance-leadership]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0022]
 status: preferred
 house-favorite: false
 sanitized: true

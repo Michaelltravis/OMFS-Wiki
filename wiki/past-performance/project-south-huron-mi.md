@@ -14,8 +14,8 @@ geography: "Midwest / MI / EGLE, EPA Region 5"
 rfp-section-type: [past-performance]
 win-theme-map: [workforce-development, transition-continuity, asset-management, energy-chemical-efficiency, digital-tools, innovation-value-add]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0008]
+story-ids: [ST-0010, ST-0011]
 status: preferred
 house-favorite: false
 sanitized: true

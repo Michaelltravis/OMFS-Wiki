@@ -1,13 +1,30 @@
 ---
 title: Cross-Training for Resiliency and Intern Program Support
 category: management-staffing
-tags: [cross-training, workforce-resiliency, intern-program, awto-certification, staff-development, employer-brand]
+block-type: prose
+tags: [cross-training, workforce-resiliency, intern-program, awto-certification, staff-development, employer-brand, regional-bench]
 source: santamonica-swip-om-2025
-source-section: "3.1 Staffing Plan — Cross-Training for Resiliency / Supporting the City's Intern Program (p. 80)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.1 Staffing Plan - Cross-Training for Resiliency / Supporting the City's Intern Program"
+source-pages: [80]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0080.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0080.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0080.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0080.md#¶12"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment facility (AWTF) for groundwater replenishment; municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water - Title 22 & GRRP"
+rfp-section-type: [staffing]
+win-theme-map: [workforce-development, regional-bench, transition-continuity, community-engagement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: "A short, well-packaged close to the staffing-plan section that ties cross-training directly to the org chart, backs it with a named third-party 'Best Companies to Work For' proof point, and pivots into a client-facing intern-program commitment — a good universal pattern for closing out any staffing-plan subsection on a resiliency/culture note before the resumes begin."
-reuse-notes: "Client name/city genericized to [CLIENT]. The 'nearby operations' examples (West Basin, Soquel Creek) are real Jacobs project references and are kept verbatim as legitimate cross-project proof points, not client-identifying information. The Fortune/Business Insider '50 Best Companies to Work For in America' recognition is a real, dated corporate proof point — reconfirm current standing before reuse, as such rankings are awarded annually and may lapse or update."
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: "A short, well-packaged close to the staffing-plan section that ties cross-training directly to the org chart, backs it with a named third-party 'Best Companies to Work For' proof point, and pivots into a client-facing intern-program commitment - a good universal pattern for closing out any staffing-plan subsection on a resiliency/culture note before the resumes begin."
+reuse-notes: "Client name/city generalized to [CLIENT]. The 'nearby operations' examples (West Basin, Soquel Creek) are real Jacobs project references kept verbatim as legitimate cross-project proof points, not client-identifying information. The Fortune/Business Insider '50 Best Companies to Work For in America' recognition is a real corporate proof point - reconfirm current standing before reuse, as such rankings are awarded annually. Only include the intern-program paragraph where the target client actually runs an intern program."
 ---
 
 # Cross-Training for Resiliency and Intern Program Support

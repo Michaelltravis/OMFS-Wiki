@@ -6,7 +6,7 @@ tags: [collection-system, sso-prevention, real-time-monitoring, hydrogen-sulfide
 source: hull-wwtf-om-2026
 source-section: "Section 7, Appendix E - SmartCover Information"
 source-pages: [88, 89, 90, 91]
-verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0089.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0089.md#¶11", "verbatim/hull-wwtf-om-2026/pages/p0090.md#¶1", "verbatim/hull-wwtf-om-2026/pages/p0091.md#¶1"]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0088.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0089.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0089.md#¶11", "verbatim/hull-wwtf-om-2026/pages/p0090.md#¶1", "verbatim/hull-wwtf-om-2026/pages/p0091.md#¶1"]
 pursuit-type: [collections, wwtp-om, stormwater]
 client-type: municipal
 client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
@@ -14,7 +14,7 @@ geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach]
 win-theme-map: [collection-system, digital-tools, innovation-value-add, asset-management, odor-control, safety-culture]
 proof-point-ids: []
-testimonial-ids: []
+testimonial-ids: [TM-0011, TM-0012, TM-0013]
 story-ids: []
 status: preferred
 house-favorite: false

@@ -14,8 +14,8 @@ geography: "Southern California / CA / Los Angeles RWQCB, SWRCB Division of Drin
 rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, partner-transparency, regional-bench, energy-chemical-efficiency]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0002, TM-0010]
+story-ids: [ST-0012]
 status: preferred
 house-favorite: true
 sanitized: true

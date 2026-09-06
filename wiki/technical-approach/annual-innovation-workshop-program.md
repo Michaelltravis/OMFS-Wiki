@@ -15,7 +15,7 @@ rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, partner-transparency, energy-chemical-efficiency, collection-system, asset-management]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0012]
 status: preferred
 house-favorite: true
 sanitized: true

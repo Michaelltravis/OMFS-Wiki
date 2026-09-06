@@ -15,7 +15,7 @@ rfp-section-type: [past-performance, transition, exec-summary]
 win-theme-map: [incumbent-displacement, transition-continuity, odor-control, innovation-value-add, digital-tools, community-engagement]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0009]
 status: preferred
 house-favorite: false
 sanitized: true

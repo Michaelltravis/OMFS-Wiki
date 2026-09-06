@@ -6,16 +6,16 @@ tags: [clovis, mbr, membrane-bioreactor, title-22, scalping-plant, biosolids, aw
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Clovis WWTP/WRF O&M (pp. PD-1–PD-2)"
 source-pages: [22, 23]
-verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0022.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶11", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶8"]
-pursuit-type: [wwtp-om, reuse-dpr, water-treatment]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0022.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶11", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0023.md#¶9"]
+pursuit-type: [wwtp-om, reuse-dpr, water-treatment, solids]
 client-type: municipal
 client-size: "2.8 MGD max monthly average / Title 22 scalping plant"
 geography: "West / CA / SWRCB Title 22, NPDES"
 rfp-section-type: [past-performance]
 win-theme-map: [compliance-leadership, innovation-value-add, asset-management, regional-bench]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0014]
+story-ids: [ST-0016]
 status: preferred
 house-favorite: false
 sanitized: true

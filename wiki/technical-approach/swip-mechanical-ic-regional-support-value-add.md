@@ -31,7 +31,7 @@ reuse-notes: The 800-hour commitment and the one-day-a-week I&C cadence are scop
 
 ## Mechanical and I&C Support at Other Client Facilities
 
-[Firm] regional maintenance experts can bring significant value to [CLIENT]'s other facilities as our team will already be familiar with the overall challenges and opportunities for improvement. We will utilize our local regional I&C and maintenance support to keep costs low and have budgeted 800 hours for this support. In addition to the extra one-day-a-week I&C support, [CLIENT] also has access to our full IT/OT teams for additional horsepower should they need it. **We've provided a year one value of $78,144 for the Mechanical and I&C Support at Other City Facilities on Schedule B of the pricing form.**
+[Firm] regional maintenance experts can bring significant value to [CLIENT]'s other facilities as our team will already be familiar with the overall challenges and opportunities for improvement. We will utilize our local regional I&C and maintenance support to keep costs low and have budgeted 800 hours for this support. In addition to the extra one-day-a-week I&C support, [CLIENT] also has access to our full IT/OT teams for additional horsepower should they need it. **We've provided a year one value of $78,144 for the Mechanical and I&C Support at Other [CLIENT] Facilities on Schedule B of the pricing form.**
 
 ## Reuse guidance
 

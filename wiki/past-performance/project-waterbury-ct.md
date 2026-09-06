@@ -14,8 +14,8 @@ geography: "Northeast / CT / CTDEEP, EPA Region 1"
 rfp-section-type: [past-performance]
 win-theme-map: [partner-transparency, compliance-leadership, asset-management, collection-system, innovation-value-add, community-engagement]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0006]
+story-ids: [ST-0005]
 status: preferred
 house-favorite: true
 sanitized: true

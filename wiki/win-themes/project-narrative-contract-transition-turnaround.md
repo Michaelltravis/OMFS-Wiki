@@ -15,7 +15,7 @@ rfp-section-type: [past-performance, exec-summary, transition]
 win-theme-map: [incumbent-displacement, transition-continuity, compliance-leadership, innovation-value-add, energy-chemical-efficiency, partner-transparency]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0001, ST-0002, ST-0003]
 status: preferred
 house-favorite: true
 sanitized: true

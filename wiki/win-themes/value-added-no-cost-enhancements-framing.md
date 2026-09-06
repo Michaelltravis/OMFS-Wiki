@@ -15,7 +15,7 @@ rfp-section-type: [exec-summary]
 win-theme-map: [innovation-value-add, odor-control, digital-tools, collection-system, regional-bench, energy-chemical-efficiency]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0020]
 status: preferred
 house-favorite: true
 sanitized: true

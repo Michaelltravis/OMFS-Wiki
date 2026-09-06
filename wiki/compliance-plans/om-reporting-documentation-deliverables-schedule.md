@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: comprehensive, well-organized deliverables checklist spanning ongoing/monthly/annual/one-time/event-driven cadences — directly usable as an O&M plan appendix skeleton
-reuse-notes: replace the bracketed state environmental agency with the target facility's actual regulator; confirm every window (24-hour, 4-hour, 5-day, 60-day, 90/120-day, 5-year diffuser cycle) against the pursuit's own NPDES permit and contract before reuse
+reuse-notes: swap MassDEP for the target facility's actual state regulator (the regulator is named verbatim here, not generalized — only the client name is); confirm every window (24-hour, 4-hour, 5-day, 60-day, 90/120-day, 5-year diffuser cycle) against the pursuit's own NPDES permit and contract before reuse
 ---
 
 # O&M Reporting and Documentation Deliverables Schedule
@@ -83,7 +83,7 @@ We have identified the required documentation and will develop, finalize, and im
 - Issue public notice within 24 hours of unauthorized discharges, as required
 - Notify downstream water systems within 4 hours of qualifying emergency conditions, with written follow-up within 5 days
 - Perform effluent diffuser inspection and video survey every 5 years (first within 12 months of permit authorization)
-- Submit diffuser inspection report to EPA and [STATE ENVIRONMENTAL AGENCY] within 60 days of each inspection
+- Submit diffuser inspection report to EPA and MassDEP within 60 days of each inspection
 
 ## Reuse guidance
 

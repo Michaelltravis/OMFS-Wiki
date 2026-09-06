@@ -6,7 +6,7 @@ tags: [technical-support, regional-bench, subject-matter-experts, staffing-model
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [21, 22, 23]
-verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0021.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶1", "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶13"]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0021.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶3-62", "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶1-13", "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶13"]
 pursuit-type: [wwtp-om, collections]
 client-type: municipal
 client-size: "3.07 MGD / 42 mi collection system"

@@ -6,7 +6,7 @@ tags: [training-program, certification-incentives, awto, cmrt, crl, operator-dev
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Training and Certification Program for O&M Personnel (Exhibits 2-13, 2-14, 2-15)"
 source-pages: [40, 41, 42, 43]
-verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0041.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0042.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶24"]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0040.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0040.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0040.md#¶11", "verbatim/santamonica-swip-om-2025/pages/p0040.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0041.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0042.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶24"]
 pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
 client-type: municipal
 client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"

@@ -6,7 +6,7 @@ tags: [west-basin, edward-c-little, water-reuse, membrane-treatment, largest-reu
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Edward C. Little Water Recycling Facility O&M (pp. PD-7–PD-8)"
 source-pages: [28, 29]
-verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0028.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0028.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0028.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0028.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶8"]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0028.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0028.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0028.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0028.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶9"]
 pursuit-type: [reuse-dpr, water-treatment, multi-facility]
 client-type: authority
 client-size: "40 MGD max monthly average / nine treatment trains / five product-water grades / four satellite facilities / nearly 600 connections"
@@ -14,8 +14,8 @@ geography: "West / CA / SWRCB Title 22, seawater intrusion barrier and groundwat
 rfp-section-type: [past-performance]
 win-theme-map: [incumbent-displacement, transition-continuity, regional-bench, digital-tools, asset-management]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0017]
+story-ids: [ST-0013]
 status: preferred
 house-favorite: true
 sanitized: true

@@ -1,0 +1,159 @@
+[
+  {
+    "path": "wiki/compliance-plans/swip-emergency-response-regional-resources.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0018"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/swip-transition-plan-overview-and-track-record.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0020",
+        "TM-0021"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0004",
+        "TM-0005"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/clovis-wwtp-wrf-om.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0014"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/edward-c-little-water-recycling-facility-om.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0017"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-south-huron-mi.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0008"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-southbridge-ma.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0008"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-traverse-city-mi.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0009"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-waterbury-ct.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0006"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-westerly-ri.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0007"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/soquel-creek-advanced-water-purification-om.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0015"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/turlock-zero-liquid-discharge-facility-om.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0016"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/collection-system-om-program.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0003"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0010"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0011",
+        "TM-0012",
+        "TM-0013"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0002",
+        "TM-0010"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/swip-scada-ic-cybersecurity-approach.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0019"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/cover-letter-transition-commitment-and-partnership-close.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0001"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-annual-innovation-workshop-partnership-narrative.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0002"
+      ]
+    }
+  }
+]

@@ -14,8 +14,8 @@ geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [tech-approach]
 win-theme-map: [collection-system, odor-control, asset-management, digital-tools, incumbent-displacement]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0003]
+story-ids: [ST-0014, ST-0020]
 status: preferred
 house-favorite: true
 sanitized: true

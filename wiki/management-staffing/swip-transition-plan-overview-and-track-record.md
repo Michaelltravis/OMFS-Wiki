@@ -14,7 +14,7 @@ geography: "Southern California / CA / SWRCB Division of Drinking Water + Los An
 rfp-section-type: [transition]
 win-theme-map: [transition-continuity, incumbent-displacement, partner-transparency, workforce-development]
 proof-point-ids: []
-testimonial-ids: []
+testimonial-ids: [TM-0020, TM-0021]
 story-ids: []
 status: preferred
 house-favorite: false
@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A tight opening framing for a transition-plan section (understanding + plan + dedicated team + local-team support) paired with two currently-quotable client testimonials that directly address transition risk — exactly the concern an evaluator has when a contract is changing operators.
-reuse-notes: Client name generalized to [CLIENT] per wiki sanitization rules. The two testimonials (Frank Dick, P.E., City of Vancouver – Public Works; Vincent R. Carroccia, Deputy Commissioner, Department of Public Works, City of Wilmington, DE) are real, named reference contacts with phone numbers, kept verbatim per instruction to preserve staff/contact details — reconfirm both individuals are still in role and still willing to be quoted before reusing in a new proposal. If the new pursuit's prior operator is not Veolia, generalize the "previously operated by Veolia" framing to the actual incumbent.
+reuse-notes: Client name generalized to [CLIENT] per wiki sanitization rules. The two testimonials (Frank Dick, P.E., City of Vancouver – Public Works; Vincent R. Carroccia, Deputy Commissioner, Department of Public Works, City of Wilmington, DE) are real, named reference contacts with phone numbers, kept verbatim per instruction to preserve staff/contact details — reconfirm both individuals are still in role and still willing to be quoted before reusing in a new proposal. The Vancouver quotation runs off the end of the callout in the source page's text layer and is reproduced here exactly as far as the verbatim layer carries it, with an ellipsis marking the truncation — pull the closing clause from the source PDF callout before publishing it. If the new pursuit's prior operator is not Veolia, generalize the "previously operated by Veolia" framing to the actual incumbent.
 ---
 
 # Seamless Transition: Commitment to a Smooth Transition and Proven Track Record
@@ -39,7 +39,7 @@ Our transition plan reflects a highly organized process that builds on Jacobs' p
 
 Jacobs has transitioned several projects in recent years that were previously operated by Veolia. Two examples — the cities of Wilmington (DE) and Vancouver (WA) — included similar complexity of transitions to [CLIENT]'s facilities. City leaders at both projects have expressed appreciation for the smooth transition and improved employee satisfaction and performance.
 
-> "Jacobs took responsibility of operating and maintaining Vancouver's wastewater treatment plants in 2016. As part of the transition process Jacobs put together a comprehensive transition plan which made the process very positive, smooth and seamless for not only the City but also the existing staff that became Jacobs employees. There was a high degree of transparency which continues to this day."
+> "Jacobs took responsibility of operating and maintaining Vancouver's wastewater treatment plants in 2016. As part of the transition process Jacobs put together a comprehensive transition plan which made the process very positive, smooth and seamless for not only the City but also the existing staff that became Jacobs employees. There was a high degree of transparency…"
 >
 > — Frank Dick, P.E., Sewer and Wastewater Engineering Supervisor, City of Vancouver – Public Works | 360.487.7179
 
