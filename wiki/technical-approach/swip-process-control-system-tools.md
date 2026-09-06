@@ -1,11 +1,28 @@
 ---
 title: Companywide Process Control System (CPCS) and Supporting Operations Tool Set
 category: technical-approach
+block-type: prose
 tags: [process-control, cpcs, upcp, sampling-plan, sample-tracking-tool, lims, hach-wims, sop, operator-rounds, peak-flow-testing, exhibit]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Process Control, Exhibit 2-10 (pp. 35-36)"
-context: Southern California sustainable water infrastructure O&M, 2025 — advanced water treatment facility with MBR/RO/UV-AOP train
+source-section: "2.4 Firm Approach — Process Control, Exhibit 2-10"
+source-pages: [35, 36]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0035.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0035.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0036.md#¶1"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "1.0 MGD advanced water treatment facility (screening/MBR → CF → RO → UV-AOP)"
+geography: "Southern California / CA / SWRCB Division of Drinking Water + LA RWQCB (Title 22 GRRP, WDRs)"
+rfp-section-type: [tech-approach]
+win-theme-map: [compliance-leadership, partner-transparency, digital-tools, regional-bench, asset-management]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement — advanced water treatment facility with MBR/RO/UV-AOP train
 quality: Names a proprietary companywide framework (CPCS) and pairs it with six concrete, named tools (UPCPs, Sampling Plan, Sample Tracking Tool, Data Management/LIMS/HachWIMS, SOPs, Operator Round Sheets, Peak Flow Tests) each with an explicit client benefit statement — a strong template for demonstrating "not just a philosophy, an actual tool stack."
 reuse-notes: The CPCS name, all six tool descriptions, and their benefit framing are fully generic and reusable across any water/wastewater O&M pursuit. The peak-flow-test cadence (monthly, one-hour at design peak) is specific to membrane-train facilities; adapt for non-membrane process trains.
 ---

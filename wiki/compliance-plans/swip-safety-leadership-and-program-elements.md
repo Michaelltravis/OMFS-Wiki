@@ -1,13 +1,30 @@
 ---
 title: Safety Leadership Engagement, OSHA Audit Record, and Key Safety Program Elements
 category: compliance-plans
-tags: [safety-leadership, osha, digital-safety-program, safety-scorecard, h-and-s-work-control-plan, activity-hazard-analysis, pre-task-plans, subcontractor-safety]
+block-type: prose
+tags: [safety-leadership, osha, digital-safety-program, safety-scorecard, h-and-s-work-control-plan, activity-hazard-analysis, pre-task-plans, subcontractor-safety, ppe]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Leadership Engagement and Accountability / Key Elements of Our Safety Program and Planning (pp. 50)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach B - Safety Plan and Management: Leadership Engagement and Accountability; Key Elements of Our Safety Program and Planning"
+source-pages: [50]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0050.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0050.md#¶1", "verbatim/santamonica-swip-om-2025/pages/p0050.md#¶7"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, stormwater]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach, compliance]
+win-theme-map: [safety-culture, compliance-leadership, partner-transparency, digital-tools]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: Concrete leadership-accountability structure paired with a named-role safety program and a real five-year OSHA citation disclosure, showing transparency and a digital safety-management approach.
-reuse-notes: Named leaders (Paul Rheault, Bobby Hammond, Mack Mckenzie, Howard Brewen, Chris Catlin, Trey Kane) are kept verbatim per wiki policy (staff names/titles are reuse content, not client identifiers) — replace with the pursuing team's actual assigned leaders and region for a new pursuit. The OSHA citation summary must be regenerated with the firm's current five-year record for the specific pursuit — do not reuse stale citation dates/locations.
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Concrete leadership-accountability structure with named executives, paired with a seven-element safety program table and a real five-year OSHA citation disclosure, showing transparency and a digital, tablet-based safety-management approach.
+reuse-notes: Named leaders (Paul Rheault, Bobby Hammond, Mack Mckenzie, Howard Brewen, Chris Catlin, Trey Kane) are kept verbatim per wiki policy (staff names and titles are reuse content, not client identifiers) - replace with the pursuing team's actual assigned leaders and region. Regenerate the OSHA citation summary from the firm's current five-year record; the citation dates and the Seattle PSM facility example are point-in-time facts.
 ---
 
 # Safety Leadership Engagement, OSHA Audit Record, and Key Safety Program Elements

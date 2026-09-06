@@ -1,8 +1,18 @@
 [
   {
-    "claim": "Client permits the operator will maintain performance under include State Board Orders R4-2021-0044 and R4-2023-0366",
-    "number": "2",
-    "unit": "State Board Orders (R4-2021-0044, R4-2023-0366)",
+    "claim": "Jacobs will maintain performance under the client's permits, including State Water Resources Control Board Order R4-2021-0044",
+    "number": "R4-2021-0044",
+    "unit": "permit order number",
+    "as_of": "2025",
+    "page": 4,
+    "para": 9,
+    "block": "wiki/win-themes/swip-transmittal-letter-opening-and-closing.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs will maintain performance under the client's permits, including State Water Resources Control Board Order R4-2023-0366",
+    "number": "R4-2023-0366",
+    "unit": "permit order number",
     "as_of": "2025",
     "page": 4,
     "para": 9,
@@ -12,22 +22,22 @@
   {
     "claim": "Designated Chief Plant Operator Mack McKenzie holds a Wastewater Grade V certification and AWT3, progressing to AWT5",
     "number": "V",
-    "unit": "WW operator grade (plus AWT3 progressing to AWT5)",
+    "unit": "WW grade (certification level)",
     "as_of": "2025",
     "page": 4,
     "para": 12,
     "block": "wiki/win-themes/swip-transmittal-letter-value-bullets.md",
-    "category": "other"
+    "category": "compliance"
   },
   {
     "claim": "Director of Operations Howard Brewen holds a Wastewater Grade V certification",
     "number": "V",
-    "unit": "WW operator grade",
+    "unit": "WW grade (certification level)",
     "as_of": "2025",
     "page": 4,
     "para": 12,
     "block": "wiki/win-themes/swip-transmittal-letter-value-bullets.md",
-    "category": "other"
+    "category": "compliance"
   },
   {
     "claim": "Manager of Operations Chris Catlin holds AWT5 and T3 certifications",
@@ -37,12 +47,12 @@
     "page": 4,
     "para": 12,
     "block": "wiki/win-themes/swip-transmittal-letter-value-bullets.md",
-    "category": "other"
+    "category": "compliance"
   },
   {
-    "claim": "Jacobs will provide continuous around-the-clock staffing at the advanced water treatment facilities",
+    "claim": "Jacobs will provide around-the-clock staffing at the advanced water treatment facilities",
     "number": "24/7",
-    "unit": "staffing coverage",
+    "unit": "hours per day / days per week",
     "as_of": "2025",
     "page": 4,
     "para": 12,
@@ -50,9 +60,9 @@
     "category": "scale"
   },
   {
-    "claim": "Jacobs will staff the facilities with a core on-site team plus immediate local surge capacity, all cross-trained across the facilities",
+    "claim": "Jacobs will staff the facilities with a core team, cross-trained across the facilities, plus immediate local surge capacity",
     "number": "6",
-    "unit": "person core team",
+    "unit": "core team members",
     "as_of": "2025",
     "page": 4,
     "para": 12,
@@ -70,22 +80,12 @@
     "category": "scale"
   },
   {
-    "claim": "Jacobs is currently supporting DPR planning and execution for Pure Water Los Angeles and Valley Water",
-    "number": "2",
-    "unit": "active DPR programs supported",
-    "as_of": "2025",
-    "page": 4,
-    "para": 13,
-    "block": "wiki/win-themes/swip-transmittal-letter-value-bullets.md",
-    "category": "other"
-  },
-  {
-    "claim": "Jacobs subject matter experts serve as WateReuse DPR Working Group leaders and project engineers for Pure Water Los Angeles, Pure Water Southern California, and Valley Water",
+    "claim": "Jacobs operates facilities comparable to the client's, with experience spanning every unit process from MBR to RO to UV-AOP",
     "number": "3",
-    "unit": "California DPR programs staffed by Jacobs project engineers",
+    "unit": "core unit processes named (MBR, RO, UV-AOP)",
     "as_of": "2025",
     "page": 4,
-    "para": 15,
+    "para": 14,
     "block": "wiki/win-themes/swip-transmittal-letter-value-bullets.md",
     "category": "other"
   },
@@ -100,23 +100,33 @@
     "category": "schedule"
   },
   {
-    "claim": "Jacobs will issue compliance and performance reports covering CCP and LRV tracking, work order status, chemical and energy KPIs, and injection well health indicators",
-    "number": "monthly",
-    "unit": "reporting cadence",
-    "as_of": "2025",
-    "page": 5,
-    "para": 2,
-    "block": "wiki/win-themes/swip-transmittal-letter-value-bullets.md",
-    "category": "compliance"
-  },
-  {
-    "claim": "Jacobs confirms review of all documents and addenda posted for the solicitation and acknowledges receipt of Addendum No. 1 dated July 28, 2025, Addendum No. 2 dated August 21, 2025, and Addendum No. 3 dated August 25, 2025",
-    "number": "3",
-    "unit": "addenda acknowledged",
-    "as_of": "2025-08-25",
+    "claim": "Jacobs acknowledges receipt of Addendum No. 1",
+    "number": "1",
+    "unit": "addendum, dated July 28, 2025",
+    "as_of": "2025-07-28",
     "page": 5,
     "para": 16,
     "block": "wiki/win-themes/swip-transmittal-letter-opening-and-closing.md",
-    "category": "compliance"
+    "category": "schedule"
+  },
+  {
+    "claim": "Jacobs acknowledges receipt of Addendum No. 2",
+    "number": "2",
+    "unit": "addendum, dated August 21, 2025",
+    "as_of": "2025-08-21",
+    "page": 5,
+    "para": 17,
+    "block": "wiki/win-themes/swip-transmittal-letter-opening-and-closing.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Jacobs acknowledges receipt of Addendum No. 3",
+    "number": "3",
+    "unit": "addendum, dated August 25, 2025",
+    "as_of": "2025-08-25",
+    "page": 5,
+    "para": 18,
+    "block": "wiki/win-themes/swip-transmittal-letter-opening-and-closing.md",
+    "category": "schedule"
   }
 ]

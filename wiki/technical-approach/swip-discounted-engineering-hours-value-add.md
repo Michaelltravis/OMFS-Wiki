@@ -1,36 +1,55 @@
 ---
-title: Discounted Engineering Hours as a No-Cost Value-Add
+title: Discounted Engineering Hours Value-Add and Suggested-Modifications Opener
 category: technical-approach
+block-type: prose
 tags: [discounted-engineering, value-add, process-optimization, sme-bench, no-cost-enhancement, water-reuse, suggested-scope-modifications]
 source: santamonica-swip-om-2025
-source-section: "Section 4: Suggested Modifications to the Scope of Work (pp. 104-105)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "Section 4: Suggested Modifications to the Scope of Work — Discounted Engineering Services"
+source-pages: [104, 105]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0104.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0104.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0104.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0104.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0105.md#¶2"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Underground AWTF (MBR/RO/UV-AOP) plus urban runoff recycling facility, stormwater assets, and 2 injection wells; five-year contract"
+geography: "Southern California / CA / SWRCB Division of Drinking Water — Title 22 GRRP"
+rfp-section-type: [exec-summary]
+win-theme-map: [innovation-value-add, partner-transparency, regional-bench]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: concrete "more than an operator" framing tied to a defined discounted-hours bank, with named example use cases (leech management, chemical quality-control studies) that show SME bench depth rather than generic marketing language
-reuse-notes: the framing paragraph at the top is reusable as a general opener for any "Suggested Modifications to the Scope of Work" section; the discount multiplier is bracketed as commercial pricing per established policy. CORRECTED on audit pass: the source's associated dollar value for this line was expressed explicitly as a figure "on Schedule B of the pricing form" (the commercial cost-proposal schedule) — that makes it a fee-table/cost-proposal figure under CLAUDE.md's sanitization rule 2, not an outcome/savings figure, regardless of the "provided at no cost" framing around it. It has been redacted here rather than merely flagged; if a comparable figure is needed for a new pursuit's technical volume, reprice it fresh with the pursuit team rather than reusing the source number.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Concrete "more than an operator" framing tied to a defined discounted-hours bank, with named example study topics (leech management, chlorate/chemical quality control) that show SME bench depth instead of generic marketing language. Also carries the reusable opening paragraph for an entire suggested-modifications section.
+reuse-notes: The opening paragraph is reusable as a general opener for any "Suggested Modifications to the Scope of Work" section — swap in the target client's stated drivers. The 2.3 multiplier and the $250,000 Schedule B value are this pursuit's commercial position; confirm both with the commercial lead and reprice before they appear in a new proposal. The two example study topics are specific to an MBR/advanced-treatment context — substitute study topics matched to the target facility's known operational challenges.
 ---
 
-# Discounted Engineering Hours as a No-Cost Value-Add
+# Discounted Engineering Hours Value-Add and Suggested-Modifications Opener
 
-**Suggested-modifications section opener (reusable framing):** [Firm] provides comprehensive, integrated solutions that go beyond routine operations, saving time and reducing costs while aligning fully with [CLIENT]'s goals for resilience, reliability, and sustainability. Drawing from a deep bench of subject matter experts (SMEs), [Firm] proposes the following modifications to the scope of work. These suggestions reflect an understanding of the client's vision for [FACILITY] as both a water infrastructure asset today and a platform for future innovation (e.g., potable reuse).
+## Section opener — Suggested Modifications
+
+*[Firm]* provides comprehensive, integrated solutions that go beyond routine operations, saving time and reducing costs while aligning fully with [CLIENT]'s goals for resilience, reliability, and sustainability. Drawing from our deep bench of subject matter experts, [Firm] proposes the following modifications to the Scope of Work. These suggestions reflect our understanding of [CLIENT]'s vision for [FACILITY] as both a water supply asset today and a platform for future potable reuse innovation.
 
 ## Discounted Engineering Services
 
-[Firm] is proud of its "more than an operator" DNA, and is eager to engage its entire team to help [CLIENT] with various tasks related to [FACILITY]. [Firm] offers the client 1,000 hours of discounted engineering at a [X] multiplier each year of the partnership, with specific tasks to be discussed and agreed with the client. Potential tasks include the following.
+We are proud of our "more than an operator" DNA, and are eager to engage our entire team to help [CLIENT] with various tasks related to [FACILITY]. We are offering [CLIENT] 1,000 hours of discounted engineering at a 2.3 multiplier each year of our partnership. We've got some great ideas of how we can work together, and we look forward to discussing this more with [CLIENT]. Some of these potential tasks could include the following.
 
 ### Process and Engineering Support
 
-[Firm] has a deep bench of process experts in wastewater, drinking water, and potable reuse, familiar with the unit processes and chemical systems at [FACILITY]. The on-site O&M team reaches out to these SMEs on an as-needed basis to troubleshoot operational challenges.
+[Firm] has a deep bench of process experts in wastewater, drinking water, and potable reuse, and familiar with the unit processes and chemical systems at [FACILITY]. Our O&M team will reach out to them on an as-needed basis to troubleshoot challenges with operations.
 
-If challenges go beyond simple troubleshooting, additional evaluation can support process optimization. The same SMEs can develop plans to further evaluate processes — such as the issue of cartridge filter replacement frequency and its potential correlation with STT (specific plant parameter — confirm definition with the pursuit team before reuse) — diving into the issue, requesting additional data, summarizing findings, and providing recommendations for operational adjustments. Potential additional studies include:
+If challenges go beyond simple troubleshooting, additional evaluation can support process optimization. The same SMEs can develop plans to further evaluate processes, such as the issue of cartridge filter replacement and the potential correlation with STT. Our team can dive into the issue, request additional data, summarize findings, and provide recommendations for operational adjustments. Some potential additional studies include the following:
 
-- Leech (parasitic worm) management
-- Chlorate and other water-quality control issues related to chemical supply, storage, and handling
+- Leech management
+- Chlorate and other quality control issues related to chemical supply, storage and handling
 
-Depending on the study topic, the scope is adjusted to fit within the discounted engineering services budget.
+Depending on the study topic, the scope will be adjusted to accommodate the budget within discounted engineering services.
 
-**[Commercial figure redacted]:** The source pursuit assigned a specific dollar value to this hours bank, stated explicitly as appearing "on Schedule B of the pricing form" (the commercial cost-proposal schedule). Per CLAUDE.md's sanitization rule (commercial pricing from fee tables/cost proposals is removed, regardless of "no cost to you" framing), that figure has been redacted here rather than restated. If a new pursuit needs an illustrative value for this offering, price it fresh with the pursuit team and keep it in the commercial volume rather than the technical narrative.
+**We've provided a value of $250,000 for discounted engineering on Schedule B of the pricing form.**
 
 ## Reuse guidance
 
-The opening framing paragraph is a strong, generic way to introduce any "Suggested Modifications to the Scope of Work" section — swap in the client's stated drivers (resilience, reliability, sustainability, innovation platform, etc.) to match the target RFP's stated goals. The discounted-hours mechanic (a defined annual hours bank at a discounted internal cost multiplier) is a reusable value-add structure — the specific multiplier is true commercial/rate pricing and must be repriced fresh per pursuit (bracketed here per the same policy applied to the Hull pursuit's discounted-engineering-rate figure; see `value-added-innovations-menu-om-contracts.md`). The two example study topics (leech management, chemical quality control) are pursuit-specific to a membrane bioreactor (MBR)/advanced treatment context — swap in study topics relevant to the target facility's actual known operational challenges rather than reusing these verbatim. Pair with `swip-mbr-fouling-mitigation-case-study.md` (the leech/biofouling case study referenced as supporting evidence) and `value-added-innovations-menu-om-contracts.md` (parallel no-added-cost value-add framing from a different pursuit).
+The opening paragraph is a strong, generic way to introduce any "Suggested Modifications to the Scope of Work" section — swap in the client's stated drivers (resilience, reliability, sustainability, innovation platform) to match the target RFP's language, and name the client's own future ambition for the facility so the modifications read as service to their vision rather than upselling. The discounted-hours mechanic (a defined annual hours bank at a reduced internal cost multiplier, with tasks co-selected with the client) is a reusable value-add structure. The 2.3 multiplier is rate information and the $250,000 Schedule B value is this pursuit's commercial position — both must be confirmed with the commercial lead and repriced for a new pursuit before they appear in text. The two example study topics (leech management, chlorate and chemical supply/storage/handling quality control) are pursuit-specific to a membrane bioreactor and advanced treatment context — substitute topics drawn from the target facility's actual known operational challenges. Pairs with [swip-mbr-fouling-mitigation-case-study.md](swip-mbr-fouling-mitigation-case-study.md) (the leech/biofouling case study printed as a sidebar beside this passage), [swip-dpr-readiness-expert-bench-and-monitoring.md](swip-dpr-readiness-expert-bench-and-monitoring.md) (the named SME bench that staffs these hours), and [../win-themes/swip-value-added-offerings-package.md](../win-themes/swip-value-added-offerings-package.md) (the executive-summary version of the same offering). Full passage: verbatim/santamonica-swip-om-2025/pages/p0104.md ¶4–¶14 and p0105.md ¶2.

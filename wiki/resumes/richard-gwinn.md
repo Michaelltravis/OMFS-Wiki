@@ -1,13 +1,30 @@
 ---
-title: Richard Gwinn — Maintenance Technician
+title: Richard Gwinn - Maintenance Technician
 category: resumes
-tags: [maintenance-technician, cmms, predictive-maintenance, plc-troubleshooting, autocad, regional-maintenance, facility-management, non-water-experience]
+block-type: prose
+tags: [maintenance-technician, cmms, predictive-maintenance, plc-troubleshooting, autocad, regional-maintenance, facility-management, non-water-experience, key-personnel]
 source: santamonica-swip-om-2025
-source-section: "3.2 Resumes — Richard Gwinn (p. 93-94)"
-context: Southern California sustainable water infrastructure O&M, 2025
-sanitized: false
-quality: 30+ year facility maintenance veteran with deep CMMS breadth (Maximo, Infor EAM, Maintenance Connection) and a distinctive non-water background (Disney theme park ride-control systems, international task force) that demonstrates transferable high-reliability maintenance discipline.
-reuse-notes: Verbatim — resumes are not sanitized per CLAUDE.md. Useful for maintenance-management sections needing CMMS depth and predictive-maintenance program experience; note his water/wastewater-specific tenure (Jacobs, 1 year) is comparatively short relative to his total facility-maintenance experience.
+source-section: "3.2 Resumes - Richard Gwinn (pp. 93-94)"
+source-pages: [93, 94]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0093.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0093.md#¶12"]
+pursuit-type: [wwtp-om, water-treatment, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment facility (AWTF) for groundwater replenishment; municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water - Title 22 & GRRP"
+rfp-section-type: [resume]
+win-theme-map: [asset-management, safety-culture, digital-tools, regional-bench]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: "30+ year facility maintenance veteran with deep CMMS breadth (Maximo, Infor EAM, Maintenance Connection; 20+ years of CMMS experience) and a distinctive non-water background (theme-park ride-control systems, international task force) that demonstrates transferable high-reliability maintenance discipline."
+reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Useful for maintenance-management sections needing CMMS depth and predictive-maintenance program experience; his water/wastewater-specific tenure (Jacobs, 1 year) is comparatively short relative to his total facility-maintenance experience, so pair him with a water-sector-tenured colleague where the RFP weights direct water years heavily."
 ---
 
 # Richard Gwinn

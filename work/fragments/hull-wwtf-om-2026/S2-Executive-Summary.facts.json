@@ -1,0 +1,222 @@
+[
+  {
+    "claim": "Year-round residents served by the town's wastewater system",
+    "number": "10000",
+    "unit": "residents",
+    "as_of": "2026",
+    "page": 5,
+    "para": 6,
+    "block": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Additional seasonal residents served by the town's wastewater system",
+    "number": "5000",
+    "unit": "seasonal residents",
+    "as_of": "2026",
+    "page": 5,
+    "para": 6,
+    "block": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Rated capacity of the wastewater treatment facility",
+    "number": "3.07",
+    "unit": "MGD",
+    "as_of": "2026",
+    "page": 5,
+    "para": 6,
+    "block": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Pump stations in the collection system",
+    "number": "7",
+    "unit": "pump stations",
+    "as_of": "2026",
+    "page": 5,
+    "para": 6,
+    "block": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Stormwater pumping station in the system",
+    "number": "1",
+    "unit": "stormwater pumping station",
+    "as_of": "2026",
+    "page": 5,
+    "para": 6,
+    "block": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Gravity sewer in the collection system",
+    "number": "42",
+    "unit": "miles",
+    "as_of": "2026",
+    "page": 5,
+    "para": 6,
+    "block": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs' O&M experience backing the value proposition",
+    "number": "45+",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 5,
+    "para": 8,
+    "block": "wiki/win-themes/value-proposition-table-approach-impact-value.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Facilities nationwide in the Jacobs O&M portfolio, including water and wastewater treatment projects",
+    "number": "300+",
+    "unit": "facilities",
+    "as_of": "2026",
+    "page": 5,
+    "para": 8,
+    "block": "wiki/win-themes/value-proposition-table-approach-impact-value.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Cost savings delivered by upgrading an aging biofilter from organic media to engineered media at the Town of Westerly WWTP",
+    "number": "134000",
+    "unit": "USD (stated as 'over $134k')",
+    "as_of": "unknown",
+    "page": 7,
+    "para": 13,
+    "block": "wiki/win-themes/proof-point-examples-coastal-complex-systems.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Duration of the Annual Innovation Workshop as described by a former client system manager",
+    "number": "8",
+    "unit": "hours",
+    "as_of": "unknown",
+    "page": 7,
+    "para": 18,
+    "block": "wiki/win-themes/exec-summary-annual-innovation-workshop-partnership-narrative.md",
+    "category": "other"
+  },
+  {
+    "claim": "Total value-added investment provided at no additional cost over the contract term",
+    "number": "5000000",
+    "unit": "USD (stated as '$5 million')",
+    "as_of": "2026",
+    "page": 8,
+    "para": 7,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Contract term over which the no-additional-cost value is delivered",
+    "number": "10",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 8,
+    "para": 7,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Value of the Systemwide Odor Optimization initiative",
+    "number": "100000",
+    "unit": "USD",
+    "as_of": "2026",
+    "page": 8,
+    "para": 4,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Value of the SmartCovers and digital collections analytics initiative",
+    "number": "60000",
+    "unit": "USD",
+    "as_of": "2026",
+    "page": 8,
+    "para": 7,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Value of the regional technical support provided over the contract term",
+    "number": "4450000",
+    "unit": "USD",
+    "as_of": "2026",
+    "page": 8,
+    "para": 8,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Value of the Annual Innovation Workshop over the contract term",
+    "number": "350000",
+    "unit": "USD",
+    "as_of": "2026",
+    "page": 8,
+    "para": 9,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Value of the dedicated on-site jetter for rapid response",
+    "number": "80000",
+    "unit": "USD",
+    "as_of": "2026",
+    "page": 8,
+    "para": 10,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Discount offered on engineering rates",
+    "number": "up to 19",
+    "unit": "percent",
+    "as_of": "2026",
+    "page": 8,
+    "para": 6,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Reduction in inflow/infiltration investigation timelines using SmartCover monitoring compared to traditional methods",
+    "number": "up to 12",
+    "unit": "months",
+    "as_of": "2026",
+    "page": 8,
+    "para": 15,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Dedicated regional technical support hours provided annually",
+    "number": "2000",
+    "unit": "hours per year",
+    "as_of": "2026",
+    "page": 8,
+    "para": 19,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Discounted Jacobs engineering multiplier offered to the Town",
+    "number": "2.6",
+    "unit": "multiplier",
+    "as_of": "2026",
+    "page": 8,
+    "para": 20,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Typical industry engineering multiplier range used as the benchmark for the discounted rate",
+    "number": "3.0-3.2",
+    "unit": "multiplier range",
+    "as_of": "2026",
+    "page": 8,
+    "para": 20,
+    "block": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+    "category": "financial"
+  }
+]

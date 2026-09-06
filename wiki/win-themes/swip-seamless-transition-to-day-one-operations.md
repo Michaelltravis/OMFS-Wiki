@@ -1,34 +1,51 @@
 ---
-title: Seamless Transition to Day-One Operations — Incumbent Retention and Six-Row Mobilization Table
+title: Seamless Transition to Day-One Operations — Incumbent Retention and Six-Workstream Mobilization
 category: win-themes
-tags: [win-theme, transition-plan, mobilization, incumbent-retention, onboarding, day-one-readiness, table-framing]
+block-type: prose
+tags: [win-theme, transition-plan, mobilization, incumbent-retention, onboarding, day-one-readiness, staffing-model]
 source: santamonica-swip-om-2025
-source-section: "Executive Summary (pp. 6-14), 'Seamless Transition to Day-One Operations'"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "Executive Summary — Seamless Transition to Day-One Operations"
+source-pages: [12]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0012.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0012.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0012.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0012.md#¶10"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Underground AWTF (MBR/RO/UV-AOP) plus urban runoff recycling facility, stormwater assets, and 2 injection wells"
+geography: "Southern California / CA / SWRCB Division of Drinking Water — Title 22 GRRP"
+rfp-section-type: [exec-summary, transition]
+win-theme-map: [transition-continuity, incumbent-displacement, workforce-development, safety-culture]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: A "people first" opening statement paired with a compact six-row table that maps each transition workstream (governance, skills, OT/SCADA, CMMS/inventory, compliance/data, safety) to a one-sentence concrete deliverable — turns a transition plan into a scannable evaluator-friendly grid instead of a wall of prose
-reuse-notes: The six workstream rows are a strong universal skeleton; the specific systems named in each row (Ignition, learning management system, CMMS) must be swapped for the target contract's actual platforms, and the go-live date/month must match the real contract start
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Leads a transition narrative with people rather than schedule — an explicit invitation to qualified incumbent employees, framed as preserving hard-won site knowledge — then maps six mobilization workstreams to one concrete deliverable each, so the whole plan fits on a page an evaluator can score line by line.
+reuse-notes: The six workstream rows are a durable skeleton; swap the named platforms (Ignition v8.1, learning management system, the client's CMMS) for the target contract's actual systems and set the go-live month to the real contract start.
 ---
 
 # Seamless Transition to Day-One Operations
 
-**Opening commitment — people first.** "Jacobs will prioritize people first. We will invite qualified incumbent employees to join our team to preserve hard-won site knowledge and continuity of operations. We will coordinate with the client to communicate clearly with affected staff, align on role mapping and start dates, and fast-track onboarding so operators, maintenance, and I&C personnel can remain focused on safe, compliant performance throughout the handoff."
+Jacobs will prioritize people first. We will **invite qualified incumbent employees to join our team to preserve hard-won site knowledge and continuity of operations**. We will coordinate with the [CLIENT] to communicate clearly with affected staff, align on role mapping and start dates, and fast-track onboarding so operators, maintenance, and I&C personnel can remain focused on safe, compliant performance throughout the handoff.
 
-**Framing sentence:** "Jacobs will deliver a frictionless transition from award to start of Operations in [target month/year]—maintaining compliance and continuity while we stand up people, systems, and processes:"
+Jacobs will deliver a frictionless transition from award to start of Operations in January 2026—maintaining compliance and continuity while we stand up people, systems, and processes:
 
-**Six-row mobilization table:**
-
-| Workstream | Deliverable |
+| Workstream | What we will do |
 |---|---|
-| Mobilize Staffing and Governance | We'll finalize the org chart and coverage plan, set daily/weekly/quarterly touchpoints, publish after-hours contacts, and confirm remote/onsite response commitments. |
-| Assess Skills and Tailor Training | We'll complete initial skills assessments for all staff and implement individualized training and certification plans with progress tracked through our learning management system. |
-| Integrate OT/SCADA and Alarms | We'll validate point lists and [SCADA platform, e.g., Ignition v8.1] callouts, enable secure remote access, and conduct monthly alarm tests. |
-| Integrate with the Client's CMMS, Inventory, and Vendor Services | We'll load asset hierarchies and PMs, baseline critical spares, and align manufacturer warranties and service agreements. |
-| Ready Compliance and Data Systems | We'll configure reporting and sampling and confirm CCP/LRV monitoring. |
-| Launch Safety and Emergency Readiness | We'll implement Safety Plan including Injury & Illness Prevention Plan, Emergency Response Plan, and seasonal preparedness. |
+| **Mobilize Staffing and Governance** | We'll finalize the org chart and coverage plan, set daily/weekly/quarterly touchpoints, publish after-hours contacts, and confirm remote/onsite response commitments. |
+| **Assess Skills and Tailor Training** | We'll complete initial skills assessments for all staff and implement individualized training and certification plans with progress tracked through our learning management system. |
+| **Integrate OT/SCADA and Alarms** | We'll validate point lists and Ignition v8.1 callouts, enable secure remote access, and conduct monthly alarm tests. |
+| **Integrate with the [CLIENT]'s CMMS, Inventory, and Vendor Services** | We'll load asset hierarchies and PMs, baseline critical spares, and align manufacture warranties and service agreements. |
+| **Ready Compliance and Data Systems** | We'll configure reporting and sampling and confirm CCP/LRV monitoring. |
+| **Launch Safety and Emergency Readiness** | We'll implement Safety Plan including Injury & Illness Prevention Plan, Emergency Response Plan, and seasonal preparedness. |
 
-**Benefits to [Client] callout:** *"A zero-disruption handoff and fully staffed, certified coverage aligned to permit and KPI reporting—so the client enters [go-live month/year] confident in safe, reliable operations and a clear accountability framework."*
+**Benefits to [CLIENT] callout:** *"A zero-disruption handoff and fully staffed, certified coverage aligned to permit and KPI reporting—so the [CLIENT] enters January 2026 confident in safe, reliable operations and a clear accountability framework."*
 
 ## Reuse guidance
 
-Universal: the "people first" opening line and its three concrete mechanisms (invite qualified incumbents, communicate role mapping/start dates, fast-track onboarding), and the six-row workstream-to-deliverable table skeleton (governance → skills/training → OT/SCADA → CMMS/inventory/vendor → compliance/data → safety) — this table structure transfers cleanly to almost any O&M transition/mobilization section regardless of facility type. Pursuit-specific: replace the named platforms (SCADA/Ignition v8.1, learning management system, CMMS) with the client's actual systems, and set the go-live date to the real contract start. Pair with `swip-onsite-team-staffing-and-shift-model.md` for the team being mobilized, and with `wiki/management-staffing/` transition-plan blocks for the fuller version of this narrative if a longer-form transition-plan section is being drafted elsewhere in the proposal.
+Universal: opening a transition section with "Jacobs will prioritize people first" and a bolded, unconditional invitation to qualified incumbents is the single most reusable move here — it answers the incumbent-displacement anxiety that dominates evaluator thinking on any O&M recompete, and it does so before any schedule appears. The three supporting mechanisms (clear communication with affected staff, role mapping and start dates, fast-tracked onboarding) are what make the invitation credible. The six-workstream grid — governance, skills and training, OT/SCADA and alarms, CMMS and inventory and vendors, compliance and data, safety and emergency readiness — transfers to essentially any O&M mobilization regardless of facility type, and the one-sentence-per-row discipline keeps it scannable.
+
+Pursuit-specific: set the go-live month to the actual contract start and repeat it in the benefits callout, as this version does, so the date lands twice; name the client's real SCADA, CMMS, and learning platforms; and confirm the compliance row against the target permit's monitoring regime. Pairs with [swip-onsite-team-staffing-and-shift-model.md](swip-onsite-team-staffing-and-shift-model.md) for the team being mobilized and [swip-safety-emergency-preparedness-risk-management.md](swip-safety-emergency-preparedness-risk-management.md) for the safety program the final row stands up. Longer-form transition-plan blocks live in `wiki/management-staffing/`.

@@ -1,22 +1,39 @@
 ---
 title: Seamless Transition — Commitment to a Smooth Transition and Proven Track Record
 category: management-staffing
-tags: [transition-plan, mobilization, workforce-continuity, incumbent-operator, veolia-transition, client-testimonial, proof-point, advanced-water-treatment]
+block-type: prose
+tags: [transition-plan, mobilization, workforce-continuity, incumbent-operator, client-testimonial, proof-point, advanced-water-treatment, transition-team]
 source: santamonica-swip-om-2025
-source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs (p. 59)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
+source-pages: [96]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0096.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0096.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0096.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0096.md#¶10", "verbatim/santamonica-swip-om-2025/pages/p0096.md#¶11"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facility plus a water treatment plant and remote injection wells and lift stations"
+geography: "Southern California / CA / SWRCB Division of Drinking Water + Los Angeles RWQCB"
+rfp-section-type: [transition]
+win-theme-map: [transition-continuity, incumbent-displacement, partner-transparency, workforce-development]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: "A tight opening framing for a transition-plan section (understanding + plan + dedicated team + local-team support) paired with two currently-quotable client testimonials that directly address transition risk — exactly the concern an evaluator has when a contract is changing operators."
-reuse-notes: "Client name generalized to [CLIENT]/[FACILITY] per wiki sanitization rules. The two testimonials (Frank Dick, City of Vancouver — Public Works; Vincent R. Carroccia, Deputy Commissioner, Department of Public Works, City of Wilmington, DE) are real, named reference contacts with phone numbers, kept verbatim per instruction to preserve staff/contact details in this block — reconfirm both individuals are still in role and still willing to be quoted before reusing in a new proposal."
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A tight opening framing for a transition-plan section (understanding + plan + dedicated team + local-team support) paired with two currently-quotable client testimonials that directly address transition risk — exactly the concern an evaluator has when a contract is changing operators.
+reuse-notes: Client name generalized to [CLIENT] per wiki sanitization rules. The two testimonials (Frank Dick, P.E., City of Vancouver – Public Works; Vincent R. Carroccia, Deputy Commissioner, Department of Public Works, City of Wilmington, DE) are real, named reference contacts with phone numbers, kept verbatim per instruction to preserve staff/contact details — reconfirm both individuals are still in role and still willing to be quoted before reusing in a new proposal. If the new pursuit's prior operator is not Veolia, generalize the "previously operated by Veolia" framing to the actual incumbent.
 ---
 
-# Seamless Transition: Commitment to a Smooth Transition
+# Seamless Transition: Commitment to a Smooth Transition and Proven Track Record
 
 ## Commitment to a Smooth Transition
 
-A smooth transition with a detailed plan and a dedicated transition team is the foundation of a successful partnership between [CLIENT] (a Southern California municipal water utility) and Jacobs. We have a thorough understanding of [CLIENT]'s needs and expectations and have developed a plan to deliver a high level of service on day one. Leveraging the expertise of our transition specialists, we will tailor our approach to the specific requirements of this project while supplementing the local team with additional resources when needed. This ensures transition activities progress in parallel with ongoing operations so that project tasks are seamlessly implemented.
+A smooth transition with a detailed plan and a dedicated transition team is the foundation of a successful partnership between [CLIENT], a Southern California municipal water utility, and Jacobs. We have a thorough understanding of [CLIENT]'s needs and expectations and have developed a plan to deliver a high level of service on day one. Leveraging the expertise of our transition specialists, we will tailor our approach to the specific requirements of this project while supplementing the local team with additional resources when needed. This ensures transition activities progress in parallel with ongoing operations so that project tasks are seamlessly implemented.
 
-Our transition plan reflects a highly organized process that builds on Jacobs' proven experience managing complex transitions while addressing [CLIENT]'s unique needs. It efficiently organizes local staff and provides sufficient qualified resources in all disciplines to assure the City of superior operations, maintenance, and administrative coverage for all managed assets. At the same time, our subject matter experts will enable Jacobs' tools and strategies to be implemented at the project level without impacting the workload or effectiveness of the local team.
+Our transition plan reflects a highly organized process that builds on Jacobs' proven experience managing complex transitions while addressing [CLIENT]'s unique needs. It efficiently organizes local staff and provides sufficient qualified resources in all disciplines to assure [CLIENT] of superior operations, maintenance, and administrative coverage for all managed assets. At the same time, our subject matter experts will enable Jacobs' tools and strategies to be implemented at the project level without impacting the workload or effectiveness of the local team.
 
 ## Proven Success: Transitioning Complex Projects
 
@@ -30,10 +47,10 @@ Jacobs has transitioned several projects in recent years that were previously op
 >
 > — Vincent R. Carroccia, Deputy Commissioner, Department of Public Works, City of Wilmington, DE | 302.576.3081
 
-**Related graphic:** `134_008A26` — "Proven Success: Transitioning Complex Projects" photo of a Jacobs transition team on-site, paired with the two testimonials above.
+**Related graphic:** `134_008A26` — "Proven Success: Transitioning Complex Projects" callout pairing a Jacobs transition-team photo with the two testimonials above.
 
 ## Reuse guidance
 
 Universal: the opening framing paragraph (understanding + tailored plan + dedicated transition team + supplementing local staff without disrupting workload) is a strong, broadly reusable lead-in for any transition-plan subsection, regardless of facility type. The "Proven Success" pattern — naming two comparably complex prior transitions from the same incumbent/prior-operator type, each with a named, titled, contactable client testimonial — is a reusable structural device for demonstrating transition experience with checkable proof rather than generic claims.
 
-Pursuit-specific: replace [CLIENT]/[FACILITY] with the new pursuit's actual client and facility descriptors. Source fresh, currently-authorized reference testimonials for the new pursuit where possible; if reusing the Vancouver/Wilmington testimonials, reconfirm the named individuals (Frank Dick, Vincent R. Carroccia) are still in their roles, still reachable at the listed phone numbers, and still willing to be quoted in a new proposal — testimonials age and consent is not perpetual. If the new pursuit's prior operator was also Veolia (or another specific incumbent), consider naming that operator explicitly as done here; otherwise generalize the "previously operated by [incumbent]" framing. Pairs with `wastewater-om-transition-plan-mobilization.md` (fuller transition-lifecycle narrative), `swip-staff-retention-and-six-step-transition-process.md`, and `swip-transition-team-and-communications-plan.md` (the rest of this same Section 3.4).
+Pursuit-specific: replace [CLIENT] with the new pursuit's actual client and facility descriptors. Source fresh, currently-authorized reference testimonials where possible; if reusing the Vancouver and Wilmington testimonials, reconfirm that Frank Dick and Vincent R. Carroccia are still in their roles, still reachable at the listed phone numbers, and still willing to be quoted — testimonials age and consent is not perpetual. Name the actual incumbent operator if the displacement story applies. Pairs with [swip-staff-retention-and-six-step-transition-process.md](swip-staff-retention-and-six-step-transition-process.md), [swip-transition-team-and-communications-plan.md](swip-transition-team-and-communications-plan.md), [swip-transition-phasing-and-schedule-template.md](swip-transition-phasing-and-schedule-template.md), and [wastewater-om-transition-plan-mobilization.md](wastewater-om-transition-plan-mobilization.md). Full passage: verbatim/santamonica-swip-om-2025/pages/p0096.md.

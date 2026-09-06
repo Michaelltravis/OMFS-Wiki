@@ -1,13 +1,30 @@
 ---
 title: "Project Description — Westerly Wastewater Treatment Plant O&M and DBO Services (Town of Westerly, RI)"
 category: past-performance
-tags: [past-performance, project-description, westerly, rhode-island, dbo, progressive-design-build, incumbent-turnaround, biosolids, awards, epa-region-1]
+block-type: prose
+tags: [past-performance, project-description, westerly, rhode-island, dbo, progressive-design-build, incumbent-turnaround, biosolids, awards, epa-region-1, industrial-pretreatment]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-2"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
-sanitized: false
-quality: Verbatim reference project narrative with named client contact, three named third-party awards, a quantified early-wins list, and a client testimonial quote — strong incumbent-displacement proof point.
-reuse-notes: "VERBATIM — real client name, contact, quote, and award names/years. QC before external use: confirm Max Sposato is still Utilities Director and the phone/email are current; reconfirm the $500,000 / $250,000 savings figures and the $100,000 budget-increase figure with the account team; verify award names/years against RICWA and USEPA New England Office records if reused in a live proposal. A generalized/sanitized pattern version of this narrative (no client name, no dollar figures) lives at wiki/win-themes/project-narrative-contract-transition-turnaround.md — do not modify that file; this is the verbatim source it was derived from."
+source-pages: [77]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0077.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶12", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶23", "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶26"]
+pursuit-type: [wwtp-om, solids]
+client-type: municipal
+client-size: "3.3 MGD / 9 pump stations"
+geography: "Northeast / RI / RIDEM, EPA New England"
+rfp-section-type: [past-performance]
+win-theme-map: [incumbent-displacement, transition-continuity, compliance-leadership, innovation-value-add, energy-chemical-efficiency, partner-transparency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: The closest size-and-region analog to a small coastal New England WWTF pursuit (3.3 MGD, RI) and the strongest incumbent-displacement proof point in the set — Jacobs took the contract from SUEZ Group, delivered a dated first-18-months win list, quantified savings, three named third-party awards, and a client quote naming a net-savings outcome.
+reuse-notes: "VERBATIM — real client name, contact, quote, and award names/years; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Max Sposato is still Utilities Director and the phone/email are current; verify the RICWA and USEPA New England award names/years against those organizations' records; reconfirm the $500,000 / $250,000 savings figures, the $100,000 budget-increase / $100,000 annual-savings figures in the client quote, and the $2.4M annual project fee with the account team. Register each figure in proof-points/registry.md before it appears in a live draft."
 ---
 
 # Westerly Wastewater Treatment Plant
@@ -42,8 +59,9 @@ Jacobs operates the Town's 3.3-MGD wastewater treatment facility, including nine
 The town officials wanted to find ways to save additional costs and risk. The original contract, long held by SUEZ Group, didn't include biosolids management and disposal, but Jacobs saw an opportunity to help Westerly realize additional cost savings. We adjusted hauling schedules, monitored energy use, and deployed quality systems to make sludge handling more efficient. This achieved more than $500,000 savings against the original 6-year forecast, and about $250,000 savings against the adjusted forecast over the last 3 years.
 
 In the first 18 months of our contract, we have improved the facility by:
+
 - Implementing "in-house" clarifier rehabilitations.
-- Completing corrective action items inherited from the previous contract operator (DEM-mandated corrective action items from a 2016 facility inspection).
+- Completing corrective action items inherited from the previous contract operator (DEM-mandated corrective action items from 2016 facility inspection).
 - Improving the disinfection system upgrades. Jacobs eliminated the callouts the previous contract operator estimated, including approximately 32 callouts per year for sodium hypochlorite dosing problems.
 - Removing six 30-yard containers of trash and debris from throughout the facility and pump stations, including scrap metal that was recycled with the money refunded to the client.
 - Improving general facility and pump station appearance through landscaping, painting, and vegetation removal.
@@ -58,4 +76,4 @@ In the first 18 months of our contract, we have improved the facility by:
 
 ## Reuse guidance
 
-Verbatim past-performance content — use in Section 3 / Appendix B style project-description responses and reference lists. QC the contact name/title/phone/email, the award names/years, and the dollar figures against current account-team knowledge before reuse. Pairs with `similar-facilities-table.md` and `client-references.md`. For a sanitized, dollar-figure-free narrative suitable for reusable win-theme drafting, see `../win-themes/project-narrative-contract-transition-turnaround.md`.
+Lead with this project for any small-to-mid New England coastal WWTF pursuit where Jacobs is displacing a large national incumbent: 3.3 MGD and nine pump stations is a near-exact scope analog, RIDEM/EPA New England is the same regulatory neighborhood, and the narrative arc — incumbent scope gap found, savings delivered, inherited corrective actions closed, awards won every year since — is the incumbent-displacement story in miniature. The first-18-months bullet list is the most reusable device here: concrete, visual, verifiable wins (32 eliminated callouts per year, six 30-yard containers of debris removed, scrap-metal proceeds refunded to the client) that make an abstract "we will improve operations" promise checkable. Keep the dollar figures — they are outcome figures, not commercial pricing. The Progressive Design-Build paragraph is the block to reach for whenever a pursuit facility sits under a consent agreement or needs a facilities-plan update, because it shows the O&M contract converting into a design role on operational knowledge alone. QC contact, awards, and figures before external use; the source page is marked Confidential/Proprietary in the original. Pairs with `similar-facilities-table.md` and `client-references.md`. For the generalized, drop-in narrative version, see `../win-themes/project-narrative-contract-transition-turnaround.md`. Full source prose: `verbatim/hull-wwtf-om-2026/pages/p0077.md`.

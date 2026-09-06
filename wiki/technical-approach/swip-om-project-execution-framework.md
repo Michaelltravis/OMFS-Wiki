@@ -1,11 +1,28 @@
 ---
 title: O&M Project Execution Framework — 9-Element Delivery Model with KPI Dashboard and Deliverables Tracking
 category: technical-approach
+block-type: prose
 tags: [project-execution, om-framework, kpi-dashboard, communication-plan, deliverables-tracking, compliance-reporting, exhibit]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Approach to Delivery of the O&M Services, Exhibit 2-7 and Exhibit 2-8 (pp. 32-33)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach — Approach to Delivery of the O&M Services, Exhibit 2-7 and Exhibit 2-8"
+source-pages: [32, 33]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0032.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶26", "verbatim/santamonica-swip-om-2025/pages/p0033.md#¶1"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "1.0 MGD advanced water treatment facility + stormwater diversion/pump assets, urban runoff recycling facility, and GRRP injection wells"
+geography: "Southern California / CA / SWRCB Division of Drinking Water + LA RWQCB (Title 22 GRRP, WDRs)"
+rfp-section-type: [tech-approach]
+win-theme-map: [partner-transparency, compliance-leadership, digital-tools, safety-culture, asset-management, community-engagement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A clean, evaluator-scannable 9-element framework (icons + one-paragraph descriptions) that covers the full breadth of an O&M program in a single exhibit, paired with a concrete KPI-dashboard capability and a named commitment to co-develop a tailored communication plan and a real-time deliverables-tracking dashboard — moves the proposal from "we'll comply" to "here is the specific tool set."
 reuse-notes: The 9 program elements and their one-line descriptions are fully generic and reusable for any water/wastewater O&M pursuit. The KPI dashboard example and deliverables-tracking system description should be paired with the pursuit's actual required KPIs/reporting cadence once known.
 ---
@@ -29,7 +46,7 @@ In outlining specific strategies for meeting the client's goals and how to addre
 9. **Public Education, Community Involvement, and Media Relations** — A robust public education and community involvement program developed in partnership with the client, including volunteering, charitable donations, and facility tours to benefit the community.
 10. **Customer Service** — A robust program to demonstrate Jacobs' commitment to being a good neighbor and responsiveness to community concerns.
 
-As Jacobs partners with the client to deliver high-performance operations, Jacobs will implement a suite of tools and protocols designed to ensure transparency, compliance, and proactive management. Early in the contract, Jacobs will co-develop a tailored communication and reporting plan with the client, designed to address both program-wide coordination needs and the specific operational nuances of the facility system. This plan will guide ongoing communication with client representatives, regulatory agencies, and internal stakeholders, ensuring alignment on expectations, deliverables, and performance goals.
+As Jacobs partners with the client to deliver high-performance operations, Jacobs will implement a suite of tools and protocols designed to ensure transparency, compliance, and proactive management. Early in the contract, Jacobs will co-develop a tailored communication and reporting plan with the client, designed to address both program-wide coordination needs and the specific operational nuances of the facility system. This plan will guide ongoing communication with client representatives, regulatory agencies, and internal stakeholders, ensuring alignment on expectations, deliverables, and performance goals. Additional details appear in the "Communications and Reporting" subsection later in the approach section.
 
 To support contract execution, Jacobs will deploy a rigorous contract deliverables tracking system that captures all regulatory, operational, and reporting requirements. This system provides a clear line of sight into every commitment, accompanied by a real-time dashboard that highlights key deadlines, submission statuses, and upcoming milestones — enabling both client staff and Jacobs teams to manage compliance proactively and efficiently.
 

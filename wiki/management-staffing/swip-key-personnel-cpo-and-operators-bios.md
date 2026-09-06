@@ -1,11 +1,28 @@
 ---
 title: Key Personnel Bios — Chief Plant Operator and Operators in Charge
 category: management-staffing
-tags: [key-personnel, resume-bio, chief-plant-operator, operators-in-charge, awt3, mbr, ro, uv-aop, cross-training]
+block-type: prose
+tags: [key-personnel, resume-bio, chief-plant-operator, operators-in-charge, awt3, mbr, ro, uv-aop, cross-training, safety-culture]
 source: santamonica-swip-om-2025
-source-section: "3.1 Staffing Plan — Project Team and Their Qualifications (p. 76)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.1 Staffing Plan — Project Team and Their Qualifications / Chief Plant Operator and Operators"
+source-pages: [76]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0076.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0076.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0076.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0076.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0076.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0076.md#¶10", "verbatim/santamonica-swip-om-2025/pages/p0076.md#¶13", "verbatim/santamonica-swip-om-2025/pages/p0076.md#¶15"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facilities — 6 onsite FTEs plus 2 shared regional resources"
+geography: "Southern California / CA / SWRCB Division of Drinking Water, Title 22"
+rfp-section-type: [staffing]
+win-theme-map: [compliance-leadership, safety-culture, regional-bench, workforce-development]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Detailed, technology-specific operator bios (MBR, ultrafiltration, RO, UV disinfection/UV-AOP) with named prior facilities across multiple MGD scales, plus a clear cross-training/coverage statement for off-hours and emergency response — a strong reusable pattern for advanced-treatment operator qualifications.
 reuse-notes: Named individuals and their real credentials are kept verbatim per wiki policy. Note: the source document's subheading names "Chris Catlin" as a third Operator alongside Josh Hernandez and Christen Wood, but the third bio beneath it is for Jason Holst — this appears to be a source-document inconsistency (Chris Catlin is elsewhere named Manager of Operations, not an Operator in Charge). Flagged here for the proposal team to verify/correct before reuse; the bios below are transcribed faithfully from the source.
 ---

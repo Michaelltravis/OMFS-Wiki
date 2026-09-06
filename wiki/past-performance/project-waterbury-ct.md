@@ -1,13 +1,30 @@
 ---
 title: "Project Description — Waterbury Wastewater System O&M (City of Waterbury, CT)"
 category: past-performance
-tags: [past-performance, project-description, waterbury, connecticut, phosphorus-removal, cmom, biosolids, cost-savings, epa-region-1]
+block-type: prose
+tags: [past-performance, project-description, waterbury, connecticut, phosphorus-removal, cmom, biosolids, cost-savings, epa-region-1, collection-system, community-engagement]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-1"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
-sanitized: false
-quality: Verbatim reference project narrative with named client contact, quantified cost-savings claim, and a client testimonial quote — source material for Section 3 / Appendix B past-performance responses.
-reuse-notes: "VERBATIM — real client name, contact, and quote. QC before external use: confirm Mike LeBlanc is still Director of Finance and the phone/email are current before reusing in a live proposal; reconfirm the $12.7M savings figure and $25M phosphorous upgrade figure with the account team. A generalized/sanitized pattern version of this narrative (no client name, no dollar figures) lives at wiki/win-themes/project-narrative-utility-partnership-cost-savings.md — do not modify that file; this is the verbatim source it was derived from."
+source-pages: [76]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0076.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶7", "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶17"]
+pursuit-type: [wwtp-om, collections, solids]
+client-type: municipal
+client-size: "27 MGD / ~310 mi sanitary sewer / 20 pump stations"
+geography: "Northeast / CT / CTDEEP, EPA Region 1"
+rfp-section-type: [past-performance]
+win-theme-map: [partner-transparency, compliance-leadership, asset-management, collection-system, innovation-value-add, community-engagement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: Verbatim reference project narrative with named client contact, a client-attributed $12.7 million cost-savings claim, a $25 million capital-upgrade co-management role, and a client testimonial quote — the strongest large-system past-performance entry in this source.
+reuse-notes: "VERBATIM — real client name, contact, and quote; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Mike LeBlanc is still Director of Finance and that the phone/email are current, and reconfirm the $12.7 million savings estimate, the $25 million phosphorous upgrade value, and the $6M annual project fee with the account team, since all four move over time. Register each figure in proof-points/registry.md before it appears in a live draft."
 ---
 
 # Waterbury Wastewater System O&M
@@ -50,4 +67,4 @@ After sewer overflows in late 2017 affected the Naugatuck River, Waterbury sough
 
 ## Reuse guidance
 
-Verbatim past-performance content — use in Section 3 / Appendix B style project-description responses and reference lists. QC the contact name/title/phone/email and the dollar figures (annual fee, cost savings, capital upgrade value) against current account-team knowledge before reuse; these may have changed since the source proposal was written. Pairs with `similar-facilities-table.md` (Waterbury appears in both Exhibit 3-3/3-5 and Appendix C) and `client-references.md`. For a sanitized, dollar-figure-free narrative suitable for reusable win-theme drafting, see `../win-themes/project-narrative-utility-partnership-cost-savings.md`.
+This is the highest-value large-system reference in the Appendix B set: it pairs a compliance-driven origin story (2017 sewer overflows into the Naugatuck River) with a holistic multi-service scope and a client-attributed dollar outcome. Use it whole in an Appendix B / Section 3 project-description response when the pursuit facility is large or has a significant collection system, and use the $12.7 million savings figure and the $25 million phosphorous upgrade in win-theme and executive-summary text — both are outcome figures, not commercial pricing, and both belong in the draft with their consequence for the client attached. QC the contact name/title/phone/email and reconfirm all dollar figures with the account team before external use; the source page is marked Confidential/Proprietary in the original. Named Jacobs staff on the account (Kevin Dahl) appear in the client quote — confirm the person is still on the project before quoting. Pairs with `similar-facilities-table.md` (Waterbury also appears there as a 27-MGD, 9/11/2018 start-date row) and `client-references.md`. For the generalized, drop-in narrative version, see `../win-themes/project-narrative-utility-partnership-cost-savings.md`. Full source prose: `verbatim/hull-wwtf-om-2026/pages/p0076.md`.

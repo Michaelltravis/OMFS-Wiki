@@ -1,32 +1,65 @@
 ---
-title: Value-Added Approach — Bundling No-Cost Enhancements as a Quantified Value Story
+title: Value-Added Approach — No-Additional-Cost Enhancements as a Quantified Value Story
 category: win-themes
-tags: [value-added-services, win-theme, no-cost-enhancements, benefit-framing, differentiator, exhibit]
+block-type: prose
+tags: [value-added-services, win-theme, no-cost-enhancements, benefit-framing, differentiator, exhibit, odor-control, digital-tools, collection-system]
 source: hull-wwtf-om-2026
-source-section: "Section 2, Executive Summary, Exhibit 2-4 and Our Value-Added Approach (p. 8)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 2, Executive Summary — Exhibit 2-4 and Our Value-Added Approach (p. 8)"
+source-pages: [8]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0008.md#¶12", "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶14", "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶15", "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶16", "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶17", "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶19", "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶20", "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶1"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi gravity sewer / 10k year-round + 5k seasonal pop"
+geography: "Northeast / Coastal New England / MassDEP-equivalent state regulator"
+rfp-section-type: [exec-summary]
+win-theme-map: [innovation-value-add, odor-control, digital-tools, collection-system, regional-bench, energy-chemical-efficiency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: A sales technique — bundling several distinct value-added initiatives into one totaled "value at no additional cost" figure with a supporting donut/ring visual — that makes scattered enhancements read as a single, memorable proposition
-reuse-notes: Dollar figures below are the actual worked example from the source pursuit (outcome/value figures, kept per current sanitization policy) — treat them as a illustrative reference point for how to size and total a bundle, not as figures to carry into a new pursuit; rebuild the total and per-initiative values from the target pursuit's actual value-add package. The engineering-rate discount (multiplier and resulting %) is commercial pricing and stays bracketed regardless of pursuit.
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: The clearest sales device on these pages — five distinct enhancements totaled into one headline "$5 million in value at no additional cost over a 10-year term" figure and rendered as a ring chart, then explained one by one so each carries both a mechanism and an outcome. It converts a list of nice-to-haves into a single number a client can repeat back internally
+reuse-notes: Every figure here is the source pursuit's actual offer over a 10-year term — rebuild the initiative mix, the per-item values, the total, and the term from the target pursuit's real value-add package before any reuse, and register each number as a proof point. The engineering multiplier and discount percentage are the source pursuit's commercial terms; carry them only if the target pursuit's pricing team confirms the same offer. Section 5 (Project Understanding and Technical Approach) is where the full detail behind each initiative belongs — the executive summary version stays to one paragraph per initiative.
 ---
 
-# Value-Added Approach — Bundling No-Cost Enhancements as a Quantified Value Story
+# Value-Added Approach — No-Additional-Cost Enhancements as a Quantified Value Story
 
-**Core technique:** rather than listing value-added initiatives as scattered bullet points, total their value into a single headline figure ("$[TOTAL] in value at no additional cost over [contract term]") displayed as a donut/ring chart, with each initiative as a labeled wedge. This turns a list of "nice to haves" into one memorable, quantified value proposition that a client can repeat back internally. **Worked example (source pursuit, 10-year term):** $5,040,000 total value (rounded to "$5 million" in the executive-summary donut chart) — Regional Support $4,450,000, Annual Innovation Workshops $350,000, Systemwide Odor Optimization $100,000, On-Site Jetter for Rapid Response $80,000, SmartCovers and Digital Collections Analytics $60,000, plus Discounted Engineering Rates (commercial rate multiplier, see below).
+## Exhibit 2-4 — Driving innovation with value-added investments
 
-**Section framing:** introduce the bundle by stating the approach "goes beyond meeting baseline requirements by delivering targeted, high-impact enhancements that strengthen operational performance, reduce risk, and improve long-term system stability," and that the initiatives are designed to directly support the client's operational priorities, on-site staff, and long-term infrastructure goals.
+**$5 million in value at no additional cost over a 10-year term**, composed of:
 
-**Representative initiative categories** (select and adapt to the pursuit — do not treat as a fixed list):
+| Initiative | Value over the term |
+|---|---|
+| Regional Support | $4,450,000 |
+| Innovation Workshop | $350,000 |
+| Systemwide Odor Optimization | $100,000 |
+| On-Site Jetter for Rapid Response | $80,000 |
+| SmartCovers and Digital Collections Analytics | $60,000 |
+| Discounted Engineering Rates | up to 19% |
 
-- **Proactive, science-based risk-reduction modeling** — e.g., using a recognized modeling approach to evaluate a known operational risk (such as odor/corrosion formation) before it occurs, replacing trial-and-error field response with predictive, decision-support tools. Source example: Systemwide Odor Optimization, valued at $100,000 over the contract term.
-- **Accelerated defect/inflow detection using smart monitoring technology** — deploying real-time monitoring hardware to identify a known system problem (e.g., inflow/infiltration) faster than traditional investigation methods, compressing investigation timelines (the source example claimed investigation timelines reduced by **up to 12 months** compared to traditional methods) and targeting resources where they have the greatest impact. Source example: SmartCovers and Digital Collections Analytics, valued at $60,000 over the contract term.
-- **A recurring collaborative planning forum** (see the paired Annual Innovation Workshop block) — reviewing performance and aligning priorities for the coming year with client staff and subject matter experts. Source example: Annual Innovation Workshops, valued at $350,000 over the contract term.
-- **Dedicated rapid-response equipment or capability** stationed on-site to reduce response time to a known operational nuisance (e.g., blockages, obstructions). Source example: On-Site Jetter for Rapid Response, valued at $80,000 over the contract term.
-- **Regional technical support hours** committed annually at no incremental cost, strengthening on-site decision-making without waiting for a scope change. Source example: Regional Support (~2,000 hours/year of regional O&M and technical SME time), valued at $4,450,000 over the contract term — the largest single component of the bundle.
-- **A preferential rate structure for follow-on engineering/technical work**, framed as a standing cost-efficiency benefit available over the life of the contract. A strong technique for this item is a **named competitive-benchmark comparison** rather than a bare discount claim — e.g., "Jacobs offers a discounted engineering multiplier of [X], compared to a typical industry range of [Y–Z], representing a significant cost savings to the client over the life of the contract" — which lets the evaluator see the discount against a market reference point instead of taking "discounted" on faith. This item is commercial pricing (a rate multiplier), not an outcome/value figure, so it stays bracketed even under the current sanitization policy — do not restate the source pursuit's actual multiplier or resulting discount percentage here.
+## Our value-added approach
 
-**Closing framing ("Your Next Chapter" pattern):** close the section by stating what selecting the firm allows the client to do next — strengthen leadership, improve transparency, and align capital investment with long-term performance — tied back to the named on-site leader and the technical resources supporting them.
+Our approach goes beyond meeting baseline requirements by **delivering targeted, high-impact enhancements** that strengthen operational performance, reduce risk, and improve long-term system stability. These value-added initiatives (shown in **Exhibit 2-4**) are **included as part of our services** and are designed to directly support [CLIENT]'s operational priorities, on-site staff, and long-term infrastructure goals — [CLIENT] being a coastal New England municipal wastewater utility. The following summarizes several of our priority initiatives, with full details provided in Section 5 – Project Understanding and Technical Approach.
+
+**Proactive odor prevention and systemwide insight:** We will implement a **science-based odor management strategy** using Wastewater Aerobic/Anaerobic Transformations in Sewers (WATS) modeling to evaluate hydrogen sulfide formation, optimize chemical dosing, and **reduce odor and corrosion risks before they occur**. This approach minimizes trial-and-error field efforts and provides **predictive tools to improve decision-making and system performance**.
+
+**Accelerated inflow/infiltration (I/I) detection using SmartCover technology:** We will deploy **SmartCover®** monitoring units to identify I/I more efficiently than traditional methods. This approach **reduces investigation timelines by up to 12 months**, provides real-time system visibility, and **targets resources where they deliver the greatest impact**.
+
+**Annual Innovation Workshop:** Jacobs will facilitate an **Annual Innovation Workshop** with [CLIENT] staff and SMEs to review performance, identify improvements, and align priorities for the coming year, supporting **continuous improvement and long-term goals**.
+
+**Dedicated on-site jetting capability:** We will provide a dedicated portable jetter to support **rapid responses to blockages, debris, and system obstructions**, improving maintenance efficiency and responsiveness across the collection system.
+
+**Regional technical support to enhance on-site performance:** Jacobs provides direct access to specialized technical resources, including **2,000 hours of dedicated support annually**, delivering hands-on support for troubleshooting, process optimization, maintenance strategy, and capital planning. This support **strengthens on-site decision-making, reduces risk, and ensures consistent execution and sustained system performance**.
+
+**Discounted engineering rates:** Jacobs offers a **discounted engineering multiplier of 2.6**, compared to a typical industry range of 3.0–3.2, representing a **significant cost savings** to [CLIENT] over the life of the contract. This preferred rate provides **cost-effective access to engineering services**, including studies, design, and technical support, enabling [CLIENT] to advance projects and address challenges more efficiently and cost effectively.
 
 ## Reuse guidance
 
-Universal: the "total the enhancements into one headline value figure" technique, the donut-chart visual concept, the section framing language, and the "Your Next Chapter" closing device. Pursuit-specific: the dollar figures above are the real, worked example from the source pursuit (outcome/value figures, kept under current sanitization policy) — useful to show an evaluator-facing team how a bundle like this is sized and totaled, but every figure, the specific mix of initiatives, and the contract term must still be rebuilt from the actual value-add package being offered for a new pursuit — never carry forward the source pursuit's specific dollar figures into a new proposal as if they were the new offer. The one true exception is the discounted-engineering-rate multiplier and resulting discount percentage: that is commercial pricing, not an outcome figure, and must stay bracketed/generic regardless of pursuit. Pair with `wiki/technical-approach/annual-innovation-workshop-program.md` for the workshop initiative in full detail and with `differentiator-traditional-vs-enhanced-om-comparison.md` for the adjacent "old way vs. new way" framing.
+Universal: the technique of totaling scattered enhancements into one headline "value at no additional cost over [term]" figure shown as a ring chart with each initiative as a labeled wedge; the one-paragraph-per-initiative pattern where each paragraph names a mechanism *and* an outcome; and the named-benchmark move on the rate discount — quoting the industry range alongside the offered multiplier lets an evaluator see the discount against a market reference instead of taking "discounted" on faith.
+
+Pursuit-specific: the initiative mix, every dollar figure, the contract term, the annual support hours, and the engineering multiplier — all are the source pursuit's actual offer and must be rebuilt from the target pursuit's approved value-add package and pricing. The odor-modeling, SmartCover, jetter, and regional-support items map to distinct win themes (odor control, digital tools, collection system, regional bench), so select the subset that matches the target client's stated pain points rather than carrying all five. Pairs with [`exec-summary-annual-innovation-workshop-partnership-narrative.md`](exec-summary-annual-innovation-workshop-partnership-narrative.md) and [`../technical-approach/annual-innovation-workshop-program.md`](../technical-approach/annual-innovation-workshop-program.md) for the workshop line item, and with [`exec-summary-readiness-and-system-profile-opening.md`](exec-summary-readiness-and-system-profile-opening.md), whose "Your Next Chapter" close follows immediately after this passage in the source. Read `verbatim/hull-wwtf-om-2026/pages/p0008.md` for the full unsanitized passage.

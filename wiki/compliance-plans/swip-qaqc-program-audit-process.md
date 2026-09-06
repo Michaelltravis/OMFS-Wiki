@@ -1,11 +1,28 @@
 ---
 title: QA/QC Program with Annual Audit Process (Regional Team Model, 4-Step Audit Lifecycle)
 category: compliance-plans
+block-type: prose
 tags: [qa-qc, quality-audit, compliance-audit, regional-support, corrective-action-plan, wdr-compliance, title-22, scaqmd, iipp, erp]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — In-House Procedures to Provide Accuracy, Integrity, and Quality Control, Exhibits 2-11 and 2-12 (pp. 38-39)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach — In-House Procedures to Provide Accuracy, Integrity, and Quality Control, Exhibits 2-11 and 2-12"
+source-pages: [38, 39]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0038.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0038.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0039.md#¶2"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "1.0 MGD advanced water treatment facility + stormwater diversion/pump assets, urban runoff recycling facility, and GRRP injection wells"
+geography: "Southern California / CA / SWRCB Division of Drinking Water + LA RWQCB (Title 22 GRRP, WDRs), SCAQMD, CalEPA"
+rfp-section-type: [tech-approach, compliance]
+win-theme-map: [compliance-leadership, partner-transparency, regional-bench, asset-management]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Combines a named governance model (Local Team surrounded by a Compliance Team, Regional Manager, Regional Process Specialist, Regional Maintenance Specialist, and Audit Team) with a concrete 70+-criteria audit scope and a detailed 4-step audit lifecycle (Preparation, Onsite Assessment, Evaluation, Action Plan) that closes the loop with 30/60/90-day corrective-action tracking — demonstrates a real internal accountability mechanism, not just a QA/QC policy statement.
 reuse-notes: The governance model, 4-step audit lifecycle, and corrective-action tracking cadence are fully generic and reusable for any O&M pursuit. The specific regulatory citations (WDRs, Title 22 GRRP, South Coast Air Quality Management District (SCAQMD/AQMD), CalEPA-required ERP/IIPP) are Southern California-specific — swap for the target pursuit's applicable regulatory framework.
 ---
@@ -32,6 +49,8 @@ At the facilities, Jacobs will deploy a dedicated QA/QC team drawn from its exte
 - Financial stewardship and budget tracking
 
 Once audit results are provided to the local project team's leadership, Jacobs' robust bench of technical resources steps up to help the local team address any gaps that may have been found.
+
+Jacobs' project audit process is illustrated in the four-step flow below. Jacobs' sampling analysis approach and regulatory data management is discussed in detail in the "Regulatory Compliance, Laboratory and Sampling Plans" section of the proposal.
 
 ## Annual quality audit — governance model
 

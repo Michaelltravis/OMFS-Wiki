@@ -1,18 +1,35 @@
 ---
 title: Site-Specific Safety Approach for a Below-Grade Treatment Facility and Employee Well-Being Program
 category: compliance-plans
+block-type: prose
 tags: [confined-space, below-grade-facility, chemical-management, egress-plan, two-person-staffing, mental-health, continuous-improvement, leading-lagging-indicators]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — SWIP Site Safety Observations and Unique Safety Needs / Continuous Improvement and Well-Being (pp. 51)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach B - Site Safety Observations and Unique Safety Needs; Benefits to the Client; Continuous Improvement and Well-Being"
+source-pages: [51]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0051.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0051.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0051.md#¶9"]
+pursuit-type: [reuse-dpr, water-treatment, stormwater]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach, compliance]
+win-theme-map: [safety-culture, compliance-leadership, community-engagement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: A concrete, facility-specific safety adaptation (three-stories-below-grade egress plan, two-person minimum staffing, chemical-specific spill response) plus a well-being differentiator (global mental-health champion network) that reads as genuinely tailored rather than generic.
-reuse-notes: The "three stories below grade" detail and named chemicals (sodium hypochlorite, calcium chloride) are pursuit-specific facts — replace with the target facility's actual configuration and chemical inventory; the well-being program figure (1,200+ trained champions) is a firm-wide statistic and reusable as-is.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A genuinely tailored safety adaptation - a three-stories-below-grade egress and regress plan, a two-person minimum staffing commitment, and named-chemical spill response - plus a well-being differentiator (more than 1,200 trained mental-health champions worldwide).
+reuse-notes: The three-stories-below-grade detail and the named chemicals (sodium hypochlorite, calcium chloride) are facility facts - replace with the target facility's actual configuration and chemical inventory. The two-person minimum staffing commitment carries cost; confirm it is in the staffing plan before repeating it. The Mental Health Matters figure (more than 1,200 champions) is firm-wide and reusable once reverified.
 ---
 
 # Site-Specific Safety Approach for a Below-Grade Treatment Facility and Employee Well-Being Program
 
-## SWIP Site Safety Observations and Unique Safety Needs
+## Site safety observations and unique safety needs
 
 Jacobs understands that the [FACILITY] facilities present unique safety challenges due to their location and operational complexity. Of particular note, the advanced treatment facility extends three stories below ground, requiring a site-specific egress and regress plan to ensure safe access and evacuation under all conditions. To further safeguard personnel, Jacobs will maintain two-person minimum staffing at the below-grade facility, recognizing that confined, below-grade facilities require immediate support in the event of an incident. The site-specific safety program prepared following transition will address the unique environments of the advanced treatment facility, the water recycling facility, lift stations, and stormwater components.
 

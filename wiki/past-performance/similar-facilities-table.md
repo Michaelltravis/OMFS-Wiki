@@ -1,13 +1,30 @@
 ---
 title: "Appendix C — Facilities Similar to the Town (Full Reference Table)"
 category: past-performance
-tags: [past-performance, similar-facilities, reference-table, appendix-c, capacity, contract-duration]
+block-type: table
+tags: [past-performance, similar-facilities, reference-table, appendix-c, capacity, contract-duration, portfolio-breadth]
 source: hull-wwtf-om-2026
 source-section: "Appendix C - Facilities Similar to the Town, pp. C-1 to C-2"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
-sanitized: false
-quality: Full verbatim Appendix C table — 13 real client/facility rows with relationship duration/start date, processes utilized, and capacity (MGD); demonstrates portfolio breadth beyond the five Appendix B narrative projects.
-reuse-notes: "VERBATIM — real client and facility names, states, contract durations/start dates, and capacities. Durations were computed as of the Hull proposal's writing (2025-2026 pursuit); recompute 'Duration' relative to today's date before reuse in a new proposal (Start Date is fixed and verbatim; Duration is derived and will be stale). QC facility/process details with the account team for any facility being cited in a live proposal."
+source-pages: [81, 82, 83]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0082.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0083.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0081.md#¶1"]
+pursuit-type: [wwtp-om, collections, solids, multi-facility, reuse-dpr]
+client-type: municipal
+client-size: "13 facilities, 9-32 MGD each; contract tenures 8 to 40 years"
+geography: "National / ID, FL, IL, NJ, TX, AZ, WA, OR, CT, MI"
+rfp-section-type: [past-performance, qualifications]
+win-theme-map: [regional-bench, partner-transparency, compliance-leadership, asset-management, odor-control]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: Full verbatim Appendix C table — 13 real client/facility rows with relationship duration/start date, processes utilized, and capacity (MGD); demonstrates portfolio breadth and contract longevity well beyond the five Appendix B narrative projects, including four relationships of 28 years or more.
+reuse-notes: "VERBATIM — real client and facility names, states, contract durations/start dates, and capacities. Durations were computed as of the source proposal's writing (2025/2026 pursuit); recompute every 'Duration' relative to the new proposal's due date before reuse — Start Date is fixed and verbatim, Duration is derived and goes stale. QC facility and process details with the account team for any facility cited in a live proposal. The source pages are marked Confidential/Proprietary in the original."
 ---
 
 # Appendix C — Facilities Similar to the Town

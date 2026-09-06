@@ -1,13 +1,30 @@
 ---
 title: Energy Optimization, Chemical Efficiency, and Hybrid Fleet Sustainability Program
 category: technical-approach
+block-type: prose
 tags: [energy-optimization, chemical-efficiency, hybrid-fleet, sustainability, scada-energy-dashboard, membrane-filtration, ro-cip, benchmark]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Innovation and Advanced Techniques for Operational Efficiency, Energy Optimization; Chemical Efficiency (pp. 47-48)"
-context: Southern California sustainable water infrastructure O&M, 2025 — MBR/RO/UV-AOP advanced water treatment facility
+source-section: "2.4 Firm Approach B - Innovation and Advanced Techniques for Operational Efficiency: Energy Optimization; Chemical Efficiency"
+source-pages: [47, 48]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0047.md#¶10", "verbatim/santamonica-swip-om-2025/pages/p0047.md#¶11", "verbatim/santamonica-swip-om-2025/pages/p0048.md#¶1", "verbatim/santamonica-swip-om-2025/pages/p0048.md#¶4"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach]
+win-theme-map: [energy-chemical-efficiency, innovation-value-add, digital-tools]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: Pairs a general sustainability commitment (hybrid fleet, GHG reduction) with two hard, quantified proof points from other Jacobs potable-reuse/advanced-treatment facilities (10%+ energy reduction at one site; 35% RO CIP-frequency reduction at another) — converts an efficiency claim into verifiable, named-facility evidence.
-reuse-notes: The energy/chemical efficiency methodology and hybrid-fleet commitment are fully generic and reusable. The named case examples (energy reduction and RO CIP reduction) are real, named non-client facilities — confirm currency and permission to reference before reuse; the specific hybrid-vehicle count (two) and benchmarking approach should be tailored to the target pursuit's actual fleet/vehicle plan.
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Pairs a sustainability commitment (two hybrid vehicles, greenhouse-gas reduction) with two hard, quantified proof points from named Jacobs-operated California potable-reuse facilities - more than 10 percent energy reduction at Soquel Creek and a 35 percent reduction in RO CIP frequency at Pure Water Monterey - converting an efficiency claim into verifiable evidence.
+reuse-notes: The energy and chemical efficiency methodologies are generic and reusable for any advanced treatment facility. Soquel Creek and Pure Water Monterey are real, named Jacobs facilities - confirm currency and permission to reference, and never reattribute those results to a different facility. Tailor the hybrid-vehicle count to the pursuit's actual proposed fleet.
 ---
 
 # Energy Optimization, Chemical Efficiency, and Hybrid Fleet Sustainability Program

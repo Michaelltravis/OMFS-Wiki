@@ -1,11 +1,28 @@
 ---
 title: Key Personnel Bios — Maintenance Technician and I&C Technician
 category: management-staffing
-tags: [key-personnel, resume-bio, maintenance-technician, instrumentation-controls-technician, cmms, scada, asset-management]
+block-type: prose
+tags: [key-personnel, resume-bio, maintenance-technician, instrumentation-controls-technician, cmms, scada, asset-management, workforce-development]
 source: santamonica-swip-om-2025
-source-section: "3.1 Staffing Plan — Project Team and Their Qualifications (p. 77)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.1 Staffing Plan — Project Team and Their Qualifications / Maintenance and I&C Technicians"
+source-pages: [77]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0077.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0077.md#¶5"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facilities — 6 onsite FTEs plus 2 shared regional resources"
+geography: "Southern California / CA / SWRCB Division of Drinking Water, Title 22"
+rfp-section-type: [staffing]
+win-theme-map: [asset-management, workforce-development, digital-tools]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Concise, credential-backed technician bios showing decades of hands-on maintenance/I&C experience plus a training/teaching credential and a state-level industry award — good differentiators for the maintenance-staffing portion of a proposal.
 reuse-notes: Named individuals and their real credentials are kept verbatim per wiki policy. Swap in the actual proposed technicians' bios for a new pursuit.
 ---

@@ -1,11 +1,28 @@
 ---
 title: Seamless Transition — Long-Term Staffing and Succession Planning Practices (Exhibit 3-6)
 category: management-staffing
+block-type: prose
 tags: [succession-planning, long-term-staffing, resource-planning-group, leadership-development, intern-program, mentor-program, maintenance-excellence-initiative, cross-training, retention, exhibit]
 source: santamonica-swip-om-2025
-source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs (p. 65)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
+source-pages: [102]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0102.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0102.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0102.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0102.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0102.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0102.md#¶7"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facility plus a water treatment plant and remote injection wells and lift stations"
+geography: "Southern California / CA / SWRCB Division of Drinking Water + Los Angeles RWQCB"
+rfp-section-type: [transition, staffing]
+win-theme-map: [workforce-development, transition-continuity, regional-bench, safety-culture]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "A concise, well-organized eight-program catalog (Exhibit 3-6) of Jacobs' corporate staff-development and succession-planning infrastructure — useful whenever a proposal needs to show the workforce pipeline behind a transition plan, beyond the specific transition itself."
 reuse-notes: "Fully corporate/generic content — no client name appears in this subsection at all, so no [CLIENT] substitution was needed. The named internal group (Resource Planning Group) and named initiative titles (Global Future Talent Team, Project Manager Intern Program, Leadership Team Mentor Program, Maintenance Excellence Initiative) are real corporate program names, kept verbatim; reconfirm current program names/scope with corporate HR/talent-development before reuse, as internal program names and statistics (e.g., 35-person Leadership Team Mentor Program cohort, 20+ talent-development staff) may be updated year to year."
 ---

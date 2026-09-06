@@ -1,22 +1,39 @@
 ---
-title: Differentiator Device — Traditional vs. Enhanced O&M Approach Comparison
+title: Differentiator Device — Traditional vs. Jacobs Performance O&M Comparison (Exhibit 2-3)
 category: win-themes
-tags: [differentiator, before-after, win-theme, data-driven-operations, exhibit, benefit-framing]
+block-type: table
+tags: [differentiator, before-after, win-theme, data-driven-operations, exhibit, benefit-framing, digital-tools]
 source: hull-wwtf-om-2026
-source-section: "Section 2, Executive Summary, Exhibit 2-3 (p. 6)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 2, Executive Summary — Exhibit 2-3, From Operations to Optimization (p. 6)"
+source-pages: [6]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0006.md#¶13", "verbatim/hull-wwtf-om-2026/pages/p0006.md#¶12", "verbatim/hull-wwtf-om-2026/pages/p0006.md#¶16"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi gravity sewer / 10k year-round + 5k seasonal pop"
+geography: "Northeast / Coastal New England / MassDEP-equivalent state regulator"
+rfp-section-type: [exec-summary]
+win-theme-map: [asset-management, digital-tools, incumbent-displacement, compliance-leadership]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: A clean, fully generic "old way vs. new way" contrast device (no client-specific data in the exhibit itself) that reframes O&M as a performance-optimization discipline rather than routine maintenance — directly reusable as a template for any O&M differentiation pitch
-reuse-notes: The five-item lists are generic industry framing already reusable as-is; add one supporting sentence before/after the exhibit connecting it to the target pursuit's specific reliability/compliance goals
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: A clean "old way vs. new way" contrast that reframes O&M as a performance-optimization discipline rather than routine maintenance. Because every label is industry-generic, the exhibit carries no client-specific information and is reusable essentially unchanged — and in an incumbent-displacement pursuit it lets the proposal characterize the status quo without naming or attacking the incumbent
+reuse-notes: The five rows are generic industry framing and travel as-is; what must be written fresh is the sentence before or after the exhibit that ties the contrast to the target client's specific reliability, overflow, or compliance risk. Confirm the "Jacobs Performance Approach" column label matches current firm terminology.
 ---
 
-# Differentiator Device — Traditional vs. Enhanced O&M Approach Comparison
+# Differentiator Device — Traditional vs. Jacobs Performance O&M Comparison (Exhibit 2-3)
 
-**Device concept:** a two-column, five-row comparison (visually rendered as a funnel/hourglass narrowing from a generic "before" state to a branded "after" state) that reframes routine O&M as active performance optimization. Because the item labels are industry-generic, this device carries no client-specific information and can be reused essentially unchanged.
+EXHIBIT 2-3. *Jacobs' performance approach* — graphic asset `126_Hull_0091KO_2`
 
-**Title pattern:** "From Operations to Optimization"
+**FROM OPERATIONS TO OPTIMIZATION**
 
-| Traditional O&M Approach | [FIRM] Performance Approach |
+| Traditional O&M Approach | Jacobs Performance Approach |
 |---|---|
 | Reactive Maintenance | Predictive & Preventive Maintenance |
 | Limited Asset Visibility | Data-Driven Asset Intelligence |
@@ -24,10 +41,12 @@ reuse-notes: The five-item lists are generic industry framing already reusable a
 | Isolated Decisions | Integrated Operational Insight |
 | Routine Operations | Continuous Improvement Culture |
 
-**Closing tagline pattern:** a single bolded/italicized line beneath the comparison, e.g., "Moving beyond maintaining infrastructure toward optimizing performance and reliability."
+***Moving beyond maintaining infrastructure toward optimizing performance and reliability.***
 
-**Supporting narrative to pair with the exhibit:** frame the shift in one sentence as reducing a named operational risk relevant to the client (e.g., overflow risk in a wet-weather-exposed system) and strengthening compliance and system resilience — this ties the otherwise generic exhibit back to the specific pursuit.
+The exhibit is rendered as a funnel narrowing from the generic "before" column to the branded "after" column, and it is introduced and closed by narrative in [`leadership-team-and-coordinated-operations-narrative.md`](leadership-team-and-coordinated-operations-narrative.md): the data-driven tools paragraph sets it up, and the sentence immediately after it states that this coordinated, data-driven approach improves flow management, reduces overflow risk, strengthens compliance, and enhances system resilience in the client's coastal environment.
 
 ## Reuse guidance
 
-Universal: the entire five-row comparison, the funnel/hourglass visual concept, and the title/tagline pattern — none of it is client-specific and it can be dropped into any O&M executive summary largely as-is. Pursuit-specific: only the one or two sentences of surrounding narrative that connect the generic comparison to the target client's specific risk profile (e.g., swap "overflow risk in a coastal system" for whatever risk matters most to the target client). Pair with `value-proposition-table-approach-impact-value.md`, which elaborates on the same "coordinated, data-driven" theme in table form.
+Universal: the whole five-row comparison, the funnel visual concept, the "From Operations to Optimization" title, and the closing tagline — none of it is client-specific and it drops into any O&M executive summary largely unchanged. It is particularly useful in an incumbent-displacement pursuit, where it draws the contrast the proposal wants drawn without ever naming the incumbent.
+
+Pursuit-specific: only the one or two sentences of surrounding narrative that connect the generic comparison to the target client's risk profile — swap "overflow risk in a coastal system" for whatever risk dominates the target pursuit. Graphic asset ID `126_Hull_0091KO_2` is client-branded and needs re-rendering. Pair with [`value-proposition-table-approach-impact-value.md`](value-proposition-table-approach-impact-value.md) (Exhibit 2-1), which develops the same coordinated, data-driven theme in benefit terms. Read `verbatim/hull-wwtf-om-2026/pages/p0006.md` for the full unsanitized exhibit.

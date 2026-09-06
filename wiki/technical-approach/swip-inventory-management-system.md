@@ -1,18 +1,37 @@
 ---
 title: Inventory Management System — Summary of Services
 category: technical-approach
+block-type: prose
 tags: [inventory-management, stockroom-setup, parts-inventory, cmms, warehouse-organization, kpi-dashboards]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Inventory Management System: Summary of Services (pp. 60)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach — Inventory Management System: Summary of Services"
+source-pages: [60]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0060.md#¶31"]
+pursuit-type: [reuse-dpr, water-treatment, multi-facility, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment facility (potable reuse) + water recycling facility + stormwater diversion structures + groundwater injection wells"
+geography: "Southern California / CA / Los Angeles RWQCB, SWRCB Division of Drinking Water, SCAQMD"
+rfp-section-type: [tech-approach]
+win-theme-map: [asset-management, digital-tools, innovation-value-add]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: A concise, well-organized six-category inventory-management services menu (roles, storage, process, technology, data/labeling, reporting) that is easy to drop into any O&M technical approach as a standalone capability.
-reuse-notes: Role titles (Inventory Manager, Parts Inventory Specialist, etc.) and report types are generic and reusable as-is; tailor to the scale of the target facility's parts inventory.
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A concise, well-organized six-category inventory-management services menu (roles, storage, process, technology, data/labeling, reporting) that drops into any O&M technical approach as a standalone capability.
+reuse-notes: Role titles (Inventory Manager, Parts Inventory Specialist, Inventory Control Clerk, Parts Clerk) and report types are generic and reusable as-is; scale the roles and storage plan to the target facility's actual parts volume and space. Note a related block, swip-inventory-management-asset-tracking.md, covers overlapping ground from a different page range — reconcile during the merge pass.
 ---
 
 # Inventory Management System — Summary of Services
 
-Jacobs can offer a comprehensive solution to establish and optimize [CLIENT]'s facility inventory management operations. Services are designed to streamline processes, improve accuracy, and enhance visibility across the parts and materials inventory. The program can be tailored to the specific needs of the client.
+Jacobs can offer a comprehensive solution to establish and optimize [CLIENT]'s advanced water treatment facility inventory management operations. Services are designed to streamline processes, improve accuracy, and enhance visibility across the parts and materials inventory. The program can be tailored to the specific needs of the client.
+
+**Inventory Management System: Summary of Services**
 
 **System Setup & Role Definition**
 - Define key roles and responsibilities: Inventory Manager, Parts Inventory Specialist, Inventory Control Clerk, Parts Clerk

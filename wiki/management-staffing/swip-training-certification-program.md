@@ -1,13 +1,30 @@
 ---
 title: Training and Certification Program for O&M Personnel (AWTO-Focused, Incentive-Driven)
 category: management-staffing
+block-type: prose
 tags: [training-program, certification-incentives, awto, cmrt, crl, operator-development, career-advancement, jacobs-university, culture-coaching, exhibit]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Training & Certification Program for O&M Personnel, Exhibits 2-13, 2-14, 2-15 (pp. 40-43)"
-context: Southern California sustainable water infrastructure O&M, 2025 — potable/indirect potable reuse operations requiring Advanced Water Treatment Operator (AWTO) certification depth
+source-section: "2.4 Firm Approach B - Training and Certification Program for O&M Personnel (Exhibits 2-13, 2-14, 2-15)"
+source-pages: [40, 41, 42, 43]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0041.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0042.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶24"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach, staffing]
+win-theme-map: [workforce-development, regional-bench, compliance-leadership, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: A comprehensive workforce-development package combining a named individualized-assessment process, a categorized training-topics catalog (Operations/Maintenance/All Staff/Selected Staff/Jacobs University), 20 years of quantified training-hours data, a named eLearning platform, concrete certification-incentive mechanics (OIT six-to-12-month path, AWTO cost coverage), named professional-development programs (CMRT, CRL), and a Newsweek Top 100 Most Loved Workplaces recognition — a strong evaluator-facing proof that training claims are backed by scale and structure.
-reuse-notes: The training-topics catalog, eLearning platform description, certification-incentive mechanics, and CMRT/CRL program references are fully generic and reusable. All quantified figures (12 California AWTO-certified employees, 300+ O&M sites, 36 instructional volumes, the 2005-2024 training-hours chart, the Top 100 award) must be refreshed/reverified before reuse in a new proposal — do not present stale figures as current.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A complete workforce-development package: individualized needs assessment, a categorized training-topics catalog, 20 years of quantified annual training hours, a named eLearning platform with 36 instructional volumes, concrete certification-incentive mechanics (a six- to 12-month OIT path, AWTO cost coverage), named CMRT and CRL programs, twelve California AWTO-certified employees, and a Culture Coach program with an 80 percent participation goal.
+reuse-notes: The training-topics catalog, eLearning description, certification-incentive mechanics, CMRT/CRL references, and Culture Coach program are generic and reusable. Refresh before reuse: the twelve California AWTO-certified employees figure, the more-than-300 O&M sites figure, the Newsweek Top 100 Most Loved Workplaces award year, the 2005-2024 training-hours series, and the 2023 client-survey reference. This block runs long for a single block (about 1,400 words) - split it into a training-delivery block and a certification/career-development block if a section needs only one half.
 ---
 
 # Training and Certification Program for O&M Personnel (AWTO-Focused, Incentive-Driven)

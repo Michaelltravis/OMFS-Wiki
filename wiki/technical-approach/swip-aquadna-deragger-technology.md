@@ -1,13 +1,30 @@
 ---
-title: AquaDNA DeRagger — AI-Based Pump Deragging and Lift Station Optimization Technology
+title: AquaDNA DeRagger - Pump Deragging and Lift Station Optimization Technology
 category: technical-approach
+block-type: prose
 tags: [aquadna-deragger, lift-station, pump-optimization, sso-prevention, ai-monitoring, collection-system, innovation-tool]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Innovation and Advanced Techniques for Operational Efficiency, AquaDNA Deragger for [Lift Station], Exhibit 2-18 (p. 47)"
-context: Southern California sustainable water infrastructure O&M, 2025 — critical lift station delivering up to 100% of flow to the primary treatment facility
+source-section: "2.4 Firm Approach B - Innovation and Advanced Techniques for Operational Efficiency: AquaDNA Deragger for the Lift Station (Exhibit 2-18)"
+source-pages: [47]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0047.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0047.md#¶3"]
+pursuit-type: [collections, reuse-dpr, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach]
+win-theme-map: [innovation-value-add, collection-system, asset-management, energy-chemical-efficiency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: A named, proprietary partnership technology (AquaDNA DeRagger with Clearwater Controls) with a concrete installed-base proof point (nearly 100 US installations, a decade of operating history) and a specific non-client case example (Rio Rancho, NM — 8 pumps retrofitted with no control-system changes) that makes the SSO-prevention claim verifiable rather than generic marketing language.
-reuse-notes: The technology description, installed-base statistics, and Rio Rancho case example are corporate capability content, reusable as-is across pursuits with ragging-prone lift/pump stations. Confirm current installed-base figures before each reuse (numbers grow over time). The specific lift-station name and deployment plan are pursuit-specific.
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A named, exclusive-partnership technology with a concrete installed base (nearly 100 US installations and a decade of operating experience) and a specific non-client case example (Rio Rancho, NM - eight sewage pumps retrofitted with no pump, starter, or VFD changes) that makes the SSO-prevention claim verifiable rather than generic.
+reuse-notes: The technology description, installed-base statistics, and Rio Rancho case example are corporate capability content, reusable for any pursuit with ragging-prone lift or pump stations. Reverify the installed-base count before each reuse. The specific lift-station name and the deployment commitment are pursuit-specific.
 ---
 
 # AquaDNA DeRagger — AI-Based Pump Deragging and Lift Station Optimization Technology

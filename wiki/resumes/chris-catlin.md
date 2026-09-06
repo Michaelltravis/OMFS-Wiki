@@ -1,13 +1,30 @@
 ---
-title: Chris Catlin, PE — Manager of Operations (T3/AWT5)
+title: Chris Catlin, PE - Manager of Operations (T3/AWT5)
 category: resumes
-tags: [manager-of-operations, professional-engineer, water-treatment, advanced-water-purification, startup-and-commissioning, reverse-osmosis, membrane-filtration, ozone, awt5]
+block-type: prose
+tags: [manager-of-operations, professional-engineer, water-treatment, advanced-water-purification, startup-and-commissioning, reverse-osmosis, membrane-filtration, ozone, awt5, key-personnel]
 source: santamonica-swip-om-2025
-source-section: "3.2 Resumes — Chris Catlin, PE (p. 83-84)"
-context: Southern California sustainable water infrastructure O&M, 2025
-sanitized: false
-quality: PE-credentialed 30+ year operations veteran with a broad multi-state resume spanning startup/commissioning, design engineering, and large-plant superintendent roles; directly relevant to advanced water purification / potable reuse pursuits (AWT5, RO, UV-AOP).
-reuse-notes: Verbatim — resumes are not sanitized per CLAUDE.md. Strong fit for pursuits needing a PE Manager of Operations with advanced treatment (RO/NF/ozone/UV/AOP) startup and commissioning credentials.
+source-section: "3.2 Resumes - Chris Catlin, PE (pp. 83-84)"
+source-pages: [83, 84]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0083.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0084.md#¶2"]
+pursuit-type: [water-treatment, reuse-dpr, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment facility (AWTF) for groundwater replenishment; municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water - Title 22 & GRRP"
+rfp-section-type: [resume]
+win-theme-map: [regional-bench, innovation-value-add, transition-continuity, compliance-leadership]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: "PE-credentialed 30+ year operations veteran with a broad multi-state resume spanning startup/commissioning (Soquel Creek AWPF; 2,200-MGD Catskill-Delaware UV facility), design engineering, and large-plant superintendent roles (120-MGD Minneapolis WTP, staff of 140); directly relevant to advanced water purification / potable reuse pursuits (AWT5, RO, UV-AOP)."
+reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Strong fit for pursuits needing a PE Manager of Operations with advanced treatment (RO/NF/ozone/UV/AOP) startup and commissioning credentials. Verify PE license numbers and state registrations remain current before reuse."
 ---
 
 # Chris Catlin, PE
@@ -46,7 +63,7 @@ Chris has 30+ years of experience in water treatment and distribution, and has s
 
 **Startup Operator/Interim Manager | Soquel Creek Advanced Water Purification Facility, Soquel Creek Water District | Santa Cruz, CA.** Chris provided start up operations support and management for the 2-MGD water reuse facility utilizing ozonation, membrane filtration, reverse osmosis, advanced oxidation, and chloramination for disinfection. Chris trained operators, set up lab testing program, and initiated CMMS.
 
-**Superintendent: Operations and Maintenance | Minneapolis WTP, Minneapolis Public Works Water Treatment and Distribution Services | Minneapolis, MN.** Chris managed a staff of 140 comprising operations, maintenance, and water quality departments within the water utility. Plant included lime softening, membrane and conventional filtration, activated carbon adsorption, recarbonation, chlorination, and fluoridation. Chris optimized treatment and residuals handling and trained operators, supervisors, and lab staff in state of the art operations. Chris also created a Renewal and Replacement program for sustainability.
+**Superintendent: Operations and Maintenance | Minneapolis WTP, Minneapolis Public Works Water Treatment and Distribution Services | Minneapolis, MN.** Chris managed a 120-MGD surface water treatment plant, including a staff of 140 comprising operations, maintenance, and water quality departments within the water utility. Plant included lime softening, membrane and conventional filtration, activated carbon adsorption, recarbonation, chloramination, and fluoridation. Chris optimized treatment and residuals handling and trained operators, supervisors and lab staff in state of the art operations. Chris also created a Renewal and Replacement program for sustainability.
 
 **Treatment Operator | Seattle Cedar Water Plant, Seattle Public Utilities | Seattle, WA.** Chris operated the treatment plant during staffing shortage. Treatment included chlorination, ozonation, UV disinfection, and pH adjustment.
 

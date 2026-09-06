@@ -1,13 +1,30 @@
 ---
 title: Innovation and Value-Added Offerings Overview (Included-in-Base-Fee Program Wheel)
 category: technical-approach
+block-type: prose
 tags: [innovation, value-added-services, base-fee-inclusions, annual-innovation-workshop, asset-management, cybersecurity, exhibit, innovation-partnerships]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Innovation and Advanced Techniques for Operational Efficiency, Exhibit 2-16 (pp. 45, 47)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach B - Innovation and Advanced Techniques for Operational Efficiency (Exhibit 2-16); Innovation Partnerships and Pilots; Benefits to the Client"
+source-pages: [45, 46, 47]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0045.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0045.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0045.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0046.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0047.md#¶8"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, stormwater, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach, exec-summary]
+win-theme-map: [innovation-value-add, partner-transparency, incumbent-displacement, regional-bench]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: A single "wheel" exhibit quantifying nine distinct value-added services bundled into the base fee, each with an assigned dollar value and a one-line description — converts an abstract "we bring extra value" claim into a concrete, itemized $4.1M (five-year) benefits package, which is a strong differentiator device for any competitive O&M pursuit.
-reuse-notes: The specific dollar values and the nine-item list are scoped to this pursuit's facility set and are not commercial pricing/fee-table content (they represent value delivered at no additional charge, similar to an outcomes/savings figure) — they must be fully re-scoped, re-costed, and re-verified against the target pursuit's actual facilities and negotiated inclusions before reuse; never reuse the $4.1M total or component values for a different pursuit's proposal.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A single wheel exhibit that itemizes nine value-added services bundled into the base fee, each with an assigned value and a one-line description, rolling up to a $4.1 million five-year total - the strongest incumbent-displacement device in this proposal, because it converts an abstract claim of extra value into a countable benefits package.
+reuse-notes: These figures are value-delivered-at-no-additional-charge amounts, not fee or rate content, and they are kept. They are scoped to this pursuit's facility set: re-scope, re-cost, and re-verify every line and the headline total against the target pursuit's actual facilities and negotiated inclusions - reuse the device, not the numbers. The benefits paragraph is largely generic and adapts easily.
 ---
 
 # Innovation and Value-Added Offerings Overview (Included-in-Base-Fee Program Wheel)

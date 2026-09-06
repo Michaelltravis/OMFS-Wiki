@@ -1,11 +1,28 @@
 ---
 title: Hybrid Shift Schedule (4/10 and 5/8) and On-Call Staffing Plan
 category: management-staffing
-tags: [shift-schedule, hybrid-staffing-model, alternative-work-schedule, on-call-staffing, leadership-engagement-percentage, coverage-table]
+block-type: prose
+tags: [shift-schedule, hybrid-staffing-model, alternative-work-schedule, on-call-staffing, leadership-engagement-percentage, coverage-table, safety-culture]
 source: santamonica-swip-om-2025
-source-section: "3.1 Staffing Plan — Shift Schedules, On-Call Staffing, Exhibit 3-2 (p. 79)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.1 Staffing Plan — Shift Schedules, On-Call Staffing, Exhibit 3-2"
+source-pages: [79]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0079.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶13", "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶14", "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶16", "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶17", "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶18"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facilities — 6 onsite FTEs plus 2 shared regional resources"
+geography: "Southern California / CA / SWRCB Division of Drinking Water, Title 22; California DIR alternative work schedule"
+rfp-section-type: [staffing]
+win-theme-map: [safety-culture, compliance-leadership, partner-transparency, regional-bench]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A concrete, ready-to-adapt shift schedule table combining 4/10 and 5/8 rotations to guarantee 7-day coverage with no lone shifts, plus a quantified leadership-engagement commitment (20% of key management/engineering time) and a clear on-call staffing statement — strong, specific staffing-plan evidence.
 reuse-notes: The 4/10 schedule depends on securing an Alternative Work Schedule (AWS) approval from the applicable state labor regulator (California DIR in this instance) — flag this dependency explicitly in any reuse. Adjust the position list, certification levels, and specific days/hours in the table to the pursuit's actual proposed schedule.
 ---
@@ -14,7 +31,7 @@ reuse-notes: The 4/10 schedule depends on securing an Alternative Work Schedule 
 
 ## Shift Schedules
 
-Jacobs will implement a hybrid staffing model that combines 4/10 and 5/8 work schedules to maximize operational efficiency, ensure comprehensive coverage, and accommodate employee work-life preferences. Operations personnel will follow a 4/10 schedule, providing extended daily coverage with fewer shift transitions, while maintenance and technical staff will work standard 5/8 shifts to align with typical task durations and vendor support availability.
+Jacobs will implement a hybrid staffing model that combines 4/10 and 5/8 work schedules to maximize operational efficiency, ensure comprehensive coverage, and accommodate employee work-life preferences. As illustrated in **Exhibit 3-2**, operations personnel will follow a 4/10 schedule, providing extended daily coverage with fewer shift transitions, while maintenance and technical staff will work standard 5/8 shifts to align with typical task durations and vendor support availability.
 
 The operators' 4/10 schedule assumes Jacobs will be granted an Alternative Work Schedule (AWS) by the applicable state labor regulator (in this case, the California Department of Industrial Relations (DIR)).
 

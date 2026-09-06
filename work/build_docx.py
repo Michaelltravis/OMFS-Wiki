@@ -29,6 +29,7 @@ full spec):
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import sys
 from pathlib import Path
@@ -68,6 +69,7 @@ _TAG_HITS: list[str] = []   # sentences containing a stripped tag
 _TAG_COUNT = 0          # number of tags stripped from the main body
 
 TAG_RE = re.compile(r"\[(?:PLACEHOLDER|VERIFY|CONFIRM|TBD)[^\]]*\]")
+HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 
 
 def _extract_sentence(text: str, start: int, end: int) -> str:
@@ -423,7 +425,7 @@ def setup_page(doc: Document, header_text: str, section_label: str) -> None:
 # Order matters: placeholder/verify tags first so ** inside them doesn't
 # get mis-split; then bold, then italic, then inline code.
 INLINE_TOKEN_RE = re.compile(
-    r"(\[(?:PLACEHOLDER|VERIFY)[^\]]*\])"
+    r"(\[(?:PLACEHOLDER|VERIFY|CONFIRM|TBD)[^\]]*\])"
     r"|(\*\*.+?\*\*)"
     r"|(_.+?_)"
     r"|(`[^`]+?`)"
@@ -431,12 +433,21 @@ INLINE_TOKEN_RE = re.compile(
 
 
 def render_inline(paragraph, text: str) -> None:
+    # HTML comments (used for proof-id citations) are never rendered.
+    text = HTML_COMMENT_RE.sub("", text)
+    # Strip [PLACEHOLDER/VERIFY/CONFIRM/TBD] tags unless --keep-tags was
+    # passed (_KEEP_TAGS True), or the caller has temporarily forced
+    # _KEEP_TAGS True (e.g. while rendering the notes companion, where
+    # tags should stay visible/highlighted rather than being stripped).
+    if not _KEEP_TAGS:
+        text = strip_and_collect_tags(text)
     pos = 0
     for m in INLINE_TOKEN_RE.finditer(text):
         if m.start() > pos:
             _add_plain_run(paragraph, text[pos:m.start()])
         token = m.group(0)
-        if token.startswith("[PLACEHOLDER") or token.startswith("[VERIFY"):
+        if token.startswith("[PLACEHOLDER") or token.startswith("[VERIFY") \
+                or token.startswith("[CONFIRM") or token.startswith("[TBD"):
             run = paragraph.add_run(token)
             run.font.name = FONT
             run.font.color.rgb = RGBColor.from_string(TEXT)
@@ -588,6 +599,121 @@ def add_callout(doc: Document, text: str) -> None:
     doc.add_paragraph().paragraph_format.space_after = Pt(4)
 
 
+def set_run_letter_spacing(run, points: float) -> None:
+    """Approximate letter-spacing/tracking via w:spacing (twentieths of a pt)."""
+    r_pr = run._r.get_or_add_rPr()
+    spacing = OxmlElement("w:spacing")
+    spacing.set(qn("w:val"), str(int(points * 20)))
+    r_pr.append(spacing)
+
+
+# --------------------------------------------------------------------------
+# Devices: STAT / QUOTE / FACTBOX
+# --------------------------------------------------------------------------
+
+STAT_RE = re.compile(r"^>\s*STAT:\s*(.+)$")
+QUOTE_RE = re.compile(r"^>\s*QUOTE:\s*(.+)$")
+FACTBOX_RE = re.compile(r"^>\s*FACTBOX:\s*(.+)$")
+
+
+def parse_stat_line(stripped_line: str) -> tuple[str, str]:
+    m = STAT_RE.match(stripped_line)
+    content = m.group(1) if m else stripped_line
+    if "|" in content:
+        num, label = content.split("|", 1)
+    else:
+        num, label = content, ""
+    return num.strip(), label.strip()
+
+
+def add_stat_row(doc: Document, items: list[tuple[str, str]]) -> None:
+    if not items:
+        return
+    ncols = len(items)
+    table = doc.add_table(rows=1, cols=ncols)
+    table.alignment = WD_TABLE_ALIGNMENT.LEFT
+    table.autofit = True
+    set_table_autofit_window(table)
+    set_table_borders_none(table)
+    col_w = CONTENT_WIDTH_IN / ncols
+    row = table.rows[0]
+    for i, (num, label) in enumerate(items):
+        cell = row.cells[i]
+        cell.width = Inches(col_w)
+        set_cell_margins(cell, top=80, start=80, bottom=80, end=80)
+        p_num = cell.paragraphs[0]
+        p_num.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        run = p_num.add_run(num)
+        run.font.name = FONT
+        run.font.size = Pt(28)
+        run.bold = True
+        run.font.color.rgb = RGBColor.from_string(BLUE_1)
+        p_label = cell.add_paragraph()
+        p_label.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        render_inline(p_label, label)
+        for r in p_label.runs:
+            r.font.size = Pt(11)
+            r.font.color.rgb = RGBColor.from_string(TEXT)
+    doc.add_paragraph().paragraph_format.space_after = Pt(4)
+
+
+def add_quote(doc: Document, quote_text: str, attribution: str) -> None:
+    table = doc.add_table(rows=1, cols=1)
+    table.alignment = WD_TABLE_ALIGNMENT.LEFT
+    table.autofit = True
+    set_table_autofit_window(table)
+    set_table_borders_none(table)
+    cell = table.rows[0].cells[0]
+    set_cell_border(cell, "left", BLUE_1, "24")  # 3pt
+    set_cell_margins(cell, top=100, start=160, bottom=60, end=100)
+    p1 = cell.paragraphs[0]
+    run = p1.add_run(quote_text.strip())
+    run.font.name = FONT
+    run.font.size = Pt(14)
+    run.italic = True
+    run.font.color.rgb = RGBColor.from_string(TEXT)
+    if attribution.strip():
+        p2 = cell.add_paragraph()
+        run2 = p2.add_run(attribution.strip())
+        run2.font.name = FONT
+        run2.font.size = Pt(10)
+        run2.font.color.rgb = RGBColor.from_string(TEXT)
+    doc.add_paragraph().paragraph_format.space_after = Pt(4)
+
+
+def split_quote_attribution(content: str) -> tuple[str, str]:
+    """Split '"text" — Speaker, Title, Org' on the LAST em-dash."""
+    idx = content.rfind("—")
+    if idx == -1:
+        return content.strip(), ""
+    return content[:idx].strip(), content[idx + 1:].strip()
+
+
+def add_factbox(doc: Document, title: str, lines: list[str]) -> None:
+    table = doc.add_table(rows=1, cols=1)
+    table.alignment = WD_TABLE_ALIGNMENT.LEFT
+    table.autofit = True
+    set_table_autofit_window(table)
+    cell = table.rows[0].cells[0]
+    for edge in ("top", "left", "bottom", "right"):
+        set_cell_border(cell, edge, BORDER, "8")  # 1pt
+    set_cell_margins(cell, top=120, start=120, bottom=120, end=120)
+    p_title = cell.paragraphs[0]
+    run = p_title.add_run(title.strip().upper())
+    run.font.name = FONT
+    run.font.size = Pt(10)
+    run.bold = True
+    run.font.color.rgb = RGBColor.from_string(BLUE_1)
+    set_run_letter_spacing(run, 1.0)
+    for line in lines:
+        p = cell.add_paragraph()
+        render_inline(p, line)
+        for r in p.runs:
+            r.font.size = Pt(10.5)
+            r.font.color.rgb = RGBColor.from_string(TEXT)
+    doc.add_paragraph().paragraph_format.space_after = Pt(4)
+
+
 FIGURE_RE = re.compile(r"^\[FIGURE\s+([^:\]]+):\s*(.+?)(?:\s*[—-]\s*(.+))?\]$")
 MID_FIGURE_RE = re.compile(r"\[FIGURE\s+([^:\]]+):\s*(.+?)(?:\s*[—-]\s*(.+?))?\]")
 
@@ -660,7 +786,8 @@ def render_markdown(doc: Document, md_text: str, section_label: str) -> dict:
     """Parses md_text line-by-line and appends content to doc.
     Returns a stats dict (heading/table counts) for verification."""
     lines = md_text.splitlines()
-    stats = {"h1": 0, "h2": 0, "tables": 0, "figures": 0, "callouts": 0}
+    stats = {"h1": 0, "h2": 0, "tables": 0, "figures": 0, "callouts": 0,
+              "stats": 0, "quotes": 0, "factboxes": 0}
 
     i = 0
     n = len(lines)
@@ -723,6 +850,41 @@ def render_markdown(doc: Document, md_text: str, section_label: str) -> dict:
             text = stripped[len("> CALLOUT:"):].strip()
             add_callout(doc, text)
             stats["callouts"] += 1
+            i += 1
+            continue
+
+        # --- STAT device(s): consecutive "> STAT:" lines share one row,
+        # equal columns, max 4 per row. ---
+        if STAT_RE.match(stripped):
+            items: list[tuple[str, str]] = []
+            j = i
+            while j < n and len(items) < 4:
+                s = lines[j].strip()
+                if not STAT_RE.match(s):
+                    break
+                items.append(parse_stat_line(s))
+                j += 1
+            add_stat_row(doc, items)
+            stats["stats"] += len(items)
+            i = j
+            continue
+
+        # --- QUOTE device: > QUOTE: "text" — Speaker, Title, Org ---
+        if QUOTE_RE.match(stripped):
+            content = QUOTE_RE.match(stripped).group(1)
+            quote_text, attribution = split_quote_attribution(content)
+            add_quote(doc, quote_text, attribution)
+            stats["quotes"] += 1
+            i += 1
+            continue
+
+        # --- FACTBOX device: > FACTBOX: Title | line | line ---
+        if FACTBOX_RE.match(stripped):
+            content = FACTBOX_RE.match(stripped).group(1)
+            parts = [p.strip() for p in content.split("|")]
+            title, fb_lines = parts[0], parts[1:]
+            add_factbox(doc, title, fb_lines)
+            stats["factboxes"] += 1
             i += 1
             continue
 
@@ -810,33 +972,103 @@ def _shrink_runs(paragraph, size_pt: float) -> None:
         run.font.size = Pt(size_pt)
 
 
+def split_draft_notes(md_text: str) -> tuple[str, str | None]:
+    """Split off the '## Draft notes' section (and everything after it).
+    Returns (main_md, notes_md) where notes_md is None if no such heading
+    exists. notes_md includes the '## Draft notes' heading line itself."""
+    lines = md_text.splitlines()
+    for idx, line in enumerate(lines):
+        if line.strip().lower() == "## draft notes":
+            return "\n".join(lines[:idx]), "\n".join(lines[idx:])
+    return md_text, None
+
+
 # --------------------------------------------------------------------------
 # Main
 # --------------------------------------------------------------------------
 
 def main() -> int:
+    global _KEEP_TAGS
+
     parser = argparse.ArgumentParser(description="Render a Jacobs-branded Markdown draft to .docx")
     parser.add_argument("input_md", type=Path)
     parser.add_argument("output_docx", type=Path)
     parser.add_argument("--section-label", required=True, help='e.g. "Section 3"')
     parser.add_argument("--header", required=True, help="Header text shown top-right of every page")
+    parser.add_argument("--notes-inline", action="store_true",
+                         help="Old behavior: render '## Draft notes' inline in the main "
+                              "docx instead of splitting it into a companion file.")
+    parser.add_argument("--keep-tags", action="store_true",
+                         help="Do not strip [PLACEHOLDER/VERIFY/CONFIRM/TBD] tags from the "
+                              "main body; render them inline with yellow highlight instead.")
     args = parser.parse_args()
 
+    _KEEP_TAGS = args.keep_tags
+
     md_text = args.input_md.read_text(encoding="utf-8")
+
+    if args.notes_inline:
+        main_md, notes_md = md_text, None
+    else:
+        main_md, notes_md = split_draft_notes(md_text)
 
     doc = Document()
     configure_styles(doc)
     setup_page(doc, args.header, args.section_label)
     use_square_bullets(doc)
 
-    stats = render_markdown(doc, md_text, args.section_label)
+    stats = render_markdown(doc, main_md, args.section_label)
 
     args.output_docx.parent.mkdir(parents=True, exist_ok=True)
     doc.save(str(args.output_docx))
 
+    notes_docx_path = None
+    if notes_md:
+        notes_docx_path = args.output_docx.with_name(args.output_docx.stem + "_notes.docx")
+
+        # Tags in the notes companion are always shown (highlighted), never
+        # stripped -- this is a working document for the team, and it also
+        # needs to display the sentences pulled from the stripped main body.
+        saved_keep_tags = _KEEP_TAGS
+        _KEEP_TAGS = True
+        try:
+            notes_doc = Document()
+            configure_styles(notes_doc)
+            setup_page(notes_doc, args.header, args.section_label)
+            use_square_bullets(notes_doc)
+            add_draft_banner(notes_doc)
+
+            # Drop the leading "## Draft notes" heading line itself; render
+            # the rest of the section body normally.
+            notes_body = "\n".join(notes_md.splitlines()[1:])
+            render_markdown(notes_doc, notes_body, args.section_label)
+
+            if _TAG_HITS:
+                h = notes_doc.add_paragraph(style="Heading 1")
+                h.add_run("Open items found in body")
+                for hit in _TAG_HITS:
+                    p = notes_doc.add_paragraph(style="List Bullet")
+                    render_inline(p, hit)
+
+            notes_doc.save(str(notes_docx_path))
+        finally:
+            _KEEP_TAGS = saved_keep_tags
+
+    summary = {
+        "tables": stats["tables"],
+        "stats": stats["stats"],
+        "quotes": stats["quotes"],
+        "factboxes": stats["factboxes"],
+        "callouts": stats["callouts"],
+        "figures": stats["figures"],
+        "tags_stripped": _TAG_COUNT,
+        "notes_docx": str(notes_docx_path) if notes_docx_path else None,
+    }
+
     print(f"Wrote {args.output_docx}")
     print(f"Headings: Heading1={stats['h1']} Heading2={stats['h2']} "
           f"Tables={stats['tables']} Figures={stats['figures']} Callouts={stats['callouts']}")
+    print(json.dumps(summary))
     return 0
 
 

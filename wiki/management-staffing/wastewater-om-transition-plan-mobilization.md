@@ -4,7 +4,7 @@ category: management-staffing
 block-type: prose
 tags: [transition-plan, mobilization, workforce-continuity, due-diligence, regional-support-bench, knowledge-transfer, staffing, incumbent-displacement]
 source: hull-wwtf-om-2026
-source-section: "Section 5, Project Understanding and Technical Approach — Transition Plan (pp. 40-42)"
+source-section: "Section 5, Project Understanding and Technical Approach — Transition Plan: approach, timeline, and workforce continuity (pp. 40-42)"
 source-pages: [46, 47, 48]
 verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0046.md#¶10", "verbatim/hull-wwtf-om-2026/pages/p0047.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0048.md#¶1"]
 pursuit-type: [wwtp-om, collections]
@@ -47,29 +47,14 @@ Refined through numerous municipal transitions and successfully applied at compa
 
 We encourage [CLIENT] to speak directly with Jacobs' municipal clients who have experienced our transition process firsthand. Their feedback consistently **reflects strong communication, organized mobilization, and early operational improvements** that set the foundation for a high-performing, long-term partnership.
 
-### Immediate Mobilization and Governance
-
-Upon receiving award, Jacobs will activate our Transition Leadership Team and establish a formal governance structure with [CLIENT]. Decision authority, communication cadence, issue escalation, and accountability assignments will be confirmed at the outset, so **progress remains transparent and measurable**. We will immediately complete structured due diligence, including:
-
-- Review of NPDES permit requirements, monitoring/reporting obligations, and compliance history
-- Detailed review of O&M manuals, SOPs, CMOM documentation, and historical performance data
-- Verification of certified operator coverage and license/grade requirements
-- Asset inventory validation and critical equipment condition assessment (including maintenance backlog)
-- SCADA/telemetry review, remote access validation, alarm management testing, and cybersecurity verification
-- Flood control readiness review (pumps/gates), standby power verification, and storm response procedures
-
-All readiness milestones will be tracked against the Transition Schedule to ensure [CLIENT]'s facilities remain **stable and compliant throughout transition.**
-
-### Transition Leadership and Workforce Continuity
-
-Jacobs' Transition Leadership Team, led by Mike Boven, will oversee the integration process and serve as the primary interface with [CLIENT], maintaining a **practical, hands-on presence and clear accountability** throughout the transition.
+### Workforce Continuity and Employee Engagement
 
 The existing staff at [CLIENT]'s facilities represent essential institutional knowledge and operational continuity. Employment will be offered to qualified and interested personnel, and retention will be prioritized to **preserve system stability and protect [CLIENT]'s investment**. Our mobilization model blends local workforce continuity with regional technical depth so WWTF, collection system, pump station, and flood control operations remain fully staffed and supported from Commencement forward.
 
 If unexpected staffing gaps arise, Jacobs' regional bench of licensed operators and maintenance professionals will provide immediate interim coverage. During transition, roles will be aligned to operational needs and individual skill assessments, and responsibilities will be clarified early to strengthen accountability and readiness.
 
-Jacobs' transitions typically result in **strong employee engagement and retention** by providing clear leadership, defined expectations, competitive compensation, and structured training pathways that support **operational continuity and regulatory compliance**. Employee feedback from recent transitions shows a clear improvement in satisfaction after joining Jacobs, reflecting our strong onboarding, support systems, and people-focused culture: staff satisfaction rose from 3.6 to 4.1 at West Basin, California, and from 2.8 to 4.3 at Jackson, Mississippi (Exhibit 5-20, graphic `137_HHull_0091KO_1`).
+Jacobs' transitions typically result in **strong employee engagement and retention** by providing clear leadership, defined expectations, competitive compensation, and structured training pathways that support **operational continuity and regulatory compliance**. Employee feedback from recent transitions shows a clear improvement in satisfaction after joining Jacobs, reflecting our strong onboarding, support systems, and people-focused culture: staff satisfaction rose from 3.6 to 4.1 at West Basin, California, and from 2.8 to 4.3 at Jackson, Mississippi (Exhibit 5-20).
 
 ## Reuse guidance
 
-Universal: the three-phase structure (Pre-Start / Days 1–30 / Days 31–120), the six-item due-diligence checklist, the governance-first mobilization sequence, and the workforce-continuity argument — offer employment to qualified incumbent staff, backstop with a regional bench — which is the core of any incumbent-displacement transition story. Pursuit-specific: milestone dates keyed to the actual Commencement date, the regulator names, the flood-control and storm items (drop for inland facilities), and the named transition leadership. The two client testimonials and the satisfaction scores (3.6→4.1 West Basin; 2.8→4.3 Jackson) are the strongest evidence in the block — confirm permission status in `testimonials/inventory.md` before external use, and register the satisfaction figures before restating them. Pairs with [../compliance-plans/transition-team-organization-roster.md](../compliance-plans/transition-team-organization-roster.md) (the named transition team behind this narrative), [../compliance-plans/transition-readiness-training-day-one-compliance.md](../compliance-plans/transition-readiness-training-day-one-compliance.md) (training, site-specific integration, and Day 1 compliance assurance continue this passage), [om-transition-workplan-phased-schedule.md](om-transition-workplan-phased-schedule.md) (the Gantt detail), and [../technical-approach/cmms-driven-asset-management-maintenance-program.md](../technical-approach/cmms-driven-asset-management-maintenance-program.md) (commencement asset-registry work). Full passage: `verbatim/hull-wwtf-om-2026/pages/p0046.md`–`p0048.md`.
+Universal: the three-phase structure (Pre-Start / Days 1-30 / Days 31-120), the governance-first mobilization sequence, the named-risk paragraph (staff turnover, incomplete asset records, SCADA access limitations, emergency response readiness), the invitation to call reference clients, and the workforce-continuity argument - offer employment to qualified incumbent staff, backstop with a regional bench - which is the core of any incumbent-displacement transition story. Pursuit-specific: milestone dates keyed to the actual Commencement date, the regulator names, and the flood-control and storm items (drop for inland facilities). The two client testimonials and the satisfaction scores (3.6 to 4.1 at West Basin; 2.8 to 4.3 at Jackson) are the strongest evidence in the block - confirm permission status in `testimonials/inventory.md` before external use, and register the satisfaction figures in `proof-points/registry.md`. Pairs with [../compliance-plans/transition-due-diligence-governance-checklist.md](../compliance-plans/transition-due-diligence-governance-checklist.md) (the mobilization and due-diligence passage that follows this one in the source), [../compliance-plans/transition-team-organization-roster.md](../compliance-plans/transition-team-organization-roster.md) (the named transition team behind this narrative), [../compliance-plans/transition-readiness-training-day-one-compliance.md](../compliance-plans/transition-readiness-training-day-one-compliance.md) (training, site-specific integration, and Day 1 compliance assurance continue this passage), [om-transition-workplan-phased-schedule.md](om-transition-workplan-phased-schedule.md) (the Gantt detail), and [../technical-approach/cmms-driven-asset-management-maintenance-program.md](../technical-approach/cmms-driven-asset-management-maintenance-program.md) (commencement asset-registry work). Full passage: `verbatim/hull-wwtf-om-2026/pages/p0046.md`-`p0048.md`.

@@ -1,13 +1,30 @@
 ---
 title: "Project Description — South Huron Wastewater Treatment Plant O&M (South Huron Valley Utility Authority, Rockwood, MI)"
 category: past-performance
-tags: [past-performance, project-description, south-huron, rockwood-michigan, workforce-transition, biosolids, thermal-hydrolysis, class-a-biosolids, scada, regional-authority]
+block-type: prose
+tags: [past-performance, project-description, south-huron, rockwood-michigan, workforce-transition, biosolids, thermal-hydrolysis, class-a-biosolids, scada, regional-authority, industrial-pretreatment]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Description, p. B-4"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
-sanitized: false
-quality: Verbatim reference project narrative with named client contact and a workforce-transition/biosolids-modernization proof point.
-reuse-notes: "VERBATIM — real client name and contact. QC before external use: confirm Tim Neighbors is still Chairman and the phone/email are current. NOTE — SOURCE DATA ISSUE: the source PDF (Appendix B, p. B-4) shows the Annual Project Fee as the literal placeholder text \"$xxM\" (not a real figure) and displays the client testimonial quote and award line (\"Jacobs Significant Milestone\") identical to the Southbridge, MA page (attributed to Rich Benoit, Director of Public Works, referencing Southbridge) — this appears to be a copy/paste artifact in the original proposal rather than a genuine South Huron quote or award. Both are reproduced here exactly as they appear in the source for provenance; DO NOT reuse the fee placeholder or the mismatched testimonial in a live proposal — confirm the correct annual fee and obtain an actual South Huron/SHVUA client quote from the account team before external use. A generalized/sanitized pattern version of the narrative content (no client name, no fee/quote issues) lives at wiki/win-themes/project-narrative-workforce-transition-biosolids-modernization.md — do not modify that file; this is the verbatim source it was derived from."
+source-pages: [79]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0079.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0079.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0079.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0079.md#¶7", "verbatim/hull-wwtf-om-2026/pages/p0079.md#¶8"]
+pursuit-type: [wwtp-om, collections, solids]
+client-type: authority
+client-size: "24 MGD design / 9.99 MGD average / 36 mi interceptor / 2 lift stations / ~90,000 residents"
+geography: "Midwest / MI / EGLE, EPA Region 5"
+rfp-section-type: [past-performance]
+win-theme-map: [workforce-development, transition-continuity, asset-management, energy-chemical-efficiency, digital-tools, innovation-value-add]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: The one reference in the set that leads with people rather than plant — a credited staff transition plus targeted training and retention outcomes — paired with a Class A biosolids/thermal hydrolysis modernization story and SCADA/VFD automation upgrades.
+reuse-notes: "VERBATIM — real client name and contact; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Tim Neighbors is still Chairman and the phone/email are current. SOURCE DATA ISSUES on this page, reproduced here exactly for provenance: (1) the Annual Project Fee reads as the literal placeholder \"$xxM\", not a real figure; (2) the testimonial and the award line (\"Jacobs Significant Milestone\") are identical to the Southbridge, MA page and are attributed to Rich Benoit, Director of Public Works, referencing Southbridge — a copy/paste artifact in the original proposal, not a genuine SHVUA quote. Obtain the real annual fee and an actual SHVUA client quote from the account team before using this project in a live proposal."
 ---
 
 # South Huron Wastewater Treatment Plant O&M
@@ -18,10 +35,10 @@ reuse-notes: "VERBATIM — real client name and contact. QC before external use:
 2019 to Present
 
 ## Annual Project Fee
-$xxM *(as shown in source PDF — literal placeholder text, not a real figure; confirm actual value before reuse)*
+$xxM *(shown in the source PDF as literal placeholder text, not a real figure — confirm the actual value before reuse)*
 
 ## Plant Size
-24 MGD WWTP, collection system, pump stations
+24 MGD
 
 ## Owner Contact
 Tim Neighbors, Chairman
@@ -29,7 +46,7 @@ T: 734.675.4919
 E: tneighbors@woodhavenmi.org
 
 ## Awards (as shown in source)
-Jacobs Significant Milestone *(see reuse-notes — this line and the testimonial below duplicate the Southbridge, MA page content in the source PDF and should be verified/replaced before reuse)*
+Jacobs Significant Milestone *(see reuse-notes — this line and the testimonial below duplicate the Southbridge, MA page content in the source PDF and should be verified or replaced before reuse)*
 
 ## Description of Services Provided
 
@@ -53,4 +70,4 @@ Jacobs provides 24/7 operations, maintenance, lab, regulatory compliance, indust
 
 ## Reuse guidance
 
-Verbatim past-performance content — use in Section 3 / Appendix B style project-description responses and reference lists, EXCEPT for the annual fee and testimonial fields flagged above, which are source-document errors (a "$xxM" placeholder and a Southbridge quote misattributed to this page). Confirm the real annual fee and obtain a genuine SHVUA client quote before using this project in a live proposal. QC the contact name/title/phone/email against current account-team knowledge. Pairs with `similar-facilities-table.md` and `client-references.md`. For a sanitized narrative suitable for reusable win-theme drafting, see `../win-themes/project-narrative-workforce-transition-biosolids-modernization.md`.
+Reach for this project when the evaluator's real worry is people, not process: an incumbent workforce that may or may not come across, institutional knowledge walking out the door, or a union transition. The narrative names staff transition, targeted training, retention, and operational continuity as credited outcomes rather than folding them into a generic "smooth transition" line, which is exactly what a transition-risk-driven evaluation wants to see. The second reusable thread is the biosolids modernization path — alternatives evaluation through thermal hydrolysis to Class A production, delivered while the plant stayed in continuous operation — which shows capital-planning contribution beyond routine O&M. Scale numbers to keep: 24 MGD design against 9.99 MGD average flow, ~90,000 residents served, 36 miles of interceptor, and the two lift stations at 1.3 MGD and 39 MGD. Do not reuse the annual fee placeholder or the mismatched testimonial as written — both are source-document errors flagged above. The source page is marked Confidential/Proprietary in the original. Pairs with `similar-facilities-table.md` (SHVUA also appears there as a 24-MGD, 1/1/2019 start-date row) and `client-references.md`. For the generalized, drop-in narrative version, see `../win-themes/project-narrative-workforce-transition-biosolids-modernization.md`. Full source prose: `verbatim/hull-wwtf-om-2026/pages/p0079.md`.

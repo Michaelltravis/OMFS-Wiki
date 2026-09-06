@@ -1,11 +1,28 @@
 ---
 title: Comprehensive O&M Plan Document Roster (30-Plan Framework)
 category: technical-approach
+block-type: prose
 tags: [om-plan, plan-roster, sop, transition, exhibit, program-documents, leadership-tailoring]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Strategic O&M Plans Built on Best Practices and Innovation, Exhibit 2-9 (p. 34)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach — Strategic O&M Plans Built on Best Practices and Innovation, Exhibit 2-9"
+source-pages: [34]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0034.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0034.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0034.md#¶7"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "1.0 MGD advanced water treatment facility + stormwater diversion/pump assets, urban runoff recycling facility, and GRRP injection wells"
+geography: "Southern California / CA / SWRCB Division of Drinking Water + LA RWQCB (Title 22 GRRP, WDRs)"
+rfp-section-type: [tech-approach]
+win-theme-map: [compliance-leadership, asset-management, transition-continuity, partner-transparency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A comprehensive, evaluator-friendly checklist of ~30 named O&M plan/program documents that make an abstract "we have a plan" claim concrete and auditable; paired with named leadership accountable for developing and refining the plans.
 reuse-notes: The 30-plan roster is broadly reusable for any water/wastewater O&M pursuit; confirm it against the target RFP's specifically required plan types (add/remove as needed) and update the named leadership team to the actual proposed staff for the new pursuit.
 ---

@@ -1,13 +1,30 @@
 ---
-title: Joshua Hernandez — Operator (WW Operator Grade V, AWT3)
+title: Joshua Hernandez - Operator (WW Operator Grade V, AWT3)
 category: resumes
-tags: [operator, wastewater-grade-v, scada, process-control, laboratory-testing, mentorship, automation]
+block-type: prose
+tags: [operator, wastewater-grade-v, scada, process-control, laboratory-testing, mentorship, automation, key-personnel]
 source: santamonica-swip-om-2025
-source-section: "3.2 Resumes — Joshua Hernandez (p. 87)"
-context: Southern California sustainable water infrastructure O&M, 2025
-sanitized: false
-quality: Solid mid-career operator resume emphasizing SCADA/PLC skill development, mentorship of junior operators, and OSHA/EPA compliance leadership.
-reuse-notes: Verbatim — resumes are not sanitized per CLAUDE.md. Useful as a supporting operator-level resume for California wastewater O&M staffing plans.
+source-section: "3.2 Resumes - Joshua Hernandez (p. 87)"
+source-pages: [87]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0087.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0087.md#¶11"]
+pursuit-type: [wwtp-om, reuse-dpr]
+client-type: municipal
+client-size: "Advanced water treatment facility (AWTF) for groundwater replenishment; municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water - Title 22 & GRRP"
+rfp-section-type: [resume]
+win-theme-map: [compliance-leadership, safety-culture, digital-tools, workforce-development]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: "Solid mid-career operator resume emphasizing SCADA/PLC skill development, mentorship of junior operators, and OSHA/EPA compliance leadership; ten years of full-plant wastewater operations with laboratory testing and regulatory reporting."
+reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Useful as a supporting operator-level resume for California wastewater and advanced-treatment O&M staffing plans."
 ---
 
 # Joshua Hernandez

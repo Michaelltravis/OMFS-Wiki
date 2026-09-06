@@ -1,18 +1,35 @@
 ---
 title: Proposed Project Team Organization — Onsite, Shared, and Offsite Support Tiers
 category: management-staffing
-tags: [org-chart, org-structure, onsite-team, shared-resources, offsite-support, engineering-support-team, regional-om-support-team, regional-maintenance-team, named-personnel]
+block-type: roster
+tags: [org-chart, org-structure, onsite-team, shared-resources, offsite-support, engineering-support-team, regional-om-support-team, regional-maintenance-team, named-personnel, regional-bench]
 source: santamonica-swip-om-2025
-source-section: "3.1 Staffing Plan — Exhibit 3-1 Proposed Project Team Organization (p. 74)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.1 Staffing Plan — Exhibit 3-1 Proposed Project Team Organization"
+source-pages: [74]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0074.md#¶1"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facilities — 6 onsite FTEs plus 2 shared regional resources"
+geography: "Southern California / CA / SWRCB Division of Drinking Water, Title 22"
+rfp-section-type: [staffing]
+win-theme-map: [regional-bench, compliance-leadership, transition-continuity]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A clean three-tier staffing structure (named onsite team / shared local resources / named offsite regional-and-national support benches across three functional teams) with quantified summary stats (FTE counts, committed support hours) — a strong, reusable org-chart pattern with real, credentialed named individuals across every tier.
 reuse-notes: All names, titles, and credentials below are real Jacobs personnel as proposed for this pursuit and are kept verbatim per wiki policy (only the pursuing client's name is genericized). Replace with the actual proposed roster for a new pursuit; the tiered structure and stat-callout format are what's reusable.
 ---
 
 # Proposed Project Team Organization
 
-Jacobs' proposed team organization (Exhibit 3-1, graphic `100_008A26`) illustrates reporting relationships between core operational roles, supplemental support positions, and the broader Jacobs resource network available to [CLIENT]. This structure is designed to maintain clear lines of responsibility while fostering collaboration across all team members and support functions.
+Our team organization, shown in **Exhibit 3-1** (graphic `100_008A26`), illustrates our proposed structure, showing reporting relationships between core operational roles, supplemental support positions, and the broader Jacobs resource network available to [CLIENT]. This visual reflects how Jacobs will maintain clear lines of responsibility while fostering collaboration across all team members and support functions.
 
 ## Reporting Structure
 

@@ -1,0 +1,372 @@
+[
+  {
+    "claim": "Jacobs' environmental compliance record across O&M contracts",
+    "number": "99.98",
+    "unit": "percent",
+    "as_of": "2025",
+    "page": 52,
+    "para": 8,
+    "block": "wiki/compliance-plans/swip-environmental-regulatory-compliance-program.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis chlorine total residual instantaneous maximum permit limit at EFF-A",
+    "number": "0.01",
+    "unit": "mg/L",
+    "as_of": "2025-01-13",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis reported chlorine total residual value at EFF-A exceeding limit",
+    "number": "0.08",
+    "unit": "mg/L",
+    "as_of": "2025-01-13",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis reported chlorine total residual value at EFF-A exceeding limit",
+    "number": "0.012",
+    "unit": "mg/L",
+    "as_of": "2024-12-17",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis pH instantaneous minimum permit limit at REC-001",
+    "number": "6.5",
+    "unit": "SU",
+    "as_of": "2024-08-23",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis reported pH value at REC-001 below minimum",
+    "number": "6.36",
+    "unit": "SU",
+    "as_of": "2024-08-23",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis turbidity instantaneous maximum permit limit at FIL-001",
+    "number": "0.5",
+    "unit": "NTU",
+    "as_of": "2024-03-19",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis reported turbidity value at FIL-001 exceeding limit",
+    "number": "0.76",
+    "unit": "NTU",
+    "as_of": "2024-03-19",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis reported turbidity value at FIL-001 exceeding limit",
+    "number": "0.75",
+    "unit": "NTU",
+    "as_of": "2024-02-06",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Clovis membrane tank re-circulation interval restored by programmer after standby",
+    "number": "10",
+    "unit": "minutes",
+    "as_of": "2024-02-06",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "other"
+  },
+  {
+    "claim": "City of Clovis membrane tank standby duration triggering re-circulation",
+    "number": "5",
+    "unit": "minutes",
+    "as_of": "2024-02-06",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "other"
+  },
+  {
+    "claim": "City of Clovis coliform readout escalation deadline for lab technician or PM contact",
+    "number": "10",
+    "unit": "AM (time of day)",
+    "as_of": "2024-10-04",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Gilroy chlorine contact basin contact time permit limit",
+    "number": "450",
+    "unit": "mg-min/L",
+    "as_of": "2020-11-10",
+    "page": 54,
+    "para": 1,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Gilroy chlorine contact basin low-contact-time alarm setpoint",
+    "number": "460",
+    "unit": "mg-min/L",
+    "as_of": "2020-11-10",
+    "page": 54,
+    "para": 1,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "City of Gilroy duration chlorine contact basin contact time was below permit limit",
+    "number": "11",
+    "unit": "minutes",
+    "as_of": "2020-11-10",
+    "page": 54,
+    "para": 1,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Number of permit/compliance incidents Jacobs self-disclosed in Exhibit 2-24 across four O&M contracts (Clovis, Crescent City, Gilroy, Red Bluff)",
+    "number": "13",
+    "unit": "incidents",
+    "as_of": "2025",
+    "page": 53,
+    "para": 3,
+    "block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Value of the AquaDNA Deragger Jacobs will install on the coastal lift station at no additional cost during transition",
+    "number": "75000",
+    "unit": "USD embedded value",
+    "as_of": "2025",
+    "page": 56,
+    "para": 6,
+    "block": "wiki/technical-approach/swip-asset-management-program-overview.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Embedded value of the dedicated regional Maintenance Technician shared across the client project and the West Basin project",
+    "number": "170000",
+    "unit": "USD embedded value",
+    "as_of": "2025",
+    "page": 56,
+    "para": 19,
+    "block": "wiki/technical-approach/swip-asset-management-program-overview.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Number of national O&M Asset Management and Maintenance Technical Support Team programs guided by the Director of Asset Management for O&M",
+    "number": "4",
+    "unit": "programs",
+    "as_of": "2025",
+    "page": 56,
+    "para": 18,
+    "block": "wiki/technical-approach/swip-asset-management-program-overview.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Embedded value of the ISO 55001-aligned asset management program Jacobs will implement",
+    "number": "300000",
+    "unit": "USD embedded value",
+    "as_of": "2025",
+    "page": 57,
+    "para": 7,
+    "block": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+    "category": "financial"
+  },
+  {
+    "claim": "ISO standard the Jacobs Asset Management System is aligned to",
+    "number": "55001",
+    "unit": "ISO standard number",
+    "as_of": "2025",
+    "page": 57,
+    "para": 3,
+    "block": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+    "category": "other"
+  },
+  {
+    "claim": "Number of elements in Jacobs' asset management model (10-Box Model, Exhibit 2-25)",
+    "number": "10",
+    "unit": "elements",
+    "as_of": "2025",
+    "page": 57,
+    "para": 3,
+    "block": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs predictive maintenance program level committed for the facilities",
+    "number": "3",
+    "unit": "PdM level",
+    "as_of": "2025",
+    "page": 58,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-lifecycle-delivery-maintenance-strategy.md",
+    "category": "other"
+  },
+  {
+    "claim": "Time within which corrective maintenance work orders are issued after detection",
+    "number": "24",
+    "unit": "hours",
+    "as_of": "2025",
+    "page": 58,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-lifecycle-delivery-maintenance-strategy.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Time within which corrective maintenance work orders are closed",
+    "number": "120",
+    "unit": "days",
+    "as_of": "2025",
+    "page": 58,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-lifecycle-delivery-maintenance-strategy.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Capital improvement planning horizons the CMMS asset data will support",
+    "number": "5 and 10",
+    "unit": "years",
+    "as_of": "2025",
+    "page": 58,
+    "para": 9,
+    "block": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Water and wastewater plant assets for which Jacobs field-trained maintenance specialists have completed condition assessments",
+    "number": "1000000",
+    "unit": "assets",
+    "as_of": "2025",
+    "page": 59,
+    "para": 3,
+    "block": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Length of the Jacobs condition assessment process video referenced in the proposal",
+    "number": "5",
+    "unit": "minutes",
+    "as_of": "2025",
+    "page": 59,
+    "para": 3,
+    "block": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+    "category": "other"
+  },
+  {
+    "claim": "Number of predictive maintenance technologies in Jacobs' reliability-centered maintenance toolkit (ultrasound, precision alignment, infrared thermography, lubrication/oil analysis, vibration measurement)",
+    "number": "5",
+    "unit": "technologies",
+    "as_of": "2025",
+    "page": 59,
+    "para": 10,
+    "block": "wiki/technical-approach/swip-predictive-maintenance-technologies.md",
+    "category": "other"
+  },
+  {
+    "claim": "Number of key inventory roles defined in the Inventory Management System setup",
+    "number": "4",
+    "unit": "roles",
+    "as_of": "2025",
+    "page": 60,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-inventory-management-system.md",
+    "category": "other"
+  },
+  {
+    "claim": "Number of actionable inventory reports generated (re-order, ordered and received, usage, obsolescence)",
+    "number": "4",
+    "unit": "reports",
+    "as_of": "2025",
+    "page": 60,
+    "para": 26,
+    "block": "wiki/technical-approach/swip-inventory-management-system.md",
+    "category": "other"
+  },
+  {
+    "claim": "Day of each month by which the Monthly Operating Report is delivered",
+    "number": "5",
+    "unit": "day of month",
+    "as_of": "2025",
+    "page": 61,
+    "para": 13,
+    "block": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Days after each calendar year of operations by which the draft Annual Report is furnished to the client",
+    "number": "30",
+    "unit": "days",
+    "as_of": "2025",
+    "page": 61,
+    "para": 16,
+    "block": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Days after each calendar year of operations by which the final Annual Report is furnished to the client",
+    "number": "60",
+    "unit": "days",
+    "as_of": "2025",
+    "page": 61,
+    "para": 16,
+    "block": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Energy savings opportunities identified through the Annual Innovation Workshop for the Wilmington WWTP",
+    "number": "1000000",
+    "unit": "USD (more than)",
+    "as_of": "2024",
+    "page": 62,
+    "para": 24,
+    "block": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Duration of the Jacobs Annual Innovation Workshop as delivered (8:30 a.m. to 4:30 p.m.)",
+    "number": "8",
+    "unit": "hours",
+    "as_of": "2024-06-05",
+    "page": 62,
+    "para": 20,
+    "block": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+    "category": "other"
+  },
+  {
+    "claim": "Number of agenda sessions in the 2024 Innovation Workshop (Wilmington, DE), excluding breaks and lunch",
+    "number": "9",
+    "unit": "sessions",
+    "as_of": "2024-06-05",
+    "page": 62,
+    "para": 20,
+    "block": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+    "category": "other"
+  }
+]

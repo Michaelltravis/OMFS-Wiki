@@ -1,13 +1,30 @@
 ---
 title: Safety Plan and Management with BeyondZero Culture and Multi-Year Performance Metrics
 category: compliance-plans
+block-type: prose
 tags: [safety-plan, beyondzero, safety-scorecard, trir, emr, dart, iipp, bzo-observations, safety-benchmarking, exhibit]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Safety Plan and Management, Exhibits 2-20, 2-21, 2-22 (p. 49)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach B - Safety Plan and Management: Health and Safety; Safety Tracking and Performance (Exhibits 2-20, 2-21, 2-22)"
+source-pages: [49]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0049.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶8"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, stormwater]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach, compliance]
+win-theme-map: [safety-culture, compliance-leadership, partner-transparency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: Combines the BeyondZero safety-culture narrative with a quantified Safety Scorecard concept (leading + lagging indicators) and three years of hard corporate safety metrics (ERM by policy year, TRIR by year, industry benchmark comparisons showing 60%/72% better-than-industry performance) — the leading/lagging indicator framing is a differentiator beyond a simple TRIR citation.
-reuse-notes: The BeyondZero narrative, Safety Scorecard concept, and industry-benchmark framing are fully generic and reusable. All specific metrics (ERM by policy year, TRIR by year, industry-average comparison percentages) must be refreshed with current corporate safety data before reuse — do not present this pursuit's cycle's figures as current in a later proposal.
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Combines the BeyondZero safety-culture narrative with a Safety Scorecard concept (five leading, two lagging indicators) and five years of hard corporate safety metrics (ERM by policy year, TRIR by year) plus industry benchmarks showing 60 percent and 72 percent better-than-industry performance.
+reuse-notes: The BeyondZero narrative, the Safety Scorecard leading/lagging framework, and the industry-benchmark framing are fully generic. Refresh every metric (ERM by policy year, TRIR by year, the BLS 2018-2022 benchmark window) from current corporate safety data before each reuse, and confirm the RFP's required EMR/TRIR thresholds are cleared before citing better-than-industry language.
 ---
 
 # Safety Plan and Management with BeyondZero Culture and Multi-Year Performance Metrics

@@ -1,13 +1,30 @@
 ---
 title: Ongoing Safety Training/Certification and Underground/Confined Space Safety Program
 category: compliance-plans
-tags: [safety-training, confined-space-entry, osha-permit-required-confined-space, nfpa-70e, lockout-tagout, underground-facility-safety]
+block-type: prose
+tags: [safety-training, confined-space-entry, osha-permit-required-confined-space, nfpa-70e, lockout-tagout, underground-facility-safety, training-tracking]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Comprehensive, Ongoing Safety Training and Certification / Underground and Confined Space Safety (pp. 50)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach B - Key Elements of Our Safety Program and Planning: Comprehensive, Ongoing Safety Training and Certification; Underground and Confined Space Safety (Exhibit 2-23, continued)"
+source-pages: [51]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0051.md#¶1"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, stormwater, collections]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach, compliance]
+win-theme-map: [safety-culture, workforce-development, compliance-leadership]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: Specific, quantified training program (100+ online courses, named OSHA topics) paired with a targeted underground/confined-space safety protocol relevant to below-grade treatment facilities.
-reuse-notes: Facility types (lift stations, stormwater tanks, diversion structures) should be swapped for the pursuit's actual asset types; training topic list and course count are reusable as-is.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Quantified training program (100-plus online safety courses, named OSHA topics) paired with a targeted underground and confined-space protocol written specifically for below-grade lift stations, stormwater tanks, and diversion structures.
+reuse-notes: Swap the asset list (lift stations, stormwater tanks, diversion structures) for the pursuit's actual inventory. The training-needs assessment cadence (at transition, then annually), the 100-plus course figure, and the confined-space protocol elements are corporate content reusable as-is; reverify the course count before each reuse.
 ---
 
 # Ongoing Safety Training/Certification and Underground/Confined Space Safety Program

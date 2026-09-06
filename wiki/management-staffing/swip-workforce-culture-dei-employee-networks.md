@@ -1,13 +1,30 @@
 ---
-title: Workforce Culture — TogetherBeyond Diversity Strategy and Employee Network Groups
+title: Workforce Culture - TogetherBeyond Diversity Strategy and Employee Network Groups
 category: management-staffing
+block-type: prose
 tags: [diversity-equity-inclusion, togetherbeyond, employee-network-groups, workforce-culture, retention, belonging]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — True Belonging with Diversity, Equality, and Inclusion, Exhibit (p. 44)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach B - True Belonging with Diversity, Equality, and Inclusion; Employee Network Groups"
+source-pages: [44]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0044.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0044.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0044.md#¶6"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach, staffing, qualifications]
+win-theme-map: [workforce-development, community-engagement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: Names a corporate strategic framework (TogetherBeyond, four strategic pillars) and eight specific, named employee resource groups with one-line missions each — gives evaluators concrete evidence of an operationalized culture program rather than a generic DEI statement.
-reuse-notes: Fully generic corporate workforce-culture content, reusable as-is for any pursuit; the "because [this pursuit's region] is a truly diverse [community]" sentence should be adapted to the target pursuit's actual community characteristics or removed if not applicable.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Names a corporate strategic framework (TogetherBeyond, four strategic pillars), five professional-society affiliations, and eight named employee resource groups with one-line missions - concrete evidence of an operationalized culture program rather than a generic diversity statement.
+reuse-notes: Fully generic corporate workforce-culture content. Adapt or drop the sentence about the service community being truly diverse to reflect the target community, and confirm current program naming and the list of employee networks before reuse.
 ---
 
 # Workforce Culture — TogetherBeyond Diversity Strategy and Employee Network Groups

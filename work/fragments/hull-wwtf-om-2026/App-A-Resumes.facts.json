@@ -578,5 +578,15 @@
     "para": 9,
     "block": "wiki/resumes/scott-mangold.md",
     "category": "financial"
+  },
+  {
+    "claim": "Site transitions (badge flips) Scott Mangold was instrumental in accomplishing — NASA Goddard, Honeywell in Wilmington DE, Westerly RI, and Southbridge MA",
+    "number": "4",
+    "unit": "site transitions",
+    "as_of": "2026",
+    "page": 74,
+    "para": 10,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "outcome"
   }
 ]

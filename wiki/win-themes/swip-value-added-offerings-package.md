@@ -1,62 +1,78 @@
 ---
-title: Value-Added Offerings Package — $4.1M Bundle, Discounted Engineering Hours, and Named SME Reach-Back
+title: Value-Added Offerings Package — 1,000 Discounted Engineering Hours and a $4.1M No-Cost Bundle
 category: win-themes
-tags: [value-added-services, win-theme, no-cost-enhancements, benefit-framing, differentiator, discounted-engineering, sme-reach-back, dpr-experts, exhibit, wheel-chart]
+block-type: prose
+tags: [value-added-services, win-theme, no-cost-enhancements, benefit-framing, differentiator, discounted-engineering, innovation-workshop, asset-management, cybersecurity]
 source: santamonica-swip-om-2025
-source-section: "Executive Summary (pp. 6-14), '1,000 Hours of Discounted Engineering Services' / 'Top Water Reuse Experts—On Call' / 'Value-Added Offerings (Included in Our Base Fee)'"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "Executive Summary — 1,000 Hours of Discounted Engineering Services / Value-Added Offerings (Included in Our Base Fee)"
+source-pages: [9, 13]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0009.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0009.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0013.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0013.md#¶3"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Underground AWTF (MBR/RO/UV-AOP) plus urban runoff recycling facility, stormwater assets, and 2 injection wells; five-year contract"
+geography: "Southern California / CA / SWRCB Division of Drinking Water — Title 22 GRRP"
+rfp-section-type: [exec-summary]
+win-theme-map: [innovation-value-add, partner-transparency, regional-bench, asset-management, energy-chemical-efficiency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: Bundles ten distinct no-cost enhancements into one totaled, radial-chart headline value figure, names specific outside experts by name and credential (not just "our national bench"), and separately calls out a discounted-engineering-hours program with a plain-language "how it works" explainer — a strong combination for evaluators who want both a big memorable number and evidence it is backed by real, named capability
-reuse-notes: The dollar figures are this pursuit's real worked example (outcome/value figures, not commercial pricing) — rebuild the total and every line item from the target pursuit's actual value-add package rather than reusing SWIP's figures; the engineering-rate "multiplier" itself is commercial/rate information and must stay bracketed per current sanitization policy even though the resulting dollar VALUE figure is kept
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Bundles ten distinct no-cost enhancements into one totaled, memorable headline figure displayed as a radial chart, and pairs it with a plain-language "how it works" explainer for the on-call engineering hours that removes the client's main objection (new procurement steps).
+reuse-notes: Every dollar figure and the ten-offering mix are this pursuit's real worked example — rebuild the bundle and its total from the target pursuit's actual value-add package rather than carrying these figures forward as a standard offer. Confirm the engineering-rate multiplier against the current commercial position before restating it.
 ---
 
-# Value-Added Offerings Package — $4.1M Bundle, Discounted Engineering Hours, and Named SME Reach-Back
+# Value-Added Offerings Package — 1,000 Discounted Engineering Hours and a $4.1M No-Cost Bundle
 
-## 1,000 Hours of Discounted Engineering Services
+## 1,000 Hours of Discounted Engineering Services — Fueling Strategic Technical Support
 
-**Framing:** "Jacobs' Added Value for [CLIENT] will provide the client with: 1,000 hours/year of discounted engineering services; a reduced [engineering rate] multiplier to extend [client] resources; flexible, on-demand access to Jacobs' deep technical bench." *(The specific rate multiplier is commercial rate information and should stay bracketed regardless of pursuit — only the resulting value/hours figure is an outcome figure safe to reuse.)*
+**Jacobs' Added Value for [CLIENT] will provide the [CLIENT] with:**
 
-**This offering enables the client to leverage national reuse expertise to:** troubleshoot advanced treatment systems and resolve challenges; optimize system performance using proven, data-driven evaluations; engage technical support for DPR planning, permitting, and compliance; collaborate on SOPs, instrumentation calibration, or field testing protocols.
+- 1,000 hours/year of discounted engineering services
+- A reduced multiplier of 2.3 to extend [CLIENT] resources
+- Flexible, on-demand access to Jacobs' deep technical bench
 
-**How it works:** "[Client] can tap into this support at any time—no new procurement steps required. Whether addressing a pressing need or advancing long-term planning, these hours give your team on-call access to the industry's leading process thinkers for any out-of-scope needs you may have."
+**This offering enables the [CLIENT] to leverage national reuse expertise to:**
 
-**Pull-quote:** *"A strategic tool for unlocking full value from [PROJECT]—and preparing for what's next."*
+- Troubleshoot advanced treatment systems and resolve challenges
+- Optimize program performance using proven, data-driven evaluations
+- Engage technical support for DPR planning, permitting, and compliance
+- Collaborate on SOPs, instrumentation calibration, or field testing protocols
 
-## Top Water Reuse Experts — On Call
+**How it works.** [CLIENT] can tap into this support at any time—no new procurement steps required. Whether addressing a pressing need or advancing long-term planning, these hours give your team on-call access to the industry's leading process thinkers for any out of scope needs you may have.
 
-**Framing:** "[Client] will gain something no typical O&M firm offers: direct access to Jacobs' nationally recognized potable-reuse leaders—names your staff already know:"
+**Pull-quote:** *"A strategic tool for unlocking full value from the program—and preparing for what's next."*
 
-- **Melanie Holmer, PE** — served on the WateReuse California Board of Directors and its DPR working group, combing through every aspect and iteration of the draft and final DPR regulations, and has also led or supported process or permitting of DPR projects for Pure Water Soquel, Pure Water San Diego, Pure Water Southern California, and Los Angeles GWPP (DC Tillman AWPF).
-- **Larry Schimmoller, PE** — is the Process Lead for the DC Tillman Progressive Design-Build and engaged with LADWP on innovative research for alternative DPR treatment trains.
-- **Jim Lozier, PE, and Mike Hwang, PE** — are recognized experts in membrane filtration and reverse osmosis. These subject matter experts and more will provide critical process support and brainstorming for future DPR.
+## Value-Added Offerings (Included in Our Base Fee)
 
-**Access model:** "They will be a phone call away to support DPR strategy, permitting, and complex troubleshooting alongside the on-site team. Their current California work will inform practical solutions for [client]'s path to DPR."
+Jacobs will include the following value-added services at no additional cost—expert-led programs and surge resources that will actively challenge complacency and steadily elevate program performance. Co-planned with [CLIENT] staff each year, these offerings will drive innovation, training, regional support, process optimization, cybersecurity, asset and inventory management, and compliance systems—delivering measurable improvements in safety, reliability, and DPR readiness over the life of the contract.
 
-**Benefits to [Client] callout:** *"Faster answers to complex process and reuse questions, smoother regulatory engagement, and accelerated progress toward DPR."*
+**Radial-chart device (asset `151_008A26`) — "Jacobs Value-Added Offerings," $4.1M total value over five years:**
 
-## Value-Added Offerings Wheel — $4.1M Total (Included in Base Fee)
-
-**Framing:** "Jacobs will include the following value-added services at no additional cost—expert-led programs and surge resources that will actively challenge complacency and steadily elevate [PROJECT] performance. Co-planned with [client] staff each year, these offerings will drive innovation, training, regional support, process optimization, cybersecurity, and asset and inventory management, and compliance systems—delivering measurable improvements in safety, reliability, and DPR readiness over the life of the contract."
-
-**Radial-chart device (asset `151_008A26`):** a circular chart totaling **$4.1M in value over five years**, broken into ten labeled wedges:
-
-| Offering | Value (5-yr) | What it is |
+| Offering | Value | What it is |
 |---|---|---|
-| Regional Support | $1,700,000 | [Region]-based I&C and Maintenance surge coverage shared with a nearby project |
-| Discounted Engineering Rate | $1,250,000 | Targeted reuse/process/controls studies at reduced cost *(rate multiplier itself stays bracketed — see above)* |
-| Annual Innovation Workshop | $300,000 | Facilitated by Jacobs reuse/process leaders and 2–3 consulting SMEs plus project and client leadership |
-| ISO-aligned Asset Management Program | $300,000 | Stand up program, optimize PM/PdM, lifecycle planning, and provide custom dashboards |
-| Compliance Reporting Systems | $150,000 | HachWIMS/LIMS/STT integration with automated KPI/MOR/DMR packages |
+| Regional Support | $1,700,000 | LA-based I&C and Maintenance surge coverage shared with a nearby project |
+| Discounted Engineering Rate | $1,250,000 | Targeted reuse/process/controls studies at reduced cost |
+| Annual Innovation Workshop | $300,000 | Facilitated by Jacobs reuse/process leaders and 2–3 consulting SMEs plus project and [CLIENT] leadership |
+| ISO-aligned Asset Management Program | $300,000 | Stand-up program, optimize PM/PdM, lifecycle planning, and provide custom dashboards |
 | Annual Trainings & Incentives | $200,000 | Structured operator development and certifications |
-| Lift Station Optimization / AquaDNA Deragger | $75,000 | Ensure readiness and uptime, optimize cleaning frequency |
-| Inventory Management | $35,000 | Stockroom setup, labeling/QR, and KPI reporting |
-| Cybersecurity Survey | $35,000 | Right-sized OT/SCADA assessment aligned to client standards |
-| MBR/Process Optimization Tools | $50,000 | Data-driven diagnostics and targeted studies to manage stormwater leachate/solids |
+| Compliance Reporting Systems | $150,000 | Hach WIMS/LIMS/STT integration with automated KPI/MOR/DMR packages |
+| Lift Station Optimization — AquaDNA Deragger | $75,000 | Ensure readiness and uptime, optimize cleaning frequency |
+| MBR/Process Optimization Tools | $50,000 | Data-driven diagnostics and targeted studies to manage stormwater leachate |
+| Inventory Management | $35,000 | Stockroom setup, labeling/QR, SOPs, and KPI reporting |
+| Cybersecurity Survey | $35,000 | Right-sized OT/SCADA assessment aligned to [CLIENT] standards |
 
-**Benefits to [Client] callout:** *"Immediate value without added cost, accelerated optimization, and targeted risk reduction where it matters most."*
+*Value over five years.*
 
-**Closing "Bottom Line" statement (section-level close, place at the end of the executive summary):** "Jacobs will operate and care for [PROJECT] like it is our own—shoulder-to-shoulder with [client] staff—bringing unmatched O&M rigor, instant access to top reuse engineers and other water treatment experts, and measurable value that will reduce risk, increase reliability, and accelerate [client]'s path to DPR leadership. We always stay ahead of the curve solving problems quickly and anticipating what's to come, providing the [client] peace of mind that the work is always being done the right way." Followed by a boxed, one-sentence positioning statement: *"Jacobs is the [client]'s best-value partner who will act as an extension of your team; deliver reliable, compliant, and transparent performance; and position the [client] to lead the nation in advanced water reuse."*
+**Benefits to [CLIENT] callout:** *"Immediate value without added cost, accelerated optimization, and targeted risk reduction where it matters most."*
 
 ## Reuse guidance
 
-Universal: the "bundle into one headline value figure with a radial/wheel chart" technique (see also `value-added-no-cost-enhancements-framing.md` for the Hull pursuit's donut-chart version of the same technique), naming individual outside experts by name/credential rather than gesturing at "our bench," the plain-language "how it works / no new procurement steps" explainer for on-demand engineering hours, and the closing "Bottom Line" + boxed positioning-statement pattern to end an executive summary. Pursuit-specific: every dollar figure in the wheel, the specific mix of ten offerings, and the "1,000/1,300 hours" figures are this pursuit's real worked example — rebuild entirely from the target pursuit's actual value-add package; never carry the SWIP figures into a new proposal as the new offer. The discounted-engineering-rate multiplier is commercial/rate information (not an outcome figure) and must stay bracketed regardless of pursuit, consistent with how the Hull pursuit's engineering-rate discount was handled. The named SMEs (Melanie Holmer, Larry Schimmoller, Jim Lozier, Mike Hwang) and their credentials are real individuals — confirm their current availability and reference-project assignments before reusing their names in a different pursuit. Pair with `swip-transmittal-letter-value-bullets.md` (the innovation/value-added bullet previews this content) and `swip-om-qualifications-proof-points.md` for the firm-level track record these named experts draw credibility from.
+Universal: the technique of bundling every no-cost enhancement into one totaled headline figure rendered as a wheel or donut chart, so the evaluator remembers a single number; the discipline of pricing each wedge individually so the total is defensible line by line; the "co-planned with [CLIENT] staff each year" phrase, which converts a fixed list into a governance commitment; and the "how it works — no new procurement steps required" explainer, which answers the practical objection that makes clients discount on-call engineering offers. See [value-added-no-cost-enhancements-framing.md](value-added-no-cost-enhancements-framing.md) for the same device executed as a donut chart on a different pursuit.
+
+Pursuit-specific: rebuild every line item and the total from the target pursuit's actual package; confirm the discounted-rate multiplier with the commercial lead before it appears in text, since it is rate information even though the resulting value figure is an outcome figure; and replace the region-specific surge and lift-station items with enhancements matched to the target system's assets. Pairs with [swip-top-water-reuse-experts-on-call.md](swip-top-water-reuse-experts-on-call.md), which names the people behind the discounted-engineering hours, [swip-partner-integration-and-technical-bench.md](swip-partner-integration-and-technical-bench.md) for the 1,300 annual support hours counted in the Regional Support wedge, and [swip-bottom-line-close-and-positioning-statement.md](swip-bottom-line-close-and-positioning-statement.md), which closes the section immediately after this exhibit.

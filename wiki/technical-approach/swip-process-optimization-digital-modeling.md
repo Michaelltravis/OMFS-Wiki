@@ -1,13 +1,30 @@
 ---
 title: MBR Process Optimization Approach with Calibrated Digital Process Modeling (BioWin/Pro2D/Replica)
 category: technical-approach
+block-type: prose
 tags: [process-optimization, mbr, membrane-bioreactor, digital-twin, biowin, replica, pro2d, srt, mlss, process-modeling, lift-station-monitoring]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Process Optimization; Addressing Other Potential Process Impacts; Plant Process Optimization (Exhibit 2-17) (pp. 36-38, 46)"
-context: Southern California sustainable water infrastructure O&M, 2025 — MBR/RO/UV-AOP advanced water treatment facility with a critical upstream lift station delivering up to 100% of influent flow
+source-section: "2.4 Firm Approach A - Process Optimization; Addressing Other Potential Process Impacts"
+source-pages: [36, 37, 38]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0036.md", "verbatim/santamonica-swip-om-2025/pages/p0037.md", "verbatim/santamonica-swip-om-2025/pages/p0038.md"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach]
+win-theme-map: [innovation-value-add, digital-tools, asset-management, energy-chemical-efficiency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: Combines a specific, technically credible MBR optimization methodology (bug counts, SRT/MLSS/DO/ORP monitoring, KPI development) with a named, proprietary digital-modeling capability (BioWin, Pro2D, Replica(TM)) and a concrete non-Santa-Monica case example (Tillman AWPF flow-balance optimization) — demonstrates both hands-on operator-level process discipline and enterprise-level modeling depth.
-reuse-notes: The MBR-specific optimization parameters (SRT, MLSS, DO, ORP, bug counts) apply directly to any MBR facility; substitute the relevant process-control parameters for non-MBR treatment trains. The Replica(TM)/BioWin/Pro2D tool references and the Tillman AWPF case example are corporate capability content, reusable as-is; verify the case example is still current/approved for external use before each reuse.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Combines a technically credible MBR optimization methodology (weekly bug counts; SRT, MLSS, DO, ORP, ammonia, nitrate, pH, and suspended-solids monitoring; KPI development) with named proprietary modeling tools and direct access to national subject matter experts - operator-level discipline plus enterprise-level depth.
+reuse-notes: The MBR parameters apply directly to any MBR facility; substitute the relevant process-control parameters for other treatment trains. The lift-station monitoring language suits any pursuit with a critical upstream pump station. The page-46 digital-tools and Replica(TM) Digital Twin passage that used to close this block now lives in swip-replica-digital-twin-plant-digital-tools.md.
 ---
 
 # MBR Process Optimization Approach with Calibrated Digital Process Modeling (BioWin/Pro2D/Replica)
@@ -36,13 +53,7 @@ In addition, Jacobs will perform ongoing reviews and continuous monitoring of th
 
 To further minimize impacts from lift-station operations, Jacobs will deploy its proprietary AquaDNA DeRagger tool at the lift station (see `swip-aquadna-deragger-technology.md` for full detail). This AI-based tool optimizes pump performance, reduces clogging events, and supports energy efficiency.
 
-## Plant process optimization — leveraging digital tools and data-driven operations
-
-Jacobs will apply a comprehensive suite of digital tools and process-optimization strategies to ensure the AWTF continues to operate reliably and efficiently. At the core of this approach is continuous monitoring and adjustment of all key processes, guided by carefully defined KPIs. To complement real-time process monitoring, Jacobs will build and maintain a calibrated digital process model of the AWTF, drawn from Jacobs' extensive modeling toolkit — including BioWin and Jacobs' proprietary Pro2D and Replica(TM) tools. Jacobs will select the most appropriate platform and customize it to the facility's influent conditions and treatment processes. This model will be updated regularly with plant data and used to predict issues, evaluate operational changes, and identify optimization opportunities before implementation. For example, the model can assess the impact of lowering the DO setpoint in the aeration basin, quantifying potential energy savings while maintaining anoxic-zone nitrate removal performance.
-
-Additionally, mobile CMMS applications and cloud-based analytics streamline work orders, inventory, and compliance tracking — improving reliability and transparency while reducing admin time and reactive maintenance.
-
-**Replica(TM) Digital Twin — proven ability to avoid unintended consequences in interconnected systems:** Jacobs' Replica(TM) Digital Twin can manage system complexity and optimize operations. The Replica(TM) model serves as a "single source of truth," with the ability to create scenarios around all components of the system for better decision-making. Jacobs has developed Replica(TM) Digital Twin models for a range of clients similar to this pursuit. For example, at the Tillman Advanced Water Purification Facility (AWPF), Replica(TM) optimized the flow balance between the original wastewater treatment plant and the new AWPF, maximizing the capture of available flows to the AWPF. The team also used Replica(TM) to model system hydraulics and controls to optimize membrane sizing. Once construction and startup are complete, it will be used to troubleshoot equipment issues, optimize operations, and train plant operators.
+The digital-tools and Replica(TM) Digital Twin half of this story (page 46 of the source proposal) now lives in its own block: see [swip-replica-digital-twin-plant-digital-tools.md](swip-replica-digital-twin-plant-digital-tools.md).
 
 ## Reuse guidance
 

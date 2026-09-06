@@ -6,7 +6,7 @@ tags: [references-overview, west-basin, soquel-creek, turlock, clovis, portfolio
 source: santamonica-swip-om-2025
 source-section: "2.3 References"
 source-pages: [21]
-verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0021.md#¶3"]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0021.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0021.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0021.md#¶5"]
 pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
 client-type: municipal
 client-size: "Portfolio framing: 40 MGD + 2.8 MGD + 1.3 MGD + 0.75 MGD reference facilities"

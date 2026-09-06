@@ -1,13 +1,31 @@
 ---
 title: Innovation Workshop — Sample Agenda Structure (Proof-of-Execution Exhibit)
 category: technical-approach
-tags: [innovation, workshop, agenda, continuous-improvement, proof-of-concept, sme-topics, energy, biosolids, pfas]
+block-type: recipe
+pairs-with: wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md
+tags: [innovation, workshop, agenda, continuous-improvement, sme-engagement, energy, biosolids, pfas]
 source: hull-wwtf-om-2026
-source-section: "Appendix D - Innovation Workshop Agenda and Examples (pp. 85-86)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 7, Appendix D - Innovation Workshop Agenda and Examples (pp. D-1 to D-2)"
+source-pages: [85, 86]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0086.md#¶1", "verbatim/hull-wwtf-om-2026/pages/p0086.md#¶7"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
+geography: "Northeast / MA / MassDEP"
+rfp-section-type: [tech-approach]
+win-theme-map: [innovation-value-add, partner-transparency, community-engagement, energy-chemical-efficiency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Turns the innovation-workshop concept from a promise into a demonstrated practice by showing two real prior agendas — strong proof-of-execution to pair with the concept description
-reuse-notes: Only include real prior agendas (sanitized) when they exist and are shareable; otherwise present the proposed first-workshop agenda alone
+reuse-notes: This block is a recipe — it describes how the appendix is assembled, not the appendix prose. Use it alongside the prose block named in pairs-with. Only include real prior agendas when they exist and are shareable; otherwise present the proposed first-workshop agenda alone.
 ---
 
 # Innovation Workshop — Sample Agenda Structure (Proof-of-Execution Exhibit)

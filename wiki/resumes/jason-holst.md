@@ -1,13 +1,30 @@
 ---
-title: Jason Holst — Operator (T3, AWT3)
+title: Jason Holst - Operator (T3, AWT3)
 category: resumes
-tags: [operator, water-treatment, scada, laboratory, desalination, california, multi-facility]
+block-type: prose
+tags: [operator, water-treatment, scada, laboratory, desalination, california, multi-facility, key-personnel]
 source: santamonica-swip-om-2025
-source-section: "3.2 Resumes — Jason Holst (p. 90)"
-context: Southern California sustainable water infrastructure O&M, 2025
-sanitized: false
-quality: Multi-facility California water-treatment operator resume including desalination and advanced water treatment experience with strong process/SCADA breadth.
-reuse-notes: Verbatim — resumes are not sanitized per CLAUDE.md. Useful as a supporting operator resume for California drinking-water/desalination/advanced treatment pursuits.
+source-section: "3.2 Resumes - Jason Holst (p. 90)"
+source-pages: [90]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0090.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0090.md#¶11"]
+pursuit-type: [water-treatment, reuse-dpr, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment facility (AWTF) for groundwater replenishment; municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water - Title 22 & GRRP"
+rfp-section-type: [resume]
+win-theme-map: [regional-bench, digital-tools, compliance-leadership]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: "Multi-facility California water-treatment operator resume including 53-MGD and 3-MGD desalination and 6-MGD advanced water treatment experience, with strong process and SCADA breadth."
+reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Useful as a supporting operator resume for California drinking-water, desalination, and advanced-treatment pursuits."
 ---
 
 # Jason Holst

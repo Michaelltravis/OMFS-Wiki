@@ -1,0 +1,392 @@
+[
+  {
+    "claim": "Jacobs' project management approach ensures round-the-clock compliance and reliable production of advanced treated water across the client's facilities",
+    "number": "24/7",
+    "unit": "coverage",
+    "as_of": "2025",
+    "page": 30,
+    "para": 2,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs will manage the full scope of operations in accordance with State Board Orders R4-2021-0044 and R4-2023-0366",
+    "number": "R4-2021-0044; R4-2023-0366",
+    "unit": "State Board Orders",
+    "as_of": "2025",
+    "page": 30,
+    "para": 2,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs is one of the largest O&M services providers in North America",
+    "number": "unknown",
+    "unit": "ranking",
+    "as_of": "2025",
+    "page": 30,
+    "para": 2,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "scale"
+  },
+  {
+    "claim": "The advanced water treatment facility (AWTF) has a rated capacity of 1.0 MGD",
+    "number": "1.0",
+    "unit": "MGD",
+    "as_of": "2025",
+    "page": 30,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "scale"
+  },
+  {
+    "claim": "The AWTF is the first facility of its kind to successfully treat both wastewater and stormwater",
+    "number": "1st",
+    "unit": "first-of-kind",
+    "as_of": "2025",
+    "page": 30,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "The AWTF is the first ever facility to receive log removal credits for pathogen reduction using membrane bioreactor (MBR) treatment",
+    "number": "1st",
+    "unit": "first-of-kind",
+    "as_of": "2025",
+    "page": 30,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "The AWTF is the first facility to treat both wastewater and stormwater and earn MBR log removal credits while doing so in an underground facility",
+    "number": "1st",
+    "unit": "first-of-kind",
+    "as_of": "2025",
+    "page": 30,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "The client is positioned to be the first direct potable reuse (DPR) facility in the country",
+    "number": "1st",
+    "unit": "first-in-nation",
+    "as_of": "2025",
+    "page": 30,
+    "para": 5,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "The Jacobs proposal team spent several days in the field visiting the facilities conducting due diligence before writing the proposal",
+    "number": "several",
+    "unit": "days of field due diligence",
+    "as_of": "2025",
+    "page": 30,
+    "para": 6,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "other"
+  },
+  {
+    "claim": "SCADA/HMI clients run on Windows 10 with CompactLogix 5069-L340ER PLCs at the AWTF",
+    "number": "5069-L340ER",
+    "unit": "PLC model (CompactLogix)",
+    "as_of": "2025",
+    "page": 30,
+    "para": 9,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "other"
+  },
+  {
+    "claim": "The OT network runs on a single Dell R340 server with no redundancy",
+    "number": "1",
+    "unit": "server (Dell R340), no redundancy",
+    "as_of": "2025",
+    "page": 30,
+    "para": 9,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs will provide large/emergency repair recommendations within 72 hours",
+    "number": "72",
+    "unit": "hours",
+    "as_of": "2025",
+    "page": 31,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Jacobs will staff a cross-trained team including a designated advanced water treatment grade-5 (AWT5) certified Chief Plant Operator",
+    "number": "AWT5",
+    "unit": "certification grade",
+    "as_of": "2025",
+    "page": 31,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs will operate the full treatment train: screening/MBR, carbon filtration, reverse osmosis, and UV-advanced oxidation process",
+    "number": "4",
+    "unit": "treatment stages (screening/MBR → CF → RO → UV-AOP)",
+    "as_of": "2025",
+    "page": 31,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "scale"
+  },
+  {
+    "claim": "The urban runoff recycling facility has been offline approximately two years pending upgrades, with RO membranes preserved (\"pickled\")",
+    "number": "~2",
+    "unit": "years offline",
+    "as_of": "2025",
+    "page": 31,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "other"
+  },
+  {
+    "claim": "Two groundwater replenishment reuse project injection wells (SM-10I, SM-11I) are nearing startup with backwashing and tracer testing underway",
+    "number": "2",
+    "unit": "GRRP injection wells",
+    "as_of": "2025",
+    "page": 31,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs will test alarms monthly and document results in the Operations Report at the stormwater facilities",
+    "number": "monthly",
+    "unit": "alarm test frequency",
+    "as_of": "2025",
+    "page": 31,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "The client can rely on Jacobs to achieve full regulatory compliance, minimize risk, and optimize lifecycle performance of the assets",
+    "number": "100",
+    "unit": "% compliance",
+    "as_of": "2025",
+    "page": 32,
+    "para": 2,
+    "block": "wiki/technical-approach/swip-om-project-execution-framework.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs' project execution plan comprises ten major program elements, from Health, Safety and Security through Customer Service",
+    "number": "10",
+    "unit": "program elements",
+    "as_of": "2025",
+    "page": 32,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-om-project-execution-framework.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs' Project Management element provides transparent communication including daily, weekly, monthly, severe weather, and annual client reports",
+    "number": "5",
+    "unit": "client report cadences",
+    "as_of": "2025",
+    "page": 32,
+    "para": 20,
+    "block": "wiki/technical-approach/swip-om-project-execution-framework.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs' KPI dashboard provides real-time visibility into operations, including real-time tracking of personnel and physical assets onsite via access badge readers",
+    "number": "real-time",
+    "unit": "data refresh",
+    "as_of": "2025",
+    "page": 33,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-om-project-execution-framework.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs' comprehensive O&M Plan roster comprises roughly 33 named plan and program documents",
+    "number": "33",
+    "unit": "named O&M plan documents",
+    "as_of": "2025",
+    "page": 34,
+    "para": 7,
+    "block": "wiki/technical-approach/swip-comprehensive-om-plan-list.md",
+    "category": "other"
+  },
+  {
+    "claim": "The O&M Plan roster includes a new Capital Improvement Plan covering a five-year horizon",
+    "number": "5",
+    "unit": "year CIP horizon",
+    "as_of": "2025",
+    "page": 34,
+    "para": 7,
+    "block": "wiki/technical-approach/swip-comprehensive-om-plan-list.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Sample Tracking Tool requires samples to be checked off by the sampler and independently verified by a second party the same day",
+    "number": "2",
+    "unit": "independent verifiers, same day",
+    "as_of": "2025",
+    "page": 35,
+    "para": 5,
+    "block": "wiki/technical-approach/swip-process-control-system-tools.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Operator round sheets are generated daily through the CMMS and completed by the operator at least daily",
+    "number": "daily",
+    "unit": "round frequency",
+    "as_of": "2025",
+    "page": 36,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-process-control-system-tools.md",
+    "category": "other"
+  },
+  {
+    "claim": "A monthly peak membrane capacity test is performed on each membrane train, demonstrated by operation at design peak flow for one hour without switching to transmembrane pressure control",
+    "number": "1",
+    "unit": "hour at design peak flow, monthly",
+    "as_of": "2025",
+    "page": 36,
+    "para": 1,
+    "block": "wiki/technical-approach/swip-process-control-system-tools.md",
+    "category": "other"
+  },
+  {
+    "claim": "Weekly microscopic evaluations (bug counts) support performance-based decision-making in the MBR system",
+    "number": "weekly",
+    "unit": "bug count frequency",
+    "as_of": "2025",
+    "page": 36,
+    "para": 4,
+    "block": "wiki/technical-approach/swip-process-optimization-digital-modeling.md",
+    "category": "other"
+  },
+  {
+    "claim": "The lift station delivers up to all of the influent flow to the AWTF, making it critical to system reliability",
+    "number": "100",
+    "unit": "% of flow to the AWTF",
+    "as_of": "2025",
+    "page": 37,
+    "para": 3,
+    "block": "wiki/technical-approach/swip-process-optimization-digital-modeling.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs will implement monthly contractor inspections and preventive maintenance routines at the critical lift station",
+    "number": "monthly",
+    "unit": "inspection frequency",
+    "as_of": "2025",
+    "page": 37,
+    "para": 3,
+    "block": "wiki/technical-approach/swip-process-optimization-digital-modeling.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs' QA/QC procedures have been refined over four decades of O&M delivery across hundreds of facilities",
+    "number": "4",
+    "unit": "decades / hundreds of facilities",
+    "as_of": "2025",
+    "page": 38,
+    "para": 4,
+    "block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Each Jacobs project undergoes a standardized internal audit beginning six months after start-up",
+    "number": "6",
+    "unit": "months after start-up",
+    "as_of": "2025",
+    "page": 38,
+    "para": 4,
+    "block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Jacobs' dedicated QA/QC team conducts comprehensive audits covering more than 70 specific criteria",
+    "number": "70+",
+    "unit": "audit criteria",
+    "as_of": "2025",
+    "page": 38,
+    "para": 5,
+    "block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "After the onsite audit assessment, a follow-up meeting is scheduled within three weeks to discuss results",
+    "number": "3",
+    "unit": "weeks",
+    "as_of": "2025",
+    "page": 39,
+    "para": 2,
+    "block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Corrective action plan reminders and progress checks occur at 30, 60, and 90 days until audit close-out",
+    "number": "30/60/90",
+    "unit": "days",
+    "as_of": "2025",
+    "page": 39,
+    "para": 2,
+    "block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "The audit process is a four-step lifecycle: Preparation, Onsite Assessment, Evaluation, and Action Plan",
+    "number": "4",
+    "unit": "audit steps",
+    "as_of": "2025",
+    "page": 39,
+    "para": 2,
+    "block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs invests thousands of hours per year in employee development, trainings, and incentives",
+    "number": "thousands",
+    "unit": "training hours per year",
+    "as_of": "2025",
+    "page": 40,
+    "para": 4,
+    "block": "wiki/management-staffing/swip-training-certification-program.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs ranks in the Top 100 of Newsweek's \"America's Most Loved Workplaces\" and is the only O&M firm on the list",
+    "number": "Top 100",
+    "unit": "ranking (Newsweek), only O&M firm listed",
+    "as_of": "2025",
+    "page": 40,
+    "para": 5,
+    "block": "wiki/management-staffing/swip-training-certification-program.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Jacobs' training and certification program supports more than 300 O&M sites across North America",
+    "number": "300+",
+    "unit": "O&M sites",
+    "as_of": "2025",
+    "page": 40,
+    "para": 11,
+    "block": "wiki/management-staffing/swip-training-certification-program.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs currently has 12 California Advanced Water Treatment Operator (AWTO) certified employees, with several more on track — the largest bench of AWT certified operators in California",
+    "number": "12",
+    "unit": "California AWTO certified employees",
+    "as_of": "2025",
+    "page": 40,
+    "para": 11,
+    "block": "wiki/management-staffing/swip-training-certification-program.md",
+    "category": "scale"
+  }
+]

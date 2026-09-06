@@ -1,47 +1,84 @@
 ---
 title: Regional Technical Support Bench — Committed-Hours Model
 category: management-staffing
-tags: [technical-support, regional-bench, subject-matter-experts, staffing-model, subcontractor-management, committed-hours]
+block-type: roster
+tags: [technical-support, regional-bench, subject-matter-experts, staffing-model, subcontractor-management, committed-hours, asset-management, odor-control, energy-management]
 source: hull-wwtf-om-2026
-source-section: "Section 4 - Project Staffing and Project Management Plan (pp. 15-18)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 4 - Project Staffing and Project Management Plan"
+source-pages: [21, 22, 23]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0021.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶1", "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶13"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi collection system"
+geography: "Northeast / MA / MassDEP + EPA Region 1 NPDES"
+rfp-section-type: [staffing]
+win-theme-map: [regional-bench, innovation-value-add, energy-chemical-efficiency, odor-control, compliance-leadership, partner-transparency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: Concrete, quantified model (committed annual hours bundled into the base fee) for how a regional bench of named specialist disciplines backs up a small on-site team — a strong differentiator that is easy to adapt to any facility size, and pairs a clear subcontractor-governance statement.
-reuse-notes: The annual committed-hours figure and specific specialist disciplines should be scaled/adjusted to the pursuit's actual scope (e.g., a facility without biosolids processing would drop the biosolids specialists).
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: Concrete, quantified model — approximately 2,000 hours of dedicated technical support annually included in the base fee — backed by a named bench of 19 specialists with stated years of experience and two capability bullets each. Quantified and paste-ready, and pairs a clean subcontractor-governance statement.
+reuse-notes: Scale the committed-hours figure to the contract's actual scope and include only the specialist disciplines relevant to the pursuit's processes; re-verify each named specialist's availability and years of experience.
 ---
 
 # Regional Technical Support Bench — Committed-Hours Model
 
-## Concept
+## Technical Support Team
 
-While the on-site team manages daily operations, a **regional Technical Support Team** delivers targeted, hands-on support and data-driven technical oversight to accelerate maintenance improvements, support staff training, and proactively identify and address risks before they impact compliance. Framing this as a committed, quantified annual allocation (rather than open-ended "as needed" support) is a strong proposal differentiator: for example, "approximately 2,000 hours of dedicated support annually in our base fee," available during normal business hours and able to be mobilized as needed to support emergency response, system upsets, or critical operational needs.
+While our on-site team manages daily operations, our Technical Support Team will deliver **targeted, hands-on support and data-driven technical oversight** to accelerate maintenance improvements, support staff training, and proactively **identify and address risks before they impact compliance**. This support includes approximately **2,000 hours of dedicated support annually in our base fee**, providing [CLIENT], a coastal New England municipality, with **consistent access to specialized expertise** when and where it is needed most. These resources are available during normal business hours and can **be mobilized as needed to support emergency response, system upsets, or critical operational needs.**
 
-## Typical Bench Composition (adapt to pursuit scope)
+## The Bench
 
-A regional bench for a municipal WWTF + collection system O&M contract typically includes named specialist disciplines such as:
+**Mark Phillips — Client Services Manager.** 29 years of experience. Leads pursuit strategy and client engagement for municipal O&M programs. Manages proposals, pricing strategies, and contract negotiations.
 
-- **Regional and Technical Support Team Leader** — oversees the bench, may also lead technology/optimization initiatives (e.g., AI-driven O&M optimization tools, cybersecurity, change management, and O&M consulting integration). A verified global-deployment count for the optimization tooling (e.g., "40+ deployments") is a strong quantified proof point if available.
-- **Regional Health & Safety** — develops safety plans, hazard analyses, and H&S programs; leads the firm's safety program implementation and training.
-- **Regional O&M Technical Specialist** — supports process optimization, startup, and operator training; expertise in phosphorus removal, sludge handling, and centrifuge optimization.
-- **Process Engineering** — leads process optimization and operational performance improvements; manages engineering teams across the full project lifecycle.
-- **Capital Projects** — integrates capital projects into active treatment plant operations; aligns engineering, maintenance, and operations priorities.
-- **Wastewater Solutions Engineer** — expertise in wastewater processes and odor-control technology; leads commissioning, startup, and process optimization.
-- **Regional Maintenance & Lead Electrician** — specialist in instrumentation, controls, and electrical systems; expertise in PLCs, VFDs, and equipment installation/calibration.
-- **Operations Technology / Information Technology** — leads OT support for control systems, SCADA, and networks; supports system design, implementation, and commissioning.
-- **Asset Management** — leads maintenance strategy and asset management programs; expert in predictive maintenance and CMMS implementation.
-- **Biosolids Technology Leader / Biosolids O&M Specialist / Dewatering Specialist** — national-level expertise in biosolids planning, advanced digestion, thermal drying, PFAS considerations, dewatering system evaluation/design, and (where applicable) gasification/pyrolysis technology. A verified count of dewatering systems installed across the portfolio (e.g., "100+ systems") is a strong quantified proof point if available.
-- **Regulatory Compliance** — leads regulatory compliance, NPDES support, and industrial pretreatment program (IPP) management; conducts risk assessments and permit management.
-- **Energy Management / Sustainability** — develops energy management and sustainability programs (a strong proof point: cite verified cumulative energy savings delivered across a portfolio of facilities, if available).
-- **Odor Control** — leads odor control design and mitigation for wastewater systems; expert in community-impact reduction strategies.
-- **Grant/Loan Specialist** — secures funding through infrastructure funding programs and supports funding-application development and strategy.
-- **Financial Analyst / Regional Admin** — financial planning, budgeting, cost forecasting, project coordination, reporting, and document management support; supports team communication and administrative operations.
+**EJ Hindy — Regional O&M Technical Specialist.** 13 years of experience. Supports process optimization, startup, and operator training. Expertise in phosphorus removal, sludge handling, and centrifuge optimization.
 
-## Subcontractor Governance
+**Adrian Romero-Flores, PhD — Wastewater Solutions Engineer.** 10 years of experience. Expertise in wastewater processes and odor control technology. Leads commissioning, start-up, and process optimization.
 
-Where specialized services fall outside the core team and technical bench (e.g., biosolids hauling/disposal, CCTV inspection of collection assets), qualified subcontractors should be identified and governed by a clear standard: selection based on **demonstrated performance, cost-effectiveness, and familiarity with the applicable state/local regulatory requirements**, with all subcontractors **subject to client review and approval** prior to engagement.
+**Matt Crowley — Asset Management.** 26 years of experience. Leads maintenance strategy and asset management programs. Expert in predictive maintenance and CMMS implementation.
+
+**Dave Oerke, PE, BCEE, WEF Fellow — Dewatering Specialist.** 43 years of experience. Expert in solids processing system evaluation and design. Installed 140+ dewatering systems across treatment facilities.
+
+**John Rickermann, PE, CMRT — Regional and Technical Support Team Leader.** 30 years of experience. Leads AI-driven O&M optimization tools (40+ global deployments). Oversees cybersecurity, change management, and O&M consulting integration.
+
+**Lee Tharps, PE — Process Engineering.** 22 years of experience. Leads process optimization and operational performance improvements. Manages engineering teams across full project lifecycle.
+
+**Jonathan Roth — Regional Maintenance & Lead Electrician.** 28 years of experience. Specialist in instrumentation, controls, and electrical systems. Expertise in PLCs, VFDs, and equipment installation calibration.
+
+**Todd Williams, PE, BCEE, WEF Fellow — Biosolids Technology Leader.** 45 years of experience. National expert in biosolids planning and management. Expertise in advanced digestion, thermal drying, and PFAS considerations.
+
+**Jeff Heroux — Regulatory Compliance.** 28 years of experience. Leads regulatory compliance, NPDES support, and IPP programs. Conducts risk assessments and permit management.
+
+**Dave Haverly, CSP — Regional Health & Safety.** 23 years of experience. Develops safety plans, hazard analyses, and H&S programs. Leads Jacobs' BeyondZero℠ safety implementation and training.
+
+**Liie Hill, PE — Capital Projects.** 17 years of experience. Integrates capital projects into active treatment plant operations. Aligns engineering, maintenance, and operation priorities.
+
+**Luke Amory — Operations Technology/Information Technology.** 11 years of experience. Leads OT support for control systems, SCADA, and networks. Supports system design, implementation, and commissioning.
+
+**Drew Mearns — Biosolids O&M Specialist.** 36 years of experience. Expertise in biosolids processing, dewatering, and disposal. Specializes in gasification and pyrolysis technology.
+
+**Dawn Lesley, PE — Energy Management/Sustainability.** 30 years of experience. Develops energy management and sustainability programs. Delivered >2.4 million kWh in energy savings across facilities.
+
+**Bill Desing, PE — Odor Control.** 39 years of experience. Leads odor control design and mitigation for wastewater systems. Expert in community impact reduction and odor management strategies.
+
+**Toby Mosser — Financial Analyst.** 31 years of experience. Leads financial planning, budgeting, and performance tracking. Provides cost forecasting and financial oversight.
+
+**Kathryn Benson, PE, CMRP — Grant/Loan Specialist.** 10 years of experience. Secures funding through IIJA, WIFI, and key partnerships. Supports application development and funding strategy.
+
+**Rich Minogue — Regional Admin.** 22 years of experience. Provides project coordination, reporting, and document management. Supports team communication and administrative operations.
+
+## Subcontractors
+
+We will utilize qualified subcontractors for specialized services such as biosolids management and CCTV inspection. All subcontractors will be selected based on **demonstrated performance, cost-effectiveness, and familiarity with Massachusetts regulatory requirements**, and will be **subject to [CLIENT] review and approval** prior to engagement.
 
 ## Reuse guidance
 
-Universal: the "committed annual hours bundled into base fee" framing, the discipline-by-discipline bench structure, and the subcontractor governance standard (performance + cost-effectiveness + regulatory familiarity + client approval) are reusable for any O&M pursuit regardless of size.
+Universal: the "committed annual hours bundled into the base fee" framing (a quantified allocation rather than open-ended "as needed" support), the profile format (name, discipline, years of experience, two capability bullets), and the subcontractor governance standard (demonstrated performance + cost-effectiveness + state regulatory familiarity + client review and approval) transfer to any O&M pursuit regardless of size.
 
-Pursuit-specific: scale the committed-hours figure to the contract size; include only the specialist disciplines relevant to the pursuit's actual processes (e.g., drop biosolids/dewatering specialists if the facility has no on-site solids handling; drop odor control if not a community concern). Do not carry forward specific dollar figures — this block intentionally omits the base-fee cost associated with the committed hours. Pair with `blended-onsite-offsite-org-structure.md` and `surge-staffing-backup-resource-planning.md`.
+Pursuit-specific: scale the 2,000-hour annual allocation to the contract's size; include only disciplines relevant to the pursuit's actual processes (drop biosolids/dewatering specialists where there is no on-site solids handling; drop odor control where it is not a community concern); swap the state named in the subcontractor-qualification standard. Re-verify every named specialist's availability and years of experience. The quantified bench proof points — 140+ dewatering systems installed, 40+ global AI-driven O&M optimization deployments, and more than 2.4 million kWh in energy savings delivered — should be re-confirmed as of the proposal date and cited from the proof-point registry. Pair with [blended-onsite-offsite-org-structure.md](blended-onsite-offsite-org-structure.md), [proposed-team-org-chart-roster.md](proposed-team-org-chart-roster.md), and [surge-staffing-backup-resource-planning.md](surge-staffing-backup-resource-planning.md). Full passages: `verbatim/hull-wwtf-om-2026/pages/p0021.md` and `p0022.md#¶1-13`.

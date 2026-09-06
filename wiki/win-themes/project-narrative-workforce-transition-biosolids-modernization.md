@@ -1,18 +1,35 @@
 ---
 title: "Project Narrative — Workforce Transition Success Paired With Biosolids Modernization (Regional Utility Authority)"
 category: win-themes
-tags: [project-narrative, past-performance, staff-transition, workforce-retention, biosolids, thermal-hydrolysis, class-a-biosolids, scada-upgrades, regional-authority]
+block-type: prose
+tags: [project-narrative, past-performance, staff-transition, workforce-retention, biosolids, thermal-hydrolysis, class-a-biosolids, scada-upgrades, regional-authority, industrial-pretreatment]
 source: hull-wwtf-om-2026
-source-section: "Appendix B - Project Descriptions (p. 79)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Appendix B - Project Description, p. B-4"
+source-pages: [79]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0079.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0079.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0079.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0079.md#¶7", "verbatim/hull-wwtf-om-2026/pages/p0079.md#¶8"]
+pursuit-type: [wwtp-om, collections, solids]
+client-type: authority
+client-size: "24 MGD design / 9.99 MGD average / 36 mi interceptor / 2 lift stations / ~90,000 residents"
+geography: "Midwest / MI / EPA Region 5"
+rfp-section-type: [past-performance, transition, staffing]
+win-theme-map: [workforce-development, transition-continuity, asset-management, energy-chemical-efficiency, digital-tools, innovation-value-add]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: One of the few reference narratives that leads with people/workforce outcomes rather than facility or cost outcomes — valuable for pursuits where labor continuity and union/staff transition risk is an evaluation concern
-reuse-notes: Pair with any management-staffing transition-plan content; strongest when the incumbent workforce is unionized or long-tenured and the client has expressed transition-risk concerns
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: One of the few reference narratives that leads with people and workforce outcomes rather than facility or cost outcomes — valuable wherever labor continuity and staff-transition risk is an evaluation concern, and paired with a concrete Class A biosolids modernization path.
+reuse-notes: "Pair with any management-staffing transition-plan content; strongest when the incumbent workforce is unionized or long-tenured and the client has expressed transition-risk concerns. Only use the workforce-transition framing if there is a real transition story to tell, and replace the capacity, flow, and collection-system figures with the cited project's own data. The reference client and contact are stated verbatim in past-performance/project-south-huron-mi.md, which also documents two source-document errors on the original page (a placeholder annual fee and a testimonial copied from another project)."
 ---
 
 # Project Narrative — Workforce Transition Success Paired With Biosolids Modernization (Regional Utility Authority)
 
-Jacobs provides 24/7 operations, maintenance, laboratory, regulatory compliance, industrial pretreatment, administrative, and management services for [CLIENT], a regional utility authority in the Midwest, supporting a 24-MGD treatment facility (design capacity; average flow roughly 10 MGD, serving approximately 90,000 residents) and associated collection system assets, including 36 miles of interceptor piping and two lift stations, with ongoing monitoring and preventive maintenance across those collection assets.
+Jacobs provides 24/7 operations, maintenance, laboratory, regulatory compliance, industrial pretreatment, administrative, and management services for [CLIENT], a regional utility authority in the Midwest, supporting a 24-MGD treatment facility (design capacity; average flow 9.99 MGD, serving approximately 90,000 residents) and associated collection system assets, including 36 miles of interceptor piping and two lift stations, with ongoing monitoring and preventive maintenance across those collection assets.
 
 **Workforce transition.** Since taking over the contract, Jacobs has led a successful staff transition and implemented targeted training programs to strengthen workforce capability, supporting employee retention and operational continuity through the changeover — a specific, named outcome rather than an assumed one.
 
@@ -20,7 +37,7 @@ Jacobs provides 24/7 operations, maintenance, laboratory, regulatory compliance,
 
 **Recognition.** The contract has been internally recognized by Jacobs as a significant program milestone.
 
-**Treatment and collection system.** Screening, grit removal, primary clarification, and multi-stage anoxic/oxic activated sludge treatment with secondary clarification and disinfection; solids are managed through thickening and stabilization. The collection system's two lift stations range from a smaller station conveying roughly 1 MGD up to a larger VFD-equipped station conveying flows in the high-30s MGD range, integrated through SCADA monitoring and control.
+**Treatment and collection system.** Screening, grit removal, primary clarification, and multi-stage anoxic/oxic activated sludge treatment with secondary clarification and disinfection; solids are managed through thickening and stabilization. The collection system's two lift stations range from a smaller station conveying up to 1.3 MGD to a larger VFD-equipped station conveying up to 39 MGD, integrated through SCADA monitoring and control.
 
 ## Reuse guidance
 

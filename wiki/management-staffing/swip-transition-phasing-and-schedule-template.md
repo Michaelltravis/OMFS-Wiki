@@ -1,13 +1,30 @@
 ---
 title: Seamless Transition — Four-Phase Transition Model and Preliminary Transition Schedule (Exhibit 3-5)
 category: management-staffing
+block-type: table
 tags: [transition-plan, transition-phasing, gantt-schedule, pre-start-transition, mobilization-timeline, task-lead, milestone-schedule, exhibit]
 source: santamonica-swip-om-2025
-source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs (pp. 63-64)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
+source-pages: [100, 101]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0100.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0100.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0101.md#¶2"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facility plus a water treatment plant and remote injection wells and lift stations"
+geography: "Southern California / CA / SWRCB Division of Drinking Water + Los Angeles RWQCB + SCAQMD"
+rfp-section-type: [transition]
+win-theme-map: [transition-continuity, partner-transparency, compliance-leadership, asset-management, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: "A complete, task-level transition Gantt schedule (Exhibit 3-5) spanning contract negotiation through 12 months of long-term monitoring, with named task leads and specific start/completion dates for every activity — an unusually granular, ready-to-adapt schedule template rather than a high-level phase summary."
-reuse-notes: "Client name generalized to [CLIENT]. Task-lead role titles (Transition Manager, Regional Director of Operations, Regional Support Leads, Project Manager, Health and Safety Manager, Training Manager) are generic role titles in the source (not named individuals) and are kept as-is. All calendar dates are specific to this pursuit's Nov 2025-award/Jan 2026-commencement timeline — these are illustrative only and must be regenerated against the new pursuit's actual award and commencement dates."
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: "A complete, task-level transition schedule (Exhibit 3-5) spanning contract negotiation through 12 months of long-term monitoring, with named task leads and specific start/completion dates for every activity — an unusually granular, ready-to-adapt schedule template rather than a high-level phase summary."
+reuse-notes: "Client name generalized to [CLIENT]. Task-lead role titles (Transition Manager, Regional Director of Operations, Regional Support Leads, Project Manager, Health and Safety Manager, Training Manager) are generic role titles in the source (not named individuals) and are kept as-is. All calendar dates are specific to this pursuit's Nov 2025 award / Jan 2026 commencement timeline — these are illustrative only and must be regenerated against the new pursuit's actual award and commencement dates."
 ---
 
 # Seamless Transition: Four-Phase Transition Model and Preliminary Schedule
@@ -48,10 +65,10 @@ Jacobs' structured transition model consists of four phases, with a preliminary 
 | Document system assets and perform condition-based assessment | Regional Support Leads | Dec 8 | Jan 8 |
 | Submit to [CLIENT] proposed Communications and Reporting Plan | Transition Manager | Dec 8 | Jan 8 |
 | Review and confirm OEM service contracts (RO, UV-AOP, membranes, pumps, odor control, etc.) for continuity | Transition Manager | Dec 8 | Jan 8 |
-| Coordinate with City on bulk chemical supply (City-managed) and establish specialty chemical procurement protocols | Transition Manager | Dec 15 | Jan 31 |
-| Draft Safety and Security Plan, OSHA Compliance Plan, and site-specific ERP; submit to City for review | Transition Manager | Dec 15 | Jan 15 |
+| Coordinate with [CLIENT] on bulk chemical supply ([CLIENT]-managed) and establish specialty chemical procurement protocols per Exhibit H | Transition Manager | Dec 15 | Jan 31 |
+| Draft Safety and Security Plan, OSHA Compliance Plan, and site-specific ERP; submit to [CLIENT] for review | Transition Manager | Dec 15 | Jan 15 |
 | Finalize site-specific confined space entry, lockout/tagout, and chemical handling procedures | Transition Manager | Dec 15 | Jan 31 |
-| Develop draft Monthly Operations Report format for City review (staffing, CCP/LRV compliance, maintenance, chemical/energy use, odor complaints, etc.) | Transition Manager | Dec 15 | Jan 31 |
+| Develop draft Monthly Operations Report format for [CLIENT] review (staffing, CCP/LRV compliance, maintenance, chemical/energy use, odor complaints, etc.) | Transition Manager | Dec 15 | Jan 31 |
 | Establish complaints/communications log and response protocol (≤1 hour for emergencies) | Transition Manager | Dec 15 | Jan 31 |
 | Schedule initial regulator coordination call with DDW, RWQCB, and SCAQMD to confirm reporting protocols | Transition Manager | Dec 15 | Jan 31 |
 | Set up of all key data management and CMMS components | Regional Support Leads | Dec 1 | Jan 31 |
@@ -66,11 +83,11 @@ Jacobs' structured transition model consists of four phases, with a preliminary 
 | Deliver final Transition Plan to [CLIENT] | Transition Manager | Jan 12 | Jan 26 |
 | Initiate project document control systems and tools to facilitate communications and track progress during transition | Transition Manager | Jan 12 | Jan 26 |
 | Host introduction workshops for existing employees and their families | Transition Manager/CPO | Jan 16 | Feb 16 |
-| Perform site safety review and kickoff ERP drill with City staff | Health and Safety Manager | Jan 12 | Feb 5 |
+| Perform site safety review and kickoff ERP drill with [CLIENT] staff | Health and Safety Manager | Jan 12 | Feb 5 |
 | Submit final Safety and Security Plan, OSHA Compliance Plan, and Emergency Response Plan with updated contacts | Health and Safety Manager | Jan 15 | Jan 31 |
 | Schedule and conduct employee interviews in phased and coordinated manner | Project Manager | Dec 1 | Dec 19 |
-| Resource gap analysis and identification of potential additional resources (as applicable) | Transition Manager | Dec 1 | Jan 9 |
-| Make employment offers to new transitioning employees and close transition recruiting activities | Project Manager | Jan 5 | Jan 15 |
+| Resource gap analysis and identification of potential additional resources (as applicable) | Transition Manager | Jan 5 | Jan 9 |
+| Make employment offers to new transitioning employees and close transition recruiting activities | Project Manager | Dec 1 | Jan 15 |
 | Assess and develop Training Plans for new employees | Transition Manager | Feb 1 | Feb 15 |
 | Conduct facility-wide review of key process control, SCADA alarms (Ignition v8.1), CCP/LRV monitoring, and maintenance data | Regional Support Leads | Jan 1 | Feb 1 |
 | Validate SCADA integration with Ignition v8.1, confirm 45-minute remote response and 60-minute onsite response time | Regional Support Leads | Jan 1 | Feb 1 |
@@ -85,8 +102,8 @@ Jacobs' structured transition model consists of four phases, with a preliminary 
 | Continued transition shadowing through commencement date | Transition Manager | Jan 1 | Feb 1 |
 | Confirm setup/availability/transfer of all applicable software, access, passwords, etc. | Transition Manager | Jan 1 | Jan 31 |
 | Confirm spares and chemical levels, solids inventory, etc. | Transition Manager | Jan 1 | Jan 31 |
-| Update and submit final Emergency Response Plan (ERP), including current contact list and City-approved protocols, to meet Exhibit A requirements | Regional Support Leads | Dec 1 | Jan 31 |
-| Coordinate with City staff to prepare for public outreach and site tours; confirm readiness of facilities for educational/visitor engagement | Project Manager | Feb 1 | Apr 15 |
+| Update and submit final Emergency Response Plan (ERP), including current contact list and [CLIENT]-approved protocols, to meet Exhibit A requirements | Regional Support Leads | Dec 1 | Jan 31 |
+| Coordinate with [CLIENT] staff to prepare for public outreach and site tours; confirm readiness of facilities for educational/visitor engagement | Project Manager | Feb 1 | Apr 15 |
 
 **Long-Term Transition**
 
@@ -104,7 +121,7 @@ Jacobs' structured transition model consists of four phases, with a preliminary 
 | Provide refresher and additional training as needed (OSHA, safety, regulatory compliance) | Training Manager | Feb 1 | Aug 1 |
 | Extended SME support to ensure successful transition and seamless project integration | Training Manager | Feb 1 | Aug 1 |
 | Conduct mock readiness review of reporting and compliance systems | Project Manager | Feb 1 | Aug 1 |
-| Monitor and track odor, noise, and public complaints through complaint log and City reporting | Project Manager | Feb 1 | Aug 1 |
+| Monitor and track odor, noise, and public complaints through complaint log and [CLIENT] reporting | Project Manager | Feb 1 | Aug 1 |
 | Set up performance monitoring system for CCP/LRV compliance, energy optimization, chemical efficiency, and other KPIs as required by the RFP | Project Manager | Feb 1 | Aug 1 |
 
 No graphic asset ID was found on Exhibit 3-5 (it renders as a native Gantt-style table built directly in the document, not a placed DAM graphic).

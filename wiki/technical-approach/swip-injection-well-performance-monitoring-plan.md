@@ -1,39 +1,58 @@
 ---
 title: Injection Well Performance Monitoring Plan (PMP) Approach
 category: technical-approach
+block-type: prose
 tags: [injection-wells, groundwater-recharge, aquifer-storage, performance-monitoring-plan, backwashing-optimization, well-rehabilitation, aquifer-recharge, water-reuse]
 source: santamonica-swip-om-2025
-source-section: "Section 4: Suggested Modifications to the Scope of Work, SM-10i and SM-11i Injection Well Performance Monitoring (p. 106)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "Section 4: Suggested Modifications to the Scope of Work — SM-10i and SM-11i Injection Well Performance Monitoring"
+source-pages: [106]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0106.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0106.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0106.md#¶13", "verbatim/santamonica-swip-om-2025/pages/p0106.md#¶14", "verbatim/santamonica-swip-om-2025/pages/p0106.md#¶15"]
+pursuit-type: [reuse-dpr, water-treatment]
+client-type: municipal
+client-size: "Underground AWTF (MBR/RO/UV-AOP) plus urban runoff recycling facility, stormwater assets, and 2 injection wells; five-year contract"
+geography: "Southern California / CA / SWRCB Division of Drinking Water — Title 22 GRRP"
+rfp-section-type: [exec-summary]
+win-theme-map: [asset-management, compliance-leadership, innovation-value-add]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: a detailed, technically credible methodology for developing and operating an injection-well monitoring/maintenance program, including a specific backwashing-frequency insight from field experience — strong differentiator for any pursuit involving aquifer recharge/injection wells
-reuse-notes: the two well names (SM-10i, SM-11i) are pursuit-specific identifiers — replace with [WELL 1]/[WELL 2] or the target pursuit's actual well IDs. The backwashing frequency/duration example and the ~30% specific-capacity trigger point are reusable technical content (not commercial pricing) and should be kept unless superseded by more current field data. CORRECTED on audit pass: the source's first-year price was stated explicitly "on Schedule B of the pricing form" — a commercial cost-proposal figure under CLAUDE.md's sanitization rule 2, not an outcome figure. It has been redacted here rather than flagged/kept.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A detailed, technically credible methodology for developing and operating an injection-well monitoring and maintenance program, including a specific field-experience insight on backwashing frequency and a numeric rehabilitation trigger — a strong differentiator for any pursuit involving aquifer recharge or injection wells.
+reuse-notes: The two well names are generalized to [WELL 1] and [WELL 2] — substitute the target pursuit's actual well identifiers. The backwashing frequency and duration example and the 30 percent specific-capacity trigger are field-tested technical content and should be kept unless superseded by more current data. The $13,200 first-year price is this pursuit's Schedule B figure — reprice for a new pursuit.
 ---
 
 # Injection Well Performance Monitoring Plan (PMP) Approach
 
-[Firm] will develop a Performance Monitoring Plan (PMP) for the two injection wells (referred to here as [WELL 1] and [WELL 2]). The PMP will include performance objectives for the injection wells that will be defined based on design objectives, permit requirements, and well performance established during commissioning of the wells. [Firm] expects these objectives to be defined around:
+## [WELL 1] and [WELL 2] Injection Well Performance Monitoring
+
+[Firm] will develop a Performance Monitoring Plan (PMP) for the two injection wells. The PMP will include performance objectives for the injection wells that will be defined based on design objectives, permit requirements, and well performance established during commissioning of the wells. [Firm] expects these objectives to be defined around:
 
 - Range of permissible injection rates
 - Range of permissible water levels in the injection wells
 
-In general, without proactive maintenance, injection wells are expected to clog over time, impacting the ability to meet these performance objectives. The overall goal for the PMP is to develop monitoring and maintenance protocols to maintain the long-term injection capacity (the ratio of injection rate to water level draw-up) for each well.
+In general, without proactive maintenance, the injection wells are expected to clog over time, impacting the ability to meet these performance objectives. The overall goal for the PMP will be to develop monitoring and maintenance protocols to maintain the long-term injection capacity (the ratio of injection rate to water level draw up) for each of the wells.
 
-The PMP relies on operational data for the two wells and select water quality data to monitor system performance and inform maintenance decisions. Key operational and water-quality data used include:
+The PMP will rely on operational data for the two wells and select water quality data to monitor system performance and to inform maintenance decisions. The key operational and water quality data that will be used will include:
 
 - Injection rates and totals
 - Groundwater levels in the injection and nearby monitoring wells
-- Injection specific capacity (calculated from the above)
-- Injection pressures (maintaining positive pressure to reduce air entrainment)
+- Injection specific capacity (calculated from above)
+- Injection pressures (maintain positive pressure to reduce air entrainment)
 - Periodic bypass filter and silt density index (SDI) measurements (used to assess physical clogging potential of the injected water)
 - Backwash flow rates, frequency, and duration (to mitigate physical clogging)
 
-Effective backwashing is critical for maintenance of the wells, and the PMP includes procedures to optimize backwashing frequency and duration. The optimization is accomplished by tracking the change in injection specific capacity after incrementally changing the frequency of backwashing. In [Firm]'s experience, more frequent, shorter-duration backwashing (e.g., 15 minutes once per week) is more effective than less frequent, longer-duration backwashing (e.g., 30 minutes once per month).
+Effective backwashing will be critical for maintenance of the wells, and the PMP will include procedures to optimize the backwashing frequency and duration. The optimization will be accomplished by tracking the change in injection specific capacity after incrementally changing the frequency of backwashing. In our experience, more frequent, shorter duration backwashing (e.g., 15 minutes once per week) is more effective than less frequent, longer duration backwashing (e.g., 30 minutes, once per month).
 
-The PMP also includes trigger points, based on the reduction in specific capacity (e.g., 30%), at which more intrusive well rehabilitation should be implemented to recover lost capacity. Well rehabilitation could include mechanical or a combination of mechanical and chemical rehabilitation, depending on the results of diagnostic testing conducted for the well (video logging, water quality testing, microbial testing). The PMP includes decision logic based on this testing to determine the appropriate redevelopment strategy to implement.
+The PMP will also include trigger points, based on the reduction in specific capacity (e.g., 30%) at which more intrusive well rehabilitation should be implemented to recover lost capacity. Well rehabilitation could include mechanical or a combination of mechanical and chemical rehabilitation, depending on the results of diagnostic testing conducted for the well (video logging, water quality testing, microbial testing). The PMP will include decision logic based on this testing to determine the appropriate redevelopment strategy to implement.
 
-**[Commercial figure redacted]:** The source pursuit stated a first-year price for this task explicitly "on Schedule B of the pricing form" (the commercial cost-proposal schedule). Per CLAUDE.md's sanitization rule, that figure has been redacted here; reprice fresh with the pursuit team for the commercial volume if needed.
+**We've provided a first-year price of $13,200 for the [WELL 1] and [WELL 2] Injection Well Performance Monitoring on Schedule B of the pricing form.**
 
 ## Reuse guidance
 
-This is a strong, technically specific standalone block for any pursuit involving injection wells, aquifer storage and recovery (ASR), or groundwater recharge — the operational/water-quality data list, the backwashing-frequency insight (short/frequent beats long/infrequent), and the specific-capacity-based rehabilitation trigger point are all generic, field-tested O&M practices that transfer directly to other injection-well assets. Replace [WELL 1]/[WELL 2] with the target pursuit's actual well identifiers. Reprice the commercial figure fresh per pursuit and confirm with the pursuit team whether it belongs in a technical volume at all. Pairs with `swip-dpr-readiness-expert-bench-and-monitoring.md` if the injection wells are part of the same potable reuse system, and with the CMMS/asset-management block for how diagnostic testing/rehabilitation triggers can feed a broader asset-management program.
+This is a strong, technically specific standalone block for any pursuit involving injection wells, aquifer storage and recovery, or groundwater recharge. Three parts transfer directly to other injection-well assets and should survive any rewrite: the operational and water-quality data list, which shows the evaluator exactly what will be trended; the backwashing insight that short, frequent cycles outperform long, infrequent ones, stated with concrete example intervals; and the specific-capacity-based rehabilitation trigger, which converts a vague promise of proactive maintenance into a numeric decision rule with diagnostic testing and decision logic behind it. The structural lesson is broader than wells — performance objectives set at commissioning, a defined data set, an optimization loop, and a numeric trigger for intervention is a template for any asset whose performance degrades predictably. Replace [WELL 1] and [WELL 2] with the target pursuit's well identifiers, confirm the permit basis for the performance objectives, and reprice the first-year figure with the commercial lead. Pairs with [swip-dpr-readiness-expert-bench-and-monitoring.md](swip-dpr-readiness-expert-bench-and-monitoring.md) where the wells are part of the same potable reuse system, and with the CMMS and asset-management blocks for how diagnostic testing and rehabilitation triggers feed a broader asset-management program. Full passage: verbatim/santamonica-swip-om-2025/pages/p0106.md ¶1–¶15.

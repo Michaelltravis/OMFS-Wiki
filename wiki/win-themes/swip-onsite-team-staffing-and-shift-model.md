@@ -1,27 +1,48 @@
 ---
-title: High-Caliber Onsite Team — Named Leadership, Shift Model, and Cross-Training
+title: High-Caliber Onsite Team — Named Leadership, Certifications, Regional Surge, and Shift Model
 category: win-themes
-tags: [win-theme, staffing-model, key-personnel, shift-schedule, cross-training, certifications, workforce-development, headshots]
+block-type: prose
+tags: [win-theme, staffing-model, key-personnel, shift-schedule, cross-training, certifications, workforce-development, regional-bench]
 source: santamonica-swip-om-2025
-source-section: "Executive Summary (pp. 6-14), 'High-Caliber Onsite Team—Qualifications and Commitment'"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "Executive Summary — High-Caliber Onsite Team: Qualifications and Commitment"
+source-pages: [7, 8]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0007.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶10", "verbatim/santamonica-swip-om-2025/pages/p0008.md#¶1", "verbatim/santamonica-swip-om-2025/pages/p0008.md#¶3"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Underground AWTF (MBR/RO/UV-AOP) plus urban runoff recycling facility, stormwater assets, and 2 injection wells; six-person onsite team"
+geography: "Southern California / CA / SWRCB Division of Drinking Water — Title 22 GRRP"
+rfp-section-type: [exec-summary, staffing]
+win-theme-map: [regional-bench, workforce-development, transition-continuity, safety-culture]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: A named-leadership-with-headshots block that pairs individual certifications with a concrete shift-coverage commitment and a regional-surge staffing model — gives the evaluator a face and a credential for every leadership role rather than a generic staffing narrative
-reuse-notes: Named individuals, certifications, and shift patterns are the real proposed team/model for this pursuit — confirm current assignment before reuse; the "two new regional technicians shared with a nearby project" mechanism is a strong differentiator to keep, but the specific nearby projects must be swapped
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Names every leadership role with its certification grade, then converts the roster into three concrete commitments an evaluator can score — permit-required certifications backstopped by operators from nearby projects, two new shared regional technicians for surge, and a hybrid shift pattern that eliminates lone-shift operations.
+reuse-notes: Named individuals, certification grades, and the shift pattern are this pursuit's real proposed team and coverage plan — confirm current assignment and resize the shift model to the target facility's coverage requirements. Swap the nearby backstop projects (West Basin, Gilroy) for projects genuinely within surge distance of the new site.
 ---
 
-# High-Caliber Onsite Team — Named Leadership, Shift Model, and Cross-Training
+# High-Caliber Onsite Team — Named Leadership, Certifications, Regional Surge, and Shift Model
 
-**Section header:** "High-Caliber Onsite Team—Qualifications and Commitment"
+## High-Caliber Onsite Team — Qualifications and Commitment
 
-**Paragraph 1 — introduce named leadership and their certifications.** "Jacobs will field a six-person onsite team led by a Management Team comprising Director of Operations Howard Brewen (WW Grade V) and Manager of Operations Chris Catlin (AWT5™, T3). They will support our designated Chief Plant Operator (CPO), Mack Mckenzie (WW Grade V, AWT3™). Our onsite team will also include three Operators with the requisite certifications, and dedicated Maintenance and I&C Technicians. We will ensure all positions meet permit-required AWTO® certifications and will backstop the team with certified AWT Operators from nearby Jacobs projects (e.g., West Basin and Gilroy) and a training/incentive pipeline that continues to grow Jacobs' California's AWTO certified ranks—delivering engaged leadership, multi-layered oversight, and continuous operational readiness." (Photographed with headshots and titles in the source: Howard Brewen – Director of Operations; Chris Catlin – Manager of Operations; Mack Mckenzie – Chief Plant Operator.)
+Jacobs will field a six-person onsite team led by a Management Team comprising **Director of Operations Howard Brewen (WW Grade V)** and **Manager of Operations Chris Catlin (AWT5™, T3)**. They will support our designated **Chief Plant Operator (CPO), Mack Mckenzie (WW Grade V, AWT3™)**. Our onsite team will also include three Operators with the requisite certifications, and dedicated Maintenance and I&C Technicians. We will ensure all positions meet permit-required AWTO® certifications and will backstop the team with certified AWT Operators from nearby Jacobs projects (e.g., West Basin and Gilroy) and a training/incentive pipeline that continues to grow Jacobs' California AWTO certified ranks—delivering engaged leadership, multi-layered oversight, and continuous operational readiness.
 
-**Paragraph 2 — regional surge staffing mechanism.** "Beyond the core staff, we will add two new [region]-based regional technicians (one I&C, one Maintenance) shared with nearby projects for rapid surge support—in addition to our onsite Maintenance and I&C Technicians. This approach will eliminate mobilization delays and reduce costs while keeping specialized skills close to [PROJECT]. Our team will be backed by Jacobs' deep bench of subject matter experts (SMEs) for process troubleshooting, compliance, computerized maintenance management system (CMMS), and optimization."
+Beyond the core staff, we will add two new LA-based regional technicians (one I&C, one Maintenance) shared with nearby projects for rapid surge support—in addition to our onsite Maintenance and I&C Technicians. This approach will eliminate mobilization delays and reduce costs while keeping specialized skills close to [CLIENT]'s advanced water treatment program. Our team will be backed by Jacobs' deep bench of subject matter experts (SMEs) for process troubleshooting, compliance, computerized maintenance management system (CMMS), and optimization.
 
-**Paragraph 3 — shift model.** "The core onsite team will staff hybrid shifts of four 10-hour and five 8-hour shifts with defined on-call coverage to eliminate lone-shift operations and speed response. We will welcome qualified incumbents and will cross-train staff across [PROJECT] and [secondary facility] facilities and processes while pairing City interns with mentors to build [region]'s future workforce."
+The core onsite team will staff hybrid shifts of four 10-hour and five 8-hour shifts with defined on-call coverage to eliminate lone-shift operations and speed response. We will welcome qualified incumbents and will cross-train staff across the advanced water treatment facility and the urban runoff recycling facility and processes while pairing [CLIENT] interns with mentors to build the region's future workforce.
 
-**Benefits to [Client] callout:** *"A certified, DPR-savvy onsite team with immediate local surge capacity and national expert reach-back—driving safe, resilient, and transparent operations."*
+**Companion graphic — leadership headshot strip.** Three headshots with name, certification, and title beneath each: Howard Brewen, WW Grade V, Director of Operations; Chris Catlin, AWT5™, T3, Manager of Operations; Mack Mckenzie, WW Grade V, AWT3™, Chief Plant Operator.
+
+**Benefits to [CLIENT] callout:** *"A certified, DPR-savvy onsite team with immediate local surge capacity and national expert reach-back—driving safe, resilient, and transparent operations."*
 
 ## Reuse guidance
 
-Universal: the pattern of naming leadership with headshots + specific certification grades, the "two shared regional technicians from nearby projects" surge-capacity mechanism, the hybrid 10-hour/8-hour shift-with-on-call structure (eliminates lone-shift operations — a strong, concrete safety/reliability claim), and the intern-mentor workforce-development line. Pursuit-specific: replace named individuals, certifications, and "nearby projects" with the actual proposed team and their real current assignments; the shift pattern must reflect the real staffing plan sized to the target facility's coverage requirements, not be copied verbatim. Pair with `swip-partner-integration-and-technical-bench.md` for how this onsite team connects to the broader O&M organization, and with `wiki/resumes/` for full individual bios if these same personnel are proposed elsewhere.
+Universal: pairing every named leader with a specific certification grade rather than a generic title; the "two new regional technicians shared with nearby projects" surge mechanism, which answers the evaluator's unspoken question about what happens when the onsite team is short-handed without inflating the base staffing count; the hybrid four-10s/five-8s shift structure with defined on-call, framed explicitly as eliminating lone-shift operations (a concrete safety and reliability claim, not a schedule table); the commitment to welcome qualified incumbents; and the intern-mentor pairing as a workforce-development close.
+
+Pursuit-specific: replace the named individuals, their certification grades, and the nearby backstop projects with the real proposed team and their current assignments; resize the shift pattern to the actual coverage requirement of the target facility; and confirm the permit's own certification requirements (AWTO®/AWT grades are California-specific) before repeating the "all positions meet permit-required certifications" promise in another state. Pairs with [swip-partner-integration-and-technical-bench.md](swip-partner-integration-and-technical-bench.md) for the regional and national bench standing behind this team, [swip-training-cross-training-knowledge-transfer.md](swip-training-cross-training-knowledge-transfer.md) for the training program that sustains the certifications, and [swip-seamless-transition-to-day-one-operations.md](swip-seamless-transition-to-day-one-operations.md) for how the team is mobilized.

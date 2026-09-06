@@ -1,11 +1,28 @@
 ---
 title: Key Personnel Bios — Director of Operations and Manager of Operations, with AWTO Compliance Leadership Framing
 category: management-staffing
-tags: [key-personnel, resume-bio, director-of-operations, manager-of-operations, awto-certification, awt5, leadership-structure, regulatory-compliance]
+block-type: prose
+tags: [key-personnel, resume-bio, director-of-operations, manager-of-operations, awto-certification, awt5, leadership-structure, regulatory-compliance, regional-bench]
 source: santamonica-swip-om-2025
-source-section: "3.1 Staffing Plan — Project Team and Their Qualifications (p. 75)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "3.1 Staffing Plan — Project Team and Their Qualifications / Onsite O&M Team"
+source-pages: [75]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0075.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0075.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0075.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0075.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0075.md#¶11", "verbatim/santamonica-swip-om-2025/pages/p0075.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0075.md#¶13"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
+client-type: municipal
+client-size: "Advanced water treatment / potable reuse facilities — 6 onsite FTEs plus 2 shared regional resources"
+geography: "Southern California / CA / SWRCB Division of Drinking Water, Title 22"
+rfp-section-type: [staffing]
+win-theme-map: [compliance-leadership, regional-bench, workforce-development, energy-chemical-efficiency]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Strong, credential-dense leadership bios (22 and 30+ years respectively, named prior facilities, quantified project figures) paired with a compliance-focused callout that turns the leadership pairing itself into a certification/permit-compliance risk-mitigation argument — a reusable pattern for pursuits with mandatory operator-certification requirements.
 reuse-notes: Named individuals (Howard Brewen, Chris Catlin) and their real credentials/experience are kept verbatim per wiki policy. Swap in the actual proposed leadership pair's real bios for a new pursuit; keep the "integrated, regionally connected leadership" argument structure.
 ---
@@ -28,7 +45,7 @@ Chris Catlin will serve as Manager of Operations, bringing over 30 years of expe
 
 ## Callout — Ensuring AWTP Compliance Through Proven Leadership
 
-Jacobs will ensure that all positions assigned to the [CLIENT] project meet the permit regulations for AWTO certification and recognize the requirement for the Chief Plant Operator (CPO) to hold an AWT5™ by a defined compliance deadline. Our local project team will be supported with backup for positions through our substantial network of projects in California and our bench of subject matter experts who carry AWTO certification. Nearby Jacobs projects have operators on staff with AWTO certification — and the number of AWTO-certified employees continues to grow with our training and incentive plans for all California operators.
+Jacobs will ensure that all positions assigned to the [CLIENT] project meet the permit regulations for AWTO certification and recognize the requirement for Chief Plant Operator (CPO) to hold an AWT5™ by December 2026. Our local project team will be supported with backup for positions through our substantial network of projects in California and our bench of subject matter experts who carry AWTO certification. Nearby projects at both West Basin and Gilroy have operators on staff with AWTO certification — and the number of AWTO certified employees continues to grow with our training and incentive plans for all California operators.
 
 Jacobs brings added value through our unique culture of engaged management and multi-layered operational oversight. Our approach ensures full operational readiness and permit compliance through the direct involvement of senior leadership with extensive advanced water treatment credentials.
 

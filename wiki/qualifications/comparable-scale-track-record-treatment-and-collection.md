@@ -1,27 +1,48 @@
 ---
 title: Track Record Operating Facilities and Collection Systems of Comparable Scale
 category: qualifications
-tags: [proof-points, wastewater-treatment, collection-systems, scale, comparable-experience, inflow-and-infiltration]
+block-type: prose
+tags: [proof-points, wastewater-treatment, collection-systems, scale, comparable-experience, inflow-and-infiltration, pump-stations]
 source: hull-wwtf-om-2026
-source-section: "Section 3, Technical Qualifications (pp. 8-9) and Corporate Experience — Similar Facilities (p. 12)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 3, Experience Operating Wastewater Treatment Plants / Management of Collection Systems, Including Pumping Stations of Similar Size and Complexity (Exhibit 3-3)"
+source-pages: [12]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0012.md#¶7", "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶13", "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶14"]
+pursuit-type: [wwtp-om, collections, multi-facility]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi / ~10k pop"
+geography: "Northeast / MA / MassDEP + EPA Region 1"
+rfp-section-type: [qualifications]
+win-theme-map: [collection-system, incumbent-displacement, asset-management, regional-bench]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: Converts raw portfolio size into a "well beyond the requirement" argument by directly comparing Jacobs' facility/mileage counts against a typical RFP minimum-experience threshold — a persuasive pattern, not just a stat dump.
-reuse-notes: Recompute the facility/mileage counts from current internal data before reuse. Reframe the "well beyond the requirement" sentence around the actual RFP's minimum-experience language for the new pursuit (it only lands if you can point to the specific number the RFP asked for). The comparable-coastal-facilities paragraph names specific reference regions generically (Great Lakes, Southeast, Northeast) in place of the source's named client cities — swap in whichever regions/characteristics (residential proximity, wet-weather, odor sensitivity) actually match the new pursuit's reference portfolio. Pair with `similar-facilities-comparison-table-framing.md` for the companion "facilities similar to the client" exhibit format.
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: Converts raw portfolio size into a "well beyond the requirement" argument by comparing Jacobs' facility, mileage, and pump-station counts directly against the RFP's minimum-experience threshold — a persuasive pattern, not a stat dump — and then bridges from scale into the operating conditions (I/I, wet weather, grease and odor, pump station reliability) the client actually worries about.
+reuse-notes: Recompute the facility, client, and mileage counts from current internal data before reuse. Rebuild the "well beyond the requirement" sentence around the actual RFP's minimum-experience language for the new pursuit — it only lands if you can point at the specific number the RFP asked for. Swap the ~42-mile network, multiple pump stations, and low-pressure sewer descriptors for the new client's actual system configuration. The client-by-client Exhibit 3-3 table backing this narrative is captured verbatim in past-performance/client-references.md.
 ---
 
 # Track Record Operating Facilities and Collection Systems of Comparable Scale
 
-We have designed hundreds of wastewater projects worldwide and completed more than 4,000 wastewater and water facilities. Our team brings extensive experience operating and maintaining wastewater treatment plants with capacities of 3 MGD or greater. We currently operate 106 wastewater facilities across 69 clients, including 50 facilities with capacities exceeding 3 MGD — demonstrating experience well beyond a typical requirement to operate more than 10 facilities of this size.
+## Experience operating wastewater treatment plants
 
-We have extensive experience managing large, complex wastewater collection systems and associated pumping stations, including systems directly comparable to [CLIENT]'s approximately [X]-mile network, multiple pump stations, and low-pressure sewer system serving residential areas. Across our portfolio, we operate and maintain more than 6,700 miles of collection systems and 5,400 miles of distribution systems, including multiple systems exceeding 40 miles in length with integrated pump stations and low-pressure networks.
+We have designed hundreds of wastewater projects worldwide and completed **more than 4,000 wastewater and water facilities**. Our team also brings extensive experience operating and maintaining wastewater treatment plants with capacities of 3 MGD or greater. We currently operate 106 wastewater facilities across 69 clients, including **50 facilities with capacities exceeding 3 MGD**, demonstrating experience **well beyond the requirement** to operate more than 10 facilities of this size.
 
-Our experience includes managing systems with significant inflow and infiltration (I/I), wet-weather peak flows, grease and odor control, and pump station reliability. We implement proactive inspection, cleaning, and condition assessment programs, along with targeted I/I reduction strategies and pump station reliability programs, to maintain system performance, minimize sanitary sewer overflows (SSOs), and protect downstream treatment processes.
+## Management of collection systems, including pumping stations of similar size and complexity
 
-These capabilities directly align with [CLIENT]'s system needs, ensuring reliable collection system performance under both normal and peak flow conditions. Our current representative portfolio includes 20 wastewater treatment plants with capacities of at least 3 MGD and 12 collection systems exceeding 40 miles — demonstrating that our experience clearly exceeds a typical RFP's minimum bidder-experience requirements. (Sanitized narrative summary of a representative-projects exhibit; the underlying client-by-client table is excluded from this wiki per sanitization rules — it is a raw list of client names, states, and facility data with no additional narrative content to sanitize.)
+We have extensive experience managing large, complex wastewater collection systems and associated pumping stations, including systems directly comparable to [CLIENT]'s approximately 42-mile network, multiple pump stations, and low-pressure sewer system serving residential areas — [CLIENT] being a coastal New England municipal wastewater utility. Across our portfolio, **we operate and maintain more than 6,700 miles of collections systems** and **5,400 miles of distribution systems**, including multiple systems **exceeding 40 miles in length** with integrated pump stations and low-pressure networks.
 
-We also operate and maintain wastewater facilities in coastal communities directly comparable to [CLIENT]'s, including systems in the Great Lakes region, the Southeast US, and the Northeast US. These systems share similar regulatory requirements, residential proximity, wet-weather conditions, and odor sensitivity, requiring responsive operations and strong community stewardship. By partnering with Jacobs, [CLIENT] gains an experienced operator with a proven track record managing systems of similar size and complexity, supported by the resources, operational discipline, and depth of expertise needed to deliver consistent performance and adapt to changing system demands.
+Our experience includes managing systems with significant **inflow and infiltration (I/I), wet-weather peak flows, grease and odor control, and pump station reliability**. We implement proactive inspection, cleaning, and condition assessment programs, along with targeted I/I reduction strategies and pump station reliability programs, to maintain system performance, minimize SSOs, and protect downstream treatment processes.
+
+These capabilities **directly align with [CLIENT]'s system needs**, ensuring reliable collection system performance under both normal and peak flow conditions. **Exhibit 3-3** highlights representative projects currently operated and maintained by Jacobs, including 20 wastewater treatment plants with capacities of at least 3 MGD and 12 collection systems exceeding 40 miles, clearly demonstrating **our experience exceeds the requirements of the RFP**.
+
+Related exhibit: **Exhibit 3-3** — *Representative experience (Confidential/Proprietary)*: a 20-row matrix of client, facility, state, MGD capacity, collection-system miles, pumping stations, and check-marked capabilities for odor and grease control, biosolids plan, and sustainability. The table is captured verbatim in [../past-performance/client-references.md](../past-performance/client-references.md).
 
 ## Reuse guidance
 
-The structure — "here's our aggregate portfolio scale, and it clears your minimum-experience bar by a wide margin" — is the reusable part; the exact figures are not. Use this pattern anywhere an RFP states a minimum facility count/size/mileage threshold for bidder experience. The I/I and wet-weather paragraph doubles as a bridge into technical-approach content on collection-system O&M; if the pursuit's technical approach section needs more depth on I/I reduction methodology, pair with `technical-approach/low-pressure-sewer-grinder-pump-om-experience.md` and any dedicated collection-systems technical-approach content.
+The structure — aggregate portfolio scale, then an explicit statement that it clears the RFP's minimum-experience bar by a wide margin, then the operating conditions that scale buys you — is the reusable part; the exact figures are not. Use it anywhere an RFP states a minimum facility count, capacity, or mileage threshold for bidder experience, and always quote the RFP's own threshold in the sentence so the comparison is unmistakable. The I/I and wet-weather paragraph doubles as a bridge into technical-approach content on collection-system O&M — if the pursuit needs methodology depth on I/I reduction, CCTV inspection, or pump station reliability, hand off there rather than expanding this block. Pair with [../technical-approach/low-pressure-sewer-grinder-pump-om-experience.md](../technical-approach/low-pressure-sewer-grinder-pump-om-experience.md) for the low-pressure/grinder-pump angle, [reference-portfolio-comparability-and-similar-facilities.md](reference-portfolio-comparability-and-similar-facilities.md) for the coastal-comparability argument, and [omfs-corporate-scale-and-om-portfolio-proof-points.md](omfs-corporate-scale-and-om-portfolio-proof-points.md) for the corporate-level portfolio counts. Read `verbatim/hull-wwtf-om-2026/pages/p0012.md` and `p0013.md` for the full passage and the underlying table.

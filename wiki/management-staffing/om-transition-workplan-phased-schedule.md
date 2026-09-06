@@ -1,11 +1,28 @@
 ---
 title: O&M Contract Transition Work Plan — Phased Schedule Structure
 category: management-staffing
+block-type: table
 tags: [transition-plan, mobilization, gantt-chart, phasing, staffing-transition, om-startup, contract-transition, work-plan]
 source: hull-wwtf-om-2026
-source-section: "Appendix G - Transition Activity Gantt Chart (pp. G-1 to G-2)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 7, Appendix G - Transition Activity Gantt Chart (pp. G-1 to G-2)"
+source-pages: [99, 100]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0099.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0100.md#¶2"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
+geography: "Northeast / MA / MassDEP"
+rfp-section-type: [transition, staffing]
+win-theme-map: [transition-continuity, partner-transparency, compliance-leadership, asset-management, safety-culture]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Comprehensive, realistic three-phase transition schedule with named task-lead roles and durations for every activity category (contractual, staffing, compliance, asset/SCADA, safety, training) — a strong reusable skeleton for any O&M transition/mobilization work plan.
 reuse-notes: Original chart used absolute 2026 calendar dates tied to this specific award; this block converts every activity to relative day-offsets from two anchor points (Award Date and Contract Start Date) so the structure, sequencing, and durations can be re-dated to any pursuit's actual award/start dates. Task-lead titles are generic role names, already reusable as-is.
 ---

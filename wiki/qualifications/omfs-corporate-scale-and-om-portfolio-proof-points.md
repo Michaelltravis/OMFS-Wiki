@@ -6,7 +6,7 @@ tags: [corporate-profile, om-portfolio, proof-points, more-than-an-operator, fir
 source: hull-wwtf-om-2026
 source-section: "Section 3, Corporate Profile / Technical Qualifications, Exhibit 3-1"
 source-pages: [10, 11]
-verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0010.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0011.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0011.md#¶4"]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0010.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0011.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0011.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0011.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0011.md#¶10"]
 pursuit-type: [wwtp-om, collections, multi-facility]
 client-type: municipal
 client-size: "3.07 MGD / 42 mi / ~10k pop"
@@ -39,11 +39,13 @@ Jacobs has more than 45 years of experience providing O&M services for water and
 
 As a multidisciplined O&M provider, we bring a **"more-than-an-operator" approach**, integrating operations, process engineering, asset management, and technical services to optimize system performance, reliability, and compliance. This approach directly supports [CLIENT]'s goals for reliable operations, regulatory compliance, and long-term system performance. Our experience directly aligns with [CLIENT]'s requirements, including operation of wastewater treatment facilities exceeding 3 MGD, management of collection systems greater than 40 miles, and operation of systems with multiple pump stations and low-pressure sewer networks.
 
-**Supporting proof points carried on Exhibit 3-1** (verify current figures before reuse):
-- 12.5M+ customers served every day
-- #1 in ENR rankings for Sewer & Waste, Wastewater Treatment, and Sanitary & Storm Sewers
-- 98% contract renewal rate since 2013, driven by service excellence
-- Jacobs' environmental compliance record — one of the best in the industry
+**Supporting proof points carried on Exhibit 3-1** (*OMFS firm qualifications* — "Jacobs is a Leading Provider of O&M Services in North America"; verify current figures before reuse). The stat row as it appears on the exhibit, whose text layer is partially fragmented in the verbatim source:
+- ENR rankings in Sewer & Waste, Wastewater Treatment, and Sanitary & Storm Sewers
+- Customers served every day
+- Contract renewal rate since 2013, from service excellence
+- Jacobs' environmental compliance record, one of the best in the industry
+
+The renewal rate is stated numerically later in the same section as a **98% contract renewal rate** (see [regional-presence-local-support-value-prop.md](regional-presence-local-support-value-prop.md)); the customer-count and ENR-position figures on this exhibit are not recoverable from the text layer and must be re-pulled from the current corporate fact sheet rather than reconstructed.
 
 Related graphic: national O&M project-location map, Exhibit 3-1 (graphic ID `119_Hull_0091KO_1`) — client-specific (marks the client site as a star and pins the Boston office and global headquarters); the underlying dot-density map of O&M project locations is reusable, but the client star and office pins must be re-set for a new pursuit.
 

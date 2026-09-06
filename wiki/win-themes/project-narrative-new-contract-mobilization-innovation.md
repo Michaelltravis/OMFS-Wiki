@@ -1,18 +1,35 @@
 ---
 title: "Project Narrative — Newly Mobilized Contract Framed Around Investment and Innovation (Small New England WWTP)"
 category: win-themes
-tags: [project-narrative, past-performance, mobilization, transition, composting, odor-control, ai-cctv, innovation-workshop, unanimous-selection]
+block-type: prose
+tags: [project-narrative, past-performance, mobilization, transition, composting, odor-control, ai-cctv, innovation-workshop, unanimous-selection, digital-tools]
 source: hull-wwtf-om-2026
-source-section: "Appendix B - Project Descriptions (p. 78)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Appendix B - Project Descriptions, p. B-3"
+source-pages: [78]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0078.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0078.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0078.md#¶6", "verbatim/hull-wwtf-om-2026/pages/p0078.md#¶7", "verbatim/hull-wwtf-om-2026/pages/p0078.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0078.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0078.md#¶19"]
+pursuit-type: [wwtp-om, collections, solids]
+client-type: municipal
+client-size: "3.77 MGD / 48 mi collection system / 11 lift stations"
+geography: "Northeast / MA / EPA Region 1"
+rfp-section-type: [past-performance, transition, exec-summary]
+win-theme-map: [incumbent-displacement, transition-continuity, odor-control, innovation-value-add, digital-tools, community-engagement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: Useful template for referencing a very recent (same-year) contract award where there isn't yet a multi-year performance track record — reframes "new" as "actively investing" rather than "unproven"
-reuse-notes: Use this pattern only for genuinely recent contract starts; do not stretch it to cover a contract with years of history that would support a stronger outcomes-based narrative instead
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: The template for referencing a very recent contract award where there is not yet a multi-year performance record — it reframes 'new' as 'actively investing' rather than 'unproven', anchored by a unanimous selection, a dated February 1, 2025 takeover, and a named technology commitment.
+reuse-notes: "Use this pattern only for genuinely recent contract starts; do not stretch it to cover a contract with years of history that would support a stronger outcomes-based narrative. Swap in whatever technology or process investments are actually planned or funded for the project being cited — do not invent commitments that were not made. The reference client, contact, and testimonial are stated verbatim in past-performance/project-southbridge-ma.md, which also carries the $85 million nitrogen reduction upgrade figure from the proposal's Section 3 exhibit."
 ---
 
 # Project Narrative — Newly Mobilized Contract Framed Around Investment and Innovation (Small New England WWTP)
 
-Jacobs was unanimously selected by [CLIENT] to operate and maintain a 3.77-MGD wastewater treatment plant, 48 miles of collection system, and 11 lift stations in the Northeast under a 5-year contract, transitioning full operating responsibility from the previous contractor on a defined start date.
+Jacobs was unanimously selected by [CLIENT] to operate and maintain a 3.77-MGD wastewater treatment plant, 48 miles of collection system, and 11 lift stations in the Northeast under a 5-year contract, transitioning full operating responsibility from the previous contractor on February 1, 2025.
 
 **Origin.** The town ran a competitive procurement after determining it needed a fresh start on its wastewater operations; Jacobs was selected as the operator judged best suited to the town's needs.
 

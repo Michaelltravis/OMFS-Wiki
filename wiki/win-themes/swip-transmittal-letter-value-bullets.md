@@ -6,7 +6,7 @@ tags: [cover-letter, transmittal-letter, value-proposition, win-theme, dpr-readi
 source: santamonica-swip-om-2025
 source-section: "Section 1: Letter of Transmittal"
 source-pages: [4, 5]
-verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0004.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶13", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶14", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶15", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶16", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶1", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶3"]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0004.md#¶11", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶13", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶14", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶15", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶16", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶1", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶3"]
 pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
 client-type: municipal
 client-size: "Advanced water treatment facility — MBR / RO / UV-AOP train, groundwater replenishment via injection wells, six-person core O&M team, 24/7 staffing"

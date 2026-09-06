@@ -1,29 +1,51 @@
 ---
-title: Regional Presence as a Qualifications Differentiator
+title: Regional Presence and Regulatory Relationships as a Qualifications Differentiator
 category: qualifications
-tags: [regional-presence, local-support, regulatory-relationships, fully-integrated-team, contract-renewal, differentiator]
+block-type: prose
+tags: [regional-presence, local-support, regulatory-relationships, fully-integrated-team, contract-renewal, differentiator, epa-region-1]
 source: hull-wwtf-om-2026
-source-section: "Section 3, EPA Region 1/State Regulatory and Operational Experience, Exhibit 3-2 (p. 8)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 3, EPA Region 1 and New York State Regulatory and Operational (O&M) Experience — Robust Regional Resources / Representative Facilities, Exhibit 3-2"
+source-pages: [12]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0012.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶11"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi / ~10k pop"
+geography: "Northeast / MA / MassDEP + EPA Region 1 (also RIDEM, CT DEEP)"
+rfp-section-type: [qualifications]
+win-theme-map: [regional-bench, compliance-leadership, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
 sanitized: true
-quality: Converts "we have local offices" into a differentiated value proposition — ties physical/staffing proximity directly to regulatory relationships, community-sensitive operations, and a named "fully integrated team" concept.
-reuse-notes: Replace the regulatory region, state agency names, and staff-proximity figures with the new pursuit's actual regional footprint. If Jacobs does not have comparable regional density near the new client, do not force this block — pivot to a national-resources framing instead (see full-service-lifecycle-capability-and-capital-planning-support.md).
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: Converts "we have local offices" into a differentiated value proposition — ties physical and staffing proximity directly to named regulatory relationships, coastal and community-sensitive operating conditions, and a "one fully integrated team" concept, then lands the 98% contract renewal rate as evidence that the model holds up over time.
+reuse-notes: Replace the regulatory region, state agency names, and staff-proximity figures with the pursuit's actual regional footprint; the ~20-mile, 398/712/2,900+ staff counts are point-in-time Northeast figures and must be re-pulled. Confirm the 43-year regional-service figure and the 98% renewal rate against the latest corporate fact sheet. If Jacobs does not have comparable regional density near the new client, do not force this block — pivot to the national-resources framing in full-service-lifecycle-capability-and-capital-planning-support.md instead.
 ---
 
-# Regional Presence as a Qualifications Differentiator
+# Regional Presence and Regulatory Relationships as a Qualifications Differentiator
 
-Jacobs has been serving [REGULATORY REGION — e.g., a EPA region or state] for more than 43 years, where we routinely operate under stringent NPDES permits, coastal conditions, and community-sensitive environments. We maintain active regulatory relationships with [STATE ENVIRONMENTAL AGENCIES]. Our well-established local and regional presence provides a strong base of local resources and capabilities to support [CLIENT]. We handpick on-site team members who are backed by local and regional professionals with decades of relevant experience. We commit to providing comprehensive in-house capabilities and a holistic approach to operating and maintaining [CLIENT]'s systems. The combined strength of our individuals forms **one fully integrated team** focused on meeting compliance, budget, and safety priorities.
+## Robust regional resources
 
-Jacobs leads the O&M industry with a 98% contract renewal rate, demonstrating strong client satisfaction and long-term performance — a strong indicator of our ability to successfully manage [CLIENT]'s facilities.
+Jacobs has been serving **EPA Region 1, as well as New York State, for more than 43 years**, where we routinely operate under **stringent NPDES permits, coastal conditions, and community-sensitive environments**. We maintain active regulatory relationships with MassDEP, RIDEM, and CT DEEP. Our well-established local and regional presence, shown in **Exhibit 3-2**, provides a **strong base of local resources and capabilities** to support [CLIENT], a coastal New England municipal wastewater utility. We have handpicked a team of on-site team members who will be supported by local and regional professionals who have decades of relevant experience. We commit to providing you with **comprehensive in-house capabilities and a holistic approach** to operate and maintain your operations. The combined strengths of our individuals form one **fully integrated team** that will focus on meeting compliance, budget, and safety priorities.
 
-**Regional-proximity framing pattern** (rebuild the numbers for each pursuit; do not reuse the figures below, which are specific to a prior pursuit):
-- Regional staff within [X] miles of the client site
-- [X] staff in-state
-- [X] staff in the broader multi-state region
-- [X]+ staff across the wider region/division
+## Representative facilities
 
-Related graphic: regional support-office and project-location map, Exhibit 3-2 (graphic ID `103_006QKI`) — client-specific (built around the client's location and named regional offices/clients, several redacted as "Confidential" in the source); the map layout/legend concept (project dots + support-office squares + "resources close to [client]" callout box) is reusable, but all pins and the callout box content must be rebuilt per pursuit.
+Jacobs leads the O&M industry with a **98% contract renewal rate**, demonstrating **strong client satisfaction and long-term performance**. This past performance is a strong indicator of Jacobs' ability to successfully manage [CLIENT]'s facilities.
+
+## Resources close to the client (Exhibit 3-2 callout)
+
+- Regional staff ~20 miles from [CLIENT]
+- 398 staff in Massachusetts
+- 712 staff in New England
+- 2,900+ staff in the Northeast
+
+Related graphic: regional support-office and project-location map, **Exhibit 3-2** — *Strong Northeastern presence provides practical knowledge of regulations, established relationships with regulators, and proactive support to onsite staff*. The map pins Jacobs O&M projects and support offices across the Northeast and Mid-Atlantic (including Syracuse, Boston, Southbridge, Woonsocket, Waterbury, Hartford, Westerly, Morristown, Lehigh County, New York City, Philadelphia, Wilmington, Silver Spring, Baltimore, Washington DC, and Virginia Beach, with several markers labeled Confidential) alongside the client's location. Client-specific: the client marker and the "resources close to" callout box must be rebuilt per pursuit; the map layout and legend concept are reusable.
 
 ## Reuse guidance
 
-Strongest when Jacobs genuinely has a nearby office and multi-decade regulatory track record in the client's state/region — don't force this framing where the honest answer is "we operate nationally but not locally." The "fully integrated team" phrase is a useful recurring motif to link the local on-site team (detailed in the staffing plan) back to national technical resources (see `full-service-lifecycle-capability-and-capital-planning-support.md`). Pair with the safety/compliance framing in `compliance-plans/health-safety-environmental-compliance-performance-record.md` since both reinforce "we already meet your regulators' expectations."
+Strongest where Jacobs genuinely has a nearby office and a multi-decade regulatory track record in the client's state or region — do not force this framing where the honest answer is "we operate nationally but not locally." The persuasive move to preserve is the ordering: years in the regulator's jurisdiction, then named agency relationships, then a concrete proximity/headcount ladder (miles → state → region → division), then the renewal rate as the outcome that proves the model. In an incumbent-displacement pursuit, the proximity ladder is the direct rebuttal to "the incumbent is already here." The "one fully integrated team" phrase is a useful recurring motif linking the on-site team in the staffing plan back to national technical resources. Pair with [full-service-lifecycle-capability-and-capital-planning-support.md](full-service-lifecycle-capability-and-capital-planning-support.md) for the technical bench behind the local team, [comparable-scale-track-record-treatment-and-collection.md](comparable-scale-track-record-treatment-and-collection.md) for the portfolio scale, and [../compliance-plans/health-safety-environmental-compliance-performance-record.md](../compliance-plans/health-safety-environmental-compliance-performance-record.md), since both reinforce "we already meet your regulators' expectations." Read `verbatim/hull-wwtf-om-2026/pages/p0012.md` for the full passage.

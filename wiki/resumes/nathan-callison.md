@@ -6,7 +6,7 @@ tags: [resume, project-manager, wastewater-operations, biosolids, lystek, reliab
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, pp. 69-70 (A-1–A-2); Section 1, Cover Letter, p. 3"
 source-pages: [69, 70, 3]
-verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0069.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0069.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0069.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0070.md#¶2"]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0069.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0069.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0069.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0070.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0070.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0070.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0070.md#¶5"]
 pursuit-type: [wwtp-om, collections]
 client-type: municipal
 client-size: "3.07 MGD WWTF / 42 mi collection system / coastal town"

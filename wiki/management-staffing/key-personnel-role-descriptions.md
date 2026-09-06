@@ -6,7 +6,7 @@ tags: [key-personnel, project-manager, regional-operations-manager, transition-m
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [19, 20]
-verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0020.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶15", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶20", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶26", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶31"]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0020.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶7", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶15", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶20", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶26", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶31"]
 pursuit-type: [wwtp-om, collections]
 client-type: municipal
 client-size: "3.07 MGD / 42 mi collection system"
@@ -39,7 +39,13 @@ Our key staff are available to support [CLIENT] during normal business hours and
 
 Nathan serves as the **primary point of accountability for day-to-day management of the facilities** and the full-time on-site staff, providing consistent leadership presence and operational oversight for [CLIENT]. He brings **over 14 years of wastewater operations experience**, multiple operator certifications, and advanced credentials in reliability and maintenance (CRL, CMRT). As a certified instructor and Michigan Water Environment Association's Wastewater Educational Professional of the Year, Nathan mentors operators, strengthens workforce capabilities, and maintains the **high standards of regulatory compliance, safety, and operational excellence** expected by [CLIENT].
 
-Full bio, licenses, and relevant experience: [../resumes/nathan-callison.md](../resumes/nathan-callison.md).
+Nathan is an experienced wastewater manager and operations professional with 14 years of industry experience. He leads diverse teams at wastewater facilities throughout the Northeast and Midwest. Nathan brings expertise in ferric addition, phosphorus removal, and advanced biosolids treatment processes, including Lystek systems, as well as experience with specialized process equipment such as Hydro International stacked tray grit removal systems. He also teaches wastewater operator training and certification exam preparation courses through the Michigan Water Environment Association.
+
+Licenses/Certifications: Certified Reliability Leader (CRL); Certified Maintenance Reliability Technician (CMRT); Class 6C Wastewater Operator: MA; Wastewater Operator: GA, MI; Certified Mechanical Contractor.
+
+Relevant Experience: Southbridge WWTP | Town of Southbridge, MA | Assistant Project Manager. WWTP Operations | South Huron Valley Utility Authority (SHVUA) | Brownstown, MI | Operations Manager. Grand Traverse Regional WWTP | Traverse City and Grand Traverse County | Traverse City, MI | Lead O&M Technician.
+
+Full resume: [../resumes/nathan-callison.md](../resumes/nathan-callison.md).
 
 ## Tony Rose — Assistant Project Manager
 

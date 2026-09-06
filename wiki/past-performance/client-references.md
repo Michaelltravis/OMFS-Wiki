@@ -1,13 +1,30 @@
 ---
 title: "Section 3 Reference Tables — Exhibit 3-5 (Reference Projects) and Exhibit 3-3 (Representative Experience)"
 category: past-performance
-tags: [past-performance, client-references, reference-contacts, exhibit-3-5, exhibit-3-3, appendix-b-source]
+block-type: table
+tags: [past-performance, client-references, reference-contacts, exhibit-3-5, exhibit-3-3, appendix-b-source, portfolio-breadth]
 source: hull-wwtf-om-2026
-source-section: "Section 3, Exhibit 3-3 (p. 9) and Exhibit 3-5 (p. 11)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
-sanitized: false
-quality: Verbatim client-reference tables required by most O&M RFPs' 'references' compliance item — condensed project summaries plus named owner contacts (name, title, phone, email) for all five reference projects, and a broader 20-facility representative-experience list."
-reuse-notes: "VERBATIM — real client names, contacts, phones, emails. This is the RFP-compliance 'references' response; QC every contact's name/title/phone/email against current account-team knowledge before reuse, since these change over time and a stale contact reflects poorly on the firm. Note: the source proposal's Exhibit 3-2 regional map (Section 3, p. 8) labels several nearby project markers 'Confidential' instead of naming the client — that map is not reproduced here; the Exhibit 3-3 table itself discloses all 20 client/facility names."
+source-section: "Section 3, Exhibit 3-3 Representative Experience and Exhibit 3-5 Reference Projects"
+source-pages: [13, 15]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0015.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0013.md#¶3"]
+pursuit-type: [wwtp-om, collections, solids, multi-facility]
+client-type: municipal
+client-size: "5 reference projects, 3.3-27 MGD; 20-facility representative-experience list"
+geography: "National, with a New England cluster / CT, RI, MA, MI"
+rfp-section-type: [past-performance, qualifications]
+win-theme-map: [regional-bench, partner-transparency, compliance-leadership, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: Verbatim client-reference tables answering the 'references' compliance item most O&M RFPs carry — condensed project summaries plus named owner contacts (name, title, phone, email) for all five reference projects, and a broader 20-facility representative-experience list.
+reuse-notes: "VERBATIM — real client names, contacts, phones, emails; past-performance blocks are exempt from client-name generalization. QC every contact's name, title, phone, and email against current account-team knowledge before reuse, since these change and a stale contact reflects poorly on the firm. Flag the South Huron annual-fee discrepancy ($5.3M in Exhibit 3-5 vs. the literal '$xxM' placeholder on the Appendix B page) before citing that project. The source proposal's Exhibit 3-2 regional map (Section 3, p. 8) labels several nearby project markers 'Confidential' rather than naming the client; that map is not reproduced here, and the Exhibit 3-3 table itself discloses all 20 client/facility names. The five projects summarized here appear as full Appendix B narratives in the sibling project-*.md files."
 ---
 
 # Exhibit 3-5 — Reference Projects (Section 3, p. 11)

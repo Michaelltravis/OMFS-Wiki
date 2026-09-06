@@ -1,0 +1,302 @@
+[
+  {
+    "claim": "Zero incidents target reinforced as part of the workforce development and operational excellence commitment",
+    "number": "0",
+    "unit": "safety incidents (target)",
+    "as_of": "2026",
+    "page": 25,
+    "para": 7,
+    "block": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
+    "category": "safety"
+  },
+  {
+    "claim": "24/7 emergency number for customers to report utility system problems, answered by a person",
+    "number": "24/7",
+    "unit": "hours of live-answer availability",
+    "as_of": "2026",
+    "page": 26,
+    "para": 2,
+    "block": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
+    "category": "other"
+  },
+  {
+    "claim": "Person answering the 24/7 emergency number will respond within 20 minutes",
+    "number": "20",
+    "unit": "minutes",
+    "as_of": "2026",
+    "page": 26,
+    "para": 2,
+    "block": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Annual Innovation Workshops provided at no cost to the client",
+    "number": "0",
+    "unit": "USD cost to client",
+    "as_of": "2026",
+    "page": 27,
+    "para": 5,
+    "block": "wiki/technical-approach/annual-innovation-workshop-program.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Annual Innovation Workshop agenda is co-developed as a full-day session",
+    "number": "1",
+    "unit": "full day",
+    "as_of": "2026",
+    "page": 27,
+    "para": 5,
+    "block": "wiki/technical-approach/annual-innovation-workshop-program.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Prior innovation workshop agendas provided from two named reference contracts (Traverse City, MI and Wilmington, NC)",
+    "number": "2",
+    "unit": "prior workshop reference contracts",
+    "as_of": "2026",
+    "page": 27,
+    "para": 5,
+    "block": "wiki/technical-approach/annual-innovation-workshop-program.md",
+    "category": "other"
+  },
+  {
+    "claim": "SOPs remain living documents, updated at least annually or as equipment, permits, and performance priorities evolve",
+    "number": "1",
+    "unit": "update per year (minimum)",
+    "as_of": "2026",
+    "page": 28,
+    "para": 8,
+    "block": "wiki/technical-approach/process-control-and-compliance-tools.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Process control plan is formally audited and refreshed at least annually",
+    "number": "1",
+    "unit": "audit/refresh per year (minimum)",
+    "as_of": "2026",
+    "page": 28,
+    "para": 11,
+    "block": "wiki/technical-approach/process-control-and-compliance-tools.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Baseline assessment reviewed the full historical operating dataset available for 2024 and 2025",
+    "number": "2",
+    "unit": "years of historical operating data (2024-2025)",
+    "as_of": "2025",
+    "page": 29,
+    "para": 4,
+    "block": "wiki/technical-approach/phased-baseline-to-optimization-approach.md",
+    "category": "other"
+  },
+  {
+    "claim": "Baseline data review was supplemented by on-site tours of the facility",
+    "number": "2",
+    "unit": "on-site tours",
+    "as_of": "2026",
+    "page": 29,
+    "para": 4,
+    "block": "wiki/technical-approach/phased-baseline-to-optimization-approach.md",
+    "category": "other"
+  },
+  {
+    "claim": "Normalized sludge wasting rates observed at the facility are below typical requirements",
+    "number": "600-900",
+    "unit": "pounds per day",
+    "as_of": "2025",
+    "page": 29,
+    "para": 8,
+    "block": "wiki/technical-approach/phased-baseline-to-optimization-approach.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Whole-plant process simulation model evaluates mass balance across more than 70 wastewater components",
+    "number": "70",
+    "unit": "wastewater components (more than)",
+    "as_of": "2026",
+    "page": 29,
+    "para": 12,
+    "block": "wiki/technical-approach/phased-baseline-to-optimization-approach.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Facility has maintained NPDES compliance for effluent BOD and TSS despite historical data integrity gaps",
+    "number": "2",
+    "unit": "permit parameters in compliance (BOD, TSS)",
+    "as_of": "2025",
+    "page": 29,
+    "para": 11,
+    "block": "wiki/technical-approach/phased-baseline-to-optimization-approach.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs maintains a 99.98% compliance rate through rigorous process control, defensible data, and daily vigilance from certified experts",
+    "number": "99.98",
+    "unit": "percent compliance",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 2,
+    "block": "wiki/compliance-plans/six-point-compliance-program.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Training hours provided under the compliance training and tools pillar in the last 3 years alone",
+    "number": "30000",
+    "unit": "training hours",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 4,
+    "block": "wiki/compliance-plans/six-point-compliance-program.md",
+    "category": "workforce"
+  },
+  {
+    "claim": "Training hours figure is stated for the trailing three-year period",
+    "number": "3",
+    "unit": "years",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 4,
+    "block": "wiki/compliance-plans/six-point-compliance-program.md",
+    "category": "workforce"
+  },
+  {
+    "claim": "Dedicated O&M Compliance and Reporting subject matter experts provide oversight and support for permit interpretation, training, rapid response, and future preparedness",
+    "number": "20",
+    "unit": "dedicated SMEs (20+)",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 4,
+    "block": "wiki/compliance-plans/six-point-compliance-program.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Laboratory management program is aligned with 40 CFR Part 136, the facility NPDES permit, and state requirements",
+    "number": "136",
+    "unit": "40 CFR Part",
+    "as_of": "2026",
+    "page": 31,
+    "para": 10,
+    "block": "wiki/compliance-plans/laboratory-management-data-integrity-program.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "PFAS composite sampling is coordinated quarterly with certified laboratories",
+    "number": "4",
+    "unit": "PFAS composite sampling events per year (quarterly)",
+    "as_of": "2026",
+    "page": 31,
+    "para": 13,
+    "block": "wiki/compliance-plans/laboratory-management-data-integrity-program.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Biosolids processing, thickening, storage, hauling, and disposal managed in full compliance with 40 CFR Part 503 and applicable Massachusetts regulations",
+    "number": "503",
+    "unit": "40 CFR Part",
+    "as_of": "2026",
+    "page": 32,
+    "para": 3,
+    "block": "wiki/technical-approach/biosolids-residuals-management-program.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Biosolids disposal cost trends tracked quarterly against the established dollar-per-dry-ton baseline to give early visibility of market shifts",
+    "number": "4",
+    "unit": "cost trend reviews per year (quarterly)",
+    "as_of": "2026",
+    "page": 33,
+    "para": 10,
+    "block": "wiki/technical-approach/biosolids-hauling-disposal-and-market-risk-management.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Biosolids production rates, inventory levels, and hauling efficiency actively managed to reduce the likelihood of reaching the dry ton cost adjustment threshold",
+    "number": "10",
+    "unit": "percent dry ton cost adjustment threshold",
+    "as_of": "2026",
+    "page": 33,
+    "para": 13,
+    "block": "wiki/technical-approach/biosolids-hauling-disposal-and-market-risk-management.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Response to sewer overflows within 1 hour or sooner",
+    "number": "1",
+    "unit": "hour (or sooner)",
+    "as_of": "2026",
+    "page": 34,
+    "para": 7,
+    "block": "wiki/technical-approach/collection-system-om-program.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Annual cleaning and CCTV of the collection system for the first five years of the contract",
+    "number": "20",
+    "unit": "percent of system per year",
+    "as_of": "2026",
+    "page": 34,
+    "para": 8,
+    "block": "wiki/technical-approach/collection-system-om-program.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Initial higher cleaning and CCTV rate is sustained for the first five years before stepping down",
+    "number": "5",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 34,
+    "para": 8,
+    "block": "wiki/technical-approach/collection-system-om-program.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Annual cleaning and CCTV rate after the first five years",
+    "number": "10",
+    "unit": "percent of system per year",
+    "as_of": "2026",
+    "page": 34,
+    "para": 8,
+    "block": "wiki/technical-approach/collection-system-om-program.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs has been contract operator for the City of Auburn, CA Wastewater Treatment Plant and Collections System",
+    "number": "32",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 34,
+    "para": 10,
+    "block": "wiki/technical-approach/collection-system-om-program.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Jacobs team at Auburn, CA has won Plant of the Year and Collections of the Year every year from the California Water Environment Association since 2012",
+    "number": "2012",
+    "unit": "year awards began (annual, consecutive)",
+    "as_of": "2026",
+    "page": 34,
+    "para": 10,
+    "block": "wiki/technical-approach/collection-system-om-program.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Traditional I/I isolation methodologies require extended field assessment and analysis",
+    "number": "18-24",
+    "unit": "months",
+    "as_of": "2026",
+    "page": 34,
+    "para": 19,
+    "block": "wiki/technical-approach/collection-system-om-program.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "SmartCover manhole-mounted units can produce I/I isolation results sooner than traditional methodologies",
+    "number": "12",
+    "unit": "months sooner (up to)",
+    "as_of": "2026",
+    "page": 34,
+    "para": 19,
+    "block": "wiki/technical-approach/collection-system-om-program.md",
+    "category": "schedule"
+  }
+]

@@ -1,11 +1,28 @@
 ---
 title: Facility-by-Facility Goals, Challenges, and Strategy Matrix (Multi-Facility Water Reuse O&M)
 category: technical-approach
+block-type: table
 tags: [project-understanding, goals-challenges-response, exhibit, section-opener, water-reuse, scada, cmms, stormwater, injection-wells, multi-facility-om]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Jacobs Understands [Client]'s Challenges and Goals for its Facilities, Exhibit 2-6 (pp. 30-31)"
-context: Southern California sustainable water infrastructure O&M, 2025 — multi-facility potable reuse program including an advanced water treatment facility, stormwater diversion/pump assets, an urban runoff recycling facility, groundwater replenishment reuse project (GRRP) injection wells, and an interface with an adjacent municipal water treatment plant
+source-section: "2.4 Firm Approach — Jacobs Understands [CLIENT]'s Challenges and Goals for its Facilities, Exhibit 2-6"
+source-pages: [30, 31]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0030.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0030.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0031.md#¶1"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, stormwater, multi-facility]
+client-type: municipal
+client-size: "1.0 MGD advanced water treatment facility + stormwater diversion/pump assets, urban runoff recycling facility, and GRRP injection wells"
+geography: "Southern California / CA / SWRCB Division of Drinking Water + LA RWQCB (Title 22 GRRP, WDRs; State Board Orders R4-2021-0044 and R4-2023-0366)"
+rfp-section-type: [tech-approach]
+win-theme-map: [incumbent-displacement, partner-transparency, compliance-leadership, asset-management, stormwater, digital-tools, innovation-value-add]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement — multi-facility potable reuse program including an advanced water treatment facility, stormwater diversion/pump assets, an urban runoff recycling facility, groundwater replenishment reuse project (GRRP) injection wells, and an interface with an adjacent municipal water treatment plant
 quality: A section-opening device that grounds the technical approach in the client's own facility-by-facility conditions rather than generic O&M language — the 3-column table format (Understanding of Goals | Key Current/Future Challenges | Jacobs' Strategies) scales cleanly across a multi-facility, multi-technology reuse portfolio (MBR, RO, UV-AOP, SCADA/OT, stormwater assets, injection wells) and reads as evidence the team did real due-diligence fieldwork before writing.
 reuse-notes: The specific facility list, equipment (PLC models, server hardware, SCADA platform), and named challenges are drawn from this pursuit's actual site visits and RFP/scope documents — do not reuse the specific challenge language for a different pursuit's facilities. The narrative opener (decades of comparable-scale experience, due-diligence site visits, talking with client staff) and the 3-column per-facility matrix structure are fully reusable for any multi-facility O&M pursuit.
 ---
@@ -16,13 +33,15 @@ reuse-notes: The specific facility list, equipment (PLC models, server hardware,
 
 Jacobs will deliver an integrated, transparent, and results-driven project management approach that ensures 24/7 compliance, reliable production of advanced treated water, and seamless coordination across [CLIENT]'s facilities. With decades of experience operating facilities comparable in scale and technology — including membrane bioreactor (MBR), reverse osmosis (RO), UV-advanced oxidation process (UV-AOP) systems, and large pump stations — Jacobs is uniquely equipped to manage the full scope of operations in accordance with the client's applicable regulatory orders (in this pursuit, State Board Orders R4-2021-0044 and R4-2023-0366). As one of the largest O&M services providers in North America, Jacobs will leverage the depth of its operations, engineering, asset management, maintenance, and compliance capabilities to meet the client's performance standards while driving long-term value and sustainability. The Jacobs team will integrate with client staff to uphold a community-first culture rooted in accountability, safety, and regulatory excellence.
 
-**[CLIENT] understands the pursuit's challenges and goals for its facilities.** In this pursuit, the water reuse program represents a significant advancement in water treatment and establishes the client as a pioneer in water reuse. The primary advanced water treatment facility (AWTF), at roughly 1.0 MGD, was the first of its kind to successfully treat both wastewater and stormwater, the first to receive log removal credits for pathogen reduction using MBR, and the first to do all of this in an underground facility.
+## Jacobs understands [CLIENT]'s challenges and goals for its facilities
 
-The program plays a critical role in reducing the client's reliance on imported water supplies and promotes sustainability through the injection of recycled water into the local aquifer as a barrier to seawater intrusion and for aquifer replenishment. The client is also in a strong position to be an early direct potable reuse (DPR) adopter in the country — an aspiration the full Jacobs team would welcome the opportunity to help the client achieve.
+[CLIENT]'s sustainable water infrastructure program represents a significant advancement in water treatment and establishes [CLIENT] as a pioneer in water reuse. The 1.0-MGD advanced water treatment facility (AWTF) is the first of its kind to successfully treat both wastewater and stormwater, the first ever to receive log removal credits for pathogen reduction using MBR, and the first to do all of this in an underground facility.
 
-In preparation for this proposal, the Jacobs team talked with client staff, thoroughly reviewed the RFP, scope of work, draft agreement and exhibits, and spent several days in the field visiting the facilities conducting due diligence, which provided a deep understanding of the challenges and opportunities to innovate and improve the O&M of the facilities.
+The program plays a critical role in reducing [CLIENT]'s reliance on imported water supplies and promotes sustainability through the injection of recycled water into the local aquifer as a barrier to seawater intrusion and for aquifer replenishment. In addition, [CLIENT] is in a great position to be the first direct potable reuse (DPR) facility in the country — an amazing aspiration and one the full Jacobs team would love to help [CLIENT] achieve.
 
-The matrix below provides a concise, facility-by-facility summary of Jacobs' understanding of the client's goals, challenges, and the resources and strategies Jacobs can bring to ensure it meets and exceeds expectations for exceptional O&M services. Across all sites, Jacobs recognizes the need to operate to the client's permits and KPI framework to reliably produce Product Water for non-potable and groundwater replenishment reuse project (GRRP) uses, implement CMMS-based asset management, and integrate alarms via the client's SCADA/HMI platform (in this pursuit, Ignition), per the Scope of Services.
+In preparation for this proposal, our team talked with your staff, thoroughly reviewed the RFP, scope of work, draft agreement and exhibits, and spent several days in the field visiting the facilities conducting due diligence, which has provided a deep understanding of the challenges and opportunities to innovate and improve the O&M of the facilities.
+
+The matrix below provides a concise, facility-by-facility summary of our understanding of your goals, challenges, and the resources and strategies Jacobs can bring to ensure we meet and exceed your expectations for exceptional O&M services. Across all sites, Jacobs recognizes the need to operate to [CLIENT]'s permits and KPI framework to reliably produce Product Water for non-potable and groundwater replenishment reuse project (GRRP) uses, implement CMMS-based asset management, and integrate alarms via the SCADA/HMI platform (in this pursuit, Ignition), per the Scope of Services.
 
 ## Facility-by-facility understanding, challenges, and strategies
 

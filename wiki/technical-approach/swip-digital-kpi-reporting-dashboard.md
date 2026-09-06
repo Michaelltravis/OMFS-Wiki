@@ -1,13 +1,30 @@
 ---
 title: Customized Web-Based KPI Reporting Dashboard (Digital Reporting Platform)
 category: technical-approach
+block-type: prose
 tags: [kpi-dashboard, digital-reporting, transparency, scada-integration, water-quality-reporting, biosolids-reporting, safety-reporting, exhibit]
 source: santamonica-swip-om-2025
-source-section: "2.4 Firm Approach — Innovation and Advanced Techniques for Operational Efficiency, Customized Digital Reporting Dashboards, Exhibit 2-19 (p. 48)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "2.4 Firm Approach B - Innovation and Advanced Techniques for Operational Efficiency: Customized Digital Reporting Dashboards (Exhibit 2-19)"
+source-pages: [48]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0048.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0048.md#¶8"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program"
+geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
+rfp-section-type: [tech-approach]
+win-theme-map: [digital-tools, partner-transparency, compliance-leadership]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: Describes a secure, web-based dashboard with a clear navigation structure (RTT, STT, SCADA, Water Quality, Biosolids, Reuse, Maintenance, Safety) that complements formal written reporting — gives evaluators a concrete mental picture of "always-on transparency" beyond monthly PDF reports.
-reuse-notes: The dashboard concept, navigation categories, and framing paragraph are fully generic and reusable. The example screenshot includes a real geographic map view specific to this pursuit's service area — replace with the target pursuit's own location before reuse.
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A secure web-based dashboard with a concrete navigation structure (RTT, STT, SCADA, Water Quality, Biosolids, Reuse, Maintenance, Safety) that complements formal written reports - it gives evaluators a mental picture of always-on transparency beyond a monthly PDF.
+reuse-notes: The dashboard concept, navigation categories, and framing paragraph are generic and reusable; trim or extend the Quick Links list to the pursuit's actual scope. The example screenshot includes a map view of this pursuit's service area - swap it for the target pursuit's geography before reuse.
 ---
 
 # Customized Web-Based KPI Reporting Dashboard (Digital Reporting Platform)

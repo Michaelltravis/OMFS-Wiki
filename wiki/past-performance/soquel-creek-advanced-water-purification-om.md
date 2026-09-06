@@ -6,7 +6,7 @@ tags: [soquel-creek, advanced-oxidation, reverse-osmosis, ozonation, granular-ac
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Soquel Creek Advanced Water Purification O&M (pp. PD-3–PD-4)"
 source-pages: [24, 25]
-verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0024.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0025.md#¶3"]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0024.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0024.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0024.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0024.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0025.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0025.md#¶4"]
 pursuit-type: [reuse-dpr, water-treatment]
 client-type: authority
 client-size: "1.3 MGD max monthly average / advanced water purification for groundwater replenishment"

@@ -1,18 +1,18 @@
 ---
-title: Transmittal Letter — Opening Framing, Closing Commitment, and Procedural Boilerplate
+title: Transmittal Letter — Opening Frame, Positioning Paragraph, and Partnership Close
 category: win-themes
 block-type: prose
-tags: [cover-letter, transmittal-letter, win-theme, value-proposition, dpr-readiness, regulatory-compliance, partnership, signatory-attestation, addenda-acknowledgment]
+tags: [cover-letter, transmittal-letter, win-theme, value-proposition, potable-reuse, advanced-water-treatment, dpr-readiness, regulatory-compliance, partnership, client-focus, transition]
 source: santamonica-swip-om-2025
 source-section: "Section 1: Letter of Transmittal"
 source-pages: [4, 5]
-verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0004.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶14"]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0004.md#¶8", "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶12", "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶14"]
 pursuit-type: [reuse-dpr, water-treatment, wwtp-om]
 client-type: municipal
-client-size: "Advanced water treatment facility — groundwater replenishment / potable reuse program, six-person core O&M team, 24/7 staffing"
+client-size: "Advanced water treatment facility — MBR / RO / UV-AOP train, groundwater replenishment via injection wells, six-person core O&M team, 24/7 staffing"
 geography: "West / Southern California / State Water Resources Control Board — Los Angeles RWQCB (Title 22 GRRP)"
-rfp-section-type: [cover-letter, forms]
-win-theme-map: [partner-transparency, compliance-leadership, innovation-value-add, regional-bench]
+rfp-section-type: [cover-letter]
+win-theme-map: [partner-transparency, compliance-leadership, innovation-value-add, transition-continuity, incumbent-displacement]
 proof-point-ids: []
 testimonial-ids: []
 story-ids: []
@@ -23,42 +23,46 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
-quality: The framing that wraps a winning transmittal letter — an opening that credits the client's own investment before saying anything about Jacobs, a value-proposition paragraph that names the actual permit orders the operator will be held to, a closing that reframes the role from operator to collaborator, and the procedural boilerplate (organization contact, authorized signatory, addenda acknowledgment, clarification contact) that public-agency evaluators check first for responsiveness.
-reuse-notes: Replace [CLIENT], the addressee, the solicitation number, the program descriptor, and the permit/order numbers with the target pursuit's own. The named Jacobs signatory (Paul Rheault, VP of Operations West) and primary contact (Jim Huentelman, VP O&M Partnerships) with their direct phone and email are real — confirm the correct signatory and capture lead for the new pursuit rather than reusing these by default. The addenda list must be rebuilt from the actual addenda posted for the new solicitation; the letterhead office address and the organization-contact address are legitimately different and both belong in the letter.
+quality: The framing of a winning transmittal letter. The opening paragraph credits the client's own vision before Jacobs says a word about itself, then names the two horizons the client actually cares about — reliable operation today and readiness for the next regulatory step. The positioning paragraph compresses the entire value proposition into one sentence and commits to specific permit orders by number. The close returns to partnership language and explicitly reframes the role from operator to collaborator. Also carries the signature, authorized-signatory, addenda-acknowledgment, and point-of-contact boilerplate a compliant transmittal letter must include.
+reuse-notes: Replace [CLIENT] and the generalized program descriptor with the target client and its actual program name, and swap the permit order numbers (State Board Orders R4-2021-0044 and R4-2023-0366) for the target facility's governing permits — naming them by number in the cover letter is the move that signals the team has already read the regulatory record. The DPR-readiness horizon in the opening is specific to a groundwater replenishment client moving toward direct potable reuse; substitute the target client's own next step (nutrient limits, capacity expansion, PFAS, energy neutrality) and keep the today/tomorrow structure. The signature block, authorized signatory, addenda list, and clarification contact are pursuit-specific — update names, titles, addresses, phone, email, and the addenda numbers and dates from the actual solicitation record.
 ---
 
-# Transmittal Letter — Opening Framing, Closing Commitment, and Procedural Boilerplate
+# Transmittal Letter — Opening Frame, Positioning Paragraph, and Partnership Close
 
-**Letterhead and header block.** The proposing office's address and phone head the letter (e.g., 555 South Flower St, Suite 3200, Los Angeles, CA 90071, P: 213.228.8255), above the submission line and recipient block: "Submitted via OpenGov Procurement Portal — [CLIENT], Public Works Department, Engineering and Street Services Division," with the mail-stop address. The subject line reads: "RE: Proposal for [SOLICITATION NO.] – Operation, Maintenance, and Management Services of the Sustainable Water Infrastructure Project Advanced Water Treatment Facilities (AWTF)." Salutation: "Dear [CLIENT CONTACT NAME], PE, and Evaluation Committee:"
+**RE: Proposal for [SOLICITATION NO.] – Operation, Maintenance, and Management Services of the [PROGRAM] Advanced Water Treatment Facilities (AWTF)**
 
-**Opening paragraph.** [CLIENT], a Southern California coastal municipality, is setting the national standard for sustainable, locally sourced water through your visionary investment in your sustainable water infrastructure program. Jacobs is proud to submit our proposal to operate and maintain these critical facilities. We are committed to ensuring reliable groundwater replenishment today and supporting your readiness for future Direct Potable Reuse (DPR).
+Dear [EVALUATION CONTACT] and Evaluation Committee:
 
-**Value-proposition paragraph.** Jacobs offers [CLIENT] a unique blend of operational rigor, advanced treatment expertise, and seamless integration across advanced water treatment operations, engineering, and deep regional support. Our proposed team will function as a true extension of [CLIENT] staff, with a focus on compliance, transparency, and continuous improvement. We will deliver safe, high-quality Product Water while maximizing uptime, protecting the advanced water treatment assets, and maintaining performance under [CLIENT]'s permits, including State Board Orders R4-2021-0044 and R4-2023-0366.
+[CLIENT], a Southern California municipal water utility, is setting the national standard for sustainable, locally sourced water through your visionary investment in the [PROGRAM] sustainable water infrastructure program. Jacobs is proud to submit our proposal to operate and maintain these critical facilities. We are committed to ensuring reliable groundwater replenishment today and supporting your readiness for future Direct Potable Reuse (DPR).
 
-**Closing paragraph.** Jacobs' proposal reflects our commitment to operational excellence, regulatory compliance, and shared success. We will be [CLIENT]'s trusted partner. More than an operator, we will be a collaborator working to advance your vision for sustainable water supply and environmental leadership.
+Jacobs offers [CLIENT] a unique blend of operational rigor, advanced treatment expertise, and seamless integration across advanced water treatment operations, engineering, and deep regional support. Our proposed team will function as a true extension of [CLIENT] staff, with a focus on compliance, transparency, and continuous improvement. We will deliver safe, high-quality Product Water while maximizing uptime, protecting program assets, and maintaining performance under [CLIENT]'s permits, including State Board Orders R4-2021-0044 and R4-2023-0366.
 
-**Signature block.** Sincerely, [signature] — Paul Rheault, Vice President of Operations (West). E: Paul.Rheault@jacobs.com. P: 541.408.2362.
+Jacobs' proposal reflects our commitment to operational excellence, regulatory compliance, and shared success. We will be [CLIENT]'s trusted partner. More than an operator, we will be a collaborator working to advance your vision for sustainable water supply and environmental leadership.
 
-## Procedural boilerplate placed below the signature
+Sincerely,
 
-**Organization Name and Contact Information:** Jacobs, 155 North Lake Avenue, Pasadena, CA 91101. Primary Contact: Jim Huentelman, VP O&M Partnerships. Phone: (253) 232-6922. Email: Jim.Huentelman@jacobs.com.
+**Paul Rheault**
+Vice President of Operations (West)
+E: Paul.Rheault@jacobs.com
+P: 541.408.2362
+
+**Organization Name and Contact Information:**
+Jacobs
+155 North Lake Avenue, Pasadena, CA 91101
+Primary Contact: Jim Huentelman, VP O&M Partnerships
+Phone: (253) 232-6922
+Email: Jim.Huentelman@jacobs.com
 
 **Authorized Signatory:** Paul Rheault is authorized to negotiate and contractually obligate Jacobs.
 
-**Acknowledgment of Addenda:** Jacobs confirms we have reviewed all documents and addenda posted for [SOLICITATION NO.] and incorporated them into our proposal response. Jacobs acknowledges receipt of the following addenda:
+**Acknowledgment of Addenda:** Jacobs confirms we have reviewed all documents and addenda posted for [SOLICITATION NO.] and incorporated them into our proposal response. Jacobs acknowledges receipt of the following addenda: (1) Addendum No. 1 dated July 28, 2025; (2) Addendum No. 2 dated August 21, 2025; (3) Addendum No. 3 dated August 25, 2025.
 
-1. Addendum No. 1 dated July 28, 2025
-2. Addendum No. 2 dated August 21, 2025
-3. Addendum No. 3 dated August 25, 2025
-
-**Point of Contact for Clarification:** Please direct all proposal inquiries to: Jim Huentelman, VP O&M Partnerships, Jim.Huentelman@jacobs.com, (253) 232-6922.
+**Point of Contact for Clarification:** Please direct all proposal inquiries to Jim Huentelman, VP O&M Partnerships, Jim.Huentelman@jacobs.com, (253) 232-6922.
 
 ## Reuse guidance
 
-Universal: the arc of the letter's framing. The first sentence belongs to the client, not to Jacobs — it credits the agency's own capital investment and positions the agency (not the operator) as the one setting a national standard, which earns the right to the sentences that follow. The value-proposition paragraph then does three things in order: names the blend of capabilities, promises the team will act as an extension of client staff, and anchors the promise to the specific permits and orders the operator will be measured against. Naming the actual permit order numbers in the cover letter is the single strongest signal of compliance readiness available in one page. The closing reframes the relationship — "more than an operator, we will be a collaborator" — and is the sentence evaluators most often quote back.
+Universal: the three-move frame. Move one opens on the client's achievement, not Jacobs' — "setting the national standard … through your visionary investment" — which buys the right to talk about ourselves in the second sentence, and then names both horizons the evaluator is scoring, today's reliable operation and tomorrow's regulatory step. Move two is the whole proposal in one paragraph: a named blend of capabilities, the "true extension of [CLIENT] staff" promise, the three words that recur through the rest of the volume (compliance, transparency, continuous improvement), and a commitment to perform under the client's permits cited by order number. Move three closes on partnership and does the explicit reframe — operator to collaborator — that separates a service bid from a partner bid.
 
-Also universal: the boilerplate box. Public-agency RFPs almost always require organization name and contact, an explicit authorized-signatory attestation, and an addenda acknowledgment; putting them immediately below the signature on the same letter clears four responsiveness checks in one place. Note that the letterhead office and the organization-contact address differ (proposing office versus corporate/contracting office) — this is correct, not an error to reconcile.
+Pursuit-specific: `[CLIENT]`, the program name and facility descriptors, the permit order numbers, the future-readiness horizon, and every element of the signature and procedural boilerplate — signatory, authorized-signatory statement, organization address, clarification contact, and the addenda numbers and dates. Verify the addenda list against the solicitation record on the day of submission; an incomplete acknowledgment is a responsiveness failure regardless of how good the letter is.
 
-Pursuit-specific: `[CLIENT]`, the addressee and evaluation-committee salutation, the solicitation number, the submission portal name, the program and facility names, the permit/order numbers, the signatory and clarification contact, and the addenda list with dates. For a conventional WWTP or collection-system pursuit, replace the DPR-readiness sentence with the forward-looking regulatory pressure that actually applies (nutrient limits, PFAS, biosolids rule changes) and keep the structure.
-
-Pairs with [swip-transmittal-letter-value-bullets.md](swip-transmittal-letter-value-bullets.md), which supplies the eight-bullet value list that sits between the value-proposition paragraph and the closing paragraph — together the two blocks are the complete letter. See also [cover-letter-structure-pattern.md](cover-letter-structure-pattern.md) for the generic cover-letter skeleton, and read `verbatim/santamonica-swip-om-2025/pages/p0004.md` and `p0005.md` for the letter exactly as submitted.
+Pairs with [swip-transmittal-letter-value-bullets.md](swip-transmittal-letter-value-bullets.md), which supplies the eight value bullets that sit between the positioning paragraph and the close. Read `verbatim/santamonica-swip-om-2025/pages/p0004.md` and `verbatim/santamonica-swip-om-2025/pages/p0005.md` for the full letter as submitted.
