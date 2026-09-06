@@ -1,0 +1,18 @@
+{
+ "page": 90,
+ "agreement_pct": 97,
+ "verdict": "accept",
+ "disagreements": [
+  {
+   "a": "Bullet list order: DATA listed last, after PREVENTATIVE ASSET MANAGEMENT",
+   "b": "Bullet list order: DATA listed first, before SECURE AND RELIABLE SATELLITE COMMUNICATION",
+   "resolution": "Image shows diagram labels in reading order (top row left-to-right, then bottom): SECURE AND RELIABLE SATELLITE COMMUNICATION, PREDICTIVE ANALYTICS, CAPITAL INVESTMENT PLANNING, AUTOMATED ACTIONABLE INFORMATION, PREVENTATIVE ASSET MANAGEMENT, DATA (DATA label sits at bottom-left near the blue sensor). Resolved to A's order."
+  },
+  {
+   "a": "Diagram described as single paragraph with icon list, quote boxes not called out as side-by-side/full-width structurally",
+   "b": "Diagram and quote boxes described with explicit structural notes (six call-outs, side-by-side vs full-width quote boxes)",
+   "resolution": "Both are transcriber commentary (bracketed, non-verbatim) rather than page text; image confirms B's structural description (two side-by-side quote boxes, one full-width quote box below, six green circular photo call-outs) is more accurate to layout, so final markdown adopts B's structural framing while using A's confirmed label order."
+  }
+ ],
+ "final_markdown": "# INTEGRATED SOLUTION\n## Delivers All Components to Ensure Success\n\n[Diagram: An integrated SmartCover system flow diagram. On the left, a manhole/wet-well cross-section holds a monitoring device labeled DATA, next to a blue sensor unit call-out. Blue arrows connect a satellite icon, a cloud/analytics icon, a dollar-sign target icon, a computer-monitor icon, and a service-truck icon, under the green small-caps labels below. Six green-outlined circular photo call-outs point into the diagram: a manhole with an installed device, a satellite in orbit, a data/analytics chart screenshot, a map screenshot, a blue sensor unit, and a field worker holding a tablet.]\n\n- SECURE AND RELIABLE SATELLITE COMMUNICATION\n- PREDICTIVE ANALYTICS\n- CAPITAL INVESTMENT PLANNING\n- AUTOMATED ACTIONABLE INFORMATION\n- PREVENTATIVE ASSET MANAGEMENT\n- DATA\n\n# EXPERIENCE & EXPERTISE\n## That Benefit Every Size of City & Municipality\n\n[Two side-by-side quote boxes, left then right:]\n\n*\"Within the first three hours, we had one SmartCover tell us there was a blockage on the way, and we were able to go out and clear the blockage before we had a problem.\"*\n\n- Arlington, Texas\n\n*\"SmartCover's data-driven monitoring systems enable us to target cleaning when and where it's needed, and save money when it's not.\"*\n\n- South Coast Water District, California\n\n[Full-width quote box below:]\n\n*\"SmartCover has allowed us to perform targeted analysis on our sewers, providing real-time data and alarming to avert sanitary sewer overflows, backups, and subsequent cleanup. In addition, the units are providing valuable data for I&I analysis so we can make informed capital investment decisions. It is a key tool in our toolkit for collection system maintenance and replacements.\"*\n\n- New Jersey American Water\n\n[Blue footer bar with icons:] 2110 Enterprise Street Escondido, CA 92029 USA | (855) 291-1980 | sales@smartcoversystems.com | smartcoversystems.com"
+}

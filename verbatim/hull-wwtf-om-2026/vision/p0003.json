@@ -1,0 +1,33 @@
+{
+ "page": 3,
+ "agreement_pct": 99.8,
+ "disagreements": [
+  {
+   "a": "[Jacobs logo, top left] **Jacobs**",
+   "b": "[Jacobs logo, top left]",
+   "resolution": "Image shows the Jacobs wordmark logo at top left with the text \"Jacobs\" — A's inclusion of the logo text matches the image."
+  },
+  {
+   "a": "resilient, high-quality service.** (period inside bold)",
+   "b": "resilient, high-quality service**. (period outside bold)",
+   "resolution": "Cosmetic markdown-bolding difference only; underlying text/punctuation identical. Kept period as part of the bolded clause for consistency."
+  },
+  {
+   "a": "chemical efficiency.** (period inside bold)",
+   "b": "chemical efficiency**. (period outside bold)",
+   "resolution": "Same cosmetic bolding difference; text identical. No word-level change."
+  },
+  {
+   "a": "[Sidebar callout box, right side, with large quotation mark graphic] (not bolded)",
+   "b": "**[Sidebar callout box, right side, with large quotation mark graphic]** (bolded)",
+   "resolution": "This is a descriptive annotation, not actual page text; bolding is immaterial. Kept as plain annotation."
+  },
+  {
+   "a": "[Footer: Jacobs \"J\" mark, bottom left]",
+   "b": "[Jacobs \"J\" mark, bottom left]",
+   "resolution": "Descriptive annotation of the bottom-left mark; image confirms it is in the footer area. Kept A's fuller description."
+  }
+ ],
+ "final_markdown": "[Jacobs logo, top left] **Jacobs**\n\n120 St. James Street\nBoston, MA 02116\n617.242.9222\n\nApril 2, 2026\n\nTown of Hull\nAttn: Mr. Tom Molinari, Assistant Director of Wastewater Operations\n1111 Nantasket Avenue\nHull, MA 02045\n\n**Subject: Contract FY26-02 Wastewater Treatment Facility and Collection System Operation and Maintenance Services**\n\nDear Mr. Molinari and the Selection Committee,\n\nThe Town of Hull's residents, businesses, and coastal environment depend on wastewater operations that protect public health, maintain regulatory compliance, and support the community's quality of life. **The Town's coastal setting, proximity of residences to the treatment system, and the importance of storm preparedness, odor control, and effective biosolids management** require a disciplined and responsive operating partner. Addressing challenges such **as inflow and infiltration (I/I) and wet weather peak flows**, and coordinating capital improvements with daily operations also demands an experienced and collaborative team. Jacobs understands these priorities and has tailored our approach to support the Town's operational goals, protect Town assets, and deliver **resilient, high-quality service.**\n\n**Project Manager Nathan Callison and Regional Operations Manager Scott Mangold** bring hands-on experience managing our municipal wastewater operations across New England. Their leadership will **strengthen operational accountability, safety culture, and process reliability** while promoting strong housekeeping practices, regulatory compliance, and clear communication with the Town. **Jacobs also brings regional and national wastewater specialists and industry-leading tools to reinforce our local team and expand available resources.** During our site visits, we engaged subject matter experts to complement our team's evaluation of the facility's current condition, regulatory drivers, and long-term opportunities for improvement. This combined perspective allows us to tailor our services to the Town's needs and focus on delivering **operational stability** while identifying opportunities to optimize **energy use, odor control, biosolids management, and chemical efficiency.**\n\n**A successful contract begins with a smooth transition and stable, supported workforce.** Jacobs will implement **a structured transition plan focused on knowledge transfer, workforce continuity, safety alignment, and seamless, uninterrupted service**, while advancing **staff training, succession planning, and alignment with the Town's culture, goals, and community values**. This approach **minimizes operational risk, maintains continuity of service, and positions the team for long-term performance and resiliency.** From Day 1, we will maintain regular communication with Town leadership and support continuous improvement through initiatives such as our **Annual Innovation Workshop.**\n\nJacobs is committed to being a **trusted, long-term partner** to the Town of Hull. We look forward to working collaboratively with the Town to deliver **safe, reliable, and forward-looking wastewater services** for the community.\n\nJacobs acknowledges receipt and review of all addenda issued for this solicitation.\n\nYours sincerely,\n\n[Handwritten signature: Nathan Callison]\n\n**Nathan Callison**\nProject Manager\n734.752.3155\nnathan.callison@jacobs.com\n\n[Handwritten signature: Scott Mangold]\n\n**Scott Mangold**\nRegional Operations Manager\n215.272.6606\nscott.mangold@jacobs.com\n\n---\n\n[Sidebar callout box, right side, with large quotation mark graphic]\n\n*I, the below signatory, am authorized to bind the firm making this Proposal and attest that the contents contained herein are complete and accurate.\"*\n\n– Paul Rheault, Executive Vice President\n\n[Handwritten signature: Paul Rheault]\n\n**Paul Rheault**\nExecutive Vice President\n541.408.2362\npaul.rheault@jacobs.com\n\n---\n\n[Footer: Jacobs \"J\" mark, bottom left] SECTION 1 - COVER LETTER | TOWN OF HULL O&M SERVICES | 1",
+ "verdict": "accept"
+}

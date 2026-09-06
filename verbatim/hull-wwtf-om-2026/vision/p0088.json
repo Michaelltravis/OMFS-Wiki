@@ -1,0 +1,33 @@
+{
+ "page": 88,
+ "agreement_pct": 97,
+ "final_markdown": "# SMARTCOVER®\n\n## A Badger Meter® Brand\n\n**REAL-TIME SATELLITE INFRASTRUCTURE MONITORING SOLUTIONS**\n\n[Full-page marketing flier on a dark blue background with a stylized world map overlaid by a network of connected nodes/lines (satellite network graphic). SmartCover logo mark (white dotted circular swirl) at top left. Three circular photo callouts connected by dashed lines: (1) upper right — a laptop and smartphone displaying a monitoring dashboard with a map view; (2) lower left — a gloved worker reaching into an open manhole/vault, cover propped to the side, accessing a monitoring device inside; (3) lower center-right — a white sensor mounted on a bracket/arm extending over open water at the edge of a structure. No body text.]\n\n[Footer bar with icons:]\n\n- [location pin icon] 2110 Enterprise Street\n  Escondido, CA 92029 USA\n- [phone icon] (855) 291-1980\n- [envelope icon] sales@smartcoversystems.com\n- [monitor icon] smartcoversystems.com",
+ "verdict": "accept",
+ "disagreements": [
+  {
+   "a": "stylized world map and satellite network graphic",
+   "b": "stylized globe and network-of-lines graphic",
+   "resolution": "Image shows a world-map silhouette (continents visible) overlaid with a network of connected dots/lines, not a 3D globe — used 'world map ... network of connected nodes/lines' per A's map description combined with B's network phrasing."
+  },
+  {
+   "a": "laptop/smartphone displaying a monitoring dashboard with map view",
+   "b": "laptop/smartphone displaying mapping/monitoring software dashboards",
+   "resolution": "Both consistent with image (software window with embedded map, same map mirrored on phone); merged wording, no real conflict."
+  },
+  {
+   "a": "worker in gloves lifting a manhole cover to access a monitoring device",
+   "b": "gloved worker installing a sensor unit under a manhole cover",
+   "resolution": "Image shows gloved hands reaching into an already-open vault with the cover/board propped to the side, and a device (valve-like unit) inside — resolved as 'reaching into an open manhole/vault ... accessing a monitoring device,' since 'installing' vs 'lifting' cannot be confirmed from the still image and 'accessing' is the safer, image-supported description."
+  },
+  {
+   "a": "sensor mounted on a weir/channel structure over water",
+   "b": "sensor mounted on a bracket over open water",
+   "resolution": "Image shows a white sensor on a bracket/arm extending from a concrete edge over water; combined both descriptions ('bracket/arm ... over open water at the edge of a structure')."
+  },
+  {
+   "a": "SmartCover logo mark described in separate bracket at top left",
+   "b": "SmartCover logo mentioned inline within the main scene description",
+   "resolution": "Same fact (dotted circular swirl logo, top left), only placement in the write-up differs — merged into one description, no image conflict."
+  }
+ ]
+}

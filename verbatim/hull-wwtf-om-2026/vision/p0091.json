@@ -1,0 +1,28 @@
+{
+ "page": 91,
+ "agreement_pct": 99,
+ "verdict": "accept",
+ "disagreements": [
+  {
+   "a": "[Image: laptop and smartphone displaying the SmartCover web dashboard with a map view and event list panel]",
+   "b": "[Exhibit: image of a laptop and smartphone displaying the SmartCover web dashboard with a map view, site list panel, and plotted monitoring locations; no caption]",
+   "resolution": "Image (figure annotation, not literal page text): laptop and smartphone both showing the SmartCover dashboard with a map, a left-side list panel, and plotted location markers. No visible caption."
+  },
+  {
+   "a": "alarm beacon",
+   "b": "alarm light",
+   "resolution": "Icon shows a rotating alarm/warning light (siren-style beacon) — either description is accurate; not literal page text."
+  },
+  {
+   "a": "three people",
+   "b": "group of people",
+   "resolution": "Icon shows three human silhouettes — both descriptions accurate; not literal page text."
+  },
+  {
+   "a": "[Blue footer bar] ... 2110 Enterprise Street Escondido, CA 92029 USA (single line)",
+   "b": "Footer bar, blue background; address split across two lines: '2110 Enterprise Street' / 'Escondido, CA 92029 USA'",
+   "resolution": "Image confirms the address is printed on two lines: '2110 Enterprise Street' then 'Escondido, CA 92029 USA' — matches B's line break; wording identical to both."
+  }
+ ],
+ "final_markdown": "# EFFICIENT MANAGEMENT OF REAL-TIME DATA\n## *Provides Actionable Insights through Industry-Leading Analytics*\n\n- Data delivered from the sewer to your web-enabled devices\n\n- Intuitive landing dashboard summarizing location and status of manholes monitored by SmartCover sensors\n\n- Easy access to critical events including alarms, alerts, and advisories\n\n- Visibility to every single SmartCover unit through clicks on the map\n\n[Image: laptop and smartphone displaying the SmartCover web dashboard, with a map view, a site/list panel, and plotted monitoring locations]\n\n# NOTABLE BENEFITS\n## *Deliver Peace of Mind*\n\n[Grid of eight icon tiles, two rows of four, each with an arrow beneath pointing right]\n\n| | | | |\n|---|---|---|---|\n| [icon: worker in hard hat] No confined space entry reduces field resources and safety hazards | [icon: satellite] Satellite communication delivers constant system visibility | [icon: bar chart] Data management and turnkey analytics improve decision-making | [icon: alarm light/beacon] Alarms and notifications provide advanced notice to prepare and respond |\n| [icon: mobile phone] Mobile app produces system insights wherever and whenever | [icon: gears] Available API fully integrates multiple systems | [icon: prohibition sign] Entry detection at every site provides instant notification of access | [icon: three people] Resource allocation based on need maximizes coverage |\n\n---\n\n[Blue footer bar] [pin icon] 2110 Enterprise Street\nEscondido, CA 92029 USA  [phone icon] (855) 291-1980  [envelope icon] sales@smartcoversystems.com  [monitor icon] smartcoversystems.com"
+}

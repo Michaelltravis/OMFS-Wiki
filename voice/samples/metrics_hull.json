@@ -1,0 +1,29 @@
+{
+  "words_prose": 5797,
+  "words_table": 1778,
+  "total_words": 7575,
+  "table_share": 0.2347,
+  "sentence_count": 238,
+  "sentence_median_words": 21.5,
+  "sentence_p90_words": 38.0,
+  "punch_sentences_per_120_words": 0.54,
+  "heading_count": 39,
+  "words_per_heading": 148.6,
+  "pct_headings_assertion": 0.4615,
+  "client_paragraph_density": 0.437,
+  "we_count": 107,
+  "you_count": 94,
+  "we_you_ratio": 1.14,
+  "numbers_per_100_words": 5.66,
+  "so_what_rate": 0.098,
+  "tags_in_body": 0,
+  "banned_words_total": 4,
+  "banned_words_detail": {
+    "robust": 1,
+    "holistic": 2,
+    "proven track record": 1
+  },
+  "passive_voice_rate": 0.1008,
+  "avg_paragraph_words": 41.5,
+  "callouts_or_devices": 6
+}

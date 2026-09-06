@@ -1,0 +1,555 @@
+{
+ "wiki": "C:\\Users\\micha\\Desktop\\Wiki",
+ "ranges": [
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "S1 Cover Letter",
+   "pages": [
+    3,
+    4
+   ],
+   "category": "win-themes",
+   "rfpSectionType": "cover-letter",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": []
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "S2 Executive Summary",
+   "pages": [
+    5,
+    9
+   ],
+   "category": "win-themes",
+   "rfpSectionType": "exec-summary",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\technical-approach\\annual-innovation-workshop-program.md",
+    "wiki\\win-themes\\exec-summary-client-readiness-framing.md",
+    "wiki\\win-themes\\leadership-team-and-coordinated-operations-narrative.md",
+    "wiki\\win-themes\\proof-point-examples-coastal-complex-systems.md",
+    "wiki\\win-themes\\value-added-no-cost-enhancements-framing.md"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "S3 Firm Qualifications",
+   "pages": [
+    10,
+    18
+   ],
+   "category": "qualifications",
+   "rfpSectionType": "qualifications",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\compliance-plans\\health-safety-environmental-compliance-performance-record.md",
+    "wiki\\past-performance\\client-references.md",
+    "wiki\\past-performance\\project-southbridge-ma.md",
+    "wiki\\past-performance\\project-waterbury-ct.md",
+    "wiki\\past-performance\\project-westerly-ri.md",
+    "wiki\\qualifications\\comparable-scale-track-record-treatment-and-collection.md",
+    "wiki\\qualifications\\corporate-entity-legal-qualifications.md",
+    "wiki\\qualifications\\financial-strength-low-risk-partner-value-prop.md",
+    "wiki\\qualifications\\full-service-lifecycle-capability-and-capital-planning-support.md",
+    "wiki\\qualifications\\omfs-corporate-scale-and-om-portfolio-proof-points.md",
+    "wiki\\qualifications\\regional-presence-local-support-value-prop.md",
+    "wiki\\qualifications\\representative-past-performance-narrative-patterns.md",
+    "wiki\\qualifications\\workforce-culture-retention-employer-of-choice-value-prop.md",
+    "wiki\\technical-approach\\low-pressure-sewer-grinder-pump-om-experience.md",
+    "wiki\\win-themes\\project-narrative-contract-transition-turnaround.md",
+    "wiki\\win-themes\\project-narrative-new-contract-mobilization-innovation.md",
+    "wiki\\win-themes\\project-narrative-utility-partnership-cost-savings.md"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "S4 Staffing and PM Plan",
+   "pages": [
+    19,
+    24
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": "staffing",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\management-staffing\\blended-onsite-offsite-org-structure.md",
+    "wiki\\management-staffing\\key-personnel-role-descriptions.md",
+    "wiki\\management-staffing\\regional-technical-support-bench.md",
+    "wiki\\management-staffing\\staff-certification-training-program.md",
+    "wiki\\management-staffing\\staffing-coverage-shift-oncall-plan.md",
+    "wiki\\management-staffing\\surge-staffing-backup-resource-planning.md",
+    "wiki\\management-staffing\\workforce-retention-transition-continuity.md",
+    "wiki\\resumes\\nathan-callison.md"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "S5 Technical Approach A (ops, process, maintenance)",
+   "pages": [
+    25,
+    34
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": "tech-approach",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\compliance-plans\\laboratory-management-data-integrity-program.md",
+    "wiki\\compliance-plans\\regulatory-compliance-reporting-dashboard.md",
+    "wiki\\compliance-plans\\six-point-compliance-program.md",
+    "wiki\\technical-approach\\annual-innovation-workshop-program.md",
+    "wiki\\technical-approach\\biosolids-residuals-management-program.md",
+    "wiki\\technical-approach\\collection-system-om-program.md",
+    "wiki\\technical-approach\\om-management-systems-framework.md",
+    "wiki\\technical-approach\\phased-baseline-to-optimization-approach.md",
+    "wiki\\technical-approach\\process-control-and-compliance-tools.md",
+    "wiki\\technical-approach\\project-understanding-goals-challenges-response-matrix.md",
+    "wiki\\technical-approach\\tiered-communication-reporting-protocol.md",
+    "wiki\\win-themes\\embedded-client-testimonial-technical-narrative.md"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "S5 Technical Approach B (collections, odor, biosolids, energy)",
+   "pages": [
+    35,
+    43
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": "tech-approach",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\compliance-plans\\emergency-response-storm-preparedness-coastal-wwtf.md",
+    "wiki\\compliance-plans\\integrated-safety-security-cybersecurity-program.md",
+    "wiki\\technical-approach\\cmms-driven-asset-management-maintenance-program.md",
+    "wiki\\technical-approach\\collection-system-om-program.md",
+    "wiki\\technical-approach\\energy-management-program-wastewater-om.md",
+    "wiki\\technical-approach\\grant-loan-funding-support-capital-planning.md",
+    "wiki\\technical-approach\\ot-scada-modernization-roadmap.md",
+    "wiki\\technical-approach\\site-specific-odor-control-program.md",
+    "wiki\\win-themes\\embedded-differentiator-case-study-callout.md"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "S5 Technical Approach C (transition, safety, compliance, emergency)",
+   "pages": [
+    44,
+    52
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": "transition",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\compliance-plans\\om-reporting-documentation-deliverables-schedule.md",
+    "wiki\\management-staffing\\wastewater-om-transition-plan-mobilization.md",
+    "wiki\\technical-approach\\cmms-driven-asset-management-maintenance-program.md",
+    "wiki\\win-themes\\community-stewardship-public-engagement-program.md"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "App A Resumes",
+   "pages": [
+    69,
+    75
+   ],
+   "category": "resumes",
+   "rfpSectionType": "resume",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\resumes\\anthony-rose.md",
+    "wiki\\resumes\\kevin-dahl.md",
+    "wiki\\resumes\\mike-boven.md",
+    "wiki\\resumes\\nathan-callison.md",
+    "wiki\\resumes\\scott-mangold.md"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "App B-C Project Descriptions and Similar Facilities",
+   "pages": [
+    76,
+    84
+   ],
+   "category": "past-performance",
+   "rfpSectionType": "past-performance",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\past-performance\\client-references.md",
+    "wiki\\past-performance\\project-south-huron-mi.md",
+    "wiki\\past-performance\\project-southbridge-ma.md",
+    "wiki\\past-performance\\project-traverse-city-mi.md",
+    "wiki\\past-performance\\project-waterbury-ct.md",
+    "wiki\\past-performance\\project-westerly-ri.md",
+    "wiki\\past-performance\\similar-facilities-table.md",
+    "wiki\\qualifications\\representative-past-performance-narrative-patterns.md",
+    "wiki\\win-themes\\project-narrative-contract-transition-turnaround.md",
+    "wiki\\win-themes\\project-narrative-long-term-dbo-performance-excellence.md",
+    "wiki\\win-themes\\project-narrative-new-contract-mobilization-innovation.md",
+    "wiki\\win-themes\\project-narrative-utility-partnership-cost-savings.md",
+    "wiki\\win-themes\\project-narrative-workforce-transition-biosolids-modernization.md"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "App D-G Innovation Workshop, SmartCover, WATS, Gantt",
+   "pages": [
+    85,
+    101
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": "tech-approach",
+   "clientNames": [
+    "Hull",
+    "Town of Hull"
+   ],
+   "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
+   "existingBlocks": [
+    "wiki\\management-staffing\\om-transition-workplan-phased-schedule.md",
+    "wiki\\technical-approach\\wats-collection-system-odor-corrosion-modeling.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "S1 Letter of Transmittal",
+   "pages": [
+    4,
+    5
+   ],
+   "category": "win-themes",
+   "rfpSectionType": "cover-letter",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\win-themes\\swip-transmittal-letter-value-bullets.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "Executive Summary",
+   "pages": [
+    6,
+    14
+   ],
+   "category": "win-themes",
+   "rfpSectionType": "exec-summary",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\technical-approach\\swip-dpr-readiness-expert-bench-and-monitoring.md",
+    "wiki\\win-themes\\swip-compliance-reliability-transparency-narrative.md",
+    "wiki\\win-themes\\swip-om-qualifications-proof-points.md",
+    "wiki\\win-themes\\swip-onsite-team-staffing-and-shift-model.md",
+    "wiki\\win-themes\\swip-partner-integration-and-technical-bench.md",
+    "wiki\\win-themes\\swip-seamless-transition-to-day-one-operations.md",
+    "wiki\\win-themes\\swip-value-added-offerings-package.md",
+    "wiki\\win-themes\\swip-vision-and-system-understanding-framing.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "2.1-2.2 Firm History and Technical Qualifications",
+   "pages": [
+    15,
+    20
+   ],
+   "category": "qualifications",
+   "rfpSectionType": "qualifications",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\qualifications\\california-om-track-record-and-governance.md",
+    "wiki\\qualifications\\firm-history-corporate-overview.md",
+    "wiki\\qualifications\\full-service-firm-capabilities.md",
+    "wiki\\qualifications\\reach-back-model-and-regional-support.md",
+    "wiki\\qualifications\\representative-om-experience-comparison-table.md",
+    "wiki\\qualifications\\southern-california-reuse-expertise-and-sme-bench.md",
+    "wiki\\qualifications\\water-reuse-leadership-and-timeline.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "2.3 References",
+   "pages": [
+    21,
+    29
+   ],
+   "category": "past-performance",
+   "rfpSectionType": "past-performance",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\past-performance\\clovis-wwtp-wrf-om.md",
+    "wiki\\past-performance\\edward-c-little-water-recycling-facility-om.md",
+    "wiki\\past-performance\\references-section-overview.md",
+    "wiki\\past-performance\\soquel-creek-advanced-water-purification-om.md",
+    "wiki\\past-performance\\turlock-zero-liquid-discharge-facility-om.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "2.4 Firm Approach A",
+   "pages": [
+    30,
+    40
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": "tech-approach",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\compliance-plans\\swip-qaqc-program-audit-process.md",
+    "wiki\\management-staffing\\swip-training-certification-program.md",
+    "wiki\\technical-approach\\swip-comprehensive-om-plan-list.md",
+    "wiki\\technical-approach\\swip-facility-goals-challenges-strategy-matrix.md",
+    "wiki\\technical-approach\\swip-om-project-execution-framework.md",
+    "wiki\\technical-approach\\swip-process-control-system-tools.md",
+    "wiki\\technical-approach\\swip-process-optimization-digital-modeling.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "2.4 Firm Approach B",
+   "pages": [
+    41,
+    51
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": "tech-approach",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\compliance-plans\\swip-safety-leadership-and-program-elements.md",
+    "wiki\\compliance-plans\\swip-safety-plan-performance-record.md",
+    "wiki\\compliance-plans\\swip-safety-training-confined-space-programs.md",
+    "wiki\\compliance-plans\\swip-site-specific-safety-approach-underground-facility.md",
+    "wiki\\management-staffing\\swip-training-certification-program.md",
+    "wiki\\management-staffing\\swip-workforce-culture-dei-employee-networks.md",
+    "wiki\\technical-approach\\swip-aquadna-deragger-technology.md",
+    "wiki\\technical-approach\\swip-cmms-inventory-management-value-add.md",
+    "wiki\\technical-approach\\swip-digital-kpi-reporting-dashboard.md",
+    "wiki\\technical-approach\\swip-energy-chemical-efficiency-fleet-program.md",
+    "wiki\\technical-approach\\swip-innovation-value-added-offerings-overview.md",
+    "wiki\\technical-approach\\swip-inventory-management-asset-tracking.md",
+    "wiki\\technical-approach\\swip-process-optimization-digital-modeling.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "2.4 Firm Approach C",
+   "pages": [
+    52,
+    62
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": "tech-approach",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\compliance-plans\\swip-environmental-regulatory-compliance-program.md",
+    "wiki\\compliance-plans\\swip-laboratory-management-and-sampling-plan.md",
+    "wiki\\compliance-plans\\swip-permit-compliance-track-record.md",
+    "wiki\\technical-approach\\swip-annual-innovation-workshop.md",
+    "wiki\\technical-approach\\swip-asset-management-10-box-model.md",
+    "wiki\\technical-approach\\swip-asset-management-program-overview.md",
+    "wiki\\technical-approach\\swip-communications-and-reporting-plan.md",
+    "wiki\\technical-approach\\swip-inventory-management-system.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "2.4 Firm Approach D (safety, compliance, emergency, reporting)",
+   "pages": [
+    63,
+    72
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": "compliance",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\compliance-plans\\swip-emergency-response-plan-approach.md",
+    "wiki\\compliance-plans\\swip-emergency-response-regional-resources.md",
+    "wiki\\qualifications\\swip-financial-strength-and-stability.md",
+    "wiki\\qualifications\\swip-financial-transparency-and-litigation-history.md",
+    "wiki\\technical-approach\\swip-community-involvement-outreach-program.md",
+    "wiki\\technical-approach\\swip-scada-ic-cybersecurity-approach.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "3.1 Staffing Plan",
+   "pages": [
+    73,
+    79
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": "staffing",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\management-staffing\\swip-key-personnel-cpo-and-operators-bios.md",
+    "wiki\\management-staffing\\swip-key-personnel-maintenance-ic-technician-bios.md",
+    "wiki\\management-staffing\\swip-key-personnel-operations-leadership-bios.md",
+    "wiki\\management-staffing\\swip-project-team-org-structure.md",
+    "wiki\\management-staffing\\swip-regional-maintenance-shared-technician-model.md",
+    "wiki\\management-staffing\\swip-shift-schedule-and-oncall-staffing-plan.md",
+    "wiki\\management-staffing\\swip-staffing-plan-philosophy-and-regional-bench.md",
+    "wiki\\resumes\\jason-holst.md",
+    "wiki\\technical-approach\\swip-regional-maintenance-team-capability-proof-points.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "3.2 Resumes",
+   "pages": [
+    80,
+    95
+   ],
+   "category": "resumes",
+   "rfpSectionType": "resume",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\management-staffing\\swip-cross-training-and-intern-program.md",
+    "wiki\\past-performance\\santamonica-swip-advanced-water-treatment-team-experience.md",
+    "wiki\\resumes\\chris-catlin.md",
+    "wiki\\resumes\\christen-wood.md",
+    "wiki\\resumes\\howard-brewen.md",
+    "wiki\\resumes\\jason-holst.md",
+    "wiki\\resumes\\joshua-hernandez.md",
+    "wiki\\resumes\\mack-mckenzie.md",
+    "wiki\\resumes\\mayo-miller.md",
+    "wiki\\resumes\\richard-gwinn.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "3.4 Transition Plan",
+   "pages": [
+    96,
+    103
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": "transition",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\management-staffing\\swip-long-term-staffing-succession-planning.md",
+    "wiki\\management-staffing\\swip-staff-retention-and-six-step-transition-process.md",
+    "wiki\\management-staffing\\swip-transition-phasing-and-schedule-template.md",
+    "wiki\\management-staffing\\swip-transition-plan-overview-and-track-record.md",
+    "wiki\\management-staffing\\swip-transition-team-and-communications-plan.md"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "S4 Suggested Scope Modifications",
+   "pages": [
+    104,
+    108
+   ],
+   "category": "win-themes",
+   "rfpSectionType": "exec-summary",
+   "clientNames": [
+    "Santa Monica",
+    "City of Santa Monica",
+    "SWIP"
+   ],
+   "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
+   "existingBlocks": [
+    "wiki\\technical-approach\\swip-city-staff-training-program.md",
+    "wiki\\technical-approach\\swip-cmms-inventory-management-value-add.md",
+    "wiki\\technical-approach\\swip-discounted-engineering-hours-value-add.md",
+    "wiki\\technical-approach\\swip-dpr-operations-staffing-model.md",
+    "wiki\\technical-approach\\swip-dpr-readiness-expert-bench-and-monitoring.md",
+    "wiki\\technical-approach\\swip-injection-well-performance-monitoring-plan.md",
+    "wiki\\technical-approach\\swip-inventory-management-asset-tracking.md",
+    "wiki\\technical-approach\\swip-mbr-fouling-mitigation-case-study.md",
+    "wiki\\technical-approach\\swip-mechanical-ic-regional-support-value-add.md",
+    "wiki\\technical-approach\\swip-scada-redundancy-upgrade-recommendation.md",
+    "wiki\\win-themes\\swip-value-added-offerings-package.md"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+---
+title: O&M Project Execution Framework — 9-Element Delivery Model with KPI Dashboard and Deliverables Tracking
+category: technical-approach
+tags: [project-execution, om-framework, kpi-dashboard, communication-plan, deliverables-tracking, compliance-reporting, exhibit]
+source: santamonica-swip-om-2025
+source-section: "2.4 Firm Approach — Approach to Delivery of the O&M Services, Exhibit 2-7 and Exhibit 2-8 (pp. 32-33)"
+context: Southern California sustainable water infrastructure O&M, 2025
+sanitized: true
+quality: A clean, evaluator-scannable 9-element framework (icons + one-paragraph descriptions) that covers the full breadth of an O&M program in a single exhibit, paired with a concrete KPI-dashboard capability and a named commitment to co-develop a tailored communication plan and a real-time deliverables-tracking dashboard — moves the proposal from "we'll comply" to "here is the specific tool set."
+reuse-notes: The 9 program elements and their one-line descriptions are fully generic and reusable for any water/wastewater O&M pursuit. The KPI dashboard example and deliverables-tracking system description should be paired with the pursuit's actual required KPIs/reporting cadence once known.
+---
+
+# O&M Project Execution Framework — 9-Element Delivery Model with KPI Dashboard and Deliverables Tracking
+
+## Approach to delivery of the O&M services
+
+In outlining specific strategies for meeting the client's goals and how to address the systems' current and future challenges (see the facility-by-facility goals/challenges/strategy matrix), Jacobs brings industry-leading best practices in O&M and depth of technical resources — from O&M to engineering and beyond — to deliver unrivaled capabilities to the client. The client can rely on Jacobs to achieve 100% compliance, minimize risk, and optimize the lifecycle performance of the program's assets. Jacobs will apply structured processes, proven methodologies, and proprietary digital tools to plan, execute, monitor, and improve operations, summarized below.
+
+## Major elements of Jacobs' approach to project execution
+
+1. **Health, Safety and Security** — A framework for compliance with Occupational Safety and Health Administration (OSHA) and other safety regulations, vulnerability assessments, safety training, emergency preparedness and response, and other safety-related functions.
+2. **Compliance and Reporting** — A program of compliance for pollution prevention and waste minimization. Includes analysis and review checklists for all permits, report preparation for regulatory agencies, and environmental compliance training for all employees.
+3. **Operations Management** — Documents treatment strategies and process control functions through standard operating procedures (SOPs), unit process control procedures (UPCPs), and treatment system optimization.
+4. **Laboratory Management** — Standard procedures for sample collection, analysis, and documentation with quality assurance/quality control (QA/QC) and chemical hygiene plans.
+5. **Human Resources** — A program for the success of all employees as individuals and as a team, including recruitment, orientation, and training; standard training needs assessments for all staff; and training programs for certification, ethics, compliance, safety, management and succession; and performance appraisals and professional development.
+6. **Maintenance and Asset Management** — Integrates maintenance scheduling, documentation, and tracking; inventory control; and equipment condition assessment into a computerized database (CMMS) that allows the team to maximize equipment performance and minimize downtime.
+7. **Financial Management** — Systems and approaches to manage project cost through national purchasing power, documentation of contractual requirements, and continuous monitoring.
+8. **Project Management** — Transparent communication including daily, weekly, monthly, annual, and severe-weather client reports; internal measures of project performance; and plans to improve project performance beyond the requirements of the contract.
+9. **Public Education, Community Involvement, and Media Relations** — A robust public education and community involvement program developed in partnership with the client, including volunteering, charitable donations, and facility tours to benefit the community.
+10. **Customer Service** — A robust program to demonstrate Jacobs' commitment to being a good neighbor and responsiveness to community concerns.
+
+As Jacobs partners with the client to deliver high-performance operations, Jacobs will implement a suite of tools and protocols designed to ensure transparency, compliance, and proactive management. Early in the contract, Jacobs will co-develop a tailored communication and reporting plan with the client, designed to address both program-wide coordination needs and the specific operational nuances of the facility system. This plan will guide ongoing communication with client representatives, regulatory agencies, and internal stakeholders, ensuring alignment on expectations, deliverables, and performance goals.
+
+To support contract execution, Jacobs will deploy a rigorous contract deliverables tracking system that captures all regulatory, operational, and reporting requirements. This system provides a clear line of sight into every commitment, accompanied by a real-time dashboard that highlights key deadlines, submission statuses, and upcoming milestones — enabling both client staff and Jacobs teams to manage compliance proactively and efficiently.
+
+## Real-time KPI dashboard capability
+
+Jacobs will provide the client with real-time visibility into operations through a customized Key Performance Indicator (KPI) dashboard. This dashboard displays live and historical operational data, including process control trends, maintenance records, and compliance metrics. It also incorporates real-time tracking of personnel and physical assets onsite via access badge readers, with optional tagging of critical equipment such as vehicles. This level of visibility strengthens situational awareness, enhances site security, and supports timely, data-driven decision-making.
+
+A representative example dashboard displays parallel views for two example facilities, each tracking BOD5, TSS, total residual chlorine (TRC), pH, flow, and solids levels alongside a gauge-style compliance indicator and a rolling monthly fecal coliform trend chart.
+
+## Reuse guidance
+
+Universal and fully reusable as the "how we run O&M day to day" section opener that typically follows a goals/challenges/strategy matrix: the 9/10-element icon framework, the commitment to co-develop a tailored communication/reporting plan early in the contract, the deliverables-tracking-system-with-real-time-dashboard concept, and the KPI dashboard capability description all apply regardless of facility type or region. Pair with `swip-facility-goals-challenges-strategy-matrix.md` (the preceding exhibit this section builds on), `swip-comprehensive-om-plan-list.md` (the next exhibit, listing the actual O&M plan documents this framework produces), and `swip-digital-kpi-reporting-dashboard.md` (the fuller, pursuit-tailored dashboard treatment later in this same proposal). Related graphics: Exhibit 2-7 (asset ID `OMFS_PREX_100`, not client-specific, reusable as-is) and Exhibit 2-8 (asset ID `119_008A26`, generic "Example WWTP" labeling, not client-specific, reusable as-is) — see graphics catalog, source `santamonica-swip-om-2025`.

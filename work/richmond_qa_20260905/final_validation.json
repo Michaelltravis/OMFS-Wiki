@@ -1,0 +1,274 @@
+{
+  "output_directory": "C:\\Users\\micha\\Desktop\\Richmond\\Draft Sections\\01 Working Drafts",
+  "expected_file_count": 7,
+  "actual_file_count": 7,
+  "total_pages": 43,
+  "narrative_pages_8_4_1_through_8_4_5_including_internal_registers": 34,
+  "total_trip_report_source_notes": 38,
+  "files": [
+    {
+      "file": "01_Tech_1_Cover_Letter_Richmond_Draft.docx",
+      "bytes": 49643,
+      "package_ok": true,
+      "pages": 3,
+      "words": 786,
+      "paragraphs": 42,
+      "tables": 0,
+      "trip_report_source_notes": 3,
+      "trip_report_authors": [
+        "Iouri Ossokine",
+        "Kelly Irving",
+        "Ryan Larson"
+      ],
+      "classification_mentions": {
+        "Observed condition": 1,
+        "Reported condition": 0,
+        "Recommendation": 1,
+        "Open question/data gap": 1
+      },
+      "placeholders": [
+        "[AUTHORIZED COMPANY OFFICIAL]",
+        "[CONFIRM AUTHORIZED SIGNATORY AND FINAL ATTESTATION LANGUAGE]",
+        "[CONFIRM DATE]",
+        "[CONFIRM FINAL LEGAL LANGUAGE AFTER REVIEW OF THE ADDENDUM-ISSUED DRAFT AGREEMENT]",
+        "[CONFIRM MANAGING OFFICE]",
+        "[CONFIRM NAME, TITLE, TELEPHONE, AND EMAIL]",
+        "[CONFIRM OFFICE ADDRESS AND TELEPHONE]",
+        "[CONFIRM RECIPIENT ADDRESS]",
+        "[CONFIRM WITH COMMERCIAL LEAD]",
+        "[DIRECT TELEPHONE]",
+        "[EMAIL]",
+        "[TITLE]"
+      ],
+      "required_style_sizes_pt": {
+        "Normal": 12.0,
+        "Source Note": 12.0,
+        "Placeholder": 12.0,
+        "Table Text": 12.0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02_Tech_2_Executive_Summary_Richmond_Draft.docx",
+      "bytes": 51632,
+      "package_ok": true,
+      "pages": 5,
+      "words": 1103,
+      "paragraphs": 35,
+      "tables": 4,
+      "trip_report_source_notes": 5,
+      "trip_report_authors": [
+        "Daniel Buonadonna",
+        "Iouri Ossokine",
+        "Ryan Larson",
+        "Trey Cain"
+      ],
+      "classification_mentions": {
+        "Observed condition": 4,
+        "Reported condition": 2,
+        "Recommendation": 0,
+        "Open question/data gap": 4
+      },
+      "placeholders": [],
+      "required_style_sizes_pt": {
+        "Normal": 12.0,
+        "Source Note": 12.0,
+        "Placeholder": 12.0,
+        "Table Text": 12.0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03_Tech_3_Firm_Qualifications_Richmond_Draft.docx",
+      "bytes": 53350,
+      "package_ok": true,
+      "pages": 7,
+      "words": 1567,
+      "paragraphs": 53,
+      "tables": 4,
+      "trip_report_source_notes": 4,
+      "trip_report_authors": [
+        "Daniel Buonadonna",
+        "Iouri Ossokine",
+        "Ryan Larson",
+        "Trey Cain"
+      ],
+      "classification_mentions": {
+        "Observed condition": 2,
+        "Reported condition": 1,
+        "Recommendation": 0,
+        "Open question/data gap": 1
+      },
+      "placeholders": [
+        "[CONFIRM 10 OR MORE YEARS PROVIDING WASTEWATER-TREATMENT O&M SERVICES]",
+        "[CONFIRM ADDRESS AND TELEPHONE]",
+        "[CONFIRM CONTRACTING ENTITY]",
+        "[CONFIRM CURRENT FINANCIAL FIGURES, INSURANCE, AND BONDING CAPACITY]",
+        "[CONFIRM INCORPORATION DATE, STATE, AND YEARS UNDER NAME]",
+        "[CONFIRM LEGAL ENTITY AND RELATIONSHIP]",
+        "[CONFIRM MANAGEMENT OF AT LEAST FIVE COLLECTION SYSTEMS OF 50 MILES OR GREATER]",
+        "[CONFIRM NAME, TITLE, TELEPHONE, EMAIL]",
+        "[CONFIRM NAMES AND TITLES]",
+        "[CONFIRM TAX IDENTIFICATION NUMBER]",
+        "[INSERT APPROVED CALIFORNIA AND HOME-STATE STATEMENT]",
+        "[INSERT CURRENT, APPROVED CORPORATE METRICS AND DISCLOSURES]",
+        "[INSERT VERIFIED CALIFORNIA REGULATORY AND WASTEWATER-UTILITY O&M EXPERIENCE]",
+        "[INSERT VERIFIED STORMWATER O&M EXPERIENCE AND REFERENCES]",
+        "[LEGAL REVIEW REQUIRED]",
+        "[VERIFY ALL CURRENT CORPORATE FACTS]",
+        "[VERIFY]"
+      ],
+      "required_style_sizes_pt": {
+        "Normal": 12.0,
+        "Source Note": 12.0,
+        "Placeholder": 12.0,
+        "Table Text": 12.0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04_Tech_4_Staffing_Management_Richmond_Draft.docx",
+      "bytes": 53379,
+      "package_ok": true,
+      "pages": 7,
+      "words": 1443,
+      "paragraphs": 46,
+      "tables": 6,
+      "trip_report_source_notes": 5,
+      "trip_report_authors": [
+        "Daniel Buonadonna",
+        "Daniel Gorka",
+        "Iouri Ossokine",
+        "Ryan Larson",
+        "Trey Cain"
+      ],
+      "classification_mentions": {
+        "Observed condition": 4,
+        "Reported condition": 2,
+        "Recommendation": 5,
+        "Open question/data gap": 0
+      },
+      "placeholders": [
+        "[COLLECTION SYSTEM MANAGER]",
+        "[CONFIRM CALL-CENTER MODEL]",
+        "[CONFIRM FIRMS AND SCOPES]",
+        "[CONFIRM FIRMS, SCOPES, PERCENTAGES, AND COMMERCIAL TREATMENT]",
+        "[CONFIRM RESPONDERS AND RESIDENCE PROXIMITY]",
+        "[CONFIRM SHIFT PATTERN AND FTE COUNT]",
+        "[PROJECT MANAGER]"
+      ],
+      "required_style_sizes_pt": {
+        "Normal": 12.0,
+        "Source Note": 12.0,
+        "Placeholder": 12.0,
+        "Table Text": 12.0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05_Tech_5_Technical_Approach_Richmond_Draft.docx",
+      "bytes": 59655,
+      "package_ok": true,
+      "pages": 12,
+      "words": 3308,
+      "paragraphs": 89,
+      "tables": 9,
+      "trip_report_source_notes": 16,
+      "trip_report_authors": [
+        "Daniel Buonadonna",
+        "Daniel Gorka",
+        "Iouri Ossokine",
+        "Kelly Irving",
+        "Roy Aristizabal",
+        "Ryan Larson",
+        "Trey Cain"
+      ],
+      "classification_mentions": {
+        "Observed condition": 9,
+        "Reported condition": 1,
+        "Recommendation": 5,
+        "Open question/data gap": 4
+      },
+      "placeholders": [],
+      "required_style_sizes_pt": {
+        "Normal": 12.0,
+        "Source Note": 12.0,
+        "Placeholder": 12.0,
+        "Table Text": 12.0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06_Tech_6_Required_Forms_Richmond_Draft.docx",
+      "bytes": 48706,
+      "package_ok": true,
+      "pages": 2,
+      "words": 406,
+      "paragraphs": 27,
+      "tables": 2,
+      "trip_report_source_notes": 0,
+      "trip_report_authors": [],
+      "classification_mentions": {
+        "Observed condition": 0,
+        "Reported condition": 0,
+        "Recommendation": 0,
+        "Open question/data gap": 0
+      },
+      "placeholders": [
+        "[LEGAL REVIEW PENDING]",
+        "[SIGNATORY TBD]"
+      ],
+      "required_style_sizes_pt": {
+        "Normal": 12.0,
+        "Source Note": 12.0,
+        "Placeholder": 12.0,
+        "Table Text": 12.0
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07_Fee_Proposal_Richmond_Draft.docx",
+      "bytes": 52908,
+      "package_ok": true,
+      "pages": 7,
+      "words": 1566,
+      "paragraphs": 57,
+      "tables": 4,
+      "trip_report_source_notes": 5,
+      "trip_report_authors": [
+        "Daniel Buonadonna",
+        "Daniel Gorka",
+        "Iouri Ossokine",
+        "Ryan Larson",
+        "Trey Cain"
+      ],
+      "classification_mentions": {
+        "Observed condition": 2,
+        "Reported condition": 1,
+        "Recommendation": 7,
+        "Open question/data gap": 8
+      },
+      "placeholders": [
+        "[CONFIRM]",
+        "[OPEN QUESTION/DATA GAP]",
+        "[TBD]"
+      ],
+      "required_style_sizes_pt": {
+        "Normal": 12.0,
+        "Source Note": 12.0,
+        "Placeholder": 12.0,
+        "Table Text": 12.0
+      },
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "errors": [],
+  "status": "PASS"
+}

@@ -1,0 +1,49 @@
+---
+title: Innovation Workshop — Sample Agenda Structure (Proof-of-Execution Exhibit)
+category: technical-approach
+tags: [innovation, workshop, agenda, continuous-improvement, proof-of-concept, sme-topics, energy, biosolids, pfas]
+source: hull-wwtf-om-2026
+source-section: "Appendix D - Innovation Workshop Agenda and Examples (pp. 85-86)"
+context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+sanitized: true
+quality: Turns the innovation-workshop concept from a promise into a demonstrated practice by showing two real prior agendas — strong proof-of-execution to pair with the concept description
+reuse-notes: Only include real prior agendas (sanitized) when they exist and are shareable; otherwise present the proposed first-workshop agenda alone
+---
+
+# Innovation Workshop — Sample Agenda Structure (Proof-of-Execution Exhibit)
+
+To make the annual Innovation Workshop concept credible rather than aspirational, the proposal includes two sanitized sample agendas from workshops already delivered for other O&M clients, framed as: "Sample agendas from previous Innovation Workshops for [other clients] are included below, demonstrating how these sessions have successfully driven alignment on priorities and implementation of actionable improvements."
+
+## Standard format
+
+- **Full-day session**, roughly 8:00/8:30 a.m. to 4:00/4:30 p.m., with an optional post-session networking hour
+- **Opening block:** welcome/introductions, coffee/soft start, followed by a keynote or industry-outlook topic (e.g., "becoming a world-class utility," a sector-wide regulatory or funding update)
+- **Morning technical blocks (45–60 minutes each):** 2–3 focused topics, often paired as "Part I / Part II" for a single theme (e.g., an optimization topic split across two sessions), each block presented by a named subject-matter expert or the client's own staff
+- **Midday break/lunch**
+- **Afternoon technical blocks:** additional SME-led topics — commonly energy/decarbonization, biosolids, digester or membrane technology, odor control, regulatory/compliance updates (e.g., PFAS, permit renewals), and grant/funding opportunities
+- **Late-afternoon strategic block:** a forward-looking or "de-risking the future" planning discussion
+- **Closing:** open discussion and adjournment (or additional discussion/closing remarks)
+
+## Observed topic mix across sample agendas
+
+- Regulatory/uncertainty framing (e.g., PFAS impacts and solutions, becoming resilient to an uncertain future)
+- Process intensification / meeting new regulatory requirements
+- Energy optimization and sector decarbonization (split across two sessions)
+- Digital / "one-water" utility operations
+- Adaptive planning and de-risking the future
+- Grant and alternative municipal funding sources
+- Ecosystem/asset enhancement
+- Anaerobic digester technologies
+- Biosolids economics ("are biosolids cool?")
+- Strategic energy management at treatment plants paired with a circular water economy theme, illustrated with case studies from another country's utility sector
+- Membrane replacement and energy-efficiency solutions
+- Odor control technology updates
+- Value-add process updates: biological phosphorus removal modeling, EV charging stations, biogas reuse, aeration blower upgrades, water plant predictive/preventive maintenance (PDM), LED lighting upgrades
+
+## Proof point
+
+A client quote reinforces the value: the annual workshops are described as providing a wealth of knowledge from industry experts that generates ideas of real value to both the utility and its ratepayers.
+
+## Reuse guidance
+
+Universal: the day-long format (keynote → paired technical deep-dives → strategic/adaptive-planning close) and the practice of citing real prior agendas — even briefly — as evidence the workshop model already works elsewhere. Pursuit-specific: only reuse real, shareable prior-agenda content, generalized to remove the other clients' names, exact dates, and venue addresses; replace the topic mix with whichever subset is most relevant to the target facility (pull from `annual-innovation-workshop-program.md`'s topic list rather than reusing this exact mix verbatim). This block pairs directly with `annual-innovation-workshop-program.md` — use that block for the concept and topic menu, and this one for the "we've actually done this" evidence. Related graphic: `133_Hull_0091KO_2` (composite image of two sample agenda documents).

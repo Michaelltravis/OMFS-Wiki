@@ -1,0 +1,13 @@
+{
+ "page": 54,
+ "agreement_pct": 99.5,
+ "disagreements": [
+  {
+   "a": "[handwritten signature: Paul Rheault]",
+   "b": "[handwritten signature: \"Paul Rheault\"]",
+   "resolution": "Image shows a cursive handwritten signature reading 'Paul Rheault' with no quotation marks in the actual document; bracketed annotation is a transcriber note, not document text. Use: [handwritten signature: Paul Rheault]"
+  }
+ ],
+ "final_markdown": "Pursuant to Chapter 62C of the Massachusetts General Laws, Section 49A(b) the undersigned further certifies under the pains and penalties of perjury that said contractor has complied with all laws of the Commonwealth of Massachusetts relating to taxes, reporting of employees and contractors, and withholding and remitting child support.\n\nThe undersigned certifies that the person signing this bid on behalf of the Proposer has been authorized by the company to submit bids on its behalf.\n\nOperations Management International, Inc. (OMI)\n(A Subsidiary of Jacobs Solutions, Inc.)\n(Name of Proposer (Company)\n\nBY: [handwritten signature: Paul Rheault]    Date\n3.24.26\n\nPaul Rheault, Executive Vice President\n(Printed Name and Title of Signatory)\n\n120 St. James Street, Boston, MA 02116\n(Business Address) (Street, Owner, State, Zip)\n\n617.242.9222        617.242.9824\n(Telephone)         (FAX)\n\npaul.rheault@jacobs.com\n(E-mail address)\n\n112",
+ "verdict": "accept"
+}
