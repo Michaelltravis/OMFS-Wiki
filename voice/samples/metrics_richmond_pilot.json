@@ -14,12 +14,17 @@
   "we_count": 41,
   "you_count": 46,
   "we_you_ratio": 0.89,
-  "numbers_per_100_words": 6.4,
+  "numbers_per_100_words": 5.7,
+  "numbers_body": 5.7,
+  "numbers_all": 7.91,
+  "numbers_scope": "body",
   "so_what_rate": 0.4054,
   "tags_in_body": 52,
   "banned_words_total": 0,
   "banned_words_detail": {},
   "passive_voice_rate": 0.1128,
   "avg_paragraph_words": 63.7,
-  "callouts_or_devices": 43
+  "callouts_or_devices": 43,
+  "bracket_count": 54,
+  "serial_comma_missing": 18
 }

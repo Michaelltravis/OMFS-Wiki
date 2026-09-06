@@ -1,0 +1,268 @@
+=====wiki/management-staffing/surge-staffing-backup-resource-planning.md=====
+
+# Backup Resource Availability to Augment On-Site Staff and Fill Temporary Positions
+
+The off-site Regional and Technical Resources shown in **Exhibit 4-1** represent a portion of Jacobs' broader internal bench available to support **continuous, safe, compliant, and reliable operations**. These resources provide technical expertise, supplemental staffing for special projects, or support for innovation and process optimization, and can be **rapidly mobilized to respond to surge conditions, including emergencies or severe weather events**.
+
+Planned absences and short-term vacancies will be covered by qualified personnel from nearby Jacobs projects or our regional and national staff pool. For unexpected absences, we will deploy trained personnel from across our O&M organization to **maintain safe and compliant operations with minimal disruption**.
+
+Jacobs maintains a **dedicated Resource Planning Group (RPG)** focused on attracting, developing, and retaining high-performing O&M staff. In coordination with our regional management team, the RPG supports **rapid mobilization of qualified personnel to address both planned and unplanned staffing needs**.
+
+## Reuse guidance
+
+Universal: naming a specific internal resource-planning function (rather than describing surge staffing only in the abstract) and the layered coverage logic — nearby projects, then the regional pool, then the national O&M organization — are reusable for any O&M pursuit where evaluators will ask what happens when someone is out or a crisis hits. The framing of the off-site org-chart tier as "a portion of a broader internal bench" turns the chart itself into evidence of depth.
+
+Pursuit-specific: verify the current name and scope of the sponsoring business unit's resource-planning function before using this language in a live proposal; do not overstate mobilization speed or scope beyond what the region can actually support; point the Exhibit reference at the pursuit's own org chart. Pair with [staffing-coverage-shift-oncall-plan.md](staffing-coverage-shift-oncall-plan.md) (the baseline coverage this function backs up), [regional-technical-support-bench.md](regional-technical-support-bench.md) (the named bench and subcontractor governance for capability gaps outside it), and [proposed-team-org-chart-roster.md](proposed-team-org-chart-roster.md). Full passage: `verbatim/hull-wwtf-om-2026/pages/p0023.md#¶14-17`.
+
+=====wiki/management-staffing/workforce-retention-transition-continuity.md=====
+
+# Retention-First Workforce Continuity Strategy for O&M Transitions
+
+## Proven Transition and Mobilization Strategy
+
+We recognize that maintaining **uninterrupted compliance and operational stability** during contract transition is critical. Our mobilization plan is structured around a **disciplined, phased approach** that is discussed in detail in our project understanding and technical approach section. Our transition approach is specifically designed to **eliminate compliance risk, maintain operational continuity, and provide immediate stability** for [CLIENT], a coastal New England municipality, its facility staff, and stakeholders.
+
+Jacobs will prioritize **continuity of leadership and institutional knowledge** by retaining the existing WWTF and collection system workforce to the greatest extent possible. We will begin transition planning immediately upon Notice of Award, with the primary objective of maintaining **stable day-to-day management and minimizing disruption** for [CLIENT] staff and the operating team.
+
+## Retention-First Staffing Strategy
+
+- **Workforce retention:** Offer employment to all qualified, interested incumbent staff to retain facility-specific expertise, relationships, and operating history.
+- **License and certification continuity:** Maintain required licenses and certifications by confirming credential status early and supporting renewals and training to ensure uninterrupted compliance coverage.
+- **Targeted staffing support:** Supplement staffing where needed (e.g., vacancies, coverage gaps, or specialized needs), with qualified resources to ensure management continuity from Day 1.
+
+## Management Handoff and Knowledge Retention
+
+We will implement a **structured leadership transition** that preserves what is working today and strengthens governance over time, which includes:
+
+- **Early leadership alignment:** Project Manager Nathan Callison will meet with [CLIENT] leadership and current facility leadership to confirm near-term priorities, reporting expectations, decision authority, and communication cadence.
+- **Role clarity and continuity:** We will maintain clear lines of authority and responsibilities while integrating the management team into Jacobs' safety, reporting, and performance systems.
+- **Institutional knowledge capture:** We will formalize knowledge transfer through structured interviews, job shadowing, review of existing SOPs and logs, and documentation of critical operational "tribal knowledge" (e.g., seasonal conditions, equipment quirks, alarms, vendor nuances, and historical maintenance pain points).
+- **Employee-focused communications:** We will conduct onboarding discussions and transition check-ins so staff understand expectations, benefits, training pathways, and how Jacobs will support them.
+
+The detailed transition approach for assuming operational control, including milestones and an approximate timeline, is provided in the project understanding and technical approach section.
+
+## Reuse guidance
+
+Universal: the four-part framework (retention-first hiring, license and certification continuity, structured leadership handoff, formalized institutional-knowledge capture) applies to any O&M transition regardless of facility size or region, and directly counters evaluator concerns about service disruption or loss of local knowledge during a contract changeover. The "begin transition planning immediately upon Notice of Award" commitment and the tribal-knowledge examples are strong, portable language.
+
+Pursuit-specific: name the actual Project Manager or Transition Manager who leads early leadership alignment; tailor the institutional-knowledge-capture examples to the target facility's known operational quirks where pursuit research reveals them; point the cross-reference at the pursuit's own technical-approach section number. Pair with [key-personnel-role-descriptions.md](key-personnel-role-descriptions.md) (Transition Manager role), [staff-certification-training-program.md](staff-certification-training-program.md) (the credential support behind license continuity), and [om-transition-workplan-phased-schedule.md](om-transition-workplan-phased-schedule.md) for the detailed phased transition work plan. Full passages: `verbatim/hull-wwtf-om-2026/pages/p0022.md#¶30-32` and `p0023.md#¶1-11, ¶19`.
+
+=====wiki/win-themes/community-stewardship-public-engagement-program.md=====
+
+# Community Stewardship and Public Engagement Program
+
+## Community Stewardship
+
+We approach community stewardship in [CLIENT], a coastal New England municipality, as an **operating responsibility, not an occasional outreach effort**. [CLIENT] wants a partner that aligns with its values, communicates well, and works collaboratively with [CLIENT] staff and the broader community, as demonstrated through our **proven community stewardship practices** shown in **Exhibit 5-21**. Our goal is to serve [CLIENT] as both a high-performing operator and a trusted community partner. We will build on proven community stewardship practices implemented across our Northeast O&M projects.
+
+The WWTF sits in a residential area in a dense coastal town where severe weather can quickly affect operations. We will focus on **practical actions that matter locally**: clear communication, visible follow-through, support for appropriate [CLIENT] sponsorship opportunities, joint facility familiarization, and emergency training with police, fire, and other first responders. Our goal is to help the community understand how **reliable wastewater operations protect public health**, reduce neighborhood impacts, and support quality of life. Activities may include:
+
+- **Coordinating facility familiarization sessions and emergency-response training with [CLIENT]'s police, fire, and other personnel** so first responders understand the plant and collection system before an incident occurs.
+- **Hosting periodic plant tours or small open-house events** for residents, schools, and community groups to show how wastewater operations protect public health, nearby waters, and neighborhood quality of life.
+- **Supporting classroom visits, STEM outreach, and educational partnerships** that help local students understand treatment processes, water stewardship, and water-sector careers.
+- **Participating in community events with simple, practical public education materials** that explain how proactive operations reduce odors, minimize service disruptions, and support reliable service.
+- **Joining local environmental stewardship and cleanup efforts** that reinforce the connection between reliable utility operations and protection of [CLIENT]'s coastal environment.
+- **Creating internships, mentoring, and career-awareness opportunities** with local or regional schools to build awareness of water-sector careers.
+- **Partnering with local schools for murals and exploring native planting options** to support plant beautification.
+- **Supporting appropriate [CLIENT] initiatives and community organizations** in ways that are visible, practical, and consistent with [CLIENT]'s close-knit character.
+
+**EXHIBIT 5-21.** *Proven community stewardship, tailored for [CLIENT]*
+
+At the Waterbury WTP & WWTP O&M project in Connecticut, Jacobs supports the Naugatuck River Brigade through river cleanups, plant tours, STEM education, community donations, and holiday food drives. At the Westerly WWTP in Rhode Island, Jacobs partnered with the local high school art department to create a facility mural and supports plant tours, STEM education, and a student scholarship program.
+
+## Reuse guidance
+
+The framing device — community stewardship as an "operating responsibility, not an occasional outreach effort," anchored by a short activity menu and two live examples — is universal and works for any municipal O&M pursuit regardless of community size. It is also a quiet incumbent-displacement argument: the activities are things a current operator visibly is not doing. Select three to five activities that best match the target community's character (lead with first-responder familiarization and STEM outreach for a dense residential community; lead with environmental cleanup partnerships and native planting for a coastal or waterfront one). Pursuit-specific: the residential-siting and severe-weather sentence, the "close-knit character" descriptor, and the two proof points, which name the Waterbury WTP & WWTP O&M project in Connecticut and the Westerly WWTP in Rhode Island — swap them for other permissioned reference projects if these already appear elsewhere in the same proposal, and confirm the sponsorship and scholarship commitments are ones the pursuit can actually fund. Pairs with [../compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md](../compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md) (first-responder coordination overlaps), [../technical-approach/site-specific-odor-control-program.md](../technical-approach/site-specific-odor-control-program.md) (odor complaint response is the most visible community touchpoint), and [../compliance-plans/value-added-innovations-no-additional-cost.md](../compliance-plans/value-added-innovations-no-additional-cost.md) (the Innovation section follows this content in the source and shares the "more than routine O&M" framing). Related graphic: the Exhibit 5-21 stewardship banner, cataloged in `wiki/graphics/hull-wwtf-om-2026.md`. Full passage: `verbatim/hull-wwtf-om-2026/pages/p0050.md`.
+
+=====wiki/win-themes/embedded-differentiator-case-study-callout.md=====
+
+# Proven Odor Control Improvement Case Study Callout (Town of Southbridge, MA)
+
+The following callout runs as a shaded sidebar directly alongside the Site-Specific Odor Control Plan methodology, so the evaluator meets the proof at the moment the process is being claimed.
+
+> **PROVEN ODOR CONTROL IMPROVEMENT — TOWN OF SOUTHBRIDGE, MA**
+>
+> When Jacobs assumed operations of the Town of Southbridge's WWTF, the Town had experienced persistent odor concerns under the previous operator. Early in the contract, Jacobs convened a focused odor control workshop with Town leadership and Jacobs' process specialists to identify odor sources and prioritize practical, operations-based solutions.
+>
+> This effort led to targeted operational improvements, including enhanced solids management, optimized aeration and process control, and refined residuals handling practices. These changes addressed the root causes of odors without requiring immediate capital investment.
+>
+> As a result, the facility experienced a measurable reduction in odor complaints and improved process stability, demonstrating Jacobs' ability to quickly diagnose complex odor issues and implement cost-effective solutions in partnership with the client. Jacobs brings this same structured, collaborative approach to [CLIENT]. We proactively identify odor sources, optimize operations, and implement practical solutions that protect the surrounding community.
+
+## Why this callout works where it sits
+
+- **Placed at point of need.** It sits directly beside the odor-control methodology it supports, not in a separate past-performance section the evaluator may skim past.
+- **Names the mechanism, not just the result.** A specific early-contract workshop convening client leadership and process specialists mirrors the very framework — structured evaluation, stakeholder engagement — being proposed for the new client.
+- **Emphasizes capital-light solutions.** "Without requiring immediate capital investment" directly counters a common evaluator concern that odor fixes always mean expensive capital projects.
+- **Carries the incumbent-displacement message without attacking anyone.** "Persistent odor concerns under the previous operator" states the before-condition as fact and lets the outcome do the arguing.
+- **Closes with an explicit bridge.** The final sentences tie the case study's success factors back to what is being committed for the new client, rather than leaving the connection implicit.
+
+## Reuse guidance
+
+Universal: the placement technique (a compact three-paragraph proven-result narrative set immediately beside the methodology it substantiates, rather than only in an appendix), the workshop-driven diagnostic opening, the capital-light framing, and the closing bridge sentence. The pattern transfers to any technical capability claim — energy, compliance turnaround, maintenance backlog recovery — that has a genuine, citable prior success. Pursuit-specific: the Southbridge, MA reference itself. Because it is a reference client rather than the pursuit client, the name and details are kept verbatim, but confirm the reference is currently permissioned, that the facts still hold, and that Southbridge is not doing duty elsewhere in the same proposal; substitute a region-appropriate alternative if it is. Pair with [../technical-approach/site-specific-odor-control-program.md](../technical-approach/site-specific-odor-control-program.md), the five-step methodology this callout was placed alongside in the source, and with [../technical-approach/collection-system-om-program.md](../technical-approach/collection-system-om-program.md) for the pump station and force main odor sources. Full passage: `verbatim/hull-wwtf-om-2026/pages/p0037.md#¶1-3`.
+
+=====wiki/win-themes/exec-summary-client-readiness-framing.md=====
+
+# Executive Summary Opening — "Ready for a Change" Readiness Framing (Recipe)
+
+**Headline pattern:** "Positioning [CLIENT]'s [program/system] for its next phase," followed by an italicized one-line thesis such as "[CLIENT] is ready for a change."
+
+**Paragraph 1 — Acknowledge investment, then name the real gap.** Open by crediting the client for what it has already invested in (resiliency work, mechanical/electrical upgrades, collection system rehabilitation) as genuine evidence of its commitment to protecting infrastructure. Then pivot: the client is seeking *more than* regulatory compliance — it wants stronger leadership, clearer communication, and a proactive asset-management approach that gets ahead of problems, plus a trusted partner willing to take justified risks and stand behind its decisions. This reframes the win theme away from "we're technically better" and toward "we're the partner that closes your leadership/communication/proactivity gap."
+
+**Paragraph 2 — Bridge to the value-proposition exhibit.** State plainly that the firm will deliver that change "using the approaches listed in Exhibit [X]" (a value-proposition table — see `value-proposition-table-approach-impact-value.md`), then add one sentence of scope/stakes context: the system serves not just residents but a sensitive environment and a community valued across the wider region, requiring disciplined operations, thoughtful planning, and a long-term perspective.
+
+**Paragraph 3 — Ground the pitch in real facility statistics.** Close the opening with a factual paragraph stating year-round and seasonal population served, treatment capacity (MGD), number of pump/lift stations, miles of collection system, system type (gravity/low-pressure/force main), outfall type, and any unusual operating conditions (tidal influence, wet-weather variability, seasonal demand swings). End with a one-line statement of what those conditions require operationally (e.g., "proactive management and operational discipline").
+
+**Closing beat, later in the section — answer "how" the operational discipline named in Paragraph 3 is actually delivered.** After the leadership/coordinated-operations narrative and the SME/proof-point content, circle back and name the concrete operational response to the conditions named in Paragraph 3: seasonal population changes, tidal infiltration, and wet-weather variability introduce operational complexity that must be actively managed, addressed through proactive monitoring, coordinated operations, and disciplined execution — standard operating procedures, preventive and predictive maintenance, and improved monitoring of pump stations and collection system assets. This closes the loop the opening paragraph opened, so the evaluator sees both the challenge and the specific operational mechanism addressing it. That closing-beat prose lives in `proof-point-examples-coastal-complex-systems.md`, where the source places it.
+
+**Section close — "Your Next Chapter."** End the section by naming what selecting the firm allows the client to do next (strengthen leadership, improve transparency, align capital investment with long-term performance), tied back to the named on-site leader and the technical resources behind them.
+
+## Reuse guidance
+
+Universal: the three-beat structure (credit past investment → reframe the real gap as leadership/communication/proactivity, not technology → ground it in real facility stats), the "ready for a change" / "next phase" headline device, and the deliberate loop-closing beat later in the section. Pursuit-specific: the acknowledged investments, the named gap, and every facility statistic must come from actual RFP language, site-visit notes, or published client data — fabricating a "gap" the client did not express undermines credibility with evaluators who wrote the RFP. Use with the paired prose block `exec-summary-readiness-and-system-profile-opening.md`, the exhibit block `value-proposition-table-approach-impact-value.md`, and `leadership-team-and-coordinated-operations-narrative.md` / `proof-point-examples-coastal-complex-systems.md` for the content between the opening and its closing beat.
+
+=====wiki/win-themes/swip-bottom-line-close-and-positioning-statement.md=====
+
+# Bottom Line
+
+Jacobs will operate and care for [CLIENT]'s advanced water treatment program like it is our own—shoulder-to-shoulder with [CLIENT] staff—bringing unmatched O&M rigor, instant access to top reuse engineers and other water treatment experts, and measurable value that will reduce risk, increase reliability, and accelerate [CLIENT]'s path to DPR leadership. We always stay ahead of the curve solving problems quickly and anticipating what's to come, providing the [CLIENT] peace of mind that the work is always being done the right way.
+
+**Boxed positioning statement (full-width, closing the section):**
+
+> *Jacobs is the [CLIENT]'s best-value partner who will act as an extension of your team; deliver reliable, compliant, and transparent performance; and position the [CLIENT] to lead the nation in advanced water reuse.*
+
+## Reuse guidance
+
+Universal: the two-part close is the transferable structure. The "Bottom Line" paragraph does three things in order — states the relationship ("operate and care for it like it is our own, shoulder-to-shoulder with your staff"), names the three proofs the section delivered, and ends on an emotional benefit ("peace of mind that the work is always being done the right way") that is deliberately not a metric. The boxed statement then compresses the same argument into one sentence built on three parallel verbs, which is the form an evaluator is most likely to lift verbatim into a consensus scoring narrative — writing it in the shape they need is the point of the device.
+
+The phrase "like it is our own" and the "shoulder-to-shoulder" image are the two most reusable fragments in the passage; both do the work of an ownership claim without a promise that can be scored against. The final clause — position the client to lead the nation in what they are already trying to do — is the reusable close for any pursuit where the client has a public ambition: it flatters the ambition and attaches the proposer to it in the same breath.
+
+Pursuit-specific: the three named proofs must match what the section actually argued, and the client's ambition in the closing clause must be one they have stated publicly, or the sentence reads as flattery. Place this immediately after the value-added exhibit in [swip-value-added-offerings-package.md](swip-value-added-offerings-package.md); it also works, lightly trimmed, as the closing paragraph of a transmittal letter — see [swip-transmittal-letter-opening-and-closing.md](swip-transmittal-letter-opening-and-closing.md) for the letter-length version of the same argument.
+
+=====wiki/win-themes/swip-safety-emergency-preparedness-risk-management.md=====
+
+# Safety, Emergency Preparedness, and Risk Management
+
+Supported by our regional team of safety professionals, the onsite team will implement a robust, documented Safety Plan/Program and Emergency Response Plan/Program, conduct regular drills, and leverage Jacobs' FEMA disaster-response experience and regional network to secure materials and staffing during extreme events. Our environmental risk approach will track regulatory, safety, asset condition, and financial indicators and drive targeted improvements.
+
+**Benefits to [CLIENT] callout:** *"Safer operations, faster recovery from events, and measurable risk reduction across facilities."*
+
+## Reuse guidance
+
+Universal: this is the pattern for covering safety in an executive summary that has no room for a safety section — one sentence that stacks four commitments (documented safety program, documented emergency response program, regular drills, disaster-response reach-back) and one sentence that defines risk management as an indicator-tracking practice. Two elements deserve to be carried forward almost verbatim. The first is the framing "supported by our regional team of safety professionals, the onsite team will implement…," which makes clear that safety is not delegated to a six-person crew's spare attention. The second is translating a disaster-response credential into what it buys the client — securing materials and staffing during extreme events — rather than leaving it as a badge; that sentence answers the question every utility owner has after a storm or a wildfire season. Naming the four indicator families (regulatory, safety, asset condition, financial) is what elevates "risk management" from a heading to a method, and it also quietly ties the safety narrative back to the asset-management and compliance programs elsewhere in the section.
+
+Pursuit-specific: confirm the disaster-response credential and swap the hazard framing for the target region's real exposures, then make the drill cadence and seasonal-preparedness commitments match what the operations plan actually funds. Where the RFP has a dedicated safety evaluation criterion, this paragraph is the summary and the full program belongs in `wiki/compliance-plans/`. Pairs with [swip-seamless-transition-to-day-one-operations.md](swip-seamless-transition-to-day-one-operations.md), whose final mobilization workstream stands up exactly these plans, and with [swip-onsite-team-staffing-and-shift-model.md](swip-onsite-team-staffing-and-shift-model.md), where eliminating lone-shift operations is the staffing-side expression of the same safety commitment.
+
+=====wiki/win-themes/swip-top-water-reuse-experts-on-call.md=====
+
+# Top Water Reuse Experts — On Call for [CLIENT]
+
+[CLIENT], a Southern California coastal municipality advancing potable reuse, will gain something no typical O&M firm offers: direct access to Jacobs' nationally recognized potable-reuse leaders—names your staff already know:
+
+- **Melanie Holmer, PE,** served on the WateReuse California Board of Directors and its DPR working group, combing through every aspect and iteration of the draft and final DPR regulations, and has also led or supported process or permitting of DPR projects for Pure Water Soquel, Pure Water San Diego, Pure Water Southern California, and Los Angeles GWPP (DC Tillman AWPF).
+- **Larry Schimmoller, PE,** is the Process Lead for the DC Tillman Progressive Design-Build and engaged with LADWP on innovative research for alternative DPR treatment trains.
+- **Jim Lozier, PE, and Mike Hwang, PE,** are recognized experts in membrane filtration and reverse osmosis. These subject matter experts and more will provide critical process support and brainstorming for future DPR.
+
+They will be a phone call away to support DPR strategy, permitting, and complex troubleshooting alongside the on-site team. Their current California work will inform practical solutions for [CLIENT]'s path to DPR.
+
+**Benefits to [CLIENT] callout:** *"Faster answers to complex process and reuse questions, smoother regulatory engagement, and accelerated progress toward DPR."*
+
+## Reuse guidance
+
+Universal: the move of naming individuals instead of gesturing at a bench, and of choosing the one credential per person that a technical evaluator will recognize immediately — regulatory authorship for the policy expert, a named design-build process lead role for the treatment expert, a discipline label for the membrane specialists. The framing sentence "you will gain something no typical O&M firm offers" is what makes this a differentiator rather than a resume list; it explicitly positions the offer against a pure operations vendor, which is exactly the ground on which an incumbent operator is displaced. The closing "a phone call away … their current work will inform practical solutions for your path" converts credentials into an access promise.
+
+Pursuit-specific: verify each named expert is currently available and willing to be cited, and refresh their project lists — reuse portfolios change quickly. The "names your staff already know" line depends on real regional visibility; replace it with a neutral framing where the experts are not publicly prominent in the client's own regulatory community. Pairs with [swip-value-added-offerings-package.md](swip-value-added-offerings-package.md), where the discounted engineering hours are the commercial mechanism that gives the client access to these people, and with `wiki/technical-approach/swip-dpr-readiness-expert-bench-and-monitoring.md`, which carries the same bench into a technical DPR-monitoring offer later in the proposal.
+
+=====wiki/compliance-plans/capital-planning-construction-support-innovation-studies.md=====
+
+# Capital Planning, Construction Support, and Targeted Maintenance Innovation Studies
+
+## Technical Expertise for Capital Planning Efforts
+
+Using our technical expertise, our contributions to capital planning include using the initial asset assessment and ongoing maintenance data to turn asset condition, criticality, lifecycle cost, and operational risk into a **practical, risk-ranked capital plan** for [CLIENT], a coastal New England municipality. Supported by integrated O&M, engineering, process, asset management, and digital resources, we will help prioritize renewal, resiliency, and strategic investments with defensible recommendations on scope, timing, sequencing, and funding needs. This ensures **day-to-day maintenance directly informs long-term capital decisions**.
+
+## Support for Planning and Executing Construction Projects and Facility Upgrades
+
+Jacobs offers expertise in actively supporting, planning, and executing construction projects and facility upgrades as desired by [CLIENT], including providing structured O&M input from project development through design, construction, startup, commissioning, and warranty. We regularly help clients with these types of improvements, helping ensure they are **practical to operate with minimal disruption to ongoing service**. Supported by Jacobs' broader engineering, construction management, and design-build bench, we can coordinate constructability reviews, outage and bypass planning, field support, testing, turnover, and asset record updates so new and modified assets are **fully integrated into [CLIENT]'s asset management program and ready for reliable operation on Day 1**.
+
+## Innovative Opportunities for Enhanced Maintenance
+
+We have identified several opportunities to strengthen maintenance planning, improve asset reliability, and support long-term stewardship of [CLIENT]'s wastewater facilities. If desired, one or more of the following innovative opportunities can be explored in our **Annual Innovation Workshop** or through our Discounted Engineering Rates:
+
+- **Incinerator Options Study.** We will evaluate practical options for the existing incinerator area, including repurposing, removal, and alternative operational uses, providing a clearer basis for future space, solids, and asset planning decisions.
+- **Standby Power and Resiliency Roadmap.** We will evaluate existing standby power arrangements, generator readiness, and storm-related vulnerabilities and will compare practical resiliency improvements that reduce risk and improve continuity of service.
+- **Targeted Advanced Predictive Maintenance.** We will identify selected critical rotating and electrical assets that warrant advanced predictive monitoring beyond the base PM program and will use those tools where they provide the greatest benefit.
+
+## Reuse guidance
+
+Universal: the logic chain — initial asset assessment plus ongoing maintenance data becomes condition/criticality/lifecycle/risk input, which becomes a risk-ranked capital plan with defensible scope, timing, sequencing, and funding recommendations, which the same team then helps deliver from design through warranty. The construction-support paragraph is the answer to any RFP question about whether the O&M contractor can support capital projects without a separate procurement. Pursuit-specific: all three named studies. They work because each one names a real asset or exposure at the target facility (a stranded incinerator, storm-exposed standby power, specific critical rotating equipment) — identify equivalents from site visits and the RFP's own stated problems rather than reusing these. Also confirm the offered delivery vehicle (annual innovation workshop and discounted engineering rates in the source pursuit). Pairs with [../technical-approach/cmms-driven-asset-management-maintenance-program.md](../technical-approach/cmms-driven-asset-management-maintenance-program.md) (the maintenance data that feeds this), [value-added-innovations-no-additional-cost.md](value-added-innovations-no-additional-cost.md), [../technical-approach/grant-loan-funding-support-capital-planning.md](../technical-approach/grant-loan-funding-support-capital-planning.md), and [../technical-approach/annual-innovation-workshop-program.md](../technical-approach/annual-innovation-workshop-program.md). Full passage: `verbatim/hull-wwtf-om-2026/pages/p0045.md` and `p0046.md`.
+
+=====wiki/compliance-plans/regulatory-compliance-reporting-dashboard.md=====
+
+# Regulatory Compliance Reporting and Real-Time Dashboard
+
+A centralized, auditable compliance management system integrates operational, laboratory, and maintenance data into a single record. As illustrated in Exhibit 5-7, a real-time compliance dashboard gives [CLIENT] leadership — [CLIENT] being a coastal New England municipality operating a WWTF and collection system — **real-time visibility into permit parameters, reporting status, and performance trends**. Automated alerts identify approaching limits, enabling **proactive response**.
+
+All required regulatory submissions, including discharge monitoring reports (DMRs), NetDMR filings, biosolids reports, PFAS sampling documentation, combined sewer overflow (CSO) notifications, and other filings, will be prepared accurately and submitted on time in accordance with applicable state and EPA regional requirements. Records remain **secure and audit-ready at all times**.
+
+## Reuse guidance
+
+Universal: the three-move structure — one centralized auditable record, real-time client visibility, automated proactive alerts on approaching limits — followed by the named list of common wastewater regulatory submission types and the audit-ready records commitment. This is the block that converts "we are compliant" into something the client can verify themselves at any moment, which is why it belongs next to the transparency win theme rather than buried in a QA appendix. Tailor per pursuit: confirm which submission types actually apply (drop CSO notifications for a fully separated collection system), name the state regulator and EPA region, and name the actual dashboard platform rather than implying a specific vendor product unless confirmed. Pair with [six-point-compliance-program.md](six-point-compliance-program.md), whose second pillar (Transparency and Reporting) this expands, and [../technical-approach/tiered-communication-reporting-protocol.md](../technical-approach/tiered-communication-reporting-protocol.md), which sets the meeting and report cadence this dashboard feeds. Full passage: `verbatim/hull-wwtf-om-2026/pages/p0030.md`. Related graphic: Exhibit 5-7 (client-specific — see `wiki/graphics/hull-wwtf-om-2026.md`).
+
+=====wiki/compliance-plans/transition-due-diligence-governance-checklist.md=====
+
+# Transition Due Diligence and Mobilization Governance Checklist
+
+## Immediate Mobilization and Governance
+
+Upon receiving award, Jacobs will activate our Transition Leadership Team and establish a formal governance structure with [CLIENT], a coastal New England municipality. Decision authority, communication cadence, issue escalation, and accountability assignments will be confirmed at the outset, so **progress remains transparent and measurable**. We will immediately complete structured due diligence, including:
+
+- Review of NPDES permit requirements, monitoring/reporting obligations, and compliance history
+- Detailed review of O&M manuals, SOPs, CMOM documentation, and historical performance data
+- Verification of certified operator coverage and license/grade requirements
+- Asset inventory validation and critical equipment condition assessment (including maintenance backlog)
+- SCADA/telemetry review, remote access validation, alarm management testing, and cybersecurity verification
+- Flood control readiness review (pumps/gates), standby power verification, and storm response procedures
+
+All readiness milestones will be tracked against the Transition Schedule to ensure [CLIENT]'s facilities remain **stable and compliant throughout transition.**
+
+## Reuse guidance
+
+Universal: the sequence — activate the transition leadership team, stand up governance (decision authority, communication cadence, escalation, accountability) before any technical work, then run a documented due-diligence sweep whose results feed a tracked readiness schedule. The six checklist items are the standard sweep for any municipal wastewater O&M transition and can be lifted intact; they double as an answer to RFP questions that ask "what will you do in the first 30 days." Pursuit-specific: the permit type and regulator names, the flood-control and storm-response item (coastal/flood-exposed facilities only), and the cybersecurity item where the client's OT environment is contractor-managed. Pairs with [../management-staffing/wastewater-om-transition-plan-mobilization.md](../management-staffing/wastewater-om-transition-plan-mobilization.md) (the three-phase transition narrative this checklist sits inside), [transition-team-organization-roster.md](transition-team-organization-roster.md) (who executes it), and [transition-readiness-training-day-one-compliance.md](transition-readiness-training-day-one-compliance.md) (what follows due diligence). Full passage: `verbatim/hull-wwtf-om-2026/pages/p0047.md`.
+
+=====wiki/compliance-plans/transition-team-organization-roster.md=====
+
+# Transition Team Organization Roster
+
+Jacobs' Transition Leadership Team, highlighted in **Exhibit 5-19** and led by Mike Boven, will oversee the integration process and serve as the primary interface with [CLIENT], a coastal New England municipality, maintaining a **practical, hands-on presence and clear accountability** throughout the transition. The chart pairs three transition leaders with a discipline bench drawn from regional and national resources, so each functional area a wastewater transition touches — operations, maintenance, safety, regulatory, process, biosolids, odor, energy, digital systems, capital projects, and funding — has a named owner from Day 1.
+
+**Transition leadership**
+
+- Mike Boven — Transition Manager
+- Nathan Callison, CRL, CMRT — Project Manager
+- Scott Mangold, CRL — Regional Operations Manager
+
+**Transition team (regional and technical support)**
+
+- John Rickermann, PE, CMRT — Regional and Technical Support Team Leader
+- Dave Haverly, CSP — Regional Health & Safety
+- EJ Hindy — Regional O&M Technical Specialist
+- Adrian Romero-Flores, PhD — Wastewater Solutions Engineer
+- Jonathan Roth — Regional Maintenance & Lead Electrician
+- Luke Amory — Operations Technology / Information Technology
+- Drew Mearns — Biosolids O&M Specialists
+- Dave Oerke, PE, BCEE, WEF Fellow — Dewatering Specialist
+- Jeff Heroux — Regulatory Compliance
+- Dawn Lesley, PE — Energy Management / Sustainability
+- Bill Desing, PE — Odor Control
+- Kathryn Benson, PE, CMRP — Grant/Loan Specialist
+- Toby Mosser — Financial Analyst
+- Rich Minogue — Regional Admin
+- Lee Tharps, PE — Process Engineering
+- Matt Crowley — Asset Management
+- Lilie Hill, PE — Capital Projects
+- Todd Williams, PE, BCEE — Biosolids Technology Leader
+
+## Reuse guidance
+
+Universal: the shape of the chart — a dedicated Transition Manager who is not the eventual Project Manager, a Regional Operations Manager above both, and a named specialist for every discipline the RFP asks about — which answers the evaluator's real question ("who actually shows up during transition, and is safety/regulatory/odor someone's job or nobody's?"). Pursuit-specific: every name and credential, and which disciplines are shown at all (drop dewatering or odor control where the facility has neither; add stormwater or reuse specialists where it does). Render as an org chart exhibit rather than a list where page budget allows — the source presents it as Exhibit 5-19, with the graphic cataloged in `wiki/graphics/hull-wwtf-om-2026.md`. Pairs with [../management-staffing/wastewater-om-transition-plan-mobilization.md](../management-staffing/wastewater-om-transition-plan-mobilization.md) (the narrative this roster backs), [transition-due-diligence-governance-checklist.md](transition-due-diligence-governance-checklist.md), and [../management-staffing/regional-technical-support-bench.md](../management-staffing/regional-technical-support-bench.md). Full passage: `verbatim/hull-wwtf-om-2026/pages/p0047.md`.
+

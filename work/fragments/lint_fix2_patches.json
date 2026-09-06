@@ -1,0 +1,258 @@
+[
+  {
+    "path": "wiki/technical-approach/asset-management-improvement-shifts-table.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/innovation-workshop-sample-agenda-structure.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/om-management-systems-framework.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/sensor-dispersion-model-odor-early-warning-system.md",
+    "set": {
+      "block-type": "prose",
+      "source-pages": [96],
+      "verbatim-ref": ["verbatim/hull-wwtf-om-2026/pages/p0096.md#¶1"],
+      "pursuit-type": ["wwtp-om", "collections"],
+      "client-type": "municipal",
+      "client-size": "3.07 MGD / 42 mi / 10k pop",
+      "geography": "Northeast / MA / MassDEP",
+      "rfp-section-type": ["tech-approach"],
+      "win-theme-map": ["odor-control", "innovation-value-add"],
+      "proof-point-ids": [],
+      "sanitization-loss": "high"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/swip-cmms-inventory-management-value-add.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/swip-community-involvement-outreach-program.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/swip-digital-kpi-reporting-dashboard.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/swip-dpr-readiness-expert-bench-and-monitoring.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/swip-firm-approach-section-opener-understanding.md",
+    "set": {"proof-point-ids": ["PP-0026"]}
+  },
+  {
+    "path": "wiki/technical-approach/swip-inventory-management-asset-tracking.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/swip-mbr-fouling-mitigation-case-study.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/swip-replica-digital-twin-plant-digital-tools.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/technical-approach/value-added-innovations-menu-om-contracts.md",
+    "set": {
+      "block-type": "prose",
+      "source-pages": [46, 50, 51],
+      "verbatim-ref": [
+        "verbatim/hull-wwtf-om-2026/pages/p0050.md#¶18",
+        "verbatim/hull-wwtf-om-2026/pages/p0051.md#¶2",
+        "verbatim/hull-wwtf-om-2026/pages/p0046.md#¶6"
+      ],
+      "pursuit-type": ["wwtp-om", "collections"],
+      "client-type": "municipal",
+      "client-size": "3.07 MGD / 42 mi / 10k pop",
+      "geography": "Northeast / MA / MassDEP",
+      "rfp-section-type": ["tech-approach"],
+      "win-theme-map": ["innovation-value-add"],
+      "proof-point-ids": ["PP-0158", "PP-0157", "PP-0155", "PP-0156", "PP-0159", "PP-0153", "PP-0161"],
+      "sanitization-loss": "low"
+    }
+  },
+  {
+    "path": "wiki/management-staffing/blended-onsite-offsite-org-structure.md",
+    "set": {"proof-point-ids": ["PP-0145", "PP-0148", "PP-0237"]}
+  },
+  {
+    "path": "wiki/management-staffing/surge-staffing-backup-resource-planning.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/management-staffing/workforce-retention-transition-continuity.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/community-stewardship-public-engagement-program.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/cover-letter-structure-pattern.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/differentiator-traditional-vs-enhanced-om-comparison.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/embedded-client-testimonial-technical-narrative.md",
+    "set": {"proof-point-ids": ["PP-0304"]}
+  },
+  {
+    "path": "wiki/win-themes/embedded-differentiator-case-study-callout.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-client-readiness-framing.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/leadership-team-and-coordinated-operations-narrative.md",
+    "set": {"proof-point-ids": ["PP-0143"]}
+  },
+  {
+    "path": "wiki/win-themes/past-performance-narrative-structure.md",
+    "set": {
+      "block-type": "recipe",
+      "pairs-with": "project-narrative-utility-partnership-cost-savings.md",
+      "source-pages": [15, 76, 77, 78, 79, 80],
+      "verbatim-ref": [
+        "verbatim/hull-wwtf-om-2026/pages/p0015.md#¶2",
+        "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶4"
+      ],
+      "pursuit-type": ["wwtp-om", "collections"],
+      "client-type": "municipal",
+      "client-size": "3.07 MGD / 42 mi / 10k pop",
+      "geography": "Northeast / MA / MassDEP",
+      "rfp-section-type": ["past-performance"],
+      "win-theme-map": ["regional-bench", "compliance-leadership"],
+      "proof-point-ids": [],
+      "sanitization-loss": "low"
+    }
+  },
+  {
+    "path": "wiki/win-themes/project-narrative-contract-transition-turnaround.md",
+    "set": {"proof-point-ids": ["PP-0049", "PP-0050", "PP-0054", "PP-0062", "PP-0063"]}
+  },
+  {
+    "path": "wiki/win-themes/project-narrative-long-term-dbo-performance-excellence.md",
+    "set": {"proof-point-ids": ["PP-0075", "PP-0076", "PP-0077", "PP-0078", "PP-0079"]}
+  },
+  {
+    "path": "wiki/win-themes/project-narrative-new-contract-mobilization-innovation.md",
+    "set": {"proof-point-ids": ["PP-0004"]}
+  },
+  {
+    "path": "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md",
+    "set": {"proof-point-ids": ["PP-0030", "PP-0031", "PP-0032", "PP-0033", "PP-0035", "PP-0042"]}
+  },
+  {
+    "path": "wiki/win-themes/project-narrative-workforce-transition-biosolids-modernization.md",
+    "set": {"proof-point-ids": ["PP-0008", "PP-0066", "PP-0067", "PP-0070", "PP-0071", "PP-0072"]}
+  },
+  {
+    "path": "wiki/win-themes/similar-facilities-comparison-table-framing.md",
+    "set": {
+      "block-type": "table",
+      "source-pages": [82, 83],
+      "verbatim-ref": [
+        "verbatim/hull-wwtf-om-2026/pages/p0082.md#¶3",
+        "verbatim/hull-wwtf-om-2026/pages/p0083.md#¶2"
+      ],
+      "pursuit-type": ["wwtp-om", "collections"],
+      "client-type": "municipal",
+      "client-size": "3.07 MGD / 42 mi / 10k pop",
+      "geography": "Northeast / MA / MassDEP",
+      "rfp-section-type": ["past-performance"],
+      "win-theme-map": ["regional-bench"],
+      "proof-point-ids": ["PP-0111"],
+      "sanitization-loss": "low"
+    }
+  },
+  {
+    "path": "wiki/win-themes/swip-bottom-line-close-and-positioning-statement.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/swip-compliance-reliability-transparency-narrative.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/swip-safety-emergency-preparedness-risk-management.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/win-themes/swip-top-water-reuse-experts-on-call.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/qualifications/full-service-lifecycle-capability-and-capital-planning-support.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/qualifications/reference-portfolio-comparability-and-similar-facilities.md",
+    "set": {"proof-point-ids": ["PP-0031", "PP-0076", "PP-0172"]}
+  },
+  {
+    "path": "wiki/qualifications/representative-past-performance-narrative-patterns.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/compliance-plans/capital-planning-construction-support-innovation-studies.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/compliance-plans/regulatory-compliance-reporting-dashboard.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/compliance-plans/transition-due-diligence-governance-checklist.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/compliance-plans/transition-team-organization-roster.md",
+    "set": {"proof-point-ids": []}
+  },
+  {
+    "path": "wiki/resumes/proposed-team-roster-hull-wwtf-om-2026.md",
+    "set": {
+      "block-type": "roster",
+      "source-pages": [3, 20, 69, 70, 71, 73],
+      "verbatim-ref": [
+        "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶25",
+        "verbatim/hull-wwtf-om-2026/pages/p0073.md#¶1"
+      ],
+      "pursuit-type": ["wwtp-om", "collections"],
+      "client-type": "municipal",
+      "client-size": "3.07 MGD / 42 mi / 10k pop",
+      "geography": "Northeast / MA / MassDEP",
+      "rfp-section-type": ["staffing", "resume"],
+      "win-theme-map": ["partner-transparency"],
+      "proof-point-ids": [],
+      "sanitization-loss": "none"
+    }
+  },
+  {
+    "path": "wiki/management-staffing/regional-technical-support-bench.md",
+    "set": {
+      "verbatim-ref": [
+        "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶2",
+        "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶25",
+        "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶26",
+        "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶34",
+        "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶53",
+        "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶3",
+        "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶13"
+      ]
+    }
+  }
+]

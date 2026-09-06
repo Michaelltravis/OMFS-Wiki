@@ -954,6 +954,28 @@
     "proof-point-ids": [],
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
+    "block-type": "prose",
+    "source-pages": [
+      96
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0096.md#\u00b61"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "3.07 MGD / 42 mi / 10k pop",
+    "geography": "Northeast / MA / MassDEP",
+    "rfp-section-type": [
+      "tech-approach"
+    ],
+    "win-theme-map": [
+      "odor-control",
+      "innovation-value-add"
+    ],
+    "sanitization-loss": "high",
     "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents",
     "sanitized": true,
     "quality": "Compact, visual, easily-understood differentiator chaining real-time sensing to predictive dispersion modeling; strong for win-theme and technical-approach sections addressing community odor complaints near sensitive receptors.",
@@ -2085,7 +2107,9 @@
       "incumbent-displacement",
       "regional-bench"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0026"
+    ],
     "testimonial-ids": [],
     "story-ids": [],
     "status": "preferred",
@@ -3039,9 +3063,42 @@
     "story-ids": [],
     "status": "preferred",
     "house-favorite": false,
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0158",
+      "PP-0157",
+      "PP-0155",
+      "PP-0156",
+      "PP-0159",
+      "PP-0153",
+      "PP-0161"
+    ],
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
+    "block-type": "prose",
+    "source-pages": [
+      46,
+      50,
+      51
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0050.md#\u00b618",
+      "verbatim/hull-wwtf-om-2026/pages/p0051.md#\u00b62",
+      "verbatim/hull-wwtf-om-2026/pages/p0046.md#\u00b66"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "3.07 MGD / 42 mi / 10k pop",
+    "geography": "Northeast / MA / MassDEP",
+    "rfp-section-type": [
+      "tech-approach"
+    ],
+    "win-theme-map": [
+      "innovation-value-add"
+    ],
+    "sanitization-loss": "low",
     "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents",
     "sanitized": true,
     "quality": "differentiated, concrete list of no-added-cost value-adds that reads as substance rather than marketing fluff",
@@ -3146,7 +3203,11 @@
       "compliance-leadership",
       "incumbent-displacement"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0145",
+      "PP-0148",
+      "PP-0237"
+    ],
     "testimonial-ids": [],
     "story-ids": [],
     "status": "preferred",
@@ -3366,8 +3427,11 @@
     ],
     "verbatim-ref": [
       "verbatim/hull-wwtf-om-2026/pages/p0021.md#\u00b62",
-      "verbatim/hull-wwtf-om-2026/pages/p0021.md#\u00b63-62",
-      "verbatim/hull-wwtf-om-2026/pages/p0022.md#\u00b61-13",
+      "verbatim/hull-wwtf-om-2026/pages/p0021.md#\u00b625",
+      "verbatim/hull-wwtf-om-2026/pages/p0021.md#\u00b626",
+      "verbatim/hull-wwtf-om-2026/pages/p0021.md#\u00b634",
+      "verbatim/hull-wwtf-om-2026/pages/p0021.md#\u00b653",
+      "verbatim/hull-wwtf-om-2026/pages/p0022.md#\u00b63",
       "verbatim/hull-wwtf-om-2026/pages/p0023.md#\u00b613"
     ],
     "pursuit-type": [
@@ -5116,7 +5180,9 @@
       "incumbent-displacement",
       "regional-bench"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0304"
+    ],
     "testimonial-ids": [],
     "story-ids": [
       "ST-0014"
@@ -5416,7 +5482,9 @@
       "digital-tools",
       "incumbent-displacement"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0143"
+    ],
     "testimonial-ids": [],
     "story-ids": [],
     "status": "preferred",
@@ -5449,6 +5517,35 @@
     "proof-point-ids": [],
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
+    "block-type": "recipe",
+    "pairs-with": "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md",
+    "source-pages": [
+      15,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0015.md#\u00b62",
+      "verbatim/hull-wwtf-om-2026/pages/p0076.md#\u00b64"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "3.07 MGD / 42 mi / 10k pop",
+    "geography": "Northeast / MA / MassDEP",
+    "rfp-section-type": [
+      "past-performance"
+    ],
+    "win-theme-map": [
+      "regional-bench",
+      "compliance-leadership"
+    ],
+    "sanitization-loss": "low",
     "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents",
     "sanitized": true,
     "quality": "A consistent, evaluator-friendly layout used across five different past-performance write-ups in the same proposal \u2014 proven, repeatable structure that balances a relationship narrative with hard facility data and third-party validation",
@@ -5501,7 +5598,13 @@
       "energy-chemical-efficiency",
       "partner-transparency"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0049",
+      "PP-0050",
+      "PP-0054",
+      "PP-0062",
+      "PP-0063"
+    ],
     "testimonial-ids": [],
     "story-ids": [
       "ST-0001",
@@ -5570,7 +5673,13 @@
       "community-engagement",
       "partner-transparency"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0075",
+      "PP-0076",
+      "PP-0077",
+      "PP-0078",
+      "PP-0079"
+    ],
     "testimonial-ids": [],
     "story-ids": [
       "ST-0006",
@@ -5637,7 +5746,9 @@
       "digital-tools",
       "community-engagement"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0004"
+    ],
     "testimonial-ids": [],
     "story-ids": [
       "ST-0009"
@@ -5701,7 +5812,14 @@
       "innovation-value-add",
       "community-engagement"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0030",
+      "PP-0031",
+      "PP-0032",
+      "PP-0033",
+      "PP-0035",
+      "PP-0042"
+    ],
     "testimonial-ids": [],
     "story-ids": [
       "ST-0005"
@@ -5763,7 +5881,14 @@
       "digital-tools",
       "innovation-value-add"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0008",
+      "PP-0066",
+      "PP-0067",
+      "PP-0070",
+      "PP-0071",
+      "PP-0072"
+    ],
     "testimonial-ids": [],
     "story-ids": [
       "ST-0010",
@@ -5861,9 +5986,34 @@
     "story-ids": [],
     "status": "preferred",
     "house-favorite": false,
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0111"
+    ],
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
+    "block-type": "table",
+    "source-pages": [
+      82,
+      83
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0082.md#\u00b63",
+      "verbatim/hull-wwtf-om-2026/pages/p0083.md#\u00b62"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "3.07 MGD / 42 mi / 10k pop",
+    "geography": "Northeast / MA / MassDEP",
+    "rfp-section-type": [
+      "past-performance"
+    ],
+    "win-theme-map": [
+      "regional-bench"
+    ],
+    "sanitization-loss": "low",
     "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents",
     "sanitized": true,
     "quality": "A simple, high-density evidence exhibit that directly answers the RFP evaluation question \"has this firm run facilities like ours\" with a scannable table rather than more narrative \u2014 efficient use of appendix space",
@@ -7618,7 +7768,11 @@
       "community-engagement",
       "incumbent-displacement"
     ],
-    "proof-point-ids": [],
+    "proof-point-ids": [
+      "PP-0031",
+      "PP-0076",
+      "PP-0172"
+    ],
     "testimonial-ids": [],
     "story-ids": [],
     "status": "preferred",
@@ -10275,6 +10429,34 @@
     "proof-point-ids": [],
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
+    "block-type": "roster",
+    "source-pages": [
+      3,
+      20,
+      69,
+      70,
+      71,
+      73
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0020.md#\u00b625",
+      "verbatim/hull-wwtf-om-2026/pages/p0073.md#\u00b61"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "3.07 MGD / 42 mi / 10k pop",
+    "geography": "Northeast / MA / MassDEP",
+    "rfp-section-type": [
+      "staffing",
+      "resume"
+    ],
+    "win-theme-map": [
+      "partner-transparency"
+    ],
+    "sanitization-loss": "none",
     "context": "Proposed key-personnel team for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026).",
     "sanitized": false,
     "quality": "Verbatim roster of the proposed team with contact info pulled directly from the signed cover letter; links each name to its full resume.",

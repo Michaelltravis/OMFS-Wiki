@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system"
 geography: "Northeast / MA / MassDEP + EPA Region 1 NPDES"
 rfp-section-type: [staffing]
 win-theme-map: [regional-bench, partner-transparency, compliance-leadership, incumbent-displacement]
-proof-point-ids: []
+proof-point-ids: [PP-0145, PP-0148, PP-0237]
 testimonial-ids: []
 story-ids: []
 status: preferred

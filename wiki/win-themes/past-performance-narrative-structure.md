@@ -10,6 +10,17 @@ house-favorite: false
 proof-point-ids: []
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+block-type: recipe
+pairs-with: wiki/win-themes/project-narrative-utility-partnership-cost-savings.md
+source-pages: [15, 76, 77, 78, 79, 80]
+verbatim-ref: [verbatim/hull-wwtf-om-2026/pages/p0015.md#¶2, verbatim/hull-wwtf-om-2026/pages/p0076.md#¶4]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: 3.07 MGD / 42 mi / 10k pop
+geography: Northeast / MA / MassDEP
+rfp-section-type: [past-performance]
+win-theme-map: [regional-bench, compliance-leadership]
+sanitization-loss: low
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: A consistent, evaluator-friendly layout used across five different past-performance write-ups in the same proposal — proven, repeatable structure that balances a relationship narrative with hard facility data and third-party validation

@@ -13,7 +13,7 @@ client-size: "1.0 MGD AWTF / 5-facility reuse portfolio (AWTF, stormwater divers
 geography: "Southern California / CA / SWRCB Division of Drinking Water and LA Regional Water Quality Control Board (State Board Orders R4-2021-0044 and R4-2023-0366); SCAQMD air"
 rfp-section-type: [tech-approach]
 win-theme-map: [partner-transparency, compliance-leadership, innovation-value-add, incumbent-displacement, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-0026]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -90,6 +90,27 @@ SENTENCE_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9\"'“])")
 
 WORD_RE = re.compile(r"[A-Za-z][A-Za-z'\-]*|\d[\d,]*\.?\d*%?")
 
+# --------------------------------------------------------------------------
+# numbers_per_100_words scope: body vs all (voice-guide.md section 4a)
+# --------------------------------------------------------------------------
+# "Devices" are blockquote stat/quote/factbox/callout boxes, table rows,
+# numbered captions, and figure-slot placeholders. The "body" scope excludes
+# them from the numbers count; the "all" scope includes them.
+DEVICE_BLOCKQUOTE_RE = re.compile(
+    r"^>+\s*(STAT|QUOTE|FACTBOX|CALLOUT)\s*:", re.IGNORECASE
+)
+CAPTION_RE = re.compile(r"^\**(Table|Figure|Exhibit)\s+\d+[.\-:]", re.IGNORECASE)
+FIGURE_SLOT_RE = re.compile(r"\[FIGURE\b", re.IGNORECASE)
+
+BRACKET_RE = re.compile(r"\[[^\]]*\]")
+
+# Rough serial-comma-omission detector: "A, B and C" style closing triads
+# without the Oxford comma before "and"/"or". Deliberately crude per
+# voice-guide.md section 4 — a heuristic, not the judge's Rule 4 test.
+SERIAL_COMMA_MISSING_RE = re.compile(
+    r"\b[A-Za-z][\w'\-]*,\s+[A-Za-z][\w'\-]*\s+(?:and|or)\s+[A-Za-z][\w'\-]*\b"
+)
+
 
 # --------------------------------------------------------------------------
 # Data structures
@@ -288,7 +309,25 @@ def percentile(values: list[float], pct: float) -> float:
 # Metric computation
 # --------------------------------------------------------------------------
 
-def compute_metrics(blocks: list[Block], clients: list[str]) -> dict:
+def is_device_block(b: Block) -> bool:
+    """True if a block is a "device" excluded from the numbers_body count:
+    a table row, a blockquote STAT/QUOTE/FACTBOX/CALLOUT box, a numbered
+    caption, or a figure-slot placeholder (voice-guide.md section 4a)."""
+    if b.kind == "table":
+        return True
+    t = b.text.strip()
+    if DEVICE_BLOCKQUOTE_RE.match(t):
+        return True
+    if CAPTION_RE.match(t):
+        return True
+    if FIGURE_SLOT_RE.search(t):
+        return True
+    return False
+
+
+def compute_metrics(
+    blocks: list[Block], clients: list[str], scope: str = "body"
+) -> dict:
     prose_blocks = [b for b in blocks if b.kind == "prose"]
     table_blocks = [b for b in blocks if b.kind == "table"]
     heading_blocks = [b for b in prose_blocks if b.is_heading]
@@ -360,11 +399,30 @@ def compute_metrics(blocks: list[Block], clients: list[str]) -> dict:
             you_count += len(re.findall(re.escape(c), prose_text_all, re.IGNORECASE))
     we_you_ratio = (we_count / you_count) if you_count else (float("inf") if we_count else 0.0)
 
-    # numbers per 100 words (prose only)
-    numeric_tokens = 0
-    for b in prose_blocks:
-        numeric_tokens += len(NUMERIC_TOKEN.findall(b.text))
-    numbers_per_100_words = (numeric_tokens / words_prose * 100) if words_prose else 0.0
+    # numbers per 100 words — two scopes (voice-guide.md section 4a):
+    #   numbers_all  = every block (prose + tables + devices), denominator = total_words
+    #   numbers_body = prose blocks only, minus blockquote devices, captions,
+    #                  and figure slots, denominator = words in those blocks only
+    all_blocks_for_numbers = prose_blocks + table_blocks
+    numeric_tokens_all = sum(
+        len(NUMERIC_TOKEN.findall(b.text)) for b in all_blocks_for_numbers
+    )
+    numbers_all = (numeric_tokens_all / total_words * 100) if total_words else 0.0
+
+    body_scope_blocks = [b for b in prose_blocks if not is_device_block(b)]
+    words_body_scope = sum(len(words_in(b.text)) for b in body_scope_blocks)
+    numeric_tokens_body = sum(
+        len(NUMERIC_TOKEN.findall(b.text)) for b in body_scope_blocks
+    )
+    numbers_body = (
+        (numeric_tokens_body / words_body_scope * 100) if words_body_scope else 0.0
+    )
+
+    # Legacy single-value key: which scope it mirrors depends on --scope
+    # (default "body"). The table and JSON always carry both numbers_body
+    # and numbers_all regardless of this choice; the hard gate always
+    # checks numbers_all.
+    numbers_per_100_words = numbers_body if scope == "body" else numbers_all
 
     # so-what rate: sentences containing a number, followed same/next sentence
     # by a consequence cue.
@@ -385,6 +443,16 @@ def compute_metrics(blocks: list[Block], clients: list[str]) -> dict:
     # tags in body
     full_text_all = " ".join(b.text for b in blocks)
     tags_in_body = sum(full_text_all.count(t) for t in TAG_PATTERNS)
+
+    # bracket_count: any "[...]" anywhere in the body (informational counter
+    # the guide asks for; rubric.json's square_brackets_in_body hard gate is
+    # a judge-applied metric, this is the tool's rough proxy)
+    bracket_count = len(BRACKET_RE.findall(full_text_all))
+
+    # serial_comma_missing: rough "A, B and C" pattern count across body prose
+    serial_comma_missing = sum(
+        len(SERIAL_COMMA_MISSING_RE.findall(b.text)) for b in body_prose_blocks
+    )
 
     # banned words
     banned_counts = {}
@@ -442,6 +510,9 @@ def compute_metrics(blocks: list[Block], clients: list[str]) -> dict:
             round(we_you_ratio, 2) if we_you_ratio != float("inf") else None
         ),
         "numbers_per_100_words": round(numbers_per_100_words, 2),
+        "numbers_body": round(numbers_body, 2),
+        "numbers_all": round(numbers_all, 2),
+        "numbers_scope": scope,
         "so_what_rate": round(so_what_rate, 4),
         "tags_in_body": tags_in_body,
         "banned_words_total": banned_words_total,
@@ -449,6 +520,8 @@ def compute_metrics(blocks: list[Block], clients: list[str]) -> dict:
         "passive_voice_rate": round(passive_voice_rate, 4),
         "avg_paragraph_words": round(avg_paragraph_words, 1),
         "callouts_or_devices": callouts,
+        "bracket_count": bracket_count,
+        "serial_comma_missing": serial_comma_missing,
     }
     return metrics
 
@@ -458,8 +531,9 @@ def compute_metrics(blocks: list[Block], clients: list[str]) -> dict:
 # --------------------------------------------------------------------------
 
 TARGETS = [
-    # (metric key, label, check function, target description)
-    ("table_share", "Table share of words", lambda v: v <= 0.35, "<= 0.35"),
+    # (metric key, label, check function, target description) — hard gates
+    # from voice/rubric.json (a fail here blocks release regardless of
+    # rubric score; see voice-guide.md section 4).
     (
         "sentence_median_words",
         "Sentence median words",
@@ -468,32 +542,24 @@ TARGETS = [
     ),
     ("sentence_p90_words", "Sentence p90 words", lambda v: v <= 40, "<= 40"),
     (
-        "punch_sentences_per_120_words",
-        "Punch sentences / 120 words",
-        lambda v: v >= 1,
-        ">= 1",
+        "avg_paragraph_words",
+        "Avg paragraph words",
+        lambda v: v <= 55,
+        "<= 55",
     ),
     (
         "words_per_heading",
         "Words per heading",
-        lambda v: 150 <= v <= 220,
-        "150-220",
+        lambda v: 100 <= v <= 220,
+        "100-220",
     ),
     (
-        "client_paragraph_density",
-        "Client paragraph density",
-        lambda v: v is not None and v >= 0.8,
-        ">= 0.8",
+        "numbers_all",
+        "Numbers per 100 words (all)",
+        lambda v: v >= 4.0,
+        ">= 4.0",
     ),
-    (
-        "numbers_per_100_words",
-        "Numbers per 100 words",
-        lambda v: v >= 1.5,
-        ">= 1.5",
-    ),
-    ("so_what_rate", "So-what rate", lambda v: v >= 0.6, ">= 0.6"),
-    ("tags_in_body", "Tags in body", lambda v: v == 0, "== 0"),
-    ("banned_words_total", "Banned words", lambda v: v == 0, "== 0"),
+    ("table_share", "Table share of words", lambda v: v <= 0.35, "<= 0.35"),
     (
         "passive_voice_rate",
         "Passive voice rate",
@@ -501,10 +567,30 @@ TARGETS = [
         "<= 0.15",
     ),
     (
-        "avg_paragraph_words",
-        "Avg paragraph words",
-        lambda v: v <= 110,
-        "<= 110",
+        "client_paragraph_density",
+        "Client paragraph density",
+        lambda v: v is not None and v >= 0.30,
+        ">= 0.30",
+    ),
+    ("tags_in_body", "Tags in body", lambda v: v == 0, "== 0"),
+    ("banned_words_total", "Banned words", lambda v: v == 0, "== 0"),
+]
+
+# Directional metrics: printed with their winners'-band description, never
+# scored PASS/FAIL (voice-guide.md section 4a treats these as informing the
+# rubric's judgment dimensions, not as gates).
+DIRECTIONAL = [
+    (
+        "punch_sentences_per_120_words",
+        "Punch sentences / 120 words",
+        "0.5-1.3 (winners band)",
+    ),
+    ("so_what_rate", "So-what rate", ">= 0.10 (winners 0.10-0.32)"),
+    ("we_you_ratio", "We/you ratio", "0.8-1.3"),
+    (
+        "numbers_body",
+        "Numbers per 100 words (body, excl. devices)",
+        "directional only — numbers_all carries the gate",
     ),
 ]
 
@@ -539,7 +625,17 @@ def render_table(metrics: dict, source_name: str) -> str:
     lines.append(
         f"{'callouts_or_devices':<32}{fmt(metrics['callouts_or_devices']):<14}{'':<12}"
     )
+    lines.append(
+        f"{'bracket_count':<32}{fmt(metrics['bracket_count']):<14}{'':<12}"
+    )
+    lines.append(
+        f"{'serial_comma_missing':<32}{fmt(metrics['serial_comma_missing']):<14}{'':<12}"
+    )
+    lines.append(
+        f"{'numbers_scope (--scope)':<32}{fmt(metrics['numbers_scope']):<14}{'':<12}"
+    )
     lines.append("-" * 70)
+    lines.append("Hard gates (voice/rubric.json):")
 
     for key, label, check, target_desc in TARGETS:
         v = metrics.get(key)
@@ -549,6 +645,12 @@ def render_table(metrics: dict, source_name: str) -> str:
             passed = False
         result = "PASS" if passed else "FAIL"
         lines.append(f"{label:<32}{fmt(v):<14}{target_desc:<12}{result}")
+
+    lines.append("-" * 70)
+    lines.append("Directional (no PASS/FAIL — informs rubric judgment):")
+    for key, label, target_desc in DIRECTIONAL:
+        v = metrics.get(key)
+        lines.append(f"{label:<32}{fmt(v):<14}{target_desc}")
 
     if metrics.get("banned_words_detail"):
         lines.append("")
@@ -577,6 +679,18 @@ def main():
     parser.add_argument(
         "--json", action="store_true", help="Also write metrics JSON alongside output"
     )
+    parser.add_argument(
+        "--scope",
+        choices=["body", "all"],
+        default="body",
+        help=(
+            "Which numbers_per_100_words scope the legacy single-value "
+            "'numbers_per_100_words' key mirrors (default: body, excludes "
+            "blockquote devices/table rows/captions/figure slots). The "
+            "table always prints both numbers_body and numbers_all, and "
+            "the hard gate always checks numbers_all."
+        ),
+    )
     args = parser.parse_args()
 
     path = Path(args.file)
@@ -585,7 +699,7 @@ def main():
         sys.exit(1)
 
     blocks = load_blocks(path)
-    metrics = compute_metrics(blocks, args.client)
+    metrics = compute_metrics(blocks, args.client, scope=args.scope)
 
     print(render_table(metrics, str(path)))
 

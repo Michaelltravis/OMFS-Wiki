@@ -13,7 +13,7 @@ client-size: "8.5 MGD / 17 MGD peak / ~50,000 residents / 13 staff"
 geography: "Midwest / MI / EPA Region 5"
 rfp-section-type: [past-performance, exec-summary, qualifications]
 win-theme-map: [compliance-leadership, asset-management, energy-chemical-efficiency, safety-culture, innovation-value-add, community-engagement, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-0075, PP-0076, PP-0077, PP-0078, PP-0079]
 testimonial-ids: []
 story-ids: [ST-0006, ST-0007]
 status: preferred

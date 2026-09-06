@@ -1,0 +1,395 @@
+### wiki/technical-approach/asset-management-improvement-shifts-table.md
+  raw: []
+  (none)
+### wiki/technical-approach/innovation-workshop-sample-agenda-structure.md
+  raw: []
+  (none)
+### wiki/technical-approach/om-management-systems-framework.md
+  raw: []
+  (none)
+### wiki/technical-approach/sensor-dispersion-model-odor-early-warning-system.md
+  raw: []
+  (none)
+### wiki/technical-approach/swip-cmms-inventory-management-value-add.md
+  raw: []
+  (none)
+### wiki/technical-approach/swip-community-involvement-outreach-program.md
+  raw: []
+  (none)
+### wiki/technical-approach/swip-digital-kpi-reporting-dashboard.md
+  raw: []
+  (none)
+### wiki/technical-approach/swip-dpr-readiness-expert-bench-and-monitoring.md
+  raw: []
+  (none)
+### wiki/technical-approach/swip-firm-approach-section-opener-understanding.md
+  raw: []
+  (none)
+### wiki/technical-approach/swip-inventory-management-asset-tracking.md
+  raw: []
+  (none)
+### wiki/technical-approach/swip-mbr-fouling-mitigation-case-study.md
+  raw: []
+  (none)
+### wiki/technical-approach/swip-replica-digital-twin-plant-digital-tools.md
+  raw: []
+  (none)
+### wiki/technical-approach/value-added-innovations-menu-om-contracts.md
+  raw: ['$350,000', '$4,450,000', '2,000 hours', '$100,000', '$60,000', '$80,000', '$5,040,000', '$5']
+    PP-0062 n=100000 unit=USD per year claim=Westerly (client quote): annual contract-cost savings to the Town
+    PP-0063 n=100000 unit=USD per year claim=Westerly (client quote): annual O&M budget increase in the Jacobs proposal
+    PP-0155 n=100000 unit=USD claim=Hull: value of the systemwide odor optimization initiative
+    PP-0155 n=100000 unit=USD of value over the contract term claim=Hull: value of the systemwide odor optimization initiative
+    PP-0399 n=100000 unit=USD claim=Jacobs saved the City of Clovis more than $100,000 through value engineering on the Clovis WWTP/WRF
+    PP-0002 n=5 unit=years (contract term) claim=Town of Southbridge, MA O&M contract term
+    PP-0002 n=5 unit=years (contract term) claim=Town of Southbridge, MA O&M contract term
+    PP-0002 n=5 unit=years (contract term) claim=Town of Southbridge, MA O&M contract term
+    PP-0002 n=5 unit=years claim=Town of Southbridge, MA O&M contract term
+    PP-0002 n=5 unit=years claim=Town of Southbridge, MA O&M contract term
+    PP-0010 n=5 unit=$ million claim=Lystek thermo hydrolysis project implemented at SHVUA, the first biosolids handling process of its kind in Michigan
+    PP-0137 n=5 unit=year CIP claim=Hull: capital improvement plan horizon
+    PP-0137 n=5 unit=year CIP horizon claim=Hull: capital improvement plan horizon
+    PP-0137 n=5 unit=year CIP claim=Hull: capital improvement plan horizon
+    PP-0137 n=5 unit=year CIP claim=Hull: capital improvement plan horizon
+    PP-0221 n=5 unit=years claim=Contract-termination disclosure lookback period
+    PP-0221 n=5 unit=years look-back claim=Contract-termination disclosure lookback period
+    PP-0234 n=5 unit=years claim=Lookback period covered by the environmental fines and enforcement actions summary (Exhibit 3-9)
+    PP-0281 n=5 unit=meeting/reporting tiers claim=Five-tier communication cadence: day-to-day, weekly, monthly, quarterly, and annual
+    PP-0284 n=5 unit=tools claim=Process control tool set comprises five high-value tools (UPCPs, Sampling Plan, Data Management, SOPs + Operator Rounds, Sample Tracking Tool)
+    PP-0302 n=5 unit=years claim=Hull: duration of the 20%/year cleaning and CCTV commitment
+    PP-0302 n=5 unit=years claim=Hull: duration of the 20%/year cleaning and CCTV commitment
+    PP-0351 n=5 unit=days claim=Written follow-up provided after notifying downstream water systems of qualifying emergency conditions
+    PP-0352 n=5 unit=years (interval) claim=Effluent diffuser inspection and video survey performed on a recurring cycle
+    PP-0363 n=5 unit=years claim=Jacobs O&M tenure at Red Bluff
+    PP-0363 n=5 unit=years of service claim=Jacobs O&M tenure at Red Bluff
+    PP-0392 n=5 unit=named subject matter experts claim=Jacobs' Southern California potable reuse and advanced treatment SME bench named for this pursuit comprises five subject matter experts (Melanie Holmer, Michael Hwang, Jim Lozier, Larry Schimmoller, Paul Swaim)
+    PP-0396 n=5 unit=grades of recycled water claim=Grades of fit-for-purpose recycled water produced at ECLWRF
+    PP-0412 n=5 unit=year contract term claim=West Basin Municipal Water District awarded Jacobs an O&M services contract for the nation's largest advanced water reuse treatment facility
+    PP-0434 n=5 unit=years claim=The New Capital Improvement Plan produced under the O&M Plan covers a 5-year horizon
+    PP-0460 n=5 unit=professional societies claim=Jacobs is actively involved with named engineering professional societies (HENAAC, NSBE, SHPE, WTS, SWE)
+    PP-0479 n=5 unit=leading indicators claim=Jacobs' Safety Scorecard tracks leading (proactive) indicators such as BZOs, pre-task planning compliance, and training completion
+    PP-0506 n=5 unit=minutes claim=City of Clovis membrane tank standby duration triggering re-circulation
+    PP-0521 n=5 unit=minutes claim=Length of the Jacobs condition assessment process video referenced in the proposal
+    PP-0522 n=5 unit=technologies claim=Number of predictive maintenance technologies in Jacobs' reliability-centered maintenance toolkit (ultrasound, precision alignment, infrared thermography, lubrication/oil analysis, vibration measurement)
+    PP-0525 n=5 unit=day of month claim=Day of each month by which the Monthly Operating Report is delivered
+    PP-0531 n=5 unit=tools claim=Number of compliance tools in Jacobs' compliance-tool suite (training platform, sample/report tracking tools, Risk Management Plan and tracking tools, standardized non-compliance escalation protocols, secure SharePoint documentation system)
+    PP-0648 n=5 unit=named major transitions claim=Largest recent U.S. utility transitions led by Jacobs (Baton Rouge, LA; Jackson, MS; Baltimore, MD; Waterbury, CT; Lincoln, CA)
+    PP-0665 n=5 unit=AWT certification level (plus T3) claim=Manager of Operations Chris Catlin certifications
+    PP-0676 n=5 unit=years claim=Value-added offerings are quantified over a five-year contract term
+    PP-0153 n=5040000 unit=USD claim=Hull: total value-added innovations delivered at no additional cost over the contract term
+    PP-0156 n=60000 unit=USD claim=Hull: value of SmartCovers and digital collections analytics
+    PP-0156 n=60000 unit=USD of value over the contract term claim=Hull: value of SmartCovers and digital collections analytics
+    PP-0157 n=4450000 unit=USD claim=Hull: value of regional and technical support over the contract term
+    PP-0157 n=4450000 unit=USD of value over the contract term claim=Hull: value of regional and technical support over the contract term
+    PP-0158 n=350000 unit=USD claim=Hull: value of the Annual Innovation Workshop over the contract term
+    PP-0158 n=350000 unit=USD of value over the contract term claim=Hull: value of the Annual Innovation Workshop over the contract term
+    PP-0159 n=80000 unit=USD claim=Hull: value of the dedicated on-site jetter
+    PP-0159 n=80000 unit=USD of value over the contract term claim=Hull: value of the dedicated on-site jetter
+    PP-0413 n=80000 unit=households per year claim=Households whose annual drinking water needs ECLWRF recycled water conserves
+    PP-0413 n=80000 unit=households claim=Households whose annual drinking water needs ECLWRF recycled water conserves
+    PP-0161 n=2000 unit=hours per year claim=Hull: annual regional/technical support hours included in the base fee
+    PP-0161 n=2000 unit=hours per year claim=Hull: annual regional/technical support hours included in the base fee
+    PP-0161 n=2000 unit=hours (approximately) claim=Hull: annual regional/technical support hours included in the base fee
+### wiki/management-staffing/blended-onsite-offsite-org-structure.md
+  raw: []
+  (none)
+### wiki/management-staffing/surge-staffing-backup-resource-planning.md
+  raw: []
+  (none)
+### wiki/management-staffing/workforce-retention-transition-continuity.md
+  raw: []
+  (none)
+### wiki/win-themes/community-stewardship-public-engagement-program.md
+  raw: []
+  (none)
+### wiki/win-themes/cover-letter-structure-pattern.md
+  raw: []
+  (none)
+### wiki/win-themes/differentiator-traditional-vs-enhanced-om-comparison.md
+  raw: []
+  (none)
+### wiki/win-themes/embedded-client-testimonial-technical-narrative.md
+  raw: ['32 years']
+    PP-0054 n=32 unit=callouts per year (approximately) claim=Westerly: callouts per year for sodium hypochlorite dosing problems eliminated by Jacobs disinfection system upgrades
+    PP-0097 n=32 unit=MGD claim=Appendix C: County of Pima, Agua Nueva Reclamation Facility (AZ) capacity
+    PP-0304 n=32 unit=years claim=Jacobs O&M tenure at the City of Auburn, CA
+    PP-0359 n=32 unit=MGD claim=Pima County Agua Nueva Reclamation Facility, operated by Jacobs, has a capacity of 32 MGD
+    PP-0535 n=32 unit=billion USD over 3 years claim=Jacobs revenue generated in the last 3 years, as demonstrated in 10-K documents
+### wiki/win-themes/embedded-differentiator-case-study-callout.md
+  raw: []
+  (none)
+### wiki/win-themes/exec-summary-client-readiness-framing.md
+  raw: []
+  (none)
+### wiki/win-themes/leadership-team-and-coordinated-operations-narrative.md
+  raw: ['10,000 year']
+    PP-0143 n=10000 unit=residents claim=Year-round residents served by the town's wastewater system
+### wiki/win-themes/past-performance-narrative-structure.md
+  raw: []
+  (none)
+### wiki/win-themes/project-narrative-contract-transition-turnaround.md
+  raw: ['$500,000', '$250,000', '3 years', '$100,000', '$100,000']
+    PP-0016 n=3 unit=lift stations claim=Lift stations operated for Village of Suttons Bay and Village of Northport
+    PP-0117 n=3 unit=hours from installation to first actionable alarm (within first) claim=Arlington, Texas detected an oncoming blockage via SmartCover alarm and cleared it before a problem occurred
+    PP-0172 n=3 unit=MGD claim=Comparable wastewater treatment capacity operated by Jacobs
+    PP-0172 n=3 unit=MGD claim=Comparable wastewater treatment capacity operated by Jacobs
+    PP-0275 n=3 unit=pre-staged locations (WWTF + 2 critical pump station groups) claim=Storm events are covered by pre-staged teams at the WWTF and critical pump stations (L Street and PS #3/#5), with provisions and sleeping arrangements for extended events
+    PP-0293 n=3 unit=years claim=Compliance training figure spans a three-year lookback period
+    PP-0334 n=3 unit=phases (Days 1-30 and Days 31-120) claim=Transition organized into three phases: Pre-Start Transition, Initial Transition, and Extended Transition
+    PP-0444 n=3 unit=weeks claim=After the onsite audit assessment, a follow-up is scheduled within three weeks to discuss results
+    PP-0491 n=3 unit=stories below ground claim=Depth of the Santa Monica advanced water treatment facility below grade
+    PP-0491 n=3 unit=stories underground claim=Depth of the Santa Monica advanced water treatment facility below grade
+    PP-0495 n=3 unit=years of ERM data reported claim=Jacobs' Experience Rate Modification (ERM) for Worker Compensation, as measured by NCCI, is reported for the past three years
+    PP-0516 n=3 unit=PdM level claim=Jacobs predictive maintenance program level committed for the facilities
+    PP-0575 n=3 unit=staffing/shift-schedule delivery commitments claim=The proposed staffing and shift schedule delivers three commitments, including no lone shift operations
+    PP-0587 n=3 unit=years claim=Chris Catlin acted as plant manager at Norwood WTP
+    PP-0607 n=3 unit=years claim=Christen Wood Jacobs experience
+    PP-0611 n=3 unit=shifts claim=At Woonsocket Wastewater Treatment Facility, Christen Wood developed a SWOT analysis for each shift
+    PP-0615 n=3 unit=MGD claim=Jason Holst served as an operator at a modular desalination plant in California
+    PP-0649 n=3 unit=newly awarded projects claim=Newly awarded projects Jacobs is currently transitioning this year (West Basin, CA; Southbridge, MA; Pasadena, TX)
+    PP-0657 n=3 unit=months per site (two sites) claim=Immersion period per O&M project site in the Project Manager Intern Program rotational program
+    PP-0666 n=3 unit=operators claim=Onsite team includes three Operators with the requisite certifications
+    PP-0679 n=3 unit=core unit processes named (MBR, RO, UV-AOP) claim=Jacobs operates facilities comparable to the client's, with experience spanning every unit process from MBR to RO to UV-AOP
+    PP-0682 n=3 unit=addendum, dated August 25, 2025 claim=Jacobs acknowledges receipt of Addendum No. 3
+    PP-0687 n=3 unit=operators (1 AWT5 Lead + 2 AWT3 Shift) claim=Additional DPR staffing included at SWIP under the optional service: an AWT5 Lead Operator and two AWT3 Shift Operators for 24/7 coverage
+    PP-0062 n=100000 unit=USD per year claim=Westerly (client quote): annual contract-cost savings to the Town
+    PP-0063 n=100000 unit=USD per year claim=Westerly (client quote): annual O&M budget increase in the Jacobs proposal
+    PP-0155 n=100000 unit=USD claim=Hull: value of the systemwide odor optimization initiative
+    PP-0155 n=100000 unit=USD of value over the contract term claim=Hull: value of the systemwide odor optimization initiative
+    PP-0399 n=100000 unit=USD claim=Jacobs saved the City of Clovis more than $100,000 through value engineering on the Clovis WWTP/WRF
+    PP-0049 n=500000 unit=USD (more than) claim=Town of Westerly, RI savings against the original 6-year forecast
+    PP-0050 n=250000 unit=USD (approximately) claim=Town of Westerly, RI savings against the adjusted forecast over the last 3 years
+    PP-0683 n=250000 unit=USD claim=Value provided for discounted engineering on Schedule B of the pricing form
+### wiki/win-themes/project-narrative-long-term-dbo-performance-excellence.md
+  raw: ['17 MGD', '30%']
+    PP-0078 n=17 unit=MGD claim=Traverse City: peak flow handled by the MBR plant
+    PP-0258 n=17 unit=years of experience claim=Capital Projects lead Liie Hill, PE has 17 years of experience
+    PP-0566 n=17 unit=years of experience claim=Operator Christen Wood years of experience
+    PP-0566 n=17 unit=years claim=Operator Christen Wood years of experience
+    PP-0079 n=30 unit=percent (more than) claim=Traverse City reduction in electrical consumption from optimization
+    PP-0135 n=30 unit=days claim=Hull: duration of the Initial Transition phase
+    PP-0251 n=30 unit=years of experience claim=Regional and Technical Support Team Leader John Rickermann has 30 years of experience
+    PP-0261 n=30 unit=years of experience claim=Energy Management/Sustainability lead Dawn Lesley, PE has 30 years of experience
+    PP-0317 n=30 unit=days from NTP claim=Site-Specific Safety Plan and Site Security Plan submitted for client review after Notice to Proceed
+    PP-0333 n=30 unit=days from award claim=Structured due diligence completed after award
+    PP-0526 n=30 unit=days claim=Days after each calendar year of operations by which the draft Annual Report is furnished to the client
+    PP-0533 n=30 unit=million USD per year claim=Jackson Water contract annual value
+    PP-0541 n=30 unit=minutes claim=Response time commitment from notification for emergencies such as pipeline failures or system blockages
+    PP-0559 n=30 unit=years of experience claim=Manager of Operations Chris Catlin years of water treatment experience
+    PP-0568 n=30 unit=years of experience claim=Maintenance Technician Richard Gwinn years of experience
+    PP-0579 n=30 unit=MGD claim=Woodland Davis Regional WTP capacity
+    PP-0579 n=30 unit=MGD claim=Woodland Davis Regional WTP capacity
+    PP-0586 n=30 unit=MGD claim=Norwood WTP, North Miami Beach Water, FL — reverse osmosis, nanofiltration, lime softening treatment plant where Chris Catlin acted as plant manager
+    PP-0692 n=30 unit=minutes once per month claim=Backwashing regime found less effective in field experience: infrequent, long-duration backwashing
+    PP-0693 n=30 unit=percent reduction in specific capacity claim=Trigger point for more intrusive well rehabilitation, based on reduction in injection specific capacity
+### wiki/win-themes/project-narrative-new-contract-mobilization-innovation.md
+  raw: ['48 miles']
+    PP-0004 n=48 unit=miles claim=Town of Southbridge, MA collection system operated and maintained
+    PP-0004 n=48 unit=miles claim=Town of Southbridge, MA collection system operated and maintained
+    PP-0004 n=48 unit=miles claim=Town of Southbridge, MA collection system operated and maintained
+    PP-0004 n=48 unit=miles claim=Town of Southbridge, MA collection system operated and maintained
+    PP-0004 n=48 unit=miles claim=Town of Southbridge, MA collection system operated and maintained
+### wiki/win-themes/project-narrative-utility-partnership-cost-savings.md
+  raw: ['310 miles', '$12.7', '$25', '27 MGD', '54 MGD', '$12.7']
+    PP-0042 n=12.7 unit=million USD claim=City of Waterbury, CT City-estimated cost savings vs. the previous operating approach
+    PP-0032 n=310 unit=miles claim=City of Waterbury, CT sanitary sewer collection system operated and maintained
+    PP-0032 n=310 unit=miles claim=City of Waterbury, CT sanitary sewer collection system operated and maintained
+    PP-0032 n=310 unit=miles (approximately) claim=City of Waterbury, CT sanitary sewer collection system operated and maintained
+    PP-0011 n=25 unit=$ million claim=Capital improvement project at SHVUA for which operational adjustments and work arounds are managed
+    PP-0029 n=25 unit=associates claim=Associates managed by Kevin Dahl as Project Manager at Norwalk WWTP
+    PP-0035 n=25 unit=$ million claim=City of Waterbury, CT phosphorous upgrade Jacobs is helping manage
+    PP-0035 n=25 unit=$ million claim=City of Waterbury, CT phosphorous upgrade Jacobs is helping manage
+    PP-0035 n=25 unit=million USD (approximately) claim=City of Waterbury, CT phosphorous upgrade Jacobs is helping manage
+    PP-0588 n=25 unit=staff claim=At Norwood WTP, Chris Catlin managed a staff of operators, maintenance staff, and lab personnel
+    PP-0598 n=25 unit=MGD claim=South Bay International Wastewater Treatment Plant (SBIWTP), San Diego, CA — chemically enhanced primary treatment plant where Mack Mckenzie was Maintenance Manager
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0597 n=27 unit=employees claim=At Richmond Water Pollution Control Plant, Mack Mckenzie supervised employees within five departments
+### wiki/win-themes/project-narrative-workforce-transition-biosolids-modernization.md
+  raw: ['9.99 MGD', '36 miles', '1.3 MGD', '39 MGD']
+    PP-0072 n=39 unit=MGD claim=SHVUA: conveyance capacity of the larger, VFD-equipped lift station
+    PP-0263 n=39 unit=years of experience claim=Odor Control lead Bill Desing, PE has 39 years of experience
+    PP-0067 n=36 unit=miles claim=SHVUA interceptor piping under Jacobs O&M
+    PP-0067 n=36 unit=miles claim=SHVUA interceptor piping under Jacobs O&M
+    PP-0067 n=36 unit=miles claim=SHVUA interceptor piping under Jacobs O&M
+    PP-0260 n=36 unit=years of experience claim=Biosolids O&M Specialist Drew Mearns has 36 years of experience
+    PP-0455 n=36 unit=instructional volumes claim=Jacobs' interactive operator training library consists of instructional volumes with interactive quizzes
+    PP-0532 n=36 unit=million USD claim=North Hudson Sewerage Authority CSO program managed by Jacobs
+    PP-0071 n=1.3 unit=MGD claim=SHVUA: conveyance capacity of the smaller lift station
+    PP-0358 n=1.3 unit=MGD claim=Soquel Creek advanced water purification facility capacity
+    PP-0358 n=1.3 unit=MGD claim=Soquel Creek advanced water purification facility capacity
+    PP-0358 n=1.3 unit=MGD claim=Soquel Creek advanced water purification facility capacity
+    PP-0008 n=9.99 unit=MGD claim=SHVUA average flow treated
+### wiki/win-themes/similar-facilities-comparison-table-framing.md
+  raw: ['40 Years', '40 years', '40 years', '37 years', '28 years', '28 years', '20 years', '15 years', '10 years', '10 years', '10 years', '8 years', '7 years', '7 years', '7 years']
+    PP-0022 n=40 unit=MGD claim=Edward C. Little Water Recycling Facility (West Basin) capacity
+    PP-0022 n=40 unit=MGD claim=Edward C. Little Water Recycling Facility (West Basin) capacity
+    PP-0022 n=40 unit=MGD claim=Edward C. Little Water Recycling Facility (West Basin) capacity
+    PP-0022 n=40 unit=MGD claim=Edward C. Little Water Recycling Facility (West Basin) capacity
+    PP-0036 n=40 unit=$ million claim=West Haven WWTP upgrade including IFAS technology for enhanced nutrient removal
+    PP-0129 n=40 unit=monitoring units claim=NJAW built out the entire Bound Brook system with satellite-based SmartCover deployment monitoring units to provide real-time data
+    PP-0149 n=40 unit=years O&M experience claim=Length of Jacobs/OMI operations and maintenance experience
+    PP-0149 n=40 unit=years claim=Length of Jacobs/OMI operations and maintenance experience
+    PP-0149 n=40 unit=years claim=Length of Jacobs/OMI operations and maintenance experience
+    PP-0173 n=40 unit=miles claim=Comparable collection system length operated and maintained by Jacobs
+    PP-0173 n=40 unit=miles claim=Comparable collection system length operated and maintained by Jacobs
+    PP-0390 n=40 unit=projects claim=Total Jacobs project experience with chlorine disinfection
+    PP-0007 n=7 unit=staff (5 operators + 1 lab supervisor + 1 lab tech) claim=Staff overseen at South Huron Valley Utility Authority WWTP (five operators, a lab supervisor, and a lab tech)
+    PP-0146 n=7 unit=pump stations claim=Hull: wastewater pump stations in the client's collection system
+    PP-0146 n=7 unit=pump stations claim=Hull: wastewater pump stations in the client's collection system
+    PP-0563 n=7 unit=MGD claim=Mack MacKenzie served as CPO at the Novato Sanitary District WWTP
+    PP-0574 n=7 unit=days per week of operator coverage claim=Proposed shift schedule provides seven-day operator coverage via two Operators in Charge plus an Operator on overlapping 10-hour rotations, with Maintenance and I&C Technicians on 8-hour weekday shifts
+    PP-0576 n=7 unit=years claim=Howard Brewen Jacobs experience
+    PP-0594 n=7 unit=MGD claim=Novato Sanitary District WWTP, Novato, CA where Mack Mckenzie was Project Manager and Chief Plant Operator
+    PP-0008 n=8 unit=MGD claim=SHVUA average flow treated
+    PP-0152 n=8 unit=hours claim=Duration of the Jacobs Annual Innovation Workshop
+    PP-0152 n=8 unit=hours claim=Duration of the Jacobs Annual Innovation Workshop
+    PP-0475 n=8 unit=sewage pumps claim=At Jacobs' Rio Rancho, NM project, sewage pumps were fitted with the AquaDNA deragging control system (no change in pumps or starters/VFDs required) to reduce previously chronic sanitary sewer overflow events
+    PP-0567 n=8 unit=years of experience claim=Operator Jason Holst years of experience
+    PP-0567 n=8 unit=years claim=Operator Jason Holst years of experience
+    PP-0599 n=8 unit=direct reports claim=At SBIWTP, Mack Mckenzie supervised and directed scheduled and unscheduled maintenance activities of direct reports
+    PP-0660 n=8 unit=staff development programs claim=Programs catalogued in Exhibit 3-6 to train, retain, and grow Jacobs O&M staff
+    PP-0671 n=8 unit=weeks between cleanings claim=Coastal pump station vac-truck cleaning increased to every eight weeks
+    PP-0030 n=10 unit=years claim=City of Waterbury, CT O&M operating agreement term
+    PP-0030 n=10 unit=years claim=City of Waterbury, CT O&M operating agreement term
+    PP-0030 n=10 unit=years claim=City of Waterbury, CT O&M operating agreement term
+    PP-0030 n=10 unit=years claim=City of Waterbury, CT O&M operating agreement term
+    PP-0089 n=10 unit=MGD claim=Appendix C: City of Key West, Richard A. Heyman Environmental Pollution Control Facility (FL) capacity
+    PP-0113 n=10 unit=agenda sessions claim=Agenda sessions in the delivered 2024 (Wilmington) Innovation Workshop
+    PP-0154 n=10 unit=years claim=Hull: contract term over which the value-added package is delivered
+    PP-0154 n=10 unit=years claim=Hull: contract term over which the value-added package is delivered
+    PP-0247 n=10 unit=years of experience claim=Wastewater Solutions Engineer Adrian Romero-Flores, PhD has 10 years of experience
+    PP-0265 n=10 unit=years of experience claim=Grant/Loan Specialist Kathryn Benson, PE, CMRP has 10 years of experience
+    PP-0268 n=10 unit=OSHA training hours (minimum) claim=OSHA safety training hours required of all staff
+    PP-0268 n=10 unit=hours (OSHA course) claim=OSHA safety training hours required of all staff
+    PP-0299 n=10 unit=% dry ton cost adjustment threshold claim=Biosolids production, inventory, and hauling efficiency actively managed to reduce the likelihood of reaching the 10% dry ton cost adjustment threshold
+    PP-0303 n=10 unit=% of system per year claim=After the first five years, annual cleaning and CCTV continues at 10% of the system annually
+    PP-0306 n=10 unit=year cycle claim=After the initial 5 years, cleaning/CCTV continues on a longer cycle, or more frequently as conditions warrant
+    PP-0432 n=10 unit=program elements claim=Jacobs' project execution approach is organized into major program elements spanning health/safety/security through customer service
+    PP-0474 n=10 unit=years of operating experience claim=AquaDNA deragging technology operating experience
+    PP-0505 n=10 unit=minutes claim=City of Clovis membrane tank re-circulation interval restored by programmer after standby
+    PP-0507 n=10 unit=AM (time of day) claim=City of Clovis coliform readout escalation deadline for lab technician or PM contact
+    PP-0515 n=10 unit=elements claim=Number of elements in Jacobs' asset management model (10-Box Model, Exhibit 2-25)
+    PP-0565 n=10 unit=years of experience (approximate — 'nearly a decade') claim=Operator Joshua Hernandez years of experience
+    PP-0565 n=10 unit=years claim=Operator Joshua Hernandez years of experience
+    PP-0677 n=10 unit=offerings claim=Value-added offerings bundle comprises ten distinct no-cost enhancements
+    PP-0103 n=28 unit=MGD claim=Appendix C: City of Vancouver, West Side WWTP (WA) capacity
+    PP-0254 n=28 unit=years of experience claim=Regional Maintenance & Lead Electrician Jonathan Roth has 28 years of experience
+    PP-0256 n=28 unit=years of experience claim=Regulatory Compliance lead Jeff Heroux has 28 years of experience
+    PP-0013 n=15 unit=MGD claim=Grand Traverse Regional WWTP wet weather flow
+    PP-0037 n=15 unit=years claim=West Haven WWTP full-service O&M contract term
+    PP-0167 n=15 unit=billion USD per year claim=Jacobs annual corporate revenue
+    PP-0167 n=15 unit=billion USD (approximately) claim=Jacobs annual corporate revenue
+    PP-0319 n=15 unit=inch diameter pipe claim=Collapsed pipe discovered by CCTV after the Waterbury, CT sewer backup, requiring immediate repair
+    PP-0375 n=15 unit=offices in California claim=Jacobs offices in California
+    PP-0405 n=15 unit=years initial term claim=Following acceptance testing of the design-build facility, Jacobs began operating and maintaining the Soquel Creek facility for an initial term
+    PP-0691 n=15 unit=minutes once per week claim=Backwashing regime found more effective in field experience: frequent, short-duration backwashing
+    PP-0033 n=20 unit=pump stations claim=City of Waterbury, CT pump stations operated and maintained
+    PP-0033 n=20 unit=pump stations claim=City of Waterbury, CT pump stations operated and maintained
+    PP-0033 n=20 unit=pump stations claim=City of Waterbury, CT pump stations operated and maintained
+    PP-0033 n=20 unit=pump stations claim=City of Waterbury, CT pump stations operated and maintained
+    PP-0107 n=20 unit=MGD claim=Appendix C: City of Gresham WWTP (OR) capacity
+    PP-0115 n=20 unit=years (nearly) claim=SmartCover has been a trusted utility partner protecting public health
+    PP-0188 n=20 unit=plants claim=Representative projects: wastewater treatment plants with capacities of at least 3 MGD (Exhibit 3-3)
+    PP-0233 n=20 unit=years claim=Length of the period covered by the Jacobs compliance record
+    PP-0233 n=20 unit=years claim=Length of the period covered by the Jacobs compliance record
+    PP-0273 n=20 unit=minutes or less, phone response claim=Hull: emergency phone response time commitment
+    PP-0273 n=20 unit=minutes claim=Hull: emergency phone response time commitment
+    PP-0273 n=20 unit=minutes claim=Hull: emergency phone response time commitment
+    PP-0301 n=20 unit=% of system per year claim=Hull: annual cleaning/CCTV coverage of the collection system in the first 5 years
+    PP-0301 n=20 unit=% of collection system per year claim=Hull: annual cleaning/CCTV coverage of the collection system in the first 5 years
+    PP-0324 n=20 unit=% reduction in energy use claim=Energy use reduction achieved at an Arizona wastewater facility by optimizing aeration blower performance with real-time data and DO control strategies
+    PP-0337 n=20 unit=years of previous contract operator tenure (more than) claim=Jacobs transitioned West Basin Municipal Water District from a prior contract operator of long tenure
+    PP-0366 n=20 unit=years claim=Jacobs O&M tenure at Fort Irwin
+    PP-0366 n=20 unit=years of service claim=Jacobs O&M tenure at Fort Irwin
+    PP-0369 n=20 unit=years claim=Jacobs O&M tenure at Turlock
+    PP-0369 n=20 unit=years claim=Jacobs O&M tenure at Turlock
+    PP-0369 n=20 unit=years of service claim=Jacobs O&M tenure at Turlock
+    PP-0383 n=20 unit=projects claim=Total Jacobs project experience with indirect potable reuse
+    PP-0454 n=20 unit=years claim=Length of the continuous annual series of compliance and regulatory training hours reported for Jacobs O&M staff (2005 through 2024)
+    PP-0572 n=20 unit=percent of leadership time claim=Jacobs' leadership team, including key project management, engineering, and technical support staff, will remain engaged on the project at an estimated level of 20 percent of their time
+    PP-0600 n=20 unit=miles of sewer collection lines claim=At Limoneira WWTP, Mack Mckenzie provided routine and emergency maintenance of lift stations and sewer collection lines and manholes
+    PP-0635 n=20 unit=year contract claim=Contract term of the regional utility transition Kelly Irving recently oversaw
+### wiki/win-themes/swip-bottom-line-close-and-positioning-statement.md
+  raw: []
+  (none)
+### wiki/win-themes/swip-compliance-reliability-transparency-narrative.md
+  raw: ['100%']
+    PP-0220 n=100 unit=entities (approximately) claim=Jacobs operating entities in North America / U.S. and Canada
+    PP-0327 n=100 unit=% approval success rate claim=Jacobs success rate with WIFIA loan approvals for clients
+    PP-0357 n=100 unit=MGD claim=Twin Oaks Valley WTP capacity
+    PP-0357 n=100 unit=MGD claim=Twin Oaks Valley WTP capacity
+    PP-0357 n=100 unit=MGD claim=Twin Oaks Valley WTP capacity
+    PP-0357 n=100 unit=MGD claim=Twin Oaks Valley WTP capacity
+    PP-0374 n=100 unit=O&M and technical specialists claim=Jacobs O&M and technical specialists supporting site projects
+    PP-0374 n=100 unit=subject matter experts (over) claim=Jacobs O&M and technical specialists supporting site projects
+    PP-0431 n=100 unit=% compliance claim=The client can rely on Jacobs to achieve 100% compliance, minimize risk, and optimize lifecycle performance of the assets
+    PP-0440 n=100 unit=% of flow claim=The upstream Ocean Avenue Lift Station delivers up to 100% of the flow to the AWTF
+### wiki/win-themes/swip-safety-emergency-preparedness-risk-management.md
+  raw: []
+  (none)
+### wiki/win-themes/swip-top-water-reuse-experts-on-call.md
+  raw: []
+  (none)
+### wiki/qualifications/full-service-lifecycle-capability-and-capital-planning-support.md
+  raw: []
+  (none)
+### wiki/qualifications/reference-portfolio-comparability-and-similar-facilities.md
+  raw: ['27 MGD', '8.5 MGD', '3 MGD']
+    PP-0016 n=3 unit=lift stations claim=Lift stations operated for Village of Suttons Bay and Village of Northport
+    PP-0117 n=3 unit=hours from installation to first actionable alarm (within first) claim=Arlington, Texas detected an oncoming blockage via SmartCover alarm and cleared it before a problem occurred
+    PP-0172 n=3 unit=MGD claim=Comparable wastewater treatment capacity operated by Jacobs
+    PP-0172 n=3 unit=MGD claim=Comparable wastewater treatment capacity operated by Jacobs
+    PP-0275 n=3 unit=pre-staged locations (WWTF + 2 critical pump station groups) claim=Storm events are covered by pre-staged teams at the WWTF and critical pump stations (L Street and PS #3/#5), with provisions and sleeping arrangements for extended events
+    PP-0293 n=3 unit=years claim=Compliance training figure spans a three-year lookback period
+    PP-0334 n=3 unit=phases (Days 1-30 and Days 31-120) claim=Transition organized into three phases: Pre-Start Transition, Initial Transition, and Extended Transition
+    PP-0444 n=3 unit=weeks claim=After the onsite audit assessment, a follow-up is scheduled within three weeks to discuss results
+    PP-0491 n=3 unit=stories below ground claim=Depth of the Santa Monica advanced water treatment facility below grade
+    PP-0491 n=3 unit=stories underground claim=Depth of the Santa Monica advanced water treatment facility below grade
+    PP-0495 n=3 unit=years of ERM data reported claim=Jacobs' Experience Rate Modification (ERM) for Worker Compensation, as measured by NCCI, is reported for the past three years
+    PP-0516 n=3 unit=PdM level claim=Jacobs predictive maintenance program level committed for the facilities
+    PP-0575 n=3 unit=staffing/shift-schedule delivery commitments claim=The proposed staffing and shift schedule delivers three commitments, including no lone shift operations
+    PP-0587 n=3 unit=years claim=Chris Catlin acted as plant manager at Norwood WTP
+    PP-0607 n=3 unit=years claim=Christen Wood Jacobs experience
+    PP-0611 n=3 unit=shifts claim=At Woonsocket Wastewater Treatment Facility, Christen Wood developed a SWOT analysis for each shift
+    PP-0615 n=3 unit=MGD claim=Jason Holst served as an operator at a modular desalination plant in California
+    PP-0649 n=3 unit=newly awarded projects claim=Newly awarded projects Jacobs is currently transitioning this year (West Basin, CA; Southbridge, MA; Pasadena, TX)
+    PP-0657 n=3 unit=months per site (two sites) claim=Immersion period per O&M project site in the Project Manager Intern Program rotational program
+    PP-0666 n=3 unit=operators claim=Onsite team includes three Operators with the requisite certifications
+    PP-0679 n=3 unit=core unit processes named (MBR, RO, UV-AOP) claim=Jacobs operates facilities comparable to the client's, with experience spanning every unit process from MBR to RO to UV-AOP
+    PP-0682 n=3 unit=addendum, dated August 25, 2025 claim=Jacobs acknowledges receipt of Addendum No. 3
+    PP-0687 n=3 unit=operators (1 AWT5 Lead + 2 AWT3 Shift) claim=Additional DPR staffing included at SWIP under the optional service: an AWT5 Lead Operator and two AWT3 Shift Operators for 24/7 coverage
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0031 n=27 unit=MGD claim=City of Waterbury, CT WWTP design capacity
+    PP-0597 n=27 unit=employees claim=At Richmond Water Pollution Control Plant, Mack Mckenzie supervised employees within five departments
+    PP-0076 n=8.5 unit=MGD claim=Traverse City Regional WWTP capacity
+    PP-0076 n=8.5 unit=MGD claim=Traverse City Regional WWTP capacity
+    PP-0076 n=8.5 unit=MGD claim=Traverse City Regional WWTP capacity
+### wiki/qualifications/representative-past-performance-narrative-patterns.md
+  raw: []
+  (none)
+### wiki/compliance-plans/capital-planning-construction-support-innovation-studies.md
+  raw: []
+  (none)
+### wiki/compliance-plans/regulatory-compliance-reporting-dashboard.md
+  raw: []
+  (none)
+### wiki/compliance-plans/transition-due-diligence-governance-checklist.md
+  raw: []
+  (none)
+### wiki/compliance-plans/transition-team-organization-roster.md
+  raw: []
+  (none)
+### wiki/resumes/proposed-team-roster-hull-wwtf-om-2026.md
+  raw: []
+  (none)

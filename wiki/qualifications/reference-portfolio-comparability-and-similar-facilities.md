@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [qualifications, past-performance]
 win-theme-map: [regional-bench, odor-control, community-engagement, incumbent-displacement]
-proof-point-ids: []
+proof-point-ids: [PP-0031, PP-0076, PP-0172]
 testimonial-ids: []
 story-ids: []
 status: preferred

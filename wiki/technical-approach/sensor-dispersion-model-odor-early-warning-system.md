@@ -10,6 +10,16 @@ house-favorite: false
 proof-point-ids: []
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+block-type: prose
+source-pages: [96]
+verbatim-ref: [verbatim/hull-wwtf-om-2026/pages/p0096.md#¶1]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: 3.07 MGD / 42 mi / 10k pop
+geography: Northeast / MA / MassDEP
+rfp-section-type: [tech-approach]
+win-theme-map: [odor-control, innovation-value-add]
+sanitization-loss: high
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: Compact, visual, easily-understood differentiator chaining real-time sensing to predictive dispersion modeling; strong for win-theme and technical-approach sections addressing community odor complaints near sensitive receptors.

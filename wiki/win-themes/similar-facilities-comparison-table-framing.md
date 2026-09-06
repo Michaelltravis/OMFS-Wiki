@@ -7,9 +7,19 @@ source-section: "Appendix C - Facilities Similar to the Town (pp. 82-83)"
 story-ids: []
 status: preferred
 house-favorite: false
-proof-point-ids: []
+proof-point-ids: [PP-0111]
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+block-type: table
+source-pages: [82, 83]
+verbatim-ref: [verbatim/hull-wwtf-om-2026/pages/p0082.md#¶3, verbatim/hull-wwtf-om-2026/pages/p0083.md#¶2]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: 3.07 MGD / 42 mi / 10k pop
+geography: Northeast / MA / MassDEP
+rfp-section-type: [past-performance]
+win-theme-map: [regional-bench]
+sanitization-loss: low
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: A simple, high-density evidence exhibit that directly answers the RFP evaluation question "has this firm run facilities like ours" with a scannable table rather than more narrative — efficient use of appendix space

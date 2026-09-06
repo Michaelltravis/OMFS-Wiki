@@ -1,0 +1,216 @@
+=====wiki/technical-approach/innovation-workshop-sample-agenda-structure.md=====
+
+# Innovation Workshop — Sample Agenda Structure (Proof-of-Execution Exhibit)
+
+To make the annual Innovation Workshop concept credible rather than aspirational, the proposal includes two sanitized sample agendas from workshops already delivered for other O&M clients, framed as: "Sample agendas from previous Innovation Workshops for [other clients] are included below, demonstrating how these sessions have successfully driven alignment on priorities and implementation of actionable improvements."
+
+## Standard format
+
+- **Full-day session**, roughly 8:00/8:30 a.m. to 4:00/4:30 p.m., with an optional post-session networking hour
+- **Opening block:** welcome/introductions, coffee/soft start, followed by a keynote or industry-outlook topic (e.g., "becoming a world-class utility," a sector-wide regulatory or funding update)
+- **Morning technical blocks (45–60 minutes each):** 2–3 focused topics, often paired as "Part I / Part II" for a single theme (e.g., an optimization topic split across two sessions), each block presented by a named subject-matter expert or the client's own staff
+- **Midday break/lunch**
+- **Afternoon technical blocks:** additional SME-led topics — commonly energy/decarbonization, biosolids, digester or membrane technology, odor control, regulatory/compliance updates (e.g., PFAS, permit renewals), and grant/funding opportunities
+- **Late-afternoon strategic block:** a forward-looking or "de-risking the future" planning discussion
+- **Closing:** open discussion and adjournment (or additional discussion/closing remarks)
+
+## Observed topic mix across sample agendas
+
+- Regulatory/uncertainty framing (e.g., PFAS impacts and solutions, becoming resilient to an uncertain future)
+- Process intensification / meeting new regulatory requirements
+- Energy optimization and sector decarbonization (split across two sessions)
+- Digital / "one-water" utility operations
+- Adaptive planning and de-risking the future
+- Grant and alternative municipal funding sources
+- Ecosystem/asset enhancement
+- Anaerobic digester technologies
+- Biosolids economics ("are biosolids cool?")
+- Strategic energy management at treatment plants paired with a circular water economy theme, illustrated with case studies from another country's utility sector
+- Membrane replacement and energy-efficiency solutions
+- Odor control technology updates
+- Value-add process updates: biological phosphorus removal modeling, EV charging stations, biogas reuse, aeration blower upgrades, water plant predictive/preventive maintenance (PDM), LED lighting upgrades
+
+## Proof point
+
+A client quote reinforces the value: the annual workshops are described as providing a wealth of knowledge from industry experts that generates ideas of real value to both the utility and its ratepayers.
+
+## Reuse guidance
+
+Universal: the day-long format (keynote → paired technical deep-dives → strategic/adaptive-planning close) and the practice of citing real prior agendas — even briefly — as evidence the workshop model already works elsewhere. Pursuit-specific: only reuse real, shareable prior-agenda content, generalized to remove the other clients' names, exact dates, and venue addresses; replace the topic mix with whichever subset is most relevant to the target facility (pull from `annual-innovation-workshop-program.md`'s topic list rather than reusing this exact mix verbatim). This block pairs directly with `annual-innovation-workshop-program.md` — use that block for the concept and topic menu, and this one for the "we've actually done this" evidence. Related graphic: `133_Hull_0091KO_2` (composite image of two sample agenda documents).
+
+=====wiki/technical-approach/swip-firm-approach-section-opener-understanding.md=====
+
+# Firm Approach Section Opener — Integrated O&M Commitment and Facility Understanding
+
+Jacobs will deliver an integrated, transparent, and results-driven project management approach that ensures 24/7 compliance, reliable production of advanced treated water, and seamless coordination across [CLIENT]'s facilities. With decades of experience operating facilities comparable in scale and technology — including membrane bioreactor (MBR), reverse osmosis (RO), UV advanced oxidation process (UV-AOP) systems, and large pump stations — Jacobs is uniquely equipped to manage the full scope of operations in accordance with the applicable state board orders (in this pursuit, State Board Orders R4-2021-0044 and R4-2023-0366). As one of the largest O&M services providers in North America, Jacobs will leverage the depth of its operations, engineering, asset management, maintenance, and compliance capabilities to meet [CLIENT]'s performance standards while driving long-term value and sustainability. Our team will integrate with [CLIENT] staff to uphold a community-first culture rooted in accountability, safety, and regulatory excellence.
+
+## Jacobs understands [CLIENT]'s challenges and goals for its facilities
+
+[CLIENT]'s sustainable water infrastructure program represents a significant advancement in water treatment and establishes [CLIENT] as a pioneer in water reuse. The 1.0-MGD advanced water treatment facility (AWTF) is the first of its kind to successfully treat both wastewater and stormwater, the first ever to receive log removal credits for pathogen reduction using MBR, and the first to do all of this in an underground facility.
+
+The program plays a critical role in reducing [CLIENT]'s reliance on imported water supplies and promotes sustainability through the injection of recycled water into the local aquifer as a barrier to seawater intrusion and for aquifer replenishment. In addition, [CLIENT] is in a great position to be the first direct potable reuse (DPR) provider in the country — an amazing aspiration and one the full Jacobs team would love to help [CLIENT] achieve.
+
+In preparation for this proposal, our team talked with your staff, thoroughly reviewed the RFP, scope of work, draft agreement and exhibits, and spent several days in the field visiting the facilities conducting due diligence, which has provided a deep understanding of the challenges and opportunities to innovate and improve the O&M of the facilities.
+
+The facility-by-facility matrix that follows provides a concise summary of our understanding of your goals, challenges, and the resources and strategies Jacobs can bring to ensure we meet and exceed your expectations for exceptional O&M services. Across all sites, Jacobs recognizes the need to operate to [CLIENT]'s permits and KPI framework to reliably produce Product Water for non-potable and groundwater replenishment reuse project (GRRP) uses, implement CMMS-based asset management, and integrate alarms via the site SCADA/HMI platform (in this pursuit, Ignition), per the Scope of Services.
+
+## Reuse guidance
+
+Universal: the four-move opener — (1) integrated/transparent/results-driven commitment naming 24/7 compliance and the technology stack, (2) recognition of what makes the client's program distinctive, (3) the sustainability/water-supply consequence of that program, and (4) proof of due diligence (staff conversations, RFP and draft-agreement review, several days of field visits) — is reusable for any O&M pursuit and is especially effective when displacing an incumbent, because it demonstrates site knowledge without a contract.
+
+Pursuit-specific: the "first of its kind," "first to receive log removal credits using MBR," and "first underground facility" claims and the 1.0-MGD capacity belong to this client's facility; replace with the target client's own distinctions. The State Board order numbers, the Product Water/GRRP terminology, and the Ignition SCADA platform are pursuit-specific. Pair with [swip-facility-goals-challenges-strategy-matrix.md](swip-facility-goals-challenges-strategy-matrix.md), which is the exhibit this passage introduces, and with [swip-om-project-execution-framework.md](swip-om-project-execution-framework.md), which follows it. Read the full unsanitized passage at `verbatim/santamonica-swip-om-2025/pages/p0030.md`.
+
+=====wiki/management-staffing/blended-onsite-offsite-org-structure.md=====
+
+# Blended On-Site/Off-Site Organizational Structure for O&M Contracts
+
+## Culture-Driven Leadership
+
+At Jacobs, we recognize [CLIENT], a coastal New England community, is selecting a long-term partner responsible for protecting public health, maintaining regulatory compliance, and supporting a highly visible coastal community. Our approach combines **experienced on-site leadership, clear accountability, and unmatched regional technical support to efficiently support our on-site team and deliver reliable, compliant, and responsive operations from Day 1**.
+
+Jacobs will deliver this through a leadership team that aligns with [CLIENT]'s values and priorities. **Regional Operations Manager Scott Mangold, Project Manager Nathan Callison, and Assistant Project Manager Tony Rose** provide the experience, stability, and day-to-day leadership needed to successfully operate the WWTF and collection system.
+
+Together, Scott, Nathan, and Tony cultivate a **stable, motivated, and engaged team** that supports [CLIENT]'s priorities for **long-term staffing continuity and operational resiliency**. This leadership structure delivers a **strong on-site presence backed by regional expertise** to maintain consistent, high-quality operations.
+
+This structure gives [CLIENT] **direct access to specialized expertise** in process optimization, compliance, asset management, and emergency response, ensuring issues are addressed quickly and operations continue without disruption.
+
+## Organization Chart
+
+**Exhibit 4-1** presents our proposed organization chart, clearly delineating **lines of responsibility, authority, and reporting**. Dedicated on-site personnel are shown in blue boxes, while off-site regional management and SMEs are shown in gray boxes, providing transparency in staffing structure. This structure ensures **adequate staffing of the facilities, supports day-to-day operations, and maintains compliance** with NPDES permit requirements and applicable state regulations while meeting the operational needs of the facilities.
+
+Related graphic: `100_0091KO6_11` (Exhibit 4-1, Organizational chart) — see `wiki/graphics/hull-wwtf-om-2026.md`. Total onsite FTE count on the exhibit: 6.25.
+
+## Staffing Overview and Coverage
+
+We will provide a fully staffed team to meet [CLIENT]'s treatment, collection system, and permit requirements, including:
+
+- **Dedicated full-time Project Manager** with on-site responsibility and authority
+- **Certified operators** providing daily plant coverage, process control, and compliance sampling
+- **Experienced maintenance staff** providing preventive and corrective maintenance, asset reliability, and emergency response
+- **Skilled collections system technicians** supporting inspection, cleaning, pump stations, and emergency response
+
+Staffing and shift coverage meet all NPDES permit requirements, support routine and wet-weather operations, and maintain redundancy for absences while allowing resources to scale during storm events and high-flow conditions.
+
+## Closing Value Statement
+
+This staffing and management approach provides [CLIENT] with a stable, accountable on-site team supported by deep technical resources, ensuring reliable operations, consistent compliance, and the flexibility to respond to evolving system needs and community expectations.
+
+## Reuse guidance
+
+Universal: the two-tier on-site/off-site framing, the "clear accountability + regional reach-back" value proposition, the org-chart color-coding convention (blue on-site boxes vs. gray off-site boxes), the staffing-overview bullet structure (PM, operators, maintenance, collections), and the closing value statement are directly reusable for any municipal WWTF/collection-system O&M pursuit.
+
+Pursuit-specific: substitute actual named leadership and FTE counts to match the proposed team (this pursuit proposed 6.25 total on-site FTE for a 3.07-MGD WWTF plus a 42-mile collection system); confirm the client's own organizational title for the top-of-chart reporting line. Pair with [proposed-team-org-chart-roster.md](proposed-team-org-chart-roster.md) for the chart's named positions and FTEs, [key-personnel-role-descriptions.md](key-personnel-role-descriptions.md) for the leadership bios, and [regional-technical-support-bench.md](regional-technical-support-bench.md) for the off-site tier. Full passage: `verbatim/hull-wwtf-om-2026/pages/p0019.md`.
+
+=====wiki/win-themes/differentiator-traditional-vs-enhanced-om-comparison.md=====
+
+# Differentiator Device — Traditional vs. Jacobs Performance O&M Comparison (Exhibit 2-3)
+
+EXHIBIT 2-3. *Jacobs' performance approach* — graphic asset `126_Hull_0091KO_2`
+
+**FROM OPERATIONS TO OPTIMIZATION**
+
+| Traditional O&M Approach | Jacobs Performance Approach |
+|---|---|
+| Reactive Maintenance | Predictive & Preventive Maintenance |
+| Limited Asset Visibility | Data-Driven Asset Intelligence |
+| Static Reporting | Real-Time Dashboards |
+| Isolated Decisions | Integrated Operational Insight |
+| Routine Operations | Continuous Improvement Culture |
+
+***Moving beyond maintaining infrastructure toward optimizing performance and reliability.***
+
+The exhibit is rendered as a funnel narrowing from the generic "before" column to the branded "after" column, and it is introduced and closed by narrative in [`leadership-team-and-coordinated-operations-narrative.md`](leadership-team-and-coordinated-operations-narrative.md): the data-driven tools paragraph sets it up, and the sentence immediately after it states that this coordinated, data-driven approach improves flow management, reduces overflow risk, strengthens compliance, and enhances system resilience in the client's coastal environment.
+
+## Reuse guidance
+
+Universal: the whole five-row comparison, the funnel visual concept, the "From Operations to Optimization" title, and the closing tagline — none of it is client-specific and it drops into any O&M executive summary largely unchanged. It is particularly useful in an incumbent-displacement pursuit, where it draws the contrast the proposal wants drawn without ever naming the incumbent.
+
+Pursuit-specific: only the one or two sentences of surrounding narrative that connect the generic comparison to the target client's risk profile — swap "overflow risk in a coastal system" for whatever risk dominates the target pursuit. Graphic asset ID `126_Hull_0091KO_2` is client-branded and needs re-rendering. Pair with [`value-proposition-table-approach-impact-value.md`](value-proposition-table-approach-impact-value.md) (Exhibit 2-1), which develops the same coordinated, data-driven theme in benefit terms. Read `verbatim/hull-wwtf-om-2026/pages/p0006.md` for the full unsanitized exhibit.
+
+=====wiki/qualifications/full-service-lifecycle-capability-and-capital-planning-support.md=====
+
+# Full-Service Lifecycle Capability and Capital Planning Support
+
+## Full O&M services for water and wastewater treatment facilities
+
+We deliver **comprehensive O&M services that extend beyond day-to-day operations**, integrating regulatory compliance, asset management, process optimization, and capital planning into a coordinated approach. Our teams are responsible for maintaining **permit compliance and reliable system performance**, while aligning operations with regulatory requirements, budget priorities, and community expectations, particularly in coastal and residentially sensitive environments. This **"more-than-an-operator" approach** supports [CLIENT]'s long-term infrastructure investment — [CLIENT] being a coastal New England municipal wastewater utility — and directly reinforces the on-site team described in the staffing and project management plan, ensuring **consistent, responsive, and reliable service**.
+
+## Additional technical resources and capital planning support
+
+We provide [CLIENT] with **direct access to extensive technical troubleshooting and capital planning resources** beyond the on-site O&M team. Capital improvement planning (CIP) is fully integrated into our Asset Management program, providing a **structured and defensible framework for prioritizing improvements, managing risk, and aligning investments** with operational needs. We have successfully delivered CIP programs and technical evaluations for wastewater facilities comparable to [CLIENT]'s.
+
+These resources are primarily sourced from Jacobs' in-house engineering, construction, and water and wastewater consulting teams, providing **immediate access to subject matter experts** in process engineering, electrical and controls, structural, mechanical, regulatory compliance, and asset management. When specialized expertise is required, we supplement our team with pre-qualified affiliate partners and subcontractors. Routine technical troubleshooting and operational support are included as part of our base operating services. Larger studies, detailed design efforts, or capital project implementation support are provided as additional services upon client authorization, ensuring **transparency and cost control**.
+
+Our vast network of resources, as shown in **Exhibit 3-6**, enables **rapid response to operational and compliance challenges** and supports continuous system improvement. These resources directly support the on-site team described in the staffing section, providing **additional capacity, technical depth, and rapid response capability**.
+
+**Exhibit 3-6. Jacobs full-service offerings to support O&M projects and clients** (graphic ID `122_Hull_0091KO_1`) — five integrated service lines:
+
+- **O&M** — asset management and CMMS; planning/scheduling; regional and major maintenance support; chemical optimization; QA/QC and project audits; safety excellence; subcontract management; technical O&M services; training and certifications; community engagement; project sustainability
+- **Consulting** — cybersecurity; regulatory compliance; CSO/MS4/IDDE/CMOM; flood control; site security; energy management and efficiency; carbon strategy and management; technology and innovation; next-level, data-driven decisionmaking with AI and machine learning; lifecycle water management; licensing/permitting; technology selection; master planning
+- **Engineering** — project management; owner's engineer; program management; design-build prequalifications; progressive design-build; design-build-operate; value engineering; operations and safety in design; process engineering and optimization (including IFAS and Bardenpho)
+- **Procurement** — planning and strategy; global sourcing; materials and equipment procurement; expediting; transportation/logistics; field material control and inventory management; vendor/subcontractor administration
+- **Construction** — commissioning and startup; development assistance; design-build (DB) and DB-operate (DBO); ongoing operations during construction; modular fabrication and installation; mechanical piping and electrical construction; general contracting; union and open-shop direct hire
+
+## Reuse guidance
+
+Use this to answer evaluation criteria about corporate support or "resources beyond the proposed staff." It works best immediately after the staffing and organization-chart section, where it reassures evaluators that the on-site team is not operating in isolation. The escalation ladder — in-house SMEs first, pre-qualified partners second, authorized additional services third — is the reusable logic; keep it in that order, because leading with subcontractors reads as thin bench strength. Trim the five-service-line list to the lines relevant to the pursuit (for a pure O&M scope, Procurement and Construction can be dropped) rather than always reprinting all five. Pair with [omfs-corporate-scale-and-om-portfolio-proof-points.md](omfs-corporate-scale-and-om-portfolio-proof-points.md) for corporate scale, [regional-presence-local-support-value-prop.md](regional-presence-local-support-value-prop.md) for the regional bench that fields the first escalation, and the staffing and org-chart content in `management-staffing/`. Read `verbatim/hull-wwtf-om-2026/pages/p0016.md` for the full passage.
+
+=====wiki/resumes/proposed-team-roster-hull-wwtf-om-2026.md=====
+
+# Proposed Team Roster — Town of Hull WWTF and Collection System O&M
+
+Contact info below is sourced from the signed cover letter (Section 1, p. 3, dated April 2, 2026). Only the three cover-letter signatories have listed phone/email in the source proposal; the other proposed team members' resumes (Appendix A) do not include direct contact info.
+
+| Name | Proposed Role | Phone | Email | Resume |
+|---|---|---|---|---|
+| Nathan Callison, CRL, CMRT | Project Manager | 734.752.3155 | nathan.callison@jacobs.com | [nathan-callison.md](./nathan-callison.md) |
+| Anthony "Tony" Rose | Assistant Project Manager | — | — | [anthony-rose.md](./anthony-rose.md) |
+| Mike Boven | Transition Manager | — | — | [mike-boven.md](./mike-boven.md) |
+| Kevin Dahl, PE, CRL, CMRT | Regional Director of Operations | — | — | [kevin-dahl.md](./kevin-dahl.md) |
+| Scott Mangold, CRL | Regional Operations Manager | 215.272.6606 | scott.mangold@jacobs.com | [scott-mangold.md](./scott-mangold.md) |
+| Paul Rheault | Executive Vice President (firm binding-authority signatory; no Appendix A resume) | 541.408.2362 | paul.rheault@jacobs.com | — |
+
+## Reuse guidance
+
+Use as the starting roster/contact block for a new proposal's org chart or key-personnel summary table. Swap in current contact info from the account team rather than reusing this snapshot verbatim on later pursuits, since phone/email and role assignments change over time. Paul Rheault is included here for completeness (he signed the cover letter as the authorized firm signatory) but has no individual resume in the wiki — do not link a resume file for him. Pairs with the individual resume files in this folder and with `../management-staffing/` org-structure blocks for the same pursuit.
+
+=====wiki/win-themes/past-performance-narrative-structure.md=====
+
+# Past-Performance Project Description — Structure & Sidebar Pattern
+
+Each project description in this proposal's past-performance appendix follows the same one-page (or one-spread) layout. The pattern works well because it front-loads the relationship story, then backs it up with facility-specific numbers, and closes the loop with independent validation (a client quote and/or third-party awards).
+
+## Layout
+
+**Header block**
+- Facility/program name as the title (e.g., "[FACILITY] Wastewater System O&M" or "[FACILITY] Wastewater Treatment Plant DBO")
+- Subtitle line: `[CLIENT] | [CITY/REGION]`
+
+**Right-rail sidebar** (short, scannable facts — no narrative)
+- Years of Service (start date or duration, e.g., "November 2018 to Present")
+- Plant Size (design capacity, MGD)
+- Owner Contact — reuse as `[ROLE, e.g., Director of Public Works]` only; drop name/phone/email
+- Awards (if any) — list by award name and awarding body, generalized
+- A 3–5 sentence pull-quote from the client contact, attributed by role only (e.g., "– [DIRECTOR OF PUBLIC WORKS]")
+
+**Body — "Description of Services Provided"** (1–2 short paragraphs)
+- What Jacobs does day to day and the contract structure (term length, assets covered)
+- The originating driver: why the client sought a new operator or partner (a compliance event, cost pressure, a competitive procurement, dissatisfaction with an incumbent) and why Jacobs was selected
+- The overarching operating philosophy in one sentence (e.g., "a holistic approach combining operations, asset management, technical services, planning, and regional support")
+
+**Body — "Detailed Description of the Facilities Managed"** (run-in bold subheads; use only the subheads that apply)
+- **Capital Improvements.** Planning/execution support for upgrades, and how Jacobs' on-site + regional support staff manage CMOM, sewer cleaning, CCTV, callouts, FOG, and CIPP repairs.
+- **Treatment Systems and Processes.** A compact process train summary (preliminary treatment → secondary → tertiary/disinfection) plus design and peak/wet-weather flow ratings.
+- **Collection System and Supporting Infrastructure.** Miles of pipe, number/type of lift or pump stations, SCADA integration.
+- **Operations, Maintenance, and Optimization.** Specific, quantifiable improvements (energy or chemical reduction %, extended equipment life, automation added).
+- **Regulatory Compliance and Program Management.** Consent order/permit history, IPP administration, cost-recovery mechanisms.
+- **Community Involvement (or Community and Workforce Engagement).** Environmental stewardship, education/outreach, and — where relevant — staff transition and retention outcomes.
+
+**Photo.** One large facility photo (aerial preferred) anchors the bottom of the page.
+
+**Optional callout.** A shaded box for a differentiator that doesn't fit the standard subheads (e.g., a progressive design-build/DBO story, a technology pilot) placed either inline or on a companion page.
+
+## Reuse guidance
+
+Universal: the four-part shape (header/sidebar → services narrative → detailed facility subheads → photo) and the discipline of only using subheads that have real content behind them — a two-line "Capital Improvements" subhead with nothing meaningful in it reads as filler to evaluators. Pursuit-specific: pick the subhead set that matches what's differentiating for that reference (a brand-new contract should lean on "transition" and "Community/Workforce Engagement"; a decades-long contract should lean on "Operations, Maintenance, and Optimization" and awards). Always replace the owner-contact line with a role placeholder and strip every dollar figure — describe savings/investment qualitatively (e.g., "achieved substantial cost savings compared to the prior operating approach") rather than with numbers pulled from a specific client's contract. Pair with the individual sanitized project narratives in this folder (`project-narrative-*.md`) as worked examples of this structure, and with `similar-facilities-comparison-table-framing.md` for the companion "facilities similar to the Town" exhibit.
+

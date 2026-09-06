@@ -1,0 +1,193 @@
+=====wiki/technical-approach/swip-cmms-inventory-management-value-add.md=====
+
+# CMMS-Integrated Inventory Management Value-Add for a Second Facility
+
+*Presented in the source proposal under "Additional Items for Consideration" — modifications offered without a firm price, pending further scoping information from the client. The umbrella framing sentence is in [swip-scada-redundancy-upgrade-recommendation.md](swip-scada-redundancy-upgrade-recommendation.md).*
+
+## Inventory Management for [SECOND FACILITY]
+
+In recognizing the importance of [SECOND FACILITY], especially considering its role for DPR, [Firm] can extend our CMMS-integrated inventory management services to this facility, providing [CLIENT] a unified asset management system. This proactive system will support accurate part forecasting, timely reorders, prevent obsolescence, and ensure [CLIENT] gets the maximum value from these important assets. Dashboards and reports will provide real-time visibility into inventory status, usage trends, and procurement needs, empowering the team to make informed decisions while minimizing downtime and lifecycle costs. **[Firm]' approach will transform inventory control from a reactive function into a strategic asset management tool aligned with ISO 55001 standards and [CLIENT]'s operational goals.**
+
+## Reuse guidance
+
+This is a short, easy-to-adapt pitch for extending an existing or proposed CMMS-integrated inventory system to a facility that sits just outside the core RFP scope but is operationally connected to it — a second treatment plant, a plant that feeds the same treatment train, or a site the client is counting on for a future program. The structure is worth copying exactly. It opens by naming why the second facility matters to the client's own stated future rather than to the operator's convenience, offers a unified system across both sites as the benefit, lists four concrete capabilities the system delivers (accurate part forecasting, timely reorders, obsolescence prevention, and maximum value from the assets), adds dashboards and reports so the client can see the same data the operator sees, and closes on a bolded standards-anchored claim that reframes inventory from a back-office chore into strategic asset management aligned with ISO 55001. That last sentence is the line evaluators remember; keep it and keep the ISO reference, since it is what separates this from a generic parts-room promise. Replace [SECOND FACILITY] with the actual facility name, and mirror whatever driver the client has stated — resilience, reuse expansion, asset criticality — in the opening clause. Pairs with [swip-inventory-management-asset-tracking.md](swip-inventory-management-asset-tracking.md), the core inventory program this value-add extends, and with [swip-mechanical-ic-regional-support-value-add.md](swip-mechanical-ic-regional-support-value-add.md), which applies the same "extend existing familiarity to the client's other facilities" logic to maintenance and I&C. Full passage: verbatim/santamonica-swip-om-2025/pages/p0107.md ¶5–¶6.
+
+=====wiki/technical-approach/swip-community-involvement-outreach-program.md=====
+
+# Community Involvement and Outreach Program
+
+Jacobs is committed to being an active and visible partner in the [CLIENT] community, a Southern California coastal city. We understand that successful advanced water reuse projects are built not only on technical excellence, but also on public understanding, trust, and support. Our outreach will go beyond meeting contractual requirements — we will bring passion, creativity, and decades of leadership in water reuse education to engage the community.
+
+## Building on Current Momentum
+
+The current Chief Plant Operator at the advanced water treatment facility has already demonstrated the power of effective community engagement, providing tours that resonate with public and school groups. Jacobs will build on this strong foundation, supporting the continuation and expansion of existing outreach efforts. We will work closely with [CLIENT] to align outreach with the city's sustainability goals and to ensure consistent, positive messaging about water reuse.
+
+## Strategic Importance of Outreach
+
+Outreach and education are now considered industry standard at advanced reuse facilities, as we've seen demonstrated at West Basin, our most recent addition in California. As utilities move toward **IPR and DPR** (indirect and direct potable reuse), proactive public engagement is critical to building trust and acceptance. Our approach reflects this strategic importance: community education is not an optional add-on, but a core component of long-term project success.
+
+## Jacobs' Leadership in Water Reuse Education
+
+Jacobs has been at the forefront of water outreach for decades. We have helped shape industry best practices and consistently demonstrated that effective education programs build community trust and excitement around water reuse.
+
+## Commitment to Community
+
+Jacobs is committed to being an active member of the communities we serve. Our engagement builds and supports sustainable communities through a wide variety of programs, including charitable contributions, volunteering, internships and mentoring partnerships, and educational outreach. These activities reflect Jacobs' culture of caring and demonstrate our commitment to leaving a positive legacy wherever we work. For [CLIENT], we will build on this foundation by tailoring a comprehensive and customized community involvement program that reflects local values and priorities.
+
+**Examples of Jacobs' community involvement programs at other O&M sites:**
+
+- **Tulsa Metropolitan Area — Education and Environment:** volunteering with Up with Trees and Habitat for Humanity; mentoring and judging robotics competitions, Math Counts, the Tulsa Regional STEM Alliance, and more; annual financial sponsorships, including the Tulsa Engineering Foundation's E-Week and the Metropolitan Environmental Trust (MET).
+- **Dodge City, KS — Local Involvement:** horseback therapy program support and volunteer assistance; sponsored the Ford County Fair; worked with Ford County 4-H groups repairing and painting livestock barns; helped with the Southwest Cancer Benefit Rummage Sale.
+- **Rio Rancho, NM — Importance of Education:** participate in and sponsor the City of Rio Rancho's annual Children's Water Festival and environmental outreach educational program; donated school supplies to Independent High School for at-risk students.
+- **San Marcos, TX — Promoting Career Development:** sponsor a paid internship program open to all students majoring in science-related fields at Texas State University. Interns work as lab analysts, gaining an understanding of the basics of laboratory safety, SOP, sampling, analysis, QC, and regulatory compliance issues. They also get exposure to the nuts and bolts of plant O&M.
+
+## Customized Engagement for [CLIENT]
+
+Jacobs will collaborate with [CLIENT] to design a tailored engagement program that reflects the city's values and community interests. We will draw on the creativity of our staff, including team members like Royce Davis, who has direct experience leading regional water outreach initiatives. Potential program elements include:
+
+**Educational Programs & Tours**
+
+- STEM education partnerships with local elementary, middle, and high schools to develop curricula, invite students to tour the plant, and connect classroom science with real-world applications.
+- Virtual tours for schools unable to travel, making outreach inclusive and accessible.
+- Expanded community plant tours and open houses to engage residents of all ages.
+
+**Community Events & STEM Engagement**
+
+- Participation in local events such as Earth Day, sustainability fairs, and other city-sponsored activities, where Jacobs can host interactive booths that teach children and adults about the value of wastewater treatment and reuse (including the "bugs" that make treatment possible).
+
+**Internships & Workforce Development**
+
+- Internship programs with local colleges and technical schools to build local workforce capacity.
+- Partnerships with regional institutions (e.g., California State University and community colleges) to create meaningful employment pathways into water careers.
+
+**Volunteering & Charitable Support**
+
+- Active participation in local clean-ups, food pantries, holiday-giving programs, and other community causes.
+- Engagement with civic organizations such as Chambers of Commerce.
+
+We view outreach not as a requirement to be checked off, but as an opportunity to connect with people—to inspire, educate, recruit, and build lasting partnerships within the community. By bringing together Jacobs' global expertise with the passion and creativity of our local team, we will help [CLIENT] strengthen its leadership in water reuse while fostering a culture of sustainability that the entire community can take pride in.
+
+Related graphics: `142_008A26` (Exhibit 2-29, examples of Jacobs' community involvement programs), `155_008A26` (customized-engagement quadrant graphic — retitle for the new pursuit).
+
+## Reuse guidance
+
+Universal: the strategic argument linking community outreach to IPR/DPR public trust, the four-category engagement menu (Educational Programs & Tours / Community Events & STEM Engagement / Internships & Workforce Development / Volunteering & Charitable Support), and the four site proof points (Tulsa, Dodge City, Rio Rancho, San Marcos) are reusable as-is for any water, wastewater, or reuse O&M outreach section. Pursuit-specific: replace [CLIENT] throughout; verify whether the target facility is pursuing IPR or DPR and drop that framing if not applicable; swap the named local outreach team member and the named regional universities; and tailor the "building on current momentum" paragraph to whether there is an incumbent CPO and outreach program to build on or a greenfield effort. Full passage: verbatim pages p0070 and p0071.
+
+=====wiki/technical-approach/swip-digital-kpi-reporting-dashboard.md=====
+
+# Customized Web-Based KPI Reporting Dashboard (Digital Reporting Platform)
+
+Jacobs will implement a secure, web-based dashboard tailored to the client's facilities and KPIs. This tool provides real-time and historical visibility into key performance indicators, maintenance activity, chemical usage, sampling and compliance results, safety metrics, and operational alerts. The dashboard complements formal written reports, equipping client staff and leadership with immediate access to facility performance data and reinforcing Jacobs' commitment to transparency, accountability, and operational excellence.
+
+**Example dashboard navigation (Quick Links):**
+- RTT (Regulatory/Reporting Tracking Tool)
+- STT (Sample Tracking Tool)
+- SCADA
+- Water Quality
+- Biosolids
+- Reuse
+- Maintenance
+- Safety
+
+The dashboard also pairs a map view of the service area with these Quick Links, giving stakeholders a geographic frame of reference alongside the operational data.
+
+## Reuse guidance
+
+Fully generic and reusable as a digital-reporting capability description for any O&M pursuit; the Quick Links category list (RTT, STT, SCADA, Water Quality, Biosolids, Reuse, Maintenance, Safety) can be trimmed or extended to match the target pursuit's actual scope (e.g., drop "Reuse" and "Biosolids" for a facility without a reuse or biosolids program). Pair with `swip-om-project-execution-framework.md` (Exhibit 2-8's KPI dashboard example, the earlier mention of this capability) and `swip-process-control-system-tools.md` (the Sampling Plan/STT/Data Management tools that feed this dashboard). Related graphic: Exhibit 2-19 (asset ID `108_008A26`), flagged **client-specific** — the map pane likely shows real, identifiable pursuit-area geography and should be swapped before reuse; the left-nav Quick Links UI itself is generic; see graphics catalog, source `santamonica-swip-om-2025`.
+
+=====wiki/technical-approach/swip-dpr-readiness-expert-bench-and-monitoring.md=====
+
+# Direct Potable Reuse Readiness — Additional Monitoring Value-Add and Named Expert Bench
+
+## Preparing for Direct Potable Reuse
+
+We understand [CLIENT] plans to incorporate DPR into its water supply portfolio. DPR will likely require additional monitoring beyond the requirements for IPR, especially when integrating two existing facilities. We propose a value-added task to allow for [Firm] to evaluate potential additional monitoring and possibly install additional analyzers at [FACILITY] and at [SECOND FACILITY]. The additional data collection taken today could build a data repository to give regulators confidence in a future DPR scenario.
+
+## Named DPR/IPR expert bench
+
+[Firm] is supported by a deep bench of process and planning experts in IPR and DPR. Melanie Holmer, PE, served on the WateReuse California Board of Directors and its DPR working group, combing through every aspect and iteration of the draft and final DPR regulations, in addition to development of DPR project or permit planning for Pure Water Los Angeles, Pure Water Southern California, and Valley Water. Larry Schimmoller, PE, is the Process Lead for the DC Tillman Progressive Design-Build and engaged with LADWP on innovative research for alternative DPR treatment trains. Jim Lozier, PE, and Mike Hwang, PE, are recognized experts in membrane filtration and RO, and Scott Levesque, PE, and Colin Fitzgerald, PE, bring industry expertise in MBR and water resource recovery, respectively.
+
+## Reuse guidance
+
+Two reusable moves sit in this passage. The first is the "prepare for DPR now" offer: rather than waiting for the client to be told what extra monitoring a future DPR permit will demand, the proposal offers to evaluate the additional monitoring and install analyzers today, so the client arrives at the regulator with a data repository already built. That framing transfers to any client signaling a future regulatory step-change — position it as building regulatory confidence early rather than as scope growth. The second is the named-expert paragraph, which works because each name carries a specific, checkable credential and a named program (WateReuse California Board of Directors and its DPR working group; Pure Water Los Angeles; Pure Water Southern California; Valley Water; DC Tillman Progressive Design-Build; LADWP alternative DPR treatment train research) instead of a generic claim of depth. Keep names, titles, and credentials verbatim per wiki policy, but confirm each person's current role, availability, and willingness to be cited, and refresh the named programs if a given expert's history has changed. Replace [FACILITY] and [SECOND FACILITY] with the actual facility names for the target pursuit; the passage assumes two interconnected plants, so if the target has only one site, drop the integration clause rather than inventing a second facility. Pairs with [swip-dpr-operations-staffing-model.md](swip-dpr-operations-staffing-model.md) (the operator staffing table for the same DPR transition), [swip-discounted-engineering-hours-value-add.md](swip-discounted-engineering-hours-value-add.md) (the hours bank that funds this task), and [swip-mbr-fouling-mitigation-case-study.md](swip-mbr-fouling-mitigation-case-study.md). Full passage: verbatim/santamonica-swip-om-2025/pages/p0104.md ¶14 and p0105.md ¶1.
+
+=====wiki/technical-approach/swip-inventory-management-asset-tracking.md=====
+
+# Proactive Inventory Management Program (CMMS-Integrated, ISO 55001-Aligned)
+
+Jacobs will implement a comprehensive, CMMS-integrated inventory management system to ensure uninterrupted maintenance and operations at the facilities by having essential spares and equipment on hand as needed. During the transition phase, Jacobs will define key inventory roles, set up organized stockroom infrastructure, and input all parts data — including bin locations — into the CMMS for full traceability. Leveraging mobile technology and barcoded parts tracking, Jacobs will streamline inventory workflows and establish SOPs for ordering, stocking, and usage.
+
+This proactive system supports accurate parts forecasting, timely reorders, and prevents obsolescence. Dashboards and reports provide real-time visibility into inventory status, usage trends, and procurement needs, empowering the team to make informed decisions while minimizing downtime and lifecycle costs. Jacobs' approach transforms inventory control from a reactive function into a strategic asset management tool aligned with ISO 55001 standards and the client's operational goals.
+
+## Reuse guidance
+
+Fully reusable as-is for any O&M pursuit; pair with the transition-plan blocks in `../management-staffing/` for scheduling this work into the mobilization timeline, and with `swip-innovation-value-added-offerings-overview.md` where this program appears as a costed value-added offering (Inventory Management line item). No related graphic beyond the value-added-offerings wheel (Exhibit 2-16); this narrative subsection itself has no standalone exhibit.
+
+=====wiki/technical-approach/swip-mbr-fouling-mitigation-case-study.md=====
+
+# MBR Biofouling (Leech/Physa Snail) Mitigation Case Study
+
+**Sidebar heading:** Leech Mitigation at PWSC Demonstration Plant
+
+The Pure Water Southern California (PWSC) Demonstration Plant, operated by Metropolitan and the Los Angeles County Sanitation Districts, experienced persistent snail (Physa) proliferation during MBR testing. Frequent cleaning managed but did not eliminate the issue, raising concerns about membrane life. Jacobs and Hazen were engaged to identify and test practical mitigation strategies. Current measures being implemented include ultra-fine influent screening, chlorinated reactor feed, anoxic zone incorporation, and free ammonia membrane soaks. These approaches are now under evaluation to inform full-scale MBR design.
+
+## Reuse guidance
+
+This sidebar runs alongside the discounted-engineering offer and does a specific job: it turns an abstract promise of subject-matter-expert support into a named plant, a named problem, and a list of four measures actually being implemented, so the evaluator can see the bench has already solved the exact class of problem being offered. Use it as a supporting proof point wherever a proposal must demonstrate hands-on troubleshooting depth for MBR biofouling or pest issues in a potable reuse context, and place it physically beside the value-add or process-support pitch it substantiates rather than burying it in a technical narrative. The four measures — ultra-fine influent screening, chlorinated reactor feed, anoxic zone incorporation, and free ammonia membrane soaks — are the transferable technical content; keep them together, because the list is what makes the sidebar credible. Confirm the current status of the measures before restating them as settled fact: in the source proposal they were explicitly "under evaluation" and had not yet informed a completed full-scale design. Because this cites a specific, real, named third-party facility and its operators, treat it like a past-performance reference even though it lives in a technical-approach block, and verify permission to name the project in a competitive proposal for an unrelated client. Pairs with [swip-discounted-engineering-hours-value-add.md](swip-discounted-engineering-hours-value-add.md), where "leech management" is listed as a candidate study topic, and with [swip-dpr-readiness-expert-bench-and-monitoring.md](swip-dpr-readiness-expert-bench-and-monitoring.md), which names the MBR and reuse experts behind the work. Full passage: verbatim/santamonica-swip-om-2025/pages/p0104.md ¶15–¶16.
+
+=====wiki/technical-approach/swip-replica-digital-twin-plant-digital-tools.md=====
+
+# Plant Process Optimization with Digital Tools and the Replica Digital Twin
+
+## Plant process optimization — leveraging digital tools and data-driven operations
+
+As discussed in the "Strategic O&M Plans Built on Best Practices and Innovation" subsection, Jacobs will apply a comprehensive suite of digital tools and process optimization strategies to ensure the advanced water treatment facility (AWTF) continues to operate reliably and efficiently. At the core of our approach is continuous monitoring and adjustment of all key processes, guided by carefully defined KPIs. To complement real-time process monitoring, Jacobs will build and maintain a calibrated digital process model of the AWTF. Drawing from our extensive modeling toolkit — including BioWin and Jacobs' proprietary Pro2D and Replica™ tools — we will select the most appropriate platform and customize it to [CLIENT]'s influent conditions and treatment processes. This model will be updated regularly with plant data and used to predict issues, evaluate operational changes, and identify optimization opportunities before implementation. For example, the model can assess the impact of lowering the dissolved oxygen (DO) setpoint in the aeration basins, quantifying potential energy savings while maintaining anoxic zone nitrate removal performance.
+
+Additionally, our mobile CMMS applications and cloud-based analytics streamline work orders, inventory, and compliance tracking — improving reliability and transparency while reducing admin time and reactive maintenance.
+
+## Replica™ digital twin: proven ability to avoid unintended consequences in interconnected systems
+
+Jacobs' Replica™ Digital Twin can manage system complexity and optimize operations. The Replica™ model serves as a "single source of truth," with the ability to create scenarios around all components of the system for better decision-making. We've developed Replica™ Digital Twin models for a range of clients similar to [CLIENT], a coastal Southern California potable reuse program. For the Tillman AWPF, Replica™ optimized the flow balance between the original WWTP and the new AWPF, maximizing the capture of available flows to the AWPF. The team also used Replica™ to model system hydraulics and controls to optimize membrane sizing. Once construction and startup are complete, it will be used to troubleshoot equipment issues, optimize operations, and train plant operators.
+
+Exhibit 2-17 shows a sample Replica™ output for an example treatment facility, tracing flow from the pump station through the treatment train and illustrating the tool's scenario and optimization capabilities.
+
+## Reuse guidance
+
+Universal: the digital-tools framing (calibrated process model plus mobile CMMS and cloud analytics), the named modeling toolkit (BioWin, Pro2D, Replica™), the "single source of truth" digital-twin argument, and the Tillman AWPF case example are corporate capability content and reuse as-is for any advanced-treatment or potable-reuse pursuit. The Tillman AWPF reference is a real, named Jacobs project — do not rename it, and confirm it is still current and approved for external use before submission.
+
+Pursuit-specific: the worked example (lowering the aeration-basin DO setpoint, traded against anoxic-zone nitrate removal) assumes an MBR or activated-sludge train — substitute an equivalent trade-off question for RO-only, fixed-film, or other process configurations. Name the actual facility whose influent conditions the model would be calibrated to.
+
+Pairs with [swip-process-optimization-digital-modeling.md](swip-process-optimization-digital-modeling.md), which carries the underlying MBR process-control methodology (bug counts, SRT, MLSS, DO, ORP) this model supports, and with [swip-innovation-value-added-offerings-overview.md](swip-innovation-value-added-offerings-overview.md), where MBR/process optimization tools appear as a costed value-added offering. For the full passage, read `verbatim/santamonica-swip-om-2025/pages/p0046.md` ¶5, ¶6, and ¶8. Related graphic: Exhibit 2-17, "Example of the Jacobs Replica™ Tool's Capabilities for Optimization" — labeled as a generic example facility, not client-specific, reusable as-is; see the graphics catalog for source `santamonica-swip-om-2025`.
+
+=====wiki/technical-approach/om-management-systems-framework.md=====
+
+# O&M Core Management Systems Framework
+
+Jacobs will operate and maintain [CLIENT]'s WWTF and collection system — a coastal New England municipal treatment facility and its collection system — as an **integrated, performance-driven partnership** focused on **safe, compliant, reliable operations and continuous improvement**. We combine disciplined frontline execution with proven systems, data tools, and regional/national SME support, providing [CLIENT] with **consistent day-to-day performance and defensible, transparent decision-making** on maintenance, risk, and investment priorities. Our project team possesses the tools, programs, systems, training, and resources necessary for daily operations. These elements enable the team to accomplish all objectives by organizing, performing, measuring, and improving the multitude of functions that result in efficient O&M. **Exhibit 5-2** summarizes our management philosophy to achieve these objectives.
+
+## Exhibit 5-2. Major elements of Jacobs' approach to project execution
+
+**Health, Safety, and Security.** A framework for compliance with the Occupational Safety and Health Administration (OSHA) and other safety regulations, vulnerability assessments, job safety analysis, safety training, emergency preparedness and response, and other safety-related functions.
+
+**Compliance and Reporting.** A program of compliance for pollution prevention and waste minimization. Includes analysis and review checklists for all permits, report preparation for regulatory agencies, and environmental compliance training for all employees.
+
+**Operations Management.** Documents treatment strategies and process control functions through standard operating procedures (SOPs), unit process control procedures (UPCPs), and treatment system optimization.
+
+**Maintenance and Asset Management.** Integrates maintenance scheduling, documentation, and tracking; inventory control; and equipment condition assessment into a computerized database that allows us to maximize equipment performance and minimize downtime.
+
+**Laboratory Management.** Standard procedures for sample collection, analysis, and documentation with our quality assurance/quality control (QA/QC) and chemical hygiene plans.
+
+**Human Resources.** A program for the success of all of our employees as individuals and as a team, including recruitment, orientation, and training; standard training needs assessments for all employees; training programs for certification, ethics, compliance, safety, management and succession; and performance appraisals and professional development.
+
+**Financial Management.** Systems and approaches to manage project cost through national purchasing power, documentation of contractual requirements, and continuous monitoring.
+
+**Project Management.** Transparent communication including daily, weekly, monthly, severe weather, and annual client reports, internal measures of project performance, and plans to improve project performance beyond the requirements of our contract.
+
+**Community Involvement.** A comprehensive public education and community involvement program developed in partnership with [CLIENT], including volunteering, charitable donations, and facility tours to benefit the community.
+
+**Customer Service.** A robust program to demonstrate our commitment to be a good neighbor and be responsive to community concerns.
+
+## Reuse guidance
+
+This framework works as a standard "how we run O&M" structure for any treatment plant plus collection system operations proposal, regardless of size. Universal: the 10 categories, their one-line descriptions, and the framing that they interlock to elevate performance. Pursuit-specific: which categories get expanded into full subsections should map to the RFP's stated evaluation priorities — for this pursuit, Operations Management, Maintenance and Asset Management, and Compliance and Reporting were the most developed because they matched the client's top goals. Pair with `project-understanding-goals-challenges-response-matrix.md` (the preceding exhibit), `tiered-communication-reporting-protocol.md` (expands Project Management), and `../compliance-plans/six-point-compliance-program.md` (expands Compliance and Reporting). Related graphic: `132_HHull_0091KO_2`.
+

@@ -13,7 +13,7 @@ client-size: "3.3 MGD / 9 pump stations"
 geography: "Northeast / RI / EPA New England"
 rfp-section-type: [past-performance, exec-summary, transition]
 win-theme-map: [incumbent-displacement, transition-continuity, compliance-leadership, innovation-value-add, energy-chemical-efficiency, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-0049, PP-0050, PP-0054, PP-0062, PP-0063]
 testimonial-ids: []
 story-ids: [ST-0001, ST-0002, ST-0003]
 status: preferred

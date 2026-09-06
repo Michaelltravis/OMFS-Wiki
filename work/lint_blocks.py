@@ -135,9 +135,18 @@ def main():
                 continue
 
             # 1. required keys present and non-empty
+            # proof-point-ids is the one required key whose valid range
+            # legitimately includes an empty list (a block with no
+            # quantified claim in its body has no proof point to cite) —
+            # it must still be present as a key, but [] is not "missing".
             missing = []
             for key in REQUIRED_KEYS:
-                if key not in fm or fm[key] in (None, "", [], {}):
+                if key not in fm:
+                    missing.append(key)
+                elif key == "proof-point-ids":
+                    if fm[key] is None:
+                        missing.append(key)
+                elif fm[key] in (None, "", [], {}):
                     missing.append(key)
             if missing:
                 add("missing-required-keys", rel, ", ".join(missing))

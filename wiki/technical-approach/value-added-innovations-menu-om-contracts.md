@@ -7,9 +7,19 @@ source-section: "Section 5, Project Understanding and Technical Approach (pp. 40
 story-ids: []
 status: preferred
 house-favorite: false
-proof-point-ids: []
+proof-point-ids: [PP-0158, PP-0157, PP-0155, PP-0156, PP-0159, PP-0153, PP-0161]
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+block-type: prose
+source-pages: [46, 50, 51]
+verbatim-ref: [verbatim/hull-wwtf-om-2026/pages/p0050.md#¶18, verbatim/hull-wwtf-om-2026/pages/p0051.md#¶2, verbatim/hull-wwtf-om-2026/pages/p0046.md#¶6]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: 3.07 MGD / 42 mi / 10k pop
+geography: Northeast / MA / MassDEP
+rfp-section-type: [tech-approach]
+win-theme-map: [innovation-value-add]
+sanitization-loss: low
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: differentiated, concrete list of no-added-cost value-adds that reads as substance rather than marketing fluff

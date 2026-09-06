@@ -330,6 +330,8 @@ Run: `python voice/metrics.py <file> --client "Richmond" --client "the City" --j
 | avg_paragraph_words | 41.5 | 31.6 | 63.7 | 24.8 | ≤ 55 | 28–45 | The pilot passed comparison.md's ≤ 110 while running 3 sentences per paragraph |
 | words_per_heading | 148.6 | 157.9 | 281.2 | 80.4 | 100–220 | 130–180 | Hull fails comparison.md's 150 floor; mark sub-labels as `####` so they count |
 | numbers_per_100_words | 5.66 | 5.47 | 6.4 | 3.42 | ≥ 4.0 | 4.5–6.5 | Floor set below the winners' minimum and above the ChatGPT draft; density alone is not proof (Rules 12, 16) |
+
+`metrics.py` resolves the body/all ambiguity with `--scope body|all` (default `body`) and always reports both `numbers_body` and `numbers_all` side by side. `numbers_body` excludes blockquote devices (`> STAT:`, `> QUOTE:`, `> FACTBOX:`, `> CALLOUT:`), table rows, numbered captions, and figure slots and is shown directionally; the hard gate always checks `numbers_all`, which counts every block including those devices, against the ≥ 4.0 floor.
 | table_share | 0.235 | 0.032 | 0.242 | 0.39 | ≤ 0.35 | ≤ 0.25 | RFP-mandated forms raise it legitimately |
 | passive_voice_rate | 0.101 | 0.031 | 0.113 | 0.117 | ≤ 0.15 | ≤ 0.10 | |
 | tags_in_body | 0 | 0 | 52 | 19 | == 0 | — | Counts [PLACEHOLDER, [VERIFY, [CONFIRM, [TBD only; the bracket gate in 4b catches the rest |
@@ -416,3 +418,43 @@ So that the tool's PASS/FAIL agrees with this guide: `punch_sentences_per_120_wo
 3. Apply the judge tests in 4b, then score the eight dimensions in `voice/rubric.json` against the 3 / 6 / 9 anchors.
 4. Release only on the rubric pass rule: every dimension ≥ 8, mean ≥ 8.5, and all hard gates passed.
 5. Strip the draft-notes footer before layout; body text must be bracket-free.
+
+---
+
+## Calibration log
+
+### 2026-09-06 — Two-judge calibration check (v1.1 rubric, no changes made)
+
+**Question put to the check.** Does `voice/rubric.json` (a) score the two winning executive summaries clearly above the two Richmond drafts, (b) hold two independent judges within 1.0 on document means, and (c) refuse to pass a compliant-but-flat document?
+
+**Inputs.** Four documents, each scored independently by two judges against the eight dimensions and the 3 / 6 / 9 anchors. Units judged: Hull `verbatim/hull-wwtf-om-2026/pages/p0005.md`–`p0009.md` (Section 2 executive summary); Santa Monica `verbatim/santamonica-swip-om-2025/pages/p0006.md`–`p0013.md` (ES-1 to ES-8); the pilot draft `Richmond/Draft Sections/02 Claude Working Drafts/_work/draft_03_qualifications_edited.md`; the ChatGPT draft `Richmond/Draft Sections/01 Working Drafts/03_Tech_3_Firm_Qualifications_Richmond_Draft.docx`.
+
+| Document | Judge 1 | Judge 2 | Spread | Verdict |
+|---|---|---|---|---|
+| Hull executive summary | 7.40 | 8.00 | 0.60 | FAIL both |
+| Santa Monica executive summary | 6.75 | 6.75 | 0.00 | FAIL both |
+| Richmond pilot qualifications | 2.875 | 2.875 | 0.00 | FAIL both |
+| Richmond ChatGPT qualifications | 2.875 | 2.75 | 0.125 | FAIL both |
+
+**(a) Separation — PASS.** Winners band 6.75–8.00 (mean 7.23); drafts band 2.75–2.875 (mean 2.84). The gap between the lowest winner score and the highest draft score is 3.875 points with no overlap, and the ordering is identical for both judges. Separation also holds dimension by dimension: the winners beat the drafts on all eight, by 5 points on incumbent handling (9 vs 2–4) and 4–6 points on sales impact.
+
+**(b) Inter-judge agreement — PASS.** Largest spread on a document mean is 0.60 (Hull), against a 1.0 tolerance; the other three are 0.125 or less. Per-dimension agreement is tighter still: no dimension on any document differs by more than 1 point, and 26 of 32 dimension pairs are exact matches. The two judges reached the same verdict on all four documents and independently identified the same strongest and weakest passages on three of the four.
+
+**(c) A compliant-but-flat document cannot pass — PASS.** The ChatGPT draft is the empirical case. It clears a large block of hard gates by omission — zero competitor names, zero banned hype words, zero aphorisms, zero unnamed testimonials, zero volunteered negative exhibits, no "Why this matters" sub-head, p90 28 words, max sentence 36, average paragraph 32.6 words, numeric facts per sentence ≤ 5 — and still scores 2.75. It scores 4, not 8, on incumbent handling despite naming no competitor, because both judges refused to credit absence as achievement where the disclosures were unfilled placeholders. The judgment dimensions carry the discrimination the tool metrics cannot: sales impact, proof density, and client specificity are all scored 2–3 on a document that breaks few countable rules but names no person, threads no theme, and carries 0.51–0.64 numbers per 100 words.
+
+**Result: all three conditions pass. No anchors, targets, or gate thresholds were changed.**
+
+#### Finding carried forward — the density gate's measurement protocol, not its threshold
+
+Both judges independently escalated the same question: `numbers_per_100_words ≥ 4.0` failed on both winning executive summaries (Hull 2.6, Santa Monica 2.99), and both asked whether the gate is meant to apply per section or per document. Re-running `metrics.py` settles it as a protocol ambiguity rather than a threshold error:
+
+| Unit | Exhibit and callout text stripped | Raw verbatim page text |
+|---|---|---|
+| Hull executive summary | 2.60 | 4.94 |
+| Santa Monica executive summary | 2.99 | 4.98 |
+
+The same unit lands on either side of the 4.0 gate depending on whether exhibit, sidebar, and map-callout text counts as body prose. Both judges stripped it by hand; the 5.66 and 5.47 baselines in section 4a were measured with it in. The threshold is sound — it is the definition of "body prose" that decides the verdict, and section 4's note about units of ≥ 1,000 words addresses length, not section type.
+
+Two consequences worth recording rather than patching on this evidence alone. First, an executive summary keeps most of its proof in exhibits by design, so a section-type band for density is probably warranted, but setting one requires re-running the winners at document level and at section level side by side, which this check did not do. Second, the FAIL verdicts on both winners are partly an artifact of judging a section against document-calibrated targets; the rubric's ordering — the thing conditions (a) to (c) test — is unaffected, since the winners' dimension scores fail on judgment grounds (proof density 5–6) well before any gate is reached.
+
+Recommended next step, for decision rather than immediate edit: fix the extraction protocol in section 4a (state explicitly whether exhibit and callout text counts toward `numbers_per_100_words`), then re-run all four documents at both scopes before adding any section-type band to the gate.

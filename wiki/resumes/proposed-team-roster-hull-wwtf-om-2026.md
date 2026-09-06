@@ -9,6 +9,16 @@ house-favorite: false
 proof-point-ids: []
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+block-type: roster
+source-pages: [3, 20, 69, 70, 71, 73]
+verbatim-ref: [verbatim/hull-wwtf-om-2026/pages/p0020.md#¶25, verbatim/hull-wwtf-om-2026/pages/p0073.md#¶1]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: 3.07 MGD / 42 mi / 10k pop
+geography: Northeast / MA / MassDEP
+rfp-section-type: [staffing, resume]
+win-theme-map: [partner-transparency]
+sanitization-loss: none
 context: Proposed key-personnel team for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026).
 sanitized: false
 quality: Verbatim roster of the proposed team with contact info pulled directly from the signed cover letter; links each name to its full resume.
