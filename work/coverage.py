@@ -110,8 +110,7 @@ def strip_header_footer_lines(raw_text, repeating_norms):
         if len(s) <= 140 and s.count('|') >= 2 and re.search(r'\d+\s*$', s):
             continue
         out_lines.append(line)
-    return '
-'.join(out_lines)
+    return '\n'.join(out_lines)
 
 
 
@@ -256,7 +255,8 @@ def main():
             continue
 
         page = doc[pno - 1]
-        raw_text = page.get_text("text")
+        raw_text = raw_texts_by_page.get(pno, "") or page.get_text("text")
+        raw_text = strip_header_footer_lines(raw_text, repeating_norms)
         raw_words = text_norm.words(raw_text)
 
         page_path = os.path.join(pages_dir, f"p{pno:04d}.md")
@@ -379,4 +379,15 @@ def main():
 
     md_path = os.path.join(out_root, "coverage.md")
     with open(md_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join
+        f.write('\n'.join(md_lines) + '\n')
+
+    print(f"[{slug}] pages={n_pages} text_pages={len(text_pages)} image_only={sorted(image_only_pages)}")
+    print(f"[{slug}] mean_word_recall={mean_word_recall:.4f} mean_shingle_coverage={mean_shingle_cov:.4f} flagged={len(flagged_pages)}")
+    print(f"[{slug}] recovered_blocks={total_recovered_blocks} recovered_words={total_recovered_words}")
+    if flagged_pages:
+        print(f"[{slug}] flagged pages: {[p['page'] for p in sorted(flagged_pages, key=lambda x: x['page'])]}")
+    print(f"[{slug}] wrote {md_path}, {json_path}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,13 +1,30 @@
 ---
 title: Turlock Zero Liquid Discharge Facility O&M — Reference Project (Turlock Irrigation District, CA)
 category: past-performance
-tags: [turlock, zero-liquid-discharge, industrial-water-treatment, reverse-osmosis, crystallizers, power-plant, cost-savings, reference-project]
+block-type: prose
+tags: [turlock, zero-liquid-discharge, industrial-water-treatment, reverse-osmosis, crystallizers, power-plant, cost-savings, energy-chemical-efficiency, reference-project]
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Turlock Zero Liquid Discharge Facility O&M (pp. PD-5–PD-6)"
-context: Southern California sustainable water infrastructure O&M, 2025
-sanitized: false
-quality: Long-tenured (2005-ongoing, ~20 years) industrial ZLD/RO reference supporting a 250 MW power plant, with quantified continuous-improvement outcomes (four percent mixed-bed throughput increase, $147,000/year chemical savings) and a named client quote citing nearly 20 years of partnership — strong reference for industrial water treatment or ZLD scope.
-reuse-notes: Verbatim past-performance content. Confirm reference contact (Mike Tehada) is still current before reuse; verify "2005-Ongoing" contract status and that the $147,000/year savings figure is still the most current cited outcome.
+source-pages: [26, 27]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0026.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0027.md#¶4"]
+pursuit-type: [water-treatment]
+client-type: authority
+client-size: "0.75 MGD max monthly average ZLD facility serving a 250 MW combined cycle power plant"
+geography: "West / CA / industrial zero liquid discharge"
+rfp-section-type: [past-performance]
+win-theme-map: [energy-chemical-efficiency, innovation-value-add, partner-transparency, asset-management]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Long-tenured (2005-ongoing, almost 20 years) industrial ZLD/RO reference supporting a 250 MW power plant, with quantified continuous-improvement outcomes (mixed-bed throughput raised from 480,000 to 500,000 gallons, a four percent increase; WAC rinse procedures using one-fifth of the water; $147,000 in annual chemical savings) and a named client quote praising communication and transparency.
+reuse-notes: Verbatim past-performance content. Confirm reference contact (Mike Tehada) is still current before reuse; verify "2005 – Ongoing" contract status and whether a more recent annual chemical-savings figure supersedes the $147,000 figure. Register each quantified outcome in proof-points/registry.md and cite the registry id when the figures are used.
 ---
 
 # Turlock Zero Liquid Discharge Facility O&M

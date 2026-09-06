@@ -1,0 +1,582 @@
+[
+  {
+    "claim": "Nathan Callison has 14 years of wastewater industry experience",
+    "number": "14",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 69,
+    "para": 4,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "other"
+  },
+  {
+    "claim": "Southbridge WWTP O&M contract term managed by Nathan Callison",
+    "number": "5",
+    "unit": "years",
+    "as_of": "2025",
+    "page": 69,
+    "para": 8,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Southbridge WWTP treatment capacity",
+    "number": "3.77",
+    "unit": "MGD",
+    "as_of": "2025",
+    "page": 69,
+    "para": 8,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Southbridge collection system length",
+    "number": "48",
+    "unit": "miles",
+    "as_of": "2025",
+    "page": 69,
+    "para": 8,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Southbridge lift stations operated",
+    "number": "11",
+    "unit": "lift stations",
+    "as_of": "2025",
+    "page": 69,
+    "para": 8,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Successful transition of Southbridge WWTP from the previous contractor",
+    "number": "February 1, 2025",
+    "unit": "date",
+    "as_of": "2025-02-01",
+    "page": 69,
+    "para": 8,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Staff overseen at South Huron Valley Utility Authority WWTP (five operators, a lab supervisor, and a lab tech)",
+    "number": "7",
+    "unit": "staff",
+    "as_of": "unknown",
+    "page": 69,
+    "para": 9,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "South Huron Valley Utility Authority WWTP average flow",
+    "number": "8",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 69,
+    "para": 9,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "South Huron Valley Utility Authority WWTP wet weather flow capability",
+    "number": "70",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 69,
+    "para": 9,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Lystek thermo hydrolysis project implemented at SHVUA — first biosolids handling process of its kind in Michigan",
+    "number": "5",
+    "unit": "million USD",
+    "as_of": "unknown",
+    "page": 69,
+    "para": 9,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Capital improvement project at SHVUA for which Nathan Callison managed operational adjustments and workarounds",
+    "number": "25",
+    "unit": "million USD",
+    "as_of": "unknown",
+    "page": 69,
+    "para": 9,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Grand Traverse Regional WWTP (membrane bioreactor) average flow",
+    "number": "5.5",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 2,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Grand Traverse Regional WWTP wet weather flow",
+    "number": "15",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 2,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Zeeweed membrane cassette pore size maintained and recovery-cleaned at Grand Traverse Regional WWTP",
+    "number": "0.4",
+    "unit": "micron",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 2,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "other"
+  },
+  {
+    "claim": "Chlorine cylinders handled at City of Midland WWTP",
+    "number": "2,000",
+    "unit": "pounds",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 4,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "other"
+  },
+  {
+    "claim": "Municipal wastewater facilities operated at Villages of Suttons Bay and Northport",
+    "number": "2",
+    "unit": "facilities",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 5,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Lift stations operated at Villages of Suttons Bay and Northport",
+    "number": "3",
+    "unit": "lift stations",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 5,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Residential grinder pump systems operated at Villages of Suttons Bay and Northport",
+    "number": "120",
+    "unit": "grinder pump systems",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 5,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Suttons Bay Class B Extended Aeration Treatment Plant capacity",
+    "number": "0.300",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 5,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Northport WWTP moving bed biofilm reactor (MBBR) plant capacity range",
+    "number": "0.04-0.100",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 70,
+    "para": 5,
+    "block": "wiki/resumes/nathan-callison.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Anthony “Tony” Rose total experience",
+    "number": "18",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 71,
+    "para": 11,
+    "block": "wiki/resumes/anthony-rose.md",
+    "category": "other"
+  },
+  {
+    "claim": "Southbridge WWTP O&M contract term supported by Anthony Rose",
+    "number": "5",
+    "unit": "years",
+    "as_of": "2025",
+    "page": 71,
+    "para": 8,
+    "block": "wiki/resumes/anthony-rose.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Southbridge WWTP treatment capacity",
+    "number": "3.77",
+    "unit": "MGD",
+    "as_of": "2025",
+    "page": 71,
+    "para": 8,
+    "block": "wiki/resumes/anthony-rose.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Southbridge collection system length",
+    "number": "48",
+    "unit": "miles",
+    "as_of": "2025",
+    "page": 71,
+    "para": 8,
+    "block": "wiki/resumes/anthony-rose.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Southbridge lift stations",
+    "number": "11",
+    "unit": "lift stations",
+    "as_of": "2025",
+    "page": 71,
+    "para": 8,
+    "block": "wiki/resumes/anthony-rose.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Transition from the previous contractor at Southbridge WWTP",
+    "number": "February 1, 2025",
+    "unit": "date",
+    "as_of": "2025-02-01",
+    "page": 71,
+    "para": 8,
+    "block": "wiki/resumes/anthony-rose.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Mike Boven total experience",
+    "number": "31",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 72,
+    "para": 4,
+    "block": "wiki/resumes/mike-boven.md",
+    "category": "other"
+  },
+  {
+    "claim": "West Basin Municipal Water District reuse system transitioned to Jacobs",
+    "number": "30-40",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 72,
+    "para": 7,
+    "block": "wiki/resumes/mike-boven.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Town of Goderich surface water treatment facility capacity transitioned to Jacobs",
+    "number": "3.1",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 72,
+    "para": 8,
+    "block": "wiki/resumes/mike-boven.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Town of Goderich wastewater treatment plant capacity transitioned to Jacobs",
+    "number": "2.0",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 72,
+    "para": 8,
+    "block": "wiki/resumes/mike-boven.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Santa Monica SWIP reuse facility capacity transitioned to Jacobs",
+    "number": "1.5",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 72,
+    "para": 9,
+    "block": "wiki/resumes/mike-boven.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Municipal wastewater recycled by the Santa Monica SWIP advanced water reuse facility",
+    "number": "1.0",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 72,
+    "para": 9,
+    "block": "wiki/resumes/mike-boven.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Stormwater, urban runoff, and brackish groundwater treated by Santa Monica SWIP for beneficial reuse",
+    "number": "0.5",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 72,
+    "para": 9,
+    "block": "wiki/resumes/mike-boven.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Kevin Dahl total experience",
+    "number": "26",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 73,
+    "para": 12,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "other"
+  },
+  {
+    "claim": "Associates managed by Kevin Dahl at the Norwalk WWTP and collection system contract",
+    "number": "25",
+    "unit": "associates",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 8,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "scale"
+  },
+  {
+    "claim": "City of Waterbury wastewater O&M agreement term",
+    "number": "10",
+    "unit": "years",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 9,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Waterbury activated sludge facility capacity",
+    "number": "27",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 9,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Waterbury sewer collection system length",
+    "number": "310",
+    "unit": "miles",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 9,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Waterbury pump stations operated",
+    "number": "20",
+    "unit": "pump stations",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 9,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Waterbury wet weather flows",
+    "number": "70",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 9,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Waterbury phosphorus upgrade (tertiary filtration and permanent chemical addition) supported by Jacobs",
+    "number": "25",
+    "unit": "million USD",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 9,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "financial"
+  },
+  {
+    "claim": "West Haven WWTP upgrade including IFAS technology for enhanced nutrient removal",
+    "number": "40",
+    "unit": "million USD",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 10,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "financial"
+  },
+  {
+    "claim": "West Haven full-service O&M contract term",
+    "number": "15",
+    "unit": "years",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 10,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "West Haven municipal WWTP capacity",
+    "number": "12.5",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 10,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "scale"
+  },
+  {
+    "claim": "West Haven sanitary sewer length",
+    "number": "140",
+    "unit": "miles",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 10,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "scale"
+  },
+  {
+    "claim": "West Haven sewage pump stations",
+    "number": "13",
+    "unit": "pump stations",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 10,
+    "block": "wiki/resumes/kevin-dahl.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Scott Mangold total experience",
+    "number": "12",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 74,
+    "para": 12,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "other"
+  },
+  {
+    "claim": "Southbridge WWTP O&M contract term for which Scott Mangold led startup and regional oversight",
+    "number": "5",
+    "unit": "years",
+    "as_of": "2025",
+    "page": 74,
+    "para": 8,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Southbridge WWTP treatment capacity",
+    "number": "3.77",
+    "unit": "MGD",
+    "as_of": "2025",
+    "page": 74,
+    "para": 8,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Southbridge collection system length",
+    "number": "48",
+    "unit": "miles",
+    "as_of": "2025",
+    "page": 74,
+    "para": 8,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Southbridge lift stations",
+    "number": "11",
+    "unit": "lift stations",
+    "as_of": "2025",
+    "page": 74,
+    "para": 8,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Successful transition of Southbridge WWTP from the previous contractor",
+    "number": "February 1, 2025",
+    "unit": "date",
+    "as_of": "2025-02-01",
+    "page": 74,
+    "para": 8,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "City of Waterbury wastewater O&M agreement term (Scott Mangold as Startup Manager)",
+    "number": "10",
+    "unit": "years",
+    "as_of": "unknown",
+    "page": 74,
+    "para": 9,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Waterbury activated sludge facility capacity",
+    "number": "27",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 74,
+    "para": 9,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Waterbury sewer collection system length",
+    "number": "310",
+    "unit": "miles",
+    "as_of": "unknown",
+    "page": 74,
+    "para": 9,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Waterbury pump stations",
+    "number": "20",
+    "unit": "pump stations",
+    "as_of": "unknown",
+    "page": 74,
+    "para": 9,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Waterbury wet weather flows",
+    "number": "70",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 74,
+    "para": 9,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Waterbury phosphorus upgrade including tertiary filtration and permanent chemical addition",
+    "number": "25",
+    "unit": "million USD",
+    "as_of": "unknown",
+    "page": 74,
+    "para": 9,
+    "block": "wiki/resumes/scott-mangold.md",
+    "category": "financial"
+  }
+]

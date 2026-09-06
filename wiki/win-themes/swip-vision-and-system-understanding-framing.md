@@ -1,29 +1,48 @@
 ---
-title: Executive Summary Opening — Client's Vision, System Understanding, and Process-Flow Graphic
+title: Executive Summary Opening — Client Vision, Integrated Reuse System Understanding, and DPR Pathway
 category: win-themes
-tags: [executive-summary, opening-hook, win-theme, system-understanding, dpr-readiness, process-flow-diagram, benefits-callout]
+block-type: prose
+tags: [executive-summary, opening-hook, win-theme, system-understanding, dpr-readiness, direct-potable-reuse, process-flow-diagram, benefits-callout, water-reuse]
 source: santamonica-swip-om-2025
-source-section: "Executive Summary (pp. 6-14), section opener naming the client's system and DPR vision"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "Executive Summary — Client's Vision for the Program and DPR"
+source-pages: [6]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0006.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0006.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0006.md#¶7", "verbatim/santamonica-swip-om-2025/pages/p0006.md#¶10"]
+pursuit-type: [reuse-dpr, water-treatment, stormwater]
+client-type: municipal
+client-size: "Underground advanced water treatment facility (blended wastewater + stormwater), urban runoff recycling facility, stormwater diversions/lift stations, coastal pump station, 2 groundwater injection wells"
+geography: "Southern California / CA / SWRCB Division of Drinking Water — Title 22 GRRP, State Board Orders R4-2021-0044 and R4-2023-0366"
+rfp-section-type: [exec-summary]
+win-theme-map: [compliance-leadership, innovation-value-add, partner-transparency, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: A concise executive-summary opener that names every major system asset by acronym before making any claims, demonstrating command of the client's specific integrated water-reuse system, then translates that understanding into a simple five-step process-flow graphic and a client-facing "so what" benefits callout — a strong pattern for any advanced-treatment/reuse pursuit where the evaluator wants proof the firm understands the whole system, not just the headline facility
-reuse-notes: The asset inventory (facility names/acronyms), regulatory citations, and the process-flow steps must be rebuilt from the target system's real configuration; do not reuse SWIP/AWTF/GRRP/SMURRF asset names for a different client's system
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: A concise executive-summary opener that names every major system asset before making a single claim, then converts that understanding into a compliance commitment tied to specific State Board Orders and a five-step process-flow graphic ending in a "future" DPR arrow — the strongest available pattern for proving command of a whole integrated reuse system rather than just the headline plant.
+reuse-notes: Facility acronyms, well IDs, State Board Order numbers, and treatment-train steps must be rebuilt from the target system's real configuration; the "name every asset, then name the challenges you already see" opening move is the transferable part.
 ---
 
-# Executive Summary Opening — Client's Vision, System Understanding, and Process-Flow Graphic
+# Executive Summary Opening — Client Vision, System Understanding, and DPR Pathway
 
-**Section header:** "[CLIENT]'s Vision for [PROJECT] and DPR"
+## [CLIENT]'s Vision for the Program and DPR
 
-**Paragraph 1 — demonstrate command of the full system, not just the headline plant.** Open with "Jacobs understands the [client]'s integrated water-reuse system and what success will look like for [CLIENT]." Then, in one dense sentence, name every major asset in the system and how it fits together: "[PROJECT] centers on an underground Advanced Water Treatment Facility (AWTF) that treats blended sources (wastewater and stormwater) and supports the Groundwater Replenishment Reuse Project (GRRP) via injection wells [well IDs]—while the [urban runoff recycling facility], stormwater diversions/lift stations, and [pump station name] round out the [PROJECT] infrastructure portfolio." Follow with the client's stated goals in a single sentence: "reliable Product Water to GRRP, seawater-intrusion protection, transparent key performance indicator (KPI) reporting, and a practical pathway to Direct Potable Reuse (DPR)." Close the paragraph by naming the operational "key challenges" the proposer has identified: e.g., documenting SCADA/OT baselines, tightening alarm/remote response, sustaining wet-weather readiness, preserving legacy-asset condition while upgrades proceed, and coordinating well performance monitoring as injection commences — all "under Title 22/GRRP and State Board Orders."
+Jacobs understands the [CLIENT]'s integrated water-reuse system and what success will look like for [CLIENT], a Southern California coastal municipality. The sustainable water infrastructure program centers on an underground Advanced Water Treatment Facility (AWTF) that treats blended sources (wastewater and stormwater) and supports the Groundwater Replenishment Reuse Project (GRRP) via injection wells SM-10i and SM-11i—while the urban runoff recycling facility, stormwater diversions/lift stations, and the coastal pump station round out the program's infrastructure portfolio. The [CLIENT]'s goals include: reliable Product Water to GRRP, seawater-intrusion protection, transparent key performance indicator (KPI) reporting, and a practical pathway to Direct Potable Reuse (DPR). Key challenges will include documenting SCADA/OT baselines, tightening alarm/remote response, sustaining wet-weather readiness, preserving the runoff recycling facility's assets while upgrades proceed, and coordinating well performance monitoring as injection commences—all under Title 22/GRRP and State Board Orders.
 
-**Paragraph 2 — commit to the mission and name the compliance and reference-document anchors.** "Jacobs will operate the [CLIENT]'s underground AWTF and associated [PROJECT] assets to reliably produce Product Water today while positioning [CLIENT] to lead on DPR tomorrow. We will run the full [treatment train, e.g., screening/MBR → cartridge filter → RO → UV-AOP] to permit compliance, protect GRRP objectives, and maintain transparent performance trending for [CLIENT] leadership. Our team will operate to [State Board Order numbers] and Title 22 GRRP requirements, consistent with the [PROJECT] Engineering Report, so the [client] will advance aquifer replenishment, seawater-intrusion control, and long-term water independence."
+Jacobs will operate the [CLIENT]'s underground AWTF and associated program assets to reliably produce Product Water today while positioning [CLIENT] to lead on DPR tomorrow. We will run the full screening/MBR → cartridge filter → RO → UV-AOP train to permit compliance, protect GRRP objectives, and maintain transparent performance trending for [CLIENT] leadership. Our team will operate to State Board Orders R4-2021-0044 and R4-2023-0366 and Title 22 GRRP requirements, consistent with the program Engineering Report, so the [CLIENT] will advance aquifer replenishment, seawater-intrusion control, and long-term water independence.
 
-**Sub-header + five-icon process-flow graphic:** "Jacobs Understands [CLIENT]'s System and Goals" — a simple horizontal icon chain: Wastewater/Stormwater → AWTF → GRRP Injection Wells → Aquifer → *(labeled "FUTURE")* → DPR. (See graphic asset `153_008A26`.) This graphic is a strong reusable device for any reuse-train pursuit: it converts a paragraph of technical description into one glanceable image showing "where we are today" (solid arrows) vs. "where the client is headed" (a distinctly styled "future" arrow into DPR).
+**Sub-header and five-icon process-flow graphic (asset `153_008A26`), "Jacobs Understands [CLIENT]'s System and Goals":** Wastewater/Stormwater → AWTF → GRRP Injection Wells → Aquifer → *(labeled FUTURE)* → DPR.
 
-**Pull-quote beneath the graphic:** *"As your committed partner, we will operate and maintain the [client]'s facilities to **meet and exceed** permit compliance and deliver transparent, reliable performance while protecting GRRP objectives and supporting future ready DPR."*
+**Pull-quote beneath the graphic:** *"As your committed partner, we will operate and maintain the [CLIENT]'s facilities to meet and exceed permit compliance and deliver transparent, reliable performance while protecting GRRP objectives and supporting future ready DPR."*
 
-**"Benefits to [Client]" callout (first instance of a recurring device used throughout the section):** a orange-starred, boxed, italicized one- or two-sentence translation of the preceding content into client-facing "so what" language. First instance: *"Clear path to DPR readiness; dependable Product Water for GRRP; simple, real-time dashboards that show how [PROJECT] is performing against permit limits and key performance targets—so leaders can act early and confidently."*
+**Benefits to [CLIENT] callout (first instance of a boxed, orange-starred device repeated throughout the section):** *"Clear path to DPR readiness; dependable Product Water for GRRP; simple, real-time dashboards that show how the program is performing against permit limits and key performance targets—so leaders can act early and confidently."*
 
 ## Reuse guidance
 
-Universal: the "name every asset by acronym before making a claim" opening technique (it signals the proposer actually read the engineering report rather than writing generic O&M boilerplate), the two-paragraph structure (system understanding → compliance commitment), the five-icon process-flow graphic concept for any multi-stage treatment/reuse train, and the repeating "Benefits to [Client]" boxed-callout device (reuse throughout the section — see other blocks in this source range that each end with their own instance). Pursuit-specific: every facility name/acronym, regulatory order number, well ID, and treatment-train step must be replaced with the target system's actual configuration — do not reuse AWTF/GRRP/SMURRF/SM-10i/SM-11i naming for a different client's assets. Pair with `swip-om-qualifications-proof-points.md`, which follows immediately and pivots from "we understand your system" to "here is why we're qualified to run it."
+Universal: the opening technique of naming every major asset and how it connects before making any capability claim; the follow-on sentence that lists the client's own stated goals back to them; the closing sentence of paragraph one that names the operational challenges the proposer has already identified (this is what separates a read-the-engineering-report opener from generic O&M boilerplate); the two-paragraph structure of system understanding → compliance commitment anchored to named permit instruments; the horizontal process-flow icon chain with a distinctly styled "future" arrow; and the recurring boxed "Benefits to [CLIENT]" callout device.
+
+Pursuit-specific: every facility name and acronym, well ID (SM-10i/SM-11i), State Board Order number, and treatment-train step must be replaced with the target system's actual configuration. Pairs with [swip-om-qualifications-proof-points.md](swip-om-qualifications-proof-points.md), which follows immediately and pivots from "we understand your system" to "here is why we are qualified to run it." Read `verbatim/santamonica-swip-om-2025/pages/p0006.md` for the full passage as delivered.

@@ -1,11 +1,28 @@
 ---
 title: "Resume — Anthony \"Tony\" Rose (Assistant Project Manager)"
 category: resumes
+block-type: prose
 tags: [resume, assistant-project-manager, wastewater-operations, massachusetts-license, rhode-island-license, electrical-certification]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, p. 71 (A-3)"
-context: Proposed as Assistant Project Manager for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026).
-sanitized: false
+source-pages: [71]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0071.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0071.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0071.md#¶9"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD WWTF / 42 mi collection system / coastal town"
+geography: "Northeast / MA / MassDEP + EPA Region 1"
+rfp-section-type: [resume]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+win-theme-map: [regional-bench, transition-continuity, compliance-leadership]
+context: Proposed as Assistant Project Manager. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Assistant Project Manager; direct-parallel experience supporting the same Southbridge, MA O&M transition referenced by the Project Manager and Regional Operations Manager resumes.
 reuse-notes: "VERBATIM — real name and license info; no phone/email is given in the source resume (not a cover-letter signatory). Before reuse on a new pursuit: (1) confirm Anthony Rose is still employed by Jacobs and still holds this role/title; (2) verify the MA and RI wastewater operator grades and the NFPA 70E electrical certification are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit."
 ---

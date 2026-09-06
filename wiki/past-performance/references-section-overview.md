@@ -1,13 +1,30 @@
 ---
-title: References Section Overview — SWIP Operations RFP (Santa Monica, 2025)
+title: References Section Overview — Advanced Water Treatment O&M Portfolio Framing
 category: past-performance
-tags: [references-overview, west-basin, soquel-creek, turlock, clovis, portfolio-summary]
+block-type: prose
+tags: [references-overview, west-basin, soquel-creek, turlock, clovis, portfolio-summary, water-reuse, reference-project]
 source: santamonica-swip-om-2025
-source-section: "2.3 References (p. 21)"
-context: Southern California sustainable water infrastructure O&M, 2025
-sanitized: false
-quality: Verbatim references-section framing paragraph that ties together the four detailed reference sheets that follow; useful as a model for how to introduce a references section with a one-paragraph-per-reference summary.
-reuse-notes: This is verbatim, pursuit-specific text (real client name "Santa Monica" retained per past-performance policy). Not for direct drop-in reuse in another pursuit's proposal — use as a structural pattern (short summary paragraph per reference, tying to the pursuit's own facility needs) rather than verbatim content.
+source-section: "2.3 References"
+source-pages: [21]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0021.md#¶3"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "Portfolio framing: 40 MGD + 2.8 MGD + 1.3 MGD + 0.75 MGD reference facilities"
+geography: "West / CA / SWRCB Title 22, NPDES"
+rfp-section-type: [past-performance]
+win-theme-map: [regional-bench, compliance-leadership, innovation-value-add, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Verbatim references-section framing paragraph that ties together the four detailed reference sheets that follow; a working model for how to introduce a references section with a one-paragraph-per-reference summary and a closing relevance tie-back to the pursuing client.
+reuse-notes: Verbatim past-performance content — real client names retained per wiki policy. Swap the four summarized references for the 3-5 most technically and geographically relevant to the new RFP, and rewrite the closing sentence to name the new client. Keep the structure: client, facility, key technology, relevance.
 ---
 
 # References Section Overview (Santa Monica SWIP Operations RFP, 2025)

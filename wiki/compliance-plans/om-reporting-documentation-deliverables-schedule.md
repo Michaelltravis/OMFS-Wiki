@@ -1,63 +1,90 @@
 ---
 title: O&M Reporting and Documentation Deliverables Schedule
 category: compliance-plans
-tags: [reporting, deliverables, qa-qc, regulatory-compliance, documentation, monthly-reporting, cip, sop]
+block-type: prose
+tags: [reporting, deliverables, qa-qc, regulatory-compliance, documentation, monthly-reporting, cip, sop, transition-plan]
 source: hull-wwtf-om-2026
-source-section: "Section 5, Project Understanding and Technical Approach (p. 43)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 5, Project Understanding and Technical Approach — Required Documentation Delivery (p. 43)"
+source-pages: [49]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0049.md#¶2"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi / ~10k pop"
+geography: "Northeast / MA / MassDEP + EPA Region 1"
+rfp-section-type: [transition]
+win-theme-map: [partner-transparency, compliance-leadership, transition-continuity]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: comprehensive, well-organized deliverables checklist spanning ongoing/monthly/annual/one-time/event-driven cadences — directly usable as an O&M plan appendix skeleton
-reuse-notes: replace the state environmental agency and EPA region placeholders with the target facility's actual regulators; adjust timeframes (24-hour notice, 4-hour notification, etc.) only if the pursuit's permit requires different windows
+reuse-notes: replace the bracketed state environmental agency with the target facility's actual regulator; confirm every window (24-hour, 4-hour, 5-day, 60-day, 90/120-day, 5-year diffuser cycle) against the pursuit's own NPDES permit and contract before reuse
 ---
 
 # O&M Reporting and Documentation Deliverables Schedule
 
-Required documentation and reporting deliverables are identified up front and developed, finalized, and implemented during transition. These are treated as living documents maintained throughout the contract term, organized into five cadences:
+## Required Documentation Delivery
 
-**Day-to-Day / Ongoing**
-- 24/7 O&M, monitoring, and emergency response
-- Daily performance evaluation
-- Records/data management
-- Remote SCADA/process access
-- Record drawings and equipment inventory
-- Permit/report management
+We have identified the required documentation and will develop, finalize, and implement these deliverables during Transition. These living documents will be maintained throughout the contract, consistent with our Transition approach described in the Transition subsection. All identified deliverables are items we commonly produce for our O&M projects and will be included in our final O&M plan, along with their delivery schedule, as follows:
+
+**Day-to-Day/Ongoing**
+
+- 24/7 O&M, monitoring, emergency response, daily performance evaluation, records/data management, remote SCADA/process access, record drawings, equipment inventory, permit/report management
 
 **Monthly**
-- Written monthly report to the client, including at minimum: influent/effluent, process control, and discharge information; violations or near-exceedances; safety incidents; maintenance and repair work conducted; maintenance expenditures and M&R fund balances; WWTF power utilization (kWh/MG); significant and imminent significant events; and wastewater collection system activity
-- Monthly reports from the process-control/CMMS system, in sufficient detail for the client
+
+- Written monthly report to [CLIENT], including, at a minimum:
+  - Influent/effluent, process control, and discharge information
+  - Violations or near-exceedances
+  - Safety incidents
+  - Maintenance and repair work conducted
+  - Maintenance expenditures and M&R fund balances
+  - WWTF power utilization in kWh/MG
+  - Significant and imminent significant events
+  - Wastewater collection system activity
+- Monthly reports from the process-control/CMMS system, in sufficient detail for [CLIENT]
 - Monthly billing/financial reporting
 
 **Annual**
-- Staffing and organizational structure
-- Recommended capital improvements or operational changes, as appropriate
-- 5-year CIP and annual updates, as appropriate
 
-**One-Time / Startup Deliverables**
-- Transition plan (before/at commencement)
+- Staffing and organizational structure
+- Recommended capital improvements or operational changes as appropriate
+- 5-year CIP and annual updates as appropriate
+
+**One-Time/Startup Deliverables**
+
+- Transition Plan (before/at Commencement)
 - Initial asset condition assessment
 - 5-year CIP
-- Cybersecurity plan
-- Site security plan/approach
-- Site-specific odor control plan
-- Storm preparation plan
+- Cybersecurity Plan
+- Site Security Plan / Approach
+- Site-Specific Odor Control Plan
+- Storm Preparation Plan
 - Emergency response protocol
-- O&M plan
-- Implementation of process-control data management system and CMMS (within a defined period, e.g., 120 days)
-- Initial physical inventory of spare parts, materials, and supplies (within a defined period, e.g., 90 days)
+- O&M Plan
+- Implementation of process-control data management system and CMMS (within 120 days)
+- Initial physical inventory of spare parts, materials, and supplies (within 90 days)
 
-**As Needed / Event-Driven / Periodic**
-- Update O&M manuals, as required
+**As Needed/Event-Driven/Periodic Based on Requirements**
+
+- Update O&M Manuals, as required
 - Update SOPs, including high-flow management plan and pump station bypassing procedures
 - Maintain contingency plans for treatment processes and collection system operations, including storm and high-flow events
-- Perform inflow/infiltration (I/I) tracking investigations
+- Perform I/I tracking investigations
 - Prepare and submit all regulatory reports in accordance with required schedules and events
 - Develop and maintain emergency response, hazardous materials, and OSHA programs in compliance with applicable requirements
 - Respond to odor complaints as they occur
-- Issue public notice within a defined window (e.g., 24 hours) of unauthorized discharges, as required
-- Notify downstream water systems within a defined window (e.g., 4 hours) of qualifying emergency conditions, with written follow-up within a set number of days
-- Perform effluent diffuser inspection and video survey on a periodic cycle (e.g., every 5 years, first within 12 months of permit authorization)
-- Submit diffuser inspection reports to [EPA REGION] and [STATE ENVIRONMENTAL AGENCY] within a defined window (e.g., 60 days) of each inspection
+- Issue public notice within 24 hours of unauthorized discharges, as required
+- Notify downstream water systems within 4 hours of qualifying emergency conditions, with written follow-up within 5 days
+- Perform effluent diffuser inspection and video survey every 5 years (first within 12 months of permit authorization)
+- Submit diffuser inspection report to EPA and [STATE ENVIRONMENTAL AGENCY] within 60 days of each inspection
 
 ## Reuse guidance
 
-This is a near-complete, ready-to-adapt skeleton for an O&M plan's "required documentation" or "reporting and deliverables" section/appendix. Replace bracketed regulatory-agency placeholders with the target facility's actual state environmental agency and EPA region, and confirm all numeric windows (24-hour, 4-hour, 60-day, 90/120-day, 5-year diffuser cycle) against the specific pursuit's NPDES permit and contract terms rather than assuming they transfer as-is. Pairs well with the CMMS/asset-management block (CMMS implementation timeline) and the emergency-response block (storm/high-flow SOP references).
+This is a near-complete, ready-to-adapt skeleton for an O&M plan's "required documentation" or "reporting and deliverables" section or appendix, and it doubles as a compliance-matrix answer for RFPs that list reporting obligations item by item. Universal: the five-cadence structure (ongoing / monthly / annual / one-time startup / event-driven) and the monthly report contents, which map directly to what municipal boards and commissions expect to see. Pursuit-specific: the regulator names, the diffuser-inspection item (marine outfall facilities only), the M&R fund reference, and every numeric window — confirm each against the target permit and contract rather than assuming they transfer. Pairs with [Transition Readiness, Training, and Day-One Compliance Assurance](transition-readiness-training-day-one-compliance.md) (these deliverables are produced during transition), [../technical-approach/cmms-driven-asset-management-maintenance-program.md](../technical-approach/cmms-driven-asset-management-maintenance-program.md) (CMMS and spare-parts inventory milestones), and [../management-staffing/wastewater-om-transition-plan-mobilization.md](../management-staffing/wastewater-om-transition-plan-mobilization.md) (the Transition Plan is itself a listed one-time deliverable). Full passage: `verbatim/hull-wwtf-om-2026/pages/p0049.md`.

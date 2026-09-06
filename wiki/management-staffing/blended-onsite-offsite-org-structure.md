@@ -1,70 +1,67 @@
 ---
 title: Blended On-Site/Off-Site Organizational Structure for O&M Contracts
 category: management-staffing
+block-type: prose
 tags: [org-chart, staffing-structure, onsite-offsite, leadership-model, matrix-support, culture-driven-leadership, fte-roster, value-proposition]
 source: hull-wwtf-om-2026
-source-section: "Section 4 - Project Staffing and Project Management Plan (pp. 14-15)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 4 - Project Staffing and Project Management Plan"
+source-pages: [19, 23]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0019.md#¶3", "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶11", "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶18", "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶18"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi collection system"
+geography: "Northeast / MA / MassDEP + EPA Region 1 NPDES"
+rfp-section-type: [staffing]
+win-theme-map: [regional-bench, partner-transparency, compliance-leadership, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Clean articulation of a two-tier staffing model (dedicated on-site team backed by an off-site regional/technical bench) with a clear line-of-authority narrative — reusable as the framing for any org-chart section, independent of facility size.
 reuse-notes: FTE counts, role titles, and the reporting line into the client's Director of Wastewater Operations are pursuit-specific; the two-tier framing (dedicated on-site accountability + regional technical reach-back) and the benefit language are broadly reusable.
 ---
 
 # Blended On-Site/Off-Site Organizational Structure for O&M Contracts
 
-## Approach
+## Culture-Driven Leadership
 
-[CLIENT], a coastal New England community of approximately 10,000 residents, is selecting a long-term O&M partner responsible for protecting public health, maintaining regulatory compliance, and supporting a highly visible community. The staffing approach combines **experienced on-site leadership, clear accountability, and unmatched regional technical support** to efficiently run the on-site team and deliver reliable, compliant, and responsive operations from Day 1.
+At Jacobs, we recognize [CLIENT], a coastal New England community, is selecting a long-term partner responsible for protecting public health, maintaining regulatory compliance, and supporting a highly visible coastal community. Our approach combines **experienced on-site leadership, clear accountability, and unmatched regional technical support to efficiently support our on-site team and deliver reliable, compliant, and responsive operations from Day 1**.
 
-The leadership team is structured in two tiers:
+Jacobs will deliver this through a leadership team that aligns with [CLIENT]'s values and priorities. **Regional Operations Manager Scott Mangold, Project Manager Nathan Callison, and Assistant Project Manager Tony Rose** provide the experience, stability, and day-to-day leadership needed to successfully operate the WWTF and collection system.
 
-- **Dedicated on-site personnel** (shown as the "onsite team" tier of the org chart) — the full-time [PROJECT MANAGER], [ASSISTANT PROJECT MANAGER], and operations/maintenance/collections technicians who provide daily, on-the-ground accountability for the facility and collection system.
-- **Off-site regional management and subject matter experts** (shown as the "offsite support" tier) — a [REGIONAL DIRECTOR OF OPERATIONS], [REGIONAL OPERATIONS MANAGER], and a bench of regional technical specialists who provide oversight, specialized expertise, and surge capacity without adding to the client's daily headcount.
+Together, Scott, Nathan, and Tony cultivate a **stable, motivated, and engaged team** that supports [CLIENT]'s priorities for **long-term staffing continuity and operational resiliency**. This leadership structure delivers a **strong on-site presence backed by regional expertise** to maintain consistent, high-quality operations.
 
-Together, this leadership group cultivates a **stable, motivated, and engaged team** that supports the client's priorities for long-term staffing continuity and operational resiliency. The structure delivers a **strong on-site presence backed by regional expertise**, giving the client direct access to specialized support in process optimization, compliance, asset management, and emergency response, so issues are addressed quickly and operations continue without disruption.
+This structure gives [CLIENT] **direct access to specialized expertise** in process optimization, compliance, asset management, and emergency response, ensuring issues are addressed quickly and operations continue without disruption.
 
-## Organization Chart Content and Purpose
+## Organization Chart
 
-The organization chart should clearly delineate **lines of responsibility, authority, and reporting**. A standard convention: dedicated on-site personnel shown in one color/box style, off-site regional management and SMEs shown in a contrasting style, so the staffing structure is transparent to the evaluator at a glance. The chart should show the reporting relationship into the client's own facility/utility leadership (e.g., a Director of Wastewater Operations or Assistant Director of Public Works) at the top, followed by a Client Service Manager or equivalent account-level contact, then the on-site Project Manager and team, with a parallel branch for regional/technical support.
+**Exhibit 4-1** presents our proposed organization chart, clearly delineating **lines of responsibility, authority, and reporting**. Dedicated on-site personnel are shown in blue boxes, while off-site regional management and SMEs are shown in gray boxes, providing transparency in staffing structure. This structure ensures **adequate staffing of the facilities, supports day-to-day operations, and maintains compliance** with NPDES permit requirements and applicable state regulations while meeting the operational needs of the facilities.
 
-This structure is designed to ensure **adequate staffing of the facility, support day-to-day operations, and maintain compliance** with applicable permit and state regulatory requirements while meeting the operational needs of the facility.
+Related graphic: `100_0091KO6_11` (Exhibit 4-1, Organizational chart) — see `wiki/graphics/hull-wwtf-om-2026.md`. Total onsite FTE count on the exhibit: 6.25.
 
-## Staffing Overview and Coverage (example framing)
+## Staffing Overview and Coverage
 
-A fully staffed team meeting treatment, collection system, and permit requirements typically includes:
+We will provide a fully staffed team to meet [CLIENT]'s treatment, collection system, and permit requirements, including:
 
-- A dedicated full-time Project Manager with on-site responsibility and authority
-- Certified operators providing daily plant coverage, process control, and compliance sampling
-- Experienced maintenance staff providing preventive and corrective maintenance, asset reliability, and emergency response
-- Skilled collections system technicians supporting inspection, cleaning, pump stations, and emergency response
+- **Dedicated full-time Project Manager** with on-site responsibility and authority
+- **Certified operators** providing daily plant coverage, process control, and compliance sampling
+- **Experienced maintenance staff** providing preventive and corrective maintenance, asset reliability, and emergency response
+- **Skilled collections system technicians** supporting inspection, cleaning, pump stations, and emergency response
 
-Staffing and shift coverage should be framed to meet all applicable discharge-permit requirements, support routine and wet-weather/high-flow operations, and maintain redundancy for absences while allowing resources to scale during storm events and high-flow conditions.
+Staffing and shift coverage meet all NPDES permit requirements, support routine and wet-weather operations, and maintain redundancy for absences while allowing resources to scale during storm events and high-flow conditions.
 
-## Example Onsite Team Roster (FTE Composition)
+## Closing Value Statement
 
-A concrete FTE breakdown, shown directly on the org-chart exhibit, gives evaluators an auditable staffing commitment rather than a general statement. Example composition for a small WWTF + collection system contract:
-
-| Onsite Role | FTE |
-|---|---|
-| Project Manager | 1.0 |
-| Assistant Project Manager | 1.0 |
-| Operations/Lab Technician | 1.0 |
-| Operations/Maintenance Technician | 1.0 |
-| Mechanic | 1.0 |
-| O&M/Collections Technician | 1.0 |
-| Intern/Seasonal O&M Technician | 0.25 |
-| **Total Onsite FTE** | **6.25** |
-
-The org chart should visually separate this roster from the off-site support tier using a two-column or two-color convention (e.g., "Onsite Team" vs. "Offsite Support" headers), consistent with the color-coding described above.
-
-## Closing Value Proposition
-
-A strong closing statement for a staffing/org-structure narrative ties the two-tier model back to outcomes the evaluator cares about: this staffing and management approach gives the client a **stable, accountable on-site team supported by deep technical resources**, ensuring reliable operations, consistent compliance, and the flexibility to respond to evolving system needs and community expectations.
-
-Related graphic: `100_0091KO6_11` (Exhibit 4-1, Organizational Chart) — see `wiki/graphics/hull-wwtf-om-2026.md`.
+This staffing and management approach provides [CLIENT] with a stable, accountable on-site team supported by deep technical resources, ensuring reliable operations, consistent compliance, and the flexibility to respond to evolving system needs and community expectations.
 
 ## Reuse guidance
 
-Universal: the two-tier on-site/off-site framing, the "clear accountability + regional reach-back" value proposition, the org-chart color-coding convention (onsite vs. offsite vs. key-personnel markers), and the staffing-overview bullet structure (PM, operators, maintenance, collections) are all directly reusable for any municipal WWTF/collection-system O&M pursuit.
+Universal: the two-tier on-site/off-site framing, the "clear accountability + regional reach-back" value proposition, the org-chart color-coding convention (blue on-site boxes vs. gray off-site boxes), the staffing-overview bullet structure (PM, operators, maintenance, collections), and the closing value statement are directly reusable for any municipal WWTF/collection-system O&M pursuit.
 
-Pursuit-specific: substitute actual FTE counts and role titles to match the proposed team size (this example used a 6.25 total on-site FTE count for a small facility, shown in the roster table above); confirm the client's own organizational title for the top-of-chart reporting line; adjust the technical-support-bench composition to match the pursuit's actual scope (e.g., omit biosolids or odor-control specialists if not applicable). Pair with `key-personnel-role-descriptions.md` and `regional-technical-support-bench.md` for the full staffing narrative.
+Pursuit-specific: substitute actual named leadership and FTE counts to match the proposed team (this pursuit proposed 6.25 total on-site FTE for a 3.07-MGD WWTF plus a 42-mile collection system); confirm the client's own organizational title for the top-of-chart reporting line. Pair with [proposed-team-org-chart-roster.md](proposed-team-org-chart-roster.md) for the chart's named positions and FTEs, [key-personnel-role-descriptions.md](key-personnel-role-descriptions.md) for the leadership bios, and [regional-technical-support-bench.md](regional-technical-support-bench.md) for the off-site tier. Full passage: `verbatim/hull-wwtf-om-2026/pages/p0019.md`.

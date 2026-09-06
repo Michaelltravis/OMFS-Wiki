@@ -1,74 +1,84 @@
 ---
-title: Key Personnel Role Descriptions — Project Manager, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager, Client Service Manager
+title: Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)
 category: management-staffing
+block-type: prose
 tags: [key-personnel, project-manager, regional-operations-manager, transition-manager, client-service-manager, role-description, qualifications, org-chart, team-overview]
 source: hull-wwtf-om-2026
-source-section: "Section 4 - Project Staffing and Project Management Plan (pp. 14-16)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 4 - Project Staffing and Project Management Plan"
+source-pages: [19, 20]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0020.md#¶2", "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶5", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶15", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶20", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶26", "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶31"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi collection system"
+geography: "Northeast / MA / MassDEP + EPA Region 1 NPDES"
+rfp-section-type: [staffing]
+win-theme-map: [regional-bench, compliance-leadership, transition-continuity, workforce-development, safety-culture]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
-quality: Well-differentiated role narratives that separate day-to-day site accountability from regional oversight and transition leadership; each includes a clear qualifications pattern (years of experience, certification types, functional focus) that reads as credible without being tied to a named individual.
-reuse-notes: Replace bracketed placeholders with the actual proposed individual's name/credentials once selected; years-of-experience figures are illustrative and should reflect the actual candidate. Trim roles that don't exist in a smaller or larger pursuit's proposed structure.
+sanitization-loss: low
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
+quality: Well-differentiated role narratives that separate day-to-day site accountability from regional oversight and transition leadership, each carrying real names, years of experience, licenses, and named relevant-experience projects — credible, paste-ready key-staff copy.
+reuse-notes: Confirm each named individual's current employment, assignment availability, and license currency before proposing them on a new pursuit. Trim roles that do not exist in a smaller or larger pursuit's proposed structure.
 ---
 
-# Key Personnel Role Descriptions
+# Key Staff and Management Team
 
 ## Team Overview
 
-Frame the proposed management team as the product of a thorough review of the client's facility and collection-system operations — a team assembled with the depth of experience, certifications, and leadership capability necessary to meet the client's operational and regulatory objectives. The team should bring proven expertise in wastewater operations, permit/regulatory compliance, asset management, and contract oversight, and be positioned to immediately address existing challenges while maintaining uninterrupted service and compliance.
+Based on our thorough review of [CLIENT]'s WWTF and collection system operations, we have assembled a **highly qualified management team** with the depth of experience, certifications, and leadership capability necessary to meet [CLIENT]'s operational and regulatory objectives. This team brings **proven expertise in wastewater operations, NPDES compliance, asset management, and contract oversight**, and is well prepared to **immediately address existing challenges while maintaining uninterrupted service and compliance**.
 
-Key staff should be presented as available to support the client during normal business hours and remain accessible during off-hours and emergency situations, ensuring responsive leadership and continuity of operations. Individual biographies for key staff (see reuse guidance below) should detail each person's defined role under the contract, professional licenses, operator certifications, specialized technical credentials, and relevant experience and commitment to the project.
+Our key staff are available to support [CLIENT] during normal business hours and remain **accessible during off-hours and emergency situations**, ensuring **responsive leadership and continuity of operations**. Biographies for our key staff and management team detail each individual's defined role under this contract, professional licenses, operator certifications, specialized technical credentials, and relevant experience and commitment to the project.
 
-## [CLIENT SERVICE MANAGER]
+## Nathan Callison, CRL, CMRT — Project Manager
 
-An account-level relationship role, distinct from day-to-day site leadership, typically shown near the top of the org chart as the client-facing point of contact alongside the Transition Manager and Regional Director of Operations. Core functions:
+Nathan serves as the **primary point of accountability for day-to-day management of the facilities** and the full-time on-site staff, providing consistent leadership presence and operational oversight for [CLIENT]. He brings **over 14 years of wastewater operations experience**, multiple operator certifications, and advanced credentials in reliability and maintenance (CRL, CMRT). As a certified instructor and Michigan Water Environment Association's Wastewater Educational Professional of the Year, Nathan mentors operators, strengthens workforce capabilities, and maintains the **high standards of regulatory compliance, safety, and operational excellence** expected by [CLIENT].
 
-- Leads pursuit strategy and client engagement for the O&M program.
-- Manages proposals, pricing strategies, and contract negotiations across the life of the relationship.
-- A strong candidate profile shows an extended career (25-30+ years) in client-facing account management for comparable municipal O&M programs.
+Full bio, licenses, and relevant experience: [../resumes/nathan-callison.md](../resumes/nathan-callison.md).
 
-## [PROJECT MANAGER]
+## Tony Rose — Assistant Project Manager
 
-Serves as the **primary point of accountability for day-to-day management of the facilities** and the full-time on-site staff, providing consistent leadership presence and operational oversight for the client. A strong candidate profile brings a decade or more of wastewater operations experience, multiple operator certifications, and advanced credentials in reliability and maintenance (e.g., Certified Reliability Leader, Certified Maintenance & Reliability Technician). Value-add differentiators to highlight:
+Tony supports daily execution at the facility reinforcing safety, housekeeping, communication, and responsiveness. His leadership is particularly important for managing **odor control, maintaining strong community relations, and supporting rapid response during wet-weather and coastal storm events**.
 
-- Acts as a certified instructor or contributes to industry education (e.g., teaching operator certification exam preparation courses through a state water/wastewater association), demonstrating a mentoring capability that strengthens workforce depth beyond this contract.
-- Mentors operators, strengthens workforce capabilities, and maintains the high standards of regulatory compliance, safety, and operational excellence expected by the client.
-- Relevant experience should be listed as 2-3 prior comparable engagements (facility type, client, role) to establish a track record of similar-scope O&M leadership.
+Tony is an experienced wastewater professional with 18 years in the field. His unique combination of leadership, problem solving, and broad technical skill base has enabled him to excel in his current role with Jacobs as an assistant project manager. Tony is committed to clean water, regulatory compliance, and 24/7 successful project operations.
 
-## [ASSISTANT PROJECT MANAGER]
+Licenses/Certifications: Grade 6C Wastewater Operator: MA; Grade 4 Wastewater Operator: RI.
 
-Supports daily execution at the facility, reinforcing **safety, housekeeping, communication, and responsiveness**. This role is particularly important for functions like odor control management, community relations, and rapid response during wet-weather and coastal storm events (or the region-appropriate equivalent extreme-weather condition). A strong candidate profile combines an extended operations career (10+ years) with a track record across multiple sites, positioning the person to excel at 24/7 operational reliability.
+Relevant Experience: Southbridge WWTP | Town of Southbridge, MA | Startup/Condition Assessment. Wastewater Treatment | City of Fall River, MA | Operations Technician.
 
-## [REGIONAL OPERATIONS MANAGER]
+## Scott Mangold, CRL — Regional Operations Manager
 
-Provides **regional oversight and supports team performance, safety, and culture**, ensuring alignment with corporate standards and the client's expectations. This role typically:
+Scott provides **regional oversight and supports team performance, safety, and culture**, ensuring alignment with Jacobs' standards and [CLIENT]'s expectations.
 
-- Establishes culture at newly awarded/transitioned projects through a frequent on-site presence.
-- Promotes the firm's health-and-safety program to prioritize team members' wellbeing.
-- Acts as a proactive listener, facilitating mentor relationships between the management team and staff, and recognizing staff accomplishments to build a "one team" mindset and culture of ownership.
-- Brings a decade or more of experience establishing operating cultures at newly awarded contracts, often across multiple regions/provinces.
+Scott has 12 years of experience establishing cultures at newly awarded projects in the Northeast and Canada. By providing a frequent on-site presence, he promotes Jacobs' BeyondZero℠ program to prioritize team members' health and safety. Scott is a proactive listener, facilitating mentor relationships between the management team and staff while establishing technical excellence. Through these relationships, he makes sure each staff member is recognized for their accomplishments and empowered to make the right decisions resulting in an ONE TEAM mindset and a culture of ownership.
 
-## [REGIONAL DIRECTOR OF OPERATIONS]
+Licenses/Certifications: CRL; US Compost Council Certified; CompTIA A+ Certification; Class I WWTP License: RI.
 
-A senior oversight role (typically a licensed Professional Engineer) responsible for operations, management, and engineering of wastewater treatment systems across a portfolio of public-agency and industrial clients. Core functions:
+Relevant Experience: Southbridge WWTP | Town of Southbridge, MA | Regional Manager / Startup Manager. Waterbury Wastewater System O&M | City of Waterbury, CT | Startup.
 
-- Project administration, process control analysis, personnel training, budgeting, and cost control across the regional portfolio.
-- Conducting operability reviews during planning and design to maximize O&M and energy-savings opportunities and reduce risk during construction, commissioning, and startup.
-- Familiarity with plant evaluations, personnel training/development, and emergency response procedures.
-- Experience managing industrial pretreatment programs (IPPs) where applicable.
-- A strong candidate profile shows 20+ years of experience and prior Project Manager or Transition/Regional Manager roles on comparable municipal systems.
+## Mike Boven — Transition Manager
 
-## [TRANSITION MANAGER]
+With 31 years of experience in water and wastewater operations, Mike is one of Jacobs' most seasoned managers, ensuring smooth transitions. He has successfully led numerous O&M contract transitions, providing continuity of service, staff retention, and system readiness from Day One. Mike has comprehensive experience and success in managing all aspects of business and is influential during operational transitions, strategic planning of growth and management, and finding new client opportunities. He will play a critical role in transitioning [CLIENT]'s operations, maintaining continuity, and leveraging the existing team's knowledge and experience.
 
-A specialized role (distinct from the steady-state Project Manager) responsible for **smooth O&M contract transitions**, providing continuity of service, staff retention, and system readiness from Day One. Core functions:
+Licenses/Certifications: Class S-1, D-1, F-3 Waterworks: MI; Class A, B, C, D, L1 and L2 Sewage Treatment Works: MI.
 
-- Comprehensive experience managing all aspects of a transition/mobilization: strategic planning, workforce readiness, and finding operational efficiencies.
-- Plays a critical role in transitioning the client's operations, maintaining continuity, and leveraging the incumbent team's existing knowledge and experience.
-- A strong candidate profile shows an extended career (25-30+ years) in water/wastewater operations with multiple named prior transition engagements (e.g., a municipal transition, a large reuse-facility transition) to establish transition-specific credibility, separate from routine O&M experience.
+Relevant Experience: Water/Wastewater Operations | Town of Goderich, ON | Transition Manager. Reuse Facility | West Basin Municipal Water District | Los Angeles, CA | Transition Manager.
+
+## Kevin Dahl, PE, CRL, CMRT — Regional Director of Operations
+
+Kevin has 26 years of experience in operations, management, and engineering of wastewater treatment systems for public agencies and industries. He has been involved in project administration, process control analysis, personnel training, budgeting, and cost control. Kevin is familiar with plant evaluations, personnel training and development, and emergency response procedures. His experience includes conducting operability reviews during planning and design to maximize opportunities for O&M and energy savings, and reduce risks during construction, commissioning, and startup. Kevin also brings experience managing industrial pretreatment programs (IPPs).
+
+Licenses/Certifications: Professional Engineer: CT; Wastewater Treatment Operator: CT, RI; CRL; CMRT; NEWEA Class IV Wastewater Collection Systems Operator.
+
+Relevant Experience: Norwalk WWTP | City of Norwalk, CT | Project Manager. Water and Wastewater System O&M | City of Waterbury, CT | Transition and Regional Manager.
 
 ## Reuse guidance
 
-Universal: the "Team Overview" framing (thorough-review-driven team assembly, availability during normal and off-hours/emergency situations) is a reusable lead-in for any Section 4-style key-staff narrative, regardless of pursuit size. The Client Service Manager role should only be included where the proposed structure has a distinct account-level/pursuit relationship contact separate from on-site and regional operations leadership; smaller pursuits may fold this responsibility into the Regional Director of Operations.
+Universal: the "Team Overview" framing (thorough-review-driven team assembly, availability during normal and off-hours/emergency situations) is a reusable lead-in for any Section 4-style key-staff narrative. The role differentiation logic — on-site day-to-day accountability (PM), daily execution and community-facing response (Assistant PM), regional oversight and culture (Regional Operations Manager), senior portfolio oversight (Regional Director of Operations), and transition-specific leadership (Transition Manager) — applies to any O&M staffing plan regardless of facility size. The bio pattern (years of experience + license list + two or three named relevant-experience engagements) is the reusable structure.
 
-Universal: the role differentiation logic (on-site day-to-day accountability vs. regional oversight vs. transition-specific leadership) and the qualifications-pattern structure (years of experience + certification types + functional bullet list + 2-3 relevant prior engagements) apply to any O&M staffing plan regardless of facility size.
-
-Pursuit-specific: only include the roles that actually exist in the proposed structure for this pursuit — very small contracts may combine Transition Manager duties into the Project Manager role; larger contracts may add additional regional layers. Always replace bracketed role placeholders with the actual named individual, their real credentials, and their real relevant-experience project list before this leaves the wiki. Pair with `blended-onsite-offsite-org-structure.md` for the full team narrative and `workforce-retention-transition-continuity.md` for the transition-specific approach this role executes.
+Pursuit-specific: include only the roles that actually exist in the proposed structure; very small contracts may fold Transition Manager duties into the Project Manager. Replace or re-verify every named individual, their credentials, and their relevant-experience list before this leaves the wiki. Pair with [blended-onsite-offsite-org-structure.md](blended-onsite-offsite-org-structure.md) for the org chart narrative, [proposed-team-org-chart-roster.md](proposed-team-org-chart-roster.md) for the full named roster, and [workforce-retention-transition-continuity.md](workforce-retention-transition-continuity.md) for the transition approach the Transition Manager executes. Full passages: `verbatim/hull-wwtf-om-2026/pages/p0019.md` and `p0020.md`.

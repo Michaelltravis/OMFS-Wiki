@@ -1,11 +1,28 @@
 ---
 title: "Resume — Kevin Dahl, PE, CRL, CMRT (Regional Director of Operations)"
 category: resumes
+block-type: prose
 tags: [resume, regional-director-of-operations, wastewater-operations, professional-engineer, connecticut-license, reliability-leader, capital-planning]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, p. 73 (A-5)"
-context: Proposed as Regional Director of Operations for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026).
-sanitized: false
+source-pages: [73]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0073.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0073.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0073.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0073.md#¶10"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD WWTF / 42 mi collection system / coastal town"
+geography: "Northeast / MA / MassDEP + EPA Region 1"
+rfp-section-type: [resume]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+win-theme-map: [regional-bench, compliance-leadership, asset-management, partner-transparency]
+context: Proposed as Regional Director of Operations. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Regional Director of Operations; senior oversight profile with PE licensure, large-flow activated-sludge and phosphorus-upgrade project experience, and direct client-liaison track record.
 reuse-notes: "VERBATIM — real name and license info; no phone/email is given in the source resume (not a cover-letter signatory). Before reuse on a new pursuit: (1) confirm Kevin Dahl is still employed by Jacobs and still holds this role/title; (2) verify PE (CT), CRL, CMRT, and CT/RI Class IV wastewater operator/collection licenses are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit."
 ---

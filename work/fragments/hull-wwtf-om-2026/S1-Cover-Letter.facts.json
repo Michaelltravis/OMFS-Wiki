@@ -1,0 +1,32 @@
+[
+  {
+    "claim": "Jacobs commits to maintaining regular communication with client leadership beginning on the first day of the contract",
+    "number": "1",
+    "unit": "day (Day 1 of contract)",
+    "as_of": "2026-04-02",
+    "page": 3,
+    "para": 9,
+    "block": "wiki/win-themes/cover-letter-transition-commitment-and-partnership-close.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Jacobs supports continuous improvement through a recurring Annual Innovation Workshop held once per year",
+    "number": "1",
+    "unit": "workshop per year",
+    "as_of": "2026-04-02",
+    "page": 3,
+    "para": 9,
+    "block": "wiki/win-themes/cover-letter-transition-commitment-and-partnership-close.md",
+    "category": "other"
+  },
+  {
+    "claim": "Two named leaders sign the cover letter and lead the contract — Project Manager Nathan Callison and Regional Operations Manager Scott Mangold",
+    "number": "2",
+    "unit": "named leaders",
+    "as_of": "2026-04-02",
+    "page": 3,
+    "para": 8,
+    "block": "wiki/win-themes/cover-letter-coastal-context-and-named-leadership.md",
+    "category": "other"
+  }
+]

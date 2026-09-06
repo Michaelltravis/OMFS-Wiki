@@ -1,11 +1,28 @@
 ---
 title: "Resume — Scott Mangold, CRL (Regional Operations Manager)"
 category: resumes
+block-type: prose
 tags: [resume, regional-operations-manager, wastewater-operations, reliability-leader, rhode-island-license, biosolids, transitions, cost-optimization, cover-letter-signatory]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, p. 74 (A-6); Section 1, Cover Letter, p. 3"
-context: Proposed as Regional Operations Manager for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026). Also a cover-letter signatory.
-sanitized: false
+source-pages: [74, 3]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0074.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0074.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0074.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0074.md#¶10"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD WWTF / 42 mi collection system / coastal town"
+geography: "Northeast / MA / MassDEP + EPA Region 1"
+rfp-section-type: [resume]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+win-theme-map: [transition-continuity, incumbent-displacement, energy-chemical-efficiency, regional-bench]
+context: Proposed as Regional Operations Manager. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Regional Operations Manager; direct-parallel Southbridge, MA transition experience (same engagement as the Project Manager and Assistant Project Manager resumes) plus a broad multi-site transition ("badge flip") track record and named contact info from the cover letter.
 reuse-notes: "VERBATIM — real name, contact info, and license/certification info. Before reuse on a new pursuit: (1) confirm Scott Mangold is still employed by Jacobs and still holds this role/title; (2) verify CRL, US Compost Council, CompTIA A+, RI Class I WWTP license, and MWEA/NCAWWA-NCWEA training certifications are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit; (4) reconfirm phone/email from the cover letter are still his current contact details."
 ---

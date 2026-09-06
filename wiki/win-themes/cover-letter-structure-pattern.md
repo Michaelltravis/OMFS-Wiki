@@ -1,11 +1,29 @@
 ---
 title: Cover Letter Structure Pattern — Challenge, Team, Transition, Commitment
 category: win-themes
+block-type: recipe
+pairs-with: wiki/win-themes/cover-letter-coastal-context-and-named-leadership.md
 tags: [cover-letter, structure-pattern, transmittal-letter, executive-sponsor, signatory-attestation]
 source: hull-wwtf-om-2026
-source-section: "Section 1, Cover Letter (p. 3)"
-context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
+source-section: "Section 1, Cover Letter"
+source-pages: [3]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0003.md#¶7"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
+geography: "Northeast / MA / MassDEP + EPA Region 1 NPDES"
+rfp-section-type: [cover-letter]
+win-theme-map: [partner-transparency, transition-continuity, regional-bench, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A tight, five-paragraph cover letter structure that moves from client-specific challenge recognition to team credibility to transition risk mitigation to closing commitment, in under one page — a strong pattern for any O&M pursuit's transmittal letter
 reuse-notes: Each paragraph's content must be rewritten with the target client's actual drivers, named leadership, and true transition posture; the structure and paragraph purposes are what's reusable, not the sentences themselves
 ---
@@ -27,3 +45,5 @@ A winning O&M cover letter follows a compact five-paragraph arc that signals, be
 ## Reuse guidance
 
 Universal: the five-paragraph arc (context recognition → leadership introduction → transition risk mitigation → relationship commitment → attested signatures) and the boxed-attestation-quote device. Pursuit-specific: every fact inside each paragraph — the named challenges, the named leadership and their real backgrounds, the specific transition commitments, and the signatories — must be replaced with real, current information for the target pursuit; do not reuse boilerplate phrasing verbatim. Pair with `exec-summary-client-readiness-framing.md` for a consistent opening narrative between the letter and the executive summary, and with the management-staffing transition-plan blocks for the substance behind paragraph 3's commitments.
+
+This block is a recipe, not paste-ready prose. The sanitized prose it describes lives in [cover-letter-coastal-context-and-named-leadership.md](cover-letter-coastal-context-and-named-leadership.md) (paragraphs 1–2) and [cover-letter-transition-commitment-and-partnership-close.md](cover-letter-transition-commitment-and-partnership-close.md) (paragraphs 3–5).

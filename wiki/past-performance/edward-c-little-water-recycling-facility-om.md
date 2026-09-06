@@ -1,13 +1,30 @@
 ---
 title: Edward C. Little Water Recycling Facility O&M — Reference Project (West Basin Municipal Water District, El Segundo, CA)
 category: past-performance
-tags: [west-basin, edward-c-little, water-reuse, membrane-treatment, largest-reuse-facility, satellite-facilities, contract-transition, digital-onewater, reference-project]
+block-type: prose
+tags: [west-basin, edward-c-little, water-reuse, membrane-treatment, largest-reuse-facility, satellite-facilities, contract-transition, incumbent-displacement, digital-onewater, reference-project]
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Edward C. Little Water Recycling Facility O&M (pp. PD-7–PD-8)"
-context: Southern California sustainable water infrastructure O&M, 2025
-sanitized: false
-quality: The nation's largest and most technically sophisticated water reuse facility (40 MGD, nine treatment trains, five product-water grades), recently transitioned to Jacobs from an incumbent operator, with a Board President-level client quote — a flagship, large-scale reuse reference plus a documented incumbent-transition narrative.
-reuse-notes: Verbatim past-performance content. Confirm reference contact (Susanna Li) is still current before reuse; contract began 2025 so status/outcomes will still be developing in near-term reuse — consider whether enough operating history exists yet to cite for a given pursuit's evaluation criteria.
+source-pages: [28, 29]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0028.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0029.md#¶5"]
+pursuit-type: [reuse-dpr, water-treatment, multi-facility]
+client-type: authority
+client-size: "40 MGD max monthly average / nine treatment trains / five product-water grades / four satellite facilities / nearly 600 connections"
+geography: "West / CA / SWRCB Title 22, seawater intrusion barrier and groundwater recharge reuse"
+rfp-section-type: [past-performance]
+win-theme-map: [incumbent-displacement, transition-continuity, regional-bench, digital-tools, asset-management]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: true
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: The nation's largest and most technically sophisticated water reuse facility (40 MGD, nine treatment trains, five fit-for-purpose product-water grades, drinking water conserved for up to 80,000 households a year), recently won from incumbent operator Veolia, with a Board President-level client quote — the flagship large-scale reuse reference and the portfolio's best documented incumbent-displacement and transition narrative.
+reuse-notes: Verbatim past-performance content. Confirm reference contact (Susanna Li) is still current before reuse. The contract began in 2025, so keep operating-history claims proportional to tenure and lead instead with the transition, membrane, and Digital OneWater content. Name the incumbent (Veolia) only where the new pursuit's competitive posture makes that appropriate.
 ---
 
 # Edward C. Little Water Recycling Facility O&M

@@ -1,13 +1,30 @@
 ---
 title: Soquel Creek Advanced Water Purification O&M — Reference Project (Soquel Creek Water District, CA)
 category: past-performance
+block-type: prose
 tags: [soquel-creek, advanced-oxidation, reverse-osmosis, ozonation, granular-activated-carbon, groundwater-replenishment, seawater-intrusion, omar-contracting, design-build, reference-project]
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Soquel Creek Advanced Water Purification O&M (pp. PD-3–PD-4)"
-context: Southern California sustainable water infrastructure O&M, 2025
-sanitized: false
-quality: Demonstrates full project-lifecycle involvement (design-phase review through 15-year O&M term) under an innovative "Operations Management At Risk" (OMAR) contracting approach, with a named General Manager quote — strong reference for pursuits involving early O&M contractor engagement during design/construction.
-reuse-notes: Verbatim past-performance content. Confirm reference contact (Cameron Kostigen Mumper) is still current before reuse; verify "2020-Ongoing" contract status.
+source-pages: [24, 25]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0024.md#¶2", "verbatim/santamonica-swip-om-2025/pages/p0025.md#¶3"]
+pursuit-type: [reuse-dpr, water-treatment]
+client-type: authority
+client-size: "1.3 MGD max monthly average / advanced water purification for groundwater replenishment"
+geography: "West / CA / SWRCB Division of Drinking Water, groundwater replenishment reuse"
+rfp-section-type: [past-performance]
+win-theme-map: [partner-transparency, transition-continuity, innovation-value-add, regional-bench]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
+quality: Demonstrates full project-lifecycle involvement (design-phase review through a 15-year O&M term) under an innovative Operations Management At Risk (OMAR) contracting approach, with a named General Manager quote — strong reference for pursuits involving early O&M contractor engagement during design and construction, or groundwater replenishment / seawater intrusion scope.
+reuse-notes: Verbatim past-performance content. Confirm reference contact (Cameron Kostigen Mumper) is still current before reuse; verify "2020 – Ongoing" contract status and remaining term of the 15-year initial term.
 ---
 
 # Soquel Creek Advanced Water Purification O&M

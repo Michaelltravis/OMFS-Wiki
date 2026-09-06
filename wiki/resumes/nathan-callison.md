@@ -1,11 +1,28 @@
 ---
 title: "Resume — Nathan Callison, CRL, CMRT (Project Manager)"
 category: resumes
+block-type: prose
 tags: [resume, project-manager, wastewater-operations, biosolids, lystek, reliability-leader, michigan-license, massachusetts-license, cover-letter-signatory]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, pp. 69-70 (A-1–A-2); Section 1, Cover Letter, p. 3"
-context: Proposed as Project Manager for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026). Also a cover-letter signatory.
-sanitized: false
+source-pages: [69, 70, 3]
+verbatim-ref: ["verbatim/hull-wwtf-om-2026/pages/p0069.md#¶4", "verbatim/hull-wwtf-om-2026/pages/p0069.md#¶8", "verbatim/hull-wwtf-om-2026/pages/p0069.md#¶9", "verbatim/hull-wwtf-om-2026/pages/p0070.md#¶2"]
+pursuit-type: [wwtp-om, collections]
+client-type: municipal
+client-size: "3.07 MGD WWTF / 42 mi collection system / coastal town"
+geography: "Northeast / MA / MassDEP + EPA Region 1"
+rfp-section-type: [resume]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
+sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+win-theme-map: [regional-bench, transition-continuity, incumbent-displacement, compliance-leadership, asset-management]
+context: Proposed as Project Manager. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Project Manager; strong direct-parallel experience (Southbridge, MA 5-year O&M contract transition) and named contact info from the cover letter.
 reuse-notes: "VERBATIM — real name, contact info, licenses, and project history. Before reuse on a new pursuit: (1) confirm Nathan Callison is still employed by Jacobs and still holds this role/title; (2) verify CRL and CMRT certifications and all state operator/plumber/HVAC licenses are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit; (4) reconfirm phone/email from the cover letter are still his current contact details."
 ---

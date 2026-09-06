@@ -1,11 +1,28 @@
 ---
 title: Firm History and Corporate Overview (Scale, Financial Strength, Market Leadership)
 category: qualifications
+block-type: prose
 tags: [firm-history, corporate-overview, corporate-scale, financial-strength, market-leadership, client-retention, environmental-compliance, enr-ranking, fortune-500, water-reuse]
 source: santamonica-swip-om-2025
-source-section: "2.1 Firm History (p. 15)"
-context: Southern California sustainable water infrastructure O&M, 2025
+source-section: "Section 2, 2.1 Firm History"
+source-pages: [15]
+verbatim-ref: ["verbatim/santamonica-swip-om-2025/pages/p0015.md#¶3", "verbatim/santamonica-swip-om-2025/pages/p0015.md#¶4", "verbatim/santamonica-swip-om-2025/pages/p0015.md#¶5", "verbatim/santamonica-swip-om-2025/pages/p0015.md#¶6", "verbatim/santamonica-swip-om-2025/pages/p0015.md#¶9", "verbatim/santamonica-swip-om-2025/pages/p0015.md#¶10", "verbatim/santamonica-swip-om-2025/pages/p0015.md#¶11"]
+pursuit-type: [reuse-dpr, water-treatment, wwtp-om, multi-facility]
+client-type: municipal
+client-size: "1 MGD advanced water treatment / potable reuse facility"
+geography: "West / Southern California / Los Angeles RWQCB + SWRCB Division of Drinking Water"
+rfp-section-type: [qualifications]
+win-theme-map: [regional-bench, compliance-leadership, innovation-value-add, incumbent-displacement]
+proof-point-ids: []
+testimonial-ids: []
+story-ids: []
+status: preferred
+house-favorite: false
 sanitized: true
+sanitization-loss: none
+extracted: 2026-09-05
+last-verified: 2026-09-05
+context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Concise, well-quantified firm-history narrative combining founding date, revenue scale, O&M portfolio breadth, and hard proof points (client retention, environmental compliance, ENR ranking) — strong opener for a Qualifications or Firm Overview section.
 reuse-notes: Swap the named award-winning facility examples (Twin Oaks Valley WTP, Pure Water Soquel, Pima County Agua Nueva) for facilities most relevant to the pursuing region if a closer analog exists. Replace [CLIENT] and [REGION] with pursuit specifics. Revenue/backlog figures and stat-bar metrics should be checked against the current fiscal year before reuse, as they are refreshed periodically corporate-wide.
 ---
@@ -18,14 +35,16 @@ Jacobs delivers full-service O&M for over 300 facilities globally and currently 
 
 As a publicly traded Fortune 500 company, Jacobs offers corporate stability, strong financial capacity, and a global reputation for technical excellence. We are widely recognized as a market leader in the water sector, consistently ranked among the top firms worldwide for water design, program management, and operations.
 
-Jacobs' culture of safety, innovation, and client collaboration has led to a 98% client retention rate since 2013 and an industry-leading environmental compliance record of 99.98%. Our deep bench of regulatory, process, and engineering professionals ensures adaptive operations that prioritize regulatory compliance, operational resilience, and sustainable performance for [CLIENT].
+Jacobs' culture of safety, innovation, and client collaboration has led to a 98% client retention rate since 2013 and an industry-leading environmental compliance record of 99.98%. Our deep bench of regulatory, process, and engineering professionals ensures adaptive operations that prioritize regulatory compliance, operational resilience, and sustainable performance for [CLIENT], a coastal Southern California municipal water utility.
 
-**Proof-point stat bar** (paired with a U.S. map exhibit of Jacobs O&M project locations and office locations, showing representative municipal/private-sector O&M project tenures, e.g., "Gilroy (41 Years)," "Auburn (33 Years)," "Turlock (20 Years)," "Fort Irwin (20 Years)," "Clovis (16 Years)," "Twin Oaks (19 Years)" — see graphic `102_008A26`):
+**Stat bar and national footprint exhibit (graphic `102_008A26`) — "Jacobs is a Leading Provider of O&M Services in North America":**
 - **4,000+** O&M staff in the US
-- **#1** in Sewer & Waste, Wastewater Treatment, Sanitary & Storm Sewers — 2024 ENR Rankings
+- **#1** in Sewer & Waste, Wastewater Treatment, Sanitary & Storm Sewers
 - **98%** contract renewal rate since 2013 from service excellence
 - **99.98%** environmental compliance record, one of the best in the industry
 
+The exhibit maps Jacobs offices, municipal O&M projects, and private sector O&M projects across the U.S., with representative tenures called out: Crescent City (6 Years), Red Bluff (5 Years), Lincoln, Davis-Woodland (11 Years), Auburn (33 Years), Soquel Creek (4 Years), Turlock (20 Years), Gilroy (41 Years), Clovis (16 Years), Fort Irwin (20 Years), West Basin, and Twin Oaks (19 Years).
+
 ## Reuse guidance
 
-This is a strong, drop-in opening block for any Section 2/3-style Firm Qualifications narrative. Universal: the founding date, revenue/backlog figures, client retention and compliance stats, and ENR ranking claim — verify these are current before reuse (refreshed periodically). Pursuit-specific: replace [REGION] with the pursuing region (keep at region/state level, not the specific city) and [CLIENT] with the actual client descriptor. Consider swapping the three named facility examples for ones geographically or technically closer to the new pursuit if stronger analogs exist. Pair with graphic `102_008A26` (national O&M footprint map) — flag as needing re-branding/relabeling only if it displays a client-specific callout box (this version reads "Jacobs is a Leading Provider of O&M Services in North America," which is generic). See also [california-om-track-record-and-governance.md](california-om-track-record-and-governance.md) for the California-specific track record that typically follows this block.
+This is a strong, drop-in opening block for any Section 2/3-style Firm Qualifications narrative. Universal: the founding date, revenue/backlog figures, client retention and compliance stats, and the ENR-ranking claim — verify these are current before reuse, as they are refreshed each fiscal year. Pursuit-specific: replace [REGION] with the pursuing region (keep at region/state level, not the specific city) and [CLIENT] with the actual client descriptor. Consider swapping the three named facility examples for ones geographically or technically closer to the new pursuit if stronger analogs exist. Pair with graphic `102_008A26` (national O&M footprint map with stat bar); it is generic and needs no re-branding. See also [california-om-track-record-and-governance.md](california-om-track-record-and-governance.md) for the state-specific track record that follows this block, and read `verbatim/santamonica-swip-om-2025/pages/p0015.md` for the full page as submitted.
