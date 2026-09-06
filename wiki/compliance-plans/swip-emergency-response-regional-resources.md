@@ -2,7 +2,7 @@
 title: Regional and National Emergency Response Surge Capability
 category: compliance-plans
 block-type: prose
-tags: [emergency-response, regional-surge-staffing, fema-contractor, diversified-response, disaster-recovery, mutual-aid, safety-culture]
+tags: [emergency-response, regional-support, safety-program]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Local and Regional Resources for Diversified Emergency Response / Proven Emergency Preparedness"
 source-pages: [67]

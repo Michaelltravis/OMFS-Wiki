@@ -2,7 +2,7 @@
 title: Seamless Transition — Care and Sensitivity Toward Transitioning Employees, Compensation Package, and Employee Satisfaction Results
 category: management-staffing
 block-type: prose
-tags: [staff-retention, workforce-continuity, compensation, employee-satisfaction-survey, hr, onboarding, transition-plan, retention]
+tags: [recruiting-retention, workforce-continuity, knowledge-transfer, transition-plan]
 source: santamonica-swip-om-2025
 source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
 source-pages: [98]

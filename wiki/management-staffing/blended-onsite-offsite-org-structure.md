@@ -2,7 +2,7 @@
 title: Blended On-Site/Off-Site Organizational Structure for O&M Contracts
 category: management-staffing
 block-type: prose
-tags: [org-chart, staffing-structure, onsite-offsite, leadership-model, matrix-support, culture-driven-leadership, fte-roster, value-proposition]
+tags: [org-chart, staffing-model, management-plan, regional-support, workforce-development, benefit-framing]
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [19, 23]

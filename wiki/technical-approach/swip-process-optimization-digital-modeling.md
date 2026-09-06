@@ -2,7 +2,7 @@
 title: MBR Process Optimization Approach with Calibrated Digital Process Modeling (BioWin/Pro2D/Replica)
 category: technical-approach
 block-type: prose
-tags: [process-optimization, mbr, membrane-bioreactor, digital-twin, biowin, replica, pro2d, srt, mlss, process-modeling, lift-station-monitoring]
+tags: [process-optimization, membrane-treatment, process-modeling, digital-tools, wastewater-treatment, lift-stations]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach A - Process Optimization; Addressing Other Potential Process Impacts"
 source-pages: [36, 37]

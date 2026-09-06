@@ -2,7 +2,7 @@
 title: Firm Approach Section Opener — Integrated O&M Commitment and Facility Understanding
 category: technical-approach
 block-type: prose
-tags: [project-understanding, section-opener, water-reuse, potable-reuse, mbr, reverse-osmosis, uv-aop, due-diligence, regulatory-compliance, cmms]
+tags: [project-understanding, section-opener, water-reuse, potable-reuse, membrane-treatment, advanced-water-treatment, regulatory-compliance, cmms]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Jacobs Understands [CLIENT]'s Challenges and Goals for its Facilities (p. 30)"
 source-pages: [30]

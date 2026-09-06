@@ -2,7 +2,7 @@
 title: Direct Potable Reuse Operations Staffing Model (Operator Tiers, Responsibilities, Assumptions)
 category: technical-approach
 block-type: table
-tags: [direct-potable-reuse, dpr, operator-certification, staffing-model, water-treatment-operators, t5, awt5, awt3, scope-assumptions]
+tags: [potable-reuse, training-certification, staffing-model, key-personnel, advanced-water-treatment, scope-assumptions]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — Direct Potable Reuse Operations"
 source-pages: [105]

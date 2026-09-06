@@ -3,7 +3,7 @@ title: Innovation Workshop — Sample Agenda Structure (Proof-of-Execution Exhib
 category: technical-approach
 block-type: recipe
 pairs-with: wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md
-tags: [innovation, workshop, agenda, continuous-improvement, sme-engagement, energy, biosolids, pfas]
+tags: [innovation, section-opener, continuous-improvement, key-personnel, energy-management, biosolids, regulatory-compliance]
 source: hull-wwtf-om-2026
 source-section: "Section 7, Appendix D - Innovation Workshop Agenda and Examples (pp. D-1 to D-2)"
 source-pages: [85, 86]

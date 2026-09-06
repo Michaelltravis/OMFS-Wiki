@@ -2,7 +2,7 @@
 title: Mack Mckenzie - Chief Plant Operator (WW Grade V, AWT3)
 category: resumes
 block-type: prose
-tags: [chief-plant-operator, project-manager, membrane-bioreactor, ultrafiltration, reverse-osmosis, california, capital-projects, mbr, wastewater-grade-v, key-personnel]
+tags: [key-personnel, membrane-treatment, california, capital-planning, training-certification]
 source: santamonica-swip-om-2025
 source-section: "3.2 Resumes - Mack Mckenzie (pp. 85-86)"
 source-pages: [85, 86]

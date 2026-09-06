@@ -2,7 +2,7 @@
 title: Project Understanding Narrative and Goals/Challenges/Response Crosswalk Matrix
 category: technical-approach
 block-type: prose
-tags: [project-understanding, goals-challenges-response, rfp-crosswalk, exhibit, section-opener, coastal, resiliency, workforce-development]
+tags: [project-understanding, scope-assumptions, exhibit, section-opener, coastal, resilience-planning, workforce-development]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding, Exhibit 5-1 (pp. 19-20)"
 source-pages: [25, 26]

@@ -2,7 +2,7 @@
 title: Site-Specific Odor Control Program and Evaluation Framework
 category: technical-approach
 block-type: prose
-tags: [odor-control, hydrogen-sulfide, corrosion, community-stewardship, monitoring, five-step-framework]
+tags: [odor-control, community-stewardship, sampling-monitoring, structure-pattern]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Site-Specific Odor Control Plan (Exhibit 5-8)"
 source-pages: [36, 37, 38]

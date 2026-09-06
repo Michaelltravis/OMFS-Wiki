@@ -2,7 +2,7 @@
 title: Leadership Team Introduction and "Extension of Client Staff" Coordinated-Operations Narrative
 category: win-themes
 block-type: prose
-tags: [executive-summary, leadership-narrative, onewater, data-driven-operations, extension-of-staff, win-theme, capital-planning]
+tags: [executive-summary, structure-pattern, digital-tools, data-analytics, more-than-an-operator, win-theme, capital-planning]
 source: hull-wwtf-om-2026
 source-section: "Section 2, Executive Summary — Leadership-Driven Operations and Accountability; Coordinated System Operations and Data-Driven Performance; The Jacobs Difference: Expertise That Drives Results (pp. 6-7)"
 source-pages: [6, 7]

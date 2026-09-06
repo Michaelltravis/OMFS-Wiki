@@ -2,7 +2,7 @@
 title: Chris Catlin, PE - Manager of Operations (T3/AWT5)
 category: resumes
 block-type: prose
-tags: [manager-of-operations, professional-engineer, water-treatment, advanced-water-purification, startup-and-commissioning, reverse-osmosis, membrane-filtration, ozone, awt5, key-personnel]
+tags: [key-personnel, training-certification, water-treatment, advanced-water-treatment, construction-support, membrane-treatment]
 source: santamonica-swip-om-2025
 source-section: "3.2 Resumes - Chris Catlin, PE (pp. 83-84)"
 source-pages: [83, 84]

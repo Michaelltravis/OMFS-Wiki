@@ -2,7 +2,7 @@
 title: Emergency Response Plan Approach and Preparedness Method
 category: compliance-plans
 block-type: prose
-tags: [emergency-response-plan, erp, incident-reporting-hotline, upcp, emergency-preparedness, regional-surge-staffing, safety-culture]
+tags: [emergency-response, safety-program, industrial-pretreatment, regional-support]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Emergency Response Plan"
 source-pages: [65, 66]

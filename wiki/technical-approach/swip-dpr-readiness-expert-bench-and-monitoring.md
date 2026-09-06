@@ -2,7 +2,7 @@
 title: Direct Potable Reuse Readiness — Additional Monitoring Value-Add and Named Expert Bench
 category: technical-approach
 block-type: prose
-tags: [direct-potable-reuse, dpr, indirect-potable-reuse, ipr, water-reuse, monitoring, sme-bench, named-experts]
+tags: [potable-reuse, water-reuse, sampling-monitoring, key-personnel]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — Preparing for Direct Potable Reuse"
 source-pages: [104, 105]

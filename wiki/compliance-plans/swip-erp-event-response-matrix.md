@@ -2,7 +2,7 @@
 title: ERP Event-Response Matrix — Key Elements in the Emergency Response Plan
 category: compliance-plans
 block-type: table
-tags: [emergency-response-plan, erp, event-response-matrix, continuity-of-operations, chemical-spill, power-failure, earthquake-response, pipeline-failure]
+tags: [emergency-response, resilience-planning, chemical-management]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Emergency Response Plan, Exhibit 2-28"
 source-pages: [66]

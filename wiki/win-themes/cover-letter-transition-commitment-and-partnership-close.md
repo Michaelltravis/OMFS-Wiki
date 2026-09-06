@@ -2,7 +2,7 @@
 title: Cover Letter Close — Structured Transition, Workforce Continuity, and Long-Term Partnership
 category: win-themes
 block-type: prose
-tags: [cover-letter, transmittal-letter, transition-plan, knowledge-transfer, workforce-continuity, succession-planning, safety-culture, innovation-workshop, continuous-improvement, day-one, addenda-acknowledgment]
+tags: [cover-letter, transmittal-letter, transition-plan, knowledge-transfer, workforce-continuity, succession-planning, safety-program, innovation, continuous-improvement, day-one-readiness]
 source: hull-wwtf-om-2026
 source-section: "Section 1, Cover Letter"
 source-pages: [3]

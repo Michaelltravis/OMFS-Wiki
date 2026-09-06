@@ -3,7 +3,7 @@ title: Representative Past-Performance Narrative Patterns
 category: qualifications
 block-type: recipe
 pairs-with: wiki/past-performance/project-waterbury-ct.md
-tags: [past-performance, reference-projects, case-study-structure, transition, workforce-development, proof-points, recipe]
+tags: [past-performance, reference-projects, structure-pattern, transition-management, workforce-development, proof-point]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Exhibit 3-5 Reference Projects"
 source-pages: [15]

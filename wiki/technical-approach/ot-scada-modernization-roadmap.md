@@ -2,7 +2,7 @@
 title: OT and SCADA Modernization Roadmap for Wastewater O&M
 category: technical-approach
 block-type: prose
-tags: [ot, scada, digital-transformation, cybersecurity, automation, asset-inventory, predictive-maintenance, energy]
+tags: [digital-tools, scada, cybersecurity, instrumentation-controls, asset-management, predictive-maintenance, energy-management]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Operational Technology (OT)/SCADA/Intelligent O&M (Exhibit 5-9)"
 source-pages: [38, 39]

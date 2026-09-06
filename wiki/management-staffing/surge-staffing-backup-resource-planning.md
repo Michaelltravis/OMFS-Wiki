@@ -2,7 +2,7 @@
 title: Surge Staffing and Backup Resource Availability via a Regional Resource Planning Group
 category: management-staffing
 block-type: prose
-tags: [surge-staffing, backup-coverage, resource-planning-group, absence-coverage, emergency-mobilization, regional-bench, workforce-development]
+tags: [regional-support, staffing-model, emergency-response, workforce-development]
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [23]

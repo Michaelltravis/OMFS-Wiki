@@ -2,7 +2,7 @@
 title: Reference Portfolio Comparability and Similar Coastal Facilities
 category: qualifications
 block-type: prose
-tags: [past-performance, reference-projects, comparable-experience, coastal, similar-facilities, community-engagement, differentiator]
+tags: [past-performance, reference-projects, coastal, community-engagement, differentiator]
 source: hull-wwtf-om-2026
 source-section: "Section 3, References (Exhibit 3-5 lead-in) and Corporate Experience — Similar Facilities"
 source-pages: [14, 16]

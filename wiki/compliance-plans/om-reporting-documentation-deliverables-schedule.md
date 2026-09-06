@@ -2,7 +2,7 @@
 title: O&M Reporting and Documentation Deliverables Schedule
 category: compliance-plans
 block-type: prose
-tags: [reporting, deliverables, qa-qc, regulatory-compliance, documentation, monthly-reporting, cip, sop, transition-plan]
+tags: [performance-reporting, quality-assurance, regulatory-compliance, capital-planning, operations-management, transition-plan]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Required Documentation Delivery (p. 43)"
 source-pages: [49]

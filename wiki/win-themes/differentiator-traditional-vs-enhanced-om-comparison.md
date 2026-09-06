@@ -2,7 +2,7 @@
 title: Differentiator Device — Traditional vs. Jacobs Performance O&M Comparison (Exhibit 2-3)
 category: win-themes
 block-type: table
-tags: [differentiator, before-after, win-theme, data-driven-operations, exhibit, benefit-framing, digital-tools]
+tags: [differentiator, case-study, win-theme, data-analytics, exhibit, benefit-framing, digital-tools]
 source: hull-wwtf-om-2026
 source-section: "Section 2, Executive Summary — Exhibit 2-3, From Operations to Optimization (p. 6)"
 source-pages: [6]

@@ -2,7 +2,7 @@
 title: Site-Specific Readiness and Reliability — Asset-by-Asset Commitments for Treatment, Stormwater, Recycling, and Injection Wells
 category: win-themes
 block-type: prose
-tags: [win-theme, reliability, scada, alarm-management, stormwater, lift-stations, preventive-maintenance, injection-wells, digital-tools]
+tags: [win-theme, reliability-engineering, scada, stormwater, lift-stations, preventive-maintenance, groundwater-recharge, digital-tools]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Site-Specific Readiness and Reliability"
 source-pages: [10, 11]

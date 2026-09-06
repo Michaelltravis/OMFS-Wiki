@@ -2,7 +2,7 @@
 title: Executive Summary Partnership Beat — Continuous Improvement Through an Annual Innovation Workshop
 category: win-themes
 block-type: prose
-tags: [executive-summary, innovation, continuous-improvement, workshop, extension-of-staff, partnership, win-theme, sme-engagement, client-testimonial]
+tags: [executive-summary, innovation, continuous-improvement, more-than-an-operator, partnership, win-theme, key-personnel, testimonial]
 source: hull-wwtf-om-2026
 source-section: "Section 2, Executive Summary — Continuous Improvement Through an Annual Innovation Workshop (p. 7)"
 source-pages: [7]

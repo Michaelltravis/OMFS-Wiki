@@ -2,7 +2,7 @@
 title: Value-Added Approach — No-Additional-Cost Enhancements as a Quantified Value Story
 category: win-themes
 block-type: prose
-tags: [value-added-services, win-theme, no-cost-enhancements, benefit-framing, differentiator, exhibit, odor-control, digital-tools, collection-system]
+tags: [value-added-services, win-theme, no-cost-value-add, benefit-framing, differentiator, exhibit, odor-control, digital-tools, collection-systems]
 source: hull-wwtf-om-2026
 source-section: "Section 2, Executive Summary — Exhibit 2-4 and Our Value-Added Approach (p. 8)"
 source-pages: [8]

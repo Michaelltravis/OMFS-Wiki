@@ -2,7 +2,7 @@
 title: Value-Added Innovations Delivered at No Additional Cost (Exhibit Table)
 category: compliance-plans
 block-type: table
-tags: [innovation, value-added-services, no-cost-value-add, odor-control, collection-system, regional-support, capital-planning, differentiator, exhibit]
+tags: [innovation, value-added-services, no-cost-value-add, odor-control, collection-systems, regional-support, capital-planning, differentiator, exhibit]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Innovation; Exhibit 5-22, Value added innovations included in our base fee (pp. 44-45)"
 source-pages: [50, 51]

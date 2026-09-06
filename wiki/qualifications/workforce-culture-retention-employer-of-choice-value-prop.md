@@ -2,7 +2,7 @@
 title: Workforce Culture, Retention, and Employer-of-Choice Positioning
 category: qualifications
 block-type: prose
-tags: [workforce-culture, retention, turnover, employer-of-choice, staffing-continuity, corporate-profile]
+tags: [workforce-development, recruiting-retention, workforce-continuity, corporate-qualifications]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Corporate Profile"
 source-pages: [10]

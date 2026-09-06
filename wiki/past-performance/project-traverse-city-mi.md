@@ -2,7 +2,7 @@
 title: "Project Description — Traverse City Regional Wastewater Treatment Plant DBO (City of Traverse City, MI)"
 category: past-performance
 block-type: prose
-tags: [past-performance, project-description, traverse-city, michigan, dbo, mbr, energy-optimization, awards, long-term-partnership, regionalized-satellite-systems, industrial-pretreatment, safety-culture]
+tags: [past-performance, project-description, michigan, design-build, membrane-treatment, energy-management, proof-point, partnership, multi-facility-operations, industrial-pretreatment, safety-program]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-5"
 source-pages: [80]

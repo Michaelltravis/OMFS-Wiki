@@ -2,7 +2,7 @@
 title: "Resume — Anthony \"Tony\" Rose (Assistant Project Manager)"
 category: resumes
 block-type: prose
-tags: [resume, assistant-project-manager, wastewater-operations, massachusetts-license, rhode-island-license, electrical-certification]
+tags: [resume-bio, key-personnel, wastewater-treatment, massachusetts, rhode-island, training-certification]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, p. 71 (A-3)"
 source-pages: [71]

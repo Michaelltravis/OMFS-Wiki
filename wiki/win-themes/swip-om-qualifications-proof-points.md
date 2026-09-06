@@ -2,7 +2,7 @@
 title: O&M Qualifications Proof Points — Scale, California Advanced-Treatment Track Record, and Governance Model
 category: win-themes
 block-type: prose
-tags: [qualifications, proof-points, win-theme, om-track-record, client-retention, environmental-compliance, california-experience, reference-projects, governance, water-reuse]
+tags: [corporate-qualifications, proof-point, win-theme, past-performance, client-retention, environmental-compliance, california, reference-projects, project-management, water-reuse]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Jacobs' O&M Qualifications for Advanced Water Treatment"
 source-pages: [7]

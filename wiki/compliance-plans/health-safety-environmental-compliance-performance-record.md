@@ -2,7 +2,7 @@
 title: Health, Safety, and Environmental Compliance Performance Record
 category: compliance-plans
 block-type: prose
-tags: [safety-culture, beyondzero, trir, emr, npdes-compliance, environmental-compliance, permit-compliance]
+tags: [safety-program, permit-compliance, environmental-compliance]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Health, Safety, and Environmental Compliance Record (Exhibits 3-7, 3-8, 3-9)"
 source-pages: [17]

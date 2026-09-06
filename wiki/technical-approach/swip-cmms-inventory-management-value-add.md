@@ -2,7 +2,7 @@
 title: CMMS-Integrated Inventory Management Value-Add for a Second Facility
 category: technical-approach
 block-type: prose
-tags: [cmms, inventory-management, asset-management, iso-55001, spare-parts, procurement, no-cost-enhancement]
+tags: [cmms, inventory-management, asset-management, procurement, no-cost-value-add]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — Additional Items for Consideration, Inventory Management for Arcadia"
 source-pages: [107]

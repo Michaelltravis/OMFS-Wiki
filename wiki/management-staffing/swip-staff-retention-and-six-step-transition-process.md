@@ -2,7 +2,7 @@
 title: Seamless Transition — Staff Retention Approach and Six-Step Staff Transition Process (Exhibit 3-3)
 category: management-staffing
 block-type: prose
-tags: [transition-plan, staff-retention, workforce-continuity, six-step-process, exhibit, hr, onboarding, recruiting]
+tags: [transition-plan, recruiting-retention, workforce-continuity, transition-management, exhibit, knowledge-transfer]
 source: santamonica-swip-om-2025
 source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
 source-pages: [97]

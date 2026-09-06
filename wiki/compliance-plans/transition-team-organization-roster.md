@@ -2,7 +2,7 @@
 title: Transition Team Organization Roster
 category: compliance-plans
 block-type: roster
-tags: [transition-plan, org-chart, key-personnel, transition-manager, regional-support, subject-matter-experts, exhibit]
+tags: [transition-plan, org-chart, key-personnel, regional-support, exhibit]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Transition Leadership and Workforce Continuity, Exhibit 5-19 Transition Team Organization Chart (p. 41)"
 source-pages: [47]

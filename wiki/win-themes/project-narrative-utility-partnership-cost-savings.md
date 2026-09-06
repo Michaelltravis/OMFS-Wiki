@@ -2,7 +2,7 @@
 title: "Project Narrative — Holistic Utility Partnership Drives Multi-Million-Dollar Cost Savings (Large Coastal WWTP)"
 category: win-themes
 block-type: prose
-tags: [project-narrative, past-performance, cost-savings, cmom, phosphorus-removal, holistic-operations, biosolids, regional-support, collection-system, community-engagement]
+tags: [project-description, past-performance, cost-savings, collection-systems, wastewater-treatment, operations-management, biosolids, regional-support, community-engagement]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-1"
 source-pages: [76]

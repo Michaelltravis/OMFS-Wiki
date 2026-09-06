@@ -2,7 +2,7 @@
 title: Seamless Transition — Commitment to a Smooth Transition and Proven Track Record
 category: management-staffing
 block-type: prose
-tags: [transition-plan, mobilization, workforce-continuity, incumbent-operator, client-testimonial, proof-point, advanced-water-treatment, transition-team]
+tags: [transition-plan, mobilization, workforce-continuity, testimonial, proof-point, advanced-water-treatment, transition-management]
 source: santamonica-swip-om-2025
 source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
 source-pages: [96]

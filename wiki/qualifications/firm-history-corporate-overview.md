@@ -2,7 +2,7 @@
 title: Firm History and Corporate Overview (Scale, Financial Strength, Market Leadership)
 category: qualifications
 block-type: prose
-tags: [firm-history, corporate-overview, corporate-scale, financial-strength, market-leadership, client-retention, environmental-compliance, enr-ranking, fortune-500, water-reuse]
+tags: [corporate-qualifications, corporate-scale, financial-qualifications, market-leadership, client-retention, environmental-compliance, water-reuse]
 source: santamonica-swip-om-2025
 source-section: "Section 2, 2.1 Firm History"
 source-pages: [15]

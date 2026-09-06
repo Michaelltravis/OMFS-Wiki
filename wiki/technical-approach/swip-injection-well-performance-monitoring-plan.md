@@ -2,7 +2,7 @@
 title: Injection Well Performance Monitoring Plan (PMP) Approach
 category: technical-approach
 block-type: prose
-tags: [injection-wells, groundwater-recharge, aquifer-storage, performance-monitoring-plan, backwashing-optimization, well-rehabilitation, aquifer-recharge, water-reuse]
+tags: [groundwater-recharge, sampling-monitoring, membrane-treatment, water-reuse]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — SM-10i and SM-11i Injection Well Performance Monitoring"
 source-pages: [106]

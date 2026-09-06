@@ -2,7 +2,7 @@
 title: Financial Strength, Stability, and Comparable-Project Financial Track Record
 category: qualifications
 block-type: prose
-tags: [financial-strength, credit-rating, revenue, backlog, comparable-project-experience, single-entity-guarantor, insurance-coverage, permit-compliance-record]
+tags: [financial-qualifications, reference-projects, permit-compliance]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Financial Responsibility"
 source-pages: [63]

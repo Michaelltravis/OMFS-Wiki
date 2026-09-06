@@ -2,7 +2,7 @@
 title: Full-Service Firm — Integrated Engineering, Design-Build, and O&M Capability Spectrum
 category: qualifications
 block-type: prose
-tags: [full-service-firm, integrated-delivery, consulting, engineering, procurement, construction, fm-om, differentiator, no-additional-cost]
+tags: [corporate-qualifications, design-build, procurement, facility-management, differentiator, no-cost-value-add]
 source: santamonica-swip-om-2025
 source-section: "2.2 Technical Qualifications, Capabilities, References and Relevant Experience"
 source-pages: [18]

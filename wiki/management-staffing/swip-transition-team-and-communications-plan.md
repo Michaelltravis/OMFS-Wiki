@@ -2,7 +2,7 @@
 title: Seamless Transition — Experienced Transition Team, Transition Organization Chart, and Communications Plan
 category: management-staffing
 block-type: prose
-tags: [transition-manager, transition-administrator, transition-team, org-chart, communications-plan, scada, monitoring, reporting, dashboards, key-personnel, transition-plan]
+tags: [key-personnel, transition-management, org-chart, community-engagement, scada, sampling-monitoring, performance-reporting, transition-plan]
 source: santamonica-swip-om-2025
 source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
 source-pages: [98, 99]

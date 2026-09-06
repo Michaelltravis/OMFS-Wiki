@@ -2,7 +2,7 @@
 title: Regional Maintenance Team — Shared, Locally Embedded Technician Model
 category: management-staffing
 block-type: prose
-tags: [regional-maintenance-team, shared-staffing-model, cost-efficiency, mobilization-reduction, i-and-c-technician, maintenance-technician, staffing-differentiator, regional-bench]
+tags: [regional-support, staffing-model, cost-savings, instrumentation-controls, key-personnel]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan — Proven, Innovative Regional Maintenance Team Approach"
 source-pages: [77]

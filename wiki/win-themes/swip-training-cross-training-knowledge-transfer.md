@@ -2,7 +2,7 @@
 title: Training, Cross-Training, and Knowledge Transfer — Association Programs, Formal Training Plan, and Intern Mentoring
 category: win-themes
 block-type: prose
-tags: [win-theme, training, cross-training, workforce-development, certifications, knowledge-transfer, staff-retention]
+tags: [win-theme, training-certification, knowledge-transfer, workforce-development, recruiting-retention]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Training, Cross-Training, and Knowledge Transfer"
 source-pages: [10]

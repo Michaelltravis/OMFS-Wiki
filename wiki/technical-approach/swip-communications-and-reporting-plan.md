@@ -2,7 +2,7 @@
 title: Communications and Reporting Plan — Structure, Cadence, and Deliverables
 category: technical-approach
 block-type: prose
-tags: [communications-plan, reporting-deliverables, compliance-dashboard, monthly-report, dmr, transparency, stakeholder-engagement]
+tags: [community-engagement, performance-reporting, compliance-reporting, transparency]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Communications and Reporting (Exhibits 2-26, 2-27)"
 source-pages: [61, 62]

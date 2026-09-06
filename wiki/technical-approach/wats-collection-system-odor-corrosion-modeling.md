@@ -2,7 +2,7 @@
 title: WATS Collection-System Odor and Corrosion Modeling Approach
 category: technical-approach
 block-type: prose
-tags: [wats, collection-system, odor-control, corrosion, hydrogen-sulfide, modeling, sewer-process-model, aalborg-university, predictive-modeling]
+tags: [process-modeling, collection-systems, odor-control]
 source: hull-wwtf-om-2026
 source-section: "Section 7, Appendix F - WATS Modeling (pp. F-1 to F-3)"
 source-pages: [95, 96, 97]

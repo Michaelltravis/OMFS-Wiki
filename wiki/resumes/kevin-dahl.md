@@ -2,7 +2,7 @@
 title: "Resume — Kevin Dahl, PE, CRL, CMRT (Regional Director of Operations)"
 category: resumes
 block-type: prose
-tags: [resume, regional-director-of-operations, wastewater-operations, professional-engineer, connecticut-license, reliability-leader, capital-planning]
+tags: [resume-bio, key-personnel, wastewater-treatment, training-certification, connecticut, reliability-engineering, capital-planning]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, p. 73 (A-5)"
 source-pages: [73]

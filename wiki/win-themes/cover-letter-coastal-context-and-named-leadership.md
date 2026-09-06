@@ -2,7 +2,7 @@
 title: Cover Letter Opening — Coastal Operating Context and Named Leadership With a Bench Behind It
 category: win-themes
 block-type: prose
-tags: [cover-letter, transmittal-letter, coastal, odor-control, biosolids, energy-efficiency, chemical-optimization, inflow-infiltration, wet-weather, key-personnel, regional-bench, site-visit]
+tags: [cover-letter, transmittal-letter, coastal, odor-control, biosolids, energy-management, chemical-management, inflow-infiltration, wet-weather, key-personnel, regional-support, project-understanding]
 source: hull-wwtf-om-2026
 source-section: "Section 1, Cover Letter"
 source-pages: [3]

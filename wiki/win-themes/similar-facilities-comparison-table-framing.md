@@ -1,10 +1,15 @@
 ---
 title: "Similar-Facilities Comparison Table — Framing & Format"
 category: win-themes
-tags: [past-performance, similar-facilities, relevance-matrix, appendix-c, portfolio-breadth, process-matching]
+tags: [past-performance, reference-projects, appendix, corporate-scale]
 source: hull-wwtf-om-2026
 source-section: "Appendix C - Facilities Similar to the Town (pp. 82-83)"
 story-ids: []
+status: preferred
+house-favorite: false
+proof-point-ids: []
+extracted: '2026-09-05'
+last-verified: '2026-09-05'
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: A simple, high-density evidence exhibit that directly answers the RFP evaluation question "has this firm run facilities like ours" with a scannable table rather than more narrative — efficient use of appendix space

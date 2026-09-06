@@ -2,7 +2,7 @@
 title: Wastewater O&M Transition Plan and Mobilization Approach
 category: management-staffing
 block-type: prose
-tags: [transition-plan, mobilization, workforce-continuity, due-diligence, regional-support-bench, knowledge-transfer, staffing, incumbent-displacement]
+tags: [transition-plan, mobilization, workforce-continuity, project-understanding, regional-support, knowledge-transfer, staffing-model, incumbent-displacement]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Transition Plan: approach, timeline, and workforce continuity (pp. 40-42)"
 source-pages: [46, 47, 48]

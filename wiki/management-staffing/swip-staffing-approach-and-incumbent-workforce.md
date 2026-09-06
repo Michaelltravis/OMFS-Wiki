@@ -2,7 +2,7 @@
 title: Staffing Approach — Right-Sized Coverage and Welcoming Incumbent Staff
 category: management-staffing
 block-type: prose
-tags: [staffing-plan, incumbent-staff, transition-continuity, workforce-development, safety-culture, shift-coverage, staffing-philosophy, key-personnel]
+tags: [staffing-plan, workforce-continuity, transition-management, workforce-development, safety-program, staffing-model, key-personnel]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan — Staffing Plan"
 source-pages: [79]

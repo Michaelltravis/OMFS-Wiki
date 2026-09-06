@@ -2,7 +2,7 @@
 title: "Project Description — Westerly Wastewater Treatment Plant O&M and DBO Services (Town of Westerly, RI)"
 category: past-performance
 block-type: prose
-tags: [past-performance, project-description, westerly, rhode-island, dbo, progressive-design-build, incumbent-turnaround, biosolids, awards, epa-region-1, industrial-pretreatment]
+tags: [past-performance, project-description, rhode-island, design-build, incumbent-displacement, biosolids, proof-point, new-england, industrial-pretreatment]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-2"
 source-pages: [77]

@@ -2,7 +2,7 @@
 title: "Project Narrative — Incumbent Turnaround Plus Progressive Design-Build (Small Coastal WWTP)"
 category: win-themes
 block-type: prose
-tags: [project-narrative, past-performance, incumbent-turnaround, progressive-design-build, dbo, permit-compliance, cost-savings, industrial-pretreatment, biosolids]
+tags: [project-description, past-performance, incumbent-displacement, design-build, permit-compliance, cost-savings, industrial-pretreatment, biosolids]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-2"
 source-pages: [77]

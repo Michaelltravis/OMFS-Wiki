@@ -2,7 +2,7 @@
 title: Transition Readiness, Training, and Day-One Compliance Assurance
 category: compliance-plans
 block-type: prose
-tags: [transition-plan, training, cross-training, regulatory-compliance, emergency-response, storm-preparedness, asset-management, knowledge-transfer, communications-plan]
+tags: [transition-plan, training-certification, knowledge-transfer, regulatory-compliance, emergency-response, asset-management, community-engagement]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Transition Plan: Training and Operational Readiness through Assurance of Continuity and Compliance (p. 42)"
 source-pages: [48]

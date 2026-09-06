@@ -2,7 +2,7 @@
 title: O&M Core Management Systems Framework
 category: technical-approach
 block-type: prose
-tags: [om-framework, management-systems, operations-management, program-structure, org-model]
+tags: [operations-management]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Our O&M Approach Built on Proven, Transparent Systems, Exhibit 5-2 (p. 20)"
 source-pages: [26]
@@ -16,12 +16,13 @@ win-theme-map: [partner-transparency, compliance-leadership, safety-culture, com
 proof-point-ids: []
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+superseded-by: wiki/technical-approach/swip-om-project-execution-framework.md
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Clean, reusable organizational framework naming the 10 management systems a contract operator maintains; works as a standard structure for any O&M technical approach section, and functions as the "how we run O&M day to day" complement to the goals crosswalk that precedes it.
 reuse-notes: The wheel graphic (asset ID 132_HHull_0091KO_2 — see graphics catalog) is client-branded and would need re-creation; the 10 categories and one-line descriptions below are generic and reusable as-is, with facility-specific detail added under each.

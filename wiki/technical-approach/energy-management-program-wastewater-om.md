@@ -2,7 +2,7 @@
 title: Energy Management Program for Wastewater O&M
 category: technical-approach
 block-type: prose
-tags: [energy, aeration, pumping, solids-handling, baseline, gainshare, chemical-optimization, sustainability]
+tags: [energy-management, wastewater-treatment, biosolids, process-optimization, cost-savings, chemical-management, sustainability]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Energy Management: A Core Operating Discipline"
 source-pages: [42]

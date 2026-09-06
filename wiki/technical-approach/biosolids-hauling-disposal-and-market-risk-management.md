@@ -2,7 +2,7 @@
 title: Biosolids Hauling, Disposal, and Regional Market-Risk Management
 category: technical-approach
 block-type: prose
-tags: [biosolids, hauling, disposal, market-risk, chain-of-custody, compliance-reporting, regionalization]
+tags: [biosolids, resilience-planning, sampling-monitoring, compliance-reporting, multi-facility-operations]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Biosolids and Residuals Management — Hauling and Disposal; Regulatory Compliance and Reporting; Strategic Planning and Future Market Conditions (p. 27)"
 source-pages: [33]

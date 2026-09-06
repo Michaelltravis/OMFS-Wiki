@@ -2,7 +2,7 @@
 title: Energy Optimization, Chemical Efficiency, and Hybrid Fleet Sustainability Program
 category: technical-approach
 block-type: prose
-tags: [energy-optimization, chemical-efficiency, hybrid-fleet, sustainability, scada-energy-dashboard, membrane-filtration, ro-cip, benchmark]
+tags: [energy-management, chemical-management, sustainability, membrane-treatment, process-optimization]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Innovation and Advanced Techniques for Operational Efficiency: Energy Optimization; Chemical Efficiency"
 source-pages: [47, 48]

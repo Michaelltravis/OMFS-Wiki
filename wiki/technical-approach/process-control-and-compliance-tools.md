@@ -2,7 +2,7 @@
 title: Process Control and Compliance Tool Set (UPCPs, Sampling Plan, Data Management, STT)
 category: technical-approach
 block-type: prose
-tags: [process-control, upcp, sampling-plan, data-management, scada, sops, sample-tracking]
+tags: [process-control, industrial-pretreatment, sampling-monitoring, data-analytics, scada, operations-management]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Operational Approach / Process Tools and Oversight, Exhibit 5-4 (p. 22)"
 source-pages: [28]

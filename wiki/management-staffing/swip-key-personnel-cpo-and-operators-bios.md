@@ -2,7 +2,7 @@
 title: Key Personnel Bios — Chief Plant Operator and Operators in Charge
 category: management-staffing
 block-type: prose
-tags: [key-personnel, resume-bio, chief-plant-operator, operators-in-charge, awt3, mbr, ro, uv-aop, cross-training, safety-culture]
+tags: [key-personnel, resume-bio, advanced-water-treatment, membrane-treatment, knowledge-transfer, safety-program]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan — Project Team and Their Qualifications / Chief Plant Operator and Operators"
 source-pages: [76]
@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Detailed, technology-specific operator bios (MBR, ultrafiltration, RO, UV disinfection/UV-AOP) with named prior facilities across multiple MGD scales, plus a clear cross-training/coverage statement for off-hours and emergency response — a strong reusable pattern for advanced-treatment operator qualifications.
-reuse-notes: Named individuals and their real credentials are kept verbatim per wiki policy. Note: the source document's subheading names "Chris Catlin" as a third Operator alongside Josh Hernandez and Christen Wood, but the third bio beneath it is for Jason Holst — this appears to be a source-document inconsistency (Chris Catlin is elsewhere named Manager of Operations, not an Operator in Charge). Flagged here for the proposal team to verify/correct before reuse; the bios below are transcribed faithfully from the source.
+reuse-notes: 'Named individuals and their real credentials are kept verbatim per wiki policy. Note: the source document''s subheading names "Chris Catlin" as a third Operator alongside Josh Hernandez and Christen Wood, but the third bio beneath it is for Jason Holst — this appears to be a source-document inconsistency (Chris Catlin is elsewhere named Manager of Operations, not an Operator in Charge). Flagged here for the proposal team to verify/correct before reuse; the bios below are transcribed faithfully from the source.'
 ---
 
 # Key Personnel Bios — Chief Plant Operator and Operators in Charge

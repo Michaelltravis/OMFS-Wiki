@@ -2,7 +2,7 @@
 title: CMMS-Driven Asset Management and Maintenance Program
 category: technical-approach
 block-type: prose
-tags: [cmms, asset-management, preventive-maintenance, predictive-maintenance, cartegraph, regional-support, capital-planning, collection-system]
+tags: [cmms, asset-management, preventive-maintenance, predictive-maintenance, regional-support, capital-planning, collection-systems]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Asset Management and Maintenance (pp. 37-38, Exhibits 5-13, 5-14, 5-15)"
 source-pages: [43, 44]

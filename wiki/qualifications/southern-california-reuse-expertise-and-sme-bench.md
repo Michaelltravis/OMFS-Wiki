@@ -2,7 +2,7 @@
 title: Southern California Reuse Expertise — Named SME Bench and Regulatory Relationships
 category: qualifications
 block-type: prose
-tags: [subject-matter-experts, potable-reuse, direct-potable-reuse, indirect-potable-reuse, regulatory-relationships, permitting, southern-california, dpr-regulations]
+tags: [key-personnel, potable-reuse, regulatory-compliance, permit-compliance, southern-california]
 source: santamonica-swip-om-2025
 source-section: "2.2 Technical Qualifications, Capabilities, References and Relevant Experience"
 source-pages: [20]

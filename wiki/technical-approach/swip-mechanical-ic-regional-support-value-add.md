@@ -2,7 +2,7 @@
 title: Mechanical and I&C Regional Support Value-Add for Multi-Facility Clients
 category: technical-approach
 block-type: prose
-tags: [regional-support, mechanical-maintenance, instrumentation-and-controls, it-ot, value-add, staffing-model]
+tags: [regional-support, maintenance-program, instrumentation-controls, digital-tools, value-added-services, staffing-model]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — Mechanical and I&C Support at Other City Facilities"
 source-pages: [105]

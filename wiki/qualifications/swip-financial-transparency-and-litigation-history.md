@@ -2,7 +2,7 @@
 title: Financial Transparency/Disclosure Practices and Litigation History Disclosure
 category: qualifications
 block-type: prose
-tags: [financial-transparency, sec-filings, publicly-traded, fortune-500, litigation-disclosure, legal-standing, termination-history, ownership-structure]
+tags: [financial-qualifications, corporate-qualifications, corporate-scale, legal-disclosures]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Financial Transparency and Disclosure / Minimal Litigation History"
 source-pages: [64]

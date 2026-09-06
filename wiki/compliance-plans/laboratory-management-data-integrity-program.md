@@ -2,7 +2,7 @@
 title: Laboratory Management and Data Integrity Program
 category: compliance-plans
 block-type: prose
-tags: [laboratory, qa-qc, 40-cfr-136, data-integrity, pfas-sampling, chain-of-custody]
+tags: [laboratory-services, quality-assurance, sampling-monitoring]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Laboratory Management and Data Integrity (p. 25)"
 source-pages: [31]

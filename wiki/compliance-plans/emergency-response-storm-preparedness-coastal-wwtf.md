@@ -2,7 +2,7 @@
 title: Emergency Response and Storm Preparedness Program for Coastal Wastewater Systems
 category: compliance-plans
 block-type: prose
-tags: [emergency-response, storm-preparation, high-flow-management, flood-resilience, standby-power, coastal, collection-system]
+tags: [emergency-response, wet-weather, resilience-planning, energy-management, coastal, collection-systems]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Emergency Response and Storm Preparation (p. 35, Exhibit 5-11)"
 source-pages: [41]

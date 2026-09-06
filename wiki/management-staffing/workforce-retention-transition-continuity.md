@@ -2,7 +2,7 @@
 title: Retention-First Workforce Continuity Strategy for O&M Transitions
 category: management-staffing
 block-type: prose
-tags: [workforce-continuity, retention, knowledge-transfer, transition-plan, incumbent-staff, institutional-knowledge, mobilization, licensing]
+tags: [workforce-continuity, recruiting-retention, knowledge-transfer, transition-plan, mobilization, training-certification]
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [22, 23]

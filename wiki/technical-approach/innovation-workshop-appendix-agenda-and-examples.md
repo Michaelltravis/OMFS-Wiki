@@ -2,7 +2,7 @@
 title: Innovation Workshop Appendix — Proposed Agenda and Delivered-Workshop Examples
 category: technical-approach
 block-type: prose
-tags: [innovation, workshop, agenda, continuous-improvement, sme-engagement, energy, pfas, digital-tools, community-engagement]
+tags: [innovation, section-opener, continuous-improvement, key-personnel, energy-management, regulatory-compliance, digital-tools, community-engagement]
 source: hull-wwtf-om-2026
 source-section: "Section 7, Appendix D - Innovation Workshop Agenda and Examples (pp. D-1 to D-2)"
 source-pages: [85, 86]

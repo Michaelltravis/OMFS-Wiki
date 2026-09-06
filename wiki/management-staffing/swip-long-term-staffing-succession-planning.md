@@ -2,7 +2,7 @@
 title: Seamless Transition — Long-Term Staffing and Succession Planning Practices (Exhibit 3-6)
 category: management-staffing
 block-type: prose
-tags: [succession-planning, long-term-staffing, resource-planning-group, leadership-development, intern-program, mentor-program, maintenance-excellence-initiative, cross-training, retention, exhibit]
+tags: [succession-planning, staffing-model, workforce-development, maintenance-program, knowledge-transfer, recruiting-retention, exhibit]
 source: santamonica-swip-om-2025
 source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
 source-pages: [102]

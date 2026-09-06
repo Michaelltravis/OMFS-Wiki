@@ -2,7 +2,7 @@
 title: Value-Added Offerings Package — 1,000 Discounted Engineering Hours and a $4.1M No-Cost Bundle
 category: win-themes
 block-type: prose
-tags: [value-added-services, win-theme, no-cost-enhancements, benefit-framing, differentiator, discounted-engineering, innovation-workshop, asset-management, cybersecurity]
+tags: [value-added-services, win-theme, no-cost-value-add, benefit-framing, differentiator, innovation, asset-management, cybersecurity]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — 1,000 Hours of Discounted Engineering Services / Value-Added Offerings (Included in Our Base Fee)"
 source-pages: [9, 13]

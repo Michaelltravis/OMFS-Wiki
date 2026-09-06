@@ -2,7 +2,7 @@
 title: Comprehensive O&M Plan Document Roster (30-Plan Framework)
 category: technical-approach
 block-type: prose
-tags: [om-plan, plan-roster, sop, transition, exhibit, program-documents, leadership-tailoring]
+tags: [operations-management, staffing-model, transition-management, exhibit, management-plan]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Strategic O&M Plans Built on Best Practices and Innovation, Exhibit 2-9"
 source-pages: [34]

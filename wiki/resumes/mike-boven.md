@@ -2,7 +2,7 @@
 title: "Resume — Mike Boven (Transition Manager)"
 category: resumes
 block-type: prose
-tags: [resume, transition-manager, water-reuse, startup, michigan-license, business-development, west-basin, santa-monica-swip, goderich-ontario]
+tags: [resume-bio, key-personnel, water-reuse, mobilization, michigan, workforce-development, southern-california, ontario]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, p. 72 (A-4)"
 source-pages: [72]

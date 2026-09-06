@@ -2,7 +2,7 @@
 title: Facility-by-Facility Goals, Challenges, and Strategy Matrix (Multi-Facility Water Reuse O&M)
 category: technical-approach
 block-type: table
-tags: [project-understanding, goals-challenges-response, exhibit, section-opener, water-reuse, scada, cmms, stormwater, injection-wells, multi-facility-om]
+tags: [project-understanding, exhibit, section-opener, water-reuse, scada, cmms, stormwater, groundwater-recharge, multi-facility-operations]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Jacobs Understands [CLIENT]'s Challenges and Goals for its Facilities, Exhibit 2-6"
 source-pages: [30, 31]

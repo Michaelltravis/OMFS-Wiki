@@ -2,7 +2,7 @@
 title: References Section Overview — Advanced Water Treatment O&M Portfolio Framing
 category: past-performance
 block-type: prose
-tags: [references-overview, west-basin, soquel-creek, turlock, clovis, portfolio-summary, water-reuse, reference-project]
+tags: [reference-projects, southern-california, california, water-reuse]
 source: santamonica-swip-om-2025
 source-section: "2.3 References"
 source-pages: [21]
@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Verbatim references-section framing paragraph that ties together the four detailed reference sheets that follow; a working model for how to introduce a references section with a one-paragraph-per-reference summary and a closing relevance tie-back to the pursuing client.
-reuse-notes: Verbatim past-performance content — real client names retained per wiki policy. Swap the four summarized references for the 3-5 most technically and geographically relevant to the new RFP, and rewrite the closing sentence to name the new client. Keep the structure: client, facility, key technology, relevance.
+reuse-notes: 'Verbatim past-performance content — real client names retained per wiki policy. Swap the four summarized references for the 3-5 most technically and geographically relevant to the new RFP, and rewrite the closing sentence to name the new client. Keep the structure: client, facility, key technology, relevance.'
 ---
 
 # References Section Overview (Santa Monica SWIP Operations RFP, 2025)

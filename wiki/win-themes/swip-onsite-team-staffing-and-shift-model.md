@@ -2,7 +2,7 @@
 title: High-Caliber Onsite Team — Named Leadership, Certifications, Regional Surge, and Shift Model
 category: win-themes
 block-type: prose
-tags: [win-theme, staffing-model, key-personnel, shift-schedule, cross-training, certifications, workforce-development, regional-bench]
+tags: [win-theme, staffing-model, key-personnel, knowledge-transfer, training-certification, workforce-development, regional-support]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — High-Caliber Onsite Team: Qualifications and Commitment"
 source-pages: [7, 8]

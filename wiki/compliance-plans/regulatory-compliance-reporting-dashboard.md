@@ -2,7 +2,7 @@
 title: Regulatory Compliance Reporting and Real-Time Dashboard
 category: compliance-plans
 block-type: prose
-tags: [compliance-reporting, dashboard, dmr, netdmr, cso-notifications, pfas-reporting, transparency]
+tags: [compliance-reporting, performance-reporting, transparency]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Execution and Transparency / Regulatory Compliance, Exhibit 5-7 (p. 24, p. 26)"
 source-pages: [30, 32]

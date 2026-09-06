@@ -2,7 +2,7 @@
 title: Key Personnel Bios — Maintenance Technician and I&C Technician
 category: management-staffing
 block-type: prose
-tags: [key-personnel, resume-bio, maintenance-technician, instrumentation-controls-technician, cmms, scada, asset-management, workforce-development]
+tags: [key-personnel, resume-bio, instrumentation-controls, cmms, scada, asset-management, workforce-development]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan — Project Team and Their Qualifications / Maintenance and I&C Technicians"
 source-pages: [77]

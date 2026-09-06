@@ -2,7 +2,7 @@
 title: Partnership Framing — Extension of Client Staff, Quantified Technical Bench, and Integrated O&M plus Engineering
 category: win-themes
 block-type: prose
-tags: [win-theme, partnership-framing, extension-of-staff, technical-bench, regional-support, integrated-engineering, kpi-dashboard, single-point-of-contact]
+tags: [win-theme, partnership, more-than-an-operator, regional-support, performance-reporting, project-management]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Our Role: An Extension of City Staff / Our Technical Bench and Regional Support / More Than an Operator"
 source-pages: [8]

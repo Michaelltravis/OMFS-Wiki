@@ -2,7 +2,7 @@
 title: Six-Point Compliance Program
 category: compliance-plans
 block-type: prose
-tags: [compliance-program, npdes, ethics, audits, transparency, sop-training]
+tags: [regulatory-compliance, compliance-reporting, quality-assurance, transparency, training-certification]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Regulatory Compliance, Exhibit 5-6 (pp. 24-25)"
 source-pages: [30, 31]

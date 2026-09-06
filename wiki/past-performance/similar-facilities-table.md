@@ -2,7 +2,7 @@
 title: "Appendix C — Facilities Similar to the Town (Full Reference Table)"
 category: past-performance
 block-type: table
-tags: [past-performance, similar-facilities, reference-table, appendix-c, capacity, contract-duration, portfolio-breadth]
+tags: [past-performance, reference-projects, appendix, corporate-scale]
 source: hull-wwtf-om-2026
 source-section: "Appendix C - Facilities Similar to the Town, pp. C-1 to C-2"
 source-pages: [81, 82, 83]

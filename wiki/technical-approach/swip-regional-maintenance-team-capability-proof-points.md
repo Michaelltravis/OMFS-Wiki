@@ -2,7 +2,7 @@
 title: Regional Maintenance Team Capability — Proof-Point Case Studies
 category: technical-approach
 block-type: prose
-tags: [regional-maintenance, asset-management, maintenance-case-studies, uv-system-replacement, ats-replacement, hvac-installation, instrumentation-replacement, proof-points]
+tags: [regional-support, asset-management, case-study, maintenance-program, proof-point]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan — Expert Maintenance Resources, Proven, Mobilized, and Ready"
 source-pages: [78]

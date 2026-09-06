@@ -2,7 +2,7 @@
 title: Seamless Transition — Four-Phase Transition Model and Preliminary Transition Schedule (Exhibit 3-5)
 category: management-staffing
 block-type: table
-tags: [transition-plan, transition-phasing, gantt-schedule, pre-start-transition, mobilization-timeline, task-lead, milestone-schedule, exhibit]
+tags: [transition-plan, transition-management, diagram, mobilization, exhibit]
 source: santamonica-swip-om-2025
 source-section: "3.4 Seamless Transition: Administrative and Operational Plan for Transition to Jacobs"
 source-pages: [100, 101]

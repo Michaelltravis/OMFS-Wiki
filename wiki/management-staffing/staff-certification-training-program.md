@@ -2,7 +2,7 @@
 title: Staff Certification, Training, and Advancement Incentive Program
 category: management-staffing
 block-type: prose
-tags: [certification, training, licensing, operator-in-training, workforce-development, incentive-program, safety-training, asset-management]
+tags: [training-certification, key-personnel, workforce-development, recruiting-retention, safety-program, asset-management]
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [22]

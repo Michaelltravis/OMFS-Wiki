@@ -2,7 +2,7 @@
 title: Transition Due Diligence and Mobilization Governance Checklist
 category: compliance-plans
 block-type: prose
-tags: [transition-plan, mobilization, due-diligence, regulatory-compliance, transparency, cybersecurity, scada, asset-management]
+tags: [transition-plan, mobilization, project-understanding, regulatory-compliance, transparency, cybersecurity, scada, asset-management]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Transition Plan, Immediate Mobilization and Governance (p. 41)"
 source-pages: [47]

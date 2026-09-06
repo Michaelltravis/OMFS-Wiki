@@ -2,7 +2,7 @@
 title: California O&M Track Record and OMFS Corporate Governance Structure
 category: qualifications
 block-type: prose
-tags: [california-experience, track-record, corporate-structure, org-chart, governance, omfs, executive-sponsor, escalation-support, membrane-filtration, indirect-potable-reuse]
+tags: [california, past-performance, corporate-qualifications, org-chart, project-management, key-personnel, membrane-treatment, potable-reuse]
 source: santamonica-swip-om-2025
 source-section: "Section 2, 2.1 Firm History"
 source-pages: [16]

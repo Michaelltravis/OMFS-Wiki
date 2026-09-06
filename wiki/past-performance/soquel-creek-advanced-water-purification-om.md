@@ -2,7 +2,7 @@
 title: Soquel Creek Advanced Water Purification O&M — Reference Project (Soquel Creek Water District, CA)
 category: past-performance
 block-type: prose
-tags: [soquel-creek, advanced-oxidation, reverse-osmosis, ozonation, granular-activated-carbon, groundwater-replenishment, seawater-intrusion, omar-contracting, design-build, reference-project]
+tags: [california, advanced-water-treatment, membrane-treatment, groundwater-recharge, desalination, operations-management, design-build, reference-projects]
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Soquel Creek Advanced Water Purification O&M (pp. PD-3–PD-4)"
 source-pages: [24, 25]

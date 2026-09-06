@@ -2,7 +2,7 @@
 title: Safety Plan and Management with BeyondZero Culture and Multi-Year Performance Metrics
 category: compliance-plans
 block-type: prose
-tags: [safety-plan, beyondzero, safety-scorecard, trir, emr, dart, iipp, bzo-observations, safety-benchmarking, exhibit]
+tags: [safety-program, exhibit]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Safety Plan and Management: Health and Safety; Safety Tracking and Performance (Exhibits 2-20, 2-21, 2-22)"
 source-pages: [49]

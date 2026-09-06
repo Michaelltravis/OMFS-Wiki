@@ -2,7 +2,7 @@
 title: Regional Technical Support Bench — Committed-Hours Model
 category: management-staffing
 block-type: roster
-tags: [technical-support, regional-bench, subject-matter-experts, staffing-model, subcontractor-management, committed-hours, asset-management, odor-control, energy-management]
+tags: [regional-support, key-personnel, staffing-model, procurement, value-added-services, asset-management, odor-control, energy-management]
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [21, 22, 23]

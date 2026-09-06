@@ -2,7 +2,7 @@
 title: Bottom Line — Executive Summary Close and Boxed Best-Value Positioning Statement
 category: win-themes
 block-type: prose
-tags: [win-theme, executive-summary, closing-statement, positioning-statement, benefit-framing, differentiator, partnership-framing]
+tags: [win-theme, executive-summary, closing-statement, benefit-framing, differentiator, partnership]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Bottom Line"
 source-pages: [13]

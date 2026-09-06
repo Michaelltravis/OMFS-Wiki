@@ -2,7 +2,7 @@
 title: Annual Innovation Workshop — No-Cost Continuous Improvement Program
 category: technical-approach
 block-type: prose
-tags: [innovation-workshop, continuous-improvement, differentiator, no-cost-value-add, client-testimonial, industry-experts]
+tags: [innovation, continuous-improvement, differentiator, no-cost-value-add, testimonial, key-personnel]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Communications and Reporting / Annual Innovation Workshop"
 source-pages: [62]
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/technical-approach/annual-innovation-workshop-program.md
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A named, differentiated no-cost annual program with a real sample agenda, two attributed client testimonials (names, titles, phone numbers), and a quantified outcome (energy savings opportunities valued at more than $1 million for the Wilmington WWTP) — strong, credible differentiator content that also answers "what do you do that an O&M-only contractor cannot."
 reuse-notes: The workshop concept and the three "what sets ours apart" points are firm-wide and reusable as-is. The two testimonials and the Wilmington WWTP savings figure belong to other (non-pursuit) reference clients and are kept verbatim — confirm continued permission for the named contacts and their phone numbers before external use, and register the $1 million figure in the proof-point registry. The sample agenda is from the 2024 Wilmington, DE workshop and should be rebuilt around the target client's own technical priorities.

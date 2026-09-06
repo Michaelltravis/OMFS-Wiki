@@ -2,7 +2,7 @@
 title: Community Involvement and Outreach Program — Advanced Water Reuse Facility
 category: technical-approach
 block-type: prose
-tags: [community-outreach, public-education, water-reuse-education, ipr-dpr, stakeholder-engagement, stem-programs, corporate-citizenship, workforce-development]
+tags: [community-engagement, potable-reuse, community-stewardship, workforce-development]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Community Involvement and Outreach"
 source-pages: [70, 71]

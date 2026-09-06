@@ -2,7 +2,7 @@
 title: Grant, Loan, and Capital Funding Strategy Support Services
 category: technical-approach
 block-type: prose
-tags: [grant-loan-support, wifia, funding-strategy, capital-planning, financial-services, cip, low-interest-financing]
+tags: [capital-planning]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Jacobs Grant/Loan Support Services (Exhibit 5-12)"
 source-pages: [42, 43]

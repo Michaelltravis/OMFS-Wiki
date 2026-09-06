@@ -2,7 +2,7 @@
 title: Capital Planning, Construction Support, and Targeted Maintenance Innovation Studies
 category: compliance-plans
 block-type: prose
-tags: [capital-planning, cip, asset-management, innovation, predictive-maintenance, resiliency, construction-support, workshop]
+tags: [capital-planning, asset-management, innovation, predictive-maintenance, resilience-planning, construction-support]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Technical Expertise for Capital Planning Efforts; Support for Planning and Executing Construction Projects; Innovative Opportunities for Enhanced Maintenance (pp. 39-40)"
 source-pages: [45, 46]

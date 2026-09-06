@@ -2,7 +2,7 @@
 title: Hybrid Shift Schedule (4/10 and 5/8) and On-Call Staffing Plan
 category: management-staffing
 block-type: prose
-tags: [shift-schedule, hybrid-staffing-model, alternative-work-schedule, on-call-staffing, leadership-engagement-percentage, coverage-table, safety-culture]
+tags: [staffing-model, table-layout, safety-program]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan — Shift Schedules, On-Call Staffing, Exhibit 3-2"
 source-pages: [79]

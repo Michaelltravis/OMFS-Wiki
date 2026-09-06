@@ -2,7 +2,7 @@
 title: Phased Baseline-to-Optimization O&M Transition Approach
 category: technical-approach
 block-type: prose
-tags: [transition-approach, process-diagnostics, baseline-assessment, process-modeling, mass-balance, optimization]
+tags: [transition-management, process-optimization, process-modeling]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Our Phased Approach to Sustainable Operations, Exhibit 5-5 (pp. 23-24)"
 source-pages: [29, 30]

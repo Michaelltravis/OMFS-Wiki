@@ -2,7 +2,7 @@
 title: Laboratory Management and Sampling/QA-QC Plan
 category: compliance-plans
 block-type: prose
-tags: [laboratory-management, sampling-plan, qa-qc, chain-of-custody, hach-wims, document-control, lab-startup, epa-methods]
+tags: [laboratory-services, sampling-monitoring, quality-assurance, digital-tools]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Laboratory Management and Sampling Plan"
 source-pages: [54, 55]

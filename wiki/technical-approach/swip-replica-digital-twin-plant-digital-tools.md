@@ -2,7 +2,7 @@
 title: Plant Process Optimization with Digital Tools and the Replica Digital Twin
 category: technical-approach
 block-type: prose
-tags: [digital-twin, replica, biowin, pro2d, process-modeling, process-optimization, cmms, cloud-analytics, digital-tools, exhibit]
+tags: [process-modeling, digital-tools, process-optimization, cmms, exhibit]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Plant Process Optimization: Leveraging Digital Tools and Data-Driven Operations; Replica(TM) Digital Twin (Exhibit 2-17)"
 source-pages: [46]
@@ -23,7 +23,7 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
-quality: The digital-tools half of the process-optimization story: a calibrated digital process model selected from a named toolkit (BioWin, Pro2D, Replica), a worked example of what the model answers (lowering the DO setpoint traded against anoxic-zone nitrate removal), and a named digital-twin case at the Tillman AWPF where Replica optimized flow balance between an existing WWTP and a new AWPF and helped size membranes.
+quality: 'The digital-tools half of the process-optimization story: a calibrated digital process model selected from a named toolkit (BioWin, Pro2D, Replica), a worked example of what the model answers (lowering the DO setpoint traded against anoxic-zone nitrate removal), and a named digital-twin case at the Tillman AWPF where Replica optimized flow balance between an existing WWTP and a new AWPF and helped size membranes.'
 reuse-notes: The modeling-toolkit description, the single-source-of-truth digital-twin framing, and the Tillman AWPF case example are corporate capability content reusable across advanced-treatment pursuits; confirm the Tillman reference is still current and approved for external use. The DO-setpoint example is specific to MBR and activated-sludge trains - substitute an equivalent trade-off question for other process trains. Pairs with swip-process-optimization-digital-modeling.md, the process-control methodology this model supports.
 ---
 

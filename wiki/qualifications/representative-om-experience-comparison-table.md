@@ -2,7 +2,7 @@
 title: Representative O&M Experience Comparison Table — Reuse Facilities in California
 category: qualifications
 block-type: table
-tags: [comparison-table, similar-facilities, reuse-experience, mbr, ro-membranes, uv-aop, indirect-potable-reuse, non-potable-reuse, title-22, asset-management, exhibit-pattern]
+tags: [table-layout, reference-projects, water-reuse, membrane-treatment, advanced-water-treatment, potable-reuse, asset-management, exhibit]
 source: santamonica-swip-om-2025
 source-section: "2.2 Technical Qualifications, Capabilities, References and Relevant Experience"
 source-pages: [20]

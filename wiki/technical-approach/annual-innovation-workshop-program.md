@@ -2,7 +2,7 @@
 title: Annual Innovation Workshop Program
 category: technical-approach
 block-type: prose
-tags: [innovation, continuous-improvement, workshop, sustainability, differentiator, sme-engagement]
+tags: [innovation, continuous-improvement, sustainability, differentiator, key-personnel]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Annual Innovation Workshops Drive Continuous Improvement and Innovation (pp. 21-22)"
 source-pages: [27, 28]
@@ -16,12 +16,13 @@ win-theme-map: [innovation-value-add, partner-transparency, energy-chemical-effi
 proof-point-ids: [PP-0141, PP-0278, PP-0279]
 testimonial-ids: []
 story-ids: [ST-0012]
-status: preferred
+status: fallback
 house-favorite: true
 sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+superseded-by: wiki/technical-approach/swip-annual-innovation-workshop.md
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Strong, low-cost differentiator — a recurring, no-cost annual forum with named SME topic areas that ties directly into the CIP and long-term planning process, backed by named prior-workshop precedents (Traverse City, MI and Wilmington, NC) and an appendix agenda.
 reuse-notes: Filter the topic list to what is genuinely relevant to the target facility (biosolids, energy, PFAS, AI, regionalization); evaluators can tell when a topic list was not customized. Keep the prior-workshop client references (Traverse City, MI; Wilmington, NC) only if those agendas are actually included as an appendix. The client testimonial requires a genuinely obtained, current quote and the quoted individual's permission before reuse.

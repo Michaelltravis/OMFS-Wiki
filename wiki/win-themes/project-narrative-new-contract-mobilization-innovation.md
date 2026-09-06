@@ -2,7 +2,7 @@
 title: "Project Narrative — Newly Mobilized Contract Framed Around Investment and Innovation (Small New England WWTP)"
 category: win-themes
 block-type: prose
-tags: [project-narrative, past-performance, mobilization, transition, composting, odor-control, ai-cctv, innovation-workshop, unanimous-selection, digital-tools]
+tags: [project-description, past-performance, mobilization, transition-management, biosolids, odor-control, digital-tools, innovation, proof-point]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-3"
 source-pages: [78]

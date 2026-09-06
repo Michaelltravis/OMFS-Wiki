@@ -2,7 +2,7 @@
 title: O&M Contract Transition Work Plan — Phased Schedule Structure
 category: management-staffing
 block-type: table
-tags: [transition-plan, mobilization, gantt-chart, phasing, staffing-transition, om-startup, contract-transition, work-plan]
+tags: [transition-plan, mobilization, diagram, transition-management, workforce-continuity, operations-management]
 source: hull-wwtf-om-2026
 source-section: "Section 7, Appendix G - Transition Activity Gantt Chart (pp. G-1 to G-2)"
 source-pages: [99, 100]

@@ -2,7 +2,7 @@
 title: Integrated Safety, Security, and Cybersecurity Program for Wastewater Facilities
 category: compliance-plans
 block-type: prose
-tags: [safety, beyondzero, physical-security, cybersecurity, scada-security, emr, site-specific-safety-plan, ot-security]
+tags: [safety-program, cybersecurity]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Integrated Safety, Security, and Cyber Resilience (pp. 33-34, Exhibit 5-10)"
 source-pages: [39, 40]

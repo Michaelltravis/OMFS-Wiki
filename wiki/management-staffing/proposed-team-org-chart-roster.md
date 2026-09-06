@@ -2,7 +2,7 @@
 title: Proposed Team Org-Chart Roster — On-Site FTEs and Off-Site Regional/Technical Support
 category: management-staffing
 block-type: table
-tags: [org-chart, fte-roster, staffing-structure, onsite-offsite, key-personnel, team-overview, matrix-support]
+tags: [org-chart, staffing-model, key-personnel, staffing-plan, regional-support]
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [20]

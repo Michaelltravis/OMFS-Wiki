@@ -2,7 +2,7 @@
 title: Transmittal Letter — "Our Value to the Client" Eight-Bullet Value List
 category: win-themes
 block-type: prose
-tags: [cover-letter, transmittal-letter, value-proposition, win-theme, dpr-readiness, advanced-water-treatment, potable-reuse, staffing, kpi-reporting, transition, innovation, value-added-services]
+tags: [cover-letter, transmittal-letter, benefit-framing, win-theme, potable-reuse, advanced-water-treatment, staffing-model, performance-reporting, transition-management, innovation, value-added-services]
 source: santamonica-swip-om-2025
 source-section: "Section 1: Letter of Transmittal"
 source-pages: [4, 5]

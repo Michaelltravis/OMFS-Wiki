@@ -2,7 +2,7 @@
 title: Lifecycle Delivery and Maintenance Strategy — PM/PdM Blend, CMMS Workflow, and Work-Order Service Levels
 category: technical-approach
 block-type: prose
-tags: [preventive-maintenance, predictive-maintenance, cmms, work-order-management, lifecycle-delivery, facility-appearance, maintenance-planning]
+tags: [preventive-maintenance, predictive-maintenance, cmms, design-build, facility-management, maintenance-program]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Asset Management-Centered Maintenance Approach / Lifecycle Delivery and Maintenance Strategy"
 source-pages: [58]

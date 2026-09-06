@@ -2,7 +2,7 @@
 title: Executive Summary Opening — Client Vision, Integrated Reuse System Understanding, and DPR Pathway
 category: win-themes
 block-type: prose
-tags: [executive-summary, opening-hook, win-theme, system-understanding, dpr-readiness, direct-potable-reuse, process-flow-diagram, benefits-callout, water-reuse]
+tags: [executive-summary, opening-hook, win-theme, project-understanding, potable-reuse, diagram, callout-box, water-reuse]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Client's Vision for the Program and DPR"
 source-pages: [6]

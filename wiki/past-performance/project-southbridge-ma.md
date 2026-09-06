@@ -2,7 +2,7 @@
 title: "Project Description — Southbridge Wastewater Treatment Plant O&M (Town of Southbridge, MA)"
 category: past-performance
 block-type: prose
-tags: [past-performance, project-description, southbridge, massachusetts, mobilization, composting, odor-control, ai-cctv, dragonfly-ai, unanimous-selection, innovation-workshop]
+tags: [past-performance, project-description, massachusetts, mobilization, biosolids, odor-control, digital-tools, proof-point, innovation]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-3"
 source-pages: [78]

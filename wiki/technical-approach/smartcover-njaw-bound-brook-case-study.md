@@ -2,7 +2,7 @@
 title: SmartCover / NJAW Bound Brook — Accelerated I&I Isolation and SSO Elimination Case Study
 category: technical-approach
 block-type: prose
-tags: [collection-system, inflow-infiltration, sso-prevention, real-time-monitoring, case-study, predictive-analytics, capital-planning, cleaning-optimization, digital-tools]
+tags: [collection-systems, inflow-infiltration, sampling-monitoring, case-study, data-analytics, capital-planning, digital-tools]
 source: hull-wwtf-om-2026
 source-section: "Section 7, Appendix E - SmartCover Information — New Jersey American Water (NJAW) Bound Brook"
 source-pages: [92, 93]

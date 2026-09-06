@@ -2,7 +2,7 @@
 title: Innovation and Value-Added Offerings Overview (Included-in-Base-Fee Program Wheel)
 category: technical-approach
 block-type: prose
-tags: [innovation, value-added-services, base-fee-inclusions, annual-innovation-workshop, asset-management, cybersecurity, exhibit, innovation-partnerships]
+tags: [innovation, value-added-services, asset-management, cybersecurity, exhibit]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Innovation and Advanced Techniques for Operational Efficiency (Exhibit 2-16); Innovation Partnerships and Pilots; Benefits to the Client"
 source-pages: [45, 46, 47]
@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A single wheel exhibit that itemizes ten value-added services bundled into the base fee, each with an assigned value and a one-line description, rolling up to a $4.1 million five-year total - the strongest incumbent-displacement device in this proposal, because it converts an abstract claim of extra value into a countable benefits package.
-reuse-notes: These figures are value-delivered-at-no-additional-charge amounts, not fee or rate content, and they are kept. They are scoped to this pursuit's facility set: re-scope, re-cost, and re-verify every line and the headline total against the target pursuit's actual facilities and negotiated inclusions - reuse the device, not the numbers. The benefits paragraph is largely generic and adapts easily.
+reuse-notes: 'These figures are value-delivered-at-no-additional-charge amounts, not fee or rate content, and they are kept. They are scoped to this pursuit''s facility set: re-scope, re-cost, and re-verify every line and the headline total against the target pursuit''s actual facilities and negotiated inclusions - reuse the device, not the numbers. The benefits paragraph is largely generic and adapts easily.'
 ---
 
 # Innovation and Value-Added Offerings Overview (Included-in-Base-Fee Program Wheel)

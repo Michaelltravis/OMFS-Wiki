@@ -2,7 +2,7 @@
 title: "Section 3 Reference Tables — Exhibit 3-5 (Reference Projects) and Exhibit 3-3 (Representative Experience)"
 category: past-performance
 block-type: table
-tags: [past-performance, client-references, reference-contacts, exhibit-3-5, exhibit-3-3, appendix-b-source, portfolio-breadth]
+tags: [past-performance, reference-projects, exhibit, appendix, corporate-scale]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Exhibit 3-3 Representative Experience and Exhibit 3-5 Reference Projects"
 source-pages: [13, 15]

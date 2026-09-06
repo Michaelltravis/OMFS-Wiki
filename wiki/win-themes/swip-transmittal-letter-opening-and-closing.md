@@ -2,7 +2,7 @@
 title: Transmittal Letter — Opening Frame, Positioning Paragraph, and Partnership Close
 category: win-themes
 block-type: prose
-tags: [cover-letter, transmittal-letter, win-theme, value-proposition, potable-reuse, advanced-water-treatment, dpr-readiness, regulatory-compliance, partnership, client-focus, transition]
+tags: [cover-letter, transmittal-letter, win-theme, benefit-framing, potable-reuse, advanced-water-treatment, regulatory-compliance, partnership, trusted-partner, transition-management]
 source: santamonica-swip-om-2025
 source-section: "Section 1: Letter of Transmittal"
 source-pages: [4, 5]

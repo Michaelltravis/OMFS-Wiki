@@ -2,7 +2,7 @@
 title: SCADA Control System Redundancy Upgrade Recommendation
 category: technical-approach
 block-type: prose
-tags: [scada, ignition, hyperconverged-infrastructure, redundancy, control-system, resiliency, unpriced-recommendation]
+tags: [scada, instrumentation-controls, resilience-planning, value-added-services]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — Additional Items for Consideration, SCADA Control System Deployment"
 source-pages: [106]

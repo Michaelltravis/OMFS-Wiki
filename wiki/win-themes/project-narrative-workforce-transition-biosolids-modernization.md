@@ -2,7 +2,7 @@
 title: "Project Narrative — Workforce Transition Success Paired With Biosolids Modernization (Regional Utility Authority)"
 category: win-themes
 block-type: prose
-tags: [project-narrative, past-performance, staff-transition, workforce-retention, biosolids, thermal-hydrolysis, class-a-biosolids, scada-upgrades, regional-authority, industrial-pretreatment]
+tags: [project-description, past-performance, workforce-continuity, biosolids, maintenance-program, regional-authority, industrial-pretreatment]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Description, p. B-4"
 source-pages: [79]

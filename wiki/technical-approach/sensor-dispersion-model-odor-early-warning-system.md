@@ -1,10 +1,15 @@
 ---
 title: Sensor-to-Dispersion-Model Early Warning System for Proactive Odor Mitigation
 category: technical-approach
-tags: [odor-control, early-warning-system, aermod, dispersion-modeling, h2s-monitoring, sumo-model, complaint-management, proactive-operations]
+tags: [odor-control, data-analytics, process-modeling, operations-management]
 source: hull-wwtf-om-2026
 source-section: "Appendix F - WATS Modeling (p. F-2)"
 story-ids: []
+status: preferred
+house-favorite: false
+proof-point-ids: []
+extracted: '2026-09-05'
+last-verified: '2026-09-05'
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: Compact, visual, easily-understood differentiator chaining real-time sensing to predictive dispersion modeling; strong for win-theme and technical-approach sections addressing community odor complaints near sensitive receptors.

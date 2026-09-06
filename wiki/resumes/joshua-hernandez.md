@@ -2,7 +2,7 @@
 title: Joshua Hernandez - Operator (WW Operator Grade V, AWT3)
 category: resumes
 block-type: prose
-tags: [operator, wastewater-grade-v, scada, process-control, laboratory-testing, mentorship, automation, key-personnel]
+tags: [key-personnel, training-certification, scada, process-control, laboratory-services, workforce-development, instrumentation-controls]
 source: santamonica-swip-om-2025
 source-section: "3.2 Resumes - Joshua Hernandez (p. 87)"
 source-pages: [87]

@@ -2,7 +2,7 @@
 title: Top Water Reuse Experts On Call — Named National Potable-Reuse Leaders Behind the Onsite Team
 category: win-themes
 block-type: prose
-tags: [win-theme, sme-bench, named-experts, direct-potable-reuse, dpr, water-reuse, differentiator, regulatory-engagement]
+tags: [win-theme, key-personnel, potable-reuse, water-reuse, differentiator, regulatory-compliance]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Top Water Reuse Experts: On Call for the City"
 source-pages: [9]

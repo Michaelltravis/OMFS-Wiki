@@ -2,7 +2,7 @@
 title: Key Personnel Bios — Director of Operations and Manager of Operations, with AWTO Compliance Leadership Framing
 category: management-staffing
 block-type: prose
-tags: [key-personnel, resume-bio, director-of-operations, manager-of-operations, awto-certification, awt5, leadership-structure, regulatory-compliance, regional-bench]
+tags: [key-personnel, resume-bio, training-certification, advanced-water-treatment, management-plan, regulatory-compliance, regional-support]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan — Project Team and Their Qualifications / Onsite O&M Team"
 source-pages: [75]

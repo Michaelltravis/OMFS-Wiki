@@ -2,7 +2,7 @@
 title: "Project Description — South Huron Wastewater Treatment Plant O&M (South Huron Valley Utility Authority, Rockwood, MI)"
 category: past-performance
 block-type: prose
-tags: [past-performance, project-description, south-huron, rockwood-michigan, workforce-transition, biosolids, thermal-hydrolysis, class-a-biosolids, scada, regional-authority, industrial-pretreatment]
+tags: [past-performance, project-description, michigan, workforce-continuity, biosolids, scada, regional-authority, industrial-pretreatment]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Description, p. B-4"
 source-pages: [79]

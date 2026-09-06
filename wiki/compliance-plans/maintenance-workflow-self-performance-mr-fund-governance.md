@@ -2,7 +2,7 @@
 title: Maintenance Workflow, Self-Performance, and M&R Fund Governance
 category: compliance-plans
 block-type: prose
-tags: [work-order-workflow, self-performance, housekeeping, asset-management, cmms, transparency, sop, cross-training, storm-preparedness]
+tags: [cmms, self-performance, facility-management, asset-management, transparency, operations-management, knowledge-transfer, emergency-response]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Maintenance workflow, Self-Performance with Specialist Depth, Housekeeping, Whole-System Asset Planning, M&R governance, SOPs/Training/Storm Readiness (p. 39, Exhibits 5-16 and 5-17)"
 source-pages: [45]

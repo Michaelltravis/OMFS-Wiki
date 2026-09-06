@@ -3,7 +3,7 @@ title: Embedding a Client Testimonial Pull-Quote Inside a Technical Narrative Se
 category: win-themes
 block-type: recipe
 pairs-with: wiki/technical-approach/collection-system-om-program.md
-tags: [testimonial, client-quote, proof-point, mid-narrative-placement, collection-system, differentiator]
+tags: [testimonial, proof-point, structure-pattern, collection-systems, differentiator]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Collections (p. 28, sidebar pull-quote)"
 source-pages: [34]

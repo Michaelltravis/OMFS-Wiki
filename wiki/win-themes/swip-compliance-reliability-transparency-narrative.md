@@ -2,7 +2,7 @@
 title: How We Will Deliver Results — Operate to Permits and KPIs, QA/QC and Audits, Reporting and Dashboards
 category: win-themes
 block-type: prose
-tags: [win-theme, compliance, kpi-reporting, dashboard, qa-qc, audits, alarm-management, monthly-reporting, digital-tools]
+tags: [win-theme, regulatory-compliance, performance-reporting, quality-assurance, scada, digital-tools]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — How We Will Deliver Results: Compliance, Reliability, Transparency"
 source-pages: [10]

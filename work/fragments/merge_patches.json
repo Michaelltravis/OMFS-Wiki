@@ -1,0 +1,18 @@
+[
+  {
+    "path": "wiki/technical-approach/swip-om-project-execution-framework.md",
+    "set": {"status": "preferred", "supersedes": "wiki/technical-approach/om-management-systems-framework.md"}
+  },
+  {
+    "path": "wiki/technical-approach/om-management-systems-framework.md",
+    "set": {"status": "fallback", "superseded-by": "wiki/technical-approach/swip-om-project-execution-framework.md"}
+  },
+  {
+    "path": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+    "set": {"status": "preferred", "supersedes": "wiki/technical-approach/annual-innovation-workshop-program.md"}
+  },
+  {
+    "path": "wiki/technical-approach/annual-innovation-workshop-program.md",
+    "set": {"status": "fallback", "superseded-by": "wiki/technical-approach/swip-annual-innovation-workshop.md"}
+  }
+]

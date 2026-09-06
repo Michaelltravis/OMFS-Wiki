@@ -2,7 +2,7 @@
 title: Collection System O&M Program (I/I Reduction, CCTV/Cleaning, SmartCover Monitoring)
 category: technical-approach
 block-type: prose
-tags: [collection-system, inflow-infiltration, cctv, sewer-cleaning, smartcover, sl-rat, saltwater-intrusion, grinder-pumps]
+tags: [collection-systems, inflow-infiltration, sampling-monitoring, desalination]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Collection System O&M (pp. 28-30)"
 source-pages: [34, 35, 36]

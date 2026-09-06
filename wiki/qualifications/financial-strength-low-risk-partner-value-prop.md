@@ -2,7 +2,7 @@
 title: Financial Strength, Audited Reporting, and Low-Risk Partner Positioning
 category: qualifications
 block-type: prose
-tags: [financial-qualifications, low-risk-partner, corporate-stability, closing-statement, value-proposition, omfs-revenue, bonding-capacity]
+tags: [financial-qualifications, corporate-qualifications, closing-statement, benefit-framing]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Financial Qualifications (Exhibit 3-4) and closing value-proposition callout"
 source-pages: [14]

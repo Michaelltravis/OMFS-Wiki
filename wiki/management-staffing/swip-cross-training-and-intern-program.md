@@ -2,7 +2,7 @@
 title: Cross-Training for Resiliency and Intern Program Support
 category: management-staffing
 block-type: prose
-tags: [cross-training, workforce-resiliency, intern-program, awto-certification, staff-development, employer-brand, regional-bench]
+tags: [knowledge-transfer, workforce-continuity, workforce-development, training-certification, recruiting-retention, regional-support]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan - Cross-Training for Resiliency / Supporting the City's Intern Program"
 source-pages: [80]

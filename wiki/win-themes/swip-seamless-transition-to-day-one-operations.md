@@ -2,7 +2,7 @@
 title: Seamless Transition to Day-One Operations — Incumbent Retention and Six-Workstream Mobilization
 category: win-themes
 block-type: prose
-tags: [win-theme, transition-plan, mobilization, incumbent-retention, onboarding, day-one-readiness, staffing-model]
+tags: [win-theme, transition-plan, mobilization, workforce-continuity, knowledge-transfer, day-one-readiness, staffing-model]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Seamless Transition to Day-One Operations"
 source-pages: [12]

@@ -2,7 +2,7 @@
 title: Safety, Emergency Preparedness, and Risk Management — Regional Safety Support, FEMA-Tested Response, and Indicator-Driven Risk Tracking
 category: win-themes
 block-type: prose
-tags: [win-theme, safety, safety-culture, emergency-response, disaster-response, risk-management, drills, resilience]
+tags: [win-theme, safety-program, emergency-response, resilience-planning]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Safety, Emergency Preparedness, and Risk Management"
 source-pages: [12]

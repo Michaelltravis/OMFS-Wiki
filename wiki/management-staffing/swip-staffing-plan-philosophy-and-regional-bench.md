@@ -2,7 +2,7 @@
 title: Staffing Plan Philosophy — Certified Onsite Team, Added Regional Hires, and 100+ SME Bench
 category: management-staffing
 block-type: prose
-tags: [staffing-plan, awto-certification, regional-bench, subject-matter-experts, staffing-philosophy, mbr, title-22, ro, uv-aop, key-personnel, innovation-value-add]
+tags: [staffing-plan, training-certification, regional-support, key-personnel, staffing-model, membrane-treatment, potable-reuse, advanced-water-treatment, no-cost-value-add]
 source: santamonica-swip-om-2025
 source-section: "Section 3 introduction and 3.1 Staffing Plan"
 source-pages: [73, 79]

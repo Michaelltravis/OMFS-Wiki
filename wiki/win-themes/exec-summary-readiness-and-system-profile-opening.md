@@ -2,7 +2,7 @@
 title: Executive Summary Opening — "Ready for a Change" Positioning and System Profile
 category: win-themes
 block-type: prose
-tags: [executive-summary, opening-hook, win-theme, positioning, trusted-partner, narrative-framing, asset-management]
+tags: [executive-summary, opening-hook, win-theme, benefit-framing, trusted-partner, structure-pattern, asset-management]
 source: hull-wwtf-om-2026
 source-section: "Section 2, Executive Summary — Positioning the Wastewater Program for Its Next Phase (p. 5); Your Next Chapter close (p. 8)"
 source-pages: [5, 8]

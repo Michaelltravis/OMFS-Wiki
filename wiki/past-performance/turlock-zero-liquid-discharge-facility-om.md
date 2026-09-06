@@ -2,7 +2,7 @@
 title: Turlock Zero Liquid Discharge Facility O&M — Reference Project (Turlock Irrigation District, CA)
 category: past-performance
 block-type: prose
-tags: [turlock, zero-liquid-discharge, industrial-water-treatment, reverse-osmosis, crystallizers, power-plant, cost-savings, energy-chemical-efficiency, reference-project]
+tags: [california, industrial-water, membrane-treatment, cost-savings, energy-management, reference-projects]
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Turlock Zero Liquid Discharge Facility O&M (pp. PD-5–PD-6)"
 source-pages: [26, 27]

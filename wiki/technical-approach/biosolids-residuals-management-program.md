@@ -2,7 +2,7 @@
 title: Biosolids and Residuals Management Program (Stabilization, Thickening, Inventory)
 category: technical-approach
 block-type: prose
-tags: [biosolids, residuals, thickening, solids-inventory, odor-control, seasonal-operations]
+tags: [biosolids, odor-control, wastewater-treatment]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Biosolids and Residuals Management (p. 26)"
 source-pages: [32]

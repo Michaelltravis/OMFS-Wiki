@@ -2,7 +2,7 @@
 title: Proven Odor Control Improvement Case Study Callout (Town of Southbridge, MA)
 category: win-themes
 block-type: prose
-tags: [case-study, differentiator, odor-control, callout-box, proof-of-capability, mid-narrative-placement, turnaround]
+tags: [case-study, differentiator, odor-control, callout-box, proof-point, structure-pattern, incumbent-displacement]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Site-Specific Odor Control Plan, sidebar callout (p. 31)"
 source-pages: [37]

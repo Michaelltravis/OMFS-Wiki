@@ -2,7 +2,7 @@
 title: Water Reuse Industry Leadership — 60+ Year Innovation Timeline
 category: qualifications
 block-type: prose
-tags: [water-reuse, potable-reuse, indirect-potable-reuse, direct-potable-reuse, innovation-history, timeline, subject-matter-experts, differentiator, awards]
+tags: [water-reuse, potable-reuse, innovation, transition-management, key-personnel, differentiator, proof-point]
 source: santamonica-swip-om-2025
 source-section: "2.2 Technical Qualifications, Capabilities, References and Relevant Experience"
 source-pages: [18, 19]

@@ -2,7 +2,7 @@
 title: Asset Management System — 10-Box Model Methodology and Predictive Maintenance Technologies
 category: technical-approach
 block-type: prose
-tags: [asset-management-system, iso-55001, 10-box-model, cmms, predictive-maintenance, condition-assessment, capital-planning, kpi, mtbf-mttr]
+tags: [asset-management, cmms, predictive-maintenance, capital-planning, data-analytics, reliability-engineering]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Asset Management-Centered Maintenance Approach (Exhibit 2-25)"
 source-pages: [57, 58, 59]

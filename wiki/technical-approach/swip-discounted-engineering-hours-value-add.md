@@ -2,7 +2,7 @@
 title: Discounted Engineering Hours Value-Add and Suggested-Modifications Opener
 category: technical-approach
 block-type: prose
-tags: [discounted-engineering, value-add, process-optimization, sme-bench, no-cost-enhancement, water-reuse, suggested-scope-modifications]
+tags: [value-added-services, process-optimization, key-personnel, no-cost-value-add, water-reuse, scope-assumptions]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — Discounted Engineering Services"
 source-pages: [104, 105]

@@ -2,7 +2,7 @@
 title: Staffing Coverage, Shift, and On-Call Structure for Small WWTF/Collection O&M Contracts
 category: management-staffing
 block-type: prose
-tags: [staffing-plan, shift-coverage, on-call, storm-response, weekend-coverage, npdes-compliance, emergency-response, wet-weather]
+tags: [staffing-plan, staffing-model, emergency-response, permit-compliance, wet-weather]
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [22]

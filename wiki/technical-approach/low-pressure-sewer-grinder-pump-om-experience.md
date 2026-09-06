@@ -2,7 +2,7 @@
 title: Low-Pressure Sewer and Grinder Pump System O&M Experience
 category: technical-approach
 block-type: prose
-tags: [low-pressure-sewer, grinder-pumps, step-systems, collection-systems, dual-pressure-systems, niche-experience, asset-management]
+tags: [collection-systems, past-performance, asset-management]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Experience with Low-Pressure Sewer Systems"
 source-pages: [13]
@@ -23,7 +23,7 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement; client system includes approximately 175 grinder pumps and associated low-pressure piping
-quality: A genuine niche-experience differentiator — most O&M competitors lead with gravity-collection experience only. The block names the specific technical considerations of low-pressure systems rather than asserting familiarity, then backs the claim twice: an unprompted out-of-scope evaluation for an existing client, and the proposed project manager's hands-on dual-pressure system experience with a countable installed base.
+quality: 'A genuine niche-experience differentiator — most O&M competitors lead with gravity-collection experience only. The block names the specific technical considerations of low-pressure systems rather than asserting familiarity, then backs the claim twice: an unprompted out-of-scope evaluation for an existing client, and the proposed project manager''s hands-on dual-pressure system experience with a countable installed base.'
 reuse-notes: Use only where the pursuit's collection system genuinely includes grinder pumps, STEP units, or other low-pressure infrastructure. Swap the client-system descriptor (approximately 175 grinder pumps) for the new system's actual configuration, and re-confirm the named project manager and the Northport–Leelanau grinder-pump count with the account team; if a different individual is proposed, the dual-pressure claim must move or be dropped. The Westerly out-of-scope evaluation is real and current — confirm it is still authorized for reference use.
 ---
 

@@ -1,10 +1,15 @@
 ---
 title: Value-Added Innovations Menu for O&M Contracts
 category: technical-approach
-tags: [innovation, odor-control, collections-analytics, differentiation, no-cost-value-add, regional-support, grant-loan-support]
+tags: [innovation, odor-control, data-analytics, differentiator, no-cost-value-add, regional-support, capital-planning]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach (pp. 40, 44-45)"
 story-ids: []
+status: preferred
+house-favorite: false
+proof-point-ids: []
+extracted: '2026-09-05'
+last-verified: '2026-09-05'
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: differentiated, concrete list of no-added-cost value-adds that reads as substance rather than marketing fluff

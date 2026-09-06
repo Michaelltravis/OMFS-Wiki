@@ -2,7 +2,7 @@
 title: Regional Presence and Regulatory Relationships as a Qualifications Differentiator
 category: qualifications
 block-type: prose
-tags: [regional-presence, local-support, regulatory-relationships, fully-integrated-team, contract-renewal, differentiator, epa-region-1]
+tags: [local-presence, regulatory-compliance, staffing-model, client-retention, differentiator, new-england]
 source: hull-wwtf-om-2026
 source-section: "Section 3, EPA Region 1 and New York State Regulatory and Operational (O&M) Experience — Robust Regional Resources / Representative Facilities, Exhibit 3-2"
 source-pages: [12]

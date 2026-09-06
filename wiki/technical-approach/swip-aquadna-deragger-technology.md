@@ -2,7 +2,7 @@
 title: AquaDNA DeRagger - Pump Deragging and Lift Station Optimization Technology
 category: technical-approach
 block-type: prose
-tags: [aquadna-deragger, lift-station, pump-optimization, sso-prevention, ai-monitoring, collection-system, innovation-tool]
+tags: [digital-tools, lift-stations, collection-systems]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Innovation and Advanced Techniques for Operational Efficiency: AquaDNA Deragger for the Lift Station (Exhibit 2-18)"
 source-pages: [47]

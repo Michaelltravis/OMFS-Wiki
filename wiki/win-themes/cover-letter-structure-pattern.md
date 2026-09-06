@@ -3,7 +3,7 @@ title: Cover Letter Structure Pattern — Challenge, Team, Transition, Commitmen
 category: win-themes
 block-type: recipe
 pairs-with: wiki/win-themes/cover-letter-coastal-context-and-named-leadership.md
-tags: [cover-letter, structure-pattern, transmittal-letter, executive-sponsor, signatory-attestation]
+tags: [cover-letter, structure-pattern, transmittal-letter, key-personnel]
 source: hull-wwtf-om-2026
 source-section: "Section 1, Cover Letter"
 source-pages: [3]

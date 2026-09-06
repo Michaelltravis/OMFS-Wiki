@@ -2,7 +2,7 @@
 title: Safety Leadership Engagement, OSHA Audit Record, and Key Safety Program Elements
 category: compliance-plans
 block-type: prose
-tags: [safety-leadership, osha, digital-safety-program, safety-scorecard, h-and-s-work-control-plan, activity-hazard-analysis, pre-task-plans, subcontractor-safety, ppe]
+tags: [safety-program]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Safety Plan and Management: Leadership Engagement and Accountability; Key Elements of Our Safety Program and Planning"
 source-pages: [50]

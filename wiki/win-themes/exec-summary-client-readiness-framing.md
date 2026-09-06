@@ -3,7 +3,7 @@ title: Executive Summary Opening — "Ready for a Change" Readiness Framing (Rec
 category: win-themes
 block-type: recipe
 pairs-with: wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md
-tags: [executive-summary, opening-hook, win-theme, positioning, trusted-partner, narrative-framing]
+tags: [executive-summary, opening-hook, win-theme, benefit-framing, trusted-partner, structure-pattern]
 source: hull-wwtf-om-2026
 source-section: "Section 2, Executive Summary (p. 5); closing operating-conditions beat (p. 7)"
 source-pages: [5, 7]

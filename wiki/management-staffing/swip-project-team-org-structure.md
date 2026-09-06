@@ -2,7 +2,7 @@
 title: Proposed Project Team Organization — Onsite, Shared, and Offsite Support Tiers
 category: management-staffing
 block-type: roster
-tags: [org-chart, org-structure, onsite-team, shared-resources, offsite-support, engineering-support-team, regional-om-support-team, regional-maintenance-team, named-personnel, regional-bench]
+tags: [org-chart, staffing-model, regional-support, key-personnel]
 source: santamonica-swip-om-2025
 source-section: "3.1 Staffing Plan — Exhibit 3-1 Proposed Project Team Organization"
 source-pages: [74]

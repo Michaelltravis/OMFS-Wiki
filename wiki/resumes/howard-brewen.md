@@ -2,7 +2,7 @@
 title: Howard Brewen - Director of Operations (WW Grade V)
 category: resumes
 block-type: prose
-tags: [director-of-operations, wastewater-grade-v, california, water-reuse, wwtp-superintendent, cip-management, transition-leadership, energy-efficiency, intern-program, key-personnel]
+tags: [key-personnel, training-certification, california, water-reuse, capital-planning, transition-management, energy-management, workforce-development]
 source: santamonica-swip-om-2025
 source-section: "3.2 Resumes - Howard Brewen (pp. 81-82)"
 source-pages: [81, 82]

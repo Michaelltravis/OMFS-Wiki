@@ -2,7 +2,7 @@
 title: Mayo Miller - I&C Technician
 category: resumes
 block-type: prose
-tags: [instrumentation-and-controls, scada, ic-technician, cmms, capital-improvement-planning, networking, arkansas, regional-support, award-winner, key-personnel]
+tags: [instrumentation-controls, scada, cmms, capital-planning, workforce-development, arkansas, regional-support, proof-point, key-personnel]
 source: santamonica-swip-om-2025
 source-section: "3.2 Resumes - Mayo Miller (pp. 91-92)"
 source-pages: [91, 92]

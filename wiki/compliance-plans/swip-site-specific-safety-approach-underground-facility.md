@@ -2,7 +2,7 @@
 title: Site-Specific Safety Approach for a Below-Grade Treatment Facility and Employee Well-Being Program
 category: compliance-plans
 block-type: prose
-tags: [confined-space, below-grade-facility, chemical-management, egress-plan, two-person-staffing, mental-health, continuous-improvement, leading-lagging-indicators]
+tags: [safety-program, chemical-management, continuous-improvement]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Site Safety Observations and Unique Safety Needs; Benefits to the Client; Continuous Improvement and Well-Being"
 source-pages: [51]

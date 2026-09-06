@@ -2,7 +2,7 @@
 title: Edward C. Little Water Recycling Facility O&M — Reference Project (West Basin Municipal Water District, El Segundo, CA)
 category: past-performance
 block-type: prose
-tags: [west-basin, edward-c-little, water-reuse, membrane-treatment, largest-reuse-facility, satellite-facilities, contract-transition, incumbent-displacement, digital-onewater, reference-project]
+tags: [southern-california, water-reuse, membrane-treatment, multi-facility-operations, transition-management, incumbent-displacement, digital-tools, reference-projects]
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Edward C. Little Water Recycling Facility O&M (pp. PD-7–PD-8)"
 source-pages: [28, 29]

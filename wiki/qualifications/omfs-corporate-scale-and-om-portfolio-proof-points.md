@@ -2,7 +2,7 @@
 title: OMFS Corporate Scale and O&M Portfolio Proof Points
 category: qualifications
 block-type: prose
-tags: [corporate-profile, om-portfolio, proof-points, more-than-an-operator, firm-qualifications, scale, comparable-experience]
+tags: [corporate-qualifications, multi-facility-operations, proof-point, more-than-an-operator, corporate-scale, reference-projects]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Corporate Profile / Technical Qualifications, Exhibit 3-1"
 source-pages: [10, 11]

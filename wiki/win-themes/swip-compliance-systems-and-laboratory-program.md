@@ -2,7 +2,7 @@
 title: Compliance Systems and Laboratory Program — WIMS/LIMS Integration, Sample Tracking, and the Six-Point Compliance Program
 category: win-themes
 block-type: prose
-tags: [win-theme, compliance, laboratory-program, sampling, chain-of-custody, data-management, audits, six-point-framework, digital-tools]
+tags: [win-theme, regulatory-compliance, laboratory-services, sampling-monitoring, data-analytics, quality-assurance, structure-pattern, digital-tools]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Compliance Systems and Laboratory Program"
 source-pages: [11]

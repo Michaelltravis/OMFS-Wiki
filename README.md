@@ -17,7 +17,7 @@ Content blocks are **starting points, not final text**. Tailor everything to the
 
 | Proposal | Status |
 |---|---|
-| Hull WWTF & Collection System O&M (2026) | Extracted + completeness-audited — 72 content blocks (incl. 6 resumes/roster, 7 verbatim past-performance), 50 exhibits cataloged (pilot complete, pending review) |
-| Santa Monica SWIP O&M (2025) | Extracted + completeness-audited — 83 content blocks (incl. 8 resumes, 6 verbatim past-performance), 76 exhibits cataloged. Four dollar figures redacted in Section 4 blocks after being traced to the commercial pricing schedule; the Exec Summary/Section 2.4 "$4.1M value-added wheel" figures were reviewed and kept as no-cost value-add framing — flagged for proposal-team judgment before reuse. |
+| Hull WWTF & Collection System O&M (2026) | Extracted + completeness-audited — 89 content blocks (23 technical-approach, 10 management-staffing, 21 win-themes, 9 qualifications, 13 compliance-plans, 6 resumes, 7 past-performance), 104 verbatim pages, 47 proof-point registry rows (pilot complete, pending review) |
+| Santa Monica SWIP O&M (2025) | Extracted + completeness-audited — 98 content blocks (31 technical-approach, 17 management-staffing, 16 win-themes, 9 qualifications, 11 compliance-plans, 8 resumes, 6 past-performance), 119 verbatim pages, 45 proof-point registry rows. Four dollar figures redacted in Section 4 blocks after being traced to the commercial pricing schedule; the Exec Summary/Section 2.4 "$4.1M value-added wheel" figures were reviewed and kept as no-cost value-add framing — flagged for proposal-team judgment before reuse. |
 | OCWUT 16-26 | Pending |
 | Fulton County 25RFP146289K | Pending |

@@ -2,7 +2,7 @@
 title: "Project Description — Waterbury Wastewater System O&M (City of Waterbury, CT)"
 category: past-performance
 block-type: prose
-tags: [past-performance, project-description, waterbury, connecticut, phosphorus-removal, cmom, biosolids, cost-savings, epa-region-1, collection-system, community-engagement]
+tags: [past-performance, project-description, connecticut, wastewater-treatment, collection-systems, biosolids, cost-savings, new-england, community-engagement]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-1"
 source-pages: [76]

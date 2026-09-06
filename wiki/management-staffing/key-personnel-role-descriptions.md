@@ -2,7 +2,7 @@
 title: Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)
 category: management-staffing
 block-type: prose
-tags: [key-personnel, project-manager, regional-operations-manager, transition-manager, client-service-manager, role-description, qualifications, org-chart, team-overview]
+tags: [key-personnel, corporate-qualifications, org-chart, staffing-plan]
 source: hull-wwtf-om-2026
 source-section: "Section 4 - Project Staffing and Project Management Plan"
 source-pages: [19, 20]

@@ -2,7 +2,7 @@
 title: Companywide Process Control System (CPCS) and Supporting Operations Tool Set
 category: technical-approach
 block-type: prose
-tags: [process-control, cpcs, upcp, sampling-plan, sample-tracking-tool, lims, hach-wims, sop, operator-rounds, peak-flow-testing, exhibit]
+tags: [process-control, laboratory-services, industrial-pretreatment, sampling-monitoring, digital-tools, operations-management, preventive-maintenance, wet-weather, exhibit]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Process Control, Exhibit 2-10"
 source-pages: [35, 36]

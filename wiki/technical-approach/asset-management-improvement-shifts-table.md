@@ -2,7 +2,7 @@
 title: Asset Management Improvement Shifts (Current Practice → Jacobs Approach → Client Benefit)
 category: technical-approach
 block-type: table
-tags: [asset-management, preventive-maintenance, self-performance, cartegraph, cmms, incumbent-displacement, housekeeping]
+tags: [asset-management, preventive-maintenance, self-performance, cmms, incumbent-displacement, facility-management]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Asset Management/Maintenance — Exhibit 5-13, Key asset management improvements"
 source-pages: [43]

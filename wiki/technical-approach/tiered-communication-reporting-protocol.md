@@ -2,7 +2,7 @@
 title: Tiered Communication and Reporting Protocol (Day-to-Day through Annual)
 category: technical-approach
 block-type: prose
-tags: [communication-plan, reporting-cadence, client-coordination, transparency, governance]
+tags: [community-engagement, performance-reporting, transparency, project-management]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Transparent Communications and Reporting, Exhibit 5-3 (p. 21)"
 source-pages: [27]

@@ -2,7 +2,7 @@
 title: SCADA, Instrumentation & Controls, and Cybersecurity Approach
 category: technical-approach
 block-type: prose
-tags: [scada, instrumentation-and-controls, cybersecurity, ot-it, dedicated-ic-technician, nist, awia, ignition-scada, allen-bradley, value-added-extras]
+tags: [scada, instrumentation-controls, cybersecurity, digital-tools, value-added-services]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — SCADA, I&C, and Cybersecurity"
 source-pages: [68, 69]

@@ -2,7 +2,7 @@
 title: Ongoing Safety Training/Certification and Underground/Confined Space Safety Program
 category: compliance-plans
 block-type: prose
-tags: [safety-training, confined-space-entry, osha-permit-required-confined-space, nfpa-70e, lockout-tagout, underground-facility-safety, training-tracking]
+tags: [safety-program, training-certification]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Key Elements of Our Safety Program and Planning: Comprehensive, Ongoing Safety Training and Certification; Underground and Confined Space Safety (Exhibit 2-23, continued)"
 source-pages: [51]

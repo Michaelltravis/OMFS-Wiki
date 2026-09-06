@@ -2,7 +2,7 @@
 title: "Corporate Entity Details, Legal Standing, and Litigation/Termination Disclosure"
 category: qualifications
 block-type: prose
-tags: [corporate-qualifications, legal-standing, entity-details, tax-id, litigation-disclosure, contract-termination-disclosure, corporate-profile]
+tags: [corporate-qualifications, legal-disclosures]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Corporate Profile and Legal Qualifications (Company at a Glance, Legal Standing); Litigation or Contract Termination"
 source-pages: [10, 14]

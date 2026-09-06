@@ -2,7 +2,7 @@
 title: Richard Gwinn - Maintenance Technician
 category: resumes
 block-type: prose
-tags: [maintenance-technician, cmms, predictive-maintenance, plc-troubleshooting, autocad, regional-maintenance, facility-management, non-water-experience, key-personnel]
+tags: [key-personnel, cmms, predictive-maintenance, instrumentation-controls, digital-tools, regional-support, facility-management, past-performance]
 source: santamonica-swip-om-2025
 source-section: "3.2 Resumes - Richard Gwinn (pp. 93-94)"
 source-pages: [93, 94]

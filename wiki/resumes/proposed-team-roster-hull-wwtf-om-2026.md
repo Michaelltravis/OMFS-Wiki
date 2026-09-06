@@ -1,9 +1,14 @@
 ---
 title: "Proposed Team Roster — Town of Hull WWTF and Collection System O&M (2026)"
 category: resumes
-tags: [roster, key-personnel, project-manager, assistant-project-manager, transition-manager, regional-director-of-operations, regional-operations-manager, executive-vice-president, contact-list]
+tags: [staffing-model, key-personnel, reference-projects]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, pp. 69-74 (A-1–A-6); Section 1, Cover Letter, p. 3"
+status: preferred
+house-favorite: false
+proof-point-ids: []
+extracted: '2026-09-05'
+last-verified: '2026-09-05'
 context: Proposed key-personnel team for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026).
 sanitized: false
 quality: Verbatim roster of the proposed team with contact info pulled directly from the signed cover letter; links each name to its full resume.

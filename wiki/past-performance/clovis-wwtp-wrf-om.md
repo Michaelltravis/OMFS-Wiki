@@ -2,7 +2,7 @@
 title: Clovis WWTP/WRF O&M — Reference Project (City of Clovis, CA)
 category: past-performance
 block-type: prose
-tags: [clovis, mbr, membrane-bioreactor, title-22, scalping-plant, biosolids, awards, scada, reference-project]
+tags: [california, membrane-treatment, potable-reuse, water-reuse, biosolids, proof-point, scada, reference-projects]
 source: santamonica-swip-om-2025
 source-section: "2.3 References — Clovis WWTP/WRF O&M (pp. PD-1–PD-2)"
 source-pages: [22, 23]

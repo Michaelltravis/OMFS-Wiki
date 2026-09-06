@@ -2,7 +2,7 @@
 title: Reach-Back Model — Regional and Technical O&M Support Network
 category: qualifications
 block-type: prose
-tags: [reach-back, regional-support, technical-specialists, asset-management, compliance-support, staffing-model, differentiator, dedicated-staffing]
+tags: [regional-support, key-personnel, asset-management, regulatory-compliance, staffing-model, differentiator]
 source: santamonica-swip-om-2025
 source-section: "2.2 Technical Qualifications, Capabilities, References and Relevant Experience"
 source-pages: [17]

@@ -209,7 +209,7 @@ def main():
         lines.append("")
 
     md_text = "\n".join(lines).rstrip() + "\n"
-    json_text = json.dumps(all_blocks, indent=2)
+    json_text = json.dumps(all_blocks, indent=2, default=str)
 
     total_rows = len(all_blocks)
 

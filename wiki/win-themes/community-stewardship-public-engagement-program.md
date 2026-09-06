@@ -2,7 +2,7 @@
 title: Community Stewardship and Public Engagement Program
 category: win-themes
 block-type: prose
-tags: [community-stewardship, public-engagement, stem-outreach, differentiator, trust-building, win-theme, first-responder-coordination, workforce-development]
+tags: [community-stewardship, community-engagement, differentiator, trusted-partner, win-theme, emergency-response, workforce-development]
 source: hull-wwtf-om-2026
 source-section: "Section 5, Project Understanding and Technical Approach — Community Stewardship, Exhibit 5-21 (p. 44)"
 source-pages: [50]

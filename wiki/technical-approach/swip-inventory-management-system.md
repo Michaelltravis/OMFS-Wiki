@@ -2,7 +2,7 @@
 title: Inventory Management System — Summary of Services
 category: technical-approach
 block-type: prose
-tags: [inventory-management, stockroom-setup, parts-inventory, cmms, warehouse-organization, kpi-dashboards]
+tags: [inventory-management, cmms, performance-reporting]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Inventory Management System: Summary of Services"
 source-pages: [60]

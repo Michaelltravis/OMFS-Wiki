@@ -2,7 +2,7 @@
 title: Operator Training and Development Program for Client Water/Wastewater Staff
 category: technical-approach
 block-type: prose
-tags: [operator-training, workforce-development, tiered-training, water-treatment, wastewater-treatment, advanced-water-treatment, no-cost-enhancement, unpriced-recommendation]
+tags: [training-certification, workforce-development, water-treatment, wastewater-treatment, advanced-water-treatment, no-cost-value-add, value-added-services]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — Additional Items for Consideration, Training and Development of City Staff for Water/Wastewater/Advanced Water"
 source-pages: [107]

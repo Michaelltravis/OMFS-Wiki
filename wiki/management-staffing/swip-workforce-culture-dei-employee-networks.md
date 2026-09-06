@@ -2,7 +2,7 @@
 title: Workforce Culture - TogetherBeyond Diversity Strategy and Employee Network Groups
 category: management-staffing
 block-type: prose
-tags: [diversity-equity-inclusion, togetherbeyond, employee-network-groups, workforce-culture, retention, belonging]
+tags: [sustainability, workforce-development, recruiting-retention]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - True Belonging with Diversity, Equality, and Inclusion; Employee Network Groups"
 source-pages: [44]

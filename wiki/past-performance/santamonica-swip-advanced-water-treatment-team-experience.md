@@ -2,7 +2,7 @@
 title: "Project Team's Experience with Advanced Water Treatment Facilities - City of Santa Monica SWIP"
 category: past-performance
 block-type: prose
-tags: [past-performance, advanced-water-treatment, mbr, ro, uv-aop, title-22, grrp, potable-reuse, santa-monica, swip, team-experience-matrix, awto-certification]
+tags: [past-performance, advanced-water-treatment, membrane-treatment, potable-reuse, groundwater-recharge, southern-california, water-reuse, table-layout, training-certification]
 source: santamonica-swip-om-2025
 source-section: "3.3 Project Team's Experience with Advanced Water Treatment Facilities"
 source-pages: [95]

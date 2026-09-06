@@ -2,7 +2,7 @@
 title: Proof-Point Examples — Track Record in Coastal and Complex Wastewater Systems
 category: win-themes
 block-type: prose
-tags: [proof-points, reference-projects, biosolids, odor-control, grit-removal, low-pressure-collection, executive-summary, case-study-snippets]
+tags: [proof-point, reference-projects, biosolids, odor-control, wastewater-treatment, collection-systems, executive-summary, case-study]
 source: hull-wwtf-om-2026
 source-section: "Section 2, Executive Summary — Proven Operations in Coastal and Complex Systems (p. 7)"
 source-pages: [7]

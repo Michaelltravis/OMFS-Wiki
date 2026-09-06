@@ -2,7 +2,7 @@
 title: Full-Service Lifecycle Capability and Capital Planning Support
 category: qualifications
 block-type: prose
-tags: [full-service, capital-planning, cip, asset-management, more-than-an-operator, differentiator, technical-resources]
+tags: [corporate-qualifications, capital-planning, asset-management, more-than-an-operator, differentiator, regional-support]
 source: hull-wwtf-om-2026
 source-section: "Section 3, Corporate Experience — Full O&M Services for Water and Wastewater Treatment Facilities; Additional Technical Resources and Capital Planning Support (Exhibit 3-6)"
 source-pages: [16]

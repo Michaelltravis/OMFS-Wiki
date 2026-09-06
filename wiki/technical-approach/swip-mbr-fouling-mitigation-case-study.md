@@ -2,7 +2,7 @@
 title: MBR Biofouling (Leech/Physa Snail) Mitigation Case Study
 category: technical-approach
 block-type: prose
-tags: [mbr, membrane-bioreactor, biofouling, potable-reuse, demonstration-plant, process-troubleshooting, case-study]
+tags: [membrane-treatment, potable-reuse, innovation, process-control, case-study]
 source: santamonica-swip-om-2025
 source-section: "Section 4: Suggested Modifications to the Scope of Work — sidebar callout, Leech Mitigation at PWSC Demonstration Plant"
 source-pages: [104]

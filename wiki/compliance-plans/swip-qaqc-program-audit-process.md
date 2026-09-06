@@ -2,7 +2,7 @@
 title: QA/QC Program with Annual Audit Process (Regional Team Model, 4-Step Audit Lifecycle)
 category: compliance-plans
 block-type: prose
-tags: [qa-qc, quality-audit, compliance-audit, regional-support, corrective-action-plan, wdr-compliance, title-22, scaqmd, iipp, erp]
+tags: [quality-assurance, regional-support, permit-compliance, potable-reuse, environmental-compliance, safety-program, emergency-response]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — In-House Procedures to Provide Accuracy, Integrity, and Quality Control, Exhibits 2-11 and 2-12"
 source-pages: [38, 39]

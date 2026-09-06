@@ -2,7 +2,7 @@
 title: Value Proposition Table — Approach / Operational Impact / Value to Client (Exhibit 2-1)
 category: win-themes
 block-type: table
-tags: [value-proposition, differentiator-table, exhibit, win-theme, benefit-framing, executive-summary]
+tags: [benefit-framing, differentiator, exhibit, win-theme, executive-summary]
 source: hull-wwtf-om-2026
 source-section: "Section 2, Executive Summary — Exhibit 2-1, The Jacobs Difference (p. 5)"
 source-pages: [5]

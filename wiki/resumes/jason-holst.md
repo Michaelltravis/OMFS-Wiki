@@ -2,7 +2,7 @@
 title: Jason Holst - Operator (T3, AWT3)
 category: resumes
 block-type: prose
-tags: [operator, water-treatment, scada, laboratory, desalination, california, multi-facility, key-personnel]
+tags: [key-personnel, water-treatment, scada, laboratory-services, desalination, california, multi-facility-operations]
 source: santamonica-swip-om-2025
 source-section: "3.2 Resumes - Jason Holst (p. 90)"
 source-pages: [90]

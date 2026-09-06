@@ -2,7 +2,7 @@
 title: Customized Web-Based KPI Reporting Dashboard (Digital Reporting Platform)
 category: technical-approach
 block-type: prose
-tags: [kpi-dashboard, digital-reporting, transparency, scada-integration, water-quality-reporting, biosolids-reporting, safety-reporting, exhibit]
+tags: [performance-reporting, transparency, scada, biosolids, safety-program, exhibit]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach B - Innovation and Advanced Techniques for Operational Efficiency: Customized Digital Reporting Dashboards (Exhibit 2-19)"
 source-pages: [48]

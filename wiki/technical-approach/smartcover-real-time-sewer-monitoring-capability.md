@@ -2,7 +2,7 @@
 title: SmartCover Real-Time Satellite Sewer Monitoring — Capability Overview
 category: technical-approach
 block-type: prose
-tags: [collection-system, sso-prevention, real-time-monitoring, hydrogen-sulfide, inflow-infiltration, cleaning-optimization, lift-station-monitoring, predictive-analytics, digital-tools, safety-culture]
+tags: [collection-systems, sampling-monitoring, odor-control, inflow-infiltration, lift-stations, data-analytics, digital-tools, safety-program]
 source: hull-wwtf-om-2026
 source-section: "Section 7, Appendix E - SmartCover Information"
 source-pages: [88, 89, 90, 91]

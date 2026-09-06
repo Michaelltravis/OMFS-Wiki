@@ -2,7 +2,7 @@
 title: Environmental Regulatory Compliance Program, Dashboard, and Risk Management Approach
 category: compliance-plans
 block-type: prose
-tags: [regulatory-compliance, npdes, title-22, aqmd, compliance-dashboard, environmental-risk-management, internal-audits, transparency-reporting]
+tags: [regulatory-compliance, compliance-reporting, potable-reuse, environmental-compliance, performance-reporting, quality-assurance]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Regulatory Compliance, Laboratory and Sampling Plans / Regulatory Compliance"
 source-pages: [52]

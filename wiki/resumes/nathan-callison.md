@@ -2,7 +2,7 @@
 title: "Resume — Nathan Callison, CRL, CMRT (Project Manager)"
 category: resumes
 block-type: prose
-tags: [resume, project-manager, wastewater-operations, biosolids, lystek, reliability-leader, michigan-license, massachusetts-license, cover-letter-signatory]
+tags: [resume-bio, key-personnel, wastewater-treatment, biosolids, reliability-engineering, michigan, massachusetts]
 source: hull-wwtf-om-2026
 source-section: "Appendix A - Resumes, pp. 69-70 (A-1–A-2); Section 1, Cover Letter, p. 3"
 source-pages: [69, 70, 3]

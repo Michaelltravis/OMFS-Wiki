@@ -2,7 +2,7 @@
 title: Summary of Jacobs' Permit and Compliance Record — Violations and Corrective Actions (Reference Table)
 category: compliance-plans
 block-type: table
-tags: [compliance-record, permit-violations, corrective-actions, past-performance-evidence, transparency, self-disclosure]
+tags: [permit-compliance, quality-assurance, past-performance, transparency, legal-disclosures]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Regulatory Compliance, Laboratory and Sampling Plans (Exhibit 2-24)"
 source-pages: [53, 54]

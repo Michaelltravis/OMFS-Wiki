@@ -2,7 +2,7 @@
 title: O&M Project Execution Framework — 9-Element Delivery Model with KPI Dashboard and Deliverables Tracking
 category: technical-approach
 block-type: prose
-tags: [project-execution, om-framework, kpi-dashboard, communication-plan, deliverables-tracking, compliance-reporting, exhibit]
+tags: [project-management, operations-management, performance-reporting, community-engagement, compliance-reporting, exhibit]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Approach to Delivery of the O&M Services, Exhibit 2-7 and Exhibit 2-8"
 source-pages: [32, 33]
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/technical-approach/om-management-systems-framework.md
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A clean, evaluator-scannable 9-element framework (icons + one-paragraph descriptions) that covers the full breadth of an O&M program in a single exhibit, paired with a concrete KPI-dashboard capability and a named commitment to co-develop a tailored communication plan and a real-time deliverables-tracking dashboard — moves the proposal from "we'll comply" to "here is the specific tool set."
 reuse-notes: The 9 program elements and their one-line descriptions are fully generic and reusable for any water/wastewater O&M pursuit. The KPI dashboard example and deliverables-tracking system description should be paired with the pursuit's actual required KPIs/reporting cadence once known.
@@ -55,6 +56,18 @@ To support contract execution, Jacobs will deploy a rigorous contract deliverabl
 Jacobs will provide the client with real-time visibility into operations through a customized Key Performance Indicator (KPI) dashboard. This dashboard displays live and historical operational data, including process control trends, maintenance records, and compliance metrics. It also incorporates real-time tracking of personnel and physical assets onsite via access badge readers, with optional tagging of critical equipment such as vehicles. This level of visibility strengthens situational awareness, enhances site security, and supports timely, data-driven decision-making.
 
 A representative example dashboard displays parallel views for two example facilities, each tracking BOD5, TSS, total residual chlorine (TRC), pH, flow, and solids levels alongside a gauge-style compliance indicator and a rolling monthly fecal coliform trend chart.
+
+### Additional detail (merged)
+
+*Merged from `om-management-systems-framework.md` (source: `hull-wwtf-om-2026`), retained as fallback.*
+
+**Alternate section opener (plant + collection system variant).** Jacobs will operate and maintain [CLIENT]'s WWTF and collection system — a [FACILITY DESCRIPTION] treatment facility and its collection system — as an **integrated, performance-driven partnership** focused on **safe, compliant, reliable operations and continuous improvement**. We combine disciplined frontline execution with proven systems, data tools, and regional/national SME support, providing [CLIENT] with **consistent day-to-day performance and defensible, transparent decision-making** on maintenance, risk, and investment priorities. Our project team possesses the tools, programs, systems, training, and resources necessary for daily operations. These elements enable the team to accomplish all objectives by organizing, performing, measuring, and improving the multitude of functions that result in efficient O&M. The exhibit below summarizes our management philosophy to achieve these objectives.
+
+**Element-naming variant.** Where a pursuit does not call for a separate media-relations element, elements 9 and 10 can be collapsed to **Community Involvement** ("A comprehensive public education and community involvement program developed in partnership with [CLIENT], including volunteering, charitable donations, and facility tours to benefit the community") and **Customer Service**, yielding a 10-element list without the media-relations framing.
+
+**Additional pairing options (plant + collection system pursuits).** Pair with `project-understanding-goals-challenges-response-matrix.md` (the preceding exhibit in the plant-plus-collections variant), `tiered-communication-reporting-protocol.md` (expands Project Management), and `../compliance-plans/six-point-compliance-program.md` (expands Compliance and Reporting). Alternate wheel-style graphic: asset ID `132_HHull_0091KO_2` — client-branded, would need re-creation before reuse.
+
+**Tailoring note.** Which elements get expanded into full subsections should map to the RFP's stated evaluation priorities; on the plant-plus-collections pursuit, Operations Management, Maintenance and Asset Management, and Compliance and Reporting were the most developed because they matched the client's top goals.
 
 ## Reuse guidance
 

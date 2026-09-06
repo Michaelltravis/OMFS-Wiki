@@ -2,7 +2,7 @@
 title: Predictive Maintenance Technologies — Five-Technology Reliability-Centered Toolkit
 category: technical-approach
 block-type: prose
-tags: [predictive-maintenance, ultrasound, vibration-analysis, infrared-thermography, oil-analysis, precision-alignment, reliability-centered-maintenance]
+tags: [predictive-maintenance, reliability-engineering]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Asset Management-Centered Maintenance Approach / Jacobs' Predictive Maintenance Technologies"
 source-pages: [59]

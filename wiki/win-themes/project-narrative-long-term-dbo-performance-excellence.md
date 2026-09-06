@@ -2,7 +2,7 @@
 title: "Project Narrative — Multi-Decade DBO Partnership With Sustained Award Recognition (Regional WWTP)"
 category: win-themes
 block-type: prose
-tags: [project-narrative, past-performance, dbo, long-term-partnership, mbr, energy-optimization, awards, regionalized-satellite-systems, industrial-pretreatment, safety-culture]
+tags: [project-description, past-performance, design-build, partnership, membrane-treatment, energy-management, proof-point, multi-facility-operations, industrial-pretreatment, safety-program]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions, p. B-5"
 source-pages: [80]

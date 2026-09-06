@@ -2,7 +2,7 @@
 title: Asset Management Program Overview — Understanding Client Goals and Value-Added Support Structure
 category: technical-approach
 block-type: prose
-tags: [asset-management, ams, transition-phase, preventive-maintenance, predictive-maintenance, dedicated-maintenance-technician, value-added-services]
+tags: [asset-management, transition-management, preventive-maintenance, predictive-maintenance, staffing-model, value-added-services]
 source: santamonica-swip-om-2025
 source-section: "2.4 Firm Approach — Asset Management and Maintenance"
 source-pages: [56]

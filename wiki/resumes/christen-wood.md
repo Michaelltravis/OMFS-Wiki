@@ -2,7 +2,7 @@
 title: Christen Wood - Operator (WW Operator Grade V, AWT3)
 category: resumes
 block-type: prose
-tags: [operator, startup-and-transition, workforce-development, advanced-water-purification, training-development, biosolids, laboratory, process-control, multi-state, key-personnel]
+tags: [key-personnel, transition-management, workforce-development, advanced-water-treatment, training-certification, biosolids, laboratory-services, process-control, multi-state]
 source: santamonica-swip-om-2025
 source-section: "3.2 Resumes - Christen Wood (pp. 88-89)"
 source-pages: [88, 89]

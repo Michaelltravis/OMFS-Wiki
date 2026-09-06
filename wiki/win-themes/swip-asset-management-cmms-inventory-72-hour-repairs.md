@@ -2,7 +2,7 @@
 title: Asset Management, CMMS, Inventory, and the 72-Hour Repair Recommendation Commitment
 category: win-themes
 block-type: prose
-tags: [win-theme, asset-management, cmms, preventive-maintenance, predictive-maintenance, inventory-management, iso-55001, budget-planning, capital-improvements]
+tags: [win-theme, asset-management, cmms, preventive-maintenance, predictive-maintenance, inventory-management, capital-planning]
 source: santamonica-swip-om-2025
 source-section: "Executive Summary — Asset Management, CMMS, Inventory, and 72-Hour Repair Recommendations"
 source-pages: [11]
