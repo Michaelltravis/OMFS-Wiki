@@ -13,7 +13,7 @@ client-size: "Advanced water treatment / potable reuse facility plus a water tre
 geography: "Southern California / CA / SWRCB Division of Drinking Water"
 rfp-section-type: [tech-approach, compliance]
 win-theme-map: [innovation-value-add, digital-tools, regional-bench, incumbent-displacement, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-0471, PP-0546, PP-0547, PP-0548]
 testimonial-ids: [TM-0019]
 story-ids: []
 status: preferred

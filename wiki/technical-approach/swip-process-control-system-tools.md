@@ -13,7 +13,7 @@ client-size: "1.0 MGD advanced water treatment facility (screening/MBR â†’ CF â†
 geography: "Southern California / CA / SWRCB Division of Drinking Water + LA RWQCB (Title 22 GRRP, WDRs)"
 rfp-section-type: [tech-approach]
 win-theme-map: [compliance-leadership, partner-transparency, digital-tools, regional-bench, asset-management]
-proof-point-ids: []
+proof-point-ids: [PP-0435, PP-0436, PP-0437, PP-0438]
 testimonial-ids: []
 story-ids: []
 status: preferred

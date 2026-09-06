@@ -13,9 +13,9 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, partner-transparency, community-engagement, digital-tools, energy-chemical-efficiency]
-proof-point-ids: []
+proof-point-ids: [PP-0112, PP-0113]
 testimonial-ids: [TM-0010]
-story-ids: []
+story-ids: [ST-0012]
 status: preferred
 house-favorite: false
 sanitized: true

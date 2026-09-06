@@ -4,6 +4,7 @@ category: win-themes
 tags: [past-performance, project-description, proof-points, appendix-b, write-up-structure, client-quote]
 source: hull-wwtf-om-2026
 source-section: "Appendix B - Project Descriptions (pp. 76-80)"
+story-ids: []
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: A consistent, evaluator-friendly layout used across five different past-performance write-ups in the same proposal — proven, repeatable structure that balances a relationship narrative with hard facility data and third-party validation

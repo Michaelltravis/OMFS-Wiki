@@ -13,7 +13,7 @@ client-size: "3.77 MGD / 48 mi collection system / 11 lift stations"
 geography: "Northeast / MA / MassDEP, EPA Region 1"
 rfp-section-type: [past-performance]
 win-theme-map: [incumbent-displacement, transition-continuity, odor-control, innovation-value-add, digital-tools, community-engagement]
-proof-point-ids: []
+proof-point-ids: [PP-0002, PP-0003, PP-0004, PP-0005, PP-0006, PP-0064, PP-0065]
 testimonial-ids: [TM-0008]
 story-ids: [ST-0008, ST-0009]
 status: preferred

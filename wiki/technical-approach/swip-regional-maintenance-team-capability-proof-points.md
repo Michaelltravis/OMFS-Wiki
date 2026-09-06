@@ -13,7 +13,7 @@ client-size: "Advanced water treatment / potable reuse facilities — 6 onsite F
 geography: "Southern California / CA / SWRCB Division of Drinking Water, Title 22"
 rfp-section-type: [staffing, tech-approach]
 win-theme-map: [regional-bench, asset-management, innovation-value-add, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-0571]
 testimonial-ids: []
 story-ids: [ST-0024, ST-0025, ST-0026]
 status: preferred

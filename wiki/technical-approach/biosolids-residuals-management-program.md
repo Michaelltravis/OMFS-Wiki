@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [tech-approach]
 win-theme-map: [odor-control, asset-management, transition-continuity, innovation-value-add, energy-chemical-efficiency]
-proof-point-ids: []
+proof-point-ids: [PP-0297]
 testimonial-ids: []
 story-ids: []
 status: preferred

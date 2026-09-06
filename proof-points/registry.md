@@ -78,8 +78,8 @@ Every numeric claim swept from the content-bank fragments, clustered so that one
 | PP-0059 | Westerly: Consistent Permit Compliance Award by the Rhode Island Clean Water Association (RICWA), awarded each year across this span | 2019-2023 years | single-source | compliance | hull |
 | PP-0060 | Westerly: Three or More Years of Complete Permit Compliance Award by RICWA | 2022 year | single-source | compliance | hull |
 | PP-0061 | Westerly: Regional EPA Operation and Maintenance Excellence Award by the USEPA New England Office | 2018 year | single-source | compliance | hull |
+| PP-0062 | Westerly (client quote): annual contract-cost savings to the Town | 100,000 USD per year | single-source | financial | hull |
 | PP-0063 | Westerly (client quote): annual O&M budget increase in the Jacobs proposal | 100,000 USD per year | single-source | financial | hull |
-| PP-0063 | Westerly (client quote): annual contract-cost savings to the Town | 100,000 USD per year | single-source | financial | hull |
 | PP-0064 | Town of Southbridge, MA years of service start | 2025 year<br>2025 – Present years | consistent | schedule | hull |
 | PP-0065 | Town of Southbridge, MA annual project fee | 1.7 million USD per year<br>unresolved USD/year | **conflict** | financial | hull |
 | PP-0066 | SHVUA wastewater treatment facility design capacity | 24 MGD | consistent | scale | hull |
@@ -111,16 +111,16 @@ Every numeric claim swept from the content-bank fragments, clustered so that one
 | PP-0092 | Appendix C: Village of Carol Stream relationship duration from a 9/1/1997 start date | 28 years, 6 months duration | single-source | schedule | hull |
 | PP-0093 | Appendix C: North Hudson Sewerage Authority, Adams Street (Hoboken) WWTP and River Road (West New York) WWTP (NJ) combined capacity | 30.8 MGD (combined) | single-source | scale | hull |
 | PP-0094 | Appendix C: North Hudson Sewerage Authority relationship duration from a 2/1/1998 start date | 28 years, 1 month duration | single-source | schedule | hull |
+| PP-0095 | Appendix C: City of Pembroke Pines WWTP (FL) capacity | 9 MGD | **conflict** | scale | hull |
 | PP-0096 | Appendix C: City of San Marcos relationship duration from a 10/1/2005 start date | 20 years, 5 months duration | single-source | schedule | hull |
 | PP-0097 | Appendix C: County of Pima, Agua Nueva Reclamation Facility (AZ) capacity | 32 MGD | single-source | scale | hull |
 | PP-0098 | Appendix C: County of Pima relationship duration from a 10/10/2010 start date | 15 years, 5 months duration | single-source | schedule | hull |
 | PP-0099 | Appendix C: City of San Marcos Wastewater Treatment Facility (TX) capacity | 9 MGD | single-source | scale | hull |
-| PP-0099 | Appendix C: City of Pembroke Pines WWTP (FL) capacity | 9 MGD | **conflict** | scale | hull |
 | PP-0100 | Appendix C: City of Pembroke Pines relationship duration from a 5/26/2015 start date | 10 years, 10 months duration | single-source | schedule | hull |
 | PP-0101 | Appendix C: City of Vancouver, Marine Park WWTP (WA) capacity | 16 MGD | **conflict** | scale | hull |
+| PP-0102 | Appendix C: City of Vancouver, West Side WWTP relationship duration from an 8/1/2015 start date | 10 years, 7 months duration | single-source | schedule | hull |
 | PP-0103 | Appendix C: City of Vancouver, West Side WWTP (WA) capacity | 28 MGD | single-source | scale | hull |
 | PP-0104 | Appendix C: City of Vancouver, Marine Park WWTP relationship duration from an 8/1/2015 start date | 10 years, 7 months duration | single-source | schedule | hull |
-| PP-0104 | Appendix C: City of Vancouver, West Side WWTP relationship duration from an 8/1/2015 start date | 10 years, 7 months duration | single-source | schedule | hull |
 | PP-0105 | Appendix C: City of Brookings WWTP (OR) capacity | 14 MGD | single-source | scale | hull |
 | PP-0106 | Appendix C: City of Brookings relationship duration from a 3/12/2018 start date | 8 years duration | single-source | schedule | hull |
 | PP-0107 | Appendix C: City of Gresham WWTP (OR) capacity | 20 MGD | single-source | scale | hull |
@@ -165,8 +165,8 @@ Every numeric claim swept from the content-bank fragments, clustered so that one
 | PP-0146 | Hull: wastewater pump stations in the client's collection system | 7 pump stations | consistent | scale | hull |
 | PP-0147 | Stormwater pumping station in the system | 1 stormwater pumping station | single-source | scale | hull |
 | PP-0148 | Hull: client collection system length | 42 miles<br>~42 miles | consistent | scale | hull |
-| PP-0149 | Length of Jacobs/OMI operations and maintenance experience | 45+ years<br>45 years<br>>45 years<br>40 years O&M experience<br>4 decades; hundreds decades; facilities<br>40 years<br>… (2 more) | **conflict** | scale | hull, santamonica |
-| PP-0150 | Facilities / O&M projects in the Jacobs O&M portfolio | 300+ facilities<br>>300 O&M projects<br>300 facilities<br>300 O&M projects<br>300+ O&M sites<br>300+ O&M projects<br>… (1 more) | consistent | scale | hull, santamonica |
+| PP-0149 | Length of Jacobs/OMI operations and maintenance experience | 45+ years<br>45 years<br>>45 years<br>40 years O&M experience<br>4 decades; hundreds decades; facilities<br>40 years<br>more than 40 years<br>4 decades of O&M delivery | **conflict** | scale | hull, santamonica |
+| PP-0150 | Facilities / O&M projects in the Jacobs O&M portfolio | 300+ facilities<br>>300 O&M projects<br>300 facilities<br>300 O&M projects<br>300+ O&M sites<br>300+ O&M projects<br>300+ long-term O&M projects | consistent | scale | hull, santamonica |
 | PP-0151 | Cost savings delivered by upgrading an aging biofilter from organic media to engineered media at the Town of Westerly WWTP | 134000 USD (stated as 'over $134k') | single-source | financial | hull |
 | PP-0152 | Duration of the Jacobs Annual Innovation Workshop | 8 hours | consistent | other | hull, santamonica |
 | PP-0153 | Hull: total value-added innovations delivered at no additional cost over the contract term | 5000000 USD (stated as '$5 million')<br>5040000 USD | consistent | financial | hull |
@@ -254,12 +254,12 @@ Every numeric claim swept from the content-bank fragments, clustered so that one
 | PP-0235 | Environmental violation fine — City of Ontario, OR, using herbicides without proper license, resolved by applicators renewing expired licenses (Exhibit 3-9) | 660 USD | single-source | compliance | hull |
 | PP-0236 | Environmental violation fine — City of Roseburg, OR, using herbicides without proper license, resolved by applicators renewing expired licenses (Exhibit 3-9) | 1628 USD | single-source | compliance | hull |
 | PP-0237 | Total on-site FTE count shown on the Exhibit 4-1 organizational chart | 6.25 FTE | single-source | scale | hull |
+| PP-0238 | Assistant Project Manager position staffed on-site full time | 1 FTE | single-source | scale | hull |
+| PP-0239 | Operations/Maintenance Technician position staffed on-site | 1 FTE | single-source | scale | hull |
+| PP-0240 | Operations/Mechanic position staffed on-site | 1 FTE | single-source | scale | hull |
+| PP-0241 | Lab Technician position staffed on-site | 1 FTE | single-source | scale | hull |
+| PP-0242 | O&M/Collections Technician position staffed on-site | 1 FTE | single-source | scale | hull |
 | PP-0243 | Project Manager position staffed on-site full time | 1 FTE | single-source | scale | hull |
-| PP-0243 | Assistant Project Manager position staffed on-site full time | 1 FTE | single-source | scale | hull |
-| PP-0243 | Operations/Maintenance Technician position staffed on-site | 1 FTE | single-source | scale | hull |
-| PP-0243 | Operations/Mechanic position staffed on-site | 1 FTE | single-source | scale | hull |
-| PP-0243 | Lab Technician position staffed on-site | 1 FTE | single-source | scale | hull |
-| PP-0243 | O&M/Collections Technician position staffed on-site | 1 FTE | single-source | scale | hull |
 | PP-0244 | Intern/Seasonal O&M Technician position staffed on-site part time | 0.25 FTE | single-source | scale | hull |
 | PP-0245 | Client Services Manager Mark Phillips has 29 years of experience | 29 years of experience | single-source | other | hull |
 | PP-0246 | Regional O&M Technical Specialist EJ Hindy has 13 years of experience | 13 years of experience | single-source | other | hull |
@@ -382,10 +382,10 @@ Every numeric claim swept from the content-bank fragments, clustered so that one
 | PP-0363 | Jacobs O&M tenure at Red Bluff | 5 years<br>5 years of service | consistent | scale | santamonica |
 | PP-0364 | Jacobs O&M tenure at Davis-Woodland | 11 years<br>11 years of service | consistent | scale | santamonica |
 | PP-0365 | Jacobs O&M tenure at Soquel Creek | 4 years<br>4 years of service | consistent | scale | santamonica |
+| PP-0366 | Jacobs O&M tenure at Fort Irwin | 20 years<br>20 years of service | consistent | scale | santamonica |
 | PP-0367 | Jacobs O&M tenure at Gilroy | 41 years<br>41 years of service | consistent | scale | santamonica |
 | PP-0368 | Jacobs O&M tenure at Clovis | 16 years<br>16 years of service | consistent | scale | santamonica |
 | PP-0369 | Jacobs O&M tenure at Turlock | 20 years<br>20 years of service | consistent | scale | santamonica |
-| PP-0369 | Jacobs O&M tenure at Fort Irwin | 20 years<br>20 years of service | consistent | scale | santamonica |
 | PP-0370 | Jacobs O&M tenure at Twin Oaks | 19 years<br>19 years of service | consistent | scale | santamonica |
 | PP-0371 | Jacobs has delivered successful O&M projects in California since 1984, over four decades | 1984 year of first California O&M project | single-source | scale | santamonica |
 | PP-0372 | Jacobs has contract O&M experience at 26 facilities statewide in California | 26 facilities in California | single-source | scale | santamonica |
@@ -416,10 +416,10 @@ Every numeric claim swept from the content-bank fragments, clustered so that one
 | PP-0397 | Turlock Irrigation District combined cycle power plant supported | 250 MW | consistent | scale | santamonica |
 | PP-0398 | Year Jacobs began operating the Clovis WWTP/WRF | 2009 year contract start<br>2009 year operations commenced | consistent | schedule | santamonica |
 | PP-0399 | Jacobs saved the City of Clovis more than $100,000 through value engineering on the Clovis WWTP/WRF | 100000 USD | single-source | financial | santamonica |
+| PP-0400 | Clovis WWTP/WRF won the 2009 Award of Merit from the WateReuse Association | 2009 award year | single-source | outcome | santamonica |
+| PP-0401 | Clovis WWTP/WRF was a 2009 Global Water Intelligence Water Reuse Project of the Year Finalist | 2009 award year | single-source | outcome | santamonica |
+| PP-0402 | Clovis WWTP/WRF won the 2009 American Academy of Environmental Engineers Design Honor Award for Excellence | 2009 award year | single-source | outcome | santamonica |
 | PP-0403 | Clovis WWTP/WRF won the 2009 Design-Build Institute of America Excellence Award for Projects over $15 Million | 2009 award year | single-source | outcome | santamonica |
-| PP-0403 | Clovis WWTP/WRF won the 2009 Award of Merit from the WateReuse Association | 2009 award year | single-source | outcome | santamonica |
-| PP-0403 | Clovis WWTP/WRF was a 2009 Global Water Intelligence Water Reuse Project of the Year Finalist | 2009 award year | single-source | outcome | santamonica |
-| PP-0403 | Clovis WWTP/WRF won the 2009 American Academy of Environmental Engineers Design Honor Award for Excellence | 2009 award year | single-source | outcome | santamonica |
 | PP-0404 | Clovis WWTP/WRF won the 2008 Environmental Business Journal Wastewater Project Merit Award | 2008 award year | single-source | outcome | santamonica |
 | PP-0405 | Following acceptance testing of the design-build facility, Jacobs began operating and maintaining the Soquel Creek facility for an initial term | 15 years initial term | single-source | schedule | santamonica |
 | PP-0406 | Jacobs Soquel Creek Water District contract dates | 2020 year contract start | single-source | schedule | santamonica |
@@ -480,14 +480,14 @@ Every numeric claim swept from the content-bank fragments, clustered so that one
 | PP-0461 | Santa Monica: total value of value-added offerings included in the base fee over five years | 4100000 USD over 5 years<br>4,100,000 USD value over 5 years | consistent | financial | santamonica |
 | PP-0462 | Santa Monica: value of LA-based regional I&C and maintenance surge coverage | 1700000 USD over 5 years<br>1,700,000 USD value | consistent | financial | santamonica |
 | PP-0463 | Santa Monica: value of the discounted engineering rate offering | 1250000 USD over 5 years<br>1,250,000 USD value | consistent | financial | santamonica |
+| PP-0464 | Santa Monica: value of the ISO-aligned Asset Management Program stand-up | 300000 USD over 5 years<br>300000 USD embedded value<br>300,000 USD value | consistent | financial | santamonica |
 | PP-0465 | Santa Monica: value of the Annual Innovation Workshop | 300000 USD over 5 years<br>300,000 USD value | consistent | financial | santamonica |
-| PP-0465 | Santa Monica: value of the ISO-aligned Asset Management Program stand-up | 300000 USD over 5 years<br>300000 USD embedded value<br>300,000 USD value | consistent | financial | santamonica |
 | PP-0466 | Santa Monica: value of annual trainings and incentives | 200000 USD over 5 years<br>200,000 USD value | consistent | financial | santamonica |
 | PP-0467 | Santa Monica: value of compliance reporting systems integration | 150000 USD over 5 years<br>150,000 USD value | consistent | financial | santamonica |
 | PP-0468 | Santa Monica: value of lift station optimization with the AquaDNA Deragger | 75000 USD over 5 years<br>75000 USD embedded value<br>75,000 USD value | consistent | financial | santamonica |
 | PP-0469 | Santa Monica: value of MBR/process optimization tools | 50000 USD over 5 years<br>50,000 USD value | consistent | financial | santamonica |
+| PP-0470 | Santa Monica: value of inventory management setup | 35000 USD over 5 years<br>35,000 USD value | consistent | financial | santamonica |
 | PP-0471 | Santa Monica: value of the OT/SCADA cybersecurity survey | 35000 USD over 5 years<br>34000 USD embedded value<br>35,000 USD value | **conflict** | financial | santamonica |
-| PP-0471 | Santa Monica: value of inventory management setup | 35000 USD over 5 years<br>35,000 USD value | consistent | financial | santamonica |
 | PP-0472 | Consulting subject matter experts facilitating the Annual Innovation Workshop | 2-3 consulting SMEs | consistent | other | santamonica |
 | PP-0473 | AquaDNA deragging technology has US installations | ~100 installations in the US | single-source | scale | santamonica |
 | PP-0474 | AquaDNA deragging technology operating experience | 10 years of operating experience | single-source | scale | santamonica |
@@ -752,10 +752,10 @@ Also conflicts with: PP-0191
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
-| 27 MGD / 320 miles / 20 pumping stations MGD, collection miles, pumping stations | 2026 | hull-wwtf-om-2026 | p13 ¶3 | `wiki/past-performance/client-references.md` |
 | 310 miles | unknown | hull-wwtf-om-2026 | p73 ¶9 | `wiki/resumes/kevin-dahl.md` |
 | 310 miles | unknown | hull-wwtf-om-2026 | p74 ¶9 | `wiki/resumes/scott-mangold.md` |
 | 310 miles (approximately) | 2026 | hull-wwtf-om-2026 | p76 ¶4 | `wiki/past-performance/project-waterbury-ct.md` |
+| 27 MGD / 320 miles / 20 pumping stations MGD, collection miles, pumping stations | 2026 | hull-wwtf-om-2026 | p13 ¶3 | `wiki/past-performance/client-references.md` |
 | ~310 miles | 2026 | hull-wwtf-om-2026 | p15 ¶2 | `wiki/past-performance/client-references.md` |
 
 ### PP-0034 — City of Waterbury, CT wet weather flows experienced at the pump stations
@@ -796,10 +796,10 @@ Also conflicts with: PP-0192
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
-| 5300000 USD/year | 2026 | hull-wwtf-om-2026 | p15 ¶2 | `wiki/past-performance/client-references.md` |
 | unknown million USD per year | unknown | hull-wwtf-om-2026 | p79 ¶13 | `wiki/past-performance/project-south-huron-mi.md` |
+| 5300000 USD/year | 2026 | hull-wwtf-om-2026 | p15 ¶2 | `wiki/past-performance/client-references.md` |
 
-### PP-0099 — Appendix C: City of Pembroke Pines WWTP (FL) capacity
+### PP-0095 — Appendix C: City of Pembroke Pines WWTP (FL) capacity
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
@@ -826,27 +826,27 @@ Also conflicts with: PP-0207
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
-| 4 decades of O&M delivery | 2025 | santamonica-swip-om-2025 | p7 ¶2 | `wiki/win-themes/swip-om-qualifications-proof-points.md` |
-| 4 decades; hundreds decades; facilities | 2025 | santamonica-swip-om-2025 | p38 ¶4 | `wiki/compliance-plans/swip-qaqc-program-audit-process.md` |
-| 40 years O&M experience | 2025 | santamonica-swip-om-2025 | p15 ¶3 | `wiki/qualifications/firm-history-corporate-overview.md` |
-| 40 years | 2025 | santamonica-swip-om-2025 | p63 ¶3 | `wiki/qualifications/swip-financial-strength-and-stability.md` |
-| 40 years | 2025 | santamonica-swip-om-2025 | p64 ¶5 | `wiki/qualifications/swip-financial-transparency-and-litigation-history.md` |
 | 45+ years | 2026 | hull-wwtf-om-2026 | p5 ¶8 | `wiki/win-themes/value-proposition-table-approach-impact-value.md` |
 | 45 years | 2026 | hull-wwtf-om-2026 | p10 ¶2 | `wiki/qualifications/corporate-entity-legal-qualifications.md` |
 | >45 years | 2026 | hull-wwtf-om-2026 | p10 ¶6 | `wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md` |
 | >45 years | 2026 | hull-wwtf-om-2026 | p11 ¶3 | `wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md` |
+| 40 years O&M experience | 2025 | santamonica-swip-om-2025 | p15 ¶3 | `wiki/qualifications/firm-history-corporate-overview.md` |
+| 4 decades; hundreds decades; facilities | 2025 | santamonica-swip-om-2025 | p38 ¶4 | `wiki/compliance-plans/swip-qaqc-program-audit-process.md` |
+| 40 years | 2025 | santamonica-swip-om-2025 | p63 ¶3 | `wiki/qualifications/swip-financial-strength-and-stability.md` |
+| 40 years | 2025 | santamonica-swip-om-2025 | p64 ¶5 | `wiki/qualifications/swip-financial-transparency-and-litigation-history.md` |
 | more than 40 years | 2025 | santamonica-swip-om-2025 | p99 ¶15 | `wiki/management-staffing/swip-transition-team-and-communications-plan.md` |
+| 4 decades of O&M delivery | 2025 | santamonica-swip-om-2025 | p7 ¶2 | `wiki/win-themes/swip-om-qualifications-proof-points.md` |
 
 ### PP-0167 — Jacobs annual corporate revenue
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
-| 12 billion USD annual revenue | 2025 | santamonica-swip-om-2025 | p15 ¶3 | `wiki/qualifications/firm-history-corporate-overview.md` |
 | ~12000000000 USD | FY24 | hull-wwtf-om-2026 | p10 ¶5 | `wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md` |
+| ~16000000000 USD | 2026 | hull-wwtf-om-2026 | p14 ¶2 | `wiki/qualifications/financial-strength-low-risk-partner-value-prop.md` |
 | ~12000000000 USD | 2026 | hull-wwtf-om-2026 | p14 ¶10 | `wiki/qualifications/corporate-entity-legal-qualifications.md` |
+| 12 billion USD annual revenue | 2025 | santamonica-swip-om-2025 | p15 ¶3 | `wiki/qualifications/firm-history-corporate-overview.md` |
 | 15 billion USD per year | 2025 | santamonica-swip-om-2025 | p63 ¶3 | `wiki/qualifications/swip-financial-strength-and-stability.md` |
 | 15 billion USD (approximately) | 2025 | santamonica-swip-om-2025 | p64 ¶4 | `wiki/qualifications/swip-financial-transparency-and-litigation-history.md` |
-| ~16000000000 USD | 2026 | hull-wwtf-om-2026 | p14 ¶2 | `wiki/qualifications/financial-strength-low-risk-partner-value-prop.md` |
 
 ### PP-0171 — Jacobs global workforce
 
@@ -862,8 +862,8 @@ Also conflicts with: PP-0207
 | --- | --- | --- | --- | --- |
 | 98 percent | 2026 | hull-wwtf-om-2026 | p12 ¶5 | `wiki/qualifications/regional-presence-local-support-value-prop.md` |
 | 98 percent client retention (contract renewal) rate | since 2013 | santamonica-swip-om-2025 | p15 ¶6 | `wiki/qualifications/firm-history-corporate-overview.md` |
-| 98 % client retention | 2025 | santamonica-swip-om-2025 | p7 ¶2 | `wiki/win-themes/swip-om-qualifications-proof-points.md` |
 | 99 percent | 2025 | santamonica-swip-om-2025 | p63 ¶24 | `wiki/qualifications/swip-financial-strength-and-stability.md` |
+| 98 % client retention | 2025 | santamonica-swip-om-2025 | p7 ¶2 | `wiki/win-themes/swip-om-qualifications-proof-points.md` |
 
 ### PP-0191 — Exhibit 3-3 row 3 — Town of Southbridge, Southbridge WWTP, MA
 
@@ -887,7 +887,7 @@ Also conflicts with: PP-0067
 | --- | --- | --- | --- | --- |
 | 9.5 MGD / 445 miles / N/A pumping stations MGD, collection miles, pumping stations | 2026 | hull-wwtf-om-2026 | p13 ¶3 | `wiki/past-performance/client-references.md` |
 
-Also conflicts with: PP-0099
+Also conflicts with: PP-0095
 
 ### PP-0207 — Exhibit 3-3 row 19 — City of Vancouver, Marine Park WWTP, WA
 
@@ -901,8 +901,8 @@ Also conflicts with: PP-0101
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
-| 300 entities | 2025 | santamonica-swip-om-2025 | p64 ¶4 | `wiki/qualifications/swip-financial-transparency-and-litigation-history.md` |
 | ~370 operating companies and affiliates | 2026 | hull-wwtf-om-2026 | p14 ¶10 | `wiki/qualifications/corporate-entity-legal-qualifications.md` |
+| 300 entities | 2025 | santamonica-swip-om-2025 | p64 ¶4 | `wiki/qualifications/swip-financial-transparency-and-litigation-history.md` |
 
 ### PP-0232 — Jacobs NPDES / environmental compliance rate across the O&M portfolio
 
@@ -944,36 +944,36 @@ Also conflicts with: PP-0303
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
-| 1.3 MGD | 2025 | santamonica-swip-om-2025 | p24 ¶2 | `wiki/past-performance/soquel-creek-advanced-water-purification-om.md` |
-| 1.3 MGD | 2025 | santamonica-swip-om-2025 | p24 ¶8 | `wiki/past-performance/soquel-creek-advanced-water-purification-om.md` |
-| 1.3 MGD | 2025 | santamonica-swip-om-2025 | p85 ¶14 | `wiki/resumes/mack-mckenzie.md` |
 | 1.7 MGD | 2025 | santamonica-swip-om-2025 | p15 ¶4 | `wiki/qualifications/firm-history-corporate-overview.md` |
 | 1.7 MGD | 2025 | santamonica-swip-om-2025 | p19 ¶34 | `wiki/qualifications/water-reuse-leadership-and-timeline.md` |
 | 1.7 MGD | 2025 | santamonica-swip-om-2025 | p20 ¶8 | `wiki/qualifications/representative-om-experience-comparison-table.md` |
+| 1.3 MGD | 2025 | santamonica-swip-om-2025 | p24 ¶2 | `wiki/past-performance/soquel-creek-advanced-water-purification-om.md` |
+| 1.3 MGD | 2025 | santamonica-swip-om-2025 | p24 ¶8 | `wiki/past-performance/soquel-creek-advanced-water-purification-om.md` |
 | 2 MGD | unknown | santamonica-swip-om-2025 | p83 ¶14 | `wiki/resumes/chris-catlin.md` |
+| 1.3 MGD | 2025 | santamonica-swip-om-2025 | p85 ¶14 | `wiki/resumes/mack-mckenzie.md` |
 
 ### PP-0375 — Jacobs offices in California
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
-| 11 offices | 2025 | santamonica-swip-om-2025 | p65 ¶5 | `wiki/compliance-plans/swip-emergency-response-plan-approach.md` |
 | 15 offices in California | 2025 | santamonica-swip-om-2025 | p17 ¶6 | `wiki/qualifications/reach-back-model-and-regional-support.md` |
+| 11 offices | 2025 | santamonica-swip-om-2025 | p65 ¶5 | `wiki/compliance-plans/swip-emergency-response-plan-approach.md` |
 
 ### PP-0382 — Turlock Irrigation District Zero Liquid Discharge Facility capacity
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
+| 0.8 MGD | 2025 | santamonica-swip-om-2025 | p20 ¶8 | `wiki/qualifications/representative-om-experience-comparison-table.md` |
 | 0.75 MGD | 2025 | santamonica-swip-om-2025 | p26 ¶3 | `wiki/past-performance/turlock-zero-liquid-discharge-facility-om.md` |
 | 0.75 MGD | 2025 | santamonica-swip-om-2025 | p26 ¶12 | `wiki/past-performance/turlock-zero-liquid-discharge-facility-om.md` |
-| 0.8 MGD | 2025 | santamonica-swip-om-2025 | p20 ¶8 | `wiki/qualifications/representative-om-experience-comparison-table.md` |
 
 ### PP-0471 — Santa Monica: value of the OT/SCADA cybersecurity survey
 
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
+| 35000 USD over 5 years | 2025 | santamonica-swip-om-2025 | p45 ¶5 | `wiki/technical-approach/swip-innovation-value-added-offerings-overview.md` |
 | 34000 USD embedded value | 2025 | santamonica-swip-om-2025 | p68 ¶10 | `wiki/technical-approach/swip-scada-ic-cybersecurity-approach.md` |
 | 34000 USD embedded value | 2025 | santamonica-swip-om-2025 | p68 ¶23 | `wiki/technical-approach/swip-scada-ic-cybersecurity-approach.md` |
-| 35000 USD over 5 years | 2025 | santamonica-swip-om-2025 | p45 ¶5 | `wiki/technical-approach/swip-innovation-value-added-offerings-overview.md` |
 | 35,000 USD value | 2025 | santamonica-swip-om-2025 | p13 ¶3 | `wiki/win-themes/swip-value-added-offerings-package.md` |
 
 ### PP-0555 — Director of Operations Howard Brewen years of water/wastewater operations experience
@@ -992,4 +992,3 @@ Also conflicts with: PP-0577
 | 24 years | 2025 | santamonica-swip-om-2025 | p81 ¶15 | `wiki/resumes/howard-brewen.md` |
 
 Also conflicts with: PP-0555
-

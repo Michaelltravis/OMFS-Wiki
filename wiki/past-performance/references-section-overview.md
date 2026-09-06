@@ -13,7 +13,7 @@ client-size: "Portfolio framing: 40 MGD + 2.8 MGD + 1.3 MGD + 0.75 MGD reference
 geography: "West / CA / SWRCB Title 22, NPDES"
 rfp-section-type: [past-performance]
 win-theme-map: [regional-bench, compliance-leadership, innovation-value-add, incumbent-displacement]
-proof-point-ids: []
+proof-point-ids: [PP-0381, PP-0395, PP-0396, PP-0397]
 testimonial-ids: []
 story-ids: [ST-0013, ST-0015, ST-0016, ST-0017]
 status: preferred

@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [transition, compliance]
 win-theme-map: [transition-continuity, compliance-leadership, safety-culture, asset-management, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-0341, PP-0342, PP-0343, PP-0344]
 testimonial-ids: []
 story-ids: []
 status: preferred

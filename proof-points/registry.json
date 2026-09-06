@@ -1829,8 +1829,8 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0063",
-    "claim": "Westerly (client quote): annual O&M budget increase in the Jacobs proposal",
+    "id": "PP-0062",
+    "claim": "Westerly (client quote): annual contract-cost savings to the Town",
     "values": [
       {
         "number": "100,000",
@@ -1850,7 +1850,7 @@
   },
   {
     "id": "PP-0063",
-    "claim": "Westerly (client quote): annual contract-cost savings to the Town",
+    "claim": "Westerly (client quote): annual O&M budget increase in the Jacobs proposal",
     "values": [
       {
         "number": "100,000",
@@ -2671,6 +2671,28 @@
     "conflicts_with": []
   },
   {
+    "id": "PP-0095",
+    "claim": "Appendix C: City of Pembroke Pines WWTP (FL) capacity",
+    "values": [
+      {
+        "number": "9",
+        "unit": "MGD",
+        "as_of": "2026",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 82,
+        "para": 3,
+        "block": "wiki/past-performance/similar-facilities-table.md"
+      }
+    ],
+    "status": "conflict",
+    "category": "scale",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": [
+      "PP-0195"
+    ]
+  },
+  {
     "id": "PP-0096",
     "claim": "Appendix C: City of San Marcos relationship duration from a 10/1/2005 start date",
     "values": [
@@ -2751,28 +2773,6 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0099",
-    "claim": "Appendix C: City of Pembroke Pines WWTP (FL) capacity",
-    "values": [
-      {
-        "number": "9",
-        "unit": "MGD",
-        "as_of": "2026",
-        "source_slug": "hull-wwtf-om-2026",
-        "page": 82,
-        "para": 3,
-        "block": "wiki/past-performance/similar-facilities-table.md"
-      }
-    ],
-    "status": "conflict",
-    "category": "scale",
-    "owner": "",
-    "approved_for_external_use": "pending",
-    "conflicts_with": [
-      "PP-0195"
-    ]
-  },
-  {
     "id": "PP-0100",
     "claim": "Appendix C: City of Pembroke Pines relationship duration from a 5/26/2015 start date",
     "values": [
@@ -2815,6 +2815,26 @@
     ]
   },
   {
+    "id": "PP-0102",
+    "claim": "Appendix C: City of Vancouver, West Side WWTP relationship duration from an 8/1/2015 start date",
+    "values": [
+      {
+        "number": "10 years, 7 months",
+        "unit": "duration",
+        "as_of": "2026-03",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 83,
+        "para": 2,
+        "block": "wiki/past-performance/similar-facilities-table.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "schedule",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
     "id": "PP-0103",
     "claim": "Appendix C: City of Vancouver, West Side WWTP (WA) capacity",
     "values": [
@@ -2837,26 +2857,6 @@
   {
     "id": "PP-0104",
     "claim": "Appendix C: City of Vancouver, Marine Park WWTP relationship duration from an 8/1/2015 start date",
-    "values": [
-      {
-        "number": "10 years, 7 months",
-        "unit": "duration",
-        "as_of": "2026-03",
-        "source_slug": "hull-wwtf-om-2026",
-        "page": 83,
-        "para": 2,
-        "block": "wiki/past-performance/similar-facilities-table.md"
-      }
-    ],
-    "status": "single-source",
-    "category": "schedule",
-    "owner": "",
-    "approved_for_external_use": "pending",
-    "conflicts_with": []
-  },
-  {
-    "id": "PP-0104",
-    "claim": "Appendix C: City of Vancouver, West Side WWTP relationship duration from an 8/1/2015 start date",
     "values": [
       {
         "number": "10 years, 7 months",
@@ -5228,7 +5228,7 @@
     "owner": "",
     "approved_for_external_use": "pending",
     "conflicts_with": [
-      "PP-0099"
+      "PP-0095"
     ]
   },
   {
@@ -6218,27 +6218,7 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0243",
-    "claim": "Project Manager position staffed on-site full time",
-    "values": [
-      {
-        "number": "1",
-        "unit": "FTE",
-        "as_of": "2026",
-        "source_slug": "hull-wwtf-om-2026",
-        "page": 20,
-        "para": 8,
-        "block": "wiki/management-staffing/proposed-team-org-chart-roster.md"
-      }
-    ],
-    "status": "single-source",
-    "category": "scale",
-    "owner": "",
-    "approved_for_external_use": "pending",
-    "conflicts_with": []
-  },
-  {
-    "id": "PP-0243",
+    "id": "PP-0238",
     "claim": "Assistant Project Manager position staffed on-site full time",
     "values": [
       {
@@ -6258,7 +6238,7 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0243",
+    "id": "PP-0239",
     "claim": "Operations/Maintenance Technician position staffed on-site",
     "values": [
       {
@@ -6278,7 +6258,7 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0243",
+    "id": "PP-0240",
     "claim": "Operations/Mechanic position staffed on-site",
     "values": [
       {
@@ -6298,7 +6278,7 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0243",
+    "id": "PP-0241",
     "claim": "Lab Technician position staffed on-site",
     "values": [
       {
@@ -6318,8 +6298,28 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0243",
+    "id": "PP-0242",
     "claim": "O&M/Collections Technician position staffed on-site",
+    "values": [
+      {
+        "number": "1",
+        "unit": "FTE",
+        "as_of": "2026",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 20,
+        "para": 8,
+        "block": "wiki/management-staffing/proposed-team-org-chart-roster.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "scale",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-0243",
+    "claim": "Project Manager position staffed on-site full time",
     "values": [
       {
         "number": "1",
@@ -9070,6 +9070,35 @@
     "conflicts_with": []
   },
   {
+    "id": "PP-0366",
+    "claim": "Jacobs O&M tenure at Fort Irwin",
+    "values": [
+      {
+        "number": "20",
+        "unit": "years",
+        "as_of": "2025",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 15,
+        "para": 9,
+        "block": "wiki/qualifications/firm-history-corporate-overview.md"
+      },
+      {
+        "number": "20",
+        "unit": "years of service",
+        "as_of": "2025",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 7,
+        "para": 2,
+        "block": "wiki/win-themes/swip-om-qualifications-proof-points.md"
+      }
+    ],
+    "status": "consistent",
+    "category": "scale",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
     "id": "PP-0367",
     "claim": "Jacobs O&M tenure at Gilroy",
     "values": [
@@ -9148,35 +9177,6 @@
         "page": 27,
         "para": 7,
         "block": "wiki/past-performance/turlock-zero-liquid-discharge-facility-om.md"
-      },
-      {
-        "number": "20",
-        "unit": "years of service",
-        "as_of": "2025",
-        "source_slug": "santamonica-swip-om-2025",
-        "page": 7,
-        "para": 2,
-        "block": "wiki/win-themes/swip-om-qualifications-proof-points.md"
-      }
-    ],
-    "status": "consistent",
-    "category": "scale",
-    "owner": "",
-    "approved_for_external_use": "pending",
-    "conflicts_with": []
-  },
-  {
-    "id": "PP-0369",
-    "claim": "Jacobs O&M tenure at Fort Irwin",
-    "values": [
-      {
-        "number": "20",
-        "unit": "years",
-        "as_of": "2025",
-        "source_slug": "santamonica-swip-om-2025",
-        "page": 15,
-        "para": 9,
-        "block": "wiki/qualifications/firm-history-corporate-overview.md"
       },
       {
         "number": "20",
@@ -9912,27 +9912,7 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0403",
-    "claim": "Clovis WWTP/WRF won the 2009 Design-Build Institute of America Excellence Award for Projects over $15 Million",
-    "values": [
-      {
-        "number": "2009",
-        "unit": "award year",
-        "as_of": "2009",
-        "source_slug": "santamonica-swip-om-2025",
-        "page": 22,
-        "para": 11,
-        "block": "wiki/past-performance/clovis-wwtp-wrf-om.md"
-      }
-    ],
-    "status": "single-source",
-    "category": "outcome",
-    "owner": "",
-    "approved_for_external_use": "pending",
-    "conflicts_with": []
-  },
-  {
-    "id": "PP-0403",
+    "id": "PP-0400",
     "claim": "Clovis WWTP/WRF won the 2009 Award of Merit from the WateReuse Association",
     "values": [
       {
@@ -9952,7 +9932,7 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0403",
+    "id": "PP-0401",
     "claim": "Clovis WWTP/WRF was a 2009 Global Water Intelligence Water Reuse Project of the Year Finalist",
     "values": [
       {
@@ -9972,8 +9952,28 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0403",
+    "id": "PP-0402",
     "claim": "Clovis WWTP/WRF won the 2009 American Academy of Environmental Engineers Design Honor Award for Excellence",
+    "values": [
+      {
+        "number": "2009",
+        "unit": "award year",
+        "as_of": "2009",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 22,
+        "para": 11,
+        "block": "wiki/past-performance/clovis-wwtp-wrf-om.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "outcome",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-0403",
+    "claim": "Clovis WWTP/WRF won the 2009 Design-Build Institute of America Excellence Award for Projects over $15 Million",
     "values": [
       {
         "number": "2009",
@@ -11282,36 +11282,7 @@
     "conflicts_with": []
   },
   {
-    "id": "PP-0465",
-    "claim": "Santa Monica: value of the Annual Innovation Workshop",
-    "values": [
-      {
-        "number": "300000",
-        "unit": "USD over 5 years",
-        "as_of": "2025",
-        "source_slug": "santamonica-swip-om-2025",
-        "page": 45,
-        "para": 5,
-        "block": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md"
-      },
-      {
-        "number": "300,000",
-        "unit": "USD value",
-        "as_of": "2025",
-        "source_slug": "santamonica-swip-om-2025",
-        "page": 13,
-        "para": 3,
-        "block": "wiki/win-themes/swip-value-added-offerings-package.md"
-      }
-    ],
-    "status": "consistent",
-    "category": "financial",
-    "owner": "",
-    "approved_for_external_use": "pending",
-    "conflicts_with": []
-  },
-  {
-    "id": "PP-0465",
+    "id": "PP-0464",
     "claim": "Santa Monica: value of the ISO-aligned Asset Management Program stand-up",
     "values": [
       {
@@ -11331,6 +11302,35 @@
         "page": 57,
         "para": 7,
         "block": "wiki/technical-approach/swip-asset-management-10-box-model.md"
+      },
+      {
+        "number": "300,000",
+        "unit": "USD value",
+        "as_of": "2025",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 13,
+        "para": 3,
+        "block": "wiki/win-themes/swip-value-added-offerings-package.md"
+      }
+    ],
+    "status": "consistent",
+    "category": "financial",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-0465",
+    "claim": "Santa Monica: value of the Annual Innovation Workshop",
+    "values": [
+      {
+        "number": "300000",
+        "unit": "USD over 5 years",
+        "as_of": "2025",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 45,
+        "para": 5,
+        "block": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md"
       },
       {
         "number": "300,000",
@@ -11474,6 +11474,35 @@
     "conflicts_with": []
   },
   {
+    "id": "PP-0470",
+    "claim": "Santa Monica: value of inventory management setup",
+    "values": [
+      {
+        "number": "35000",
+        "unit": "USD over 5 years",
+        "as_of": "2025",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 45,
+        "para": 5,
+        "block": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md"
+      },
+      {
+        "number": "35,000",
+        "unit": "USD value",
+        "as_of": "2025",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 13,
+        "para": 3,
+        "block": "wiki/win-themes/swip-value-added-offerings-package.md"
+      }
+    ],
+    "status": "consistent",
+    "category": "financial",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
     "id": "PP-0471",
     "claim": "Santa Monica: value of the OT/SCADA cybersecurity survey",
     "values": [
@@ -11515,35 +11544,6 @@
       }
     ],
     "status": "conflict",
-    "category": "financial",
-    "owner": "",
-    "approved_for_external_use": "pending",
-    "conflicts_with": []
-  },
-  {
-    "id": "PP-0471",
-    "claim": "Santa Monica: value of inventory management setup",
-    "values": [
-      {
-        "number": "35000",
-        "unit": "USD over 5 years",
-        "as_of": "2025",
-        "source_slug": "santamonica-swip-om-2025",
-        "page": 45,
-        "para": 5,
-        "block": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md"
-      },
-      {
-        "number": "35,000",
-        "unit": "USD value",
-        "as_of": "2025",
-        "source_slug": "santamonica-swip-om-2025",
-        "page": 13,
-        "para": 3,
-        "block": "wiki/win-themes/swip-value-added-offerings-package.md"
-      }
-    ],
-    "status": "consistent",
     "category": "financial",
     "owner": "",
     "approved_for_external_use": "pending",

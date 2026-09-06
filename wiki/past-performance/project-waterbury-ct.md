@@ -13,7 +13,7 @@ client-size: "27 MGD / ~310 mi sanitary sewer / 20 pump stations"
 geography: "Northeast / CT / CTDEEP, EPA Region 1"
 rfp-section-type: [past-performance]
 win-theme-map: [partner-transparency, compliance-leadership, asset-management, collection-system, innovation-value-add, community-engagement]
-proof-point-ids: []
+proof-point-ids: [PP-0030, PP-0031, PP-0032, PP-0033, PP-0035, PP-0042, PP-0043, PP-0044, PP-0045, PP-0046]
 testimonial-ids: [TM-0006]
 story-ids: [ST-0005]
 status: preferred

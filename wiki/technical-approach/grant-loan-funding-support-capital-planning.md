@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, partner-transparency, asset-management, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-0327, PP-0328, PP-0329, PP-0330]
 testimonial-ids: []
 story-ids: []
 status: preferred

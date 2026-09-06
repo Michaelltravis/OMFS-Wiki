@@ -13,7 +13,7 @@ client-size: "1.3 MGD max monthly average / advanced water purification for grou
 geography: "West / CA / SWRCB Division of Drinking Water, groundwater replenishment reuse"
 rfp-section-type: [past-performance]
 win-theme-map: [partner-transparency, transition-continuity, innovation-value-add, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-0358, PP-0405, PP-0406]
 testimonial-ids: [TM-0015]
 story-ids: [ST-0017]
 status: preferred

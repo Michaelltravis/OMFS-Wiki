@@ -13,7 +13,7 @@ client-size: "1 MGD advanced water treatment / potable reuse facility"
 geography: "West / Southern California / Los Angeles RWQCB + SWRCB Division of Drinking Water"
 rfp-section-type: [qualifications, staffing]
 win-theme-map: [compliance-leadership, regional-bench, innovation-value-add, incumbent-displacement]
-proof-point-ids: []
+proof-point-ids: [PP-0392, PP-0393]
 testimonial-ids: []
 story-ids: []
 status: preferred

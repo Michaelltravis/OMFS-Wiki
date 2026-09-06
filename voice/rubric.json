@@ -1,130 +1,122 @@
 {
-  "name": "Jacobs proposal voice rubric",
-  "version": "1.0.0",
-  "calibrated_on": "2026-09-05",
-  "calibration_sources": [
-    "voice/samples/comparison.md",
-    "voice/samples/metrics_hull.json",
-    "voice/samples/metrics_santamonica.json",
-    "voice/voice-guide.md"
-  ],
-  "applies_to": "Units of >= 1,000 words of body prose. For shorter units (letters, callouts, sidebars) score the dimensions and apply judge gates only; skip metrics.py gates.",
   "dimensions": [
     {
       "id": "sales_impact",
       "name": "Sales impact",
-      "description": "Does the section make an evaluator want to hire Jacobs? Win themes are named once and threaded as headings, callouts, and closers; every section opens on the client's situation and closes on the client's future; a skimmer reading only headings and bold gets the whole case.",
+      "description": "Does the section make an evaluator want to hire Jacobs? Three to five win themes are named once and threaded as headings, callout titles, and closers; every section opens on the client's situation and closes on the client's future with a named lead and three outcomes; a skimmer reading only headings, bold, and sidebars gets the whole case (voice-guide Rules 11, 13, 26, 27).",
       "scale": "1-10",
       "anchors": {
-        "3": "Reads as a compliance response. Headings are RFP labels, themes are stated once or not at all, sections end on boilerplate, a table, or a placeholder. The evaluator finishes knowing what Jacobs is, not what the client gains.",
-        "6": "Themes are present and some headings carry benefits. Most sections close on a benefit paragraph, but feature lists, hedges, or a legal paragraph in the closing slot dilute the case in places.",
-        "9": "Three to five themes recur verbatim as headings, callout titles, and closers. Every section opens on the client and ends with a 40-70-word next-chapter paragraph naming the client, the lead person or team, and three outcomes. The bottom line is unmistakable from headings and bold alone."
+        "3": "Reads as a compliance response. Headings are RFP labels or bare project names, themes are stated once or not at all, sections end on legal boilerplate, a table, or a placeholder. The evaluator finishes knowing what Jacobs is, not what the client gains. (The Richmond pilot: 0 benefit headings, 0 themes threaded, closes on litigation text and a placeholder.)",
+        "6": "Themes are present and most headings carry a benefit noun. Most sections close on a benefit paragraph, but a feature list, a hedge, or a legal paragraph sits in the closing slot somewhere, and at least one theme never recurs as a heading.",
+        "9": "Three to five themes recur verbatim as headings, callout titles, and closers, each at least three times across cover letter, executive summary, and section headings. Every section opens on the client and ends with a 40-70-word next-chapter paragraph naming the client, the lead person or team, and three outcomes. The bottom line is unmistakable from headings and bold alone, as in Hull's 'Your next chapter' and Santa Monica's 'Bottom line'."
       }
     },
     {
       "id": "proof_density",
       "name": "Proof density",
-      "description": "Numbers, names, dates, and named tools per 100 words, delivered in four registers: inline figure, stat callout or exhibit pointed to in bold, table row, and named third-party voice. Every paragraph is unshippable to a competitor.",
+      "description": "Numbers, names, dates, and named tools per 100 words, delivered in four registers (inline figure, stat callout or exhibit pointed to in bold, table row, named and titled third-party voice), with no more than three numeric facts per sentence and every paragraph unshippable to a competitor (Rules 14, 15, 16, 17, 18, 25).",
       "scale": "1-10",
       "anchors": {
-        "3": "Fewer than 3 numbers per 100 words, or numbers stacked five or more to a sentence. One register only (tables or prose). No named people, tools, or client identifiers; paragraphs a competitor could paste unchanged.",
-        "6": "3-4.5 numbers per 100 words in two or three registers. Most claims carry a figure; a few paragraphs are generic; no named, titled third-party voice.",
-        "9": "4.5-6.5 numbers per 100 words with at most three per sentence. All four registers appear within any two consecutive pages. Every paragraph carries a proper noun, a number, or a named action; each subsection has two or more unshippable items; at least one named, titled quote per major section."
+        "3": "Fewer than 4 numbers per 100 words, or numbers stacked five or more to a sentence. One register only (all tables or all prose). No named people with credentials, no named tools, no client identifiers; paragraphs a competitor could paste unchanged. References are key-value tables without a quantified accomplishment.",
+        "6": "4-4.5 numbers per 100 words in two or three registers. Most claims carry a figure and most subsections have one unshippable item, but a few paragraphs are generic, at least one sentence stacks more than five facts, and there is no named, titled third-party voice.",
+        "9": "4.5-6.5 numbers per 100 words (Hull 5.66, Santa Monica 5.47) with at most three per sentence outside facility-scoping sentences. All four registers appear within any two consecutive pages. Every paragraph carries a proper noun, a number, or a named action; each subsection holds two or more of named person with credential, named tool, client identifier, quantified offer; every reference has three relevance tags and a dollar or percent result; at least one named, titled quote or client-attributed figure per major section."
       }
     },
     {
       "id": "consequence_linkage",
       "name": "Consequence linkage",
-      "description": "Every figure is tied to a comparator (RFP threshold, industry range, client scale, prior state) and a client consequence in the same sentence. Bold text reads as a chain of outcomes; proof exhibits end in the client's outcome column.",
+      "description": "Every performance figure is tied to a comparator (RFP threshold, industry range, client scale, prior state) and to a client consequence in the same sentence; bold text reads as a chain of outcomes; paragraphs end on what the client gains; proof exhibits end in the client's outcome column; value-adds carry a dollar value (Rules 12, 13, 19, 33).",
       "scale": "1-10",
       "anchors": {
-        "3": "Figures float without a comparator. Consequences are quarantined in a 'Why this matters' block or absent. Bold marks topics. Tables end in feature columns.",
-        "6": "Most headline figures carry a comparator. Roughly a third of paragraphs end on a benefit clause; some bold marks outcomes; some exhibits have a value column.",
-        "9": "Every headline figure has its comparator inside the sentence. At least 35% of paragraphs end on a bolded two- or three-outcome clause; reading only the bold text yields client outcomes; every proof exhibit's rightmost column names the client's outcome; every value-add carries a dollar or measurable quantity."
+        "3": "Figures float without a comparator (TRIR, EMR, D&B rating, portfolio counts stated bare). Consequences are quarantined in a 'Why this matters' block or absent. Bold marks topics. Tables end in feature columns. Value-adds commit to a cadence with no value attached.",
+        "6": "Most headline figures carry a comparator. Roughly a third of paragraphs end on a benefit clause; some bold marks outcomes; some exhibits have a value column; some value-adds are quantified.",
+        "9": "Every performance figure has its comparator inside the sentence ('EMR of 0.45, well below the RFP requirement of 1.0'). At least 35% of paragraphs end on a bolded two- or three-outcome clause; reading only the bold text yields client outcomes; 70% or more of bold runs contain a number, a client noun, or an outcome verb; every proof exhibit's rightmost column names the client's outcome; every value-add carries a dollar value or measurable quantity summed to one headline."
       }
     },
     {
       "id": "voice_rhythm",
       "name": "Voice and rhythm",
-      "description": "Sentence and paragraph cadence in the winners' band: median 18-25 words, p90 <= 40, none over 50; paragraphs of one or two sentences averaging 30-45 words; verb-bearing punch sentences at paragraph edges paired with a long sentence; closing triads with the serial comma; punctuation inside budget; no aphorisms or meta-narration.",
+      "description": "Sentence and paragraph cadence in the winners' band: median 18-25 words, p90 at or under 40, none over 50 outside boilerplate; paragraphs of one or two sentences averaging 30-45 words; verb-bearing punch sentences at paragraph edges paired with a long sentence; closing triads with the serial comma; punctuation inside budget; actor-first openers; no aphorisms or meta-narration (Rules 1-6).",
       "scale": "1-10",
       "anchors": {
-        "3": "p90 above 45 or paragraphs averaging more than 60 words. Punch sentences are bold run-in labels. Colon-and-semicolon stacks, em-dash asides, aphorisms, meta-narration. No triads or triads without the serial comma.",
-        "6": "Median in band but p90 near 40 and some paragraphs over 100 words. Punch sentences exist but sit mid-paragraph or lack a verb. Occasional stacked punctuation; a few triads.",
-        "9": "Median 18-25, p90 <= 38, no sentence over 50. Paragraphs 30-45 words, at least 55% one or two sentences, none over 110. A long-short pair opens and closes every section. At least 8 triads per 1,000 words with the serial comma; colons <= 6, semicolons <= 4, em dashes <= 9 per 1,000 words; at least 30% actor-first openers."
+        "3": "p90 above 45 or paragraphs averaging more than 60 words. Punch sentences are bold run-in labels without verbs. Colon-and-semicolon stacks, em-dash asides, aphorisms, meta-narration. Fewer than 2 triads per 1,000 words, or triads without the serial comma. (The pilot: p90 60, 63.7-word paragraphs, 13 verbless run-ins, 15.8 colons and 10.7 semicolons per 1,000 words, 0.5 triads.)",
+        "6": "Median in band but p90 near 40 and some paragraphs over 100 words. Punch sentences exist but sit mid-paragraph or lack a verb. Occasional stacked punctuation; a few triads; under 20% actor-first openers.",
+        "9": "Median 18-25 (aim 20-24), p90 at or under 38, no sentence over 50. Paragraphs average 30-45 words, at least 55% one or two sentences, none over 110. A long-short pair opens and closes every section. At least 8 triads per 1,000 words with the serial comma; colons at or under 6, semicolons at or under 4, em dashes at or under 9 per 1,000 words; at least 30% actor-first openers; zero aphorisms and zero meta-narration."
       }
     },
     {
       "id": "client_specificity",
       "name": "Client specificity",
-      "description": "The client opens every section as grammatical subject and sits in the beneficiary slot of Jacobs sentences. The client's own vocabulary (permits, orders, systems, place names) is used. Needs are framed as aspirations. 'You/your' is spent on collaboration and respect only.",
+      "description": "The client opens every section as grammatical subject and sits in the beneficiary slot of Jacobs sentences; the client's own vocabulary (permits, orders, systems, place names) is used; needs are framed as aspirations or operating conditions; 'you/your' is spent on collaboration and respect only; commitments carry a named owner, 'will', an operational verb, and a cadence (Rules 20-25).",
       "scale": "1-10",
       "anchors": {
-        "3": "Client framed as buyer ('gets', 'is buying', 'counterparty'). Deficits catalogued. Generic paragraphs. 'You' mixed into third-person paragraphs or used in sentences about shortcomings. Jacobs called 'the operator'.",
-        "6": "Client opens most sections and is named in about 40% of paragraphs. Some client vocabulary; a few generic passages; needs mostly framed as aspirations; occasional buyer or deficit wording.",
-        "9": "Every H2 opens with the client's situation, Jacobs absent from sentence one. At least 40% of paragraphs name the client, always as beneficiary. Client identifiers appear in the client's terms. Every 'you/your' sentence names something the client owns, values, or will receive. Every commitment has a named owner or role, 'will', an operational verb, and a cadence."
+        "3": "Client framed as buyer ('gets', 'is buying', 'counterparty', 'balance sheet'). Deficits catalogued in Qualifications. Generic paragraphs. 'You' mixed into third-person paragraphs or used in sentences about shortcomings. Jacobs called 'the operator' or 'they'. Commitments in present tense with no owner.",
+        "6": "Client opens most sections and is named in about 40% of paragraphs. Some client vocabulary; a few generic passages; needs mostly framed as aspirations; occasional buyer or deficit wording; most commitments have an owner and 'will'.",
+        "9": "Every H2 opens with the client's situation, Jacobs absent from sentence one. At least 40% of paragraphs name the client (Hull 0.44, Santa Monica 0.40), always as beneficiary. Client identifiers appear in the client's terms. Every 'you/your' sentence names something the client owns, values, or will receive. Every commitment reads [named person or role] will [operational verb] [object] [cadence]. Every subsection holds two or more unshippable items."
       }
     },
     {
       "id": "structure_scannability",
       "name": "Structure and scannability",
-      "description": "Heading density and content, bold purpose, paragraph size, exhibit pointers, and device discipline: a reader who skims headings, bold, callouts, and table headers gets the argument in order.",
+      "description": "Heading density and content, bold purpose, paragraph size, exhibit pointers, and device discipline: a reader who skims headings, bold, sidebars, and table headers gets the argument in order (Rules 7-11, 32, 33).",
       "scale": "1-10",
       "anchors": {
-        "3": "More than 220 or fewer than 100 words per heading. Numbered RFP-echo headings without benefit nouns. Run-in bold used as the section skeleton. No exhibit pointers. Reference projects as key-value tables. Skimmer sees topics, not outcomes.",
-        "6": "Headings every 100-220 words with mixed benefit content. Bold partly on outcomes. Exhibits present but not pointed to from prose. Some run-ins longer than six words; bullets mostly parallel.",
-        "9": "A heading every 130-170 words, each a 3-9-word benefit noun phrase in sentence case, at least one per section naming the client or its state, at most one assertion heading per section. Bold 10-30 runs per 1,000 words with at least 70% on outcomes. About every third paragraph points to an exhibit. Bullets 3-8 parallel items with lead-ins of six words or fewer. Devices match the Rule 32 table."
+        "3": "More than 220 or fewer than 100 words per heading. Numbered RFP-echo headings without benefit nouns; bare project names as headings. Run-in bold used as the section skeleton. No exhibit pointers. Reference projects as key-value tables. Skimmer sees topics, not outcomes. (The pilot: 281 words per heading, 0 benefit headings, 13 run-ins as spine.)",
+        "6": "Headings every 100-220 words with mixed benefit content. Bold partly on outcomes. Exhibits present but not pointed to from prose. Some run-ins longer than six words; bullets mostly parallel; at most one device misused per section.",
+        "9": "A heading every 130-180 words (Hull 149, Santa Monica 158), each a 3-9-word benefit noun phrase in sentence case, at least one per section naming the client or its state, at most one assertion heading per section, no unmandated digits. Bold 10-30 runs per 1,000 words with at least 70% on outcomes. About every third paragraph points to an exhibit. Bullets 3-8 parallel items with lead-ins of six words or fewer. Every device matches the Rule 32 table and repeats a claim the prose already made."
       }
     },
     {
       "id": "incumbent_handling",
       "name": "Incumbent and concession handling",
-      "description": "Competition is never named; the incumbent's shortcomings are stated as the client's aspirations; required negatives follow the four-move concession (scale, bound, resolve, no impact); nothing negative is volunteered beyond the RFP ask; weaknesses are acknowledged in a subordinate clause and answered in the main clause.",
+      "description": "Competition is never named; the incumbent's shortcomings are stated as the client's aspirations; required negatives follow the four-move concession (scale, bound, resolve, no impact) with a resolution column; nothing negative is volunteered beyond the RFP ask; weaknesses are acknowledged in a subordinate clause and answered in the main clause (Rules 28-31).",
       "scale": "1-10",
       "anchors": {
-        "3": "Competitor named. Client, staff, or program blamed. Negative tables or admissions volunteered. Self-disclaimers about our own evidence. Concessions end on a warning, a hedge, or an aphorism.",
-        "6": "Competitor unnamed. Some deficit language survives. RFP-required disclosures made with a resolution but missing scale context or the no-impact close.",
-        "9": "Zero competitor names; 'the previous contract operator' or 'traditional O&M providers' throughout. Incumbent gaps written as what the client is seeking. Every disclosed negative follows scale, bound, resolve, no impact in one paragraph with a resolution column in any table. No volunteered negatives. Each weakness is one sentence: subordinate acknowledgement, main-clause answer on the evaluator's criterion."
+        "3": "Competitor named. Client, staff, or program blamed. Negative tables or admissions volunteered. Self-disclaimers about our own evidence ('We make no claim yet'). Concessions end on a warning, a hedge, or an aphorism. (The pilot: incumbent named six times, a volunteered incident table, an ownership-model swipe, a violations paragraph closing on 'A firm that discloses a $660 fine will disclose a permit exceedance.')",
+        "6": "Competitor unnamed. Some deficit language survives. RFP-required disclosures made with a resolution but missing scale context or the no-impact close. One concession runs longer than a sentence.",
+        "9": "Zero competitor names; 'the previous contract operator' or 'traditional O&M providers' throughout. Incumbent gaps written as what the client is seeking. Every disclosed negative follows scale, bound, resolve, no impact in one paragraph, with a resolution column in any table. No volunteered negatives. Each weakness is one sentence: subordinate acknowledgement, main-clause answer on the evaluator's criterion, as in Hull's EPA Region 1 reference sentence."
       }
     },
     {
       "id": "holistic_top_writer",
       "name": "Holistic top-writer judgment",
-      "description": "Would the author of the Hull or Santa Monica sections sign this as their own? One voice throughout, confident without hype, nothing for a senior editor to fix before layout, zero editorial residue in the body.",
+      "description": "Would the author of the Hull or Santa Monica sections sign this as their own? One voice throughout, confident without hype, brand mechanics correct, nothing for a senior editor to fix before layout, zero editorial residue in the body (Rules 34, 35 and the whole).",
       "scale": "1-10",
       "anchors": {
-        "3": "A copy editor would rewrite most paragraphs. Tags, hedges, meta-narration, and aphorisms show the writer's process. The reader sees the seams between sources.",
-        "6": "Competent and clean with no disqualifying fault. A senior editor would tighten 20-30% of sentences and re-head several subsections before release.",
-        "9": "Indistinguishable from the winning sections. A senior editor changes fewer than one sentence in ten. The body carries no brackets, notes, or hedges; conflicting figures were settled in the fact pack and the prose shows one number. Every paragraph earns its place in the client's decision."
+        "3": "A copy editor would rewrite most paragraphs. Tags, hedges, meta-narration, and aphorisms show the writer's process. The reader sees the seams between sources ('$12 billion [VERIFY — a second source states more than $15 billion]'). Banned words present.",
+        "6": "Competent and clean with no disqualifying fault. A senior editor would tighten 20-30% of sentences, re-head several subsections, and restore a few serial commas before release.",
+        "9": "Indistinguishable from the winning sections. A senior editor changes fewer than one sentence in ten. The body carries no brackets, notes, or hedges; conflicting figures were settled in the fact pack and the prose shows one number at a precision both sources support. Brand mechanics (sentence-case headings, spaced em dash, en-dash ranges, serial comma, 'Jacobs' possessive) are correct throughout. Every paragraph earns its place in the client's decision."
       }
     }
   ],
   "gates": [
     { "metric": "sentence_median_words", "op": ">=", "value": 18, "hard": true },
     { "metric": "sentence_median_words", "op": "<=", "value": 25, "hard": true },
+    { "metric": "sentence_median_words", "op": ">=", "value": 20, "hard": false },
+    { "metric": "sentence_median_words", "op": "<=", "value": 24, "hard": false },
     { "metric": "sentence_p90_words", "op": "<=", "value": 40, "hard": true },
     { "metric": "sentence_p90_words", "op": "<=", "value": 38, "hard": false },
     { "metric": "avg_paragraph_words", "op": "<=", "value": 55, "hard": true },
-    { "metric": "avg_paragraph_words", "op": ">=", "value": 30, "hard": false },
+    { "metric": "avg_paragraph_words", "op": ">=", "value": 28, "hard": false },
     { "metric": "avg_paragraph_words", "op": "<=", "value": 45, "hard": false },
     { "metric": "words_per_heading", "op": ">=", "value": 100, "hard": true },
     { "metric": "words_per_heading", "op": "<=", "value": 220, "hard": true },
     { "metric": "words_per_heading", "op": ">=", "value": 130, "hard": false },
-    { "metric": "words_per_heading", "op": "<=", "value": 170, "hard": false },
-    { "metric": "numbers_per_100_words", "op": ">=", "value": 3.0, "hard": true },
+    { "metric": "words_per_heading", "op": "<=", "value": 180, "hard": false },
+    { "metric": "numbers_per_100_words", "op": ">=", "value": 4.0, "hard": true },
     { "metric": "numbers_per_100_words", "op": ">=", "value": 4.5, "hard": false },
     { "metric": "numbers_per_100_words", "op": "<=", "value": 6.5, "hard": false },
     { "metric": "table_share", "op": "<=", "value": 0.35, "hard": true },
-    { "metric": "table_share", "op": ">=", "value": 0.05, "hard": false },
     { "metric": "table_share", "op": "<=", "value": 0.25, "hard": false },
     { "metric": "passive_voice_rate", "op": "<=", "value": 0.15, "hard": true },
     { "metric": "passive_voice_rate", "op": "<=", "value": 0.10, "hard": false },
     { "metric": "tags_in_body", "op": "==", "value": 0, "hard": true },
     { "metric": "banned_words_total", "op": "==", "value": 0, "hard": true },
+    { "metric": "client_paragraph_density", "op": ">=", "value": 0.30, "hard": true },
+    { "metric": "client_paragraph_density", "op": ">=", "value": 0.40, "hard": false },
     { "metric": "punch_sentences_per_120_words", "op": ">=", "value": 0.5, "hard": false },
     { "metric": "punch_sentences_per_120_words", "op": "<=", "value": 1.3, "hard": false },
     { "metric": "so_what_rate", "op": ">=", "value": 0.10, "hard": false },
-    { "metric": "client_paragraph_density", "op": ">=", "value": 0.40, "hard": false },
     { "metric": "we_you_ratio", "op": ">=", "value": 0.8, "hard": false },
     { "metric": "we_you_ratio", "op": "<=", "value": 1.3, "hard": false },
 
@@ -134,19 +126,22 @@
     { "metric": "client_deficit_sentences_in_qualifications", "op": "==", "value": 0, "hard": true },
     { "metric": "aphorism_sentences", "op": "==", "value": 0, "hard": true },
     { "metric": "meta_narration_sentences", "op": "==", "value": 0, "hard": true },
+    { "metric": "self_disclaimer_sentences", "op": "==", "value": 0, "hard": true },
+    { "metric": "buyer_framing_phrases", "op": "==", "value": 0, "hard": true },
+    { "metric": "forensic_frame_phrases", "op": "==", "value": 0, "hard": true },
     { "metric": "first_sentence_words_per_h2_max", "op": "<=", "value": 30, "hard": true },
     { "metric": "first_paragraph_words_per_h2_max", "op": "<=", "value": 70, "hard": true },
     { "metric": "brackets_in_first_two_paragraphs", "op": "==", "value": 0, "hard": true },
     { "metric": "sections_closing_on_benefit_paragraph_share", "op": "==", "value": 1.0, "hard": true },
-    { "metric": "headline_figures_with_in_sentence_comparator_share", "op": "==", "value": 1.0, "hard": true },
+    { "metric": "performance_figures_with_in_sentence_comparator_share", "op": "==", "value": 1.0, "hard": true },
     { "metric": "volunteered_negative_exhibits", "op": "==", "value": 0, "hard": true },
     { "metric": "disclosures_with_four_move_close_share", "op": "==", "value": 1.0, "hard": true },
     { "metric": "ownerless_or_present_tense_commitments", "op": "==", "value": 0, "hard": true },
     { "metric": "unnamed_testimonials", "op": "==", "value": 0, "hard": true },
     { "metric": "numeric_facts_per_sentence_max", "op": "<=", "value": 5, "hard": true },
-    { "metric": "numeric_facts_per_sentence_max_outside_scoping", "op": "<=", "value": 3, "hard": false },
     { "metric": "why_this_matters_subheads", "op": "==", "value": 0, "hard": true },
 
+    { "metric": "numeric_facts_per_sentence_max_outside_scoping", "op": "<=", "value": 3, "hard": false },
     { "metric": "punch_sentences_verb_bearing_at_edge_share", "op": "==", "value": 1.0, "hard": false },
     { "metric": "sections_with_long_short_pair_in_opener_and_closer_share", "op": "==", "value": 1.0, "hard": false },
     { "metric": "paragraphs_one_or_two_sentences_share", "op": ">=", "value": 0.55, "hard": false },
@@ -154,6 +149,7 @@
     { "metric": "actor_first_paragraph_opener_share", "op": ">=", "value": 0.30, "hard": false },
     { "metric": "paragraphs_ending_on_client_benefit_clause_share", "op": ">=", "value": 0.35, "hard": false },
     { "metric": "closing_triads_per_1000_words", "op": ">=", "value": 8, "hard": false },
+    { "metric": "serial_comma_omissions", "op": "==", "value": 0, "hard": false },
     { "metric": "colons_per_1000_words", "op": "<=", "value": 6, "hard": false },
     { "metric": "semicolons_per_1000_words", "op": "<=", "value": 4, "hard": false },
     { "metric": "em_dashes_per_1000_words", "op": "<=", "value": 9, "hard": false },
@@ -164,7 +160,10 @@
     { "metric": "headings_with_finite_verb_share", "op": "<=", "value": 0.20, "hard": false },
     { "metric": "assertion_headings_per_section_max", "op": "<=", "value": 1, "hard": false },
     { "metric": "headings_with_benefit_noun_share", "op": ">=", "value": 0.80, "hard": false },
+    { "metric": "headings_with_unmandated_digits", "op": "==", "value": 0, "hard": false },
     { "metric": "sections_with_client_or_state_named_in_a_heading_share", "op": "==", "value": 1.0, "hard": false },
+    { "metric": "words_per_heading_with_sublabels", "op": ">=", "value": 100, "hard": false },
+    { "metric": "words_per_heading_with_sublabels", "op": "<=", "value": 180, "hard": false },
     { "metric": "proof_registers_per_two_pages_min", "op": ">=", "value": 3, "hard": false },
     { "metric": "named_titled_third_party_voices_per_major_section_min", "op": ">=", "value": 1, "hard": false },
     { "metric": "unshippable_items_per_subsection_min", "op": ">=", "value": 2, "hard": false },
@@ -178,65 +177,9 @@
     { "metric": "proof_exhibits_with_client_outcome_last_column_share", "op": "==", "value": 1.0, "hard": false },
     { "metric": "exhibits_with_prose_pointer_share", "op": "==", "value": 1.0, "hard": false },
     { "metric": "inline_lists_over_4_items", "op": "==", "value": 0, "hard": false },
-    { "metric": "intensifiers_without_in_sentence_number", "op": "==", "value": 0, "hard": false }
-  ],
-  "metric_definitions": {
-    "_tool_metrics": "Keys sentence_median_words through we_you_ratio are computed by voice/metrics.py (run with --client terms for the pursuit). All other keys are judge-applied per voice-guide.md Section 4b; the rule number in parentheses gives the test.",
-    "max_sentence_words_non_boilerplate": "Longest body sentence excluding legal or financial boilerplate copied from corporate (Rule 1).",
-    "square_brackets_in_body": "Any '[' in body prose or table cells above the draft-notes footer, including [FIGURE ...] and [CALLOUT ...] which metrics.py does not count (Rule 35).",
-    "competitor_or_incumbent_names": "Occurrences of any competitor or incumbent firm name, plus ownership-model swipes such as 'private-equity' (Rule 28).",
-    "client_deficit_sentences_in_qualifications": "Sentences in a qualifications section that attribute a shortcoming to the client, its staff, or its program: lacks, lacked, over-stretched, failing, deferred, inconsistent, or any observed-deficiency list (Rules 23, 29).",
-    "aphorism_sentences": "Sentences whose grammatical subject is an indefinite generic noun (a firm, a contract, nothing, one) and which contain no proper noun, digit, or named action (Rule 34).",
-    "meta_narration_sentences": "Sentences whose subject is the section, the argument, or 'what follows'; flag phrases: this section, what follows, set(s) ... apart, the question ... is, organized around, is here because (Rule 6). Exhibit and section pointers are not meta-narration.",
-    "first_sentence_words_per_h2_max": "Word count of the first sentence under each H2; the maximum across sections (Rule 11).",
-    "first_paragraph_words_per_h2_max": "Word count of the first paragraph under each H2; the maximum across sections (Rule 11).",
-    "brackets_in_first_two_paragraphs": "Square brackets or placeholders in the first two paragraphs under any H2 (Rule 11).",
-    "sections_closing_on_benefit_paragraph_share": "Share of major sections whose last body paragraph is a 40-70-word paragraph naming the client, the lead person or team, and three outcomes, not a table, disclaimer, or legal text (Rule 11).",
-    "headline_figures_with_in_sentence_comparator_share": "Share of bolded or headline figures whose comparator (RFP threshold, industry range, client scale, prior state) sits in the same sentence (Rule 12).",
-    "volunteered_negative_exhibits": "Negative tables or lists not traceable to an explicit RFP disclosure requirement (Rule 30).",
-    "disclosures_with_four_move_close_share": "Share of required negative disclosures whose paragraph contains scale context, bounding, resolution, and a no-impact close (Rule 30).",
-    "ownerless_or_present_tense_commitments": "Commitment sentences lacking a named person or role, or written in present tense instead of 'will' (Rule 24).",
-    "unnamed_testimonials": "'Clients have said' paraphrases or quotes without name, title, and organization (Rule 18).",
-    "numeric_facts_per_sentence_max": "Maximum count of numeric tokens in any body sentence; a facility-scoping sentence may carry up to 5 (Rule 16).",
-    "numeric_facts_per_sentence_max_outside_scoping": "Same count excluding facility-scoping sentences (Rule 16).",
-    "why_this_matters_subheads": "Sub-heads or bold run-ins beginning 'Why this matters' (Rule 13).",
-    "punch_sentences_verb_bearing_at_edge_share": "Of sentences <= 8 words, the share that have a finite verb, a Jacobs or client subject, and sit first or last in their paragraph; run-in labels count as failures (Rule 2).",
-    "sections_with_long_short_pair_in_opener_and_closer_share": "Share of sections whose first and last paragraphs each contain an adjacent pair of one sentence <= 9 words and one >= 18 words (Rule 2).",
-    "paragraphs_one_or_two_sentences_share": "Share of body paragraphs with one or two sentences (Rule 3).",
-    "body_paragraphs_over_110_words": "Count of body paragraphs over 110 words, boilerplate excluded (Rule 3).",
-    "actor_first_paragraph_opener_share": "Share of body paragraphs opening with Jacobs / We / Our [noun] / a named person and reaching a verb within six words (Rule 6).",
-    "paragraphs_ending_on_client_benefit_clause_share": "Share of body paragraphs whose final clause names two or three client outcomes (bolded or as a participial/purpose tail) (Rule 13).",
-    "closing_triads_per_1000_words": "Count of 'A, B, and C' constructions per 1,000 words of body prose; a triad without the serial comma is a failure, not a triad (Rule 4).",
-    "colons_per_1000_words": "Colons in body prose per 1,000 words (Rule 5).",
-    "semicolons_per_1000_words": "Semicolons in body prose per 1,000 words (Rule 5).",
-    "em_dashes_per_1000_words": "Em dashes in body prose per 1,000 words; aim <= 3 (Rule 5).",
-    "bold_runs_per_1000_words": "Bold spans per 1,000 words of body prose (Rule 13).",
-    "bold_runs_outcome_or_proof_share": "Share of bold spans containing a number, a client noun, or an outcome verb rather than a topic label (Rule 13).",
-    "bold_run_in_lead_ins_over_6_words": "Bold run-ins longer than six words or governing more than one paragraph (Rule 10).",
-    "headings_with_finite_verb_share": "Share of headings containing a finite verb (Rule 9).",
-    "assertion_headings_per_section_max": "Maximum count of claim-bearing headings (tagline or em-dash compound) in any major section (Rule 9).",
-    "headings_with_benefit_noun_share": "Share of headings containing a benefit or capability noun and no RFP question wording (Rule 8).",
-    "sections_with_client_or_state_named_in_a_heading_share": "Share of major sections with at least one heading naming the client or its state (Rule 8).",
-    "proof_registers_per_two_pages_min": "Minimum, over all two-consecutive-page windows, of the count of proof registers present out of four: inline figure, callout or exhibit pointed to in bold, table row, named third-party voice (Rule 15).",
-    "named_titled_third_party_voices_per_major_section_min": "Minimum count per major section of quotes or attributed figures carrying name, title, and organization (Rule 18).",
-    "unshippable_items_per_subsection_min": "Minimum count per subsection of: named person with credential and role, named Jacobs tool or program, client-specific identifier in the client's vocabulary, quantified included offer (Rule 25).",
-    "win_theme_phrases_used_3_or_more_times": "Count of win-theme phrases appearing at least three times across cover letter, executive summary, and section headings, at least once as a heading (Rule 26).",
-    "signature_phrases_used_2_or_more_times": "Count of house signature phrases (e.g. extension of City staff, more than an operator, no surprises, Day 1) appearing at least twice (Rule 27).",
-    "non_signature_3grams_repeated_within_a_section": "Count of 3-word frames other than signature phrases or proper nouns that appear two or more times within one section (Rule 27).",
-    "rfp_qualifications_answered_in_prose_with_exceedance_share": "Share of RFP desired qualifications answered by a prose sentence containing the requirement, the Jacobs figure, and an exceedance verb (Rule 14).",
-    "references_with_3_tags_and_quantified_accomplishment_share": "Share of reference projects with at least three relevance tags and at least one dollar or percent accomplishment (Rule 17).",
-    "value_adds_with_dollar_or_quantity_share": "Share of value-add commitments carrying a dollar value or measurable quantity (Rule 19).",
-    "proof_exhibits_with_client_outcome_last_column_share": "Share of multi-column proof exhibits whose rightmost column header names the client's outcome (Rule 33).",
-    "exhibits_with_prose_pointer_share": "Share of figures and tables referenced from a prose sentence (Rule 33).",
-    "inline_lists_over_4_items": "Count of inline lists in prose or table cells with more than four items (Rule 16).",
-    "intensifiers_without_in_sentence_number": "Comparative or superlative claims (significant, industry leader, extensive, unmatched) with no number or named comparison in the same sentence (Rule 25)."
-  },
-  "scoring_notes": [
-    "Score each dimension 1-10 using the anchors; interpolate between anchors. A score of 8 means the 9-anchor is met in all but one or two instances the judge can name.",
-    "Evaluate hard gates before scoring. Any hard-gate failure fails the unit regardless of dimension scores; report the failing metric and location.",
-    "Directional gates inform the dimension scores (voice_rhythm, structure_scannability, proof_density, consequence_linkage); a directional miss caps the related dimension at 8 unless the judge records why the miss is justified.",
-    "Tool metrics are stable only for units of >= 1,000 words of body prose. For shorter units, judge-applied gates and dimension scores govern.",
-    "so_what_rate counts em dashes as consequence cues and punch_sentences_per_120_words counts bold run-in fragments; both are directional for that reason. The judge tests in Rules 2, 12, and 13 are authoritative."
+    { "metric": "intensifiers_without_in_sentence_number", "op": "==", "value": 0, "hard": false },
+    { "metric": "jacobs_as_third_party_noun", "op": "==", "value": 0, "hard": false },
+    { "metric": "second_person_in_deficit_or_mixed_sentences", "op": "==", "value": 0, "hard": false }
   ],
   "pass_rule": "every dimension ≥8 and mean ≥8.5 and all hard gates"
 }

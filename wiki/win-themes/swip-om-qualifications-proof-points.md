@@ -13,7 +13,7 @@ client-size: "Underground AWTF (MBR/RO/UV-AOP) plus urban runoff recycling facil
 geography: "Southern California / CA / SWRCB Division of Drinking Water — Title 22 GRRP"
 rfp-section-type: [exec-summary, qualifications]
 win-theme-map: [regional-bench, compliance-leadership, incumbent-displacement, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-0149, PP-0150, PP-0177, PP-0232, PP-0304, PP-0356, PP-0357, PP-0362, PP-0363, PP-0364, PP-0365, PP-0366, PP-0367, PP-0368, PP-0369, PP-0370, PP-0663]
 testimonial-ids: []
 story-ids: []
 status: preferred

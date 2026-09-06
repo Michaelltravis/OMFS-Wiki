@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility (AWTF) for groundwater replenish
 geography: "Southern California / CA / SWRCB Division of Drinking Water - Title 22 & GRRP"
 rfp-section-type: [resume]
 win-theme-map: [regional-bench, transition-continuity, workforce-development, energy-chemical-efficiency, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-0022, PP-0357, PP-0381, PP-0413, PP-0555, PP-0556, PP-0557, PP-0558, PP-0576, PP-0577, PP-0578, PP-0579, PP-0580, PP-0581, PP-0582, PP-0583, PP-0584]
 testimonial-ids: []
 story-ids: []
 status: preferred

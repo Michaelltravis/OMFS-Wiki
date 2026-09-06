@@ -13,7 +13,7 @@ client-size: "2.8 MGD max monthly average / Title 22 scalping plant"
 geography: "West / CA / SWRCB Title 22, NPDES"
 rfp-section-type: [past-performance]
 win-theme-map: [compliance-leadership, innovation-value-add, asset-management, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-0381, PP-0398, PP-0399, PP-0400, PP-0401, PP-0402, PP-0403, PP-0404]
 testimonial-ids: [TM-0014]
 story-ids: [ST-0016]
 status: preferred

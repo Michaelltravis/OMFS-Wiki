@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff w
 geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
 rfp-section-type: [tech-approach, staffing]
 win-theme-map: [workforce-development, regional-bench, compliance-leadership, incumbent-displacement]
-proof-point-ids: []
+proof-point-ids: [PP-0150, PP-0268, PP-0269, PP-0447, PP-0448, PP-0449, PP-0450, PP-0451, PP-0452, PP-0453, PP-0454, PP-0455, PP-0456, PP-0457, PP-0458]
 testimonial-ids: []
 story-ids: []
 status: preferred

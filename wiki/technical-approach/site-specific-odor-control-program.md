@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach]
 win-theme-map: [odor-control, community-engagement, compliance-leadership, energy-chemical-efficiency, digital-tools]
-proof-point-ids: []
+proof-point-ids: [PP-0309, PP-0310]
 testimonial-ids: []
 story-ids: [ST-0008]
 status: preferred

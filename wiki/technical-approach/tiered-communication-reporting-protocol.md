@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [tech-approach, transition]
 win-theme-map: [partner-transparency, incumbent-displacement, transition-continuity, digital-tools]
-proof-point-ids: []
+proof-point-ids: [PP-0137, PP-0280, PP-0281]
 testimonial-ids: []
 story-ids: []
 status: preferred

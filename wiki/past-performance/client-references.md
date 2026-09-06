@@ -13,9 +13,9 @@ client-size: "5 reference projects, 3.3-27 MGD; 20-facility representative-exper
 geography: "National, with a New England cluster / CT, RI, MA, MI"
 rfp-section-type: [past-performance, qualifications]
 win-theme-map: [regional-bench, partner-transparency, compliance-leadership, incumbent-displacement]
-proof-point-ids: []
+proof-point-ids: [PP-0002, PP-0003, PP-0004, PP-0005, PP-0006, PP-0030, PP-0031, PP-0032, PP-0033, PP-0035, PP-0042, PP-0043, PP-0046, PP-0047, PP-0048, PP-0049, PP-0050, PP-0052, PP-0055, PP-0057, PP-0058, PP-0064, PP-0065, PP-0066, PP-0067, PP-0068, PP-0069, PP-0070, PP-0073, PP-0074, PP-0076, PP-0077, PP-0079, PP-0080, PP-0190, PP-0191, PP-0192, PP-0193, PP-0194, PP-0195, PP-0196, PP-0197, PP-0198, PP-0199, PP-0200, PP-0201, PP-0202, PP-0203, PP-0204, PP-0205, PP-0206, PP-0207, PP-0208, PP-0222, PP-0223, PP-0224]
 testimonial-ids: []
-story-ids: [ST-0001, ST-0002, ST-0005, ST-0006, ST-0007, ST-0009, ST-0010, ST-0011]
+story-ids: [ST-0001, ST-0002, ST-0005, ST-0006, ST-0007, ST-0008, ST-0009, ST-0010, ST-0011]
 status: preferred
 house-favorite: false
 sanitized: true

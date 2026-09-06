@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach]
 win-theme-map: [energy-chemical-efficiency, partner-transparency, innovation-value-add, digital-tools]
-proof-point-ids: []
+proof-point-ids: [PP-0322, PP-0323, PP-0324, PP-0325, PP-0326]
 testimonial-ids: []
 story-ids: []
 status: preferred

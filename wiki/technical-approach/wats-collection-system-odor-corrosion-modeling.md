@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach]
 win-theme-map: [odor-control, collection-system, innovation-value-add, digital-tools, asset-management]
-proof-point-ids: []
+proof-point-ids: [PP-0132]
 testimonial-ids: []
 story-ids: []
 status: preferred

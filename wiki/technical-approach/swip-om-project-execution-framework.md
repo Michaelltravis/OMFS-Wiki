@@ -13,7 +13,7 @@ client-size: "1.0 MGD advanced water treatment facility + stormwater diversion/p
 geography: "Southern California / CA / SWRCB Division of Drinking Water + LA RWQCB (Title 22 GRRP, WDRs)"
 rfp-section-type: [tech-approach]
 win-theme-map: [partner-transparency, compliance-leadership, digital-tools, safety-culture, asset-management, community-engagement]
-proof-point-ids: []
+proof-point-ids: [PP-0431, PP-0432]
 testimonial-ids: []
 story-ids: []
 status: preferred

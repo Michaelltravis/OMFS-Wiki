@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff w
 geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
 rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, digital-tools, asset-management, energy-chemical-efficiency]
-proof-point-ids: []
+proof-point-ids: [PP-0439, PP-0440, PP-0441]
 testimonial-ids: []
 story-ids: []
 status: preferred

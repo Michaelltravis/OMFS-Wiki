@@ -13,7 +13,7 @@ client-size: "0.75 MGD max monthly average ZLD facility serving a 250 MW combine
 geography: "West / CA / industrial zero liquid discharge"
 rfp-section-type: [past-performance]
 win-theme-map: [energy-chemical-efficiency, innovation-value-add, partner-transparency, asset-management]
-proof-point-ids: []
+proof-point-ids: [PP-0369, PP-0382, PP-0397, PP-0407, PP-0408, PP-0409, PP-0410, PP-0411]
 testimonial-ids: [TM-0016]
 story-ids: [ST-0015]
 status: preferred

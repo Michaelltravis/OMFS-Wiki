@@ -13,7 +13,7 @@ client-size: "13 facilities, 9-32 MGD each; contract tenures 8 to 40 years"
 geography: "National / ID, FL, IL, NJ, TX, AZ, WA, OR, CT, MI"
 rfp-section-type: [past-performance, qualifications]
 win-theme-map: [regional-bench, partner-transparency, compliance-leadership, asset-management, odor-control]
-proof-point-ids: []
+proof-point-ids: [PP-0031, PP-0066, PP-0087, PP-0088, PP-0089, PP-0090, PP-0091, PP-0092, PP-0093, PP-0094, PP-0095, PP-0096, PP-0097, PP-0098, PP-0099, PP-0100, PP-0101, PP-0102, PP-0103, PP-0104, PP-0105, PP-0106, PP-0107, PP-0108, PP-0109, PP-0110, PP-0111]
 testimonial-ids: []
 story-ids: []
 status: preferred

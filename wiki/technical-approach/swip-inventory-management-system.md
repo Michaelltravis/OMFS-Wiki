@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility (potable reuse) + water recyclin
 geography: "Southern California / CA / Los Angeles RWQCB, SWRCB Division of Drinking Water, SCAQMD"
 rfp-section-type: [tech-approach]
 win-theme-map: [asset-management, digital-tools, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-0523, PP-0524]
 testimonial-ids: []
 story-ids: []
 status: preferred

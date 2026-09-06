@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach, compliance]
 win-theme-map: [transition-continuity, compliance-leadership, stormwater, collection-system, partner-transparency, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-0273, PP-0277, PP-0318, PP-0319, PP-0320, PP-0321]
 testimonial-ids: []
 story-ids: []
 status: preferred

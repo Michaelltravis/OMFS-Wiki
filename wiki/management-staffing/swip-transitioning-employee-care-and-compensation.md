@@ -13,7 +13,7 @@ client-size: "Advanced water treatment / potable reuse facility plus a water tre
 geography: "Southern California / CA / SWRCB Division of Drinking Water + Los Angeles RWQCB"
 rfp-section-type: [transition, staffing]
 win-theme-map: [workforce-development, transition-continuity, incumbent-displacement, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-0626, PP-0627, PP-0628, PP-0629, PP-0630, PP-0631]
 testimonial-ids: []
 story-ids: []
 status: preferred

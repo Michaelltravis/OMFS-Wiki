@@ -1,0 +1,50 @@
+[
+  {
+    "a": "wiki/qualifications/corporate-entity-legal-qualifications.md",
+    "b": "wiki/qualifications/swip-financial-transparency-and-litigation-history.md",
+    "body_sim": 0.1537,
+    "title_sim": 0.1667,
+    "a_words": 718,
+    "b_words": 670
+  },
+  {
+    "a": "wiki/technical-approach/om-management-systems-framework.md",
+    "b": "wiki/technical-approach/swip-om-project-execution-framework.md",
+    "body_sim": 0.1325,
+    "title_sim": 0.0,
+    "a_words": 550,
+    "b_words": 871
+  },
+  {
+    "a": "wiki/technical-approach/annual-innovation-workshop-program.md",
+    "b": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+    "body_sim": 0.0691,
+    "title_sim": 0.5,
+    "a_words": 582,
+    "b_words": 658
+  },
+  {
+    "a": "wiki/win-themes/exec-summary-client-readiness-framing.md",
+    "b": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+    "body_sim": 0.038,
+    "title_sim": 0.5,
+    "a_words": 595,
+    "b_words": 487
+  },
+  {
+    "a": "wiki/past-performance/project-traverse-city-mi.md",
+    "b": "wiki/past-performance/project-westerly-ri.md",
+    "body_sim": 0.0199,
+    "title_sim": 0.5455,
+    "a_words": 694,
+    "b_words": 657
+  },
+  {
+    "a": "wiki/past-performance/project-southbridge-ma.md",
+    "b": "wiki/past-performance/project-westerly-ri.md",
+    "body_sim": 0.0192,
+    "title_sim": 0.6667,
+    "a_words": 691,
+    "b_words": 657
+  }
+]

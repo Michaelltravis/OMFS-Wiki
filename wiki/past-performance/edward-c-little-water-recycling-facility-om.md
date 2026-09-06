@@ -13,7 +13,7 @@ client-size: "40 MGD max monthly average / nine treatment trains / five product-
 geography: "West / CA / SWRCB Title 22, seawater intrusion barrier and groundwater recharge reuse"
 rfp-section-type: [past-performance]
 win-theme-map: [incumbent-displacement, transition-continuity, regional-bench, digital-tools, asset-management]
-proof-point-ids: []
+proof-point-ids: [PP-0022, PP-0396, PP-0412, PP-0413, PP-0414, PP-0415, PP-0416]
 testimonial-ids: [TM-0017]
 story-ids: [ST-0013]
 status: preferred

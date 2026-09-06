@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [compliance, tech-approach]
 win-theme-map: [compliance-leadership, partner-transparency, safety-culture, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-0232, PP-0291, PP-0292, PP-0293, PP-0294]
 testimonial-ids: []
 story-ids: []
 status: preferred

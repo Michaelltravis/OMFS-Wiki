@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [transition, tech-approach]
 win-theme-map: [asset-management, partner-transparency, incumbent-displacement, safety-culture, workforce-development]
-proof-point-ids: []
+proof-point-ids: [PP-0332]
 testimonial-ids: []
 story-ids: []
 status: preferred

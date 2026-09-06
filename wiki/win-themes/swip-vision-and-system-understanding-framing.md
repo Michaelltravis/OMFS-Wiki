@@ -13,7 +13,7 @@ client-size: "Underground advanced water treatment facility (blended wastewater 
 geography: "Southern California / CA / SWRCB Division of Drinking Water — Title 22 GRRP, State Board Orders R4-2021-0044 and R4-2023-0366"
 rfp-section-type: [exec-summary]
 win-theme-map: [compliance-leadership, innovation-value-add, partner-transparency, incumbent-displacement]
-proof-point-ids: []
+proof-point-ids: [PP-0430, PP-0661, PP-0662]
 testimonial-ids: []
 story-ids: []
 status: preferred
