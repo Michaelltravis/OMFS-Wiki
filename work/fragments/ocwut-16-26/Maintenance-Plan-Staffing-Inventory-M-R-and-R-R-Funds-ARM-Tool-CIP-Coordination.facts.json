@@ -1,0 +1,242 @@
+[
+  {
+    "claim": "South Canadian's new oxidation ditch, hypochlorite generation system, disc thickener, and cloth filtration are expected online in summer 2026",
+    "number": "summer 2026",
+    "unit": "date",
+    "as_of": "2026",
+    "page": 65,
+    "para": 19,
+    "block": "wiki/technical-approach/warranty-management-cmms-warranty-register.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Deer Creek major CIP upgrade planned for 2027",
+    "number": "2027",
+    "unit": "year",
+    "as_of": "2026",
+    "page": 65,
+    "para": 19,
+    "block": "wiki/technical-approach/warranty-management-cmms-warranty-register.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Jacobs brings specialized expertise, benchmarking, and proven practices from more than 100 Jacobs-operated facilities",
+    "number": "100",
+    "unit": "operated facilities (more than)",
+    "as_of": "2026",
+    "page": 65,
+    "para": 20,
+    "block": "wiki/technical-approach/integrated-maintenance-asset-management-team-regional-support.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Critical spare parts stocking plan supports the Critical Asset 2-day return-to-service requirement (CM-3)",
+    "number": "2",
+    "unit": "days to return to service",
+    "as_of": "2026",
+    "page": 66,
+    "para": 4,
+    "block": "wiki/technical-approach/spare-parts-inventory-management-critical-assets.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "M&R Fund Level A threshold: parts and supplies reimbursed without prior Service Approval Form; labor at Jacobs' expense including subcontractors and overtime",
+    "number": "10000",
+    "unit": "USD (less than or equal to)",
+    "as_of": "2026",
+    "page": 66,
+    "para": 8,
+    "block": "wiki/technical-approach/mr-and-rr-fund-management-documentation-discipline.md",
+    "category": "financial"
+  },
+  {
+    "claim": "M&R Fund Level B band requires an executed SAF prior to ordering materials; client pays labor costs including subcontractors",
+    "number": "10000-50000",
+    "unit": "USD range",
+    "as_of": "2026",
+    "page": 66,
+    "para": 9,
+    "block": "wiki/technical-approach/mr-and-rr-fund-management-documentation-discipline.md",
+    "category": "financial"
+  },
+  {
+    "claim": "M&R Fund Level C threshold above which the client competitively procures and Jacobs cooperates with procurement and installation coordination",
+    "number": "50000",
+    "unit": "USD (greater than)",
+    "as_of": "2026",
+    "page": 66,
+    "para": 10,
+    "block": "wiki/technical-approach/mr-and-rr-fund-management-documentation-discipline.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Jacobs will manage M&R expenditures within 5% of the approved annual budget to avoid unrecoverable costs",
+    "number": "5",
+    "unit": "percent variance from approved annual budget",
+    "as_of": "2026",
+    "page": 66,
+    "para": 11,
+    "block": "wiki/technical-approach/mr-and-rr-fund-management-documentation-discipline.md",
+    "category": "financial"
+  },
+  {
+    "claim": "R&R Fund addresses single asset rehabilitations or replacements exceeding this value",
+    "number": "10000",
+    "unit": "USD (exceeding)",
+    "as_of": "2026",
+    "page": 66,
+    "para": 11,
+    "block": "wiki/technical-approach/mr-and-rr-fund-management-documentation-discipline.md",
+    "category": "financial"
+  },
+  {
+    "claim": "R&R Fund eligibility requires that the rehabilitation or replacement substantially extend service life by 10 or more years",
+    "number": "10",
+    "unit": "years of extended service life (or more)",
+    "as_of": "2026",
+    "page": 66,
+    "para": 11,
+    "block": "wiki/technical-approach/mr-and-rr-fund-management-documentation-discipline.md",
+    "category": "financial"
+  },
+  {
+    "claim": "On-call maintenance rotation staffs one mechanic and one electrician per week for the northern facilities group (North Canadian, Deer Creek, Chisholm Creek), with a separate mechanic rotation for South Canadian",
+    "number": "1 mechanic + 1 electrician per week",
+    "unit": "on-call staff per week per facility group",
+    "as_of": "2026",
+    "page": 66,
+    "para": 14,
+    "block": "wiki/technical-approach/on-call-and-emergency-maintenance-response.md",
+    "category": "scale"
+  },
+  {
+    "claim": "The 2-day return-to-service requirement is backed by three layers of response: on-site critical spares, on-call staff, and Regional Maintenance Team support",
+    "number": "3",
+    "unit": "layers of response",
+    "as_of": "2026",
+    "page": 66,
+    "para": 15,
+    "block": "wiki/technical-approach/on-call-and-emergency-maintenance-response.md",
+    "category": "other"
+  },
+  {
+    "claim": "Year 1 Stabilization phase: address deferred maintenance backlog, complete baseline condition assessment, establish PM and PdM routines, calibrate staffing to workload",
+    "number": "1",
+    "unit": "contract year",
+    "as_of": "2026",
+    "page": 67,
+    "para": 3,
+    "block": "wiki/technical-approach/maintenance-three-phase-continuous-improvement-reporting.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Years 2-3 Optimization phase: right-size PM frequencies, expand PdM coverage where cost-benefit is demonstrated, quarterly PMO checkpoints, integrate CIP-delivered assets",
+    "number": "2-3",
+    "unit": "contract years",
+    "as_of": "2026",
+    "page": 67,
+    "para": 4,
+    "block": "wiki/technical-approach/maintenance-three-phase-continuous-improvement-reporting.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Years 4+ Sustained Performance phase: condition-based maintenance on real-time asset health data, annual KPI benchmarking against Jacobs' portfolio of comparable wastewater O&M projects",
+    "number": "4+",
+    "unit": "contract years",
+    "as_of": "2026",
+    "page": 67,
+    "para": 6,
+    "block": "wiki/technical-approach/maintenance-three-phase-continuous-improvement-reporting.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "By October 1 of each year, Jacobs will submit recommendations to retire, rehabilitate, replace, or upgrade/expand facility components as part of the Annual Management, Operations, and Maintenance Summary",
+    "number": "October 1",
+    "unit": "annual submittal date",
+    "as_of": "2026",
+    "page": 68,
+    "para": 3,
+    "block": "wiki/technical-approach/arm-tool-asset-replacement-modeling-capital-planning.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "South Canadian's new oxidation ditch design capacity, online summer 2026",
+    "number": "8.5",
+    "unit": "MGD",
+    "as_of": "2026",
+    "page": 68,
+    "para": 6,
+    "block": "wiki/technical-approach/cip-implementation-and-construction-coordination.md",
+    "category": "scale"
+  },
+  {
+    "claim": "CIP Construction Manager Tanner Pipher, PE has more than 7 years of water and wastewater engineering experience, including startup of Bixby's new SBR facility",
+    "number": "7",
+    "unit": "years of experience (more than)",
+    "as_of": "2026",
+    "page": 68,
+    "para": 16,
+    "block": "wiki/technical-approach/cip-implementation-and-construction-coordination.md",
+    "category": "other"
+  },
+  {
+    "claim": "At the Operate & Maintain phase, warranties and defective work are managed via a 2-year maintenance bond",
+    "number": "2",
+    "unit": "year maintenance bond",
+    "as_of": "2026",
+    "page": 69,
+    "para": 5,
+    "block": "wiki/technical-approach/cip-phase-by-phase-support-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "CIP support is provided at defined design milestones: Preliminary Report (35% design), Interim Plan (60% design), and Final Plan (100% design)",
+    "number": "35 / 60 / 100",
+    "unit": "percent design milestones",
+    "as_of": "2026",
+    "page": 69,
+    "para": 5,
+    "block": "wiki/technical-approach/cip-phase-by-phase-support-table.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "MOPO planning starts at 35% design and receives dedicated attention at every subsequent phase",
+    "number": "35",
+    "unit": "percent design",
+    "as_of": "2026",
+    "page": 69,
+    "para": 8,
+    "block": "wiki/technical-approach/mopo-and-integrated-om-engineering-cip-advantage.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "At the Wilmington, Delaware Wastewater Treatment Facility, operators proposed resequencing a multi-phase aeration upgrade to work on two basins simultaneously instead of one",
+    "number": "2",
+    "unit": "basins worked simultaneously (instead of 1)",
+    "as_of": "unknown",
+    "page": 69,
+    "para": 10,
+    "block": "wiki/technical-approach/mopo-and-integrated-om-engineering-cip-advantage.md",
+    "category": "other"
+  },
+  {
+    "claim": "Wilmington, Delaware WWTF aeration upgrade resequencing produced a reduction in the construction schedule",
+    "number": "40",
+    "unit": "percent construction schedule reduction",
+    "as_of": "unknown",
+    "page": 69,
+    "para": 10,
+    "block": "wiki/technical-approach/mopo-and-integrated-om-engineering-cip-advantage.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Wilmington, Delaware WWTF aeration upgrade resequencing produced cost savings",
+    "number": "20",
+    "unit": "percent cost savings",
+    "as_of": "unknown",
+    "page": 69,
+    "para": 10,
+    "block": "wiki/technical-approach/mopo-and-integrated-om-engineering-cip-advantage.md",
+    "category": "outcome"
+  }
+]

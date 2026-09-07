@@ -44,6 +44,8 @@ Pipeline: brief (Opus) → N angle drafts → judge panel → synthesis → atta
 
 **Resume:** if a session limit interrupts, call the same script with `resumeFromRunId` from the launch message; completed agents replay from cache.
 
+Optional args keys (default to the paths in §1 when omitted): `voiceGuide`, `rubric`, `spec`, `registry`, `testimonials`, `stories`, `index`. Use them only to point a run at an alternate spec sheet or voice guide.
+
 ### Profiles (set in the args file)
 
 | Profile | writerModel | judgeModel | synthModel | angles / judges / rounds | ~tokens per 6-page section | Fable |

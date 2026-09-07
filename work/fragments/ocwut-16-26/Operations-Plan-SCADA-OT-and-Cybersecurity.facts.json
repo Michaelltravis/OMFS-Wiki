@@ -1,0 +1,202 @@
+[
+  {
+    "claim": "Jacobs has supported the client's SCADA and OT environment for more than a decade",
+    "number": ">10",
+    "unit": "years",
+    "as_of": "2026",
+    "page": 45,
+    "para": 5,
+    "block": "wiki/technical-approach/ocwut-owner-governed-scada-ot-support-approach.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs completed the client's SCADA Vulnerability Assessment and 2022 Cybersecurity Risk and Resilience Assessment",
+    "number": "2022",
+    "unit": "year completed",
+    "as_of": "2022",
+    "page": 45,
+    "para": 5,
+    "block": "wiki/technical-approach/ocwut-owner-governed-scada-ot-support-approach.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs performs all of the client's HMI programming today",
+    "number": "100",
+    "unit": "percent of HMI programming",
+    "as_of": "2026",
+    "page": 45,
+    "para": 5,
+    "block": "wiki/technical-approach/ocwut-owner-governed-scada-ot-support-approach.md",
+    "category": "scale"
+  },
+  {
+    "claim": "The named SCADA/OT engineering SME (Yash Tanna) has directly supported the client's SCADA infrastructure since 2024",
+    "number": "2024",
+    "unit": "start year",
+    "as_of": "2026",
+    "page": 45,
+    "para": 12,
+    "block": "wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md",
+    "category": "other"
+  },
+  {
+    "claim": "The O&M OT/cybersecurity SME serves as SCADA supervisor across multiple WWTPs and pump stations",
+    "number": "multiple",
+    "unit": "WWTPs and pump stations",
+    "as_of": "2026",
+    "page": 45,
+    "para": 12,
+    "block": "wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md",
+    "category": "scale"
+  },
+  {
+    "claim": "SCADA/OT engineering SME is AVEVA-certified on Application Server, Historian Server, and InTouch",
+    "number": "3",
+    "unit": "AVEVA certifications",
+    "as_of": "2026",
+    "page": 45,
+    "para": 12,
+    "block": "wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md",
+    "category": "other"
+  },
+  {
+    "claim": "Process control performance improvement plan is delivered in three phases (baseline, monitoring and refinement, automation integration)",
+    "number": "3",
+    "unit": "phases",
+    "as_of": "unknown",
+    "page": 45,
+    "para": 7,
+    "block": "wiki/technical-approach/ocwut-process-control-phased-improvement-plan-phase-1-baseline.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Phase 1 baseline effort is tailored across four client treatment facilities — three with assets spanning multiple lifecycle stages and one newly constructed",
+    "number": "4",
+    "unit": "treatment facilities",
+    "as_of": "2026",
+    "page": 46,
+    "para": 4,
+    "block": "wiki/technical-approach/ocwut-process-control-phased-improvement-plan-phase-1-baseline.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Phase 2 validates each control path end to end across five links: sensor, I/O, PLC logic, communications/historian, HMI",
+    "number": "5",
+    "unit": "control-path links",
+    "as_of": "unknown",
+    "page": 46,
+    "para": 13,
+    "block": "wiki/technical-approach/ocwut-process-control-phase-2-scada-you-can-trust.md",
+    "category": "other"
+  },
+  {
+    "claim": "Site visits found critical instrumentation (DO, flow, and device status) that was inaccurate, disconnected, or not visible in SCADA",
+    "number": "3",
+    "unit": "instrumentation categories affected",
+    "as_of": "2026",
+    "page": 46,
+    "para": 13,
+    "block": "wiki/technical-approach/ocwut-process-control-phase-2-scada-you-can-trust.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Site visits showed all facilities running over-aerated, with air production exceeding true process demand",
+    "number": "all",
+    "unit": "facilities",
+    "as_of": "2026",
+    "page": 46,
+    "para": 20,
+    "block": "wiki/technical-approach/ocwut-process-control-phase-3-automation-integration.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Phase 3 automation is expected to deliver four outcomes: stronger permit compliance, better asset reliability, improved resource efficiency, and reduced operator task saturation",
+    "number": "4",
+    "unit": "outcomes",
+    "as_of": "unknown",
+    "page": 46,
+    "para": 20,
+    "block": "wiki/technical-approach/ocwut-process-control-phase-3-automation-integration.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Demand-responsive aeration control is proposed to improve kWh/MG energy performance and reduce blower runtime",
+    "number": "kWh/MG",
+    "unit": "energy intensity metric",
+    "as_of": "unknown",
+    "page": 47,
+    "para": 1,
+    "block": "wiki/technical-approach/ocwut-process-control-phase-3-automation-integration.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "OT cybersecurity best practices applied across five control domains: secure configuration, asset accountability, access control, change management, and continuous monitoring",
+    "number": "5",
+    "unit": "control domains",
+    "as_of": "unknown",
+    "page": 47,
+    "para": 8,
+    "block": "wiki/technical-approach/ocwut-operational-technology-cybersecurity-its-plan.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "On-site I&C technicians have 24/7 access to the local SCADA and regional OT team",
+    "number": "24/7",
+    "unit": "availability",
+    "as_of": "2026",
+    "page": 47,
+    "para": 12,
+    "block": "wiki/technical-approach/ocwut-cip-integration-and-regional-ot-support.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs operates one of North America's largest SCADA integration practices for water and wastewater",
+    "number": "one of the largest",
+    "unit": "rank, North America",
+    "as_of": "2026",
+    "page": 47,
+    "para": 12,
+    "block": "wiki/technical-approach/ocwut-cip-integration-and-regional-ot-support.md",
+    "category": "scale"
+  },
+  {
+    "claim": "OEM partnerships with Rockwell, Emerson, Siemens, and Cisco deliver priority parts and technical support",
+    "number": "4",
+    "unit": "OEM partnerships",
+    "as_of": "2026",
+    "page": 47,
+    "para": 12,
+    "block": "wiki/technical-approach/ocwut-cip-integration-and-regional-ot-support.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Direct experience on the Emerson ControlWave and Rockwell Allen-Bradley platforms installed at the client's facilities",
+    "number": "2",
+    "unit": "control platforms",
+    "as_of": "2026",
+    "page": 47,
+    "para": 12,
+    "block": "wiki/technical-approach/ocwut-cip-integration-and-regional-ot-support.md",
+    "category": "other"
+  },
+  {
+    "claim": "Exhibit 1-23 divides SCADA/OT/cybersecurity responsibility into owner-managed, shared, and contractor-managed categories across roughly 20 system line items",
+    "number": "20",
+    "unit": "line items",
+    "as_of": "2026",
+    "page": 46,
+    "para": 8,
+    "block": "wiki/technical-approach/ocwut-scada-ot-cybersecurity-responsibility-split-exhibit.md",
+    "category": "other"
+  },
+  {
+    "claim": "Exhibit 1-24 presents three Phase 3 automation strategies with paired results and benefits",
+    "number": "3",
+    "unit": "automation strategies",
+    "as_of": "unknown",
+    "page": 47,
+    "para": 6,
+    "block": "wiki/technical-approach/ocwut-phase-3-automation-strategies-and-benefits-exhibit.md",
+    "category": "other"
+  }
+]
