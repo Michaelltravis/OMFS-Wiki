@@ -1,0 +1,27 @@
+{
+ "wiki": "C:\\Users\\micha\\Desktop\\Wiki",
+ "pursuit": "richmond-2026",
+ "section": {
+  "id": "executive-summary",
+  "title": "Executive summary",
+  "rfpSection": "8.4.2",
+  "reqsFile": "C:\\Users\\micha\\Desktop\\Wiki\\pursuits\\richmond-2026\\reqs\\02_executive-summary.md",
+  "budgetPages": 3,
+  "outDir": "C:\\Users\\micha\\Desktop\\Richmond\\Draft Sections\\03 Claude v2",
+  "outStem": "02_Executive_Summary"
+ },
+ "sectionLabel": "Section 2",
+ "headerText": "City of Richmond \u2014 WPCP, Collection and Stormwater O&M",
+ "extraSources": [
+  "C:\\Users\\micha\\Desktop\\Wiki\\pursuits\\richmond-2026\\pursuit.md",
+  "C:\\Users\\micha\\Desktop\\Wiki\\pursuits\\richmond-2026\\trip-report-digest.md",
+  "C:\\Users\\micha\\Desktop\\Wiki\\pursuits\\richmond-2026\\reqs\\00_cross-cutting.md"
+ ],
+ "writerModel": "opus",
+ "judgeModel": "opus",
+ "synthModel": "opus",
+ "angles": 2,
+ "judges": 2,
+ "maxAttackRounds": 2,
+ "_profile": "D. Lean Opus (default). For B. Fable-finish set synthModel=fable, angles=4, judges=3, maxAttackRounds=3. For A. Full v2 set all three models to fable."
+}
