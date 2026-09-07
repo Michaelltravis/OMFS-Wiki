@@ -12,7 +12,11 @@ export const meta = {
 
 // args: { wiki, ranges:[{slug, name, pages:[a,b], category, rfpSectionType, clientNames:[..], context, existingBlocks:[paths]}], dryRun }
 const W = args.wiki
-const ranges = args.ranges
+// ranges may omit clientNames/context/existingBlocks; defaults come from args.bySlug[slug] = {clientNames, context}
+const ranges = args.ranges.map(r => ({ ...r, clientNames: r.clientNames || (args.bySlug?.[r.slug]?.clientNames) || [], context: r.context || (args.bySlug?.[r.slug]?.context) || '', existingBlocks: r.existingBlocks || [] }))
+const JUDGE_MODEL = args.judgeModel || 'fable'        // prose-vs-paraphrase judge (verbatim comparison; sonnet is adequate)
+const PAIR_MODEL = args.pairJudgeModel || 'fable'     // duplicate-pair judge
+const EXTRA = args.builderAddendum || ''              // pursuit-specific builder instructions (e.g. JV voice)
 
 const BUILD = { type:'object', properties:{
   range:{type:'string'}, files_updated:{type:'array', items:{type:'string'}}, files_created:{type:'array', items:{type:'string'}},
@@ -40,6 +44,7 @@ Rules:
 5. Body ends with "## Reuse guidance".
 6. Write two fragment files: ${W}\\work\\fragments\\${r.slug}\\${r.name.replace(/[^A-Za-z0-9]+/g,'-')}.facts.json = [{"claim": "...", "number": "...", "unit": "...", "as_of": "...|unknown", "page": n, "para": n, "block": "wiki/..path", "category": "outcome|scale|safety|financial|compliance|schedule|other"}] for EVERY quantified claim in the pages; and .quotes.json = [{"quote": "verbatim text", "speaker": "...", "title": "...", "org": "...", "page": n, "para": n, "block": "..."}] for every client/third-party quotation (empty list if none).
 7. Do not read any other proposal's pages. Do not edit files outside wiki\\${r.category}\\ and work\\fragments\\.
+${EXTRA}
 Return: range name, files_updated, files_created, the two fragment paths, count of substantive paragraphs you could not place (should be 0), notes.`
 
 const judgePrompt = (r, built) => `You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.
@@ -53,11 +58,11 @@ const perRange = await pipeline(ranges,
   r => agent(buildPrompt(r), {model:'opus', effort:'medium', phase:'Blocks', label:`build ${r.slug} ${r.name}`, schema:BUILD}),
   async (built, r) => {
     if (!built) return null
-    let judged = await agent(judgePrompt(r, built), {model:'fable', effort:'medium', phase:'Prose judge', label:`judge ${r.name}`, schema:JUDGE})
+    let judged = await agent(judgePrompt(r, built), {model:JUDGE_MODEL, effort:'medium', phase:'Prose judge', label:`judge ${r.name}`, schema:JUDGE})
     let fails = (judged?.results||[]).filter(x => x.verdict==='paraphrase' || x.verdict==='missing-ref')
     for (let round=0; round<2 && fails.length; round++) {
       await agent(rewritePrompt(r, fails), {model:'opus', effort:'medium', phase:'Prose judge', label:`rewrite ${r.name} r${round+1}`, schema:REWRITE})
-      judged = await agent(judgePrompt(r, {files_updated: fails.map(f=>f.path), files_created: []}), {model:'fable', effort:'medium', phase:'Prose judge', label:`rejudge ${r.name} r${round+1}`, schema:JUDGE})
+      judged = await agent(judgePrompt(r, {files_updated: fails.map(f=>f.path), files_created: []}), {model:JUDGE_MODEL, effort:'medium', phase:'Prose judge', label:`rejudge ${r.name} r${round+1}`, schema:JUDGE})
       fails = (judged?.results||[]).filter(x => x.verdict==='paraphrase' || x.verdict==='missing-ref')
     }
     return { range:r.name, slug:r.slug, built, residual_fails: fails }
@@ -78,7 +83,7 @@ phase('Merge + vocabulary')
 const PAIRS = { type:'object', properties:{ decisions:{type:'array', items:{type:'object', properties:{ a:{type:'string'}, b:{type:'string'}, decision:{type:'string', enum:['a-preferred','b-preferred','distinct','merge-into-a','merge-into-b']}, reason:{type:'string'} }, required:['a','b','decision']}} }, required:['decisions'] }
 const cand = await agent(`Run: python "${W}\\work\\dedupe_candidates.py" --min 0.12 --out "${W}\\work\\dedupe_candidates.json" and return its summary; list the total number of candidate pairs and the path. Do nothing else.`, {model:'sonnet', effort:'low', phase:'Merge + vocabulary', label:'dedupe candidates', schema:TEXT})
 const judgeBatches = Array.from({length: 12}, (_, i) => i)
-const decisions = (await parallel(judgeBatches.map(i => () => agent(`You are judging duplicate-topic candidate pairs in the Jacobs content bank. Open ${W}\\work\\dedupe_candidates.json, take pairs with index in [${i*10}, ${i*10+10}) (0-based; if none exist for this slice, return an empty decisions list). For each pair read both blocks fully. Decide: a-preferred or b-preferred (same topic; one should be the writer's default because it is more complete, more quantified, or better prose — say why), distinct (genuinely different topics or complementary angles), merge-into-a / merge-into-b (one is a strict subset). Do NOT edit files. Return decisions.`, {model:'fable', effort:'medium', phase:'Merge + vocabulary', label:`judge pairs ${i*10}-${i*10+9}`, schema:PAIRS})))).filter(Boolean).flatMap(d => d.decisions)
+const decisions = (await parallel(judgeBatches.map(i => () => agent(`You are judging duplicate-topic candidate pairs in the Jacobs content bank. Open ${W}\\work\\dedupe_candidates.json, take pairs with index in [${i*10}, ${i*10+10}) (0-based; if none exist for this slice, return an empty decisions list). For each pair read both blocks fully. Decide: a-preferred or b-preferred (same topic; one should be the writer's default because it is more complete, more quantified, or better prose — say why), distinct (genuinely different topics or complementary angles), merge-into-a / merge-into-b (one is a strict subset). Do NOT edit files. Return decisions.`, {model:PAIR_MODEL, effort:'medium', phase:'Merge + vocabulary', label:`judge pairs ${i*10}-${i*10+9}`, schema:PAIRS})))).filter(Boolean).flatMap(d => d.decisions)
 const merge = await agent(`Apply duplicate decisions to the content bank. Decisions JSON: ${JSON.stringify(decisions)}. For a-preferred/b-preferred: set status: preferred on the winner and status: fallback plus superseded-by: <winner path> on the other, and supersedes: <loser path> on the winner. For merge-into-X: same as preferred, and append any facts/sentences present only in the loser to the winner's body under a "### Additional detail (merged)" heading before "## Reuse guidance" (sanitized), keeping the loser file as fallback. For distinct: no change. Write ${W}\\work\\fragments\\merge_patches.json and run python "${W}\\work\\patch_frontmatter.py" on it; do body merges with careful text edits. Return summary, files, counts {preferred, fallback, merged, distinct}.`, {model:'opus', effort:'medium', phase:'Merge + vocabulary', label:'apply merge', schema:TEXT})
 const vocab = await agent(`Build the controlled tag vocabulary. Collect every tag from every block frontmatter under ${W}\\wiki\\**\\*.md (excluding index.md, graphics/). Cluster synonyms and near-duplicates (transition/transition-plan, regional-support/regional-bench, key-personnel/resume-bio, etc.) into ~100–130 canonical kebab-case tags organized by facet (scope, discipline, section, device, theme, geography). Write ${W}\\vocabulary\\tags.md (one canonical tag per line as "- tag — one-line definition", grouped under facet headings) and ${W}\\vocabulary\\tag-aliases.yaml (alias: canonical). Then write ${W}\\work\\fragments\\tag_patches.json that replaces each block's tags with their canonical forms (deduplicated, max 12 per block) and run python "${W}\\work\\patch_frontmatter.py" on it. Return summary, files, counts {tags_before, tags_after, blocks_patched}.`, {model:'opus', effort:'medium', phase:'Merge + vocabulary', label:'tag vocabulary', schema:TEXT})
 log(`Merge: ${merge?.summary||'-'} | Vocab: ${vocab?.summary||'-'}`)

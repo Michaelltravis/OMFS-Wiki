@@ -67,8 +67,9 @@ One modular, reusable block per file. Frontmatter fields (schema v2 — all requ
 | `source-section` | Section title in the original PDF |
 | `source-pages` | List of PDF page numbers the block was drawn from |
 | `verbatim-ref` | Back-pointer(s) into `verbatim/<slug>/pages/pNNNN.md#¶n` for the primary passage |
-| `pursuit-type` | `wwtp-om` · `collections` · `stormwater` · `reuse-dpr` · `water-treatment` · `solids` · `multi-facility` (list) |
+| `pursuit-type` | `wwtp-om` · `collections` · `stormwater` · `reuse-dpr` · `water-treatment` · `solids` · `multi-facility` · `mbr-membrane` · `jv-delivery` (list) |
 | `client-type` | `municipal` · `county` · `authority` · `trust` · `private` |
+| `geography` values in use | `Northeast / MA / MassDEP` · `West / CA / SWRCB-DDW` · `Southcentral / OK / ODEQ` · `Southeast / GA / GA EPD` |
 | `client-size` | e.g. `3 MGD / 42 mi / 10k pop` — capacity, collection miles, population band |
 | `geography` | Region + state + regulatory regime (e.g. `Northeast / MA / MassDEP`) |
 | `rfp-section-type` | `cover-letter` · `exec-summary` · `qualifications` · `staffing` · `tech-approach` · `transition` · `compliance` · `past-performance` · `resume` · `forms` (list) |
@@ -125,8 +126,8 @@ Content blocks are **starting points, not final text**; the verbatim layer is wh
 |---|---|---|
 | `hull-wwtf-om-2026` | `raw/Hull_Wastewater Treatment Facility and Collection System O&M.pdf` | Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026 |
 | `santamonica-swip-om-2025` | `raw/SantaMonica_SWIP_OM_FINAL 09122025.pdf` | Southern California sustainable water infrastructure O&M, 2025 |
-| `ocwut-16-26` | `raw/RFP-OCWUT-16-26_Proposal_Jacobs.pdf` | Municipal water utility trust O&M (not yet extracted) |
-| `fulton-county-2025` | `raw/Fulton-County_25RFP146289K-JAJ_Technical-Proposal_JC-Solutions.pdf` | Southeast US county technical proposal (not yet extracted) |
+| `ocwut-16-26` | `raw/RFP-OCWUT-16-26_Proposal_Jacobs.pdf` | Southcentral US water utility trust, four WWTPs >110 MGD + biosolids, 2026 challenger bid; ODEQ |
+| `fulton-county-2025` | `raw/Fulton-County_25RFP146289K-JAJ_Technical-Proposal_JC-Solutions.pdf` | Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD |
 
 ## Adding new content (extraction workflow)
 
