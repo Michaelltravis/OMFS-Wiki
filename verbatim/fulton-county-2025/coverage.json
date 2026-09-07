@@ -1,6 +1,6 @@
 {
   "slug": "fulton-county-2025",
-  "pdf": "raw/Fulton-County_25RFP146289K-JAJ_Technical-Proposal_JC-Solutions.pdf",
+  "pdf": "raw\\Fulton-County_25RFP146289K-JAJ_Technical-Proposal_JC-Solutions.pdf",
   "threshold": 0.99,
   "longest_missing_run_flag": 15,
   "page_count": 507,
@@ -89,9 +89,9 @@
     504
   ],
   "text_pages": 425,
-  "mean_word_recall": 0.9933,
-  "mean_shingle_coverage": 0.7804,
-  "pages_flagged": 48,
+  "mean_word_recall": 0.9957,
+  "mean_shingle_coverage": 0.7884,
+  "pages_flagged": 28,
   "total_recovered_blocks": 189,
   "total_recovered_words": 2854,
   "vision_pages": [],
@@ -132,46 +132,46 @@
     {
       "page": 4,
       "image_only": false,
-      "word_recall": 0.9256,
-      "shingle_coverage": 0.6044,
-      "extra": 0.3956,
-      "order": 0.5,
-      "longest_missing_run_words": 3,
-      "missing_sample": "term proposed process and facilities improvements projects pages 2 15 2 27",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.8111,
+      "extra": 0.2234,
+      "order": 0.7067,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 5,
       "image_only": false,
-      "word_recall": 0.9195,
-      "shingle_coverage": 0.5725,
-      "extra": 0.4416,
-      "order": 0.5453,
-      "longest_missing_run_words": 5,
-      "missing_sample": "solutions provide a listing of all incidents where contract requirements were not",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.8007,
+      "extra": 0.2326,
+      "order": 0.7736,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 6,
       "image_only": false,
-      "word_recall": 0.9572,
-      "shingle_coverage": 0.5469,
-      "extra": 0.4729,
-      "order": 0.5312,
-      "longest_missing_run_words": 2,
-      "missing_sample": "key staff and other resources to the project page 6 1 does",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.6969,
+      "extra": 0.3343,
+      "order": 0.6813,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 7,
       "image_only": false,
-      "word_recall": 0.9845,
-      "shingle_coverage": 0.2213,
-      "extra": 0.828,
-      "order": 0.2213,
-      "longest_missing_run_words": 2,
-      "missing_sample": "purchasing forms envelope insurance and risk management provisions has jc solutions submitted",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.2869,
+      "extra": 0.7518,
+      "order": 0.2869,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 8,
@@ -187,13 +187,13 @@
     {
       "page": 9,
       "image_only": false,
-      "word_recall": 0.9869,
-      "shingle_coverage": 0.8673,
-      "extra": 0.1225,
-      "order": 0.6683,
-      "longest_missing_run_words": 3,
-      "missing_sample": "lasting value operations innovative solutions process optimization transparency operational reliability enhanced maintenance",
-      "flagged": true
+      "word_recall": 0.9967,
+      "shingle_coverage": 0.8823,
+      "extra": 0.1148,
+      "order": 0.6833,
+      "longest_missing_run_words": 1,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 10,
@@ -209,13 +209,13 @@
     {
       "page": 11,
       "image_only": false,
-      "word_recall": 0.9857,
-      "shingle_coverage": 0.4768,
-      "extra": 0.5389,
-      "order": 0.3684,
-      "longest_missing_run_words": 2,
-      "missing_sample": "cost effectively and with confidence we are prepared to deliver results from",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.7812,
+      "extra": 0.252,
+      "order": 0.6791,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 12,
@@ -231,13 +231,13 @@
     {
       "page": 13,
       "image_only": false,
-      "word_recall": 0.989,
-      "shingle_coverage": 0.3507,
-      "extra": 0.703,
-      "order": 0.2146,
-      "longest_missing_run_words": 2,
-      "missing_sample": "forward looking vision innovative solutions and measurable value with extensive resources from",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.4272,
+      "extra": 0.6504,
+      "order": 0.2761,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 14,
@@ -341,10 +341,10 @@
     {
       "page": 23,
       "image_only": false,
-      "word_recall": 0.976,
-      "shingle_coverage": 0.7009,
-      "extra": 0.3339,
-      "order": 0.471,
+      "word_recall": 0.9779,
+      "shingle_coverage": 0.7981,
+      "extra": 0.2361,
+      "order": 0.7551,
       "longest_missing_run_words": 3,
       "missing_sample": "144 007m9v 02",
       "flagged": true
@@ -495,9 +495,9 @@
     {
       "page": 37,
       "image_only": false,
-      "word_recall": 0.9855,
+      "word_recall": 0.9891,
       "shingle_coverage": 0.9254,
-      "extra": 0.1268,
+      "extra": 0.1237,
       "order": 0.8881,
       "longest_missing_run_words": 3,
       "missing_sample": "160 007m9v 01 from pump station sample replica output for an example",
@@ -528,35 +528,35 @@
     {
       "page": 40,
       "image_only": false,
-      "word_recall": 0.987,
-      "shingle_coverage": 0.7666,
-      "extra": 0.2793,
-      "order": 0.4775,
+      "word_recall": 0.9922,
+      "shingle_coverage": 0.8647,
+      "extra": 0.1951,
+      "order": 0.8408,
       "longest_missing_run_words": 2,
-      "missing_sample": "of ice georgia 1 200 jacobs employees 100 cerm employees 250 o",
-      "flagged": true
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 41,
       "image_only": false,
-      "word_recall": 0.9847,
-      "shingle_coverage": 0.8375,
-      "extra": 0.1928,
+      "word_recall": 1.0,
+      "shingle_coverage": 0.8531,
+      "extra": 0.1899,
       "order": 0.6719,
-      "longest_missing_run_words": 5,
-      "missing_sample": "name title georgia licenses certifications anthony benavidez project manager wastewater operator class",
-      "flagged": true
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 42,
       "image_only": false,
-      "word_recall": 0.9746,
-      "shingle_coverage": 0.5842,
-      "extra": 0.4663,
-      "order": 0.5842,
-      "longest_missing_run_words": 5,
-      "missing_sample": "name title georgia licenses certifications kevin dahl senior supervisor executive director of",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.6105,
+      "extra": 0.4554,
+      "order": 0.6105,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 43,
@@ -616,13 +616,13 @@
     {
       "page": 48,
       "image_only": false,
-      "word_recall": 0.9844,
-      "shingle_coverage": 0.5904,
-      "extra": 0.6628,
-      "order": 0.4819,
-      "longest_missing_run_words": 2,
-      "missing_sample": "positions will be established in collaboration with the county exhibit 2 15",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.7068,
+      "extra": 0.5849,
+      "order": 0.5984,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 49,
@@ -638,13 +638,13 @@
     {
       "page": 50,
       "image_only": false,
-      "word_recall": 0.9636,
-      "shingle_coverage": 0.4789,
-      "extra": 0.7853,
-      "order": 0.3662,
-      "longest_missing_run_words": 2,
-      "missing_sample": "required areas of scope of work not identified below corporate environmental risk",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.784,
+      "extra": 0.4715,
+      "order": 0.784,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 51,
@@ -671,13 +671,13 @@
     {
       "page": 53,
       "image_only": false,
-      "word_recall": 0.8104,
-      "shingle_coverage": 0.584,
-      "extra": 0.3108,
-      "order": 0.1908,
-      "longest_missing_run_words": 8,
-      "missing_sample": "groups are centered around offering employees an opportunity to collaborate with others",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.7519,
+      "extra": 0.3063,
+      "order": 0.3664,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 54,
@@ -726,13 +726,13 @@
     {
       "page": 58,
       "image_only": false,
-      "word_recall": 0.9803,
-      "shingle_coverage": 0.602,
-      "extra": 0.4372,
-      "order": 0.4146,
-      "longest_missing_run_words": 3,
-      "missing_sample": "proper preservation procedures a properly written and implemented sample plan is critical",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.7197,
+      "extra": 0.3176,
+      "order": 0.5141,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 59,
@@ -1089,31 +1089,31 @@
     {
       "page": 91,
       "image_only": false,
-      "word_recall": 0.9611,
-      "shingle_coverage": 0.8501,
-      "extra": 0.1631,
+      "word_recall": 1.0,
+      "shingle_coverage": 0.8442,
+      "extra": 0.2302,
       "order": 0.7101,
-      "longest_missing_run_words": 8,
-      "missing_sample": "is 72 better than industry average industry average 0 056 0 20",
-      "flagged": true
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 92,
       "image_only": false,
-      "word_recall": 0.9446,
-      "shingle_coverage": 0.5054,
-      "extra": 0.5026,
-      "order": 0.4919,
-      "longest_missing_run_words": 3,
-      "missing_sample": "task subcontractor management manages risks associated with subcontractors h s using a",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.8871,
+      "extra": 0.1495,
+      "order": 0.8737,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 93,
       "image_only": false,
       "word_recall": 0.9882,
       "shingle_coverage": 0.589,
-      "extra": 0.5472,
+      "extra": 0.5429,
       "order": 0.5706,
       "longest_missing_run_words": 2,
       "missing_sample": "identi ication for changes in elevation and trip hazards 156 007m9v 01",
@@ -1167,9 +1167,9 @@
       "page": 98,
       "image_only": false,
       "word_recall": 0.9881,
-      "shingle_coverage": 0.8092,
-      "extra": 0.2369,
-      "order": 0.6957,
+      "shingle_coverage": 0.9517,
+      "extra": 0.0773,
+      "order": 0.9517,
       "longest_missing_run_words": 3,
       "missing_sample": "106 007m9v 02",
       "flagged": true
@@ -1177,13 +1177,13 @@
     {
       "page": 99,
       "image_only": false,
-      "word_recall": 0.7729,
-      "shingle_coverage": 0.2703,
-      "extra": 0.7196,
-      "order": 0.2703,
-      "longest_missing_run_words": 36,
-      "missing_sample": "treatment plant in hoboken was pumped out some 24 pumps were removed",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.9279,
+      "extra": 0.1197,
+      "order": 0.9279,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 100,
@@ -1430,10 +1430,10 @@
     {
       "page": 122,
       "image_only": false,
-      "word_recall": 0.8313,
-      "shingle_coverage": 0.3888,
-      "extra": 0.6223,
-      "order": 0.3852,
+      "word_recall": 0.8361,
+      "shingle_coverage": 0.407,
+      "extra": 0.5731,
+      "order": 0.4034,
       "longest_missing_run_words": 7,
       "missing_sample": "up administrative and procurement protocols and practices for onsite staff regional support",
       "flagged": true
@@ -1485,13 +1485,13 @@
     {
       "page": 127,
       "image_only": false,
-      "word_recall": 0.9796,
-      "shingle_coverage": 0.9094,
-      "extra": 0.0874,
-      "order": 0.8815,
-      "longest_missing_run_words": 2,
-      "missing_sample": "qualifications qualifications of key personnel section 3 our team for the operation",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.9199,
+      "extra": 0.1141,
+      "order": 0.892,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 128,
@@ -1508,8 +1508,8 @@
       "page": 129,
       "image_only": false,
       "word_recall": 0.9594,
-      "shingle_coverage": 0.1626,
-      "extra": 0.866,
+      "shingle_coverage": 0.1748,
+      "extra": 0.8571,
       "order": 0.1626,
       "longest_missing_run_words": 2,
       "missing_sample": "rocco koekemoer pe se engineered systems services llc sbe odor control full",
@@ -2112,13 +2112,13 @@
     {
       "page": 184,
       "image_only": false,
-      "word_recall": 0.9838,
-      "shingle_coverage": 0.4086,
-      "extra": 0.6476,
-      "order": 0.4053,
-      "longest_missing_run_words": 3,
-      "missing_sample": "key personnel availability",
-      "flagged": true
+      "word_recall": 0.9968,
+      "shingle_coverage": 0.5781,
+      "extra": 0.4711,
+      "order": 0.5748,
+      "longest_missing_run_words": 1,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 185,
@@ -2134,13 +2134,13 @@
     {
       "page": 186,
       "image_only": false,
-      "word_recall": 0.9048,
+      "word_recall": 1.0,
       "shingle_coverage": 0.7143,
-      "extra": 0.5652,
+      "extra": 0.6,
       "order": 0.7143,
-      "longest_missing_run_words": 2,
-      "missing_sample": "local preference section 7",
-      "flagged": true
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 187,

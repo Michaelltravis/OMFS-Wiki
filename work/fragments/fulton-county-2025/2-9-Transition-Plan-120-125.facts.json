@@ -1,0 +1,9 @@
+[
+ {"claim":"Full transition and integration occurs over 90 days from the start date.","number":"90","unit":"days","as_of":"2025","page":121,"para":2,"block":"wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md","category":"schedule"},
+ {"claim":"The long-term transition phase spans 12 months from the start date.","number":"12","unit":"months","as_of":"2025","page":121,"para":4,"block":"wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md","category":"schedule"},
+ {"claim":"The Exit Transition Plan will be developed within 90 days of the Commencement Date.","number":"90","unit":"days","as_of":"2025","page":124,"para":2,"block":"wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md","category":"schedule"},
+ {"claim":"Exit transition activities begin no later than nine months before the end of the O&M term.","number":"9","unit":"months","as_of":"2025","page":124,"para":2,"block":"wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md","category":"schedule"},
+ {"claim":"The compliance audit will occur within 30 days of departure and regulatory-reporting support may continue for up to 30 days post-departure.","number":"30; 30","unit":"days; days","as_of":"2025","page":125,"para":7,"block":"wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md","category":"compliance"},
+ {"claim":"Tools, spare parts, and consumables will be stocked for at least four weeks post-handover.","number":"4","unit":"weeks","as_of":"2025","page":125,"para":10,"block":"wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md","category":"schedule"},
+ {"claim":"JC Solutions may provide up to 180 days of extended support post-exit.","number":"180","unit":"days","as_of":"2025","page":125,"para":13,"block":"wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md","category":"schedule"}
+]

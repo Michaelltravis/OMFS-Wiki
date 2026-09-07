@@ -1,0 +1,15 @@
+[
+  {"claim":"Westside and Marine Park facility scope","number":"28.26 / 16.1 / 3.2 / 8","unit":"MGD Westside / MGD Marine Park / MGD industrial lagoon / major lift stations","as_of":"ongoing","page":171,"para":4,"block":"wiki/past-performance/project-vancouver-wa-westside-marine-park.md","category":"scale"},
+  {"claim":"Vancouver incumbent transition completion","number":"90 / 90 / 180","unit":"percent activities / days / days","as_of":"2016 transition","page":171,"para":9,"block":"wiki/past-performance/project-vancouver-wa-westside-marine-park.md","category":"transition"},
+  {"claim":"Vancouver SCADA modernization","number":"25","unit":"USD million","as_of":"multi-year","page":172,"para":8,"block":"wiki/past-performance/project-vancouver-wa-westside-marine-park.md","category":"capital"},
+  {"claim":"Vancouver energy project utility rebates","number":"900000","unit":"USD","as_of":"contract period","page":172,"para":16,"block":"wiki/past-performance/project-vancouver-wa-westside-marine-park.md","category":"outcome"},
+  {"claim":"Vancouver additional named awards","number":"2024 / 2022 / 2020 / 2020","unit":"award years","as_of":"source award panel","page":172,"para":2,"block":"wiki/past-performance/project-vancouver-wa-westside-marine-park.md","category":"award"},
+  {"claim":"Agua Nueva facility and reuse capacity","number":"32 / 25","unit":"MGD facility / MGD Arizona Class A+ reclaimed water","as_of":"ongoing","page":173,"para":6,"block":"wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md","category":"scale"},
+  {"claim":"Agua Nueva delivery performance","number":"77 / 8","unit":"USD million under budget / months ahead of schedule","as_of":"facility delivery","page":174,"para":6,"block":"wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md","category":"outcome"},
+  {"claim":"Agua Nueva plant-wide energy cost reduction","number":"20","unit":"percent","as_of":"ongoing","page":174,"para":4,"block":"wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md","category":"outcome"},
+  {"claim":"San Marcos facility capacity","number":"9 / 5.4 / 18","unit":"MGD design / MGD average daily flow / MGD peak flow","as_of":"ongoing","page":175,"para":11,"block":"wiki/past-performance/project-san-marcos-tx.md","category":"scale"},
+  {"claim":"San Marcos ferric chloride reduction","number":"65","unit":"percent","as_of":"ongoing","page":176,"para":3,"block":"wiki/past-performance/project-san-marcos-tx.md","category":"outcome"},
+  {"claim":"San Marcos annual electricity reduction","number":"174000","unit":"kWh annually","as_of":"ongoing","page":176,"para":3,"block":"wiki/past-performance/project-san-marcos-tx.md","category":"outcome"},
+  {"claim":"San Marcos reclaimed water reuse","number":"323","unit":"million gallons annually","as_of":"ongoing","page":176,"para":9,"block":"wiki/past-performance/project-san-marcos-tx.md","category":"outcome"},
+  {"claim":"San Marcos named awards and personnel panel","number":"2018 / 2016 / 8","unit":"award years / named personnel","as_of":"source sidebar","page":176,"para":27,"block":"wiki/past-performance/project-san-marcos-tx.md","category":"award"}
+]

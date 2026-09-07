@@ -4,7 +4,7 @@
 
 | pages | text pages | image-only pages | mean word_recall | mean shingle_coverage | flagged pages | recovered blocks | recovered words |
 |---|---|---|---|---|---|---|---|
-| 507 | 425 | 82 | 0.9933 | 0.7804 | 48 (gate: word_recall<0.99 OR longest_missing_run>=15) | 189 | 2854 |
+| 507 | 425 | 82 | 0.9957 | 0.7884 | 28 (gate: word_recall<0.99 OR longest_missing_run>=15) | 189 | 2854 |
 
 Image-only pages: [197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 251, 252, 257, 258, 260, 261, 262, 264, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 484, 485, 486, 487, 488, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 502, 503, 504]
 
@@ -12,32 +12,12 @@ Image-only pages: [197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 2
 
 | page | word_recall | shingle_coverage | extra | order | longest_missing_run | missing sample (~12 words) |
 |---|---|---|---|---|---|---|
-| 4 | 0.9256 | 0.6044 | 0.3956 | 0.5000 | 3 | term proposed process and facilities improvements projects pages 2 15 2 27 |
-| 5 | 0.9195 | 0.5725 | 0.4416 | 0.5453 | 5 | solutions provide a listing of all incidents where contract requirements were not |
-| 6 | 0.9572 | 0.5469 | 0.4729 | 0.5312 | 2 | key staff and other resources to the project page 6 1 does |
-| 7 | 0.9845 | 0.2213 | 0.8280 | 0.2213 | 2 | purchasing forms envelope insurance and risk management provisions has jc solutions submitted |
-| 9 | 0.9869 | 0.8673 | 0.1225 | 0.6683 | 3 | lasting value operations innovative solutions process optimization transparency operational reliability enhanced maintenance |
-| 11 | 0.9857 | 0.4768 | 0.5389 | 0.3684 | 2 | cost effectively and with confidence we are prepared to deliver results from |
-| 13 | 0.9890 | 0.3507 | 0.7030 | 0.2146 | 2 | forward looking vision innovative solutions and measurable value with extensive resources from |
-| 23 | 0.9760 | 0.7009 | 0.3339 | 0.4710 | 3 | 144 007m9v 02 |
-| 37 | 0.9855 | 0.9254 | 0.1268 | 0.8881 | 3 | 160 007m9v 01 from pump station sample replica output for an example |
-| 40 | 0.9870 | 0.7666 | 0.2793 | 0.4775 | 2 | of ice georgia 1 200 jacobs employees 100 cerm employees 250 o |
-| 41 | 0.9847 | 0.8375 | 0.1928 | 0.6719 | 5 | name title georgia licenses certifications anthony benavidez project manager wastewater operator class |
-| 42 | 0.9746 | 0.5842 | 0.4663 | 0.5842 | 5 | name title georgia licenses certifications kevin dahl senior supervisor executive director of |
-| 48 | 0.9844 | 0.5904 | 0.6628 | 0.4819 | 2 | positions will be established in collaboration with the county exhibit 2 15 |
-| 50 | 0.9636 | 0.4789 | 0.7853 | 0.3662 | 2 | required areas of scope of work not identified below corporate environmental risk |
-| 53 | 0.8104 | 0.5840 | 0.3108 | 0.1908 | 8 | groups are centered around offering employees an opportunity to collaborate with others |
-| 58 | 0.9803 | 0.6020 | 0.4372 | 0.4146 | 3 | proper preservation procedures a properly written and implemented sample plan is critical |
-| 91 | 0.9611 | 0.8501 | 0.1631 | 0.7101 | 8 | is 72 better than industry average industry average 0 056 0 20 |
-| 92 | 0.9446 | 0.5054 | 0.5026 | 0.4919 | 3 | task subcontractor management manages risks associated with subcontractors h s using a |
-| 93 | 0.9882 | 0.5890 | 0.5472 | 0.5706 | 2 | identi ication for changes in elevation and trip hazards 156 007m9v 01 |
-| 98 | 0.9881 | 0.8092 | 0.2369 | 0.6957 | 3 | 106 007m9v 02 |
-| 99 | 0.7729 | 0.2703 | 0.7196 | 0.2703 | 36 | treatment plant in hoboken was pumped out some 24 pumps were removed |
-| 122 | 0.8313 | 0.3888 | 0.6223 | 0.3852 | 7 | up administrative and procurement protocols and practices for onsite staff regional support |
-| 127 | 0.9796 | 0.9094 | 0.0874 | 0.8815 | 2 | qualifications qualifications of key personnel section 3 our team for the operation |
-| 129 | 0.9594 | 0.1626 | 0.8660 | 0.1626 | 2 | rocco koekemoer pe se engineered systems services llc sbe odor control full |
-| 184 | 0.9838 | 0.4086 | 0.6476 | 0.4053 | 3 | key personnel availability |
-| 186 | 0.9048 | 0.7143 | 0.5652 | 0.7143 | 2 | local preference section 7 |
+| 23 | 0.9779 | 0.7981 | 0.2361 | 0.7551 | 3 | 144 007m9v 02 |
+| 37 | 0.9891 | 0.9254 | 0.1237 | 0.8881 | 3 | 160 007m9v 01 from pump station sample replica output for an example |
+| 93 | 0.9882 | 0.5890 | 0.5429 | 0.5706 | 2 | identi ication for changes in elevation and trip hazards 156 007m9v 01 |
+| 98 | 0.9881 | 0.9517 | 0.0773 | 0.9517 | 3 | 106 007m9v 02 |
+| 122 | 0.8361 | 0.4070 | 0.5731 | 0.4034 | 7 | up administrative and procurement protocols and practices for onsite staff regional support |
+| 129 | 0.9594 | 0.1748 | 0.8571 | 0.1626 | 2 | rocco koekemoer pe se engineered systems services llc sbe odor control full |
 | 188 | 0.7500 | 0.5556 | 0.6875 | 0.5556 | 3 | service disabled veterans business enterprises |
 | 190 | 0.9286 | 0.8571 | 0.6471 | 0.8571 | 1 | cost proposal in a separate envelope |
 | 192 | 0.9892 | 0.9694 | 0.0453 | 0.9694 | 3 | proposer financial information section 10 |

@@ -1,0 +1,7 @@
+[
+  {"claim":"Bixby BWRF capacity and lift-station scope","number":"2.8 MGD / 5.0 MGD ultimate / 18 lift stations","unit":"capacity / lift stations","as_of":"unknown","page":165,"para":4,"block":"wiki/past-performance/project-bixby-wrf-lift-stations-om.md","category":"scale"},
+  {"claim":"Jackson wastewater treatment and pump-station scope","number":"65 MGD / 99 pump stations","unit":"capacity / pump stations","as_of":"2022","page":167,"para":4,"block":"wiki/past-performance/project-jackson-jxn-water-om.md","category":"scale"},
+  {"claim":"Waterbury odor complaints reduced by more than 55% between contract years one and two","number":"more than 55","unit":"percent","as_of":"contract years one and two","page":169,"para":10,"block":"wiki/past-performance/project-waterbury-ct-odor-control-and-results.md","category":"outcome"},
+  {"claim":"Waterbury permit compliance over the past 5 years","number":"99.57","unit":"percent","as_of":"past 5 years","page":170,"para":7,"block":"wiki/past-performance/project-waterbury-ct-odor-control-and-results.md","category":"compliance"},
+  {"claim":"Waterbury WFP lagoon sludge removed within 90 days","number":"1100 / 90","unit":"dry tons / days","as_of":"WFP contract start","page":170,"para":11,"block":"wiki/past-performance/project-waterbury-ct-odor-control-and-results.md","category":"outcome"}
+]

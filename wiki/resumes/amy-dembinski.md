@@ -20,8 +20,8 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: none
-extracted: 2026-09-05
-last-verified: 2026-09-05
+extracted: 2026-09-07
+last-verified: 2026-09-07
 context: Proposed program Asset Manager supporting asset visibility, maintenance planning, and life-cycle stewardship across a multi-facility portfolio. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; ODEQ regulatory regime.
 quality: "The house Asset Manager resume — five multi-state O&M asset-management assignments (OK, MS, WA, CT, TX) in one profile, a data-science credential set unusual for an O&M role, and an explicit NexGen EAM implementation reference. Answers the Schedule 10 Asset Manager scope function by function."
 reuse-notes: "VERBATIM resume — real name and certification retained. approved-for-external-use: pending - sourced from a live pursuit. This block references NexGen EAM implementation; keep that reference verbatim and confirm the platform naming with the digital team before external use. Before reuse: (1) confirm Amy Dembinski's current role, availability, and years of experience (18 total, all 18 with Jacobs at time of writing); (2) verify the Certified Reliability Leader (CRL) credential is current; (3) re-point the 'Schedule 10' minimum-qualification crosswalk to the new RFP's requirement citation; (4) the Bixby, JXN Water, Vancouver, Waterbury, and San Marcos entries name real clients — clear with the account teams before external use."
@@ -31,7 +31,7 @@ reuse-notes: "VERBATIM resume — real name and certification retained. approved
 ## ASSET MANAGER
 
 ### Why Amy?
-- **Brings strong wastewater asset management experience across multi-site O&M programs.** Amy has supported wastewater treatment plants, lift stations, and systemwide maintenance programs in Oklahoma, Mississippi, Washington, Connecticut, and Texas, giving her directly relevant experience for OCWUT's multifacility wastewater portfolio.
+- **Brings strong wastewater asset management experience across multi-site O&M programs.** Amy has supported wastewater treatment plants, lift stations, and systemwide maintenance programs in Oklahoma, Mississippi, Washington, Connecticut, and Texas, giving her directly relevant experience for OCWUT's multi-facility wastewater portfolio.
 - **Turns asset and maintenance data into practical decisions.** Amy supports asset inventories, PM/PdM/RCM task development, KPI tracking, cost and labor reporting, life-cycle planning, and NexGen EAM implementation that improve maintenance efficiency, asset visibility, and repair and replacement decisions.
 - **Supports condition, risk, and capital planning efforts.** Amy works with condition-assessment and maintenance data in the CMMS to support risk-based prioritization, capital-planning discussions, and long-term asset stewardship across wastewater systems and pump stations.
 - **Brings transition-ready experience that supports compliance and reporting discipline from day one.** She has supported startup and data-migration efforts across multiple Jacobs projects, helping teams establish usable asset data, train users, track contract deliverables, and maintain documentation that supports audit readiness and stronger maintenance reporting.

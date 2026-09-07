@@ -6,7 +6,7 @@ tags: [odor-control, value-added-services, innovation, benefit-framing, process-
 source: ocwut-16-26
 source-section: "Section 8, Innovative and/or Alternative Recommendations"
 source-pages: [178]
-verbatim-ref: ["verbatim/ocwut-16-26/pages/p0178.md#¶13"]
+verbatim-ref: ["verbatim/ocwut-16-26/pages/p0178.md#¶13", "verbatim/ocwut-16-26/pages/p0178.md#¶14"]
 pursuit-type: [wwtp-om, multi-facility, collections]
 client-type: trust
 client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
@@ -21,7 +21,7 @@ house-favorite: false
 sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
-last-verified: 2026-09-05
+last-verified: 2026-09-07
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The right posture toward a client that has already paid for odor studies — respect the prior work, find the gaps, close them with fieldwork, and phase delivery so the client acts on the biggest wins first. Avoids the challenger's trap of implying the previous studies were wasted.
 reuse-notes: Name the client's actual prior odor studies and the community or permit driver behind them. Where the client has no prior study, the gap-analysis framing must be replaced with a baseline-characterization framing.

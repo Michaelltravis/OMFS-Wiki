@@ -21,15 +21,15 @@ house-favorite: true
 sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
-last-verified: 2026-09-05
-context: Southeast US county wastewater O&M pursuit (North Fulton), 2025, bid as JC Solutions, a JV of Jacobs and Atlanta-based minority-owned CERM; three water reclamation facilities (32 MGD MBR, 15 MGD MBR, 2.6 MGD) plus 28 wastewater and 5 potable water pump stations; MBR-heavy membrane operations, $750K workforce development commitment, incumbent engineering presence; Georgia EPD regulatory regime.
+last-verified: 2026-09-07
+context: Southeast US county wastewater O&M pursuit, 2025, bid as JC Solutions, a JV of Jacobs and Atlanta-based minority-owned CERM; three water reclamation facilities (32 MGD MBR, 15 MGD MBR, 2.6 MGD) plus 28 wastewater and 5 potable water pump stations; MBR-heavy membrane operations, $750K workforce development commitment, incumbent engineering presence; Georgia EPD regulatory regime.
 quality: The winning proposal's front-matter device — a full crosswalk that answers each of the RFP's evaluator questions, verbatim as the RFP words them, with the exact proposal page range where the answer lives. It hands the evaluation panel a scoring worksheet already filled in, and it doubles as an internal compliance check before submittal. Covers all eleven RFP sections plus the purchasing forms, contract compliance, and insurance exhibits.
 reuse-notes: Rebuild the left column verbatim from the new RFP's evaluation-criteria language (do not paraphrase the client's questions — the recognition value is the point), and fill the right column only after pagination is frozen. Replace [PROPOSER] with the bidding entity's legal name; in the source this read "JC Solutions", the Jacobs/CERM joint venture. Row groups keyed to Local Preference, Service Disabled Veterans, Joint Venture financials, and the Georgia security/immigration affidavits are jurisdiction- and entity-specific and must be re-derived from the new solicitation. Pair with the executive summary blocks in this folder, which the first row group points to.
 ---
 
 # RFP Wayfinding Crosswalk — Evaluation Criterion to Proposal Page
 
-Our response follows the format and structure prescribed on pages 37 – 42 of the RFP. In addition to the Table of Contents, we've included a Wayfinding Table below for ease of review. The table confirms that [PROPOSER] meets the minimum qualifications set forth in the RFP can be found throughout the proposal.
+Our response follows the format and structure prescribed on pages 37 – 42 of the RFP. In addition to the Table of Contents, we've included a Wayfinding Table below for ease of review. The table confirms that [PROPOSER] meets the minimum qualifications set forth in the RFP, which can be found throughout the proposal.
 
 **Proposal Alignment with RFP**
 

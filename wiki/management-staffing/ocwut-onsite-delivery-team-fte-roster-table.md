@@ -20,8 +20,8 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: low
-extracted: 2026-09-05
-last-verified: 2026-09-05
+extracted: 2026-09-07
+last-verified: 2026-09-07
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The position-by-position FTE table behind a 109-FTE multi-facility proposal, grouped by management, by plant, and by a shared maintenance pool, with subtotals that reconcile to the grand total. Evaluators can verify coverage math without a separate cost volume.
 reuse-notes: Rebuild the groupings to match the client's facilities; keep the shared-maintenance block separate from plant blocks so the reader can see which crews float. Position titles (PM mechanic, CM mechanic, lead lab technician, maintenance planner) are reusable; counts, plant names, and the subcontracted biosolids line are pursuit-specific.

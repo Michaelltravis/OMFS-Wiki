@@ -16,7 +16,8 @@ win-theme-map: [asset-management, transition-continuity, workforce-development, 
 proof-point-ids: []
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
+superseded-by: wiki/compliance-plans/planned-capital-improvements-integration-considerations-table.md
 house-favorite: false
 sanitized: true
 sanitization-loss: low

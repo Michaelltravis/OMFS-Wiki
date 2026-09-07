@@ -1,0 +1,21 @@
+[
+  {"claim":"ODEQ experience","number":"30","unit":"years","as_of":null,"page":124,"para":3,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"other"},
+  {"claim":"Duncan O&M start","number":"1995","unit":"year","as_of":null,"page":124,"para":3,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"schedule"},
+  {"claim":"Duncan irrigation pivot sites","number":"38","unit":"sites","as_of":null,"page":124,"para":3,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"scale"},
+  {"claim":"Plant of the Year award year","number":"2025","unit":"year","as_of":null,"page":124,"para":3,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"outcome"},
+  {"claim":"Duncan regulatory engagement duration","number":"3","unit":"decades","as_of":null,"page":124,"para":8,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"other"},
+  {"claim":"Arya Simon ODEQ permitting experience","number":"8","unit":"years","as_of":null,"page":124,"para":8,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"other"},
+  {"claim":"Arya Simon EPA experience","number":"1","unit":"year","as_of":null,"page":124,"para":8,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"other"},
+  {"claim":"Duncan savings","number":"5M","unit":"USD","as_of":null,"page":124,"para":6,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"financial"},
+  {"claim":"OPDES DMR lead time","number":"3","unit":"business days","as_of":null,"page":124,"para":10,"block":"ocwut-odeq-partnership-and-regulatory-compliance","category":"compliance"},
+  {"claim":"Tier II submission deadline","number":"March 1","unit":"annual deadline","as_of":null,"page":125,"para":17,"block":"ocwut-risk-management-emergency-programs","category":"schedule"},
+  {"claim":"Tier II facilities","number":"4","unit":"facilities","as_of":null,"page":125,"para":17,"block":"ocwut-risk-management-emergency-programs","category":"scale"},
+  {"claim":"Petroleum tank facilities","number":"3","unit":"facilities","as_of":null,"page":125,"para":20,"block":"ocwut-risk-management-emergency-programs","category":"scale"},
+  {"claim":"House Bill 3403 pilot duration","number":"3","unit":"years","as_of":null,"page":126,"para":1,"block":"ocwut-stormwater-and-biosolids-legislation","category":"schedule"},
+  {"claim":"Potential prohibition year","number":"2029","unit":"year","as_of":null,"page":126,"para":1,"block":"ocwut-stormwater-and-biosolids-legislation","category":"schedule"},
+  {"claim":"Potential annual biosolids reduction","number":"25","unit":"percent per year","as_of":null,"page":126,"para":1,"block":"ocwut-stormwater-and-biosolids-legislation","category":"compliance"},
+  {"claim":"Land application sites","number":"170","unit":"sites","as_of":null,"page":126,"para":8,"block":"ocwut-stormwater-and-biosolids-legislation","category":"scale"},
+  {"claim":"Land application acreage","number":"13,500","unit":"acres","as_of":null,"page":126,"para":8,"block":"ocwut-stormwater-and-biosolids-legislation","category":"scale"},
+  {"claim":"2025 legislative session","number":"2025","unit":"year","as_of":null,"page":126,"para":5,"block":"ocwut-stormwater-and-biosolids-legislation","category":"schedule"},
+  {"claim":"2026 legislative session","number":"2026","unit":"year","as_of":null,"page":126,"para":5,"block":"ocwut-stormwater-and-biosolids-legislation","category":"schedule"}
+]

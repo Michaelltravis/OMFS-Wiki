@@ -1,5 +1,85 @@
 [
   {
+    "a": "wiki/compliance-plans/ocwut-stormwater-and-biosolids-legislation.md",
+    "b": "wiki/compliance-plans/oklahoma-biosolids-legislation-emerging-risk.md",
+    "body_sim": 0.5836,
+    "title_sim": 0.2727,
+    "a_words": 421,
+    "b_words": 441
+  },
+  {
+    "a": "wiki/compliance-plans/cip-operational-integration-approach-and-handover-framework.md",
+    "b": "wiki/compliance-plans/operational-integration-capital-improvements.md",
+    "body_sim": 0.3896,
+    "title_sim": 0.6667,
+    "a_words": 400,
+    "b_words": 443
+  },
+  {
+    "a": "wiki/management-staffing/fulton-inclusive-culture-and-employee-networks.md",
+    "b": "wiki/management-staffing/swip-workforce-culture-dei-employee-networks.md",
+    "body_sim": 0.3722,
+    "title_sim": 0.3,
+    "a_words": 483,
+    "b_words": 568
+  },
+  {
+    "a": "wiki/compliance-plans/ocwut-biosolids-sme-bios.md",
+    "b": "wiki/compliance-plans/ocwut-solids-biosolids-sme-bench-and-legislative-monitoring.md",
+    "body_sim": 0.3689,
+    "title_sim": 0.5,
+    "a_words": 276,
+    "b_words": 300
+  },
+  {
+    "a": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+    "b": "wiki/resumes/nathan-callison.md",
+    "body_sim": 0.2347,
+    "title_sim": 0.6,
+    "a_words": 1477,
+    "b_words": 1025
+  },
+  {
+    "a": "wiki/technical-approach/fulton-project-execution-management-systems.md",
+    "b": "wiki/technical-approach/om-management-systems-framework.md",
+    "body_sim": 0.2329,
+    "title_sim": 0.1667,
+    "a_words": 487,
+    "b_words": 550
+  },
+  {
+    "a": "wiki/technical-approach/om-management-systems-framework.md",
+    "b": "wiki/technical-approach/swip-om-project-execution-framework.md",
+    "body_sim": 0.2329,
+    "title_sim": 0.0,
+    "a_words": 550,
+    "b_words": 1187
+  },
+  {
+    "a": "wiki/compliance-plans/fulton-clovis-environmental-compliance-record.md",
+    "b": "wiki/compliance-plans/fulton-spokane-environmental-compliance-record.md",
+    "body_sim": 0.2308,
+    "title_sim": 0.6667,
+    "a_words": 282,
+    "b_words": 254
+  },
+  {
+    "a": "wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md",
+    "b": "wiki/technical-approach/swip-process-control-system-tools.md",
+    "body_sim": 0.1967,
+    "title_sim": 0.1,
+    "a_words": 703,
+    "b_words": 992
+  },
+  {
+    "a": "wiki/past-performance/clovis-wwtp-wrf-om.md",
+    "b": "wiki/past-performance/fulton-clovis-reuse-facility-performance.md",
+    "body_sim": 0.1803,
+    "title_sim": 0.1818,
+    "a_words": 663,
+    "b_words": 586
+  },
+  {
     "a": "wiki/qualifications/corporate-entity-legal-qualifications.md",
     "b": "wiki/qualifications/swip-financial-transparency-and-litigation-history.md",
     "body_sim": 0.1537,
@@ -8,12 +88,12 @@
     "b_words": 670
   },
   {
-    "a": "wiki/technical-approach/om-management-systems-framework.md",
-    "b": "wiki/technical-approach/swip-om-project-execution-framework.md",
-    "body_sim": 0.1325,
-    "title_sim": 0.0,
-    "a_words": 550,
-    "b_words": 871
+    "a": "wiki/compliance-plans/fulton-environmental-protection-and-reporting-commitment.md",
+    "b": "wiki/compliance-plans/fulton-regulatory-compliance-program.md",
+    "body_sim": 0.126,
+    "title_sim": 0.4286,
+    "a_words": 336,
+    "b_words": 353
   },
   {
     "a": "wiki/technical-approach/annual-innovation-workshop-program.md",
@@ -24,12 +104,44 @@
     "b_words": 658
   },
   {
+    "a": "wiki/technical-approach/fulton-annual-innovation-workshop.md",
+    "b": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+    "body_sim": 0.0426,
+    "title_sim": 0.5,
+    "a_words": 143,
+    "b_words": 658
+  },
+  {
     "a": "wiki/win-themes/exec-summary-client-readiness-framing.md",
     "b": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
     "body_sim": 0.038,
     "title_sim": 0.5,
     "a_words": 595,
     "b_words": 487
+  },
+  {
+    "a": "wiki/past-performance/fulton-mbr-experience-highlights-additional-table.md",
+    "b": "wiki/past-performance/fulton-mbr-experience-highlights-operations-table.md",
+    "body_sim": 0.0335,
+    "title_sim": 0.7143,
+    "a_words": 345,
+    "b_words": 190
+  },
+  {
+    "a": "wiki/technical-approach/annual-innovation-workshop-program.md",
+    "b": "wiki/technical-approach/fulton-annual-innovation-workshop.md",
+    "body_sim": 0.0288,
+    "title_sim": 1.0,
+    "a_words": 582,
+    "b_words": 143
+  },
+  {
+    "a": "wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+    "b": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+    "body_sim": 0.0275,
+    "title_sim": 0.5,
+    "a_words": 602,
+    "b_words": 872
   },
   {
     "a": "wiki/past-performance/project-traverse-city-mi.md",
@@ -46,5 +158,101 @@
     "title_sim": 0.6667,
     "a_words": 691,
     "b_words": 657
+  },
+  {
+    "a": "wiki/compliance-plans/ocwut-emergency-operating-plan-elements-matrix.md",
+    "b": "wiki/compliance-plans/swip-erp-event-response-matrix.md",
+    "body_sim": 0.0156,
+    "title_sim": 0.625,
+    "a_words": 505,
+    "b_words": 677
+  },
+  {
+    "a": "wiki/past-performance/fulton-traverse-city-dbo-accomplishments.md",
+    "b": "wiki/past-performance/fulton-traverse-city-dbo-overview.md",
+    "body_sim": 0.0156,
+    "title_sim": 0.625,
+    "a_words": 467,
+    "b_words": 457
+  },
+  {
+    "a": "wiki/past-performance/project-jackson-jxn-water-om.md",
+    "b": "wiki/past-performance/project-jackson-jxn-water-turnaround-results.md",
+    "body_sim": 0.0077,
+    "title_sim": 0.8,
+    "a_words": 595,
+    "b_words": 588
+  },
+  {
+    "a": "wiki/past-performance/project-waterbury-ct-odor-control-and-results.md",
+    "b": "wiki/past-performance/project-waterbury-ct.md",
+    "body_sim": 0.0074,
+    "title_sim": 0.7143,
+    "a_words": 714,
+    "b_words": 530
+  },
+  {
+    "a": "wiki/past-performance/project-bixby-wrf-lift-stations-om.md",
+    "b": "wiki/past-performance/project-bixby-wrf-lift-stations-results-and-partnership.md",
+    "body_sim": 0.006,
+    "title_sim": 0.8,
+    "a_words": 569,
+    "b_words": 455
+  },
+  {
+    "a": "wiki/resumes/david-pitocchelli-little-river-plant-manager.md",
+    "b": "wiki/resumes/david-pitocchelli.md",
+    "body_sim": 0.0056,
+    "title_sim": 0.5,
+    "a_words": 1213,
+    "b_words": 1009
+  },
+  {
+    "a": "wiki/past-performance/fulton-spokane-county-dbo-overview.md",
+    "b": "wiki/past-performance/fulton-spokane-county-dbo-performance.md",
+    "body_sim": 0.0048,
+    "title_sim": 0.7,
+    "a_words": 506,
+    "b_words": 542
+  },
+  {
+    "a": "wiki/win-themes/fulton-maintenance-ai-assistant-palantir.md",
+    "b": "wiki/win-themes/fulton-maintenance-planner-scheduler-palantir.md",
+    "body_sim": 0.0022,
+    "title_sim": 0.5,
+    "a_words": 480,
+    "b_words": 430
+  },
+  {
+    "a": "wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md",
+    "b": "wiki/technical-approach/fulton-mbr-facility-maintenance-priorities.md",
+    "body_sim": 0.0,
+    "title_sim": 0.5,
+    "a_words": 590,
+    "b_words": 813
+  },
+  {
+    "a": "wiki/management-staffing/fulton-cerm-workforce-development-pipeline.md",
+    "b": "wiki/management-staffing/fulton-jv-regional-workforce-and-technical-bench.md",
+    "body_sim": 0.0,
+    "title_sim": 0.5,
+    "a_words": 450,
+    "b_words": 330
+  },
+  {
+    "a": "wiki/resumes/anthony-benavidez.md",
+    "b": "wiki/resumes/anthony-rose.md",
+    "body_sim": 0.0,
+    "title_sim": 0.5,
+    "a_words": 1067,
+    "b_words": 395
+  },
+  {
+    "a": "wiki/past-performance/fulton-clovis-reuse-facility-overview.md",
+    "b": "wiki/past-performance/fulton-clovis-reuse-facility-performance.md",
+    "body_sim": 0.0,
+    "title_sim": 0.5,
+    "a_words": 406,
+    "b_words": 586
   }
 ]

@@ -35,7 +35,7 @@ _What system, asset class, or service line the content is about._
 - water-treatment — Potable and raw-water treatment plant operations.
 - wet-weather — High-flow, peak-flow, and wet-weather event management.
 
-## discipline (37)
+## discipline (38)
 
 _The functional practice or program the content describes._
 
@@ -52,6 +52,7 @@ _The functional practice or program the content describes._
 - inventory-management — Spare parts, stockroom setup, barcoding, and warehouse organization.
 - knowledge-transfer — Capturing institutional knowledge, cross-training, and onboarding.
 - maintenance-program — Maintenance strategy, planning, scheduling, work execution, and upgrades.
+- nexgen-eam — NexGen EAM implementation, continuity, governance, and consultant-supported deployment.
 - mobilization — Day-one mobilization, startup activities, and mobilization timelines.
 - operations-management — O&M framework, program structure, SOPs, and operating plans.
 - performance-reporting — Monthly reports, KPI dashboards, and client reporting cadence.
@@ -121,7 +122,7 @@ _The rhetorical or formatting device the content uses._
 - testimonial — Client quotes and testimonial callouts.
 - win-theme — Text carrying or mapping to a win theme.
 
-## theme (20)
+## theme (21)
 
 _The persuasive message the content carries._
 
@@ -134,6 +135,7 @@ _The persuasive message the content carries._
 - day-one-readiness — Ready-to-operate-on-day-one messaging.
 - incumbent-displacement — Unseating or turning around an incumbent operator.
 - innovation — Innovation offerings, workshops, demonstrations, and new technology.
+- jv-structure — Joint-venture roles, combined capabilities, governance, and attribution.
 - local-presence — Local offices, local hiring, and nearby support.
 - market-leadership — ENR rankings, market position, and industry leadership.
 - more-than-an-operator — Operator-plus-full-service-firm positioning and extension of staff.

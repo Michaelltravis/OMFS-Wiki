@@ -6,7 +6,7 @@ tags: [maintenance-program, training-certification, procurement, emergency-respo
 source: ocwut-16-26
 source-section: "Required Plan: Operational Integration Plan (Maintenance Staffing and Specialized Skill Sets; Use of Subcontractors or Third-Party Services; Emergency Response and On-Call Coverage)"
 source-pages: [140, 141]
-verbatim-ref: ["verbatim/ocwut-16-26/pages/p0140.md#¶9", "verbatim/ocwut-16-26/pages/p0140.md#¶10", "verbatim/ocwut-16-26/pages/p0140.md#¶11", "verbatim/ocwut-16-26/pages/p0140.md#¶13", "verbatim/ocwut-16-26/pages/p0141.md#¶1", "verbatim/ocwut-16-26/pages/p0141.md#¶3"]
+verbatim-ref: ["verbatim/ocwut-16-26/pages/p0140.md#¶10", "verbatim/ocwut-16-26/pages/p0140.md#¶11", "verbatim/ocwut-16-26/pages/p0140.md#¶13", "verbatim/ocwut-16-26/pages/p0141.md#¶1", "verbatim/ocwut-16-26/pages/p0141.md#¶3"]
 pursuit-type: [wwtp-om, multi-facility, solids]
 client-type: trust
 client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
@@ -20,8 +20,8 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: low
-extracted: 2026-09-05
-last-verified: 2026-09-05
+extracted: 2026-09-07
+last-verified: 2026-09-07
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: The South Canadian argument is the winner here — the operator will already be running the same on-site generation equipment at another plant in the portfolio from contract start, so the learning curve for the later installations is paid for in advance. It also prices the risk honestly (proprietary cartridges at roughly $20,000 each) and folds subcontractors into the same work management system as self-performed work.
 reuse-notes: Keep the multi-facility learning-transfer argument wherever the portfolio contains an early installation of technology arriving later elsewhere — it is the strongest sentence in this passage. Update equipment brand names, cartridge cost, and the schedule citations. Substitute the client's work management system for NexGen EAM. Verify the cartridge price before restating it and register it as a proof point.
@@ -30,8 +30,6 @@ reuse-notes: Keep the multi-facility learning-transfer argument wherever the por
 # CIP Integration — Specialized Maintenance Skills, Subcontracted Services, and Emergency Coverage
 
 ## Maintenance Staffing and Specialized Skill Sets
-
-Each CIP project introduces equipment and systems that require new maintenance competencies. **We'll identify these skill gaps early and address them through a combination of on-site training, manufacturer certification, and support from our national technical resources.**
 
 - **For OSHG systems**, maintenance staff will need proficiency in electrolytic cell maintenance and replacement cycles, brine system management and softening system upkeep, sodium hypochlorite storage tank inspection, and chemical feed system calibration. At South Canadian, where PSI/Microclor® onsite generation equipment is already being installed as part of the current construction, we will gain direct operating experience with this equipment beginning at contract start, building institutional knowledge that transfers directly to the Deer Creek and North Canadian installations.
 

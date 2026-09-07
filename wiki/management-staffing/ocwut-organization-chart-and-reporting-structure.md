@@ -6,7 +6,7 @@ tags: [org-chart, staffing-plan, key-personnel, staffing-model, exhibit, multi-f
 source: ocwut-16-26
 source-section: "Section 5, Required Plans Submitted with the Proposal — Staffing and Training Plan, Exhibit 5-2"
 source-pages: [129, 130]
-verbatim-ref: ["verbatim/ocwut-16-26/pages/p0129.md#¶4", "verbatim/ocwut-16-26/pages/p0130.md#¶2"]
+verbatim-ref: ["verbatim/ocwut-16-26/pages/p0129.md#¶4", "verbatim/ocwut-16-26/pages/p0130.md#¶1"]
 pursuit-type: [wwtp-om, multi-facility, solids]
 client-type: trust
 client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
@@ -20,8 +20,8 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: low
-extracted: 2026-09-05
-last-verified: 2026-09-05
+extracted: 2026-09-07
+last-verified: 2026-09-07
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A multi-facility org chart that shows three things an evaluator looks for at once — a named corporate/offsite support layer above the site, a single on-site accountable manager, and a per-facility crew with FTE counts under each operations manager — plus the hiring commitment that management is in place before transition ends.
 reuse-notes: Graphic asset ID 100_009385. Rebuild the chart per pursuit; the reusable structure is the four-band layout (corporate support / project leadership / facility operations / shared maintenance-lab support) with a legend distinguishing operations, maintenance, laboratory, electrical-biosolids, subcontracted staff, and team members with resumes provided. Names, FTE counts, plant names, and the Synagro biosolids subcontract are pursuit-specific.
@@ -41,9 +41,9 @@ reuse-notes: Graphic asset ID 100_009385. Rebuild the chart per pursuit; the reu
 
 **Chisholm Creek.** Operations Manager Jose "Joe" Ramos; 2 lead operators; 10 operators; 2 PM mechanics; 2 CM mechanics; 2 electricians.
 
-**Deer Creek.** Operations Manager Roy Aristizabal; 2 lead operators; 8 operators; PM/CM mechanics.
+**Deer Creek.** Operations Manager Paul Shropshire; 2 lead operators; 10 operators; 3 mechanics.
 
-**South Canadian.** Operations Manager Paul Shropshire; 2 lead operators; 10 operators; 3 mechanics; 1 electrician/I&C technician; 1 lab technician.
+**South Canadian.** Operations Manager Roy Aristizabal; 2 lead operators; 8 operators; 2 PM/CM mechanics; 1 electrician/I&C technician; 1 lab technician.
 
 **Shared and specialty support.** Maintenance Manager Brian Daniels with maintenance administrative assistant (1 FTE) and planner/scheduler/parts clerk (1 FTE); Laboratory Manager Scott Golden; I&C Technician Robert Coons; Hefner WTP support (1 FTE).
 

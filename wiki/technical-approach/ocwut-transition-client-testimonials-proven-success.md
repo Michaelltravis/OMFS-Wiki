@@ -6,7 +6,7 @@ tags: [transition-management, testimonial, proof-point, past-performance, workfo
 source: ocwut-16-26
 source-section: "Required Plan: Draft Transition Plan — Proven Success: Transitioning Complex Projects"
 source-pages: [145, 150]
-verbatim-ref: ["verbatim/ocwut-16-26/pages/p0145.md#¶6", "verbatim/ocwut-16-26/pages/p0145.md#¶7", "verbatim/ocwut-16-26/pages/p0145.md#¶13", "verbatim/ocwut-16-26/pages/p0150.md#¶3"]
+verbatim-ref: ["verbatim/ocwut-16-26/pages/p0145.md#¶6", "verbatim/ocwut-16-26/pages/p0145.md#¶7", "verbatim/ocwut-16-26/pages/p0145.md#¶8", "verbatim/ocwut-16-26/pages/p0145.md#¶13", "verbatim/ocwut-16-26/pages/p0150.md#¶3", "verbatim/ocwut-16-26/pages/p0150.md#¶4"]
 pursuit-type: [wwtp-om, multi-facility, water-treatment]
 client-type: trust
 client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
@@ -21,7 +21,7 @@ house-favorite: true
 sanitized: true
 sanitization-loss: none
 extracted: '2026-09-05'
-last-verified: '2026-09-05'
+last-verified: '2026-09-07'
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Three attributable client quotes that speak specifically to transition execution — displacement of a 20-year incumbent (West Basin), crisis-entry partnership and promised operational savings (JXN Water), and the mechanics of a safe, private employee onboarding process (Wilmington). Contacts and phone numbers are on the record in the source proposal, which makes these usable as reference callouts, not just pull quotes.
 reuse-notes: Verbatim client quotes with named speakers, titles, and phone numbers — confirm permission status in testimonials/inventory.md and re-verify contact details before external use. Attribution must stay attached to the quote; never paraphrase a quote into narrative voice.

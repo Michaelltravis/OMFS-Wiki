@@ -5,8 +5,8 @@ block-type: prose
 tags: [staffing-plan, management-plan, key-personnel, staffing-model, training-certification, multi-facility-operations, workforce-continuity, day-one-readiness, opening-hook, win-theme, project-understanding]
 source: ocwut-16-26
 source-section: "Section 5, Required Plans Submitted with the Proposal — Staffing and Training Plan"
-source-pages: [128]
-verbatim-ref: ["verbatim/ocwut-16-26/pages/p0128.md#¶5", "verbatim/ocwut-16-26/pages/p0128.md#¶4", "verbatim/ocwut-16-26/pages/p0128.md#¶7", "verbatim/ocwut-16-26/pages/p0128.md#¶8"]
+source-pages: [128, 130]
+verbatim-ref: ["verbatim/ocwut-16-26/pages/p0128.md#¶5", "verbatim/ocwut-16-26/pages/p0128.md#¶4", "verbatim/ocwut-16-26/pages/p0128.md#¶7", "verbatim/ocwut-16-26/pages/p0128.md#¶8", "verbatim/ocwut-16-26/pages/p0130.md#¶1"]
 pursuit-type: [wwtp-om, multi-facility, solids]
 client-type: trust
 client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
@@ -20,8 +20,8 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: low
-extracted: 2026-09-05
-last-verified: 2026-09-05
+extracted: 2026-09-07
+last-verified: 2026-09-07
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A compact staffing-section opener that states the client's demand set first, then the four mechanisms (structured training, cross-training, on-call coverage, regional resources) that answer it, and grounds credibility in site visits to every facility. The leadership paragraph makes the argument that leadership caliber is the leading indicator of operations quality.
 reuse-notes: Schedule 10 is this RFP's staffing exhibit label — swap for the equivalent client attachment. The "site visits to all five facilities" claim only works when the team actually visited; substitute the real number. Named leaders (David Pitocchelli) and the Exhibit 5-1 / Section 3 cross-references are pursuit-specific. Pairs with the key-personnel requirements matrix and the organization chart roster.

@@ -6,7 +6,7 @@ tags: [process-modeling, digital-tools, wet-weather, collection-systems, lift-st
 source: ocwut-16-26
 source-section: "Section 8, Innovative and/or Alternative Recommendations"
 source-pages: [178, 179]
-verbatim-ref: ["verbatim/ocwut-16-26/pages/p0178.md#¶16", "verbatim/ocwut-16-26/pages/p0179.md#¶1"]
+verbatim-ref: ["verbatim/ocwut-16-26/pages/p0178.md#¶16", "verbatim/ocwut-16-26/pages/p0179.md#¶1", "verbatim/ocwut-16-26/pages/p0179.md#¶2"]
 pursuit-type: [wwtp-om, multi-facility, collections]
 client-type: trust
 client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
@@ -21,7 +21,7 @@ house-favorite: false
 sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
-last-verified: 2026-09-05
+last-verified: 2026-09-07
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Shows how to offer a modeling study without stepping on a consultant the client has already hired — the offer explicitly leverages the in-flight collection system model and adds the process side. The benefit list is operational (setpoints, sequencing, wet well levels), not academic.
 reuse-notes: Confirm which modeling work the client already has under way and who is doing it, and name it the way the client does. Replica process modeling is priced separately in the source proposal — check whether it is in the base scope of the new bid before implying it is included.

@@ -16,7 +16,8 @@ win-theme-map: [asset-management, transition-continuity, partner-transparency, c
 proof-point-ids: []
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
+superseded-by: wiki/compliance-plans/operational-integration-capital-improvements.md
 house-favorite: false
 sanitized: true
 sanitization-loss: none

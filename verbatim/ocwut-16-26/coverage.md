@@ -4,7 +4,7 @@
 
 | pages | text pages | image-only pages | mean word_recall | mean shingle_coverage | flagged pages | recovered blocks | recovered words |
 |---|---|---|---|---|---|---|---|
-| 184 | 184 | 0 | 0.9926 | 0.7524 | 34 (gate: word_recall<0.99 OR longest_missing_run>=15) | 150 | 1891 |
+| 184 | 184 | 0 | 0.9949 | 0.7736 | 18 (gate: word_recall<0.99 OR longest_missing_run>=15) | 150 | 1891 |
 
 ## Flagged pages
 
@@ -26,21 +26,5 @@
 | 80 | 0.9819 | 0.5441 | 0.5542 | 0.4301 | 2 | networks like the witcher facility exhibit 3 5 our o m programs |
 | 81 | 0.9895 | 0.5780 | 0.4298 | 0.5089 | 1 | executive support rick warner pe wef fellow strategic advisor when complex wastewater |
 | 88 | 0.9850 | 0.5326 | 0.4853 | 0.5174 | 1 | i project manager oklahoma city the oklahoma city water utilities trust asset |
-| 115 | 0.9863 | 0.7465 | 0.3266 | 0.4095 | 2 | multi facility wastewater portfolio turns asset and maintenance data into practical decisions |
-| 128 | 0.9798 | 0.9499 | 0.1750 | 0.9263 | 3 | required plans submitted with the proposal staffing and training plan ocwut s |
-| 130 | 0.9418 | 0.0175 | 0.9887 | 0.0175 | 4 | manager operations maintenance lab cm mechanic 4 ftes electrician 2 ftes i |
-| 133 | 0.9823 | 0.6463 | 0.3788 | 0.6328 | 2 | top priority this year we re upping our game with a peer |
-| 135 | 0.9339 | 0.5994 | 0.3979 | 0.4734 | 11 | certifications including covering costs and offering opportunities for career advancement maintenance certification |
 | 137 | 0.9513 | 0.8867 | 0.1182 | 0.8867 | 21 | thickening north canadian south canadian sludge generation chisholm creek liquid transfer to |
-| 145 | 0.9771 | 0.8643 | 0.1357 | 0.8140 | 3 | successfully transitioned multiple complex water and wastewater systems from previous operators recent |
-| 146 | 0.9872 | 0.5270 | 0.4948 | 0.4881 | 1 | pre start activities award aug 18 activate transition leadership team establish governance |
-| 149 | 0.9854 | 0.5117 | 0.5051 | 0.4268 | 1 | i project manager asset management cmms graham knowles regional maintenance mike idzior |
-| 152 | 0.9794 | 0.2394 | 0.8440 | 0.2394 | 2 | proposed oklahoma city transition work plan task lead start date completion date |
-| 165 | 0.9763 | 0.7271 | 0.2945 | 0.5371 | 11 | 2 8 mgd ultimate design 5 0 mgd 18 lift stations owner |
-| 167 | 0.9654 | 0.7288 | 0.2831 | 0.5812 | 5 | 30 mgd j h fewell conventional wtp a well system booster stations |
-| 169 | 0.9814 | 0.7514 | 0.2719 | 0.5461 | 5 | 25 mgd avg 310 miles of sanitary sewer 20 pump stations owner |
-| 171 | 0.9587 | 0.7749 | 0.2327 | 0.5199 | 5 | 1 mgd marine park wwtp a 3 2 mgd industrial waste lagoon |
-| 174 | 0.9516 | 0.6849 | 0.3086 | 0.5000 | 7 | years target zero gold achievement award 2017 leed silver certified administration building |
-| 175 | 0.9886 | 0.7313 | 0.2931 | 0.4722 | 2 | the business community award jacobs p ps performance excellence award jacobs cfo |
-| 178 | 0.9876 | 0.9609 | 0.0495 | 0.9609 | 1 | recommendations more than an operator our innovative approach to o m ocwut |
-| 180 | 0.9592 | 0.5357 | 0.5263 | 0.5357 | 3 | woodland davis wi w pim p wo w cl c s r |
+| 180 | 0.9679 | 0.5357 | 0.5385 | 0.5357 | 8 | wi w pim p wo w cl c s r er jacobs |

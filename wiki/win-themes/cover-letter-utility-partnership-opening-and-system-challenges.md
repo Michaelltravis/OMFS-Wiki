@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A challenger-bid cover letter opening that converts a long engineering relationship into O&M credibility, names the client's forward-looking challenges before naming any of the firm's own credentials, and lands the Malcolm Baldrige National Quality Award as an aspiration shared with the client rather than a boast
-reuse-notes: Replace the relationship history, named facilities, and the specific forward-looking challenges with the target client's own; verify the state O&M tenure figure and regulator relationship before restating. The Baldrige sentence is universal Jacobs language and should be kept intact. approved-for-external-use: pending — sourced from a live pursuit.
+reuse-notes: "Replace the relationship history, named facilities, and the specific forward-looking challenges with the target client's own; verify the state O&M tenure figure and regulator relationship before restating. The Baldrige sentence is universal Jacobs language and should be kept intact. approved-for-external-use: pending — sourced from a live pursuit."
 ---
 
 # Cover Letter Opening — Decade-Long Relationship, System Challenges, and Baldrige Credibility

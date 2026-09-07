@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Most proposals answer wet weather and stop; this one answers the opposite condition. It names the real low-flow risks (excessive SRT, over-aeration, septic detention in underutilized basins), gives a facility-specific response for each plant, and closes with the commitment that the UPCPs will define low-flow setpoints so operators do not default to one operating posture year-round.
-reuse-notes: Highly transferable — most RFPs ask about minimum-load or turndown conditions and few responses have a ready answer. Pursuit-specific: the per-facility tactics and the multi-train configuration that makes basin removal possible. Confirm the client's plants actually have the redundancy to take trains out of service before promising it.
+reuse-notes: "Highly transferable — most RFPs ask about minimum-load or turndown conditions and few responses have a ready answer. Pursuit-specific: the per-facility tactics and the multi-train configuration that makes basin removal possible. Confirm the client's plants actually have the redundancy to take trains out of service before promising it."
 ---
 
 # Operating Under Low-Flow and Minimum-Load Conditions

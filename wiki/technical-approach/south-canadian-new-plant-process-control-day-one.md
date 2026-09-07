@@ -24,7 +24,7 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The startup-discipline argument for a brand-new plant coming online mid-contract, plus a concrete transferable-experience proof (direct PSI MicroClor on-site hypochlorite generation operating experience at the Jacobs Pampa, Texas facility) that answers the unfamiliar-equipment risk head on.
-reuse-notes: Reusable wherever a new or newly commissioned facility enters an O&M contract term. Pursuit-specific: the 8.66-MGD capacity, the OSHG technology, and the Pampa, Texas reference — verify that operating experience is current and that the named reference facility can be cited externally before reuse. Substitute the actual disinfection or thickening technology the new plant will run.
+reuse-notes: "Reusable wherever a new or newly commissioned facility enters an O&M contract term. Pursuit-specific: the 8.66-MGD capacity, the OSHG technology, and the Pampa, Texas reference — verify that operating experience is current and that the named reference facility can be cited externally before reuse. Substitute the actual disinfection or thickening technology the new plant will run."
 ---
 
 # New Plant, Right Habits from Day One

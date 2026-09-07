@@ -1,0 +1,14 @@
+[
+  {"claim":"The Jacobs/CERM partnership is built on over 20 years of combined experience across water, education, aviation, and transportation projects.","number":"20","unit":"years","as_of":"","page":9,"para":4,"block":"wiki/win-themes/exec-summary-jv-partnership-value-proposition.md","category":"other"},
+  {"claim":"Jacobs reported $12 billion in FY24 revenue.","number":"12","unit":"billion USD","as_of":"FY24","page":9,"para":4,"block":"wiki/win-themes/exec-summary-jv-partnership-value-proposition.md","category":"financial"},
+  {"claim":"Jacobs reported a $2.4 billion O&M backlog.","number":"2.4","unit":"billion USD","as_of":"","page":9,"para":4,"block":"wiki/win-themes/exec-summary-jv-partnership-value-proposition.md","category":"financial"},
+  {"claim":"Jacobs reported 4,000+ U.S. O&M professionals.","number":"4000+","unit":"professionals","as_of":"","page":9,"para":4,"block":"wiki/win-themes/exec-summary-jv-partnership-value-proposition.md","category":"scale"},
+  {"claim":"Jacobs reported 45,000 global staff.","number":"45000","unit":"staff","as_of":"","page":9,"para":4,"block":"wiki/win-themes/exec-summary-jv-partnership-value-proposition.md","category":"scale"},
+  {"claim":"CERM was founded in 1995.","number":"1995","unit":"year","as_of":"1995","page":9,"para":4,"block":"wiki/win-themes/exec-summary-jv-partnership-value-proposition.md","category":"other"},
+  {"claim":"CERM reported 100+ professionals serving the southeastern U.S.","number":"100+","unit":"professionals","as_of":"","page":9,"para":4,"block":"wiki/win-themes/exec-summary-jv-partnership-value-proposition.md","category":"scale"},
+  {"claim":"The portfolio reported a 98% client renewal rate.","number":"98","unit":"percent","as_of":"","page":10,"para":4,"block":"wiki/win-themes/exec-summary-comprehensive-jv-solution-benefits.md","category":"outcome"},
+  {"claim":"The team reported a 99.98% compliance rate across hundreds of regulated facilities.","number":"99.98","unit":"percent","as_of":"","page":10,"para":5,"block":"wiki/win-themes/exec-summary-comprehensive-jv-solution-benefits.md","category":"compliance"},
+  {"claim":"Jacobs reported a regional network of 1,200+ Georgia-based staff.","number":"1200+","unit":"staff","as_of":"","page":10,"para":6,"block":"wiki/win-themes/exec-summary-comprehensive-jv-solution-benefits.md","category":"scale"},
+  {"claim":"Recent transitions of Veolia-operated sites in MA, MS, and CA involved over 100 FTEs.","number":"100+","unit":"FTEs","as_of":"this past year","page":10,"para":8,"block":"wiki/win-themes/exec-summary-comprehensive-jv-solution-benefits.md","category":"schedule"},
+  {"claim":"The base proposal included more than $6.7 million in digital tools, technical resources, and innovation investments.","number":"6.7","unit":"million USD","as_of":"","page":10,"para":11,"block":"wiki/win-themes/exec-summary-comprehensive-jv-solution-benefits.md","category":"financial"}
+]

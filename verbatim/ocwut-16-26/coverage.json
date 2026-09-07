@@ -6,9 +6,9 @@
   "page_count": 184,
   "image_only_pages": [],
   "text_pages": 184,
-  "mean_word_recall": 0.9926,
-  "mean_shingle_coverage": 0.7524,
-  "pages_flagged": 34,
+  "mean_word_recall": 0.9949,
+  "mean_shingle_coverage": 0.7736,
+  "pages_flagged": 18,
   "total_recovered_blocks": 150,
   "total_recovered_words": 1891,
   "vision_pages": [],
@@ -1270,13 +1270,13 @@
     {
       "page": 115,
       "image_only": false,
-      "word_recall": 0.9863,
-      "shingle_coverage": 0.7465,
-      "extra": 0.3266,
+      "word_recall": 1.0,
+      "shingle_coverage": 0.805,
+      "extra": 0.272,
       "order": 0.4095,
-      "longest_missing_run_words": 2,
-      "missing_sample": "multi facility wastewater portfolio turns asset and maintenance data into practical decisions",
-      "flagged": true
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 116,
@@ -1413,13 +1413,13 @@
     {
       "page": 128,
       "image_only": false,
-      "word_recall": 0.9798,
+      "word_recall": 0.9942,
       "shingle_coverage": 0.9499,
-      "extra": 0.175,
-      "order": 0.9263,
-      "longest_missing_run_words": 3,
-      "missing_sample": "required plans submitted with the proposal staffing and training plan ocwut s",
-      "flagged": true
+      "extra": 0.1006,
+      "order": 0.9499,
+      "longest_missing_run_words": 2,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 129,
@@ -1435,13 +1435,13 @@
     {
       "page": 130,
       "image_only": false,
-      "word_recall": 0.9418,
-      "shingle_coverage": 0.0175,
-      "extra": 0.9887,
-      "order": 0.0175,
-      "longest_missing_run_words": 4,
-      "missing_sample": "manager operations maintenance lab cm mechanic 4 ftes electrician 2 ftes i",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.9754,
+      "extra": 0.0764,
+      "order": 0.9719,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 131,
@@ -1468,13 +1468,13 @@
     {
       "page": 133,
       "image_only": false,
-      "word_recall": 0.9823,
-      "shingle_coverage": 0.6463,
-      "extra": 0.3788,
-      "order": 0.6328,
-      "longest_missing_run_words": 2,
-      "missing_sample": "top priority this year we re upping our game with a peer",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.7642,
+      "extra": 0.2799,
+      "order": 0.7537,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 134,
@@ -1490,13 +1490,13 @@
     {
       "page": 135,
       "image_only": false,
-      "word_recall": 0.9339,
-      "shingle_coverage": 0.5994,
-      "extra": 0.3979,
-      "order": 0.4734,
-      "longest_missing_run_words": 11,
-      "missing_sample": "certifications including covering costs and offering opportunities for career advancement maintenance certification",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.953,
+      "extra": 0.0696,
+      "order": 0.7633,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 136,
@@ -1600,24 +1600,24 @@
     {
       "page": 145,
       "image_only": false,
-      "word_recall": 0.9771,
-      "shingle_coverage": 0.8643,
-      "extra": 0.1357,
-      "order": 0.814,
-      "longest_missing_run_words": 3,
-      "missing_sample": "successfully transitioned multiple complex water and wastewater systems from previous operators recent",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.9593,
+      "extra": 0.066,
+      "order": 0.9477,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 146,
       "image_only": false,
-      "word_recall": 0.9872,
-      "shingle_coverage": 0.527,
-      "extra": 0.4948,
+      "word_recall": 0.9979,
+      "shingle_coverage": 0.7927,
+      "extra": 0.2495,
       "order": 0.4881,
       "longest_missing_run_words": 1,
-      "missing_sample": "pre start activities award aug 18 activate transition leadership team establish governance",
-      "flagged": true
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 147,
@@ -1644,13 +1644,13 @@
     {
       "page": 149,
       "image_only": false,
-      "word_recall": 0.9854,
-      "shingle_coverage": 0.5117,
-      "extra": 0.5051,
-      "order": 0.4268,
+      "word_recall": 0.9916,
+      "shingle_coverage": 0.845,
+      "extra": 0.1743,
+      "order": 0.845,
       "longest_missing_run_words": 1,
-      "missing_sample": "i project manager asset management cmms graham knowles regional maintenance mike idzior",
-      "flagged": true
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 150,
@@ -1677,13 +1677,13 @@
     {
       "page": 152,
       "image_only": false,
-      "word_recall": 0.9794,
-      "shingle_coverage": 0.2394,
-      "extra": 0.844,
-      "order": 0.2394,
-      "longest_missing_run_words": 2,
-      "missing_sample": "proposed oklahoma city transition work plan task lead start date completion date",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.9014,
+      "extra": 0.2426,
+      "order": 0.8908,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 153,
@@ -1820,13 +1820,13 @@
     {
       "page": 165,
       "image_only": false,
-      "word_recall": 0.9763,
-      "shingle_coverage": 0.7271,
-      "extra": 0.2945,
-      "order": 0.5371,
-      "longest_missing_run_words": 11,
-      "missing_sample": "2 8 mgd ultimate design 5 0 mgd 18 lift stations owner",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.8646,
+      "extra": 0.1852,
+      "order": 0.8646,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 166,
@@ -1842,13 +1842,13 @@
     {
       "page": 167,
       "image_only": false,
-      "word_recall": 0.9654,
-      "shingle_coverage": 0.7288,
-      "extra": 0.2831,
-      "order": 0.5812,
-      "longest_missing_run_words": 5,
-      "missing_sample": "30 mgd j h fewell conventional wtp a well system booster stations",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.8708,
+      "extra": 0.1734,
+      "order": 0.7878,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 168,
@@ -1864,13 +1864,13 @@
     {
       "page": 169,
       "image_only": false,
-      "word_recall": 0.9814,
-      "shingle_coverage": 0.7514,
-      "extra": 0.2719,
-      "order": 0.5461,
-      "longest_missing_run_words": 5,
-      "missing_sample": "25 mgd avg 310 miles of sanitary sewer 20 pump stations owner",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.9077,
+      "extra": 0.13,
+      "order": 0.9077,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 170,
@@ -1886,13 +1886,13 @@
     {
       "page": 171,
       "image_only": false,
-      "word_recall": 0.9587,
-      "shingle_coverage": 0.7749,
-      "extra": 0.2327,
-      "order": 0.5199,
-      "longest_missing_run_words": 5,
-      "missing_sample": "1 mgd marine park wwtp a 3 2 mgd industrial waste lagoon",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.9422,
+      "extra": 0.0921,
+      "order": 0.8725,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 172,
@@ -1919,24 +1919,24 @@
     {
       "page": 174,
       "image_only": false,
-      "word_recall": 0.9516,
-      "shingle_coverage": 0.6849,
-      "extra": 0.3086,
-      "order": 0.5,
-      "longest_missing_run_words": 7,
-      "missing_sample": "years target zero gold achievement award 2017 leed silver certified administration building",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.883,
+      "extra": 0.1491,
+      "order": 0.566,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 175,
       "image_only": false,
-      "word_recall": 0.9886,
-      "shingle_coverage": 0.7313,
-      "extra": 0.2931,
-      "order": 0.4722,
-      "longest_missing_run_words": 2,
-      "missing_sample": "the business community award jacobs p ps performance excellence award jacobs cfo",
-      "flagged": true
+      "word_recall": 1.0,
+      "shingle_coverage": 0.9597,
+      "extra": 0.0458,
+      "order": 0.9597,
+      "longest_missing_run_words": 0,
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 176,
@@ -1963,13 +1963,13 @@
     {
       "page": 178,
       "image_only": false,
-      "word_recall": 0.9876,
-      "shingle_coverage": 0.9609,
-      "extra": 0.0495,
-      "order": 0.9609,
+      "word_recall": 0.9938,
+      "shingle_coverage": 0.9891,
+      "extra": 0.0247,
+      "order": 0.9891,
       "longest_missing_run_words": 1,
-      "missing_sample": "recommendations more than an operator our innovative approach to o m ocwut",
-      "flagged": true
+      "missing_sample": "",
+      "flagged": false
     },
     {
       "page": 179,
@@ -1985,12 +1985,12 @@
     {
       "page": 180,
       "image_only": false,
-      "word_recall": 0.9592,
+      "word_recall": 0.9679,
       "shingle_coverage": 0.5357,
-      "extra": 0.5263,
+      "extra": 0.5385,
       "order": 0.5357,
-      "longest_missing_run_words": 3,
-      "missing_sample": "woodland davis wi w pim p wo w cl c s r",
+      "longest_missing_run_words": 8,
+      "missing_sample": "wi w pim p wo w cl c s r er jacobs",
       "flagged": true
     },
     {

@@ -6,7 +6,7 @@ tags: [innovation, more-than-an-operator, value-added-services, opening-hook, be
 source: ocwut-16-26
 source-section: "Section 8, Innovative and/or Alternative Recommendations"
 source-pages: [178]
-verbatim-ref: ["verbatim/ocwut-16-26/pages/p0178.md#¶4"]
+verbatim-ref: ["verbatim/ocwut-16-26/pages/p0178.md#¶3", "verbatim/ocwut-16-26/pages/p0178.md#¶4", "verbatim/ocwut-16-26/pages/p0178.md#¶5"]
 pursuit-type: [wwtp-om, multi-facility, solids, collections]
 client-type: trust
 client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
@@ -21,7 +21,7 @@ house-favorite: false
 sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
-last-verified: 2026-09-05
+last-verified: 2026-09-07
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Handles the hardest problem in an innovation section — the RFP demands ROI precision that no bidder can honestly supply pre-award — without hedging away the offer. Sets up every innovation that follows as validated, priced, and client-approved before implementation.
 reuse-notes: Tailor the named escalation/ROI expectation to the RFP's actual wording. The "we're not waiting to bring value" pivot is the reusable move; keep it immediately before the list of specific innovations so the section does not read as a disclaimer.
