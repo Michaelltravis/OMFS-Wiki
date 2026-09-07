@@ -972,6 +972,22 @@ def _shrink_runs(paragraph, size_pt: float) -> None:
         run.font.size = Pt(size_pt)
 
 
+def strip_frontmatter(md_text: str) -> str:
+    """Drop a leading YAML frontmatter block ('---' ... '---').
+
+    The renderer has no horizontal-rule handling, so an unstripped block
+    prints as body paragraphs. Only a block that opens on the very first
+    line and closes within the first 20 lines is removed, so a document
+    that merely starts with a rule is left alone."""
+    lines = md_text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return md_text
+    for idx in range(1, min(len(lines), 20)):
+        if lines[idx].strip() == "---":
+            return "\n".join(lines[idx + 1:]).lstrip("\n")
+    return md_text
+
+
 def split_draft_notes(md_text: str) -> tuple[str, str | None]:
     """Split off the '## Draft notes' section (and everything after it).
     Returns (main_md, notes_md) where notes_md is None if no such heading
@@ -1006,6 +1022,7 @@ def main() -> int:
     _KEEP_TAGS = args.keep_tags
 
     md_text = args.input_md.read_text(encoding="utf-8")
+    md_text = strip_frontmatter(md_text)
 
     if args.notes_inline:
         main_md, notes_md = md_text, None
