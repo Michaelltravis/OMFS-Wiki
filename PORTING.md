@@ -2,7 +2,7 @@
 
 This document lets a different AI assistant or a person finish the extraction work without any access to the conversation that started it. It is self-contained. Read it top to bottom before touching a file.
 
-Written 2026-09-06. The bank lives at `C:\Users\micha\Desktop\Wiki` and is a git repository; commit as you go.
+Written 2026-09-06, updated 2026-09-07 when the extraction was completed. The bank lives at `C:\Users\micha\Desktop\Wiki`, is a git repository, and now has a private GitHub remote at `Michaelltravis/OMFS-Wiki`. Source PDFs are deliberately excluded from the remote by a `*.pdf` gitignore rule; they stay local in `raw/`. Commit as you go.
 
 ---
 
@@ -99,15 +99,15 @@ At handoff the bank held 385 blocks. Hull and Santa Monica were complete and cle
 
 The two Fulton blocks are orphans from a range that was interrupted before it finished. Treat that range as unbuilt: when its builder runs, it will find those files listed as existing blocks and bring them up to standard.
 
-**Remaining work, in order:**
+**What remained at that point, in order:**
 
-1. **35 section ranges** still need blocks. The exact list, with page ranges, target categories and all builder arguments, is in `work/fragments/ranges_REMAINING.json`. Nine are Oklahoma City, twenty-six are Fulton County.
+1. **35 section ranges** still needed blocks. The exact list, with page ranges, target categories and all builder arguments, is in `work/fragments/ranges_REMAINING.json`. Nine are Oklahoma City, twenty-six are Fulton County.
 2. **Registry increment.** Harvest the `work/fragments/<slug>/*.facts.json` files into `proof-points/registry.json`, reconciling against existing ids so they stay stable. Same for `*.quotes.json` into `testimonials/inventory.md`, and narratives into `stories/catalog.md`.
 3. **Duplicate resolution.** Run `python work/dedupe_candidates.py --min 0.12`, judge each candidate pair, and mark one `status: preferred` and the other `status: fallback` with `supersedes` / `superseded-by` pointers.
 4. **Vocabulary and index.** Fold any new tags into `vocabulary/tags.md` (keep the total near 130), then `python work/regen_index.py`.
-5. **Lint to zero.** `python work/lint_blocks.py` currently reports **44 violations across 44 files**. These are new blocks missing schema-v2 fields because the cleanup stage never ran. This is a known mid-run state, not the standard. The standard is zero.
+5. **Lint to zero.** At handoff `python work/lint_blocks.py` reported **44 violations across 44 files** - new blocks missing schema-v2 fields because the cleanup stage had not run. The standard is zero, and zero is where it now sits.
 
-**Do not treat the current 44 violations as acceptable.** They are unfinished work.
+
 
 ---
 
@@ -248,7 +248,9 @@ This is the flawless-repeatability path. CLAUDE.md §"Adding new content" is the
 - **31 proof-point conflicts** are unresolved in the registry, each with competing values and a recommended lock. They need a human owner, not a model's judgment. Examples: corporate revenue stated three ways across sources; a compliance percentage stated as both 99.8% and 99.98%; a collection-system length stated as both 310 and 320 miles.
 - **`voice/exemplar/` is empty.** The voice guide was derived from the winning proposals themselves. If an exemplar of the target voice is supplied later, re-derive the guide with it as the primary authority.
 - **The rubric gate `numbers_all >= 4.0`** is calibrated on full-section units. On short units the winning proposals themselves fall below it. Treat it as directional under about 1,000 words. The calibration log at the end of `voice/voice-guide.md` explains why.
-- Two early snapshot commits for this Wiki also exist in the parent home-directory git repository. Harmless, Wiki files only.
+- Two early snapshot commits for this Wiki also exist in the parent home-directory git repository (`C:\Users\micha`). Harmless, Wiki files only, and unrelated to the GitHub remote.
+- **Git history was rewritten on 2026-09-07** to strip PDFs before publishing to GitHub. Commit hashes changed; content did not. If you hold an older clone, re-clone rather than merge.
+- The Fulton verbatim pages carry a Salesforce opportunity identifier (`0063F000009OMF7AAE`) as a footer artifact on several divider pages. It is an internal CRM id, not proposal content; worth a conscious decision before any wider sharing.
 
 ---
 
