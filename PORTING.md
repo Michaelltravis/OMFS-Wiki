@@ -14,8 +14,8 @@ This library was rebuilt precisely because the first extraction failed this rule
 
 Summarizing is the natural default for any capable model told to "extract content into reusable blocks." It feels like the helpful thing to do. It is the failure mode. Two mechanisms prevent it, and **both must be carried over**:
 
-1. Rule 1 and Rule 3 of the builder prompt in §4 below, stated explicitly to every extraction agent.
-2. A separate judge pass (§5) that re-reads each block against its cited source paragraphs and fails anything that keeps the ideas but not the sentences. The judge must be a different agent instance from the builder, so it grades work it did not do.
+1. Rule 1 and Rule 3 of the builder prompt in §5 below, stated explicitly to every extraction agent.
+2. A separate judge pass (§6) that re-reads each block against its cited source paragraphs and fails anything that keeps the ideas but not the sentences. The judge must be a different agent instance from the builder, so it grades work it did not do.
 
 If you keep nothing else from this document, keep these two.
 
@@ -48,9 +48,47 @@ The layering matters. `verbatim/` is exact source text with no interpretation. `
 
 ---
 
-## 3. Current state and what remains
+## 3. Current state — extraction COMPLETE
 
-The bank holds 385 blocks. Hull and Santa Monica are complete and clean. Oklahoma City is partially built. Fulton County has barely started.
+**Status as of 2026-09-07: all four proposals are extracted, and the bank passes every gate.** The extraction was finished by a second system working from this document; the sections below record the verified result. Sections 4 through 8 remain the operating manual for the *next* proposal you ingest.
+
+| Metric | Result |
+|---|---|
+| Blocks | 542 across 7 categories |
+| Lint violations | **0** |
+| Index rows | 542, matching disk exactly |
+| Client-name leakage in narrative body text | **0** |
+| Verbatim-refs resolving | all |
+
+**Fidelity, measured by `work/map_blocks_to_pages.py` (shingle overlap against source pages):**
+
+| Class | Before the rebuild (155 blocks) | Now (542 blocks) |
+|---|---|---|
+| verbatim | 34% | **65.3%** |
+| partial | 46% | 28.1% |
+| recipe | 16% | 5.1% |
+| absent | 3% | 1.5% |
+
+Captured prose (verbatim + partial) went from 80% to **93.4%**, and the recipe tier — blocks that describe prose instead of containing it, the original failure — fell from 16% to 5%. This is the check that matters most; re-run it after any future extraction.
+
+### Defects found and fixed on 2026-09-07
+
+- **Two content-free blocks deleted.** `fulton-service-disabled-veterans-preference-response.md` existed in both `compliance-plans/` and `qualifications/`, with a Salesforce opportunity identifier (`0063F000009OMF7AAE`) as its entire body. It was built from Fulton page 187, a section divider that was on the skip list and whose only content is a heading plus that identifier. Both files were removed.
+- **Two blocks flagged as synthesis.** `sensor-dispersion-model-odor-early-warning-system.md` and `swip-predictive-maintenance-technologies.md` are labelled `block-type: prose` but measure ~0% and ~1% overlap with their sources — they restructure rather than reproduce. Both are pre-existing blocks from the original library that no range covered during the rebuild. Their `reuse-notes` now open with a SYNTHESIS, NOT SOURCE PROSE warning directing the writer to the verbatim-ref. Promote them to real prose in a future pass.
+
+### Known false positives in the leakage check
+
+These are proper names of third-party organizations, not references to a pursuit client. **Leave them as written**; a leakage grep will flag them every time.
+
+- `Senior Services North Fulton` — a senior-centre partner organization
+- `North Fulton Community Charities` — a food-security partner
+- `North Fulton Neighbor`, `North Fulton News (AJC)` — local newspapers
+
+## 4. Historical: what remained before completion
+
+*Superseded on 2026-09-07 — kept as a record of the handoff state. All of this work is now done; `work/fragments/ranges_REMAINING.json` is spent.*
+
+At handoff the bank held 385 blocks. Hull and Santa Monica were complete and clean; Oklahoma City was partially built; Fulton County had barely started.
 
 | Source proposal | Slug | Verbatim layer | Blocks | State |
 |---|---|---|---|---|
@@ -73,7 +111,7 @@ The two Fulton blocks are orphans from a range that was interrupted before it fi
 
 ---
 
-## 4. The builder prompt (port verbatim)
+## 5. The builder prompt (port verbatim)
 
 Give this to one agent per range, with the placeholders filled from that range's entry in `ranges_REMAINING.json`. A capable mid-tier model is sufficient; this is careful transcription, not creative writing. Do not batch multiple ranges into one agent, because fidelity decays with context length.
 
@@ -109,7 +147,7 @@ Append this to every builder prompt for these two sources. It is also stored in 
 
 ---
 
-## 5. The judge prompt (port verbatim)
+## 6. The judge prompt (port verbatim)
 
 Run after each range, as a **separate agent instance** from the builder. This is the guard against the failure described in §1.
 
@@ -131,7 +169,7 @@ Anything returning `paraphrase` or `missing-ref` goes back for a rewrite with th
 
 ---
 
-## 6. Acceptance gates
+## 7. Acceptance gates
 
 These are deterministic and portable. **If the output passes them, the work is good regardless of which system produced it.** Run all five from the Wiki root before declaring the extraction finished.
 
@@ -163,7 +201,7 @@ python work/coverage.py "raw/<file>.pdf" <slug>
 
 ---
 
-## 7. The portable toolkit
+## 8. The portable toolkit
 
 All 19 scripts use only standard library plus `python-docx`, `PyMuPDF` (`fitz`), `pypdf`, `pypdfium2` and `Pillow`. No dependency on any particular AI system.
 
@@ -184,9 +222,9 @@ All 19 scripts use only standard library plus `python-docx`, `PyMuPDF` (`fitz`),
 
 ---
 
-## 8. Ingesting a future proposal, end to end
+## 9. Ingesting a future proposal, end to end
 
-This is the flawless-repeatability path. `CLAUDE.md` §"Adding new content" is the authority; this is the operational sequence.
+This is the flawless-repeatability path. CLAUDE.md §"Adding new content" is the authority; this is the operational sequence.
 
 1. **Drop the PDF in `raw/`** and add a row to the source registry table in `CLAUDE.md` with a kebab-case slug.
 2. **Convert locally — no model reads pages that have a text layer.** Any pymupdf4llm-based converter produces page-markered markdown. Then:
@@ -197,15 +235,15 @@ This is the flawless-repeatability path. `CLAUDE.md` §"Adding new content" is t
    This step costs nothing and is exact. The 2026 pilot transcribed pages by vision *instead* of using the text layer, which is where fidelity leaked. Never do that when a text layer exists.
 3. **Repair what the gate flags.** Word recall below 0.99 or a missing run of 15+ words means the converter dropped or reordered something. Fix those pages against the 300-DPI render. For genuinely image-only pages, run two independent vision transcriptions and a third pass that reconciles them against the image; mark unreadable spans `[illegible]` and never guess. Record `method: vision` in the page frontmatter.
 4. **Build the section map.** One range per coherent section, twelve pages maximum. Skip blank pages, dividers, required forms, cost and fee pages, contract exceptions, vendor brochures, insurance certificates and license copies. Keep resumes and past-performance — they are verbatim categories and among the most reused content in the bank.
-5. **Run the builder and judge** from §4 and §5, one agent per range, judge as a separate instance.
+5. **Run the builder and judge** from §5 and §6, one agent per range, judge as a separate instance.
 6. **Increment the registries**, resolve duplicates, fold in tags, regenerate the index.
-7. **Pass all five gates** in §6, update the `README.md` status table, and commit.
+7. **Pass all five gates** in §7, update the `README.md` status table, and commit.
 
 ---
 
-## 9. Known state you should not mistake for a standard
+## 10. Known state you should not mistake for a standard
 
-- **44 lint violations** exist right now. They are unfinished cleanup on newly built blocks, not an accepted tolerance.
+- **Lint is at zero as of 2026-09-07.** If it is ever non-zero, that is unfinished cleanup, not an accepted tolerance.
 - **All 46 testimonials carry `permission: unknown`.** No client quote may be printed in a proposal until written consent is on file. The inventory records this deliberately.
 - **31 proof-point conflicts** are unresolved in the registry, each with competing values and a recommended lock. They need a human owner, not a model's judgment. Examples: corporate revenue stated three ways across sources; a compliance percentage stated as both 99.8% and 99.98%; a collection-system length stated as both 310 and 320 miles.
 - **`voice/exemplar/` is empty.** The voice guide was derived from the winning proposals themselves. If an exemplar of the target voice is supplied later, re-derive the guide with it as the primary authority.
@@ -214,6 +252,6 @@ This is the flawless-repeatability path. `CLAUDE.md` §"Adding new content" is t
 
 ---
 
-## 10. If you are also continuing the writing stage
+## 11. If you are also continuing the writing stage
 
 `HANDOFF-writing.md` in this directory covers that separately: what a pursuit spec sheet is, how a section gets drafted and validated, the model-cost profiles, and the items that remain human-owned. The short version: the pursuit spec sheet decides *what* goes in a section before any writing starts, the voice guide decides *how* it reads, and `work/validate_v2.py` plus `voice/metrics.py` are the gates. Placeholders and unverified tags never reach body text; they go to a companion notes file.

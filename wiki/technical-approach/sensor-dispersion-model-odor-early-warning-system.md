@@ -23,7 +23,7 @@ sanitization-loss: high
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: Compact, visual, easily-understood differentiator chaining real-time sensing to predictive dispersion modeling; strong for win-theme and technical-approach sections addressing community odor complaints near sensitive receptors.
-reuse-notes: The four-step chain (sensor -> process model -> dispersion model -> complaint warning) is a generic Jacobs capability pattern; confirm current instrumentation/software brand names (Sulfilogger, Sumo, AERMOD) are still the approved toolset before reuse, and tailor to whichever tools the pursuit team intends to actually deploy.
+reuse-notes: 'SYNTHESIS, NOT SOURCE PROSE: this body restructures the source rather than reproducing its sentences (measured verbatim overlap ~0%). Read the passage at the cited verbatim-ref before reusing, and prefer the source wording. The four-step chain (sensor -> process model -> dispersion model -> complaint warning) is a generic Jacobs capability pattern; confirm current instrumentation/software brand names (Sulfilogger, Sumo, AERMOD) are still the approved toolset before reuse, and tailor to whichever tools the pursuit team intends to actually deploy.'
 ---
 
 # Sensor-to-Dispersion-Model Odor Early Warning System

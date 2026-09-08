@@ -1,0 +1,14 @@
+[
+ {
+  "path": "wiki/technical-approach/sensor-dispersion-model-odor-early-warning-system.md",
+  "set": {
+   "reuse-notes": "SYNTHESIS, NOT SOURCE PROSE: this body restructures the source rather than reproducing its sentences (measured verbatim overlap ~0%). Read the passage at the cited verbatim-ref before reusing, and prefer the source wording. The four-step chain (sensor -> process model -> dispersion model -> complaint warning) is a generic Jacobs capability pattern; confirm current instrumentation/software brand names (Sulfilogger, Sumo, AERMOD) are still the approved toolset before reuse, and tailor to whichever tools the pursuit team intends to actually deploy."
+  }
+ },
+ {
+  "path": "wiki/technical-approach/swip-predictive-maintenance-technologies.md",
+  "set": {
+   "reuse-notes": "SYNTHESIS, NOT SOURCE PROSE: this body restructures the source rather than reproducing its sentences (measured verbatim overlap ~1%). Read the passage at the cited verbatim-ref before reusing, and prefer the source wording. Entirely facility-agnostic and reusable verbatim in any O&M pursuit that asks about predictive or reliability-centered maintenance. Add or drop technologies to match what the pursuit team will actually field on site (e.g., motor current signature analysis, partial discharge testing) and confirm which are delivered in-house versus by regional specialists."
+  }
+ }
+]

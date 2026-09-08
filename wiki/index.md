@@ -380,7 +380,6 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [JC Solutions JV O&M Resources — Maintenance, Compliance, Digital, Laboratory, and Energy](qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md) | roster | preferred | False | qualifications, staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 water reclamation facilities / 32 MGD MBR + 15 MGD MBR + 2.6 MGD / 28 wastewater + 5 potable-water pump stations | — | key-personnel, asset-management, maintenance-program, regulatory-compliance, cybersecurity, laboratory-services, energy-management, regional-support, jv-structure, table-layout |
 | [JC Solutions JV O&M Resources — Operations, Safety, Biosolids, Workforce, Procurement, and Administration](qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md) | roster | preferred | False | qualifications, staffing | wwtp-om, multi-facility, mbr-membrane, solids, jv-delivery | 3 water reclamation facilities / 32 MGD MBR + 15 MGD MBR + 2.6 MGD / 28 wastewater + 5 potable-water pump stations | — | key-personnel, operations-management, process-optimization, safety-program, instrumentation-controls, biosolids, recruiting-retention, succession-planning, procurement, regional-support, jv-structure, table-layout |
 | [Local Preference Supporting Documentation](qualifications/fulton-local-preference-supporting-documentation.md) | prose | preferred | False | qualifications, forms | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus pump stations | — | corporate-qualifications, local-presence, jv-structure, appendix |
-| [Service Disabled Veterans Preference Response Identifier](qualifications/fulton-service-disabled-veterans-preference-response.md) | exhibit | preferred | False | qualifications | jv-delivery | Three MBR water-reclamation facilities plus pump stations | — | corporate-qualifications, jv-structure |
 | [Maintenance and Asset Management Capability with Case Studies](qualifications/maintenance-and-asset-management-case-studies.md) | prose | preferred | True | qualifications, tech-approach | wwtp-om, multi-facility, solids | >110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE | — | maintenance-program, asset-management, predictive-maintenance, cmms, case-study, proof-point, capital-planning, scada, corporate-qualifications, nexgen-eam |
 | [Odor Control Capability and Case Studies](qualifications/odor-control-capability-and-case-studies.md) | prose | preferred | True | qualifications, tech-approach | wwtp-om, multi-facility, solids | >110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE | — | odor-control, corporate-qualifications, case-study, proof-point, sampling-monitoring, environmental-compliance, community-stewardship, key-personnel, capital-planning |
 | [Off-Site SME Support — Asset Management, Regional Maintenance, and Condition Assessment](qualifications/offsite-sme-support-asset-management-maintenance.md) | roster | preferred | False | staffing | wwtp-om, multi-facility, solids | 4 WWTPs / >110 MGD combined design capacity / 1 major pump station / 109 FTE | — | asset-management, cmms, maintenance-program, predictive-maintenance, reliability-engineering, key-personnel, regional-support, table-layout, more-than-an-operator, staffing-model |
@@ -433,7 +432,6 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | — | regulatory-compliance, compliance-reporting, quality-assurance, project-management, resilience-planning, digital-tools, jv-structure |
 | [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | — | sampling-monitoring, laboratory-services, data-analytics, compliance-reporting, quality-assurance, training-certification, jv-structure |
 | [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus pump stations | — | cybersecurity, resilience-planning, regulatory-compliance, safety-program, scada, jv-structure |
-| [Service Disabled Veterans Preference Response Identifier](compliance-plans/fulton-service-disabled-veterans-preference-response.md) | prose | fallback | False | compliance, forms | jv-delivery | County wastewater O&M pursuit | — | compliance-reporting, procurement |
 | [Spokane County Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-spokane-environmental-compliance-record.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | — | environmental-compliance, permit-compliance, compliance-reporting, proof-point, reference-projects, jv-structure |
 | [Traverse City Environmental Compliance Record — Five-Year Reference Disclosure](compliance-plans/fulton-traverse-city-environmental-compliance-record.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | — | environmental-compliance, permit-compliance, compliance-reporting, proof-point, reference-projects, jv-structure |
 | [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md) | prose | preferred | True | qualifications, compliance | wwtp-om, collections, multi-facility | 3.07 MGD / 42 mi / ~10k pop | 12 | safety-program, permit-compliance, environmental-compliance |
@@ -642,7 +640,6 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md)
 - [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md)
 - [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md)
-- [Service Disabled Veterans Preference Response Identifier](compliance-plans/fulton-service-disabled-veterans-preference-response.md)
 - [Spokane County Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-spokane-environmental-compliance-record.md)
 - [Traverse City Environmental Compliance Record — Five-Year Reference Disclosure](compliance-plans/fulton-traverse-city-environmental-compliance-record.md)
 - [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md)
@@ -786,7 +783,6 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 ### forms
 
 - [Local Preference Supporting Documentation](qualifications/fulton-local-preference-supporting-documentation.md)
-- [Service Disabled Veterans Preference Response Identifier](compliance-plans/fulton-service-disabled-veterans-preference-response.md)
 
 ### past-performance
 
@@ -881,7 +877,6 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [JC Solutions JV O&M Resources — Maintenance, Compliance, Digital, Laboratory, and Energy](qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md)
 - [JC Solutions JV O&M Resources — Operations, Safety, Biosolids, Workforce, Procurement, and Administration](qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md)
 - [Local Preference Supporting Documentation](qualifications/fulton-local-preference-supporting-documentation.md)
-- [Service Disabled Veterans Preference Response Identifier](qualifications/fulton-service-disabled-veterans-preference-response.md)
 - [Maintenance and Asset Management Capability with Case Studies](qualifications/maintenance-and-asset-management-case-studies.md)
 - [Odor Control Capability and Case Studies](qualifications/odor-control-capability-and-case-studies.md)
 - [Oklahoma Experience and Regional Resources](qualifications/oklahoma-experience-and-regional-resources.md)
@@ -1930,7 +1925,6 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md)
 - [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md)
 - [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md)
-- [Service Disabled Veterans Preference Response Identifier](compliance-plans/fulton-service-disabled-veterans-preference-response.md)
 - [Spokane County Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-spokane-environmental-compliance-record.md)
 - [Traverse City Environmental Compliance Record — Five-Year Reference Disclosure](compliance-plans/fulton-traverse-city-environmental-compliance-record.md)
 - [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md)
@@ -2866,7 +2860,6 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [JC Solutions JV Additional Management and Leadership](qualifications/fulton-jv-additional-management-and-leadership.md)
 - [JC Solutions JV Executive Sponsors and Senior Supervisors](qualifications/fulton-jv-executive-sponsors-and-senior-supervisors.md)
 - [Local Preference Supporting Documentation](qualifications/fulton-local-preference-supporting-documentation.md)
-- [Service Disabled Veterans Preference Response Identifier](qualifications/fulton-service-disabled-veterans-preference-response.md)
 - [Reach-Back Model — Regional and Technical O&M Support Network](qualifications/reach-back-model-and-regional-support.md)
 - [Representative Past-Performance Narrative Patterns](qualifications/representative-past-performance-narrative-patterns.md)
 - [Septage Receiving Program Experience](qualifications/septage-receiving-program-experience.md)
