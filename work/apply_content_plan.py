@@ -34,8 +34,26 @@ def mark_text(on: bool, mark: str) -> str:
     return {"lead": "☑ lead", "brief": "☑ brief"}.get(mark or "include", "☑")
 
 
-def row(n, topic, source, mark, note) -> str:
-    return f"| {n} | {topic} | {source} | {mark} | {note} |"
+def start_from_line(sf: dict | None) -> str:
+    if not sf or not (sf.get("source") or sf.get("section") or sf.get("note")):
+        return "**Start from:** —"
+    parts = []
+    if sf.get("source"):
+        head = sf["source"]
+        if sf.get("section"):
+            head += f" — {sf['section']}"
+            if sf.get("from") and sf.get("to"):
+                head += f", pages {sf['from']}–{sf['to']}"
+        parts.append(head)
+    elif sf.get("section"):
+        parts.append(sf["section"])
+    if sf.get("note", "").strip():
+        parts.append(sf["note"].strip())
+    return "**Start from:** " + " · ".join(parts)
+
+
+def row(n, topic, source, mark, pull, note) -> str:
+    return f"| {n} | {topic} | {source} | {mark} | {pull} | {note} |"
 
 
 def apply(md: str, sel: dict) -> tuple[str, dict]:
@@ -49,9 +67,9 @@ def apply(md: str, sel: dict) -> tuple[str, dict]:
         nonlocal pending_additional
         for a in pending_additional:
             if a.get("topic", "").strip():
-                out.append(row("+", a["topic"].strip(), "Pursuit-specific", mark_text(True, a.get("mark")), a.get("note", "").strip()))
+                out.append(row("+", a["topic"].strip(), "Pursuit-specific", mark_text(True, a.get("mark")), (a.get("pull") or "").strip(), a.get("note", "").strip()))
                 stats["additional"] += 1
-        out.append(row("—", "Additional topic", "", "☐", ""))
+        out.append(row("—", "Additional topic", "", "☐", "", ""))
         pending_additional = []
 
     lines = md.splitlines()
@@ -65,11 +83,23 @@ def apply(md: str, sel: dict) -> tuple[str, dict]:
             pending_additional = list(sec_sel.get("additional", []))
             out.append(l)
             continue
+        if sec_id and l.startswith("**Start from:**"):
+            if "startFrom" in sec_sel:
+                out.append(start_from_line(sec_sel["startFrom"]))
+                if sec_sel["startFrom"] and sec_sel["startFrom"].get("source"):
+                    stats["start_from"] = stats.get("start_from", 0) + 1
+            else:
+                out.append(l)
+            continue
         if sec_id and l.startswith("|"):
             c = [x.strip() for x in l.strip().strip("|").split("|")]
             if len(c) >= 5 and c[0] not in ("#",) and not set(c[0]) <= {"-", ":"}:
                 in_table = True
-                n, topic, source, mark, note = c[:5]
+                if len(c) >= 6:
+                    n, topic, source, mark, pull, note = c[:6]
+                else:
+                    n, topic, source, mark, note = c[:5]
+                    pull = ""
                 if n == "—":
                     continue  # blank rows are re-emitted by flush_additional
                 if n == "+" :
@@ -80,7 +110,10 @@ def apply(md: str, sel: dict) -> tuple[str, dict]:
                     if r is not None:
                         on = True if required else bool(r.get("on"))
                         new_note = (r.get("note") or "").strip() or ("required" if required else note)
-                        out.append(row(n, topic, source, mark_text(on, r.get("mark")), new_note))
+                        new_pull = (r.get("pull") or "").strip() or pull
+                        if new_pull:
+                            stats["pull_from"] = stats.get("pull_from", 0) + 1
+                        out.append(row(n, topic, source, mark_text(on, r.get("mark")), new_pull, new_note))
                         stats["ticked" if on else "unticked"] += 1
                         continue
             out.append(l)
@@ -110,7 +143,7 @@ def main() -> int:
     md = re.sub(r"^selected: .*\n", "", md, flags=re.M)
     text, stats = apply(md, sel)
     plan.write_text(text, encoding="utf-8")
-    print(f"Updated {plan}: {stats['ticked']} ticked, {stats['unticked']} unticked, {stats['additional']} pursuit-specific topics")
+    print(f"Updated {plan}: {stats['ticked']} ticked, {stats['unticked']} unticked, {stats['additional']} pursuit-specific topics, {stats.get('start_from', 0)} sections with a start-from source, {stats.get('pull_from', 0)} rows with a pull-from pointer")
     if a.docx:
         docx = plan.with_name("Content_Plan_SELECTED.docx")
         title = re.search(r"^# Content plan — (.*)$", text, re.M)

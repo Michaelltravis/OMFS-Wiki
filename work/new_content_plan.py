@@ -173,6 +173,8 @@ def build_plan(slug, name, directive, rfp, sections, weights, reqs_names, reqs_c
         "", "## How to use this sheet", "",
         "**Selection rule.** A ticked topic (☑) is drafted; an unticked topic (☐) is not. A ticked topic with a note gets that angle. RFP-required rows stay ticked. Add pursuit-specific topics in the *Additional topic* rows under any section. The spec sheet locks the numbers, proofs and references the ticked topics will use; this sheet only decides what is covered.",
         "", "**Marks.** `☑ lead` — the topic carries the section's opener or closer · `☑` — include · `☑ brief` — one paragraph or a table row at most · `☐` — leave out.",
+        "", "**Start from.** Each section can name a source proposal section (e.g. `hull-wwtf-om-2026 — Section 5 Technical Approach, pages 40–62`) that the writer reads first and adapts as the backbone of the draft, before searching the library for anything else. It is a starting point, not a copy: the client's outline still governs the structure. `—` means no steer; the writer selects from the library.",
+        "", "**Pull from.** Any row can point at a specific wiki block (`wiki/<category>/<block>.md`) or verbatim pages (`<slug> — <section>, pages a–b`) to use for that topic. It overrides the preferred block in the Source column. Blank means the writer uses the Source column's block, or searches the library.",
         "", f"**Sources.** RFP-required rows come from the Directive's PROPOSAL OUTLINE table and the requirement exports in `pursuits/{slug}/reqs/`. Jacobs-standard rows come from `templates/standard-topics.md`, each with its preferred wiki block.",
         "", "## Evaluation weights", "", "| Section | Weight |", "|---|---|",
     ]
@@ -202,19 +204,19 @@ def build_plan(slug, name, directive, rfp, sections, weights, reqs_names, reqs_c
         if fam == "fee":
             L += ["", "Prepared by the estimating team; not planned on this sheet."]
             continue
-        L += ["", "| # | Topic | Source | Include? | Notes / angle |", "|---|---|---|---|---|"]
+        L += ["", "**Start from:** —", "", "| # | Topic | Source | Include? | Pull from | Notes / angle |", "|---|---|---|---|---|---|"]
         n = 0
         for desc, req in sec["rows"]:
             n += 1
             topic = desc.split(" - ", 1)[1].strip() if " - " in desc else desc
             topic = topic[:1].upper() + topic[1:]
-            L.append(f"| {n} | {topic} | RFP — {trim(req)} | ☑ | required |")
+            L.append(f"| {n} | {topic} | RFP — {trim(req)} | ☑ | | required |")
         for group, rows in fams.get(fam, []):
-            L.append(f"| | **{group}** | Jacobs standard | | |")
+            L.append(f"| | **{group}** | Jacobs standard | | | |")
             for topic, blocks, why in rows:
                 n += 1
-                L.append(f"| {n} | {topic} | {blocks} | ☐ | {why} |")
-        L += ["| — | Additional topic | | ☐ | |"] * 3
+                L.append(f"| {n} | {topic} | {blocks} | ☐ | | {why} |")
+        L += ["| — | Additional topic | | ☐ | | |"] * 3
     return "\n".join(L) + "\n"
 
 
