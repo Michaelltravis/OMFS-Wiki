@@ -44,13 +44,21 @@ stories/catalog.md          House narratives (turnarounds, transitions, savings)
                             beat that makes each work, proof-point ids, best-for sections.
 vocabulary/tags.md          Controlled tag vocabulary (~120 tags) + tag-aliases.yaml.
 voice/                      Voice guide, scoring rubric, metrics.py, exemplar/.
-pursuits/<pursuit>/         Per-pursuit spec sheet (locked numbers, approved proofs,
+pursuits/<pursuit>/         Per-pursuit content plan (content-plan.md: the Directive
+                            outline in order, each section's RFP-required topics plus the
+                            Jacobs-standard topics from templates/standard-topics.md,
+                            ticked by the proposal manager) and spec sheet (locked numbers, approved proofs,
                             preferred references, stories, gap decisions, page/device
                             budgets, win-theme evidence map). Writers obey the spec sheet.
 work/                       Scripts: pdf_to_verbatim.py, coverage.py,
                             map_blocks_to_pages.py, regen_index.py, build_docx.py,
                             validate_v2.py.
 templates/content-block.md  Template for new content blocks (schema v2).
+templates/standard-topics.md  The topics Jacobs includes in every cover letter, exec
+                            summary, qualifications, staffing and approach section whether
+                            or not the RFP asks (3+ of 4 source proposals); one preferred
+                            block per topic. templates/content-plan.md shows the sheet shape;
+                            work/new_content_plan.py builds it from a Proposal Directive.
 ```
 
 ## Content block format
@@ -110,6 +118,7 @@ Everything else is kept:
 2. **This wiki:** the content supply — proven language, frameworks, tables, narratives, and graphics references.
 
 Drafting workflow (v2):
+0. **Build and approve the content plan** (`python work/new_content_plan.py <slug> --directive <Directive.docx> --docx`): sections in Proposal Directive order, cross-checked against the RFP's requirement exports; the proposal manager ticks the Jacobs-standard topics to include under each section and adds pursuit-specific ones. Ticked topics are the only ones the spec sheet plans for and the writers draft. The `content-plan` skill (`.claude/skills/content-plan/SKILL.md`, Sonnet) runs this end to end: scaffold → interactive checklist page (Artifact, `db` capability) for the proposal manager → selections written back → docx.
 1. **Start from the pursuit spec sheet** (`pursuits/<pursuit>/spec-sheet.md`, status `locked`): locked numbers, approved proof points, preferred references, ranked stories and "the closer", quotable inventory, gap decisions, page/device budget per section, win-theme evidence map. If no spec sheet exists, draft one and get it approved before writing sections.
 2. Build the section outline from the RFP's requirements and evaluation criteria (answer what is asked, in the order asked) — but headings carry an assertion, not the RFP label.
 3. Select blocks via the faceted `wiki/index.md` (rfp-section-type × pursuit-type × client-size); prefer `status: preferred`, `house-favorite: true`; read the **verbatim source** behind any block with `sanitization-loss: high`.
