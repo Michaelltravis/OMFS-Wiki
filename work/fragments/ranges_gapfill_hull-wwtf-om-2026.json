@@ -1,0 +1,370 @@
+{
+ "wiki": "C:\\Users\\micha\\Desktop\\Wiki",
+ "slug": "hull-wwtf-om-2026",
+ "clientNames": [
+  "Town of Hull",
+  "Hull",
+  "the Town",
+  "Town"
+ ],
+ "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP",
+ "ranges": [
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "POSITIONING HULL’S WASTEWATER PROGRAM FOR ITS NEXT PHASE + COORDINATED SYSTEM OPERATIONS AND DATA-DRIVEN PERFORMANCE",
+   "sectionId": "hull-wwtf-om-2026:02.positioning-hull-s-wastewater-program-for-its-next-phase",
+   "pages": [
+    5,
+    6
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/win-themes/differentiator-traditional-vs-enhanced-om-comparison.md",
+    "wiki/win-themes/exec-summary-client-readiness-framing.md",
+    "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+    "wiki/win-themes/value-proposition-table-approach-impact-value.md"
+   ],
+   "uncovered": [
+    {
+     "page": 5,
+     "para": 8,
+     "words": 166,
+     "kind": "table",
+     "first_words": "|THE JACOBS DIFFERENCE FOR THE T Leadership, technical depth, and disciplined operations",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0005.md#¶8"
+    },
+    {
+     "page": 6,
+     "para": 13,
+     "words": 32,
+     "kind": "table",
+     "first_words": "|FROM OPERATIONS TO OPTIMIZATION || |---|---| |TRADITIONAL O&M APPROACHJACOBS PERFORMANCE APPROA|CH| |Reactive",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0006.md#¶13"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:02.coordinated-system-operations-and-data-driven-performance",
+    "hull-wwtf-om-2026:02.positioning-hull-s-wastewater-program-for-its-next-phase"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "TRANSPARENT COMMUNICATIONS AND REPORTING",
+   "sectionId": "hull-wwtf-om-2026:05.transparent-communications-and-reporting",
+   "pages": [
+    27,
+    27
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/annual-innovation-workshop-program.md",
+    "wiki/technical-approach/tiered-communication-reporting-protocol.md"
+   ],
+   "uncovered": [
+    {
+     "page": 27,
+     "para": 9,
+     "words": 115,
+     "kind": "table",
+     "first_words": "|WHE|N|WHAT|WHO| |---|---|---|---| |Day-to-Day|Meetings andDiscussions|µOpen exchange of information to ensure transparency andcollaboration|µTown/Jacobs ProjectManagement",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0027.md#¶9"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:05.transparent-communications-and-reporting"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "OUR PHASED APPROACH TO SUSTAINABLE OPERATIONS",
+   "sectionId": "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations",
+   "pages": [
+    30,
+    30
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": [
+    "compliance",
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/compliance-plans/laboratory-management-data-integrity-program.md",
+    "wiki/compliance-plans/regulatory-compliance-reporting-dashboard.md",
+    "wiki/compliance-plans/six-point-compliance-program.md",
+    "wiki/technical-approach/phased-baseline-to-optimization-approach.md"
+   ],
+   "uncovered": [
+    {
+     "page": 30,
+     "para": 2,
+     "words": 148,
+     "kind": "table",
+     "first_words": "|Primary Clarifiers|Odor concerns;inconsistent use;mechanical deficiencies;risk of allowing high BODto secondary|µRehabilitate primary clarifiers(e.g.,",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0030.md#¶2"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "OPERATIONAL TECHNOLOGY (OT)/SCADA/ INTELLIGENT O&M",
+   "sectionId": "hull-wwtf-om-2026:05.operational-technology-ot-scada-intelligent-o-m",
+   "pages": [
+    39,
+    39
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/ot-scada-modernization-roadmap.md"
+   ],
+   "uncovered": [
+    {
+     "page": 39,
+     "para": 2,
+     "words": 273,
+     "kind": "table",
+     "first_words": "||PHASE 1: FOUNDATIONInventory and Modeling|PHASE 2: OPERATIONAL VISIBILITYMonitoring, Planning, andRefinement|PHASE 3: OPTIMIZATIONProcess",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0039.md#¶2"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:05.operational-technology-ot-scada-intelligent-o-m"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "TRANSITION PLAN",
+   "sectionId": "hull-wwtf-om-2026:05.transition-plan",
+   "pages": [
+    47,
+    47
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "transition"
+   ],
+   "existingBlocks": [
+    "wiki/compliance-plans/transition-due-diligence-governance-checklist.md",
+    "wiki/compliance-plans/transition-readiness-training-day-one-compliance.md",
+    "wiki/compliance-plans/transition-team-organization-roster.md",
+    "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md"
+   ],
+   "uncovered": [
+    {
+     "page": 47,
+     "para": 18,
+     "words": 66,
+     "kind": "table",
+     "first_words": "|REGIONAL AND TECHNICALSUPPORT TEAM LEADERJohn Rickermann, PE, CMRTREGIONAL HEALTH &SAFETYDave Haverly, CSPREGIONAL",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0047.md#¶18"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:05.transition-plan"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "Section 7 - Appendix B - Project Descriptions",
+   "sectionId": "hull-wwtf-om-2026:13",
+   "pages": [
+    76,
+    76
+   ],
+   "category": "past-performance",
+   "rfpSectionType": [
+    "past-performance"
+   ],
+   "existingBlocks": [
+    "wiki/past-performance/project-south-huron-mi.md",
+    "wiki/past-performance/project-southbridge-ma.md",
+    "wiki/past-performance/project-traverse-city-mi.md",
+    "wiki/past-performance/project-westerly-ri.md",
+    "wiki/win-themes/project-narrative-contract-transition-turnaround.md",
+    "wiki/win-themes/project-narrative-long-term-dbo-performance-excellence.md",
+    "wiki/win-themes/project-narrative-new-contract-mobilization-innovation.md",
+    "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md",
+    "wiki/win-themes/project-narrative-workforce-transition-biosolids-modernization.md"
+   ],
+   "uncovered": [
+    {
+     "page": 76,
+     "para": 7,
+     "words": 55,
+     "kind": "prose",
+     "first_words": "Treatment Systems and Processes. The system uses preliminary screening and grit removal",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶7"
+    },
+    {
+     "page": 76,
+     "para": 8,
+     "words": 44,
+     "kind": "prose",
+     "first_words": "Community Involvement. The Waterbury team decided to sponsor a newer program called",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶8"
+    },
+    {
+     "page": 76,
+     "para": 17,
+     "words": 61,
+     "kind": "prose",
+     "first_words": "Protection of the Naugatuck River is a key priority for our city.",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶17"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:13"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "Section 7 - Appendix C - Facilities Similar to the Town",
+   "sectionId": "hull-wwtf-om-2026:14",
+   "pages": [
+    82,
+    83
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "past-performance"
+   ],
+   "existingBlocks": [
+    "wiki/past-performance/similar-facilities-table.md",
+    "wiki/win-themes/similar-facilities-comparison-table-framing.md"
+   ],
+   "uncovered": [
+    {
+     "page": 82,
+     "para": 3,
+     "words": 296,
+     "kind": "table",
+     "first_words": "|City of Twin FallsCity of Twin Falls WWTP|ID|Duration:40 Years, 10 MonthsStart Date:5/1/1985|Anaerobic",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0082.md#¶3"
+    },
+    {
+     "page": 83,
+     "para": 2,
+     "words": 209,
+     "kind": "table",
+     "first_words": "|City of VancouverMarine Park WWTP|WA|Duration:10 Years, 7 MonthsStart Date:8/1/2015|Disinfection – UV; effluent",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0083.md#¶2"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:14"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "Section 7 - Appendix E - SmartCover Information",
+   "sectionId": "hull-wwtf-om-2026:16",
+   "pages": [
+    88,
+    88
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach",
+    "past-performance"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/smartcover-njaw-bound-brook-case-study.md",
+    "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md"
+   ],
+   "uncovered": [
+    {
+     "page": 88,
+     "para": 4,
+     "words": 103,
+     "kind": "prose",
+     "first_words": "[Full-page marketing flier on a dark blue background with a stylized world",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0088.md#¶4"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:16"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "STRENGTHEN UTILITY RESILIENCY",
+   "sectionId": "hull-wwtf-om-2026:16.strengthen-utility-resiliency",
+   "pages": [
+    90,
+    90
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [],
+   "uncovered": [
+    {
+     "page": 90,
+     "para": 2,
+     "words": 89,
+     "kind": "prose",
+     "first_words": "[Diagram: An integrated SmartCover system flow diagram. On the left, a manhole/wet-well",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0090.md#¶2"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:16.strengthen-utility-resiliency"
+   ]
+  },
+  {
+   "slug": "hull-wwtf-om-2026",
+   "name": "Section 7 - Appendix H - Contract Exceptions",
+   "sectionId": "hull-wwtf-om-2026:19",
+   "pages": [
+    102,
+    103
+   ],
+   "category": "qualifications",
+   "rfpSectionType": [
+    "qualifications"
+   ],
+   "existingBlocks": [],
+   "uncovered": [
+    {
+     "page": 102,
+     "para": 2,
+     "words": 29,
+     "kind": "prose",
+     "first_words": "Jacobs’ proposal pricing is made with the assumption that the following changes",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶2"
+    },
+    {
+     "page": 102,
+     "para": 4,
+     "words": 455,
+     "kind": "table",
+     "first_words": "|2.02, Changein Law|While Jacobs agrees that changes in tax lawas applicable to",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶4"
+    },
+    {
+     "page": 103,
+     "para": 2,
+     "words": 350,
+     "kind": "table",
+     "first_words": "|8.02|Jacobs can provide substantially similarinsurance to that requested in the draftAgreement and",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0103.md#¶2"
+    }
+   ],
+   "sectionIds": [
+    "hull-wwtf-om-2026:19"
+   ]
+  }
+ ]
+}

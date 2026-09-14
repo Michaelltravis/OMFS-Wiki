@@ -1,0 +1,179 @@
+# Uncovered paragraphs — ocwut-16-26
+
+substantive 1000 · covered 946 · partial 20 · uncovered 34 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 226)
+
+skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating 180, short 542
+
+## Cover Letter — uncovered 2, partial 0
+
+- p0004¶2 · uncovered 0% · 28 w · prose — May 6, 2026 Tasha DeWitt, Management Specialist – Procurement Services Oklahoma City…
+- p0005¶9 · uncovered 2% · 241 w · prose · best `wiki/management-staffing/ocwut-management-structure-and-team-familiarity.md` (2%) — 2011 2019 • Phased Security & 2025 2009 Business Process Response Planning…
+
+## INNOVATIONS & RECOMMENDED ALTERNATIVES — uncovered 0, partial 1
+
+- p0010¶11 · partial 39% · 92 w · table · best `wiki/win-themes/exec-summary-innovation-benefit-table.md` (39%) — |Alternative EscalationIndex Methodology|An estimated $620,000 in Base Fee savings over the firstcontract…
+
+## JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT — uncovered 0, partial 3
+
+- p0013¶2 · partial 32% · 34 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-regulatory-compliance-reuse-matrix.md` (32%) — Meet reuse quality/quantity Reuse customers depend on consistent effluent quality requirements for…
+- p0013¶3 · partial 47% · 86 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-odor-control-community-protection-matrix.md` (47%) — Minimize odors and meet Odor NC: Headworks access is currently limited by…
+- p0016¶2 · partial 48% · 459 w · table · best `wiki/technical-approach/ocwut-exhibit-1-1-staffing-performance-transition-matrix.md` (48%) — |Staffing Stability and Workforce D|evelopment|| |---|---|---| |Staff all facilities per Schedule10, including…
+
+## INNOVATION & 5 BEST PRACTICES — uncovered 1, partial 0
+
+- p0019¶35 · uncovered 10% · 129 w · prose · best `wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md` (10%) — & PERFORMANCEEMPOWERMENT 3 4 5 BEST PRACTICES ASSET PROTECTION Our people drive…
+
+## QA/QC Plan Development and Internal Audit Program — uncovered 0, partial 1
+
+- p0021¶6 · partial 21% · 26 w · prose · best `wiki/management-staffing/ocwut-qaqc-program-oversight-and-annual-quality-audit.md` (21%) — - STEP 1 • Audit team sends information request to Project Manager…
+
+## Community Engagement — uncovered 0, partial 1
+
+- p0025¶6 · partial 46% · 29 w · prose · best `wiki/management-staffing/ocwut-community-engagement-program-and-local-involvement.md` (46%) — - Championing environmental stewardship.We’ll join local environmental cleanup and stewardship efforts that…
+
+## PROCESS CONTROL STRATEGY — uncovered 0, partial 1
+
+- p0027¶4 · partial 46% · 378 w · table · best `wiki/technical-approach/facility-process-control-priority-matrix.md` (46%) — ||WHAT WE FOUND|WHAT WE’LL DO| |---|---|---| |TP|Poor air distribution across aeration basins;…
+
+## Three Customers, Three Facilities, One Standard — uncovered 1, partial 0
+
+- p0034¶14 · uncovered 19% · 115 w · table · best `wiki/compliance-plans/reuse-disinfection-challenge-comparison-table.md` (19%) — ||NORTH CANADIANOG&E RED BUD|DEER CREEKGAILLARDIA GOLF CLUB|SOUTH CANADIANOG&E MCCLAIN| |---|---|---|---| |CURRENT|Disinfection relies…
+
+## Getting Disinfection Right — Facility by Facility — uncovered 0, partial 1
+
+- p0035¶16 · partial 39% · 30 w · prose · best `wiki/compliance-plans/reuse-portfolio-proof-exhibit-callouts.md` (39%) — - • 20+ years of continuous compliance on the SoFi Stadium, and…
+
+## Operational Continuity and Contingencies So Reuse Stays Online — uncovered 0, partial 1
+
+- p0036¶1 · partial 39% · 94 w · prose · best `wiki/compliance-plans/regulatory-compliance-program-leadership-and-governance.md` (39%) — The QA/QC manager, reporting directly to the project manager as required by…
+
+## Process Control System Phased Performance Improvement Plan — uncovered 1, partial 0
+
+- p0045¶12 · uncovered 19% · 107 w · prose · best `wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md` (19%) — MAYO MILLER YASH TANNA O&M OT/ SCADA/OT CYBERSECURITY SME ENGINEERING SME Mayo…
+
+## OCWUT-MANAGED — uncovered 1, partial 0
+
+- p0046¶8 · uncovered 0% · 74 w · prose — WONDERWARE/AVEVA SOFTWARE PLC PROGRAMMING & CODING FIREWALLS & ACCESS CONTROLS FIELD INSTRUMENTATION,…
+
+## Rapid, Structured Response When It Matters Most — uncovered 1, partial 0
+
+- p0050¶9 · uncovered 14% · 53 w · prose · best `wiki/compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md` (14%) — We’ll prioritize JACOBS EMERGENCY REPORTING HOTLINE the safety of staff and the…
+
+## Collaboration on Opportunities for Phased Energy Optimization — uncovered 0, partial 1
+
+- p0053¶22 · partial 45% · 27 w · prose · best `wiki/technical-approach/phased-no-cost-low-cost-energy-optimization-opportunities.md` (45%) — µAeration system optimization— focusing on air delivery, distribution, and control strategies to…
+
+## Facility-by-Facility Maintenance Priorities — uncovered 0, partial 1
+
+- p0058¶5 · partial 36% · 270 w · table · best `wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md` (36%) — |NorthCanadianWWTP|Severe H₂S preventing PM access, chronic grit failurescascading to primaries and aeration,…
+
+## Asset Management Plans (AMPs) — uncovered 1, partial 0
+
+- p0059¶19 · uncovered 13% · 30 w · prose · best `wiki/technical-approach/asset-management-system-iso-55001-samp-governance.md` (13%) — - Provides approach to managing  Outlines long-term plan for the assets…
+
+## Section 3 | Experience and Qualifications of the Firm and Management Team — uncovered 1, partial 0
+
+- p0073¶5 · uncovered 17% · 129 w · prose · best `wiki/qualifications/corporate-fact-box-and-employer-culture.md` (17%) — More than 98% of our Technical Facilities, Cybersecurity work is repeat business.…
+
+## PUMP STATIONS — uncovered 2, partial 0
+
+- p0080¶10 · uncovered 3% · 157 w · table · best `wiki/qualifications/pump-station-om-experience-and-portfolio-table.md` (3%) — |Our team has extensiveexperience maintaining complexwastewater and potable wateri k lik h|Treatment…
+- p0080¶16 · uncovered 0% · 27 w · prose — 6+ YEARS 0 Kansas Water Environment DEFICIENCIES Association Without a Recordable Deficiencies…
+
+## EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM — uncovered 2, partial 0
+
+- p0081¶7 · uncovered 8% · 28 w · prose · best `wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md` (8%) — Independent oversight between Your single point of accountability. OCWUT and the PM,…
+- p0081¶9 · uncovered 0% · 153 w · prose — KEVIN DAHL, RICK WARNER, LUKE LENARD, RYAN JACOB CMRT, CRL PE, WEF…
+
+## CORPORATE SUPPORT TEAM — uncovered 0, partial 1
+
+- p0087¶15 · partial 48% · 78 w · prose · best `wiki/management-staffing/ocwut-corporate-support-team-profiles.md` (48%) — - Education: BS, Biology maintenance coordination, and capital work alongside daily plant…
+
+## OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST — uncovered 2, partial 0
+
+- p0088¶11 · uncovered 9% · 69 w · prose · best `wiki/management-staffing/ocwut-offsite-sme-support-resources.md` (9%) — ASSET MANAGEMENT/CMMS INTELLIGENT O&M Graham Knowles John Rickermann, PE, CMRT REGIONAL MAINTENANCE…
+- p0088¶12 · uncovered 2% · 79 w · prose · best `wiki/management-staffing/ocwut-offsite-sme-support-resources.md` (2%) — CMMS/NEXGEN COMMISSIONING Janeane Giarrusso, IA M Ashley Currey, PE BIOSOLIDS CAPITAL PROJECTS…
+
+## Durham, Tim — uncovered 0, partial 1
+
+- p0105¶3 · partial 45% · 34 w · prose · best `wiki/resumes/tim-durham.md` (45%) — - ☑ Deep wastewater operations and utility leadership experience. Tim brings 31…
+
+## Organization Structure and Leadership Team — uncovered 1, partial 1
+
+- p0129¶3 · partial 28% · 296 w · table · best `wiki/management-staffing/ocwut-key-personnel-requirements-matrix-table.md` (28%) — |Project DirectorSteve Carpenter|Executive oversight; direct access to Jacobs corporateresources; rapid obstacle removal…
+- p0130¶1 · uncovered 17% · 283 w · prose · best `wiki/management-staffing/ocwut-organization-chart-and-reporting-structure.md` (15%) — LEAD OPERATOR 1 FTE EQUIPMENT OPERATORS 2 FTE CDL DRIVERS 8 FTE…
+
+## Fewer Managers, More Doers — uncovered 0, partial 1
+
+- p0131¶8 · partial 47% · 64 w · table · best `wiki/management-staffing/ocwut-staffing-model-fewer-managers-more-doers.md` (47%) — |Salaried(Management)|19 FTE|13 FTE|Leaner leadership layer with six fewermid-level and above managers for…
+
+## Preventing Vacancies: Train to Retain — uncovered 1, partial 1
+
+- p0133¶15 · partial 27% · 26 w · prose · best `wiki/management-staffing/ocwut-vacancy-management-retention-and-staffing-resiliency.md` (27%) — - Certification incentives that cover exam fees and preparation costs and provide…
+- p0133¶20 · uncovered 0% · 27 w · prose — - Internal mobility including offering open positions first to qualified Jacobs O&M…
+
+## Cross-Training Program — uncovered 1, partial 0
+
+- p0134¶22 · uncovered 4% · 27 w · prose · best `wiki/management-staffing/ocwut-individualized-training-program-and-cross-training.md` (4%) — - Facility familiarizationacross North Canadian, Deer Creek, Chisholm Creek, and South Canadian…
+
+## Licensing, Certification, & Professional Development — uncovered 1, partial 0
+
+- p0135¶10 · uncovered 18% · 56 w · prose · best `wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md` (18%) — - Covering the cost of training, preparation, and exam fees - Potential…
+
+## Regional & SME Support — uncovered 1, partial 0
+
+- p0135¶17 · uncovered 15% · 88 w · prose · best `wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md` (15%) — - Regional operations support able to deploy on short notice for temporary…
+
+## Risk Management and Continuity of Operations — uncovered 0, partial 1
+
+- p0143¶7 · partial 39% · 239 w · table · best `wiki/compliance-plans/cip-integration-risk-and-continuity-controls.md` (39%) — ||Process disruption during tie-ins andsystem cutover|All CIP projects|MOPO planning developed jointly with…
+
+## Structured, Phased Transition with Clear Accountability — uncovered 0, partial 1
+
+- p0146¶7 · partial 35% · 46 w · prose · best `wiki/technical-approach/ocwut-transition-milestone-framework-and-checklist-exhibit.md` (26%) — - PRE-START ACTIVITIES — AWARD, AUG 18, 2026 - Activate Transition Leadership…
+
+## Risk-Based Transition Management — uncovered 0, partial 1
+
+- p0147¶3 · partial 34% · 371 w · table · best `wiki/technical-approach/ocwut-risk-based-transition-management.md` (34%) — |StaffingContinuity|Loss of institutional knowledge,certification gaps, orinsufficient coverage|Offer positions to qualified incumbent personnel,…
+
+## Workforce Transition, Staffing Readiness, and Retention — uncovered 1, partial 0
+
+- p0148¶3 · uncovered 0% · 33 w · prose — That approach has measurable results. As shown in Exhibit 5-14 , employees…
+
+## Continuity, Compliance, and Long-Term Partnership — uncovered 4, partial 0
+
+- p0151¶8 · uncovered 15% · 139 w · table · best `wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md` (15%) — |Proposed Oklahoma City|TASK|START|COMPLETION|AUG 2026|SEP 2026|OCT 2026|NOV 2026|DEC 2026|JAN 2027|FEB 2027| |---|---|---|---|---|---|---|---|---|---|---| |Transition…
+- p0153¶1 · uncovered 18% · 175 w · table · best `wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md` (18%) — |Proposed Oklahoma CityTransition Work Plan|TASKLEAD|STARTDATE|COMPLETIONDATE|AUG 20261234|SEP 20261234|OCT 2026NOV 2026DEC 2026123412341234|JAN 20271234|FEB 20271234|…
+- p0154¶1 · uncovered 13% · 181 w · table · best `wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md` (13%) — |Proposed Oklahoma CityTransition Work Plan|TASKLEAD|STARTDATE|COMPLETIONDATE|AUG 2026SEP 2026OCT 2026123412341234|NOV 20261234|DEC 20261234|JAN 20271234|FEB 20271234|…
+- p0155¶1 · uncovered 0% · 93 w · table — |Proposed Oklahoma City|TASK|START|COMPLETION|AUG 2026|SEP 2026|OCT 2026NOV 2026|DEC 2026JAN 2027|FEB 2027| |---|---|---|---|---|---|---|---|---| |������������������������������������������������������������������and…
+
+## Section 6 | Disclosures — uncovered 1, partial 0
+
+- p0160¶2 · uncovered 0% · 61 w · prose — In accordance with RFP Section 4.2.6 and the issued Questions and Answers,…
+
+## ENFORCEMENTS — uncovered 2, partial 0
+
+- p0160¶5 · uncovered 0% · 359 w · table — |Stephenville|TX|4/24/2024 Notice of Enforcement|TCEQ Cites NH3 violations from March-May 2022, other limits…
+- p0161¶1 · uncovered 0% · 174 w · table — |Hood River|OR9/25/2025 Notice of Civil PenaltyAssessment and Order|Effluent violations and monitoring requirements.|Resolved|…
+
+## AT-FAULT VIOLATION EVENTS — uncovered 2, partial 0
+
+- p0161¶4 · uncovered 0% · 444 w · table — |Clovis Project|8/23/2024|Permit limit excursion. Parameter pH. Limit type daily. Permitlimit 6.5 su,…
+- p0162¶2 · uncovered 0% · 699 w · table — |Walla WallaProject|10/25/2024|Disinfection excursion.|Sodium Hypochlorite feed tote was let run to empty.inadequate checks…
+
+## Bixby Water Reclamation Facility and Lift Stations O&M — uncovered 1, partial 0
+
+- p0165¶21 · uncovered 15% · 82 w · prose · best `wiki/past-performance/project-bixby-wrf-lift-stations-om.md` (11%) — 2.8 MGD (ultimate design: 5.0 MGD); 18 lift stations ###### OWNER INFORMATION…
+
+## Jackson Public Drinking Water and Wastewater Facilities O&M — uncovered 0, partial 1
+
+- p0167¶9 · partial 45% · 157 w · prose · best `wiki/past-performance/project-jackson-jxn-water-om.md` (45%) — Using our One Jacobs model, we deploy specialists across water treatment, infrastructure…
+
+## Additional Ideas for Discounted Engineering — uncovered 1, partial 0
+
+- p0179¶12 · uncovered 0% · 50 w · table — |EXAMPLESWORK DESCRIPTION|MULTIPLIER|AVERAGERAW RATE|BILLABLERATE|PROJECTEDWORK HOURS|PROJECTEDBUDGET|%SAVINGS|$SAVED| |---|---|---|---|---|---|---|---| |CIP Desin|2.6|$65.00|$169.00|2750|$464,750.00|13%|$71,500.00| |g|3|$65.00|$195.00|2750|$536,250.00||| |Wastewater Studies, AM Data…
+
+## Statutory Clauses — uncovered 2, partial 0
+
+- p0182¶2 · uncovered 0% · 35 w · prose — The following provisions are required and apply when public funds are expended…
+- p0183¶2 · uncovered 0% · 36 w · prose — Note: An authorized officer or agent of the Services Provider must sign…

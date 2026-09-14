@@ -1,0 +1,23 @@
+{
+  "_comment": "Page ranges (inclusive, PDF page numbers) that find_uncovered.py skips per source: cover/TOC, commercial sections, RFP forms and addenda, and out-of-scope appendices. Narrative appendices (resumes, project descriptions) stay in scope.",
+  "hull-wwtf-om-2026": {
+    "exclude": [[1, 2], [53, 68]],
+    "why": "cover+TOC; Section 6 required forms and Addenda 1-5 (pp. 53-68)"
+  },
+  "santamonica-swip-om-2025": {
+    "exclude": [[1, 3], [109, 119]],
+    "why": "cover+TOC; Section 5 pricing (pp. 109+)"
+  },
+  "ocwut-16-26": {
+    "exclude": [[1, 3], [70, 72]],
+    "why": "TOC; Section 2 cost proposal divider and pages (pp. 70-72)"
+  },
+  "fulton-county-2025": {
+    "exclude": [[1, 7], [187, 507]],
+    "why": "cover, TOC, wayfinding; appendices from p. 187 are out of scope (matches PAGE_CUTOFF in build_proof_point_registry.py) incl. Section 9 commercial"
+  },
+  "mmsd-om-2028": {
+    "exclude": [[1, 4], [42, 43]],
+    "why": "cover+TOC; Section III pricing (pp. 42-43)"
+  }
+}

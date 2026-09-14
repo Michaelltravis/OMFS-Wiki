@@ -1,0 +1,763 @@
+{
+ "wiki": "C:\\Users\\micha\\Desktop\\Wiki",
+ "slug": "ocwut-16-26",
+ "clientNames": [
+  "Oklahoma City Water Utilities Trust",
+  "City of Oklahoma City",
+  "Oklahoma City",
+  "OCWUT",
+  "OKC",
+  "the Trust",
+  "North Canadian Wastewater Treatment Plant",
+  "North Canadian WWTP",
+  "North Canadian",
+  "Deer Creek Wastewater Treatment Plant",
+  "Deer Creek WWTP",
+  "Deer Creek",
+  "South Canadian Wastewater Treatment Plant",
+  "South Canadian WWTP",
+  "South Canadian",
+  "Chisholm Creek Wastewater Treatment Plant",
+  "Chisholm Creek WWTP",
+  "Chisholm Creek",
+  "Witcher Pump Station",
+  "Witcher"
+ ],
+ "context": "Southcentral US water utility trust, four WWTPs >110 MGD + biosolids, 2026 challenger bid; ODEQ",
+ "ranges": [
+  {
+   "slug": "ocwut-16-26",
+   "name": "Cover Letter",
+   "sectionId": "ocwut-16-26:01",
+   "pages": [
+    4,
+    5
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/win-themes/cover-letter-day-one-priorities-value-bullets.md",
+    "wiki/win-themes/cover-letter-innovation-scale-and-ethics-differentiators.md",
+    "wiki/win-themes/cover-letter-named-leadership-and-contract-prerequisites-close.md",
+    "wiki/win-themes/cover-letter-utility-partnership-opening-and-system-challenges.md",
+    "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md"
+   ],
+   "uncovered": [
+    {
+     "page": 4,
+     "para": 2,
+     "words": 28,
+     "kind": "prose",
+     "first_words": "May 6, 2026 Tasha DeWitt, Management Specialist – Procurement Services Oklahoma City",
+     "ref": "verbatim/ocwut-16-26/pages/p0004.md#¶2"
+    },
+    {
+     "page": 5,
+     "para": 9,
+     "words": 241,
+     "kind": "prose",
+     "first_words": "2011 2019 • Phased Security & 2025 2009 Business Process Response Planning",
+     "ref": "verbatim/ocwut-16-26/pages/p0005.md#¶9"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:01"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "6 NEIGHBOR & COMMUNITY CARE",
+   "sectionId": "ocwut-16-26:04.6-neighbor-community-care",
+   "pages": [
+    19,
+    19
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/ocwut-annual-innovation-workshop-value-add.md",
+    "wiki/management-staffing/ocwut-communications-reporting-framework-table.md",
+    "wiki/management-staffing/ocwut-community-engagement-program-and-local-involvement.md",
+    "wiki/management-staffing/ocwut-integrated-management-systems-and-required-plans.md",
+    "wiki/management-staffing/ocwut-layered-performance-monitoring-and-corrective-action.md",
+    "wiki/management-staffing/ocwut-performance-dashboard-and-reporting-tools.md",
+    "wiki/management-staffing/ocwut-qaqc-program-oversight-and-annual-quality-audit.md",
+    "wiki/management-staffing/ocwut-reporting-and-communication-framework.md"
+   ],
+   "uncovered": [
+    {
+     "page": 19,
+     "para": 35,
+     "words": 129,
+     "kind": "prose",
+     "first_words": "& PERFORMANCEEMPOWERMENT 3 4 5 BEST PRACTICES ASSET PROTECTION Our people drive",
+     "ref": "verbatim/ocwut-16-26/pages/p0019.md#¶35"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:04.6-neighbor-community-care"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "REUSE WATER",
+   "sectionId": "ocwut-16-26:05.reuse-water",
+   "pages": [
+    34,
+    34
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": [
+    "compliance",
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/compliance-plans/reuse-disinfection-challenge-comparison-table.md",
+    "wiki/compliance-plans/reuse-disinfection-facility-by-facility-approach.md",
+    "wiki/compliance-plans/reuse-monitoring-distribution-integrity-and-continuity.md",
+    "wiki/compliance-plans/reuse-portfolio-proof-exhibit-callouts.md",
+    "wiki/compliance-plans/reuse-water-program-understanding-and-expertise.md"
+   ],
+   "uncovered": [
+    {
+     "page": 34,
+     "para": 14,
+     "words": 115,
+     "kind": "table",
+     "first_words": "||NORTH CANADIANOG&E RED BUD|DEER CREEKGAILLARDIA GOLF CLUB|SOUTH CANADIANOG&E MCCLAIN| |---|---|---|---| |CURRENT|Disinfection relies",
+     "ref": "verbatim/ocwut-16-26/pages/p0034.md#¶14"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:05.reuse-water"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "SCADA/OPERATIONAL TECHNOLOGY (OT)/ CYBERSECURITY",
+   "sectionId": "ocwut-16-26:05.scada-operational-technology-ot-cybersecurity",
+   "pages": [
+    45,
+    45
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": [
+    "compliance"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md",
+    "wiki/technical-approach/ocwut-owner-governed-scada-ot-support-approach.md",
+    "wiki/technical-approach/ocwut-process-control-phased-improvement-plan-phase-1-baseline.md",
+    "wiki/technical-approach/ocwut-scada-ot-cybersecurity-responsibility-split-exhibit.md"
+   ],
+   "uncovered": [
+    {
+     "page": 45,
+     "para": 12,
+     "words": 107,
+     "kind": "prose",
+     "first_words": "MAYO MILLER YASH TANNA O&M OT/ SCADA/OT CYBERSECURITY SME ENGINEERING SME Mayo",
+     "ref": "verbatim/ocwut-16-26/pages/p0045.md#¶12"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:05.scada-operational-technology-ot-cybersecurity"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "OCWUT-MANAGED",
+   "sectionId": "ocwut-16-26:05.ocwut-managed",
+   "pages": [
+    46,
+    46
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/ocwut-cip-integration-and-regional-ot-support.md",
+    "wiki/technical-approach/ocwut-operational-technology-cybersecurity-its-plan.md",
+    "wiki/technical-approach/ocwut-phase-3-automation-strategies-and-benefits-exhibit.md",
+    "wiki/technical-approach/ocwut-process-control-phase-2-scada-you-can-trust.md",
+    "wiki/technical-approach/ocwut-process-control-phase-3-automation-integration.md"
+   ],
+   "uncovered": [
+    {
+     "page": 46,
+     "para": 8,
+     "words": 74,
+     "kind": "prose",
+     "first_words": "WONDERWARE/AVEVA SOFTWARE PLC PROGRAMMING & CODING FIREWALLS & ACCESS CONTROLS FIELD INSTRUMENTATION,",
+     "ref": "verbatim/ocwut-16-26/pages/p0046.md#¶8"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:05.ocwut-managed"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "EMERGENCY OPERATING PLAN",
+   "sectionId": "ocwut-16-26:05.emergency-operating-plan",
+   "pages": [
+    50,
+    50
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": [
+    "compliance"
+   ],
+   "existingBlocks": [
+    "wiki/compliance-plans/ocwut-emergency-operating-plan-elements-matrix.md",
+    "wiki/compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md",
+    "wiki/compliance-plans/ocwut-staffing-resilience-regional-emergency-support.md"
+   ],
+   "uncovered": [
+    {
+     "page": 50,
+     "para": 9,
+     "words": 53,
+     "kind": "prose",
+     "first_words": "We’ll prioritize JACOBS EMERGENCY REPORTING HOTLINE the safety of staff and the",
+     "ref": "verbatim/ocwut-16-26/pages/p0050.md#¶9"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:05.emergency-operating-plan"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Asset Management Plans (AMPs)",
+   "sectionId": "ocwut-16-26:06.asset-management-plans-amps",
+   "pages": [
+    59,
+    59
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/maintenance-asset-management-sme-bench-roster.md",
+    "wiki/technical-approach/nexgen-eam-cmms-governance-and-implementation-continuity.md",
+    "wiki/technical-approach/work-order-lifecycle-process.md"
+   ],
+   "uncovered": [
+    {
+     "page": 59,
+     "para": 19,
+     "words": 30,
+     "kind": "prose",
+     "first_words": "- Provides approach to managing  Outlines long-term plan for the assets",
+     "ref": "verbatim/ocwut-16-26/pages/p0059.md#¶19"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:06.asset-management-plans-amps"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Section 3 | Experience and Qualifications of the Firm and Management Team + PUMP STATIONS",
+   "sectionId": "ocwut-16-26:08",
+   "pages": [
+    73,
+    80
+   ],
+   "category": "qualifications",
+   "rfpSectionType": [
+    "qualifications"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/ocwut-asset-laboratory-cip-manager-profiles.md",
+    "wiki/management-staffing/ocwut-corporate-support-team-profiles.md",
+    "wiki/management-staffing/ocwut-ic-technician-and-transition-manager-profiles.md",
+    "wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md",
+    "wiki/management-staffing/ocwut-management-structure-and-team-familiarity.md",
+    "wiki/management-staffing/ocwut-offsite-sme-support-resources.md",
+    "wiki/management-staffing/ocwut-operations-and-maintenance-manager-profiles.md",
+    "wiki/management-staffing/ocwut-project-leadership-triad-profiles.md",
+    "wiki/management-staffing/ocwut-qaqc-and-plant-operations-manager-profiles.md",
+    "wiki/qualifications/biosolids-land-application-capability-and-case-studies.md",
+    "wiki/qualifications/communications-and-transparency-partnership-record.md",
+    "wiki/qualifications/contract-compliance-record-and-audit-program.md",
+    "wiki/qualifications/corporate-fact-box-and-employer-culture.md",
+    "wiki/qualifications/engineering-sme-bench-cmms-biosolids-odor-control-reuse.md",
+    "wiki/qualifications/engineering-sme-bench-electrical-process-funding-regulatory-security.md",
+    "wiki/qualifications/engineering-sme-bench-wet-weather-scada-emergency-response-commissioning.md",
+    "wiki/qualifications/environmental-compliance-record-and-transparency-posture.md",
+    "wiki/qualifications/firm-qualifications-opener-and-corporate-scale.md",
+    "wiki/qualifications/full-om-service-portfolio-and-integrated-delivery-model.md",
+    "wiki/qualifications/maintenance-and-asset-management-case-studies.md",
+    "wiki/qualifications/odor-control-capability-and-case-studies.md",
+    "wiki/qualifications/offsite-sme-support-asset-management-maintenance.md",
+    "wiki/qualifications/offsite-sme-support-biosolids-operations.md",
+    "wiki/qualifications/offsite-sme-support-process-compliance-laboratory-energy-ot.md",
+    "wiki/qualifications/offsite-sme-support-safety-communications-hr-procurement-capital.md",
+    "wiki/qualifications/oklahoma-experience-and-regional-resources.md",
+    "wiki/qualifications/on-site-sodium-hypochlorite-generation-experience.md",
+    "wiki/qualifications/oshg-experience-examples-table.md",
+    "wiki/qualifications/pump-station-om-experience-and-portfolio-table.md",
+    "wiki/qualifications/septage-receiving-program-experience.md",
+    "wiki/qualifications/why-corporate-structure-matters-stability-comparison.md",
+    "wiki/resumes/alex-rodriguez.md",
+    "wiki/resumes/amy-dembinski.md",
+    "wiki/resumes/brian-daniels.md",
+    "wiki/resumes/david-pitocchelli.md",
+    "wiki/resumes/jose-ramos.md",
+    "wiki/resumes/josh-alleman.md",
+    "wiki/resumes/kelly-irving.md",
+    "wiki/resumes/paul-shropshire.md",
+    "wiki/resumes/robert-coons.md",
+    "wiki/resumes/roy-aristizabal.md",
+    "wiki/resumes/scott-golden.md",
+    "wiki/resumes/steve-carpenter.md",
+    "wiki/resumes/tanner-pipher.md",
+    "wiki/resumes/tim-durham.md"
+   ],
+   "uncovered": [
+    {
+     "page": 73,
+     "para": 5,
+     "words": 129,
+     "kind": "prose",
+     "first_words": "More than 98% of our Technical Facilities, Cybersecurity work is repeat business.",
+     "ref": "verbatim/ocwut-16-26/pages/p0073.md#¶5"
+    },
+    {
+     "page": 80,
+     "para": 10,
+     "words": 157,
+     "kind": "table",
+     "first_words": "|Our team has extensiveexperience maintaining complexwastewater and potable wateri k lik h|Treatment",
+     "ref": "verbatim/ocwut-16-26/pages/p0080.md#¶10"
+    },
+    {
+     "page": 80,
+     "para": 16,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "6+ YEARS 0 Kansas Water Environment DEFICIENCIES Association Without a Recordable Deficiencies",
+     "ref": "verbatim/ocwut-16-26/pages/p0080.md#¶16"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:08",
+    "ocwut-16-26:08.pump-stations"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM + OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST",
+   "sectionId": "ocwut-16-26:08.experience-and-qualifications-of-the-management-team",
+   "pages": [
+    81,
+    88
+   ],
+   "category": "qualifications",
+   "rfpSectionType": [
+    "qualifications"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md",
+    "wiki/management-staffing/ocwut-management-structure-and-team-familiarity.md",
+    "wiki/qualifications/offsite-sme-support-asset-management-maintenance.md",
+    "wiki/qualifications/offsite-sme-support-biosolids-operations.md",
+    "wiki/qualifications/offsite-sme-support-process-compliance-laboratory-energy-ot.md",
+    "wiki/qualifications/offsite-sme-support-safety-communications-hr-procurement-capital.md"
+   ],
+   "uncovered": [
+    {
+     "page": 81,
+     "para": 7,
+     "words": 28,
+     "kind": "prose",
+     "first_words": "Independent oversight between Your single point of accountability. OCWUT and the PM,",
+     "ref": "verbatim/ocwut-16-26/pages/p0081.md#¶7"
+    },
+    {
+     "page": 81,
+     "para": 9,
+     "words": 153,
+     "kind": "prose",
+     "first_words": "KEVIN DAHL, RICK WARNER, LUKE LENARD, RYAN JACOB CMRT, CRL PE, WEF",
+     "ref": "verbatim/ocwut-16-26/pages/p0081.md#¶9"
+    },
+    {
+     "page": 88,
+     "para": 11,
+     "words": 69,
+     "kind": "prose",
+     "first_words": "ASSET MANAGEMENT/CMMS INTELLIGENT O&M Graham Knowles John Rickermann, PE, CMRT REGIONAL MAINTENANCE",
+     "ref": "verbatim/ocwut-16-26/pages/p0088.md#¶11"
+    },
+    {
+     "page": 88,
+     "para": 12,
+     "words": 79,
+     "kind": "prose",
+     "first_words": "CMMS/NEXGEN COMMISSIONING Janeane Giarrusso, IA M Ashley Currey, PE BIOSOLIDS CAPITAL PROJECTS",
+     "ref": "verbatim/ocwut-16-26/pages/p0088.md#¶12"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:08.experience-and-qualifications-of-the-management-team",
+    "ocwut-16-26:08.oklahoma-city-the-oklahoma-city-water-utilities-trust"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Organization Structure and Leadership Team",
+   "sectionId": "ocwut-16-26:26.organization-structure-and-leadership-team",
+   "pages": [
+    130,
+    130
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "staffing"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/ocwut-key-personnel-requirements-matrix-table.md",
+    "wiki/management-staffing/ocwut-organization-chart-and-reporting-structure.md"
+   ],
+   "uncovered": [
+    {
+     "page": 130,
+     "para": 1,
+     "words": 283,
+     "kind": "prose",
+     "first_words": "LEAD OPERATOR 1 FTE EQUIPMENT OPERATORS 2 FTE CDL DRIVERS 8 FTE",
+     "ref": "verbatim/ocwut-16-26/pages/p0130.md#¶1"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:26.organization-structure-and-leadership-team"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Vacancy Management, Retention, and Staffing Resiliency",
+   "sectionId": "ocwut-16-26:26.vacancy-management-retention-and-staffing-resiliency",
+   "pages": [
+    133,
+    133
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "transition"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/ocwut-vacancy-management-retention-and-staffing-resiliency.md"
+   ],
+   "uncovered": [
+    {
+     "page": 133,
+     "para": 20,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "- Internal mobility including offering open positions first to qualified Jacobs O&M",
+     "ref": "verbatim/ocwut-16-26/pages/p0133.md#¶20"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:26.vacancy-management-retention-and-staffing-resiliency"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Individualized Training Program + Licensing, Certification, & Professional Development + Regional & SME Support",
+   "sectionId": "ocwut-16-26:26.individualized-training-program",
+   "pages": [
+    134,
+    135
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "staffing"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/ocwut-individualized-training-program-and-cross-training.md",
+    "wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md",
+    "wiki/management-staffing/ocwut-training-topics-by-role-table.md"
+   ],
+   "uncovered": [
+    {
+     "page": 134,
+     "para": 22,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "- Facility familiarizationacross North Canadian, Deer Creek, Chisholm Creek, and South Canadian",
+     "ref": "verbatim/ocwut-16-26/pages/p0134.md#¶22"
+    },
+    {
+     "page": 135,
+     "para": 10,
+     "words": 56,
+     "kind": "prose",
+     "first_words": "- Covering the cost of training, preparation, and exam fees - Potential",
+     "ref": "verbatim/ocwut-16-26/pages/p0135.md#¶10"
+    },
+    {
+     "page": 135,
+     "para": 17,
+     "words": 88,
+     "kind": "prose",
+     "first_words": "- Regional operations support able to deploy on short notice for temporary",
+     "ref": "verbatim/ocwut-16-26/pages/p0135.md#¶17"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:26.individualized-training-program",
+    "ocwut-16-26:26.licensing-certification-professional-development",
+    "ocwut-16-26:26.regional-sme-support"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Workforce Transition, Staffing Readiness, and Retention",
+   "sectionId": "ocwut-16-26:29.workforce-transition-staffing-readiness-and-retention",
+   "pages": [
+    148,
+    148
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "transition"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md"
+   ],
+   "uncovered": [
+    {
+     "page": 148,
+     "para": 3,
+     "words": 33,
+     "kind": "prose",
+     "first_words": "That approach has measurable results. As shown in Exhibit 5-14 , employees",
+     "ref": "verbatim/ocwut-16-26/pages/p0148.md#¶3"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:29.workforce-transition-staffing-readiness-and-retention"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Continuity, Compliance, and Long-Term Partnership",
+   "sectionId": "ocwut-16-26:29.continuity-compliance-and-long-term-partnership",
+   "pages": [
+    151,
+    155
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md"
+   ],
+   "uncovered": [
+    {
+     "page": 151,
+     "para": 8,
+     "words": 139,
+     "kind": "table",
+     "first_words": "|Proposed Oklahoma City|TASK|START|COMPLETION|AUG 2026|SEP 2026|OCT 2026|NOV 2026|DEC 2026|JAN 2027|FEB 2027| |---|---|---|---|---|---|---|---|---|---|---| |Transition",
+     "ref": "verbatim/ocwut-16-26/pages/p0151.md#¶8"
+    },
+    {
+     "page": 153,
+     "para": 1,
+     "words": 175,
+     "kind": "table",
+     "first_words": "|Proposed Oklahoma CityTransition Work Plan|TASKLEAD|STARTDATE|COMPLETIONDATE|AUG 20261234|SEP 20261234|OCT 2026NOV 2026DEC 2026123412341234|JAN 20271234|FEB 20271234|",
+     "ref": "verbatim/ocwut-16-26/pages/p0153.md#¶1"
+    },
+    {
+     "page": 154,
+     "para": 1,
+     "words": 181,
+     "kind": "table",
+     "first_words": "|Proposed Oklahoma CityTransition Work Plan|TASKLEAD|STARTDATE|COMPLETIONDATE|AUG 2026SEP 2026OCT 2026123412341234|NOV 20261234|DEC 20261234|JAN 20271234|FEB 20271234|",
+     "ref": "verbatim/ocwut-16-26/pages/p0154.md#¶1"
+    },
+    {
+     "page": 155,
+     "para": 1,
+     "words": 93,
+     "kind": "table",
+     "first_words": "|Proposed Oklahoma City|TASK|START|COMPLETION|AUG 2026|SEP 2026|OCT 2026NOV 2026|DEC 2026JAN 2027|FEB 2027| |---|---|---|---|---|---|---|---|---| |������������������������������������������������������������������and",
+     "ref": "verbatim/ocwut-16-26/pages/p0155.md#¶1"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:29.continuity-compliance-and-long-term-partnership"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Section 6 | Disclosures + ENFORCEMENTS + AT-FAULT VIOLATION EVENTS",
+   "sectionId": "ocwut-16-26:31",
+   "pages": [
+    160,
+    162
+   ],
+   "category": "qualifications",
+   "rfpSectionType": [
+    "qualifications"
+   ],
+   "existingBlocks": [],
+   "uncovered": [
+    {
+     "page": 160,
+     "para": 2,
+     "words": 61,
+     "kind": "prose",
+     "first_words": "In accordance with RFP Section 4.2.6 and the issued Questions and Answers,",
+     "ref": "verbatim/ocwut-16-26/pages/p0160.md#¶2"
+    },
+    {
+     "page": 160,
+     "para": 5,
+     "words": 359,
+     "kind": "table",
+     "first_words": "|Stephenville|TX|4/24/2024 Notice of Enforcement|TCEQ Cites NH3 violations from March-May 2022, other limits",
+     "ref": "verbatim/ocwut-16-26/pages/p0160.md#¶5"
+    },
+    {
+     "page": 161,
+     "para": 1,
+     "words": 174,
+     "kind": "table",
+     "first_words": "|Hood River|OR9/25/2025 Notice of Civil PenaltyAssessment and Order|Effluent violations and monitoring requirements.|Resolved|",
+     "ref": "verbatim/ocwut-16-26/pages/p0161.md#¶1"
+    },
+    {
+     "page": 161,
+     "para": 4,
+     "words": 444,
+     "kind": "table",
+     "first_words": "|Clovis Project|8/23/2024|Permit limit excursion. Parameter pH. Limit type daily. Permitlimit 6.5 su,",
+     "ref": "verbatim/ocwut-16-26/pages/p0161.md#¶4"
+    },
+    {
+     "page": 162,
+     "para": 2,
+     "words": 699,
+     "kind": "table",
+     "first_words": "|Walla WallaProject|10/25/2024|Disinfection excursion.|Sodium Hypochlorite feed tote was let run to empty.inadequate checks",
+     "ref": "verbatim/ocwut-16-26/pages/p0162.md#¶2"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:31",
+    "ocwut-16-26:31.at-fault-violation-events",
+    "ocwut-16-26:31.enforcements"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Bixby Water Reclamation Facility and Lift Stations O&M",
+   "sectionId": "ocwut-16-26:32.bixby-water-reclamation-facility-and-lift-stations-o-m",
+   "pages": [
+    165,
+    165
+   ],
+   "category": "past-performance",
+   "rfpSectionType": [
+    "past-performance"
+   ],
+   "existingBlocks": [
+    "wiki/past-performance/project-bixby-wrf-lift-stations-om.md",
+    "wiki/past-performance/project-bixby-wrf-lift-stations-results-and-partnership.md"
+   ],
+   "uncovered": [
+    {
+     "page": 165,
+     "para": 21,
+     "words": 82,
+     "kind": "prose",
+     "first_words": "2.8 MGD (ultimate design: 5.0 MGD); 18 lift stations ###### OWNER INFORMATION",
+     "ref": "verbatim/ocwut-16-26/pages/p0165.md#¶21"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:32.bixby-water-reclamation-facility-and-lift-stations-o-m"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Additional Ideas for Discounted Engineering",
+   "sectionId": "ocwut-16-26:33.additional-ideas-for-discounted-engineering",
+   "pages": [
+    179,
+    179
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/win-themes/discounted-engineering-savings-example-table.md",
+    "wiki/win-themes/innovative-financing-for-biosolids-management.md",
+    "wiki/win-themes/intelligent-om-chemical-energy-savings.md"
+   ],
+   "uncovered": [
+    {
+     "page": 179,
+     "para": 12,
+     "words": 50,
+     "kind": "table",
+     "first_words": "|EXAMPLESWORK DESCRIPTION|MULTIPLIER|AVERAGERAW RATE|BILLABLERATE|PROJECTEDWORK HOURS|PROJECTEDBUDGET|%SAVINGS|$SAVED| |---|---|---|---|---|---|---|---| |CIP Desin|2.6|$65.00|$169.00|2750|$464,750.00|13%|$71,500.00| |g|3|$65.00|$195.00|2750|$536,250.00||| |Wastewater Studies, AM Data",
+     "ref": "verbatim/ocwut-16-26/pages/p0179.md#¶12"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:33.additional-ideas-for-discounted-engineering"
+   ]
+  },
+  {
+   "slug": "ocwut-16-26",
+   "name": "Statutory Clauses",
+   "sectionId": "ocwut-16-26:34",
+   "pages": [
+    182,
+    183
+   ],
+   "category": "qualifications",
+   "rfpSectionType": [
+    "qualifications"
+   ],
+   "existingBlocks": [],
+   "uncovered": [
+    {
+     "page": 182,
+     "para": 2,
+     "words": 35,
+     "kind": "prose",
+     "first_words": "The following provisions are required and apply when public funds are expended",
+     "ref": "verbatim/ocwut-16-26/pages/p0182.md#¶2"
+    },
+    {
+     "page": 183,
+     "para": 2,
+     "words": 36,
+     "kind": "prose",
+     "first_words": "Note: An authorized officer or agent of the Services Provider must sign",
+     "ref": "verbatim/ocwut-16-26/pages/p0183.md#¶2"
+    }
+   ],
+   "sectionIds": [
+    "ocwut-16-26:34"
+   ]
+  }
+ ]
+}
