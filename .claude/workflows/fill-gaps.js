@@ -18,7 +18,8 @@ const context = args.context || ''
 const EXTRA = args.builderAddendum || ''
 const JUDGE_MODEL = args.judgeModel || 'fable'
 const PREFIX = args.filePrefix || ({ 'hull-wwtf-om-2026': 'hull', 'santamonica-swip-om-2025': 'swip', 'ocwut-16-26': 'ocwut', 'fulton-county-2025': 'fulton', 'mmsd-om-2028': 'mmsd' }[slug] || slug.split('-')[0])
-const TODAY = new Date().toISOString().slice(0, 10)
+// Date.now()/new Date() are unavailable in workflow scripts (they break resume); make_gap_ranges.py stamps args.today.
+const TODAY = args.today || 'unknown-date'
 
 const BUILD = { type:'object', properties:{
   range:{type:'string'}, files_created:{type:'array', items:{type:'string'}},

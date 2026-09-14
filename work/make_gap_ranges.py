@@ -151,8 +151,9 @@ def main():
         names += list(fac.get("names") or [])
     for prod in cfg.get("product_names") or []:
         names += list(prod.get("names") or [])
+    import datetime as _dt
     out = {"wiki": str(ROOT), "slug": slug, "clientNames": names, "context": CONTEXT.get(slug, slug),
-           "ranges": ranges}
+           "today": _dt.date.today().isoformat(), "ranges": ranges}
     frag = ROOT / "work" / "fragments"
     frag.mkdir(parents=True, exist_ok=True)
     p = frag / f"ranges_gapfill_{slug}.json"
