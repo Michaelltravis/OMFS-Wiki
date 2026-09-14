@@ -1,0 +1,392 @@
+[
+  {
+    "claim": "Only one blower at the primary water reclamation facility is currently equipped with a VFD, used primarily as the fast-start standby unit",
+    "number": "1",
+    "unit": "blower with VFD",
+    "as_of": "2028 proposal (RFP P-3216)",
+    "page": 62,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-aeration-energy-and-process-optimization.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Client has operated its solids processing and heat-dried biosolids product production systems effectively for almost a century, consistently meeting production and product-quality objectives",
+    "number": "~100",
+    "unit": "years of operation",
+    "as_of": "unknown",
+    "page": 63,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs led the design, construction, and startup of the drying and dewatering (D&D) facility in the early to mid-1980s",
+    "number": "1980s",
+    "unit": "decade of original design/construction/startup",
+    "as_of": "early to mid-1980s",
+    "page": 63,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs performed the evaluation and design of the replacement belt filter press at the D&D facility",
+    "number": "2015",
+    "unit": "year",
+    "as_of": "2015",
+    "page": 63,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
+    "category": "other"
+  },
+  {
+    "claim": "Four Jacobs staff involved with the original D&D project still work for the firm (Bill Desing, Dave Oerke, Dave Porter, Kile Snider)",
+    "number": "4",
+    "unit": "named staff",
+    "as_of": "2028 proposal",
+    "page": 63,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Current limit on the share of digested biosolids that can be blended into total dryer feed for the heat-dried biosolids product",
+    "number": "30-35",
+    "unit": "percent",
+    "as_of": "2028 proposal",
+    "page": 64,
+    "para": 2,
+    "block": "wiki/technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Energy required to produce the heat-dried biosolids product could be more than half of the client's total energy use",
+    "number": ">50",
+    "unit": "percent of client energy use",
+    "as_of": "2028 proposal",
+    "page": 64,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md",
+    "category": "scale"
+  },
+  {
+    "claim": "For every 1% increase in dryer cake feed solids, purchased natural gas savings estimated",
+    "number": "350000",
+    "unit": "USD per year per 1% cake solids increase",
+    "as_of": "2028 proposal, estimate",
+    "page": 64,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "David Oerke, PE, BCEE has evaluated/designed solids thickening and processing equipment for more than 120 municipalities nationwide",
+    "number": "120",
+    "unit": "municipalities",
+    "as_of": "2028 proposal",
+    "page": 64,
+    "para": 11,
+    "block": "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Drew Mearns, Biosolids O&M SME, experience in biosolids management nationwide",
+    "number": "30+",
+    "unit": "years",
+    "as_of": "2028 proposal",
+    "page": 64,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Client's 2035 Vision target of meeting its energy needs with renewable sources",
+    "number": "100",
+    "unit": "percent renewable energy",
+    "as_of": "2035 target",
+    "page": 66,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-energy-optimization-focus-area-and-dynamic-energy-balance.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Excess landfill gas beyond the turbines can be used in the dual-fuel dryer burners",
+    "number": "4",
+    "unit": "dual-fuel dryer burners",
+    "as_of": "2028 proposal",
+    "page": 66,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-landfill-gas-power-generation-and-waste-heat-strategy.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs' energy monitoring and optimization approach has provided energy savings at comparable large-scale utilities",
+    "number": "20",
+    "unit": "percent energy savings",
+    "as_of": "2028 proposal",
+    "page": 67,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Client's 2035 Vision target for renewable-energy use from internal sources",
+    "number": "80",
+    "unit": "percent renewable from internal sources",
+    "as_of": "2035 target",
+    "page": 67,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Client's 2035 Vision target for renewable energy from all sources",
+    "number": "100",
+    "unit": "percent renewable from all sources",
+    "as_of": "2035 target",
+    "page": 67,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs analysis shows energy demand can be managed more efficiently, improving demand-related charges at both plants",
+    "number": "up to 10",
+    "unit": "percent improvement in demand-related charges",
+    "as_of": "2028 proposal analysis",
+    "page": 67,
+    "para": 15,
+    "block": "wiki/technical-approach/mmsd-energy-demand-management-predictive-advisories.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Value of the demand-charge improvement across both plants",
+    "number": "up to 600000",
+    "unit": "USD per year",
+    "as_of": "2028 proposal analysis",
+    "page": 67,
+    "para": 15,
+    "block": "wiki/technical-approach/mmsd-energy-demand-management-predictive-advisories.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Predictive demand advisories could save hundreds of thousands of dollars each year and require no capital investment",
+    "number": "hundreds of thousands",
+    "unit": "USD per year",
+    "as_of": "2028 proposal",
+    "page": 67,
+    "para": 16,
+    "block": "wiki/technical-approach/mmsd-energy-demand-management-predictive-advisories.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Value of the West Basin Municipal Water District O&M contract for which Jacobs was selected",
+    "number": "25000000",
+    "unit": "USD per year",
+    "as_of": "quoted by client reference, 2028 proposal",
+    "page": 68,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Jacobs was approached by the University of Wisconsin-Madison College of Engineering to develop and deliver a course on data science and AI tools for water utility professionals",
+    "number": "20",
+    "unit": "hours of instruction",
+    "as_of": "classes begin June 2026",
+    "page": 68,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Active chemical optimization deployments of Jacobs' Intelligent O&M platform nationwide",
+    "number": "50+",
+    "unit": "active deployments",
+    "as_of": "2028 proposal",
+    "page": 68,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Intelligent O&M chemical optimization has delivered recurring cost savings for clients",
+    "number": "millions",
+    "unit": "USD in recurring savings",
+    "as_of": "2028 proposal",
+    "page": 68,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Total savings for the two sodium hypochlorite disinfection use cases (one per water reclamation facility) versus baseline at current chemical prices",
+    "number": "525000",
+    "unit": "USD per year or more",
+    "as_of": "2028 proposal, current chemical prices",
+    "page": 69,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Additional savings from predictive sodium bisulfite (dechlorination) dosage matching versus baseline at current chemical prices",
+    "number": "100000",
+    "unit": "USD per year",
+    "as_of": "2028 proposal, current chemical prices",
+    "page": 69,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Analysis window of laboratory and SCADA Historian records reviewed for hypochlorite savings",
+    "number": "2",
+    "unit": "years of records",
+    "as_of": "2028 proposal",
+    "page": 69,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "other"
+  },
+  {
+    "claim": "Sodium hypochlorite savings opportunity identified at the primary water reclamation facility",
+    "number": ">30",
+    "unit": "percent",
+    "as_of": "2028 proposal analysis",
+    "page": 69,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Sodium hypochlorite savings opportunity identified at the second water reclamation facility",
+    "number": "~20",
+    "unit": "percent",
+    "as_of": "2028 proposal analysis",
+    "page": 69,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Exhibit IV-21 shows sodium hypochlorite savings that could have been achieved over the historical period analyzed",
+    "number": "3",
+    "unit": "years",
+    "as_of": "2028 proposal",
+    "page": 69,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "other"
+  },
+  {
+    "claim": "Range of plant capacities where Jacobs has applied the predictive disinfection dosing use case",
+    "number": "5 to 340+",
+    "unit": "MGD",
+    "as_of": "2028 proposal",
+    "page": 69,
+    "para": 16,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Typical savings range for the predictive disinfection dosing use case across plants",
+    "number": "20-30",
+    "unit": "percent",
+    "as_of": "2028 proposal",
+    "page": 69,
+    "para": 16,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Chemical savings achieved at the West Basin, CA reuse facility after Jacobs assumed operations from another provider",
+    "number": ">40",
+    "unit": "percent",
+    "as_of": "recent, as stated in 2028 proposal",
+    "page": 69,
+    "para": 16,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Frequency of dosage recommendation notifications to the operations team",
+    "number": "3 to 8",
+    "unit": "notifications per day",
+    "as_of": "2028 proposal",
+    "page": 70,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "other"
+  },
+  {
+    "claim": "Savings included in pricing for the RAS chlorination (filament control) use case at current chemical prices",
+    "number": "~14",
+    "unit": "percent",
+    "as_of": "2028 proposal, current chemical prices",
+    "page": 70,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Savings included in pricing for the RAS chlorination (filament control) use case at current chemical prices",
+    "number": "60000",
+    "unit": "USD per year",
+    "as_of": "2028 proposal, current chemical prices",
+    "page": 70,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Operator acceptance rate of optimization push notifications at other facilities Jacobs operates",
+    "number": ">80",
+    "unit": "percent acceptance rate",
+    "as_of": "2028 proposal",
+    "page": 70,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Ferric chloride is currently injected at each of the lines feeding each bank of primary clarifiers",
+    "number": "48",
+    "unit": "inch diameter lines",
+    "as_of": "2028 proposal",
+    "page": 71,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Benefit of adding a second metal salt dosage point ahead of the secondary clarifiers: more efficient chemical phosphorus removal",
+    "number": "20",
+    "unit": "percent",
+    "as_of": "2028 proposal",
+    "page": 71,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Benefit of adding a second metal salt dosage point ahead of the secondary clarifiers: more efficient chemical phosphorus removal",
+    "number": "600000",
+    "unit": "USD per year",
+    "as_of": "2028 proposal",
+    "page": 71,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Conservative total of the priced chemical optimization use cases, with almost double described as a distinct possibility",
+    "number": ">1000000",
+    "unit": "USD per year",
+    "as_of": "2028 proposal",
+    "page": 71,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
+    "category": "outcome"
+  }
+]

@@ -13,7 +13,7 @@ client-size: "Three MBR facilities / 28 wastewater and 5 potable-water pump stat
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach]
 win-theme-map: [asset-management, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-1641, PP-1642, PP-1643]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -1,40 +1,778 @@
 [
-  {"path": "wiki/past-performance/project-westerly-ri.md", "set": {"story-ids": ["ST-0001", "ST-0002", "ST-0003"]}},
-  {"path": "wiki/win-themes/project-narrative-contract-transition-turnaround.md", "set": {"story-ids": ["ST-0001", "ST-0002", "ST-0003"]}},
-  {"path": "wiki/past-performance/client-references.md", "set": {"story-ids": ["ST-0001", "ST-0002", "ST-0005", "ST-0006", "ST-0007", "ST-0008", "ST-0009", "ST-0010", "ST-0011"]}},
-  {"path": "wiki/win-themes/proof-point-examples-coastal-complex-systems.md", "set": {"story-ids": ["ST-0004", "ST-0008"]}},
-  {"path": "wiki/past-performance/project-waterbury-ct.md", "set": {"story-ids": ["ST-0005"]}},
-  {"path": "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md", "set": {"story-ids": ["ST-0005"]}},
-  {"path": "wiki/past-performance/project-traverse-city-mi.md", "set": {"story-ids": ["ST-0006", "ST-0007"]}},
-  {"path": "wiki/win-themes/project-narrative-long-term-dbo-performance-excellence.md", "set": {"story-ids": ["ST-0006", "ST-0007"]}},
-  {"path": "wiki/win-themes/embedded-differentiator-case-study-callout.md", "set": {"story-ids": ["ST-0008"]}},
-  {"path": "wiki/technical-approach/site-specific-odor-control-program.md", "set": {"story-ids": ["ST-0008"]}},
-  {"path": "wiki/past-performance/project-southbridge-ma.md", "set": {"story-ids": ["ST-0008", "ST-0009"]}},
-  {"path": "wiki/win-themes/project-narrative-new-contract-mobilization-innovation.md", "set": {"story-ids": ["ST-0009"]}},
-  {"path": "wiki/past-performance/project-south-huron-mi.md", "set": {"story-ids": ["ST-0010", "ST-0011"]}},
-  {"path": "wiki/win-themes/project-narrative-workforce-transition-biosolids-modernization.md", "set": {"story-ids": ["ST-0010", "ST-0011"]}},
-  {"path": "wiki/win-themes/exec-summary-annual-innovation-workshop-partnership-narrative.md", "set": {"story-ids": ["ST-0012"]}},
-  {"path": "wiki/technical-approach/annual-innovation-workshop-program.md", "set": {"story-ids": ["ST-0012"]}},
-  {"path": "wiki/technical-approach/swip-annual-innovation-workshop.md", "set": {"story-ids": ["ST-0012"]}},
-  {"path": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md", "set": {"story-ids": ["ST-0012"]}},
-  {"path": "wiki/past-performance/edward-c-little-water-recycling-facility-om.md", "set": {"story-ids": ["ST-0013"]}},
-  {"path": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md", "set": {"story-ids": ["ST-0013"]}},
-  {"path": "wiki/past-performance/references-section-overview.md", "set": {"story-ids": ["ST-0013", "ST-0015", "ST-0016", "ST-0017"]}},
-  {"path": "wiki/technical-approach/collection-system-om-program.md", "set": {"story-ids": ["ST-0014", "ST-0020"]}},
-  {"path": "wiki/win-themes/embedded-client-testimonial-technical-narrative.md", "set": {"story-ids": ["ST-0014"]}},
-  {"path": "wiki/past-performance/turlock-zero-liquid-discharge-facility-om.md", "set": {"story-ids": ["ST-0015"]}},
-  {"path": "wiki/past-performance/clovis-wwtp-wrf-om.md", "set": {"story-ids": ["ST-0016"]}},
-  {"path": "wiki/past-performance/soquel-creek-advanced-water-purification-om.md", "set": {"story-ids": ["ST-0017"]}},
-  {"path": "wiki/technical-approach/swip-energy-chemical-efficiency-fleet-program.md", "set": {"story-ids": ["ST-0018", "ST-0019"]}},
-  {"path": "wiki/technical-approach/smartcover-njaw-bound-brook-case-study.md", "set": {"story-ids": ["ST-0020"]}},
-  {"path": "wiki/win-themes/value-added-no-cost-enhancements-framing.md", "set": {"story-ids": ["ST-0020"]}},
-  {"path": "wiki/technical-approach/swip-aquadna-deragger-technology.md", "set": {"story-ids": ["ST-0021"]}},
-  {"path": "wiki/technical-approach/swip-mbr-fouling-mitigation-case-study.md", "set": {"story-ids": ["ST-0022"]}},
-  {"path": "wiki/technical-approach/swip-replica-digital-twin-plant-digital-tools.md", "set": {"story-ids": ["ST-0023"]}},
-  {"path": "wiki/technical-approach/swip-regional-maintenance-team-capability-proof-points.md", "set": {"story-ids": ["ST-0024", "ST-0025", "ST-0026"]}},
-  {"path": "wiki/technical-approach/phased-baseline-to-optimization-approach.md", "set": {"story-ids": ["ST-0027"]}},
-  {"path": "wiki/win-themes/past-performance-narrative-structure.md", "set": {"story-ids": []}},
-  {"path": "wiki/win-themes/similar-facilities-comparison-table-framing.md", "set": {"story-ids": []}},
-  {"path": "wiki/technical-approach/sensor-dispersion-model-odor-early-warning-system.md", "set": {"story-ids": []}},
-  {"path": "wiki/technical-approach/value-added-innovations-menu-om-contracts.md", "set": {"story-ids": []}}
+ {
+  "path": "wiki/compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md",
+  "set": {
+   "story-ids": [
+    "ST-0031"
+   ]
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-emergency-response-regional-disaster-support.md",
+  "set": {
+   "story-ids": [
+    "ST-0049"
+   ]
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/ocwut-staffing-resilience-regional-emergency-support.md",
+  "set": {
+   "story-ids": [
+    "ST-0032"
+   ]
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/swip-emergency-response-regional-resources.md",
+  "set": {
+   "story-ids": [
+    "ST-0061",
+    "ST-0062"
+   ]
+  }
+ },
+ {
+  "path": "wiki/management-staffing/swip-staff-retention-and-six-step-transition-process.md",
+  "set": {
+   "story-ids": [
+    "ST-0048"
+   ]
+  }
+ },
+ {
+  "path": "wiki/management-staffing/swip-transition-plan-overview-and-track-record.md",
+  "set": {
+   "story-ids": [
+    "ST-0034",
+    "ST-0039"
+   ]
+  }
+ },
+ {
+  "path": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+  "set": {
+   "story-ids": [
+    "ST-0013",
+    "ST-0032",
+    "ST-0048"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/client-references.md",
+  "set": {
+   "story-ids": [
+    "ST-0001",
+    "ST-0002",
+    "ST-0005",
+    "ST-0006",
+    "ST-0007",
+    "ST-0008",
+    "ST-0009",
+    "ST-0010",
+    "ST-0011"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/clovis-wwtp-wrf-om.md",
+  "set": {
+   "story-ids": [
+    "ST-0016"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/edward-c-little-water-recycling-facility-om.md",
+  "set": {
+   "story-ids": [
+    "ST-0013"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-clovis-reuse-facility-overview.md",
+  "set": {
+   "story-ids": [
+    "ST-0016"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-clovis-reuse-facility-performance.md",
+  "set": {
+   "story-ids": [
+    "ST-0016"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-spokane-county-dbo-overview.md",
+  "set": {
+   "story-ids": [
+    "ST-0045"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-spokane-county-dbo-performance.md",
+  "set": {
+   "story-ids": [
+    "ST-0045"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-traverse-city-dbo-accomplishments.md",
+  "set": {
+   "story-ids": [
+    "ST-0006",
+    "ST-0007",
+    "ST-0047"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-traverse-city-dbo-overview.md",
+  "set": {
+   "story-ids": [
+    "ST-0006"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md",
+  "set": {
+   "story-ids": [
+    "ST-0053",
+    "ST-0060"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md",
+  "set": {
+   "story-ids": [
+    "ST-0041"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-bixby-wrf-lift-stations-om.md",
+  "set": {
+   "story-ids": [
+    "ST-0044"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-bixby-wrf-lift-stations-results-and-partnership.md",
+  "set": {
+   "story-ids": [
+    "ST-0044"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-jackson-jxn-water-om.md",
+  "set": {
+   "story-ids": [
+    "ST-0032"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-jackson-jxn-water-turnaround-results.md",
+  "set": {
+   "story-ids": [
+    "ST-0032"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-san-marcos-tx.md",
+  "set": {
+   "story-ids": [
+    "ST-0042",
+    "ST-0043"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-south-huron-mi.md",
+  "set": {
+   "story-ids": [
+    "ST-0010",
+    "ST-0011"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-southbridge-ma.md",
+  "set": {
+   "story-ids": [
+    "ST-0008",
+    "ST-0009"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-traverse-city-mi.md",
+  "set": {
+   "story-ids": [
+    "ST-0006",
+    "ST-0007"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+  "set": {
+   "story-ids": [
+    "ST-0034",
+    "ST-0035",
+    "ST-0036"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-waterbury-ct-odor-control-and-results.md",
+  "set": {
+   "story-ids": [
+    "ST-0005",
+    "ST-0028",
+    "ST-0029",
+    "ST-0030"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-waterbury-ct.md",
+  "set": {
+   "story-ids": [
+    "ST-0005"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/project-westerly-ri.md",
+  "set": {
+   "story-ids": [
+    "ST-0001",
+    "ST-0002",
+    "ST-0003"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/references-section-overview.md",
+  "set": {
+   "story-ids": [
+    "ST-0013",
+    "ST-0015",
+    "ST-0016",
+    "ST-0017"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/soquel-creek-advanced-water-purification-om.md",
+  "set": {
+   "story-ids": [
+    "ST-0017"
+   ]
+  }
+ },
+ {
+  "path": "wiki/past-performance/turlock-zero-liquid-discharge-facility-om.md",
+  "set": {
+   "story-ids": [
+    "ST-0015"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/annual-innovation-workshop-program.md",
+  "set": {
+   "story-ids": [
+    "ST-0012"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/collection-system-om-program.md",
+  "set": {
+   "story-ids": [
+    "ST-0014",
+    "ST-0020"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/energy-optimization-proven-results-comparable-facilities.md",
+  "set": {
+   "story-ids": [
+    "ST-0041",
+    "ST-0046"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-odor-control-scrubber-optimization.md",
+  "set": {
+   "story-ids": [
+    "ST-0055"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-successful-experience-multi-facility-mbr.md",
+  "set": {
+   "story-ids": [
+    "ST-0007",
+    "ST-0037"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-successful-experience-transition-asset-community.md",
+  "set": {
+   "story-ids": [
+    "ST-0005",
+    "ST-0029",
+    "ST-0034"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-transition-continuity-and-staff-transfer.md",
+  "set": {
+   "story-ids": [
+    "ST-0034",
+    "ST-0048"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md",
+  "set": {
+   "story-ids": [
+    "ST-0058"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-workforce-satisfaction-and-industry-recognition.md",
+  "set": {
+   "story-ids": [
+    "ST-0048"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md",
+  "set": {
+   "story-ids": [
+    "ST-0012"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
+  "set": {
+   "story-ids": [
+    "ST-0056"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
+  "set": {
+   "story-ids": [
+    "ST-0056"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
+  "set": {
+   "story-ids": [
+    "ST-0013",
+    "ST-0040",
+    "ST-0056"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+  "set": {
+   "story-ids": [
+    "ST-0040",
+    "ST-0056"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md",
+  "set": {
+   "story-ids": [
+    "ST-0050"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+  "set": {
+   "story-ids": [
+    "ST-0050"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
+  "set": {
+   "story-ids": [
+    "ST-0038"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/ocwut-transition-client-testimonials-proven-success.md",
+  "set": {
+   "story-ids": [
+    "ST-0013",
+    "ST-0032",
+    "ST-0039"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md",
+  "set": {
+   "story-ids": [
+    "ST-0013",
+    "ST-0032",
+    "ST-0048"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/ocwut-wwtf-odor-control-dispersion-modeling-and-equipment-restoration.md",
+  "set": {
+   "story-ids": [
+    "ST-0028",
+    "ST-0054"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/phased-baseline-to-optimization-approach.md",
+  "set": {
+   "story-ids": [
+    "ST-0027"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/sensor-dispersion-model-odor-early-warning-system.md",
+  "set": {
+   "story-ids": []
+  }
+ },
+ {
+  "path": "wiki/technical-approach/site-specific-odor-control-program.md",
+  "set": {
+   "story-ids": [
+    "ST-0008"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/smartcover-njaw-bound-brook-case-study.md",
+  "set": {
+   "story-ids": [
+    "ST-0020"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+  "set": {
+   "story-ids": [
+    "ST-0012"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/swip-aquadna-deragger-technology.md",
+  "set": {
+   "story-ids": [
+    "ST-0021"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/swip-energy-chemical-efficiency-fleet-program.md",
+  "set": {
+   "story-ids": [
+    "ST-0018",
+    "ST-0019"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/swip-mbr-fouling-mitigation-case-study.md",
+  "set": {
+   "story-ids": [
+    "ST-0022"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/swip-regional-maintenance-team-capability-proof-points.md",
+  "set": {
+   "story-ids": [
+    "ST-0024",
+    "ST-0025",
+    "ST-0026"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/swip-replica-digital-twin-plant-digital-tools.md",
+  "set": {
+   "story-ids": [
+    "ST-0023"
+   ]
+  }
+ },
+ {
+  "path": "wiki/technical-approach/value-added-innovations-menu-om-contracts.md",
+  "set": {
+   "story-ids": []
+  }
+ },
+ {
+  "path": "wiki/win-themes/embedded-client-testimonial-technical-narrative.md",
+  "set": {
+   "story-ids": [
+    "ST-0014"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/embedded-differentiator-case-study-callout.md",
+  "set": {
+   "story-ids": [
+    "ST-0008"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-annual-innovation-workshop-partnership-narrative.md",
+  "set": {
+   "story-ids": [
+    "ST-0012"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-comprehensive-jv-solution-benefits.md",
+  "set": {
+   "story-ids": [
+    "ST-0059"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-innovation-benefit-table.md",
+  "set": {
+   "story-ids": [
+    "ST-0036",
+    "ST-0037"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-site-verified-understanding-and-case-for-change.md",
+  "set": {
+   "story-ids": [
+    "ST-0054"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-technical-approach-pillars.md",
+  "set": {
+   "story-ids": [
+    "ST-0028"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-aquadna-smart-system-optimization.md",
+  "set": {
+   "story-ids": [
+    "ST-0021"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-maintenance-ai-assistant-palantir.md",
+  "set": {
+   "story-ids": [
+    "ST-0045"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-replica-digital-twin-optimization-training.md",
+  "set": {
+   "story-ids": [
+    "ST-0023"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/innovative-financing-for-biosolids-management.md",
+  "set": {
+   "story-ids": [
+    "ST-0057"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/intelligent-om-chemical-energy-savings.md",
+  "set": {
+   "story-ids": [
+    "ST-0036",
+    "ST-0037"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/mmsd-exec-summary-seamless-transition-and-workforce-continuity.md",
+  "set": {
+   "story-ids": [
+    "ST-0013",
+    "ST-0059"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/mmsd-exec-summary-wet-weather-and-optimization-savings.md",
+  "set": {
+   "story-ids": [
+    "ST-0037",
+    "ST-0040"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
+  "set": {
+   "story-ids": [
+    "ST-0032",
+    "ST-0033"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-san-marcos.md",
+  "set": {
+   "story-ids": [
+    "ST-0043"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-thames-tideway.md",
+  "set": {
+   "story-ids": [
+    "ST-0051"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-the-villages.md",
+  "set": {
+   "story-ids": [
+    "ST-0052"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/past-performance-narrative-structure.md",
+  "set": {
+   "story-ids": []
+  }
+ },
+ {
+  "path": "wiki/win-themes/project-narrative-contract-transition-turnaround.md",
+  "set": {
+   "story-ids": [
+    "ST-0001",
+    "ST-0002",
+    "ST-0003"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/project-narrative-long-term-dbo-performance-excellence.md",
+  "set": {
+   "story-ids": [
+    "ST-0006",
+    "ST-0007"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/project-narrative-new-contract-mobilization-innovation.md",
+  "set": {
+   "story-ids": [
+    "ST-0009"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md",
+  "set": {
+   "story-ids": [
+    "ST-0005"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/project-narrative-workforce-transition-biosolids-modernization.md",
+  "set": {
+   "story-ids": [
+    "ST-0010",
+    "ST-0011"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/proof-point-examples-coastal-complex-systems.md",
+  "set": {
+   "story-ids": [
+    "ST-0004",
+    "ST-0008"
+   ]
+  }
+ },
+ {
+  "path": "wiki/win-themes/similar-facilities-comparison-table-framing.md",
+  "set": {
+   "story-ids": []
+  }
+ },
+ {
+  "path": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+  "set": {
+   "story-ids": [
+    "ST-0020"
+   ]
+  }
+ }
 ]

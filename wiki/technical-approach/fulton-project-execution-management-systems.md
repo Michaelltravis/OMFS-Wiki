@@ -13,7 +13,7 @@ client-size: "Three water reclamation facilities and 33 pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach, compliance]
 win-theme-map: [partner-transparency, compliance-leadership, asset-management, safety-culture, community-engagement]
-proof-point-ids: []
+proof-point-ids: [PP-1635]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+supersedes: wiki/technical-approach/om-management-systems-framework.md
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM joint venture; multi-facility MBR operations under GA EPD oversight."
 quality: "Near-verbatim management-system framework that connects project administration to operating, compliance, safety, and community functions."
 reuse-notes: "Tailor the market-position claim and the client/facility descriptors. Retain the JC Solutions/Jacobs/CERM JV framing when the combined-delivery model is proposed."

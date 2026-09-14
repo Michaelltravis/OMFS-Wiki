@@ -13,9 +13,9 @@ client-size: "9 MGD WWTP / 5.4 MGD average / 18 MGD peak"
 geography: "Southcentral / TX / TCEQ"
 rfp-section-type: [past-performance]
 win-theme-map: [compliance-leadership, odor-control, cost-savings, partnership, workforce-continuity, asset-management]
-proof-point-ids: []
+proof-point-ids: [PP-1401, PP-1402, PP-1403, PP-1404, PP-1405]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0042, ST-0043]
 status: preferred
 house-favorite: false
 sanitized: false

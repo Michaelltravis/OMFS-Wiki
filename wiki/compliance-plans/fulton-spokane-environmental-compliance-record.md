@@ -13,7 +13,7 @@ client-size: "Three WRFs and 33 pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [compliance]
 win-theme-map: [compliance-leadership, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-1894, PP-1895, PP-1896, PP-1897, PP-1898, PP-1899, PP-1900]
 testimonial-ids: []
 story-ids: []
 status: preferred

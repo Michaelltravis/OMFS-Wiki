@@ -1,0 +1,222 @@
+[
+  {
+    "claim": "Jacobs discounts health care premiums offered to union employees and pays 80% of the cost of premiums",
+    "number": "80",
+    "unit": "percent of premium cost paid by employer",
+    "as_of": "2026-09-05",
+    "page": 24,
+    "para": 13,
+    "block": "wiki/management-staffing/mmsd-standard-employee-benefits-union-and-nonunion.md",
+    "category": "other"
+  },
+  {
+    "claim": "Benefits information is updated at least annually",
+    "number": "1",
+    "unit": "update per year (minimum)",
+    "as_of": "2026-09-05",
+    "page": 24,
+    "para": 24,
+    "block": "wiki/management-staffing/mmsd-standard-employee-benefits-union-and-nonunion.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Proactive, reliability-centered maintenance program aligns with the client's 85% PM / 15% CM goal",
+    "number": "85/15",
+    "unit": "percent preventive maintenance / percent corrective maintenance",
+    "as_of": "2026-09-05",
+    "page": 24,
+    "para": 27,
+    "block": "wiki/management-staffing/mmsd-pm-cm-maintenance-staffing-model.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Asset management framework is aligned to ISO 55001",
+    "number": "55001",
+    "unit": "ISO standard",
+    "as_of": "2026-09-05",
+    "page": 24,
+    "para": 27,
+    "block": "wiki/management-staffing/mmsd-pm-cm-maintenance-staffing-model.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs will provide the maintenance staff required in the RFP's Exhibit E Minimum Staffing Plan",
+    "number": "79",
+    "unit": "maintenance staff positions",
+    "as_of": "2026-09-05",
+    "page": 24,
+    "para": 29,
+    "block": "wiki/management-staffing/mmsd-pm-cm-maintenance-staffing-model.md",
+    "category": "scale"
+  },
+  {
+    "claim": "An added Director of Asset Management role is proposed to exceed the client's PM/CM ratio target",
+    "number": "85/15",
+    "unit": "percent preventive maintenance / percent corrective maintenance target to be exceeded",
+    "as_of": "2026-09-05",
+    "page": 24,
+    "para": 29,
+    "block": "wiki/management-staffing/mmsd-pm-cm-maintenance-staffing-model.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "A part-time Director of Maintenance & Asset Management takes on governance, KPI management, PM optimization, RCA and CMMS data standards so onsite managers can focus on exceeding the PM/CM target",
+    "number": "85/15",
+    "unit": "percent preventive maintenance / percent corrective maintenance target",
+    "as_of": "2026-09-05",
+    "page": 25,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-integrated-asset-management-and-maintenance-support.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Procurement and warehouse staff track long-lead items against a rolling look-ahead schedule",
+    "number": "4 to 6",
+    "unit": "week look-ahead planning window",
+    "as_of": "2026-09-05",
+    "page": 25,
+    "para": 30,
+    "block": "wiki/management-staffing/mmsd-pm-cm-maintenance-staffing-model.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Planners manage a rolling planning cycle that locks in craft hours, access windows, and outage coordination",
+    "number": "4 to 6",
+    "unit": "week rolling planning cycle",
+    "as_of": "2026-09-05",
+    "page": 26,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-pm-cm-schedule-discipline-and-pdm-integration.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Corrective maintenance is classified and managed under the contract's two-tier model",
+    "number": "2",
+    "unit": "CM classification levels (Level A/B)",
+    "as_of": "2026-09-05",
+    "page": 26,
+    "para": 10,
+    "block": "wiki/management-staffing/mmsd-pm-cm-schedule-discipline-and-pdm-integration.md",
+    "category": "other"
+  },
+  {
+    "claim": "Experts will optimize the client's desired Level 3 predictive maintenance additive elements",
+    "number": "3",
+    "unit": "PdM maturity level",
+    "as_of": "2026-09-05",
+    "page": 26,
+    "para": 13,
+    "block": "wiki/management-staffing/mmsd-pm-cm-schedule-discipline-and-pdm-integration.md",
+    "category": "other"
+  },
+  {
+    "claim": "Local strategic partner firms named in Exhibit II-10 as proposed subcontractors for the contract",
+    "number": "4",
+    "unit": "partner firms listed (PRISM/P3 Development Group, Mead and Hunt, Wimmer and Co., M&M Environmental and Education Services)",
+    "as_of": "2026-09-05",
+    "page": 26,
+    "para": 17,
+    "block": "wiki/management-staffing/mmsd-local-subcontractor-partners-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Subcontractor assessment process requires documentation of safety performance, financial strength, resources, and capability",
+    "number": "5",
+    "unit": "step assessment process",
+    "as_of": "2026-09-05",
+    "page": 26,
+    "para": 20,
+    "block": "wiki/management-staffing/mmsd-subcontractor-selection-and-management-process.md",
+    "category": "other"
+  },
+  {
+    "claim": "Subcontractor utilization, cost, and safety performance reporting cadence provided to the client",
+    "number": "monthly, quarterly, annual",
+    "unit": "reporting cadence (monthly and quarterly updates plus an annual summary)",
+    "as_of": "2026-09-05",
+    "page": 27,
+    "para": 18,
+    "block": "wiki/management-staffing/mmsd-subcontractor-strategy-and-local-business-capacity.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "A Pre-Award Outreach Event was held in the regional office to begin engaging local small businesses",
+    "number": "1",
+    "unit": "pre-award outreach event, September 2025",
+    "as_of": "2025-09",
+    "page": 27,
+    "para": 18,
+    "block": "wiki/management-staffing/mmsd-subcontractor-strategy-and-local-business-capacity.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Jacobs plans to exceed the contractual requirement for technical training per employee per year",
+    "number": "24",
+    "unit": "hours of technical training per employee per year (contractual minimum, to be exceeded)",
+    "as_of": "2026-09-05",
+    "page": 27,
+    "para": 24,
+    "block": "wiki/management-staffing/mmsd-technical-training-program-and-framework.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "The training program comprises integrated components sustaining safety, technical excellence, and continuous learning",
+    "number": "5",
+    "unit": "integrated training framework components",
+    "as_of": "2026-09-05",
+    "page": 28,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-technical-training-program-and-framework.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs' technical training resources are supported by a global network of certified instructors and SMEs across operations, maintenance, laboratory, and asset management disciplines",
+    "number": "more than 100",
+    "unit": "certified instructors and SMEs",
+    "as_of": "2026-09-05",
+    "page": 28,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-technical-training-program-and-framework.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Training sessions delivered annually across Jacobs' O&M portfolio",
+    "number": "more than 200",
+    "unit": "live and virtual sessions per year",
+    "as_of": "2026-09-05",
+    "page": 28,
+    "para": 23,
+    "block": "wiki/management-staffing/mmsd-leadership-development-cross-training-and-mentoring.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Frontline Fundamentals is a key component of the Leadership and Professional Development Program course lineup",
+    "number": "2026",
+    "unit": "course-lineup year",
+    "as_of": "2026",
+    "page": 28,
+    "para": 32,
+    "block": "wiki/management-staffing/mmsd-leadership-development-cross-training-and-mentoring.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Health and safety training covers Arc Flash and NFPA 70E among essential topics",
+    "number": "70E",
+    "unit": "NFPA standard",
+    "as_of": "2026-09-05",
+    "page": 28,
+    "para": 13,
+    "block": "wiki/management-staffing/mmsd-technical-training-program-and-framework.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Reports to the client summarize training hours completed, certification status, and correlation to operational KPIs",
+    "number": "quarterly",
+    "unit": "reporting cadence",
+    "as_of": "2026-09-05",
+    "page": 28,
+    "para": 14,
+    "block": "wiki/management-staffing/mmsd-technical-training-program-and-framework.md",
+    "category": "compliance"
+  }
+]

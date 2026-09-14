@@ -13,8 +13,8 @@ client-size: "Three MBR wastewater facilities / 33 pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [resume]
 win-theme-map: [compliance-leadership, safety-culture, workforce-continuity]
-proof-point-ids: []
-testimonial-ids: []
+proof-point-ids: [PP-1787, PP-1788, PP-1803, PP-1808]
+testimonial-ids: [TM-0022, TM-0055]
 story-ids: []
 status: preferred
 house-favorite: false

@@ -1,0 +1,142 @@
+[
+  {
+    "claim": "Aligning the client's insurance exhibit and limitation of liability with the Jacobs corporate program, rather than procuring project-specific insurance, reduces the annual price to the client",
+    "number": "1143000",
+    "unit": "USD per year (annual price reduction)",
+    "as_of": "2028 proposal",
+    "page": 145,
+    "para": 5,
+    "block": "wiki/qualifications/mmsd-exceptions-and-proposed-contract-alternatives-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Replacing the CPI - All Items Index with the CPI-Water and Sewerage Maintenance Index in the BCBI reduces the contingency carried in the Base Fee, lowering the annual price to the client",
+    "number": "682000",
+    "unit": "USD per year (annual price reduction)",
+    "as_of": "2028 proposal",
+    "page": 145,
+    "para": 5,
+    "block": "wiki/qualifications/mmsd-exceptions-and-proposed-contract-alternatives-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Certificates of insurance will provide prior written notice to the client before cancellation, non-renewal, or reduction of limits below those required",
+    "number": "30",
+    "unit": "days prior written notice",
+    "as_of": "2028 proposal",
+    "page": 146,
+    "para": 5,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-general-provisions.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Prior written notice period for cancellation due to non-payment of premium",
+    "number": "10",
+    "unit": "days prior written notice",
+    "as_of": "2028 proposal",
+    "page": 146,
+    "para": 5,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-general-provisions.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Where commercial general liability is written on a claims-made form, the Company will continuously renew the policy after the end of the Service Agreement in place of purchasing tail coverage",
+    "number": "3",
+    "unit": "years of continuous renewal",
+    "as_of": "2028 proposal",
+    "page": 146,
+    "para": 17,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-general-provisions.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Insurers will provide notice of cancellation, nonrenewal, or material change",
+    "number": "30",
+    "unit": "days notice",
+    "as_of": "2028 proposal",
+    "page": 146,
+    "para": 18,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-general-provisions.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Insurers will provide notice for non-payment",
+    "number": "10",
+    "unit": "days notice",
+    "as_of": "2028 proposal",
+    "page": 146,
+    "para": 18,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-general-provisions.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Commercial Automobile Liability Insurance carried for owned, non-owned (including client-owned fleet vehicles) and hired vehicles, covering bodily injury and property damage for onsite and offsite operations",
+    "number": "1000000",
+    "unit": "USD combined single limit per accident",
+    "as_of": "2028 proposal",
+    "page": 147,
+    "para": 3,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Umbrella/Excess Liability coverage maintained in excess of Commercial General Liability, Commercial Automobile, and Employer's Liability, when combined with the primary liability limits",
+    "number": "25000000",
+    "unit": "USD per occurrence and general aggregate",
+    "as_of": "2028 proposal",
+    "page": 147,
+    "para": 5,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Where umbrella/excess coverage is written on a claims-made form, the Company will continuously renew the policy from the expiration of the Service Agreement in place of tail coverage",
+    "number": "3",
+    "unit": "years of continuous renewal",
+    "as_of": "2028 proposal",
+    "page": 147,
+    "para": 5,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Contractors Pollution Liability insurance (or an equivalent coverage extension within the General Liability policy) maintained throughout the Term",
+    "number": "5000000",
+    "unit": "USD per claim or loss",
+    "as_of": "2028 proposal",
+    "page": 147,
+    "para": 7,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Contractors Pollution Liability annual aggregate limit",
+    "number": "5000000",
+    "unit": "USD in the aggregate annually",
+    "as_of": "2028 proposal",
+    "page": 147,
+    "para": 7,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Completed Operations coverage maintained through purchase of renewal policies to protect the insured and additional insureds after the Term of the Service Agreement",
+    "number": "3",
+    "unit": "years after the Term",
+    "as_of": "2028 proposal",
+    "page": 147,
+    "para": 13,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Cyber Liability Insurance maintained with a minimum combined single limit, covering data breaches, network security breaches, cybersecurity errors and omissions, media liability, regulatory investigations, and cyber business interruption",
+    "number": "2000000",
+    "unit": "USD per claim and in the aggregate",
+    "as_of": "2028 proposal",
+    "page": 147,
+    "para": 16,
+    "block": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+    "category": "financial"
+  }
+]

@@ -13,9 +13,9 @@ client-size: "8.5 MGD / 17 MGD peak / 50,000 residents / nine lift stations"
 geography: "Midwest / MI / Michigan DNR"
 rfp-section-type: [past-performance]
 win-theme-map: [compliance-leadership, continuous-improvement, partnership, innovation]
-proof-point-ids: []
+proof-point-ids: [PP-1880, PP-1881, PP-1882]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0006]
 status: preferred
 house-favorite: false
 sanitized: false

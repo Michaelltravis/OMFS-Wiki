@@ -15,7 +15,7 @@ rfp-section-type: [transition, staffing]
 win-theme-map: [transition-continuity, workforce-development, incumbent-displacement, partner-transparency]
 proof-point-ids: [PP-0623, PP-0624, PP-0625]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0048]
 status: preferred
 house-favorite: false
 sanitized: true

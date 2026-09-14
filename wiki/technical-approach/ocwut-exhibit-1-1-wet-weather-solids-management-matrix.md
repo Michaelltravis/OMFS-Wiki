@@ -13,7 +13,7 @@ client-size: ">110 MGD combined design capacity / peak flows >180 MGD / ~170 per
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [tech-approach]
 win-theme-map: [odor-control, compliance-leadership, incumbent-displacement, asset-management, transition-continuity]
-proof-point-ids: []
+proof-point-ids: [PP-1565, PP-1566, PP-1567, PP-1568, PP-1569, PP-1570, PP-1571, PP-1572]
 testimonial-ids: []
 story-ids: []
 status: preferred

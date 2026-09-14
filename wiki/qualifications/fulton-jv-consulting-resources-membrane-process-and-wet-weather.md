@@ -13,7 +13,7 @@ client-size: "3 water reclamation facilities / 32 MGD MBR + 15 MGD MBR + 2.6 MGD
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [qualifications, staffing]
 win-theme-map: [regional-bench, asset-management, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-1862]
 testimonial-ids: []
 story-ids: []
 status: preferred

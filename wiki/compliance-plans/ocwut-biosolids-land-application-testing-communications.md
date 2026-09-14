@@ -13,7 +13,7 @@ client-size: ">110 MGD combined / 4 WWTPs / ~170 permitted land application site
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [compliance, tech-approach]
 win-theme-map: [compliance-leadership, community-engagement, partner-transparency, odor-control]
-proof-point-ids: []
+proof-point-ids: [PP-1460, PP-1461]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/technical-approach/fulton-communications-cadence-and-reporting.md
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A complete communications cadence table (daily through annual, with who/what defined) paired with a concrete reporting-deliverables list carrying hard delivery commitments (MOR by the fifth day of each month; annual report draft in 30 days, final in 60) and a described customizable digital dashboard.
 reuse-notes: The cadence table and report-deliverable list are broadly reusable; the named CPO (Mack Mckenzie) is kept verbatim per wiki policy on staff names — replace with the pursuing team's assigned CPO. Adapt report names and the electronic submittal route (CIWQS/NetDMR here) to the pursuit's permits and jurisdiction.

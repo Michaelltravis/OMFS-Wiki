@@ -2,7 +2,7 @@
 title: Executive Summary Technical Approach — Five Pillars from Compliance to Performance Transparency
 category: win-themes
 block-type: prose
-tags: [executive-summary, technical-approach, nexgen-eam, process-control, odor-control, maintenance-program, predictive-maintenance, asset-management, cmms, construction-support, performance-reporting, transparency, benefit-framing]
+tags: [executive-summary, technical-approach, nexgen-eam, process-control, odor-control, maintenance-program, predictive-maintenance, asset-management, construction-support, performance-reporting, transparency, benefit-framing]
 source: ocwut-16-26
 source-section: "Executive Summary of Technical Approach — Technical Approach: Facility-Specific, Results-Driven (p. 9)"
 source-pages: [9]
@@ -13,9 +13,9 @@ client-size: "4 WWTPs + 1 major pump station / >110 MGD combined design capacity
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [exec-summary, tech-approach]
 win-theme-map: [odor-control, compliance-leadership, asset-management, partner-transparency, digital-tools, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-0732, PP-0733]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0028]
 status: preferred
 house-favorite: true
 sanitized: true

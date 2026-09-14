@@ -13,15 +13,16 @@ client-size: "Three MBR water-reclamation facilities and associated pump station
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [staffing]
 win-theme-map: [workforce-development, safety-culture, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-1683]
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+superseded-by: wiki/management-staffing/swip-workforce-culture-dei-employee-networks.md
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim culture and employee-network narrative that connects belonging to retention, mentoring, and career development."
 reuse-notes: "Confirm current program names, sponsors, and external affiliations before reuse. Keep the JC Solutions/Jacobs/CERM delivery context only where the JV is proposed."

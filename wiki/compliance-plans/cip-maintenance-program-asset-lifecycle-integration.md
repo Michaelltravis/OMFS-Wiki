@@ -13,7 +13,7 @@ client-size: ">110 MGD / four WWTPs / one major pump station / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [compliance, tech-approach]
 win-theme-map: [asset-management, day-one-readiness]
-proof-point-ids: []
+proof-point-ids: [PP-1430, PP-1431]
 testimonial-ids: []
 story-ids: []
 status: preferred

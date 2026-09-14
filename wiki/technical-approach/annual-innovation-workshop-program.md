@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, partner-transparency, energy-chemical-efficiency, collection-system, asset-management]
-proof-point-ids: [PP-0141, PP-0278, PP-0279]
+proof-point-ids: [PP-0141, PP-0278, PP-0279, PP-2078]
 testimonial-ids: []
 story-ids: [ST-0012]
 status: fallback
@@ -22,7 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
-superseded-by: wiki/technical-approach/swip-annual-innovation-workshop.md
+superseded-by: [wiki/technical-approach/swip-annual-innovation-workshop.md, wiki/technical-approach/mmsd-annual-innovation-workshop.md]
+supersedes: wiki/technical-approach/fulton-annual-innovation-workshop.md
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Strong, low-cost differentiator — a recurring, no-cost annual forum with named SME topic areas that ties directly into the CIP and long-term planning process, backed by named prior-workshop precedents (Traverse City, MI and Wilmington, NC) and an appendix agenda.
 reuse-notes: Filter the topic list to what is genuinely relevant to the target facility (biosolids, energy, PFAS, AI, regionalization); evaluators can tell when a topic list was not customized. Keep the prior-workshop client references (Traverse City, MI; Wilmington, NC) only if those agendas are actually included as an appendix. The client testimonial requires a genuinely obtained, current quote and the quoted individual's permission before reuse.

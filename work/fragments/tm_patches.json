@@ -1,9 +1,166 @@
 [
   {
+    "path": "wiki/compliance-plans/fulton-emergency-response-regional-disaster-support.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0053"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0053"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-staffing-resilience-regional-emergency-support.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0047"
+      ]
+    }
+  },
+  {
     "path": "wiki/compliance-plans/swip-emergency-response-regional-resources.md",
     "set": {
       "testimonial-ids": [
         "TM-0018"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-comprehensive-transition-support.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0021"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-employee-satisfaction-and-six-step-transition-process.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0067"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-key-leader-philosophy-and-client-testimonials.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0058",
+        "TM-0059",
+        "TM-0060",
+        "TM-0061"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-mobilization-governance-and-communications-plan.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0068"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0064"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-step-by-step-employee-transition-and-knowledge-retention.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0066"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-subcontractor-strategy-and-local-business-capacity.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0063"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0004",
+        "TM-0005"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transitioning-employee-care-workshops-and-compensation.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0020"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-union-and-labor-relations-and-employee-transition.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0062"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-asset-laboratory-cip-manager-profiles.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0042",
+        "TM-0043",
+        "TM-0044"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-ic-technician-and-transition-manager-profiles.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0045",
+        "TM-0046"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-operations-and-maintenance-manager-profiles.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0039",
+        "TM-0040",
+        "TM-0041"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-project-leadership-triad-profiles.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0033",
+        "TM-0034",
+        "TM-0035"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-qaqc-and-plant-operations-manager-profiles.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0036",
+        "TM-0037",
+        "TM-0038"
       ]
     }
   },
@@ -42,6 +199,46 @@
     }
   },
   {
+    "path": "wiki/past-performance/fulton-clovis-reuse-facility-performance.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0014"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-spokane-county-dbo-performance.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0031"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-traverse-city-dbo-accomplishments.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0009"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0050"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-jackson-jxn-water-turnaround-results.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0048"
+      ]
+    }
+  },
+  {
     "path": "wiki/past-performance/project-south-huron-mi.md",
     "set": {
       "testimonial-ids": [
@@ -62,6 +259,14 @@
     "set": {
       "testimonial-ids": [
         "TM-0009"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-waterbury-ct-odor-control-and-results.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0049"
       ]
     }
   },
@@ -98,6 +303,95 @@
     }
   },
   {
+    "path": "wiki/qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0057"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/anthony-benavidez.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0022",
+        "TM-0055"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/david-pitocchelli-little-river-plant-manager.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0024"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/devon-trezevant.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0023"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0028"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-mark-huggard-big-creek-plant-manager.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0026"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0025"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-tim-durham-senior-supervisor.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0027"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/nathan-dahl.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0032"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/scott-levesque.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0030"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/terrell-gibbs.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0029"
+      ]
+    }
+  },
+  {
     "path": "wiki/technical-approach/collection-system-om-program.md",
     "set": {
       "testimonial-ids": [
@@ -106,10 +400,78 @@
     }
   },
   {
+    "path": "wiki/technical-approach/fulton-membrane-monitoring-and-scada-capability.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0019"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-successful-experience-multi-facility-mbr.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0009",
+        "TM-0051"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-successful-experience-transition-asset-community.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0020",
+        "TM-0052"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-transition-continuity-and-staff-transfer.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0020"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0054"
+      ]
+    }
+  },
+  {
     "path": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md",
     "set": {
       "testimonial-ids": [
         "TM-0010"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0065"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0002",
+        "TM-0010"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-transition-client-testimonials-proven-success.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0004",
+        "TM-0021"
       ]
     }
   },
@@ -153,6 +515,38 @@
     "set": {
       "testimonial-ids": [
         "TM-0002"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-seamless-transition-and-workforce-continuity.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0004"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-why-jacobs-close.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0056"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-thames-tideway.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0070"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-opening-commitment.md",
+    "set": {
+      "testimonial-ids": [
+        "TM-0069"
       ]
     }
   }

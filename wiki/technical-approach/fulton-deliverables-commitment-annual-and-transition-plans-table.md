@@ -13,7 +13,7 @@ client-size: "Three water reclamation facilities and 33 pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach, transition, compliance]
 win-theme-map: [partner-transparency, asset-management, transition-continuity, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-1606, PP-1607, PP-1608, PP-1609, PP-1610, PP-1611, PP-1612, PP-1613, PP-1614]
 testimonial-ids: []
 story-ids: []
 status: preferred

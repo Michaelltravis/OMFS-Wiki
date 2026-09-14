@@ -13,7 +13,7 @@ client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [qualifications]
 win-theme-map: [regional-bench, asset-management, collection-system, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-0851, PP-0852, PP-0853, PP-0854, PP-0855, PP-0856, PP-0857, PP-0858, PP-0859, PP-0860, PP-0861, PP-0862, PP-0863, PP-0864, PP-0865, PP-0866]
 testimonial-ids: []
 story-ids: []
 status: preferred

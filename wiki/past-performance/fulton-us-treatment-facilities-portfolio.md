@@ -13,7 +13,7 @@ client-size: "National O&M portfolio; 4,000+ US O&M staff"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [past-performance]
 win-theme-map: [regional-bench, compliance-leadership, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-1874, PP-1875]
 testimonial-ids: []
 story-ids: []
 status: preferred

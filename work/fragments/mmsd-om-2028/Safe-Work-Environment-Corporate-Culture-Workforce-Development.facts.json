@@ -1,0 +1,342 @@
+[
+  {
+    "claim": "Jacobs' safety performance consistently exceeds industry averages",
+    "number": "exceeds industry averages",
+    "unit": "qualitative benchmark",
+    "as_of": "unknown",
+    "page": 29,
+    "para": 20,
+    "block": "wiki/management-staffing/mmsd-safe-work-environment-and-healthy-workforce.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Recent transitions of facilities from the incumbent operator to Jacobs in Jackson, MS; West Basin, CA; and Wilmington, DE",
+    "number": "3",
+    "unit": "utility transitions",
+    "as_of": "unknown",
+    "page": 29,
+    "para": 19,
+    "block": "wiki/management-staffing/mmsd-one-water-one-team-culture-and-shared-values.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Jacobs employees can connect and grow through Communities of Practice",
+    "number": "more than 260",
+    "unit": "Communities of Practice",
+    "as_of": "unknown",
+    "page": 30,
+    "para": 13,
+    "block": "wiki/management-staffing/mmsd-one-water-one-team-culture-and-shared-values.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs Employee Networks (JENs) available to employees",
+    "number": "8",
+    "unit": "employee networks",
+    "as_of": "unknown",
+    "page": 30,
+    "para": 13,
+    "block": "wiki/management-staffing/mmsd-one-water-one-team-culture-and-shared-values.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Employees who were members of one or more Communities of Practice",
+    "number": "54",
+    "unit": "percent of employees",
+    "as_of": "FY25",
+    "page": 30,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-one-water-one-team-culture-and-shared-values.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Employees who were members of one or more Jacobs Employee Network",
+    "number": "40",
+    "unit": "percent of employees",
+    "as_of": "FY25",
+    "page": 30,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-one-water-one-team-culture-and-shared-values.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Goal for O&M staff to have at least one in-person Culture Coaching session each year",
+    "number": "more than 80",
+    "unit": "percent of O&M staff per year",
+    "as_of": "unknown",
+    "page": 30,
+    "para": 18,
+    "block": "wiki/management-staffing/mmsd-peer-to-peer-culture-coach-program.md",
+    "category": "other"
+  },
+  {
+    "claim": "Client survey confirmed workforce satisfaction and employee retention are top priorities",
+    "number": "2023",
+    "unit": "survey year",
+    "as_of": "2023",
+    "page": 30,
+    "para": 18,
+    "block": "wiki/management-staffing/mmsd-peer-to-peer-culture-coach-program.md",
+    "category": "other"
+  },
+  {
+    "claim": "Zero-tolerance training delivered to all staff at onboarding and annually",
+    "number": "1",
+    "unit": "refresher per year plus onboarding",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 6,
+    "block": "wiki/management-staffing/mmsd-zero-tolerance-ethics-hotline-and-employee-feedback.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Anonymous third-party ethics hotline and secure online portal available to report harassment and discrimination concerns",
+    "number": "24/7",
+    "unit": "availability",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-zero-tolerance-ethics-hotline-and-employee-feedback.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs employees have contributed to global causes through the Collectively program",
+    "number": "over $10.9M",
+    "unit": "USD contributed",
+    "as_of": "since 2020",
+    "page": 31,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-recognition-teamwork-and-community-giving.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Jacobs teams donate hours each year to benefit the local community",
+    "number": "thousands",
+    "unit": "volunteer hours per year",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-recognition-teamwork-and-community-giving.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Jacobs community-based activities and volunteer programs in the region",
+    "number": "50",
+    "unit": "years",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 16,
+    "block": "wiki/management-staffing/mmsd-recognition-teamwork-and-community-giving.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Workforce development plan goals stated to meet the scope of services requirements",
+    "number": "5",
+    "unit": "goals",
+    "as_of": "unknown",
+    "page": 31,
+    "para": 20,
+    "block": "wiki/management-staffing/mmsd-workforce-development-plan-goals-and-elements.md",
+    "category": "other"
+  },
+  {
+    "claim": "Workforce development plan delivered with named subcontractor partners PRISM and P3 Development Group",
+    "number": "2",
+    "unit": "subcontractor partners",
+    "as_of": "unknown",
+    "page": 32,
+    "para": 6,
+    "block": "wiki/management-staffing/mmsd-workforce-development-plan-goals-and-elements.md",
+    "category": "other"
+  },
+  {
+    "claim": "Structured career pathway levels from entry-level operator to supervisory operator",
+    "number": "4",
+    "unit": "career ladder levels",
+    "as_of": "unknown",
+    "page": 32,
+    "para": 12,
+    "block": "wiki/management-staffing/mmsd-structured-career-pathways-and-advancement-ladder.md",
+    "category": "other"
+  },
+  {
+    "claim": "Regional unemployment rate is among the lowest in the country, limiting the applicant pool",
+    "number": "among the lowest in the country",
+    "unit": "unemployment rate ranking",
+    "as_of": "unknown",
+    "page": 32,
+    "para": 22,
+    "block": "wiki/management-staffing/mmsd-apprenticeships-and-local-union-partnership.md",
+    "category": "other"
+  },
+  {
+    "claim": "Local union locals whose leadership Jacobs met with to inform the apprenticeship program (AFSCME, IUOE, IAM, Steamfitters, Electricians, Painters)",
+    "number": "6",
+    "unit": "union organizations",
+    "as_of": "unknown",
+    "page": 33,
+    "para": 4,
+    "block": "wiki/management-staffing/mmsd-apprenticeships-and-local-union-partnership.md",
+    "category": "other"
+  },
+  {
+    "claim": "Proposed CIP Coordinator Natalie Lenz helped students navigate career interests through the client's RISE Internship Program",
+    "number": "summer 2025",
+    "unit": "program term",
+    "as_of": "2025-07",
+    "page": 32,
+    "para": 23,
+    "block": "wiki/management-staffing/mmsd-internships-and-career-awareness-outreach.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Wastewater Career Internship Pipeline Program internship duration",
+    "number": "8-10",
+    "unit": "weeks (summer) or semester-long",
+    "as_of": "unknown",
+    "page": 33,
+    "para": 16,
+    "block": "wiki/management-staffing/mmsd-wastewater-career-internship-pipeline-program.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Wastewater Career Internship Pipeline Program phases",
+    "number": "2",
+    "unit": "phases",
+    "as_of": "unknown",
+    "page": 33,
+    "para": 23,
+    "block": "wiki/management-staffing/mmsd-wastewater-career-internship-pipeline-program.md",
+    "category": "other"
+  },
+  {
+    "claim": "Initial Jacobs contribution to the Jacobs Environmental Engineering Scholarship Fund at the University of Wisconsin-Milwaukee",
+    "number": "$2,500",
+    "unit": "USD",
+    "as_of": "2025-04-03",
+    "page": 33,
+    "para": 24,
+    "block": "wiki/management-staffing/mmsd-uwm-scholarship-commitment.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Planned scholarship fund to be established during execution of the contract to advance education and career opportunities",
+    "number": "$50K",
+    "unit": "USD",
+    "as_of": "unknown",
+    "page": 33,
+    "para": 24,
+    "block": "wiki/management-staffing/mmsd-uwm-scholarship-commitment.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Service in the region by Patrick Hill and Ron Williams recognized by the scholarship contribution",
+    "number": "35",
+    "unit": "years of service",
+    "as_of": "2025-04-03",
+    "page": 33,
+    "para": 24,
+    "block": "wiki/management-staffing/mmsd-uwm-scholarship-commitment.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Workforce Development Plan updates submitted each contract year",
+    "number": "January 31",
+    "unit": "annual submission date",
+    "as_of": "each contract year",
+    "page": 34,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-workforce-development-team-and-transparent-reporting.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Annual workforce development report submitted each contract year",
+    "number": "March 31",
+    "unit": "annual submission date",
+    "as_of": "each contract year",
+    "page": 34,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-workforce-development-team-and-transparent-reporting.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Workforce development report/review submitted to the governance committees",
+    "number": "4",
+    "unit": "reviews per year (quarterly)",
+    "as_of": "unknown",
+    "page": 34,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-workforce-development-team-and-transparent-reporting.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Small businesses represent, on average, a share of Jacobs' total supply chain spend",
+    "number": "30-35",
+    "unit": "percent of total supply chain spend",
+    "as_of": "unknown",
+    "page": 34,
+    "para": 8,
+    "block": "wiki/management-staffing/mmsd-workforce-development-team-and-transparent-reporting.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Pre-Award Outreach Event hosted in the local office to solicit small business interest in the O&M program",
+    "number": "September 2025",
+    "unit": "event date",
+    "as_of": "2025-09",
+    "page": 34,
+    "para": 10,
+    "block": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Houston Northeast Water Purification Facility progressive design-build project value on which Jacobs was joint venture partner and ran a mentor-protege program",
+    "number": "$1.77B",
+    "unit": "USD project value",
+    "as_of": "unknown",
+    "page": 34,
+    "para": 10,
+    "block": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Capacity of the Houston Northeast Water Purification Facility",
+    "number": "320",
+    "unit": "MGD",
+    "as_of": "unknown",
+    "page": 34,
+    "para": 10,
+    "block": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Recognized as Construction Prime Contractor of the Year, City of Houston Champions of Diversity Award, for engagement of small and diverse businesses",
+    "number": "1",
+    "unit": "award",
+    "as_of": "unknown",
+    "page": 34,
+    "para": 10,
+    "block": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Jacobs Construction Academy classes delivered to small businesses in Omaha",
+    "number": "3-hour classes, twice a week",
+    "unit": "class length and frequency",
+    "as_of": "unknown",
+    "page": 34,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
+    "category": "other"
+  },
+  {
+    "claim": "Local firms received contracts and subcontracts as a result of the Jacobs Construction Academy in Omaha",
+    "number": "nearly $43M",
+    "unit": "USD in contracts and subcontracts",
+    "as_of": "unknown",
+    "page": 34,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
+    "category": "outcome"
+  }
+]

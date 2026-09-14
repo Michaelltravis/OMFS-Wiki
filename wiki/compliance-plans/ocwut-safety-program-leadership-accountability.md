@@ -13,7 +13,7 @@ client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [compliance, tech-approach]
 win-theme-map: [safety-culture, compliance-leadership, incumbent-displacement, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-1350, PP-1351, PP-1352, PP-1353, PP-1354, PP-1355, PP-1356]
 testimonial-ids: []
 story-ids: []
 status: preferred

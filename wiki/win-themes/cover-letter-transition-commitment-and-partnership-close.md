@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1 NPDES"
 rfp-section-type: [cover-letter]
 win-theme-map: [transition-continuity, workforce-development, safety-culture, partner-transparency, innovation-value-add, incumbent-displacement, community-engagement]
-proof-point-ids: [PP-0140, PP-0141]
+proof-point-ids: [PP-0140, PP-0141, PP-1986]
 testimonial-ids: [TM-0001]
 story-ids: []
 status: preferred

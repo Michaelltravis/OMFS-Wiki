@@ -13,7 +13,7 @@ client-size: "2.8 MGD max monthly average / Title 22 scalping plant"
 geography: "West / CA / SWRCB Title 22, NPDES"
 rfp-section-type: [past-performance]
 win-theme-map: [compliance-leadership, innovation-value-add, asset-management, regional-bench]
-proof-point-ids: [PP-0381, PP-0398, PP-0399, PP-0400, PP-0401, PP-0402, PP-0403, PP-0404]
+proof-point-ids: [PP-0381, PP-0398, PP-0399, PP-0400, PP-0401, PP-0402, PP-0403, PP-0404, PP-2781, PP-2782, PP-2783, PP-2784, PP-2785]
 testimonial-ids: [TM-0014]
 story-ids: [ST-0016]
 status: preferred
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/past-performance/fulton-clovis-reuse-facility-performance.md
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Long-tenured (2009-ongoing) MBR reference with a named client contact, five awards, a documented value-engineering savings figure (more than $100,000), documented process improvements, and a named Jacobs plant manager quote — strong, fully verifiable past-performance reference for MBR/Title 22 reuse pursuits.
 reuse-notes: Verbatim past-performance content — real client, contact, and award names retained per wiki policy. Confirm reference contact (Nicholas Torstensen) is still current and willing to be listed before reuse; verify contract status ("2009 – Ongoing") is still accurate and that the award list does not need newer recognitions added.

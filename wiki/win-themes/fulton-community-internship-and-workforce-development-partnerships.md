@@ -13,7 +13,7 @@ client-size: "32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach]
 win-theme-map: [community-stewardship, workforce-development, regional-support]
-proof-point-ids: []
+proof-point-ids: [PP-1733]
 testimonial-ids: []
 story-ids: []
 status: preferred

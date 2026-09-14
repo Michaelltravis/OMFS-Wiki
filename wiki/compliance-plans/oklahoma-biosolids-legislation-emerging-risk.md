@@ -13,7 +13,7 @@ client-size: "4 WWTPs + 1 major pump station / >110 MGD combined design capacity
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [compliance, tech-approach, exec-summary]
 win-theme-map: [compliance-leadership, partner-transparency, asset-management, incumbent-displacement]
-proof-point-ids: []
+proof-point-ids: [PP-1520, PP-1521, PP-1522, PP-1523, PP-1524, PP-1525, PP-1526]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/compliance-plans/ocwut-stormwater-and-biosolids-legislation.md
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A rare proposal move — naming the specific pending bills by number, reading the most likely one down to its mechanism (a 3-year ODEQ/university pilot, up to 25 percent per year reductions, a full cessation plan by December 2029), sizing the exposure against the client's own 170-site, 13,500-acre land application program, and then committing to multi-scenario planning rather than a prediction.
 reuse-notes: Legislative status ages fast — re-verify every bill number, session, pilot term, percentage, and date immediately before reuse, and re-read the current session's docket. The 170-site, 13,500-acre program size is the pursuit client's; replace with the target system's land application footprint. The contingency-planning close (contingency disposal strategies, alternative beneficial reuse pathways, regulator-approved transition approaches) is universal wherever land application is under political pressure.

@@ -15,7 +15,7 @@ rfp-section-type: [past-performance]
 win-theme-map: [asset-management, odor-control, partner-transparency, compliance-leadership]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0044]
 status: preferred
 house-favorite: false
 sanitized: false

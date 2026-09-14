@@ -13,7 +13,7 @@ client-size: "32 MGD + 15 MGD + 2.6 MGD WRFs / 28 wastewater + 5 potable pump st
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [exec-summary]
 win-theme-map: [partner-transparency, regional-bench, compliance-leadership, workforce-development, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-1838, PP-1839, PP-1840, PP-1841, PP-1842, PP-1843, PP-1844]
 testimonial-ids: []
 story-ids: []
 status: preferred

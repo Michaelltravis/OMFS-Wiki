@@ -1,0 +1,292 @@
+[
+  {
+    "claim": "Jacobs ranked on Forbes' 2025 list of America's Best Employers",
+    "number": "2025",
+    "unit": "list year",
+    "as_of": "2025",
+    "page": 20,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-hr-commitment-award-winning-culture-and-integrated-hr-team.md",
+    "category": "other"
+  },
+  {
+    "claim": "Required onsite management staff in the client's minimum staffing exhibit",
+    "number": "14",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Above-and-beyond onsite management staff Jacobs adds beyond the required roster",
+    "number": "3",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Above-and-beyond offsite program management support",
+    "number": "1",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Above-and-beyond onsite HR and office administration staff",
+    "number": "5",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Above-and-beyond onsite regional partnership outreach support",
+    "number": "1",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Required onsite maintenance and asset management staff",
+    "number": "125",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Required onsite operations and conveyance staff",
+    "number": "100",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Above-and-beyond offsite engineering and support staff",
+    "number": "7",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Total required onsite staff in the client's staffing exhibit",
+    "number": "239",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Total above-and-beyond onsite staff provided at no additional requirement",
+    "number": "8.5",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Total above-and-beyond offsite staff provided",
+    "number": "8.0",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 11,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Summer interns included in the operations and conveyance staffing count",
+    "number": "10",
+    "unit": "interns",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 16,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "FTE equivalent of the 10 summer interns",
+    "number": "3",
+    "unit": "FTE",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 16,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Annual SME technical support hours included in offsite engineering support",
+    "number": "15,000",
+    "unit": "hours per year",
+    "as_of": "unknown",
+    "page": 20,
+    "para": 16,
+    "block": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "National HR staff supporting the project HR team, including the O&M Resource Planning Group",
+    "number": "20+",
+    "unit": "HR staff",
+    "as_of": "unknown",
+    "page": 21,
+    "para": 5,
+    "block": "wiki/management-staffing/mmsd-staffing-certainty-framework-exhibit.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Positions in the RFP Exhibit E Minimum Staffing Plan to be staffed and retained by Day 1",
+    "number": "236",
+    "unit": "positions",
+    "as_of": "unknown",
+    "page": 21,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Grace period within which Required Positions must be filled under Exhibit E",
+    "number": "90",
+    "unit": "days",
+    "as_of": "unknown",
+    "page": 21,
+    "para": 7,
+    "block": "wiki/management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Transition team begins working with the unions before Day 1",
+    "number": "60",
+    "unit": "days before Day 1",
+    "as_of": "unknown",
+    "page": 21,
+    "para": 10,
+    "block": "wiki/management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Four sourcing tactics used to ensure continuous staffing",
+    "number": "4",
+    "unit": "sourcing tactics",
+    "as_of": "unknown",
+    "page": 21,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md",
+    "category": "other"
+  },
+  {
+    "claim": "Union leadership organizations met with prior to proposal (AFSCME, IAM, IUOE, Steamfitters, Electricians, Painters)",
+    "number": "6",
+    "unit": "unions",
+    "as_of": "unknown",
+    "page": 21,
+    "para": 25,
+    "block": "wiki/management-staffing/mmsd-union-and-labor-relations-and-employee-transition.md",
+    "category": "other"
+  },
+  {
+    "claim": "Steps in the labor relations approach, three of which were complete at proposal time",
+    "number": "5",
+    "unit": "steps",
+    "as_of": "unknown",
+    "page": 22,
+    "para": 2,
+    "block": "wiki/management-staffing/mmsd-labor-relations-five-step-approach-exhibit.md",
+    "category": "other"
+  },
+  {
+    "claim": "Labor relations steps marked COMPLETE at proposal submission",
+    "number": "3",
+    "unit": "of 5 steps",
+    "as_of": "unknown",
+    "page": 22,
+    "para": 2,
+    "block": "wiki/management-staffing/mmsd-labor-relations-five-step-approach-exhibit.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Frequency of the performance roundtable hosted with the client and union representatives",
+    "number": "2",
+    "unit": "times per year",
+    "as_of": "unknown",
+    "page": 22,
+    "para": 15,
+    "block": "wiki/management-staffing/mmsd-union-and-labor-relations-and-employee-transition.md",
+    "category": "other"
+  },
+  {
+    "claim": "Certification bonus offered per certification level",
+    "number": "up to $1,000",
+    "unit": "USD per level",
+    "as_of": "unknown",
+    "page": 23,
+    "para": 10,
+    "block": "wiki/management-staffing/mmsd-long-term-retention-and-succession-planning.md",
+    "category": "other"
+  },
+  {
+    "claim": "Certification bonus offered for advanced licenses such as PE or CSP",
+    "number": "up to $3,000",
+    "unit": "USD",
+    "as_of": "unknown",
+    "page": 23,
+    "para": 10,
+    "block": "wiki/management-staffing/mmsd-long-term-retention-and-succession-planning.md",
+    "category": "other"
+  },
+  {
+    "claim": "O&M facilities where Jacobs currently manages unionized workforces",
+    "number": "8",
+    "unit": "facilities",
+    "as_of": "unknown",
+    "page": 23,
+    "para": 20,
+    "block": "wiki/management-staffing/mmsd-union-partners-exhibit.md",
+    "category": "scale"
+  },
+  {
+    "claim": "States listed for facilities with unionized workforces (Rhode Island, Michigan, Delaware, New Mexico, Washington, Oregon)",
+    "number": "6",
+    "unit": "states",
+    "as_of": "unknown",
+    "page": 23,
+    "para": 30,
+    "block": "wiki/management-staffing/mmsd-union-partners-exhibit.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Unions listed as current partners (Operating Engineers, International Brotherhood of Teamsters, AFSCME, IBEW)",
+    "number": "4",
+    "unit": "unions",
+    "as_of": "unknown",
+    "page": 23,
+    "para": 30,
+    "block": "wiki/management-staffing/mmsd-union-partners-exhibit.md",
+    "category": "scale"
+  }
+]

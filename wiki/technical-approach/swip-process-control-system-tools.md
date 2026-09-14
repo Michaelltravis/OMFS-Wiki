@@ -13,7 +13,7 @@ client-size: "1.0 MGD advanced water treatment facility (screening/MBR → CF �
 geography: "Southern California / CA / SWRCB Division of Drinking Water + LA RWQCB (Title 22 GRRP, WDRs)"
 rfp-section-type: [tech-approach]
 win-theme-map: [compliance-leadership, partner-transparency, digital-tools, regional-bench, asset-management]
-proof-point-ids: [PP-0435, PP-0436, PP-0437, PP-0438]
+proof-point-ids: [PP-0435, PP-0436, PP-0437, PP-0438, PP-2799]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement — advanced water treatment facility with MBR/RO/UV-AOP train
 quality: Names a proprietary companywide framework (CPCS) and pairs it with six concrete, named tools (UPCPs, Sampling Plan, Sample Tracking Tool, Data Management/LIMS/HachWIMS, SOPs, Operator Round Sheets, Peak Flow Tests) each with an explicit client benefit statement — a strong template for demonstrating "not just a philosophy, an actual tool stack."
 reuse-notes: The CPCS name, all six tool descriptions, and their benefit framing are fully generic and reusable across any water/wastewater O&M pursuit. The peak-flow-test cadence (monthly, one-hour at design peak) is specific to membrane-train facilities; adapt for non-membrane process trains.

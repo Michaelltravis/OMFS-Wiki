@@ -13,7 +13,7 @@ client-size: "Three WRFs / 28 wastewater and 5 potable-water pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach]
 win-theme-map: [odor-control, community-engagement, continuous-improvement]
-proof-point-ids: []
+proof-point-ids: [PP-1766, PP-1767, PP-1768]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -13,9 +13,9 @@ client-size: "8.5 MGD / 17 MGD peak"
 geography: "Midwest / MI / Michigan DNR"
 rfp-section-type: [past-performance]
 win-theme-map: [continuous-improvement, compliance-leadership, asset-management, partnership]
-proof-point-ids: []
+proof-point-ids: [PP-1883, PP-1884, PP-1885]
 testimonial-ids: [TM-0009]
-story-ids: []
+story-ids: [ST-0006, ST-0007, ST-0047]
 status: preferred
 house-favorite: false
 sanitized: false

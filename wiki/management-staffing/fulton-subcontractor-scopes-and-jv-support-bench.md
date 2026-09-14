@@ -13,7 +13,7 @@ client-size: "Three MBR water-reclamation facilities plus pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [staffing]
 win-theme-map: [workforce-development, regional-bench, community-engagement, odor-control]
-proof-point-ids: []
+proof-point-ids: [PP-1710, PP-1711]
 testimonial-ids: []
 story-ids: []
 status: preferred

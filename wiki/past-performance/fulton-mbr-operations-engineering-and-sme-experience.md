@@ -13,7 +13,7 @@ client-size: "MBR operations portfolio plus Atlanta design center with more than
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [past-performance]
 win-theme-map: [regional-bench, compliance-leadership, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-1877, PP-1878, PP-1879]
 testimonial-ids: []
 story-ids: []
 status: preferred

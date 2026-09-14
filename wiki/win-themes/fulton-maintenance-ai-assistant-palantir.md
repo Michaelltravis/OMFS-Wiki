@@ -13,9 +13,9 @@ client-size: "Three MBR wastewater facilities and associated pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach]
 win-theme-map: [asset-management, innovation-value-add, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-1664, PP-1665]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0045]
 status: preferred
 house-favorite: false
 sanitized: true

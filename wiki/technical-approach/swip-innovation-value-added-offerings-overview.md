@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff w
 geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
 rfp-section-type: [tech-approach, exec-summary]
 win-theme-map: [innovation-value-add, partner-transparency, incumbent-displacement, regional-bench]
-proof-point-ids: [PP-0461, PP-0462, PP-0463, PP-0464, PP-0465, PP-0466, PP-0467, PP-0468, PP-0469, PP-0470, PP-0471, PP-0472]
+proof-point-ids: [PP-0461, PP-0462, PP-0463, PP-0464, PP-0465, PP-0466, PP-0467, PP-0468, PP-0469, PP-0470, PP-0471, PP-0472, PP-2807, PP-2808, PP-2809, PP-2810, PP-2811, PP-2812, PP-2813, PP-2814, PP-2815, PP-2816, PP-2817, PP-2818]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/technical-approach/mmsd-value-added-improvements-included-in-base-fee.md
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A single wheel exhibit that itemizes ten value-added services bundled into the base fee, each with an assigned value and a one-line description, rolling up to a $4.1 million five-year total - the strongest incumbent-displacement device in this proposal, because it converts an abstract claim of extra value into a countable benefits package.
 reuse-notes: 'These figures are value-delivered-at-no-additional-charge amounts, not fee or rate content, and they are kept. They are scoped to this pursuit''s facility set: re-scope, re-cost, and re-verify every line and the headline total against the target pursuit''s actual facilities and negotiated inclusions - reuse the device, not the numbers. The benefits paragraph is largely generic and adapts easily.'

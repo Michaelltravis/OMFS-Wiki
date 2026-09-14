@@ -1,0 +1,132 @@
+[
+  {
+    "claim": "Jacobs has collaborated with the top global research team on collection system sulfide modeling at Aalborg University (Denmark), developers of the WATS Model",
+    "number": "10",
+    "unit": "years",
+    "as_of": "2028",
+    "page": 72,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+    "category": "other"
+  },
+  {
+    "claim": "Temporary ferric chloride odor control system for Oakland County, Michigan was installed to mitigate collection system complaints",
+    "number": "2",
+    "unit": "weeks to install",
+    "as_of": "unknown",
+    "page": 73,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Odor complaint protocol comprises a defined end-to-end sequence from complaint submission through resident notification",
+    "number": "7",
+    "unit": "steps",
+    "as_of": "2028",
+    "page": 75,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs offers odor technologists available to the program",
+    "number": "more than 20",
+    "unit": "odor technologists",
+    "as_of": "2028",
+    "page": 75,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Odor technologists located in Jacobs' Milwaukee office, part of the bench of more than 20",
+    "number": "3",
+    "unit": "odor technologists in the local office",
+    "as_of": "2028",
+    "page": 75,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Stated goal for the odor program",
+    "number": "0",
+    "unit": "odor complaints (goal)",
+    "as_of": "2028",
+    "page": 75,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Odor reports prepared for sharing with the public",
+    "number": "4",
+    "unit": "reports per year (quarterly)",
+    "as_of": "2028",
+    "page": 75,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-odor-continuous-improvement-and-community-outreach.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "At facilities managed by Jacobs, Intelligent O&M has contributed to a reduction in power and chemical consumption",
+    "number": "10-30",
+    "unit": "% reduction in power and chemical consumption",
+    "as_of": "2028",
+    "page": 78,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Dragonfly CCTV defect coding delivers cost savings compared to manual defect coding",
+    "number": "approximately 30-40",
+    "unit": "% cost savings vs. manual defect coding",
+    "as_of": "2028",
+    "page": 78,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Automated PLC backup allows staff to restore a failed controller during wet weather, reducing overflow risk",
+    "number": "minutes, not hours",
+    "unit": "recovery time",
+    "as_of": "2028",
+    "page": 80,
+    "para": 11,
+    "block": "wiki/technical-approach/mmsd-ot-automated-backup-benefits-table.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "OT asset management platform delivered as discrete modules covering inventory, network, life cycle, architecture, downtime, configuration, and change management",
+    "number": "7",
+    "unit": "OT asset management modules",
+    "as_of": "2028",
+    "page": 79,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-ot-asset-management-modules-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Digital tools offered for more sustainable and cost-efficient operations (Intelligent O&M, AquaDNA, AquaDNA Deragger, Digital Twin, Hybrid Optimizer, WATS Model, Dragonfly and Argon)",
+    "number": "7",
+    "unit": "named digital tools",
+    "as_of": "2028",
+    "page": 78,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Digital twin benefits presented across distinct benefit categories spanning dry- and wet-weather operations, energy, compliance, predictive maintenance, transparency, emergency preparedness, training, data integration, capacity trending, and scenario simulation",
+    "number": "11",
+    "unit": "benefit categories",
+    "as_of": "2028",
+    "page": 77,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
+    "category": "other"
+  }
+]

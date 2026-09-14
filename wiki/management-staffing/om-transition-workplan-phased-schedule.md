@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [transition, staffing]
 win-theme-map: [transition-continuity, partner-transparency, compliance-leadership, asset-management, safety-culture]
-proof-point-ids: [PP-0133, PP-0134, PP-0135, PP-0136, PP-0137, PP-0138, PP-0139]
+proof-point-ids: [PP-0133, PP-0134, PP-0135, PP-0136, PP-0137, PP-0138, PP-0139, PP-1984, PP-1985]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -13,9 +13,9 @@ client-size: "65 MGD WWTPs / 80 MGD WTPs / 99 pump stations / ~150,000 residents
 geography: "Southeast / MS / Mississippi State Department of Health, EPA"
 rfp-section-type: [past-performance]
 win-theme-map: [transition-continuity, compliance-leadership, asset-management, regional-bench]
-proof-point-ids: []
+proof-point-ids: [PP-1389]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0032]
 status: preferred
 house-favorite: true
 sanitized: false

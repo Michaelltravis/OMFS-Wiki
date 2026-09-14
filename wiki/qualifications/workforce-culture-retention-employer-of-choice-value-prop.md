@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [qualifications]
 win-theme-map: [workforce-development, transition-continuity, safety-culture]
-proof-point-ids: [PP-0174]
+proof-point-ids: [PP-0174, PP-2012]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -47,4 +47,4 @@ templates/         The content-block template for new entries.
 
 ## Current status
 
-See the status table in `README.md`. As of September 2026: the Hull WWTF proposal (2026) and Santa Monica SWIP proposal (2025) are both fully extracted and completeness-audited (89 and 98 content blocks, respectively); OCWUT and Fulton County are queued.
+See the status table in `README.md`. As of September 2026: Hull WWTF (2026), Santa Monica SWIP (2025), OCWUT 16-26, Fulton County 25RFP146289K, and MMSD O&M (2028) are all extracted and completeness-audited.

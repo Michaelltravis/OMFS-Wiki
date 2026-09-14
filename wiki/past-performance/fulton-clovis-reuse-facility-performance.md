@@ -13,15 +13,16 @@ client-size: "3.1 MGD / Title 22 reuse"
 geography: "West / CA / Title 22, NPDES"
 rfp-section-type: [past-performance]
 win-theme-map: [compliance-leadership, continuous-improvement, safety-culture, innovation]
-proof-point-ids: []
+proof-point-ids: [PP-1891]
 testimonial-ids: [TM-0014]
-story-ids: []
-status: preferred
+story-ids: [ST-0016]
+status: fallback
 house-favorite: false
 sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+superseded-by: wiki/past-performance/clovis-wwtp-wrf-om.md
 context: "Verbatim municipal MBR reuse-facility operating-performance and safety reference."
 quality: "Preserves regulatory record, operating improvements, safety record, and the named Jacobs plant-manager process quote."
 reuse-notes: "Past-performance content is verbatim and exempt from client-name generalization. Retain client, facility details, outcomes, and quote; strip only commercial fee or rate figures if present in a future source. Confirm all current performance claims and quote permission before external reuse."

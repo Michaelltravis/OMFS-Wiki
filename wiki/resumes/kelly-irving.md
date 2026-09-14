@@ -13,7 +13,7 @@ client-size: "4 WWTPs / >110 MGD combined design capacity / 1 major pump station
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [resume]
 win-theme-map: [transition-continuity, incumbent-displacement, workforce-development, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-0899, PP-0900, PP-0901, PP-0902, PP-0903, PP-0904, PP-0905, PP-0906, PP-0907]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/resumes/mmsd-kelly-irving-transition-manager.md
 context: Proposed Transition Manager leading mobilization to a fixed Jan 1, 2027 service start. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "Dedicated Transition Manager resume for a takeover-from-incumbent bid — pairs a national transitions leadership role with two high-risk transition proofs (federal emergency oversight in Jackson, MS; a 225-MGD regional system serving 13 communities in Detroit, MI)."
 reuse-notes: "VERBATIM resume — real name and license numbers retained. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Kelly Irving's current role, availability, and years of experience (30 total, 1 with Jacobs at time of writing); (2) verify the GA, MN, MI, and IA certification numbers are current; (3) replace the January 1, 2027 service-start date with the new pursuit's commencement date; (4) the Detroit and JXN Water descriptions involve sensitive accounts — clear with the account teams before external use."

@@ -13,15 +13,16 @@ client-size: "32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach]
 win-theme-map: [partner-transparency, compliance-leadership, continuous-improvement]
-proof-point-ids: []
+proof-point-ids: [PP-1693, PP-1694]
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+superseded-by: wiki/technical-approach/swip-communications-and-reporting-plan.md
 context: "JC Solutions (a Jacobs/CERM JV) communications and reporting approach for a Southeast county multi-facility wastewater system."
 quality: "Near-verbatim communication rhythm integrating owner governance, compliance reporting, and dashboard visibility."
 reuse-notes: "Tailor report names, delivery dates, owner roles, permit requirements, dashboard fields, and capital-program references. Retain JC Solutions as the Jacobs/CERM JV and Jacobs attribution for regional management."

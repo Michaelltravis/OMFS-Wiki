@@ -13,15 +13,16 @@ client-size: "Three MBR water-reclamation facilities plus pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach]
 win-theme-map: [compliance-leadership, asset-management, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-1715]
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+superseded-by: wiki/technical-approach/swip-process-control-system-tools.md
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim operating-plan narrative that connects CPCS, sampling and data systems, SOPs, daily rounds, and membrane peak-flow tests.
 reuse-notes: Confirm platform availability, reporting access, sampling responsibilities, and the stated membrane-test commitment before use.

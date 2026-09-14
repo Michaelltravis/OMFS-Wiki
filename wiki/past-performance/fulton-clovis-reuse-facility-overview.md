@@ -13,9 +13,9 @@ client-size: "3.1 MGD / Title 22 reuse"
 geography: "West / CA / Title 22, NPDES"
 rfp-section-type: [past-performance]
 win-theme-map: [innovation, cost-savings, sustainability, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-1890]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0016]
 status: preferred
 house-favorite: false
 sanitized: false

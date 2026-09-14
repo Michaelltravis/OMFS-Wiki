@@ -12,7 +12,7 @@ client-type: municipal
 client-size: "3.07 MGD WWTF / 42 mi collection system / coastal town"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [resume]
-proof-point-ids: [PP-0021, PP-0022, PP-0023, PP-0024, PP-0025, PP-0026, PP-0027]
+proof-point-ids: [PP-0021, PP-0022, PP-0023, PP-0024, PP-0025, PP-0026, PP-0027, PP-1919, PP-1920, PP-1921]
 testimonial-ids: []
 story-ids: []
 status: preferred

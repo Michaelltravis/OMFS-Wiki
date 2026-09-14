@@ -13,7 +13,7 @@ client-size: "24 MGD design / 9.99 MGD average / 36 mi interceptor / 2 lift stat
 geography: "Midwest / MI / EGLE, EPA Region 5"
 rfp-section-type: [past-performance]
 win-theme-map: [workforce-development, transition-continuity, asset-management, energy-chemical-efficiency, digital-tools, innovation-value-add]
-proof-point-ids: [PP-0008, PP-0066, PP-0067, PP-0068, PP-0069, PP-0070, PP-0071, PP-0072, PP-0073]
+proof-point-ids: [PP-0008, PP-0066, PP-0067, PP-0068, PP-0069, PP-0070, PP-0071, PP-0072, PP-0073, PP-1967, PP-1968, PP-1969, PP-1970, PP-1971, PP-1972, PP-1973]
 testimonial-ids: [TM-0008]
 story-ids: [ST-0010, ST-0011]
 status: preferred
