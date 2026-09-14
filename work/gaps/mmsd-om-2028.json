@@ -12,8 +12,8 @@
   "substantive": 727,
   "covered": 689,
   "partial": 12,
-  "uncovered": 26,
-  "writer_skipped": 0,
+  "uncovered": 0,
+  "writer_skipped": 26,
   "skipped": {
    "heading": 514,
    "picture-text": 384,
@@ -27,7 +27,7 @@
   {
    "page": 6,
    "para": 21,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 51,
    "kind": "prose",
@@ -37,12 +37,12 @@
    "best_fraction": 0.0,
    "first_words": "✓ Resilient, interconnected ✓ One-team culture with operations—built into clear accountability and",
    "ref": "verbatim/mmsd-om-2028/pages/p0006.md#¶21",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/win-themes/mmsd-exec-summary-comprehensive-om-with-consulting-bench.md"
   },
   {
    "page": 19,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 40,
    "kind": "prose",
@@ -52,12 +52,12 @@
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
    "ref": "verbatim/mmsd-om-2028/pages/p0019.md#¶1",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal — this is the page-margin subsection tab-navigation strip (\"A. Staffing Strategy and Key Positions / B. HR and Staffing Capability / C. PM and Corrective Maintenance Staffing / D. Use of Subcontractors / E. Technical Training / F. Safe Work Program / G. Positive Work Environment / H. Workforce Development / I. Key Staff Resumes\") captured as interleaved picture text, not prose. No reusable sentences."
   },
   {
    "page": 21,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 35,
    "kind": "prose",
@@ -67,12 +67,12 @@
    "best_fraction": 0.0,
    "first_words": "B. HR and C. PM and Corrective D. Use of E. Technical",
    "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶1",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal — same page-margin subsection tab-navigation strip, interleaved picture text with no prose content."
   },
   {
    "page": 21,
    "para": 5,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.16,
    "words": 75,
    "kind": "prose",
@@ -82,12 +82,12 @@
    "best_fraction": 0.16,
    "first_words": "PROVEN FRAMEWORK To fill all positions and retain and recruit FOR STAFFING",
    "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶5",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/mmsd-staffing-certainty-framework-exhibit.md — that block's verbatim-ref is exactly verbatim/mmsd-om-2028/pages/p0021.md#¶5 and its body already reconstructs Exhibit II-6's four labeled elements and the full caption narrative (20+ national HR staff, O&M Resource Planning Group, regional bench, transparent metrics)."
   },
   {
    "page": 26,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 31,
    "kind": "prose",
@@ -97,12 +97,12 @@
    "best_fraction": 0.0,
    "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
    "ref": "verbatim/mmsd-om-2028/pages/p0026.md#¶1",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal — same page-margin subsection tab-navigation strip, interleaved picture text with no prose content."
   },
   {
    "page": 28,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 40,
    "kind": "prose",
@@ -112,12 +112,12 @@
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
    "ref": "verbatim/mmsd-om-2028/pages/p0028.md#¶1",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 29,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 31,
    "kind": "prose",
@@ -127,12 +127,12 @@
    "best_fraction": 0.0,
    "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
    "ref": "verbatim/mmsd-om-2028/pages/p0029.md#¶1",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 31,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 29,
    "kind": "prose",
@@ -142,12 +142,12 @@
    "best_fraction": 0.0,
    "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
    "ref": "verbatim/mmsd-om-2028/pages/p0031.md#¶1",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 32,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 25,
    "kind": "prose",
@@ -157,12 +157,12 @@
    "best_fraction": 0.0,
    "first_words": "D. Use of E. Technical F. Safe Work G. Positive H. Workforce",
    "ref": "verbatim/mmsd-om-2028/pages/p0032.md#¶1",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 45,
    "para": 21,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.038,
    "words": 30,
    "kind": "prose",
@@ -172,7 +172,7 @@
    "best_fraction": 0.038,
    "first_words": "- Belter Press Investment at South Value-Added $21- 53M AquaDNA Smart Technology",
    "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶21",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal (figure labels / chart text) — interleaved column fragments from the Exhibit IV-2 graphic text layer (\"Belter Press Investment at South ... Value-Added $21-53M AquaDNA Smart Technology...\"); no sentence-level prose. Already reconstructed into wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md (verbatim-ref includes #¶21)."
   },
   {
    "page": 45,
@@ -192,7 +192,7 @@
   {
    "page": 45,
    "para": 27,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.033,
    "words": 37,
    "kind": "prose",
@@ -202,12 +202,12 @@
    "best_fraction": 0.033,
    "first_words": "- OT Asset Backup & Version Control 9.5 Additional FTEs Beyond Site",
    "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶27",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal (figure labels / chart text) — interleaved Exhibit IV-2 column fragments (\"OT Asset Backup & Version Control 9.5 Additional FTEs Beyond Site Security New Source Belt Filter Presses at JIWRF...\"); already reconstructed into wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md (verbatim-ref includes #¶27)."
   },
   {
    "page": 45,
    "para": 28,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 30,
    "kind": "prose",
@@ -217,7 +217,7 @@
    "best_fraction": 0.0,
    "first_words": "- OMFS Managed Process Control Milwaukee-based Rapid Assessment Anaerobic Digestion / Microbial",
    "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶28",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal (figure labels / chart text) — interleaved Exhibit IV-2 column fragments (\"OMFS Managed Process Control Milwaukee-based Rapid Assessment Anaerobic Digestion / Microbial...\"); already reconstructed into wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md (verbatim-ref includes #¶28)."
   },
   {
    "page": 45,
@@ -237,7 +237,7 @@
   {
    "page": 47,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.025,
    "words": 605,
    "kind": "table",
@@ -247,12 +247,12 @@
    "best_fraction": 0.025,
    "first_words": "|CON|VEYANCE & WATER RECOVERY FACI|LITIES||JIWRF & SSWRF||SYST|EM-WIDE| |---|---|---|---|---|---|---|---| |SCADA/OT & Cybersecurity|Odor Management|Emergency",
    "ref": "verbatim/mmsd-om-2028/pages/p0047.md#¶8",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/mmsd-facility-health-check-exhibit.md"
   },
   {
    "page": 48,
    "para": 14,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.041,
    "words": 155,
    "kind": "table",
@@ -262,12 +262,12 @@
    "best_fraction": 0.041,
    "first_words": "|FIVE INTERCONNECTED PEXHIBIT IV-5.FIVE INTERCON|ILLARS THAT DEFINE HOWNECTED TENETS THAT DEF|WE DELIVER",
    "ref": "verbatim/mmsd-om-2028/pages/p0048.md#¶14",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/mmsd-five-tenets-culture-exhibit.md"
   },
   {
    "page": 50,
    "para": 3,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.003,
    "words": 142,
    "kind": "table",
@@ -277,12 +277,12 @@
    "best_fraction": 0.003,
    "first_words": "|EXHI|BIT IV-8.STEPS TO|SET UP PgM FRAM|EWORK FOR SUCCE|EstablishSS|||| |---|---|---|---|---|---|---|---| |GOAL|Mobilize ProgramManagementTeam|LeadershipAlignment|Developmentof HolisticStrategies|Governancefor",
    "ref": "verbatim/mmsd-om-2028/pages/p0050.md#¶3",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md"
   },
   {
    "page": 51,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 25,
    "kind": "prose",
@@ -292,7 +292,7 @@
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
    "ref": "verbatim/mmsd-om-2028/pages/p0051.md#¶1",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 51,
@@ -327,7 +327,7 @@
   {
    "page": 82,
    "para": 15,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 43,
    "kind": "prose",
@@ -337,12 +337,12 @@
    "best_fraction": 0.0,
    "first_words": "- � Planning � Project Management � Optimization � Technology Selection �",
    "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶15",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 82,
    "para": 19,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 34,
    "kind": "prose",
@@ -352,7 +352,7 @@
    "best_fraction": 0.0,
    "first_words": "- � Expediting/Logistics � Mechanical Piping & � Technical Services � Inventory",
    "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶19",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 84,
@@ -372,7 +372,7 @@
   {
    "page": 91,
    "para": 14,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 27,
    "kind": "prose",
@@ -382,12 +382,12 @@
    "best_fraction": 0.0,
    "first_words": "- Defines what the organization � Identifies and prioritizes intends to achieve",
    "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶14",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md"
   },
   {
    "page": 91,
    "para": 18,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.087,
    "words": 31,
    "kind": "prose",
@@ -397,12 +397,12 @@
    "best_fraction": 0.087,
    "first_words": "� Provides approach to � Outlines long term plan for managing the",
    "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶18",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md"
   },
   {
    "page": 93,
    "para": 21,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.13,
    "words": 27,
    "kind": "prose",
@@ -412,7 +412,7 @@
    "best_fraction": 0.13,
    "first_words": "The AMS will provide the framework for maintenance delivery and drive standards",
    "ref": "verbatim/mmsd-om-2028/pages/p0093.md#¶21",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md"
   },
   {
    "page": 100,
@@ -432,7 +432,7 @@
   {
    "page": 118,
    "para": 13,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.18,
    "words": 150,
    "kind": "table",
@@ -442,7 +442,7 @@
    "best_fraction": 0.18,
    "first_words": "|Energy Efficiencyand Optimization|Decarbonization and CleanEnergy Transition|Resource Recovery andCircular Economy|Resilience andClimate Adaptation|Funding and",
    "ref": "verbatim/mmsd-om-2028/pages/p0118.md#¶13",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md"
   },
   {
    "page": 123,
@@ -477,7 +477,7 @@
   {
    "page": 130,
    "para": 4,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 27,
    "kind": "prose",
@@ -487,12 +487,12 @@
    "best_fraction": 0.0,
    "first_words": "Resumes for Eric Habermayer and John Loucks-Powell are provided in Section II",
    "ref": "verbatim/mmsd-om-2028/pages/p0130.md#¶4",
-   "writer_reason": null
+   "writer_reason": "form-boilerplate"
   },
   {
    "page": 136,
    "para": 16,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 28,
    "kind": "prose",
@@ -502,7 +502,7 @@
    "best_fraction": 0.0,
    "first_words": "- � SCADA routing, systems, pump stations, NEXGEN integration, and conveyance assets.",
    "ref": "verbatim/mmsd-om-2028/pages/p0136.md#¶16",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 140,
@@ -512,7 +512,7 @@
    "words": 32,
    "kind": "prose",
    "section_id": "mmsd-om-2028:35",
-   "section_title": "V.B. Strategies for Bettering the Service Area \nthrough Targeted Regional Partnering",
+   "section_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
    "best_block": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
    "best_fraction": 0.241,
    "first_words": "A. Community-Focused Leadership Team to Drive Positive Long-Term Outcomes B. Strategies for",
@@ -552,7 +552,7 @@
   {
    "page": 142,
    "para": 47,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.136,
    "words": 58,
    "kind": "prose",
@@ -562,12 +562,12 @@
    "best_fraction": 0.136,
    "first_words": "GHG Emissions/ESG: Advanced Water Treatment/Water Establishing Industry-Wide Guidance Reuse: for Water Utility",
    "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶47",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md"
   },
   {
    "page": 142,
    "para": 48,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.017,
    "words": 64,
    "kind": "prose",
@@ -577,7 +577,7 @@
    "best_fraction": 0.017,
    "first_words": "Wastewater Treatment: Residuals Processing and Development of Innovative Predictive Resources Recovery: Control",
    "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶48",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md"
   },
   {
    "page": 145,
