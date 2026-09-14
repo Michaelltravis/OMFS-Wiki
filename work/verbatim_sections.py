@@ -149,11 +149,16 @@ def repeating_lines(pages: dict[int, tuple[dict, list[Para]]], min_pages: int = 
     counts: dict[str, set[int]] = {}
     for pno, (_fm, paras) in pages.items():
         for para in paras:
-            for ln in re.split(r"<br\s*/?>|\n", para.text):
-                s = ln.strip()
+            # count each line, and the whole paragraph as one unit (tab bars are extracted as
+            # a single 30-40 word paragraph that recurs on every page of a section)
+            units = [ln.strip() for ln in re.split(r"<br\s*/?>|\n", para.text)]
+            whole = plain_text(para.text)
+            if whole and len(whole) <= 400:
+                units.append(whole)
+            for s in units:
                 if not s or s.startswith("<!--"):
                     continue
-                if len(s) > 160:
+                if len(s) > 400:
                     continue
                 n = norm_repeat(s)
                 if len(n) < 8:
@@ -709,7 +714,11 @@ def is_substantive(para: Para, repeating: set[str], min_words: int = 25, include
     first = para.first_line
     if CAPTION_RE.match(plain_text(first)):
         return False, "caption"
-    if norm_repeat(first) in repeating:
+    if norm_repeat(first) in repeating or norm_repeat(plain_text(t)) in repeating:
+        return False, "repeating"
+    # a paragraph made mostly of repeating lines (tab bar + page number) is furniture too
+    units = [u.strip() for u in re.split(r"<br\s*/?>|\n", t) if u.strip() and not u.strip().startswith("<!--")]
+    if units and sum(1 for u in units if norm_repeat(u) in repeating) >= max(1, 0.6 * len(units)):
         return False, "repeating"
     words = plain_text(t).split()
     if len(words) < min_words:

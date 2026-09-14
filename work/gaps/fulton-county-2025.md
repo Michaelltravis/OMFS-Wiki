@@ -2,7 +2,7 @@
 
 substantive 690 · covered 498 · partial 74 · uncovered 118 · writer-skipped 0 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 130)
 
-skipped: caption 55, heading 429, picture-text 159, recovered-tail 167, repeating 38, short 566
+skipped: caption 55, heading 429, picture-text 159, recovered-tail 167, repeating 41, short 563
 
 ## Section 1 | Executive Summary — uncovered 3, partial 1
 

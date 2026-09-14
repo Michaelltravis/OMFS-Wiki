@@ -1,8 +1,8 @@
 # Uncovered paragraphs — mmsd-om-2028
 
-substantive 759 · covered 689 · partial 12 · uncovered 58 · writer-skipped 0 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 250)
+substantive 727 · covered 689 · partial 12 · uncovered 26 · writer-skipped 0 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 250)
 
-skipped: caption 9, heading 514, picture-text 384, recovered-tail 65, repeating 310, short 669
+skipped: caption 9, heading 514, picture-text 384, recovered-tail 65, repeating 361, short 650
 
 ## Executive Summary — uncovered 1, partial 0
 
@@ -17,17 +17,9 @@ skipped: caption 9, heading 514, picture-text 384, recovered-tail 65, repeating 
 - p0021¶1 · uncovered 0% · 35 w · prose — B. HR and C. PM and Corrective D. Use of E. Technical…
 - p0021¶5 · uncovered 16% · 75 w · prose · best `wiki/management-staffing/mmsd-staffing-certainty-framework-exhibit.md` (16%) — PROVEN FRAMEWORK To fill all positions and retain and recruit FOR STAFFING…
 
-## 4.3. Succession Planning—A Structured, Visible Path to Advancement — uncovered 1, partial 0
-
-- p0024¶1 · uncovered 0% · 41 w · prose — A. Staffing Strategy B. HR and C. PM and Corrective D. Use…
-
 ## 2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES — uncovered 1, partial 0
 
 - p0026¶1 · uncovered 0% · 31 w · prose — C. PM and Corrective D. Use of E. Technical F. Safe Work…
-
-## 1. IDENTIFYING, SELECTING, AND MANAGING SUBCONTRACTORS — uncovered 1, partial 0
-
-- p0027¶1 · uncovered 0% · 42 w · prose — A. Staffing Strategy B. HR and C. PM and Corrective D. Use…
 
 ## 1. COMMITMENT TO LEARNING, SAFETY, AND CONTINUOUS IMPROVEMENT — uncovered 1, partial 0
 
@@ -45,26 +37,6 @@ skipped: caption 9, heading 514, picture-text 384, recovered-tail 65, repeating 
 
 - p0032¶1 · uncovered 0% · 25 w · prose — D. Use of E. Technical F. Safe Work G. Positive H. Workforce…
 
-## 1.1. Structured Career Pathways Promote Advancement Opportunities — uncovered 1, partial 0
-
-- p0033¶1 · uncovered 0% · 42 w · prose — A. Staffing Strategy B. HR and C. PM and Corrective D. Use…
-
-## 1.3. Internships Peak Interest in Careers — uncovered 1, partial 0
-
-- p0034¶1 · uncovered 0% · 42 w · prose — A. Staffing Strategy B. HR and C. PM and Corrective D. Use…
-
-## Public Outreach Coordinator – Toyin Ogunfolaju — uncovered 1, partial 0
-
-- p0038¶3 · uncovered 0% · 41 w · prose — A. Staffing Strategy B. HR and C. PM and Corrective D. Use…
-
-## WRF Operations Manager – Aleksey Reznik — uncovered 1, partial 0
-
-- p0039¶3 · uncovered 0% · 41 w · prose — A. Staffing Strategy B. HR and C. PM and Corrective D. Use…
-
-## Capital Project Coordinator – Liie Hill, PE — uncovered 1, partial 0
-
-- p0041¶2 · uncovered 0% · 41 w · prose — A. Staffing Strategy B. HR and C. PM and Corrective D. Use…
-
 ## Energy and Chemical Optimization — uncovered 3, partial 2
 
 - p0045¶21 · uncovered 3% · 30 w · prose · best `wiki/technical-approach/mmsd-exhibit-future-collaboration-intelligent-om-and-ot-security-table.md` (3%) — - Belter Press Investment at South Value-Added $21- 53M AquaDNA Smart Technology…
@@ -73,11 +45,9 @@ skipped: caption 9, heading 514, picture-text 384, recovered-tail 65, repeating 
 - p0045¶28 · uncovered 0% · 30 w · prose — - OMFS Managed Process Control Milwaukee-based Rapid Assessment Anaerobic Digestion / Microbial…
 - p0045¶29 · partial 34% · 33 w · prose · best `wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md` (34%) — - Onsite Asset Tag Fabrication MMSD Knowledgeable Strategy Pilot Facility (JIWRF) Staff…
 
-## IV.A. Approach to Management, Operations, PM, and CM — uncovered 3, partial 0
+## IV.A. Approach to Management, Operations, PM, and CM — uncovered 1, partial 0
 
-- p0047¶1 · uncovered 0% · 40 w · prose — A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities…
 - p0047¶8 · uncovered 2% · 605 w · table · best `wiki/technical-approach/mmsd-facility-health-check-exhibit.md` (2%) — |CON|VEYANCE & WATER RECOVERY FACI|LITIES||JIWRF & SSWRF||SYST|EM-WIDE| |---|---|---|---|---|---|---|---| |SCADA/OT & Cybersecurity|Odor Management|Emergency…
-- p0048¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
 
 ## 1.2. PgM Framework is the Foundation of Our Shared Success — uncovered 1, partial 0
 
@@ -93,31 +63,6 @@ skipped: caption 9, heading 514, picture-text 384, recovered-tail 65, repeating 
 
 - p0052¶14 · partial 28% · 63 w · prose · best `wiki/technical-approach/mmsd-operations-approach-and-operational-priorities.md` (28%) — SECTION 2.1 SECTION 2.2 SECTION 2.3 SECTION 2.4 SECTION 2.5 SECTION 2.6…
 
-## ODOR CONTROL — uncovered 1, partial 0
-
-- p0057¶1 · uncovered 0% · 26 w · prose — A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.…
-
-## Specific Optimization Opportunities at SSWRF and JIWRF — uncovered 1, partial 0
-
-- p0062¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-
-## SSWRF digester gas may meet all facility’s power needs — uncovered 2, partial 0
-
-- p0069¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-- p0071¶1 · uncovered 0% · 26 w · prose — A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.…
-
-## Our Digital One Water connects data across the full wastewater — uncovered 1, partial 0
-
-- p0078¶1 · uncovered 0% · 26 w · prose — A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.…
-
-## 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise — uncovered 1, partial 0
-
-- p0080¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-
-## 2.4.2. Jacobs OT Asset Automated Backup and Version Control — uncovered 1, partial 0
-
-- p0081¶1 · uncovered 0% · 40 w · prose — A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities…
-
 ## 2.5. Leveraging Corporate Resources for Operational Excellence — uncovered 2, partial 0
 
 - p0082¶15 · uncovered 0% · 43 w · prose — - � Planning � Project Management � Optimization � Technology Selection �…
@@ -127,18 +72,6 @@ skipped: caption 9, heading 514, picture-text 384, recovered-tail 65, repeating 
 
 - p0084¶5 · partial 28% · 41 w · prose · best `wiki/technical-approach/mmsd-integrated-performance-monitoring-framework.md` (28%) — Monitoring, Jacobs will deliver a comprehensive, data-driven tracking and framework for monitoring,…
 
-## 2.6.4. Milorganite Production and Biosolids Operations — uncovered 1, partial 0
-
-- p0085¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-
-## 2.7.5. Holistic, Systems-Based Approach — uncovered 1, partial 0
-
-- p0089¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-
-## 3.1. Jacobs Understands and Supports MMSD’s Maintenance Objectives and Challenges — uncovered 1, partial 0
-
-- p0091¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-
 ## Strategic Asset Management Plan (SAMP) — uncovered 1, partial 0
 
 - p0091¶14 · uncovered 0% · 27 w · prose — - Defines what the organization � Identifies and prioritizes intends to achieve…
@@ -147,43 +80,25 @@ skipped: caption 9, heading 514, picture-text 384, recovered-tail 65, repeating 
 
 - p0091¶18 · uncovered 8% · 31 w · prose · best `wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md` (8%) — � Provides approach to � Outlines long term plan for managing the…
 
-## 3.2.2. AMS Drives Maintenance Delivery — uncovered 2, partial 0
+## 3.2.2. AMS Drives Maintenance Delivery — uncovered 1, partial 0
 
 - p0093¶21 · uncovered 13% · 27 w · prose · best `wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md` (13%) — The AMS will provide the framework for maintenance delivery and drive standards…
-- p0094¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
 
-## 3.9.1. Integrated Approach to CIP Planning — uncovered 2, partial 1
+## 3.9.1. Integrated Approach to CIP Planning — uncovered 0, partial 1
 
-- p0100¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
 - p0100¶22 · partial 24% · 28 w · prose · best `wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md` (24%) — - � Identifies candidate assets for further net present Tri gg er…
-- p0102¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
 
-## 4.1.5. Incident Reporting and Investigation — uncovered 1, partial 0
-
-- p0105¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-
-## 4.2.2. Security Management Structure — uncovered 1, partial 0
-
-- p0107¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-
-## 7.2. Resource Recovery and Biosolids Optimization — uncovered 2, partial 0
+## 7.2. Resource Recovery and Biosolids Optimization — uncovered 1, partial 0
 
 - p0118¶13 · uncovered 18% · 150 w · table · best `wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md` (18%) — |Energy Efficiencyand Optimization|Decarbonization and CleanEnergy Transition|Resource Recovery andCircular Economy|Resilience andClimate Adaptation|Funding and…
-- p0119¶1 · uncovered 0% · 40 w · prose — A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities…
 
 ## Project Management Office — uncovered 0, partial 1
 
 - p0123¶10 · partial 40% · 25 w · prose · best `wiki/management-staffing/mmsd-transition-organization-team-roster.md` (40%) — Project Manager Kevin Dahl, PE, CRL Transition Team Manager Transition Deputy Manager…
 
-## 1.10. Schedule for Smooth Transition of Operations and Related Systems — uncovered 1, partial 1
+## 1.10. Schedule for Smooth Transition of Operations and Related Systems — uncovered 0, partial 1
 
 - p0126¶3 · partial 40% · 526 w · table · best `wiki/management-staffing/mmsd-high-level-transition-schedule-table.md` (40%) — |EXHIBIT IV-58.HIGH-LEVEL TRANSITION SCHEDULEIV.APPROACH|Task Lead|Start Date|CompletionDate|A.Approach to Management,Operations, PM, and CMB.Pre-term ActivitiesD.Potential…
-- p0127¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-
-## 2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK — uncovered 2, partial 0
-
-- p0128¶1 · uncovered 0% · 29 w · prose — B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential…
-- p0129¶2 · uncovered 0% · 26 w · prose — A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.…
 
 ## 3.4. Integrations Required by Jacobs — uncovered 1, partial 0
 
@@ -198,25 +113,12 @@ through Targeted Regional Partnering — uncovered 0, partial 1
 
 - p0140¶1 · partial 41% · 32 w · prose · best `wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md` (24%) — A. Community-Focused Leadership Team to Drive Positive Long-Term Outcomes B. Strategies for…
 
-## Leveraging an Ongoing Riverfront Estuary Renewal to Enhance Regional Benefits — uncovered 1, partial 0
-
-- p0141¶1 · uncovered 4% · 48 w · prose · best `wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md` (4%) — A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for…
-
-## Support Business Case Development — uncovered 3, partial 2
+## Support Business Case Development — uncovered 2, partial 2
 
 - p0141¶52 · partial 41% · 28 w · prose · best `wiki/win-themes/mmsd-regional-partnership-strategy-workforce-economic-growth.md` (41%) — - Leverage union relationships to backfill critical positions and � Scale-up MMSD’s…
 - p0141¶53 · partial 24% · 37 w · prose · best `wiki/win-themes/mmsd-regional-partnership-strategy-workforce-economic-growth.md` (24%) — - � Develop apprenticeship program tied to MMSD needs. scheduling, safety, and…
 - p0142¶47 · uncovered 13% · 58 w · prose · best `wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md` (13%) — GHG Emissions/ESG: Advanced Water Treatment/Water Establishing Industry-Wide Guidance Reuse: for Water Utility…
 - p0142¶48 · uncovered 1% · 64 w · prose · best `wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md` (1%) — Wastewater Treatment: Residuals Processing and Development of Innovative Predictive Resources Recovery: Control…
-- p0143¶1 · uncovered 4% · 48 w · prose · best `wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md` (4%) — A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for…
-
-## Academic and Research Partnerships — uncovered 1, partial 0
-
-- p0142¶1 · uncovered 4% · 48 w · prose · best `wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md` (4%) — A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for…
-
-## 1. JXN Water, Jackson, Mississippi — uncovered 1, partial 0
-
-- p0144¶1 · uncovered 4% · 48 w · prose · best `wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md` (4%) — A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for…
 
 ## VI.A. Exceptions — uncovered 0, partial 1
 

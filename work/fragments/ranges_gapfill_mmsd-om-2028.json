@@ -60,11 +60,11 @@
   },
   {
    "slug": "mmsd-om-2028",
-   "name": "1. ORGANIZATIONAL STRUCTURE + 1. OUR HR AND STAFFING COMMITMENT TO MMSD",
+   "name": "1. ORGANIZATIONAL STRUCTURE + 1. OUR HR AND STAFFING COMMITMENT TO MMSD + 2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES",
    "sectionId": "mmsd-om-2028:10.1-organizational-structure",
    "pages": [
     19,
-    21
+    26
    ],
    "category": "management-staffing",
    "rfpSectionType": [
@@ -103,59 +103,7 @@
      "kind": "prose",
      "first_words": "PROVEN FRAMEWORK To fill all positions and retain and recruit FOR STAFFING",
      "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶5"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:10.1-organizational-structure",
-    "mmsd-om-2028:11.1-our-hr-and-staffing-commitment-to-mmsd"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "4. LONG-TERM RETENTION AND SUCCESSION PLANNING",
-   "sectionId": "mmsd-om-2028:11.4-long-term-retention-and-succession-planning",
-   "pages": [
-    24,
-    24
-   ],
-   "category": "management-staffing",
-   "rfpSectionType": [
-    "transition"
-   ],
-   "existingBlocks": [
-    "wiki/management-staffing/mmsd-long-term-retention-and-succession-planning.md",
-    "wiki/management-staffing/mmsd-union-partners-exhibit.md"
-   ],
-   "uncovered": [
-    {
-     "page": 24,
-     "para": 1,
-     "words": 41,
-     "kind": "prose",
-     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-     "ref": "verbatim/mmsd-om-2028/pages/p0024.md#¶1"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:11.4-long-term-retention-and-succession-planning"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES + 1. IDENTIFYING, SELECTING, AND MANAGING SUBCONTRACTORS",
-   "sectionId": "mmsd-om-2028:12.2-integrated-asset-management-maintenance-staff-focused-on-o",
-   "pages": [
-    26,
-    27
-   ],
-   "category": "management-staffing",
-   "rfpSectionType": [
-    "staffing"
-   ],
-   "existingBlocks": [
-    "wiki/management-staffing/mmsd-subcontractor-selection-and-management-process.md"
-   ],
-   "uncovered": [
+    },
     {
      "page": 26,
      "para": 1,
@@ -163,19 +111,12 @@
      "kind": "prose",
      "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
      "ref": "verbatim/mmsd-om-2028/pages/p0026.md#¶1"
-    },
-    {
-     "page": 27,
-     "para": 1,
-     "words": 42,
-     "kind": "prose",
-     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-     "ref": "verbatim/mmsd-om-2028/pages/p0027.md#¶1"
     }
    ],
    "sectionIds": [
-    "mmsd-om-2028:12.2-integrated-asset-management-maintenance-staff-focused-on-o",
-    "mmsd-om-2028:13.1-identifying-selecting-and-managing-subcontractors"
+    "mmsd-om-2028:10.1-organizational-structure",
+    "mmsd-om-2028:11.1-our-hr-and-staffing-commitment-to-mmsd",
+    "mmsd-om-2028:12.2-integrated-asset-management-maintenance-staff-focused-on-o"
    ]
   },
   {
@@ -211,7 +152,7 @@
    "sectionId": "mmsd-om-2028:14.3-operations-management-staff-training-programs",
    "pages": [
     29,
-    34
+    32
    ],
    "category": "management-staffing",
    "rfpSectionType": [
@@ -250,108 +191,12 @@
      "kind": "prose",
      "first_words": "D. Use of E. Technical F. Safe Work G. Positive H. Workforce",
      "ref": "verbatim/mmsd-om-2028/pages/p0032.md#¶1"
-    },
-    {
-     "page": 33,
-     "para": 1,
-     "words": 42,
-     "kind": "prose",
-     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-     "ref": "verbatim/mmsd-om-2028/pages/p0033.md#¶1"
-    },
-    {
-     "page": 34,
-     "para": 1,
-     "words": 42,
-     "kind": "prose",
-     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-     "ref": "verbatim/mmsd-om-2028/pages/p0034.md#¶1"
     }
    ],
    "sectionIds": [
     "mmsd-om-2028:14.3-operations-management-staff-training-programs",
     "mmsd-om-2028:16.2-maintaining-a-respectful-workplace-of-inclusion-and-belong",
     "mmsd-om-2028:17.1-elements-of-the-plan-and-implementation-strategies"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "Public Outreach Coordinator – Toyin Ogunfolaju",
-   "sectionId": "mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju",
-   "pages": [
-    38,
-    38
-   ],
-   "category": "win-themes",
-   "rfpSectionType": [
-    "exec-summary"
-   ],
-   "existingBlocks": [
-    "wiki/resumes/mmsd-frank-dipietrapaul-maintenance-asset-manager-wrfs.md",
-    "wiki/resumes/mmsd-john-loucks-powell-director-maintenance-asset-management.md",
-    "wiki/resumes/mmsd-toyin-ogunfolaju-public-outreach-coordinator.md"
-   ],
-   "uncovered": [
-    {
-     "page": 38,
-     "para": 3,
-     "words": 41,
-     "kind": "prose",
-     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-     "ref": "verbatim/mmsd-om-2028/pages/p0038.md#¶3"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "WRF Operations Manager – Aleksey Reznik + Capital Project Coordinator – Liie Hill, PE",
-   "sectionId": "mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik",
-   "pages": [
-    39,
-    41
-   ],
-   "category": "resumes",
-   "rfpSectionType": [
-    "resume"
-   ],
-   "existingBlocks": [
-    "wiki/resumes/mmsd-aleksey-reznik-wrf-operations-manager.md",
-    "wiki/resumes/mmsd-bill-desing-chief-engineer.md",
-    "wiki/resumes/mmsd-brooke-winters-hr.md",
-    "wiki/resumes/mmsd-dave-haverly-safety-security-jiwrf.md",
-    "wiki/resumes/mmsd-eric-habermayer-conveyance-manager-cmms.md",
-    "wiki/resumes/mmsd-jeff-williams-labor-relations.md",
-    "wiki/resumes/mmsd-liie-hill-capital-project-coordinator.md",
-    "wiki/resumes/mmsd-monty-sedlak-maintenance-asset-manager-conveyance.md",
-    "wiki/resumes/mmsd-natalie-lenz-capital-project-coordinator.md",
-    "wiki/resumes/mmsd-susan-moisio-wet-weather-conveyance-director.md",
-    "wiki/resumes/mmsd-tracy-james-safety-security-sswrf.md",
-    "wiki/resumes/mmsd-travis-leech-security-safety-manager.md"
-   ],
-   "uncovered": [
-    {
-     "page": 39,
-     "para": 3,
-     "words": 41,
-     "kind": "prose",
-     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-     "ref": "verbatim/mmsd-om-2028/pages/p0039.md#¶3"
-    },
-    {
-     "page": 41,
-     "para": 2,
-     "words": 41,
-     "kind": "prose",
-     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-     "ref": "verbatim/mmsd-om-2028/pages/p0041.md#¶2"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-    "mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik"
    ]
   },
   {
@@ -411,7 +256,7 @@
    "sectionId": "mmsd-om-2028:22",
    "pages": [
     47,
-    48
+    47
    ],
    "category": "technical-approach",
    "rfpSectionType": [
@@ -547,27 +392,11 @@
    "uncovered": [
     {
      "page": 47,
-     "para": 1,
-     "words": 40,
-     "kind": "prose",
-     "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
-     "ref": "verbatim/mmsd-om-2028/pages/p0047.md#¶1"
-    },
-    {
-     "page": 47,
      "para": 8,
      "words": 605,
      "kind": "table",
      "first_words": "|CON|VEYANCE & WATER RECOVERY FACI|LITIES||JIWRF & SSWRF||SYST|EM-WIDE| |---|---|---|---|---|---|---|---| |SCADA/OT & Cybersecurity|Odor Management|Emergency",
      "ref": "verbatim/mmsd-om-2028/pages/p0047.md#¶8"
-    },
-    {
-     "page": 48,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0048.md#¶1"
     }
    ],
    "sectionIds": [
@@ -634,137 +463,11 @@
   },
   {
    "slug": "mmsd-om-2028",
-   "name": "IV.A.2. Approach to Operations of Facilities (part 1)",
-   "sectionId": "mmsd-om-2028:24",
-   "pages": [
-    57,
-    62
-   ],
-   "category": "technical-approach",
-   "rfpSectionType": [
-    "tech-approach"
-   ],
-   "existingBlocks": [
-    "wiki/technical-approach/mmsd-aeration-energy-and-process-optimization.md",
-    "wiki/technical-approach/mmsd-collaborative-decision-making-governance.md",
-    "wiki/technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md",
-    "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
-    "wiki/technical-approach/mmsd-decision-making-hierarchy-three-tiers.md",
-    "wiki/technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md",
-    "wiki/technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md",
-    "wiki/technical-approach/mmsd-effective-efficient-wet-weather-operations.md",
-    "wiki/technical-approach/mmsd-energy-demand-management-predictive-advisories.md",
-    "wiki/technical-approach/mmsd-energy-optimization-focus-area-and-dynamic-energy-balance.md",
-    "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
-    "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
-    "wiki/technical-approach/mmsd-intelligent-dry-weather-management.md",
-    "wiki/technical-approach/mmsd-key-operational-focus-areas.md",
-    "wiki/technical-approach/mmsd-landfill-gas-power-generation-and-waste-heat-strategy.md",
-    "wiki/technical-approach/mmsd-liquid-treatment-optimization-opportunities.md",
-    "wiki/technical-approach/mmsd-monitoring-control-practices-conveyance-liquid-table.md",
-    "wiki/technical-approach/mmsd-monitoring-control-practices-solids-energy-chemical-odor-table.md",
-    "wiki/technical-approach/mmsd-process-monitoring-control-system-wide-insight.md",
-    "wiki/technical-approach/mmsd-project-manager-leadership-decision-philosophy.md",
-    "wiki/technical-approach/mmsd-reliable-biosolids-product-risk-management-and-housekeeping.md",
-    "wiki/technical-approach/mmsd-renewable-gas-turbine-uptime-and-high-strength-waste.md",
-    "wiki/technical-approach/mmsd-settleability-optimization-strategies-table.md",
-    "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
-    "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
-    "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
-    "wiki/technical-approach/mmsd-wrf-wet-processes-systemwide-integration.md"
-   ],
-   "uncovered": [
-    {
-     "page": 57,
-     "para": 1,
-     "words": 26,
-     "kind": "prose",
-     "first_words": "A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.",
-     "ref": "verbatim/mmsd-om-2028/pages/p0057.md#¶1"
-    },
-    {
-     "page": 62,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0062.md#¶1"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:24"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "IV.A.2. Approach to Operations of Facilities (part 2)",
-   "sectionId": "mmsd-om-2028:24",
-   "pages": [
-    69,
-    71
-   ],
-   "category": "technical-approach",
-   "rfpSectionType": [
-    "tech-approach"
-   ],
-   "existingBlocks": [
-    "wiki/technical-approach/mmsd-aeration-energy-and-process-optimization.md",
-    "wiki/technical-approach/mmsd-collaborative-decision-making-governance.md",
-    "wiki/technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md",
-    "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
-    "wiki/technical-approach/mmsd-decision-making-hierarchy-three-tiers.md",
-    "wiki/technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md",
-    "wiki/technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md",
-    "wiki/technical-approach/mmsd-effective-efficient-wet-weather-operations.md",
-    "wiki/technical-approach/mmsd-energy-demand-management-predictive-advisories.md",
-    "wiki/technical-approach/mmsd-energy-optimization-focus-area-and-dynamic-energy-balance.md",
-    "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
-    "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
-    "wiki/technical-approach/mmsd-intelligent-dry-weather-management.md",
-    "wiki/technical-approach/mmsd-key-operational-focus-areas.md",
-    "wiki/technical-approach/mmsd-landfill-gas-power-generation-and-waste-heat-strategy.md",
-    "wiki/technical-approach/mmsd-liquid-treatment-optimization-opportunities.md",
-    "wiki/technical-approach/mmsd-monitoring-control-practices-conveyance-liquid-table.md",
-    "wiki/technical-approach/mmsd-monitoring-control-practices-solids-energy-chemical-odor-table.md",
-    "wiki/technical-approach/mmsd-process-monitoring-control-system-wide-insight.md",
-    "wiki/technical-approach/mmsd-project-manager-leadership-decision-philosophy.md",
-    "wiki/technical-approach/mmsd-reliable-biosolids-product-risk-management-and-housekeeping.md",
-    "wiki/technical-approach/mmsd-renewable-gas-turbine-uptime-and-high-strength-waste.md",
-    "wiki/technical-approach/mmsd-settleability-optimization-strategies-table.md",
-    "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
-    "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
-    "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
-    "wiki/technical-approach/mmsd-wrf-wet-processes-systemwide-integration.md"
-   ],
-   "uncovered": [
-    {
-     "page": 69,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0069.md#¶1"
-    },
-    {
-     "page": 71,
-     "para": 1,
-     "words": 26,
-     "kind": "prose",
-     "first_words": "A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.",
-     "ref": "verbatim/mmsd-om-2028/pages/p0071.md#¶1"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:24"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "IV.A.6. Responding to Public Odor Complaints (part 1)",
+   "name": "IV.A.6. Responding to Public Odor Complaints",
    "sectionId": "mmsd-om-2028:25",
    "pages": [
-    78,
-    85
+    82,
+    82
    ],
    "category": "technical-approach",
    "rfpSectionType": [
@@ -810,30 +513,6 @@
    ],
    "uncovered": [
     {
-     "page": 78,
-     "para": 1,
-     "words": 26,
-     "kind": "prose",
-     "first_words": "A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.",
-     "ref": "verbatim/mmsd-om-2028/pages/p0078.md#¶1"
-    },
-    {
-     "page": 80,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0080.md#¶1"
-    },
-    {
-     "page": 81,
-     "para": 1,
-     "words": 40,
-     "kind": "prose",
-     "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
-     "ref": "verbatim/mmsd-om-2028/pages/p0081.md#¶1"
-    },
-    {
      "page": 82,
      "para": 15,
      "words": 43,
@@ -848,14 +527,6 @@
      "kind": "prose",
      "first_words": "- � Expediting/Logistics � Mechanical Piping & � Technical Services � Inventory",
      "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶19"
-    },
-    {
-     "page": 85,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0085.md#¶1"
     }
    ],
    "sectionIds": [
@@ -864,11 +535,11 @@
   },
   {
    "slug": "mmsd-om-2028",
-   "name": "IV.A.6. Responding to Public Odor Complaints (part 2) + IV.A.3. Approach to PM and CM (part 1)",
-   "sectionId": "mmsd-om-2028:25",
+   "name": "IV.A.3. Approach to PM and CM",
+   "sectionId": "mmsd-om-2028:26",
    "pages": [
-    89,
-    94
+    91,
+    93
    ],
    "category": "technical-approach",
    "rfpSectionType": [
@@ -879,75 +550,23 @@
     "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
     "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
     "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
-    "wiki/technical-approach/mmsd-biosolids-heat-dried-product-monitoring.md",
     "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
-    "wiki/technical-approach/mmsd-chemical-usage-monitoring-and-control.md",
     "wiki/technical-approach/mmsd-cip-program-scale-table.md",
     "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
     "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
-    "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
-    "wiki/technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md",
-    "wiki/technical-approach/mmsd-continuous-improvement-corrective-action-tracking.md",
-    "wiki/technical-approach/mmsd-corporate-resources-six-pillars-exhibit.md",
     "wiki/technical-approach/mmsd-corrective-maintenance-and-failure-analysis.md",
     "wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md",
-    "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-approach.md",
-    "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md",
-    "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
-    "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
-    "wiki/technical-approach/mmsd-digital-twin-benefits-table.md",
-    "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md",
-    "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odors.md",
     "wiki/technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md",
     "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
-    "wiki/technical-approach/mmsd-holistic-systems-based-one-water-one-team.md",
-    "wiki/technical-approach/mmsd-integrated-performance-monitoring-framework.md",
     "wiki/technical-approach/mmsd-integrated-reliability-maintenance-program-outcomes.md",
-    "wiki/technical-approach/mmsd-leveraging-corporate-resources-operational-excellence.md",
     "wiki/technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md",
     "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
     "wiki/technical-approach/mmsd-maintenance-transparency-reporting-governance.md",
-    "wiki/technical-approach/mmsd-odor-challenge-and-proactive-odor-management-strategy.md",
-    "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
-    "wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md",
-    "wiki/technical-approach/mmsd-odor-continuous-improvement-and-community-outreach.md",
-    "wiki/technical-approach/mmsd-odor-control-focus-area-and-program-commitment.md",
-    "wiki/technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md",
-    "wiki/technical-approach/mmsd-odor-early-warning-system-sulfiloggers-aermod.md",
-    "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md",
-    "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-training.md",
-    "wiki/technical-approach/mmsd-ot-asset-management-modules-table.md",
-    "wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md",
-    "wiki/technical-approach/mmsd-ot-automated-backup-benefits-table.md",
-    "wiki/technical-approach/mmsd-ot-automated-plc-backup-and-version-control.md",
-    "wiki/technical-approach/mmsd-ot-privileged-access-management-service.md",
     "wiki/technical-approach/mmsd-pm-optimization-and-work-planning.md",
     "wiki/technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md",
-    "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
-    "wiki/technical-approach/mmsd-six-point-compliance-program-exhibit.md",
-    "wiki/technical-approach/mmsd-tunnel-operations-wet-weather-monitoring.md",
-    "wiki/technical-approach/mmsd-unified-compliance-oversight-and-stewardship.md",
-    "wiki/technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md",
-    "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
     "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md"
    ],
    "uncovered": [
-    {
-     "page": 89,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0089.md#¶1"
-    },
-    {
-     "page": 91,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶1"
-    },
     {
      "page": 91,
      "para": 14,
@@ -971,123 +590,10 @@
      "kind": "prose",
      "first_words": "The AMS will provide the framework for maintenance delivery and drive standards",
      "ref": "verbatim/mmsd-om-2028/pages/p0093.md#¶21"
-    },
-    {
-     "page": 94,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0094.md#¶1"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:25",
-    "mmsd-om-2028:26"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "IV.A.3. Approach to PM and CM (part 2)",
-   "sectionId": "mmsd-om-2028:26",
-   "pages": [
-    100,
-    102
-   ],
-   "category": "technical-approach",
-   "rfpSectionType": [
-    "tech-approach"
-   ],
-   "existingBlocks": [
-    "wiki/technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md",
-    "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
-    "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
-    "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
-    "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
-    "wiki/technical-approach/mmsd-cip-program-scale-table.md",
-    "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
-    "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
-    "wiki/technical-approach/mmsd-corrective-maintenance-and-failure-analysis.md",
-    "wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md",
-    "wiki/technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md",
-    "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
-    "wiki/technical-approach/mmsd-integrated-reliability-maintenance-program-outcomes.md",
-    "wiki/technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md",
-    "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
-    "wiki/technical-approach/mmsd-maintenance-transparency-reporting-governance.md",
-    "wiki/technical-approach/mmsd-pm-optimization-and-work-planning.md",
-    "wiki/technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md",
-    "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md"
-   ],
-   "uncovered": [
-    {
-     "page": 100,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0100.md#¶1"
-    },
-    {
-     "page": 102,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0102.md#¶1"
     }
    ],
    "sectionIds": [
     "mmsd-om-2028:26"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
-   "sectionId": "mmsd-om-2028:27",
-   "pages": [
-    105,
-    107
-   ],
-   "category": "compliance-plans",
-   "rfpSectionType": [
-    "compliance"
-   ],
-   "existingBlocks": [
-    "wiki/compliance-plans/mmsd-cybersecurity-access-awareness-and-data-protection.md",
-    "wiki/compliance-plans/mmsd-cybersecurity-governance-and-incident-response.md",
-    "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
-    "wiki/compliance-plans/mmsd-innovative-security-enhancements.md",
-    "wiki/compliance-plans/mmsd-safety-auditing-and-preliminary-site-assessment.md",
-    "wiki/compliance-plans/mmsd-safety-culture-beyondzero-and-performance-record.md",
-    "wiki/compliance-plans/mmsd-safety-how-we-do-it-and-training-curriculum.md",
-    "wiki/compliance-plans/mmsd-safety-leadership-training-and-incident-reporting.md",
-    "wiki/compliance-plans/mmsd-safety-management-system-required-plans.md",
-    "wiki/compliance-plans/mmsd-security-access-control-surveillance-and-incident-response.md",
-    "wiki/compliance-plans/mmsd-security-awareness-and-workplace-violence-preparedness.md",
-    "wiki/compliance-plans/mmsd-security-expert-spotlight-gist-waddell.md",
-    "wiki/compliance-plans/mmsd-security-program-framework-and-management-structure.md"
-   ],
-   "uncovered": [
-    {
-     "page": 105,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0105.md#¶1"
-    },
-    {
-     "page": 107,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0107.md#¶1"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:27"
    ]
   },
   {
@@ -1096,7 +602,7 @@
    "sectionId": "mmsd-om-2028:29",
    "pages": [
     118,
-    119
+    118
    ],
    "category": "technical-approach",
    "rfpSectionType": [
@@ -1114,14 +620,6 @@
      "kind": "table",
      "first_words": "|Energy Efficiencyand Optimization|Decarbonization and CleanEnergy Transition|Resource Recovery andCircular Economy|Resilience andClimate Adaptation|Funding and",
      "ref": "verbatim/mmsd-om-2028/pages/p0118.md#¶13"
-    },
-    {
-     "page": 119,
-     "para": 1,
-     "words": 40,
-     "kind": "prose",
-     "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
-     "ref": "verbatim/mmsd-om-2028/pages/p0119.md#¶1"
     }
    ],
    "sectionIds": [
@@ -1130,39 +628,10 @@
   },
   {
    "slug": "mmsd-om-2028",
-   "name": "1.10. Schedule for Smooth Transition of Operations and Related Systems",
-   "sectionId": "mmsd-om-2028:30.1-10-schedule-for-smooth-transition-of-operations-and-relate",
-   "pages": [
-    127,
-    127
-   ],
-   "category": "management-staffing",
-   "rfpSectionType": [
-    "transition"
-   ],
-   "existingBlocks": [
-    "wiki/management-staffing/mmsd-high-level-transition-schedule-table.md"
-   ],
-   "uncovered": [
-    {
-     "page": 127,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0127.md#¶1"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:30.1-10-schedule-for-smooth-transition-of-operations-and-relate"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
    "name": "2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK",
    "sectionId": "mmsd-om-2028:31.2-current-context-and-partnership-framework",
    "pages": [
-    128,
+    130,
     130
    ],
    "category": "win-themes",
@@ -1175,22 +644,6 @@
     "wiki/technical-approach/mmsd-cmms-nexgen-integrations-table.md"
    ],
    "uncovered": [
-    {
-     "page": 128,
-     "para": 1,
-     "words": 29,
-     "kind": "prose",
-     "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-     "ref": "verbatim/mmsd-om-2028/pages/p0128.md#¶1"
-    },
-    {
-     "page": 129,
-     "para": 2,
-     "words": 26,
-     "kind": "prose",
-     "first_words": "A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.",
-     "ref": "verbatim/mmsd-om-2028/pages/p0129.md#¶2"
-    },
     {
      "page": 130,
      "para": 4,
@@ -1235,41 +688,11 @@
   },
   {
    "slug": "mmsd-om-2028",
-   "name": "Leveraging an Ongoing Riverfront Estuary Renewal to Enhance Regional Benefits",
-   "sectionId": "mmsd-om-2028:35.leveraging-an-ongoing-riverfront-estuary-renewal-to-enhance",
-   "pages": [
-    141,
-    141
-   ],
-   "category": "win-themes",
-   "rfpSectionType": [
-    "exec-summary",
-    "tech-approach"
-   ],
-   "existingBlocks": [
-    "wiki/win-themes/mmsd-regional-partnership-fishing-pier-river-access-concept.md"
-   ],
-   "uncovered": [
-    {
-     "page": 141,
-     "para": 1,
-     "words": 48,
-     "kind": "prose",
-     "first_words": "A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for",
-     "ref": "verbatim/mmsd-om-2028/pages/p0141.md#¶1"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:35.leveraging-an-ongoing-riverfront-estuary-renewal-to-enhance"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
    "name": "1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS",
    "sectionId": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
    "pages": [
     142,
-    143
+    142
    ],
    "category": "win-themes",
    "rfpSectionType": [
@@ -1285,14 +708,6 @@
    "uncovered": [
     {
      "page": 142,
-     "para": 1,
-     "words": 48,
-     "kind": "prose",
-     "first_words": "A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for",
-     "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶1"
-    },
-    {
-     "page": 142,
      "para": 47,
      "words": 58,
      "kind": "prose",
@@ -1306,49 +721,10 @@
      "kind": "prose",
      "first_words": "Wastewater Treatment: Residuals Processing and Development of Innovative Predictive Resources Recovery: Control",
      "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶48"
-    },
-    {
-     "page": 143,
-     "para": 1,
-     "words": 48,
-     "kind": "prose",
-     "first_words": "A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for",
-     "ref": "verbatim/mmsd-om-2028/pages/p0143.md#¶1"
     }
    ],
    "sectionIds": [
     "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon"
-   ]
-  },
-  {
-   "slug": "mmsd-om-2028",
-   "name": "1. JXN Water, Jackson, Mississippi",
-   "sectionId": "mmsd-om-2028:36.1-jxn-water-jackson-mississippi",
-   "pages": [
-    144,
-    144
-   ],
-   "category": "win-themes",
-   "rfpSectionType": [
-    "exec-summary",
-    "past-performance"
-   ],
-   "existingBlocks": [
-    "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
-    "wiki/win-themes/mmsd-regional-partnership-engaged-partner-san-marcos.md"
-   ],
-   "uncovered": [
-    {
-     "page": 144,
-     "para": 1,
-     "words": 48,
-     "kind": "prose",
-     "first_words": "A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for",
-     "ref": "verbatim/mmsd-om-2028/pages/p0144.md#¶1"
-    }
-   ],
-   "sectionIds": [
-    "mmsd-om-2028:36.1-jxn-water-jackson-mississippi"
    ]
   }
  ]
