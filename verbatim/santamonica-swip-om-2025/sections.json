@@ -1,0 +1,3772 @@
+{
+ "slug": "santamonica-swip-om-2025",
+ "rules_version": 1,
+ "page_count": 119,
+ "repeating_lines": [
+  "# - ongoing",
+  "$#,# embedded value by jacobs",
+  "(max monthly",
+  "above and beyond value-added extras",
+  "average)",
+  "benefits to",
+  "certifications/licenses",
+  "city of santa monica | swip operations rfp (sp#) | #",
+  "compliance",
+  "confidential | city of santa monica | swip operations rfp (sp#) | es-#",
+  "confidential | city of santa monica | swip operations rfp (sp#) | pd-#",
+  "confidential | city of santa monica | swip operations rfp (sp#) | r-#",
+  "contract dates",
+  "detailed description of the facilities operated",
+  "education",
+  "exhibit #-#",
+  "plant size",
+  "process optimization",
+  "professional background",
+  "reference",
+  "relevant experience",
+  "santa monica",
+  "section #",
+  "|---|---|",
+  "|---|---|---|",
+  "|---|---|---|---|",
+  "• jacobs experience: # years"
+ ],
+ "stats": {
+  "sections": 186,
+  "outline": 16,
+  "merged": 10,
+  "body_headings": 336,
+  "excluded": {
+   "too-long": 12,
+   "mark": 16,
+   "repeating": 54,
+   "fragment": 11,
+   "plain": 62,
+   "bullet-or-dash": 1
+  },
+  "minor": 2
+ },
+ "sections": [
+  {
+   "id": "santamonica-swip-om-2025:00",
+   "title": "Cover",
+   "level": 1,
+   "parent": null,
+   "outline_index": 0,
+   "outline_title": "Cover",
+   "kind": "outline",
+   "start": {
+    "page": 1,
+    "para": 1
+   },
+   "end": {
+    "page": 1,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0001.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:01",
+   "title": "Table of Contents",
+   "level": 1,
+   "parent": null,
+   "outline_index": 1,
+   "outline_title": "Table of Contents",
+   "kind": "outline+body",
+   "start": {
+    "page": 2,
+    "para": 1
+   },
+   "end": {
+    "page": 4,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0002.md#¶1",
+   "heading_line": "#### Table of Contents",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:02",
+   "title": "Section 1: Letter of Transmittal",
+   "level": 1,
+   "parent": null,
+   "outline_index": 2,
+   "outline_title": "Section 1: Letter of Transmittal",
+   "kind": "outline+body",
+   "start": {
+    "page": 4,
+    "para": 2
+   },
+   "end": {
+    "page": 5,
+    "para": 21
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0004.md#¶2",
+   "heading_line": "#### Letter of Transmittal",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:02.paul-rheault",
+   "title": "Paul Rheault",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:02",
+   "outline_index": 2,
+   "outline_title": "Section 1: Letter of Transmittal",
+   "kind": "body",
+   "start": {
+    "page": 5,
+    "para": 6
+   },
+   "end": {
+    "page": 5,
+    "para": 21
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0005.md#¶6",
+   "heading_line": "###### **Paul Rheault**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03",
+   "title": "Executive Summary",
+   "level": 1,
+   "parent": null,
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "outline",
+   "start": {
+    "page": 6,
+    "para": 1
+   },
+   "end": {
+    "page": 14,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0006.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.santa-monica-s-vision-for-swip-and-dpr",
+   "title": "SANTA MONICA’S VISION FOR SWIP AND DPR",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 6,
+    "para": 2
+   },
+   "end": {
+    "page": 6,
+    "para": 11
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0006.md#¶2",
+   "heading_line": "###### **SANTA MONICA’S VISION FOR SWIP AND DPR**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.jacobs-o-m-qualifications-for-advanced-water-treatment",
+   "title": "JACOBS’ O&M QUALIFICATIONS FOR ADVANCED WATER TREATMENT",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 7,
+    "para": 1
+   },
+   "end": {
+    "page": 7,
+    "para": 5
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶1",
+   "heading_line": "###### **JACOBS’ O&M QUALIFICATIONS FOR ADVANCED WATER TREATMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.high-caliber-onsite-team-qualifications-and-commitment",
+   "title": "HIGH-CALIBER ONSITE TEAM—QUALIFICATIONS AND COMMITMENT",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 7,
+    "para": 6
+   },
+   "end": {
+    "page": 8,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶6",
+   "heading_line": "###### **HIGH-CALIBER ONSITE TEAM—QUALIFICATIONS AND COMMITMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.our-role-an-extension-of-city-staff",
+   "title": "OUR ROLE—AN EXTENSION OF CITY STAFF",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 8,
+    "para": 4
+   },
+   "end": {
+    "page": 8,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0008.md#¶4",
+   "heading_line": "###### **OUR ROLE—AN EXTENSION OF CITY STAFF**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.our-technical-bench-and-regional-support",
+   "title": "OUR TECHNICAL BENCH AND REGIONAL SUPPORT",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 8,
+    "para": 9
+   },
+   "end": {
+    "page": 8,
+    "para": 13
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0008.md#¶9",
+   "heading_line": "###### **OUR TECHNICAL BENCH AND REGIONAL SUPPORT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.more-than-an-operator-integrated-o-m-engineering",
+   "title": "MORE THAN AN OPERATOR—INTEGRATED O&M + ENGINEERING",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 8,
+    "para": 14
+   },
+   "end": {
+    "page": 9,
+    "para": 14
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0008.md#¶14",
+   "heading_line": "###### **MORE THAN AN OPERATOR—INTEGRATED O&M + ENGINEERING**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.top-water-reuse-experts-on-call-for-santa-monica",
+   "title": "TOP WATER REUSE EXPERTS—ON CALL FOR SANTA MONICA",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 9,
+    "para": 15
+   },
+   "end": {
+    "page": 9,
+    "para": 23
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0009.md#¶15",
+   "heading_line": "###### **TOP WATER REUSE EXPERTS—ON CALL FOR SANTA MONICA**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.how-we-will-deliver-results-compliance-reliability-transpare",
+   "title": "HOW WE WILL DELIVER RESULTS— COMPLIANCE, RELIABILITY, TRANSPARENCY",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 1
+   },
+   "end": {
+    "page": 10,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0010.md#¶1",
+   "heading_line": "###### **HOW WE WILL DELIVER RESULTS— COMPLIANCE, RELIABILITY, TRANSPARENCY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.training-cross-training-and-knowledge-transfer",
+   "title": "TRAINING, CROSS-TRAINING, AND KNOWLEDGE TRANSFER",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 9
+   },
+   "end": {
+    "page": 10,
+    "para": 13
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0010.md#¶9",
+   "heading_line": "###### **TRAINING, CROSS-TRAINING, AND KNOWLEDGE TRANSFER**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.site-specific-readiness-and-reliability",
+   "title": "SITE-SPECIFIC READINESS AND RELIABILITY",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 14
+   },
+   "end": {
+    "page": 11,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0010.md#¶14",
+   "heading_line": "###### **SITE-SPECIFIC READINESS AND RELIABILITY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.asset-management-cmms-inventory-and-72-hour-repair-recommend",
+   "title": "ASSET MANAGEMENT, CMMS, INVENTORY, AND 72-HOUR REPAIR RECOMMENDATIONS",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 11,
+    "para": 5
+   },
+   "end": {
+    "page": 11,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0011.md#¶5",
+   "heading_line": "###### **ASSET MANAGEMENT, CMMS, INVENTORY, AND 72-HOUR REPAIR RECOMMENDATIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.compliance-systems-and-laboratory-program",
+   "title": "COMPLIANCE SYSTEMS AND LABORATORY PROGRAM",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 11,
+    "para": 9
+   },
+   "end": {
+    "page": 11,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0011.md#¶9",
+   "heading_line": "###### **COMPLIANCE SYSTEMS AND LABORATORY PROGRAM**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.safety-emergency-preparedness-and-risk-management",
+   "title": "SAFETY, EMERGENCY PREPAREDNESS, AND RISK MANAGEMENT",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 12,
+    "para": 1
+   },
+   "end": {
+    "page": 12,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0012.md#¶1",
+   "heading_line": "###### **SAFETY, EMERGENCY PREPAREDNESS, AND RISK MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.seamless-transition-to-day-one-operations",
+   "title": "SEAMLESS TRANSITION TO DAY-ONE OPERATIONS",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 12,
+    "para": 5
+   },
+   "end": {
+    "page": 12,
+    "para": 11
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0012.md#¶5",
+   "heading_line": "###### **SEAMLESS TRANSITION TO DAY-ONE OPERATIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.value-added-offerings-included-in-our-base-fee",
+   "title": "VALUE-ADDED OFFERINGS ( INCLUDED IN OUR BASE FEE )",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 13,
+    "para": 1
+   },
+   "end": {
+    "page": 13,
+    "para": 6
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0013.md#¶1",
+   "heading_line": "###### **VALUE-ADDED OFFERINGS (** **_INCLUDED IN OUR BASE FEE_ )**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:03.bottom-line",
+   "title": "BOTTOM LINE",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:03",
+   "outline_index": 3,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 13,
+    "para": 7
+   },
+   "end": {
+    "page": 14,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0013.md#¶7",
+   "heading_line": "###### **BOTTOM LINE**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:04",
+   "title": "Section 2: Qualifications",
+   "level": 1,
+   "parent": null,
+   "outline_index": 4,
+   "outline_title": "Section 2: Qualifications",
+   "kind": "outline",
+   "start": {
+    "page": 15,
+    "para": 1
+   },
+   "end": {
+    "page": 72,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0015.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:05",
+   "title": "2.1 FIRM HISTORY",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:04",
+   "outline_index": 5,
+   "outline_title": "2.1 FIRM HISTORY",
+   "kind": "outline+body",
+   "start": {
+    "page": 15,
+    "para": 2
+   },
+   "end": {
+    "page": 16,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0015.md#¶2",
+   "heading_line": "###### **2.1 FIRM HISTORY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:05.successful-o-m-project-delivery-in-california-since-1984",
+   "title": "SUCCESSFUL O&M PROJECT DELIVERY IN CALIFORNIA SINCE 1984",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:05",
+   "outline_index": 5,
+   "outline_title": "2.1 FIRM HISTORY",
+   "kind": "body",
+   "start": {
+    "page": 16,
+    "para": 1
+   },
+   "end": {
+    "page": 16,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0016.md#¶1",
+   "heading_line": "###### **SUCCESSFUL O&M PROJECT DELIVERY IN CALIFORNIA SINCE 1984**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:05.corporate-structure-and-organizational-chart",
+   "title": "CORPORATE STRUCTURE AND ORGANIZATIONAL CHART",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:05",
+   "outline_index": 5,
+   "outline_title": "2.1 FIRM HISTORY",
+   "kind": "body",
+   "start": {
+    "page": 16,
+    "para": 3
+   },
+   "end": {
+    "page": 16,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0016.md#¶3",
+   "heading_line": "###### **CORPORATE STRUCTURE AND ORGANIZATIONAL CHART**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06",
+   "title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:04",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "outline+body",
+   "start": {
+    "page": 17,
+    "para": 1
+   },
+   "end": {
+    "page": 20,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0017.md#¶1",
+   "heading_line": "###### **2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES AND RELEVANT EXPERIENCE**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.exceptional-reach-back-to-regional-and-technical-o-m-resourc",
+   "title": "Exceptional Reach-back to Regional and Technical O&M Resources",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:06",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 17,
+    "para": 3
+   },
+   "end": {
+    "page": 18,
+    "para": 14
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0017.md#¶3",
+   "heading_line": "###### **_Exceptional Reach-back to Regional and Technical O&M Resources_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.unrivaled-industry-expertise-in-advance-treatment-and-reuse",
+   "title": "Unrivaled Industry Expertise in Advance Treatment and Reuse",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:06",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 18,
+    "para": 15
+   },
+   "end": {
+    "page": 19,
+    "para": 35
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶15",
+   "heading_line": "###### **_Unrivaled Industry Expertise in Advance Treatment and Reuse_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.south-lake-tahoe-advanced-water-treatment",
+   "title": "South Lake Tahoe Advanced Water Treatment",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:06.unrivaled-industry-expertise-in-advance-treatment-and-reuse",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 3
+   },
+   "end": {
+    "page": 19,
+    "para": 5
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0019.md#¶3",
+   "heading_line": "###### **South Lake Tahoe Advanced Water Treatment**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.upper-occoquan-regional-water-reclamation",
+   "title": "Upper Occoquan Regional Water Reclamation",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:06.unrivaled-industry-expertise-in-advance-treatment-and-reuse",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 6
+   },
+   "end": {
+    "page": 19,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0019.md#¶6",
+   "heading_line": "###### **Upper Occoquan Regional Water Reclamation**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.denver-water-potable-reuse-demonstration",
+   "title": "Denver Water Potable Reuse Demonstration",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:06.unrivaled-industry-expertise-in-advance-treatment-and-reuse",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 9
+   },
+   "end": {
+    "page": 19,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0019.md#¶9",
+   "heading_line": "###### **Denver Water Potable Reuse Demonstration**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.oxnard-advanced-water-purification-facility",
+   "title": "Oxnard Advanced Water Purification Facility",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:06.unrivaled-industry-expertise-in-advance-treatment-and-reuse",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 16
+   },
+   "end": {
+    "page": 19,
+    "para": 22
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0019.md#¶16",
+   "heading_line": "###### **Oxnard Advanced Water Purification Facility**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.denver-water-recycling-plant",
+   "title": "Denver Water Recycling Plant",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:06.unrivaled-industry-expertise-in-advance-treatment-and-reuse",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 23
+   },
+   "end": {
+    "page": 19,
+    "para": 35
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0019.md#¶23",
+   "heading_line": "###### **Denver Water Recycling Plant**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.proven-advanced-treatment-and-reuse-experience-in-california",
+   "title": "Proven Advanced Treatment and Reuse Experience in California",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:06",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 1
+   },
+   "end": {
+    "page": 20,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0020.md#¶1",
+   "heading_line": "###### **_Proven Advanced Treatment and Reuse Experience in California_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:06.representative-operations-experience-with-advanced-water-tre",
+   "title": "Representative Operations Experience with Advanced Water Treatment and Potable Reuse Facilities",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:06",
+   "outline_index": 6,
+   "outline_title": "2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 4
+   },
+   "end": {
+    "page": 20,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0020.md#¶4",
+   "heading_line": "###### **_Representative Operations Experience with Advanced Water Treatment and Potable Reuse Facilities_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:07",
+   "title": "2.3 REFERENCES",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:04",
+   "outline_index": 7,
+   "outline_title": "2.3 REFERENCES",
+   "kind": "outline+body",
+   "start": {
+    "page": 21,
+    "para": 1
+   },
+   "end": {
+    "page": 29,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0021.md#¶1",
+   "heading_line": "###### **2.3 REFERENCES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:07.operational-excellence-backed-by-diverse-project-experience",
+   "title": "OPERATIONAL EXCELLENCE BACKED BY DIVERSE PROJECT EXPERIENCE",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:07",
+   "outline_index": 7,
+   "outline_title": "2.3 REFERENCES",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 2
+   },
+   "end": {
+    "page": 29,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0021.md#¶2",
+   "heading_line": "###### **OPERATIONAL EXCELLENCE BACKED BY DIVERSE PROJECT EXPERIENCE**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:07.clovis-wwtp-wrf-o-m",
+   "title": "Clovis WWTP/WRF O&M",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:07.operational-excellence-backed-by-diverse-project-experience",
+   "outline_index": 7,
+   "outline_title": "2.3 REFERENCES",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 1
+   },
+   "end": {
+    "page": 25,
+    "para": 6
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0022.md#¶1",
+   "heading_line": "###### **Clovis WWTP/WRF O&M**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:07.turlock-zero-liquid-discharge-facility-o-m",
+   "title": "Turlock Zero Liquid Discharge Facility O&M",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:07.operational-excellence-backed-by-diverse-project-experience",
+   "outline_index": 7,
+   "outline_title": "2.3 REFERENCES",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 1
+   },
+   "end": {
+    "page": 29,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0026.md#¶1",
+   "heading_line": "###### **Turlock Zero Liquid Discharge Facility O&M**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08",
+   "title": "2.4 FIRM APPROACH",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:04",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "outline+body",
+   "start": {
+    "page": 30,
+    "para": 1
+   },
+   "end": {
+    "page": 72,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0030.md#¶1",
+   "heading_line": "###### **2.4 FIRM APPROACH**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.jacobs-understands-santa-monica-s-challenges-and-goals-for-i",
+   "title": "JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 30,
+    "para": 3
+   },
+   "end": {
+    "page": 31,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0030.md#¶3",
+   "heading_line": "###### **JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.approach-to-delivery-of-the-o-m-services",
+   "title": "APPROACH TO DELIVERY OF THE O&M SERVICES",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 1
+   },
+   "end": {
+    "page": 32,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶1",
+   "heading_line": "###### **APPROACH TO DELIVERY OF THE O&M SERVICES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.health-safety-and-security",
+   "title": "HEALTH, SAFETY AND SECURITY",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 5
+   },
+   "end": {
+    "page": 32,
+    "para": 6
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶5",
+   "heading_line": "###### **HEALTH, SAFETY AND SECURITY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.compliance-and-reporting",
+   "title": "COMPLIANCE AND REPORTING",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 7
+   },
+   "end": {
+    "page": 32,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶7",
+   "heading_line": "###### **COMPLIANCE AND REPORTING**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.operations-management",
+   "title": "OPERATIONS MANAGEMENT",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 9
+   },
+   "end": {
+    "page": 32,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶9",
+   "heading_line": "###### **OPERATIONS MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.laboratory-management",
+   "title": "LABORATORY MANAGEMENT",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 11
+   },
+   "end": {
+    "page": 32,
+    "para": 12
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶11",
+   "heading_line": "###### **LABORATORY MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.human-resources",
+   "title": "HUMAN RESOURCES",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 13
+   },
+   "end": {
+    "page": 32,
+    "para": 14
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶13",
+   "heading_line": "###### **HUMAN RESOURCES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.maintenance-and-asset-management",
+   "title": "MAINTENANCE AND ASSET MANAGEMENT",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 15
+   },
+   "end": {
+    "page": 32,
+    "para": 16
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶15",
+   "heading_line": "###### **MAINTENANCE AND ASSET MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.financial-management",
+   "title": "FINANCIAL MANAGEMENT",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 17
+   },
+   "end": {
+    "page": 32,
+    "para": 18
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶17",
+   "heading_line": "###### **FINANCIAL MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.project-management",
+   "title": "PROJECT MANAGEMENT",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 19
+   },
+   "end": {
+    "page": 32,
+    "para": 20
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶19",
+   "heading_line": "###### **PROJECT MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.public-education-community-involvement-and-media-relations",
+   "title": "PUBLIC EDUCATION, COMMUNITY INVOLVEMENT, AND MEDIA RELATIONS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 21
+   },
+   "end": {
+    "page": 32,
+    "para": 22
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶21",
+   "heading_line": "###### **PUBLIC EDUCATION, COMMUNITY INVOLVEMENT, AND MEDIA RELATIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.customer-service",
+   "title": "CUSTOMER SERVICE",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 23
+   },
+   "end": {
+    "page": 33,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶23",
+   "heading_line": "###### **CUSTOMER SERVICE**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.strategic-o-m-plans-built-on-best-practices-and-innovation",
+   "title": "STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 1
+   },
+   "end": {
+    "page": 34,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0034.md#¶1",
+   "heading_line": "###### **STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.process-control",
+   "title": "PROCESS CONTROL",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 1
+   },
+   "end": {
+    "page": 37,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0035.md#¶1",
+   "heading_line": "###### **PROCESS CONTROL**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.observations-and-understanding-of-the-city-s-operations",
+   "title": "Observations and Understanding of the City’s Operations",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.process-control",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 3
+   },
+   "end": {
+    "page": 36,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0036.md#¶3",
+   "heading_line": "###### **_Observations and Understanding of the City’s Operations_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.jacobs-approach-to-process-optimization-at-the-awtf",
+   "title": "Jacobs’ Approach to Process Optimization at the AWTF",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.process-control",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 5
+   },
+   "end": {
+    "page": 37,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0036.md#¶5",
+   "heading_line": "###### **_Jacobs’ Approach to Process Optimization at the AWTF_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.addressing-other-potential-process-impacts",
+   "title": "ADDRESSING OTHER POTENTIAL PROCESS IMPACTS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 37,
+    "para": 2
+   },
+   "end": {
+    "page": 37,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0037.md#¶2",
+   "heading_line": "###### **ADDRESSING OTHER POTENTIAL PROCESS IMPACTS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.in-house-procedures-to-provide-accuracy-integrity-and-qualit",
+   "title": "IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 38,
+    "para": 1
+   },
+   "end": {
+    "page": 39,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0038.md#¶1",
+   "heading_line": "###### **IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.training-certification-program-for-o-m-personnel",
+   "title": "TRAINING & CERTIFICATION PROGRAM FOR O&M PERSONNEL",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 40,
+    "para": 1
+   },
+   "end": {
+    "page": 40,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0040.md#¶1",
+   "heading_line": "###### **TRAINING & CERTIFICATION PROGRAM FOR O&M PERSONNEL**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.employee-training",
+   "title": "EMPLOYEE TRAINING",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 40,
+    "para": 3
+   },
+   "end": {
+    "page": 44,
+    "para": 7
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0040.md#¶3",
+   "heading_line": "###### **EMPLOYEE TRAINING**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.individual-training-needs-assessment",
+   "title": "Individual Training Needs Assessment",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.employee-training",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 40,
+    "para": 7
+   },
+   "end": {
+    "page": 40,
+    "para": 12
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0040.md#¶7",
+   "heading_line": "###### **_Individual Training Needs Assessment_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.structured-training-programs-and-compliance-alignment",
+   "title": "Structured Training Programs and Compliance Alignment",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.employee-training",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 41,
+    "para": 1
+   },
+   "end": {
+    "page": 42,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0041.md#¶1",
+   "heading_line": "###### **_Structured Training Programs and Compliance Alignment_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.learning-platforms-and-tracking",
+   "title": "Learning Platforms and Tracking",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.employee-training",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 5
+   },
+   "end": {
+    "page": 43,
+    "para": 5
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0042.md#¶5",
+   "heading_line": "###### **_Learning Platforms and Tracking_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.coordinate-with-the-city",
+   "title": "Coordinate with the City",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.employee-training",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 6
+   },
+   "end": {
+    "page": 43,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶6",
+   "heading_line": "###### **_Coordinate with the City_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.career-development-and-advancement",
+   "title": "Career Development and Advancement",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.employee-training",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 10
+   },
+   "end": {
+    "page": 43,
+    "para": 24
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶10",
+   "heading_line": "###### **_Career Development and Advancement_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.true-belonging-with-diversity-equality-and-inclusion",
+   "title": "True Belonging with Diversity, Equality, and Inclusion",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.employee-training",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 1
+   },
+   "end": {
+    "page": 44,
+    "para": 7
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0044.md#¶1",
+   "heading_line": "###### **_True Belonging with Diversity, Equality, and Inclusion_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
+   "title": "INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 1
+   },
+   "end": {
+    "page": 48,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0045.md#¶1",
+   "heading_line": "###### **INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.plant-process-optimization-leveraging-digital-tools-and-data",
+   "title": "Plant Process Optimization – Leveraging Digital Tools and Data-Driven Operations",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 46,
+    "para": 4
+   },
+   "end": {
+    "page": 46,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0046.md#¶4",
+   "heading_line": "###### **_Plant Process Optimization – Leveraging Digital Tools and Data-Driven Operations_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.aquadna-deragger-for-ocean-avenue-lift-station",
+   "title": "AquaDNA Deragger for Ocean Avenue Lift Station",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 47,
+    "para": 1
+   },
+   "end": {
+    "page": 47,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0047.md#¶1",
+   "heading_line": "###### **_AquaDNA Deragger for Ocean Avenue Lift Station_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.proactive-inventory-management-to-support-operational-contin",
+   "title": "Proactive Inventory Management to Support Operational Continuity",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 47,
+    "para": 5
+   },
+   "end": {
+    "page": 47,
+    "para": 6
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0047.md#¶5",
+   "heading_line": "###### **_Proactive Inventory Management to Support Operational Continuity_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.innovation-partnerships-and-pilots",
+   "title": "Innovation Partnerships and Pilots",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 47,
+    "para": 7
+   },
+   "end": {
+    "page": 47,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0047.md#¶7",
+   "heading_line": "###### **_Innovation Partnerships and Pilots_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.energy-optimization",
+   "title": "Energy Optimization",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 47,
+    "para": 9
+   },
+   "end": {
+    "page": 48,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0047.md#¶9",
+   "heading_line": "###### **_Energy Optimization_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.chemical-efficiency",
+   "title": "Chemical Efficiency",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 2
+   },
+   "end": {
+    "page": 48,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0048.md#¶2",
+   "heading_line": "###### **_Chemical Efficiency_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.customized-digital-reporting-dashboards",
+   "title": "Customized Digital Reporting Dashboards",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 5
+   },
+   "end": {
+    "page": 48,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0048.md#¶5",
+   "heading_line": "###### **_Customized Digital Reporting Dashboards_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.safety-plan-and-management",
+   "title": "SAFETY PLAN AND MANAGEMENT",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 1
+   },
+   "end": {
+    "page": 51,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶1",
+   "heading_line": "###### **SAFETY PLAN AND MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.health-and-safety",
+   "title": "Health and Safety",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.safety-plan-and-management",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 2
+   },
+   "end": {
+    "page": 49,
+    "para": 5
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶2",
+   "heading_line": "###### **_Health and Safety_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.safety-tracking-and-performance",
+   "title": "Safety Tracking and Performance",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.safety-plan-and-management",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 6
+   },
+   "end": {
+    "page": 50,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶6",
+   "heading_line": "###### **_Safety Tracking and Performance_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.leadership-engagement-and-accountability",
+   "title": "Leadership Engagement and Accountability",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.safety-plan-and-management",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 2
+   },
+   "end": {
+    "page": 50,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0050.md#¶2",
+   "heading_line": "###### **_Leadership Engagement and Accountability_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.key-elements-of-our-safety-program-and-planning",
+   "title": "Key Elements of Our Safety Program and Planning",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.safety-plan-and-management",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 5
+   },
+   "end": {
+    "page": 51,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0050.md#¶5",
+   "heading_line": "###### **_Key Elements of Our Safety Program and Planning_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.swip-site-safety-observations-and-unique-safety-needs",
+   "title": "SWIP Site Safety Observations and Unique Safety Needs",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.safety-plan-and-management",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 51,
+    "para": 2
+   },
+   "end": {
+    "page": 51,
+    "para": 6
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0051.md#¶2",
+   "heading_line": "###### **_SWIP Site Safety Observations and Unique Safety Needs_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.continuous-improvement-and-well-being",
+   "title": "Continuous Improvement and Well-Being",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.safety-plan-and-management",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 51,
+    "para": 7
+   },
+   "end": {
+    "page": 51,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0051.md#¶7",
+   "heading_line": "###### **_Continuous Improvement and Well-Being_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.regulatory-compliance-laboratory-and-sampling-plans",
+   "title": "REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 52,
+    "para": 1
+   },
+   "end": {
+    "page": 52,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0052.md#¶1",
+   "heading_line": "###### **REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS**",
+   "minor": true
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.regulatory-compliance",
+   "title": "REGULATORY COMPLIANCE",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 52,
+    "para": 2
+   },
+   "end": {
+    "page": 54,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0052.md#¶2",
+   "heading_line": "###### **REGULATORY COMPLIANCE**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.laboratory-management-and-sampling-plan",
+   "title": "LABORATORY MANAGEMENT AND SAMPLING PLAN",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 54,
+    "para": 2
+   },
+   "end": {
+    "page": 55,
+    "para": 23
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0054.md#¶2",
+   "heading_line": "###### **LABORATORY MANAGEMENT AND SAMPLING PLAN**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.asset-management-and-maintenance",
+   "title": "ASSET MANAGEMENT AND MAINTENANCE",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 56,
+    "para": 1
+   },
+   "end": {
+    "page": 57,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0056.md#¶1",
+   "heading_line": "###### **ASSET MANAGEMENT AND MAINTENANCE**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.understanding-the-city-s-asset-management-goals-and-facility",
+   "title": "Understanding the City’s Asset Management Goals and Facility Needs",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.asset-management-and-maintenance",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 56,
+    "para": 2
+   },
+   "end": {
+    "page": 56,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0056.md#¶2",
+   "heading_line": "###### **_Understanding the City’s Asset Management Goals and Facility Needs_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.aquadna-deragger",
+   "title": "AquaDNA Deragger",
+   "level": 5,
+   "parent": "santamonica-swip-om-2025:08.understanding-the-city-s-asset-management-goals-and-facility",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 56,
+    "para": 5
+   },
+   "end": {
+    "page": 56,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0056.md#¶5",
+   "heading_line": "###### **AquaDNA Deragger**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.integrated-asset-management-and-maintenance-drives-delivery",
+   "title": "Integrated Asset Management and Maintenance Drives Delivery Excellence",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.asset-management-and-maintenance",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 56,
+    "para": 11
+   },
+   "end": {
+    "page": 56,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0056.md#¶11",
+   "heading_line": "###### **_Integrated Asset Management and Maintenance Drives Delivery Excellence_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.dedicated-regional-maintenance-technician",
+   "title": "Dedicated Regional Maintenance Technician",
+   "level": 5,
+   "parent": "santamonica-swip-om-2025:08.integrated-asset-management-and-maintenance-drives-delivery",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 56,
+    "para": 14
+   },
+   "end": {
+    "page": 56,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0056.md#¶14",
+   "heading_line": "###### **Dedicated Regional Maintenance Technician**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.dedicated-technical-support-structure",
+   "title": "Dedicated Technical Support Structure",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.asset-management-and-maintenance",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 56,
+    "para": 16
+   },
+   "end": {
+    "page": 56,
+    "para": 19
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0056.md#¶16",
+   "heading_line": "###### **_Dedicated Technical Support Structure_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.asset-management-centered-maintenance-approach",
+   "title": "Asset Management-Centered Maintenance Approach",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.asset-management-and-maintenance",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 57,
+    "para": 1
+   },
+   "end": {
+    "page": 57,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0057.md#¶1",
+   "heading_line": "###### **_Asset Management-Centered Maintenance Approach_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-program",
+   "title": "ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 57,
+    "para": 5
+   },
+   "end": {
+    "page": 60,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0057.md#¶5",
+   "heading_line": "###### **ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.system-setup-role-definition",
+   "title": "SYSTEM SETUP & ROLE DEFINITION",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 60,
+    "para": 3
+   },
+   "end": {
+    "page": 60,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0060.md#¶3",
+   "heading_line": "###### **SYSTEM SETUP & ROLE DEFINITION**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.stockroom-storage-infrastructure",
+   "title": "STOCKROOM & STORAGE INFRASTRUCTURE",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 60,
+    "para": 9
+   },
+   "end": {
+    "page": 60,
+    "para": 16
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0060.md#¶9",
+   "heading_line": "###### **STOCKROOM & STORAGE INFRASTRUCTURE**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.inventory-data-labeling",
+   "title": "INVENTORY DATA & LABELING",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 60,
+    "para": 17
+   },
+   "end": {
+    "page": 60,
+    "para": 20
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0060.md#¶17",
+   "heading_line": "###### **INVENTORY DATA & LABELING**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.technology-integration",
+   "title": "TECHNOLOGY INTEGRATION",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 60,
+    "para": 21
+   },
+   "end": {
+    "page": 60,
+    "para": 23
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0060.md#¶21",
+   "heading_line": "###### **TECHNOLOGY INTEGRATION**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.performance-reporting",
+   "title": "PERFORMANCE & REPORTING",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 60,
+    "para": 24
+   },
+   "end": {
+    "page": 60,
+    "para": 31
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0060.md#¶24",
+   "heading_line": "###### **PERFORMANCE & REPORTING**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.communications-and-reporting",
+   "title": "COMMUNICATIONS AND REPORTING",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 61,
+    "para": 1
+   },
+   "end": {
+    "page": 62,
+    "para": 31
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0061.md#¶1",
+   "heading_line": "###### **COMMUNICATIONS AND REPORTING**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.communication-plan",
+   "title": "Communication Plan",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.communications-and-reporting",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 61,
+    "para": 3
+   },
+   "end": {
+    "page": 61,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0061.md#¶3",
+   "heading_line": "###### **_Communication Plan_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.reporting-and-transparency",
+   "title": "Reporting and Transparency",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.communications-and-reporting",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 61,
+    "para": 10
+   },
+   "end": {
+    "page": 62,
+    "para": 17
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0061.md#¶10",
+   "heading_line": "###### **_Reporting and Transparency_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.annual-innovation-workshop",
+   "title": "Annual Innovation Workshop",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.communications-and-reporting",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 62,
+    "para": 18
+   },
+   "end": {
+    "page": 62,
+    "para": 31
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0062.md#¶18",
+   "heading_line": "###### **_Annual Innovation Workshop_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.financial-responsibility",
+   "title": "FINANCIAL RESPONSIBILITY",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 1
+   },
+   "end": {
+    "page": 64,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0063.md#¶1",
+   "heading_line": "###### **FINANCIAL RESPONSIBILITY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.comparable-project-financial-performance",
+   "title": "Comparable Project Financial Performance",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.financial-responsibility",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 7
+   },
+   "end": {
+    "page": 63,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0063.md#¶7",
+   "heading_line": "###### **_Comparable Project Financial Performance_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.financial-strength-and-stability",
+   "title": "Financial Strength and Stability",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.financial-responsibility",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 16
+   },
+   "end": {
+    "page": 63,
+    "para": 17
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0063.md#¶16",
+   "heading_line": "###### **_Financial Strength and Stability_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.financial-risk-management",
+   "title": "Financial Risk Management",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.financial-responsibility",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 18
+   },
+   "end": {
+    "page": 63,
+    "para": 24
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0063.md#¶18",
+   "heading_line": "###### **_Financial Risk Management_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.financial-transparency-and-disclosure",
+   "title": "Financial Transparency and Disclosure",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.financial-responsibility",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 64,
+    "para": 1
+   },
+   "end": {
+    "page": 64,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0064.md#¶1",
+   "heading_line": "###### **_Financial Transparency and Disclosure_**",
+   "minor": true
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.minimal-litigation-history",
+   "title": "MINIMAL LITIGATION HISTORY",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 64,
+    "para": 2
+   },
+   "end": {
+    "page": 64,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0064.md#¶2",
+   "heading_line": "###### **MINIMAL LITIGATION HISTORY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.emergency-response-plan",
+   "title": "EMERGENCY RESPONSE PLAN",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 65,
+    "para": 1
+   },
+   "end": {
+    "page": 67,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0065.md#¶1",
+   "heading_line": "###### **EMERGENCY RESPONSE PLAN**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.prevention-of-and-response-to-emergencies",
+   "title": "Prevention of and Response to Emergencies",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.emergency-response-plan",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 65,
+    "para": 2
+   },
+   "end": {
+    "page": 65,
+    "para": 5
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0065.md#¶2",
+   "heading_line": "###### **_Prevention of and Response to Emergencies_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.emergency-preparedness-approach",
+   "title": "Emergency Preparedness Approach",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.emergency-response-plan",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 65,
+    "para": 6
+   },
+   "end": {
+    "page": 65,
+    "para": 13
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0065.md#¶6",
+   "heading_line": "###### **_Emergency Preparedness Approach_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.elements-of-our-emergency-response-plan-erp",
+   "title": "Elements of our Emergency Response Plan (ERP)",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.emergency-response-plan",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 65,
+    "para": 14
+   },
+   "end": {
+    "page": 67,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0065.md#¶14",
+   "heading_line": "###### **_Elements of our Emergency Response Plan (ERP)_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.local-and-regional-resources-for-diversified-emergency-respo",
+   "title": "Local and Regional Resources for Diversified Emergency Response",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.emergency-response-plan",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 67,
+    "para": 2
+   },
+   "end": {
+    "page": 67,
+    "para": 7
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0067.md#¶2",
+   "heading_line": "###### **_Local and Regional Resources for Diversified Emergency Response_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.jacobs-invaluable-regional-resources-for-emergency-response",
+   "title": "Jacobs’ Invaluable Regional Resources for Emergency Response",
+   "level": 5,
+   "parent": "santamonica-swip-om-2025:08.local-and-regional-resources-for-diversified-emergency-respo",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 67,
+    "para": 5
+   },
+   "end": {
+    "page": 67,
+    "para": 7
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0067.md#¶5",
+   "heading_line": "###### **Jacobs’ Invaluable Regional Resources for Emergency Response**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.proven-emergency-preparedness-and-response-for-the-most-chal",
+   "title": "Proven Emergency Preparedness and Response for the Most Challenging Situations",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.emergency-response-plan",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 67,
+    "para": 8
+   },
+   "end": {
+    "page": 67,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0067.md#¶8",
+   "heading_line": "###### **_Proven Emergency Preparedness and Response for the Most Challenging Situations_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.scada-i-c-and-cybersecurity",
+   "title": "SCADA, I&C, AND CYBERSECURITY",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 1
+   },
+   "end": {
+    "page": 68,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0068.md#¶1",
+   "heading_line": "###### **SCADA, I&C, AND CYBERSECURITY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.site-visit-findings",
+   "title": "Site Visit Findings",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.scada-i-c-and-cybersecurity",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 2
+   },
+   "end": {
+    "page": 68,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0068.md#¶2",
+   "heading_line": "###### **_Site Visit Findings_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.cybersecurity-survey",
+   "title": "Cybersecurity Survey",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.scada-i-c-and-cybersecurity",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 5
+   },
+   "end": {
+    "page": 68,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0068.md#¶5",
+   "heading_line": "###### **_Cybersecurity Survey_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.cybersecurity-survey-p68",
+   "title": "CYBERSECURITY SURVEY",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 9
+   },
+   "end": {
+    "page": 68,
+    "para": 19
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0068.md#¶9",
+   "heading_line": "###### **CYBERSECURITY SURVEY**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.dedicated-i-c-technician-with-regional-support",
+   "title": "Dedicated I&C Technician with Regional Support",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.cybersecurity-survey-p68",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 11
+   },
+   "end": {
+    "page": 68,
+    "para": 19
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0068.md#¶11",
+   "heading_line": "###### **_Dedicated I&C Technician with Regional Support_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.dedicated-i-c-technician",
+   "title": "DEDICATED I&C TECHNICIAN",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 20
+   },
+   "end": {
+    "page": 69,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0068.md#¶20",
+   "heading_line": "###### **DEDICATED I&C TECHNICIAN**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.firm-wide-scada-and-cybersecurity-capabilities",
+   "title": "Firm-wide SCADA and Cybersecurity Capabilities",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.dedicated-i-c-technician",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 69,
+    "para": 1
+   },
+   "end": {
+    "page": 69,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0069.md#¶1",
+   "heading_line": "###### **_Firm-wide SCADA and Cybersecurity Capabilities_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.community-involvement-and-outreach",
+   "title": "COMMUNITY INVOLVEMENT AND OUTREACH",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 70,
+    "para": 1
+   },
+   "end": {
+    "page": 70,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0070.md#¶1",
+   "heading_line": "###### **COMMUNITY INVOLVEMENT AND OUTREACH**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.building-on-current-momentum",
+   "title": "BUILDING ON CURRENT MOMENTUM",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 70,
+    "para": 3
+   },
+   "end": {
+    "page": 70,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0070.md#¶3",
+   "heading_line": "###### **BUILDING ON CURRENT MOMENTUM**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.strategic-importance-of-outreach",
+   "title": "STRATEGIC IMPORTANCE OF OUTREACH",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 70,
+    "para": 5
+   },
+   "end": {
+    "page": 70,
+    "para": 29
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0070.md#¶5",
+   "heading_line": "###### **STRATEGIC IMPORTANCE OF OUTREACH**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.jacobs-leadership-in-water-reuse-education",
+   "title": "Jacobs’ Leadership in Water Reuse Education",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.strategic-importance-of-outreach",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 70,
+    "para": 7
+   },
+   "end": {
+    "page": 70,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0070.md#¶7",
+   "heading_line": "###### **_Jacobs’ Leadership in Water Reuse Education_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.commitment-to-community",
+   "title": "Commitment to Community",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:08.strategic-importance-of-outreach",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 70,
+    "para": 9
+   },
+   "end": {
+    "page": 70,
+    "para": 29
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0070.md#¶9",
+   "heading_line": "###### **_Commitment to Community_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:08.customized-engagement-for-santa-monica",
+   "title": "CUSTOMIZED ENGAGEMENT FOR SANTA MONICA",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:08",
+   "outline_index": 8,
+   "outline_title": "2.4 FIRM APPROACH",
+   "kind": "body",
+   "start": {
+    "page": 71,
+    "para": 1
+   },
+   "end": {
+    "page": 72,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0071.md#¶1",
+   "heading_line": "###### **CUSTOMIZED ENGAGEMENT FOR SANTA MONICA**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:09",
+   "title": "Section 3: Key Personnel",
+   "level": 1,
+   "parent": null,
+   "outline_index": 9,
+   "outline_title": "Section 3: Key Personnel",
+   "kind": "outline",
+   "start": {
+    "page": 73,
+    "para": 1
+   },
+   "end": {
+    "page": 103,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0073.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10",
+   "title": "3.1 STAFFING PLAN",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:09",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "outline+body",
+   "start": {
+    "page": 73,
+    "para": 3
+   },
+   "end": {
+    "page": 80,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0073.md#¶3",
+   "heading_line": "###### **3.1 STAFFING PLAN**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.project-team-and-their-qualifications",
+   "title": "PROJECT TEAM AND THEIR QUALIFICATIONS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:10",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 75,
+    "para": 1
+   },
+   "end": {
+    "page": 79,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0075.md#¶1",
+   "heading_line": "###### **PROJECT TEAM AND THEIR QUALIFICATIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.onsite-o-m-team",
+   "title": "Onsite O&M Team",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.project-team-and-their-qualifications",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 75,
+    "para": 2
+   },
+   "end": {
+    "page": 76,
+    "para": 5
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0075.md#¶2",
+   "heading_line": "###### **_Onsite O&M Team_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.operators-josh-hernandez-christen-wood-and-chris-catlin",
+   "title": "Operators – Josh Hernandez, Christen Wood, and Chris Catlin",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.project-team-and-their-qualifications",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 76,
+    "para": 6
+   },
+   "end": {
+    "page": 77,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0076.md#¶6",
+   "heading_line": "###### **_Operators – Josh Hernandez, Christen Wood, and Chris Catlin_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.i-c-technician",
+   "title": "I&C Technician",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.project-team-and-their-qualifications",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 77,
+    "para": 3
+   },
+   "end": {
+    "page": 77,
+    "para": 5
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0077.md#¶3",
+   "heading_line": "###### **_I&C Technician_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.proven-innovative-regional-maintenance-team-approach",
+   "title": "Proven, Innovative Regional Maintenance Team Approach",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.project-team-and-their-qualifications",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 77,
+    "para": 6
+   },
+   "end": {
+    "page": 78,
+    "para": 11
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0077.md#¶6",
+   "heading_line": "###### **_Proven, Innovative Regional Maintenance Team Approach_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.regional-and-technical-support-resources",
+   "title": "Regional and Technical Support Resources",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.project-team-and-their-qualifications",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 79,
+    "para": 1
+   },
+   "end": {
+    "page": 79,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶1",
+   "heading_line": "###### **_Regional and Technical Support Resources_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.staffing-plan",
+   "title": "STAFFING PLAN",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:10",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 79,
+    "para": 3
+   },
+   "end": {
+    "page": 80,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶3",
+   "heading_line": "###### **STAFFING PLAN**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.shift-schedules",
+   "title": "Shift Schedules",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.staffing-plan",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 79,
+    "para": 11
+   },
+   "end": {
+    "page": 79,
+    "para": 14
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶11",
+   "heading_line": "###### **_Shift Schedules_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.on-call-staffing",
+   "title": "On-Call Staffing",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.staffing-plan",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 79,
+    "para": 15
+   },
+   "end": {
+    "page": 79,
+    "para": 18
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0079.md#¶15",
+   "heading_line": "###### **_On-Call Staffing_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.cross-training-for-resiliency",
+   "title": "Cross-Training for Resiliency",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.staffing-plan",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 80,
+    "para": 1
+   },
+   "end": {
+    "page": 80,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0080.md#¶1",
+   "heading_line": "###### **_Cross-Training for Resiliency_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:10.supporting-the-city-s-intern-program",
+   "title": "Supporting the City’s Intern Program",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:10.staffing-plan",
+   "outline_index": 10,
+   "outline_title": "3.1 STAFFING PLAN",
+   "kind": "body",
+   "start": {
+    "page": 80,
+    "para": 4
+   },
+   "end": {
+    "page": 80,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0080.md#¶4",
+   "heading_line": "###### **_Supporting the City’s Intern Program_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11",
+   "title": "3.2 RESUMES",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:09",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "outline+body",
+   "start": {
+    "page": 80,
+    "para": 10
+   },
+   "end": {
+    "page": 94,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0080.md#¶10",
+   "heading_line": "###### **3.2 RESUMES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.why-howard",
+   "title": "WHY HOWARD?",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:11",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 81,
+    "para": 2
+   },
+   "end": {
+    "page": 83,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0081.md#¶2",
+   "heading_line": "###### _WHY HOWARD?_",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.why-chris",
+   "title": "WHY CHRIS?",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:11",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 83,
+    "para": 2
+   },
+   "end": {
+    "page": 83,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0083.md#¶2",
+   "heading_line": "###### _WHY CHRIS?_",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.memberships",
+   "title": "MEMBERSHIPS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:11",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 83,
+    "para": 10
+   },
+   "end": {
+    "page": 85,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0083.md#¶10",
+   "heading_line": "###### **MEMBERSHIPS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.why-mack",
+   "title": "WHY MACK?",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:11.memberships",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 85,
+    "para": 2
+   },
+   "end": {
+    "page": 85,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0085.md#¶2",
+   "heading_line": "###### _WHY MACK?_",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.membership-affiliations",
+   "title": "MEMBERSHIP/AFFILIATIONS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:11",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 85,
+    "para": 11
+   },
+   "end": {
+    "page": 93,
+    "para": 7
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0085.md#¶11",
+   "heading_line": "###### **MEMBERSHIP/AFFILIATIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.why-josh",
+   "title": "WHY JOSH?",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:11.membership-affiliations",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 87,
+    "para": 2
+   },
+   "end": {
+    "page": 88,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0087.md#¶2",
+   "heading_line": "###### _WHY JOSH?_",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.why-christen",
+   "title": "WHY CHRISTEN?",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:11.membership-affiliations",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 88,
+    "para": 2
+   },
+   "end": {
+    "page": 90,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0088.md#¶2",
+   "heading_line": "###### _WHY CHRISTEN?_",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.why-jason",
+   "title": "WHY JASON?",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:11.membership-affiliations",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 90,
+    "para": 2
+   },
+   "end": {
+    "page": 91,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0090.md#¶2",
+   "heading_line": "###### _WHY JASON?_",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.why-mayo",
+   "title": "WHY MAYO?",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:11.membership-affiliations",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 91,
+    "para": 2
+   },
+   "end": {
+    "page": 93,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0091.md#¶2",
+   "heading_line": "###### _WHY MAYO?_",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.why-richard",
+   "title": "WHY RICHARD?",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:11.membership-affiliations",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 93,
+    "para": 2
+   },
+   "end": {
+    "page": 93,
+    "para": 7
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0093.md#¶2",
+   "heading_line": "###### _WHY RICHARD?_",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:11.skills",
+   "title": "SKILLS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:11",
+   "outline_index": 11,
+   "outline_title": "3.2 RESUMES",
+   "kind": "body",
+   "start": {
+    "page": 93,
+    "para": 8
+   },
+   "end": {
+    "page": 94,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0093.md#¶8",
+   "heading_line": "###### **SKILLS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:12",
+   "title": "3.3 PROJECT TEAM’S EXPERIENCE WITH ADVANCED WATERTREATMENT FACILITIES",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:09",
+   "outline_index": 12,
+   "outline_title": "3.3 PROJECT TEAM’S EXPERIENCE WITH ADVANCED WATERTREATMENT FACILITIES",
+   "kind": "outline+body",
+   "start": {
+    "page": 95,
+    "para": 1
+   },
+   "end": {
+    "page": 95,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0095.md#¶1",
+   "heading_line": "###### **3.3 PROJECT TEAM’S EXPERIENCE WITH ADVANCED WATER TREATMENT FACILITIES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:12.familiarity-with-advanced-water-treatment-technologies-and-c",
+   "title": "FAMILIARITY WITH ADVANCED WATER TREATMENT TECHNOLOGIES AND CALIFORNIA GRRP REGULATIONS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:12",
+   "outline_index": 12,
+   "outline_title": "3.3 PROJECT TEAM’S EXPERIENCE WITH ADVANCED WATERTREATMENT FACILITIES",
+   "kind": "body",
+   "start": {
+    "page": 95,
+    "para": 2
+   },
+   "end": {
+    "page": 95,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0095.md#¶2",
+   "heading_line": "###### **FAMILIARITY WITH ADVANCED WATER TREATMENT TECHNOLOGIES AND CALIFORNIA GRRP REGULATIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13",
+   "title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:09",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "outline+body",
+   "start": {
+    "page": 96,
+    "para": 1
+   },
+   "end": {
+    "page": 103,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0096.md#¶1",
+   "heading_line": "###### **3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONAL PLAN FOR TRANSITION TO JACOBS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.commitment-to-a-smooth-transition",
+   "title": "COMMITMENT TO A SMOOTH TRANSITION",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:13",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 96,
+    "para": 2
+   },
+   "end": {
+    "page": 96,
+    "para": 11
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0096.md#¶2",
+   "heading_line": "###### **COMMITMENT TO A SMOOTH TRANSITION**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.tapping-the-value-of-existing-staff",
+   "title": "TAPPING THE VALUE OF EXISTING STAFF",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:13",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 97,
+    "para": 1
+   },
+   "end": {
+    "page": 97,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0097.md#¶1",
+   "heading_line": "###### **TAPPING THE VALUE OF EXISTING STAFF**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.proven-approach-to-supporting-existing-employees-and-transit",
+   "title": "PROVEN APPROACH TO SUPPORTING EXISTING EMPLOYEES AND TRANSITION SUCCESS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:13",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 97,
+    "para": 5
+   },
+   "end": {
+    "page": 97,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0097.md#¶5",
+   "heading_line": "###### **PROVEN APPROACH TO SUPPORTING EXISTING EMPLOYEES AND TRANSITION SUCCESS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.care-and-sensitivity-toward-transitioning-employees",
+   "title": "CARE AND SENSITIVITY TOWARD TRANSITIONING EMPLOYEES",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:13",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 98,
+    "para": 1
+   },
+   "end": {
+    "page": 98,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0098.md#¶1",
+   "heading_line": "###### **CARE AND SENSITIVITY TOWARD TRANSITIONING EMPLOYEES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.compensation-package",
+   "title": "Compensation Package",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:13.care-and-sensitivity-toward-transitioning-employees",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 98,
+    "para": 3
+   },
+   "end": {
+    "page": 98,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0098.md#¶3",
+   "heading_line": "###### **_Compensation Package_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.experienced-transition-team",
+   "title": "EXPERIENCED TRANSITION TEAM",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:13",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 98,
+    "para": 9
+   },
+   "end": {
+    "page": 99,
+    "para": 9
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0098.md#¶9",
+   "heading_line": "###### **EXPERIENCED TRANSITION TEAM**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.transparent-communications",
+   "title": "TRANSPARENT COMMUNICATIONS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:13",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 99,
+    "para": 10
+   },
+   "end": {
+    "page": 101,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0099.md#¶10",
+   "heading_line": "###### **TRANSPARENT COMMUNICATIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.transition-phasing-and-timeline",
+   "title": "Transition Phasing and Timeline",
+   "level": 4,
+   "parent": "santamonica-swip-om-2025:13.transparent-communications",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 100,
+    "para": 1
+   },
+   "end": {
+    "page": 101,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0100.md#¶1",
+   "heading_line": "###### **_Transition Phasing and Timeline_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:13.long-term-staffing-succession-planning-practices",
+   "title": "LONG-TERM STAFFING/SUCCESSION PLANNING PRACTICES",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:13",
+   "outline_index": 13,
+   "outline_title": "3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS",
+   "kind": "body",
+   "start": {
+    "page": 102,
+    "para": 1
+   },
+   "end": {
+    "page": 103,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0102.md#¶1",
+   "heading_line": "###### **LONG-TERM STAFFING/SUCCESSION PLANNING PRACTICES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14",
+   "title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "level": 1,
+   "parent": null,
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "outline",
+   "start": {
+    "page": 104,
+    "para": 1
+   },
+   "end": {
+    "page": 108,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0104.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.discounted-engineering-services",
+   "title": "DISCOUNTED ENGINEERING SERVICES",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:14",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 104,
+    "para": 5
+   },
+   "end": {
+    "page": 105,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0104.md#¶5",
+   "heading_line": "###### **DISCOUNTED ENGINEERING SERVICES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.process-and-engineering-support",
+   "title": "Process and Engineering Support",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:14.discounted-engineering-services",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 104,
+    "para": 7
+   },
+   "end": {
+    "page": 104,
+    "para": 12
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0104.md#¶7",
+   "heading_line": "###### **_Process and Engineering Support_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.preparing-for-direct-potable-reuse",
+   "title": "Preparing for Direct Potable Reuse",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:14.discounted-engineering-services",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 104,
+    "para": 13
+   },
+   "end": {
+    "page": 105,
+    "para": 2
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0104.md#¶13",
+   "heading_line": "###### **_Preparing for Direct Potable Reuse_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.mechanical-and-i-c-support-at-other-city-facilities",
+   "title": "MECHANICAL AND I&C SUPPORT AT OTHER CITY FACILITIES",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:14",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 105,
+    "para": 3
+   },
+   "end": {
+    "page": 105,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0105.md#¶3",
+   "heading_line": "###### **MECHANICAL AND I&C SUPPORT AT OTHER CITY FACILITIES**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.direct-potable-reuse-operations",
+   "title": "Direct Potable Reuse Operations",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:14.mechanical-and-i-c-support-at-other-city-facilities",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 105,
+    "para": 5
+   },
+   "end": {
+    "page": 105,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0105.md#¶5",
+   "heading_line": "###### **_Direct Potable Reuse Operations_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.sm-10i-and-sm-11i-injection-well-performance-monitoring",
+   "title": "SM-10I AND SM-11I INJECTION WELL PERFORMANCE MONITORING",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:14",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 106,
+    "para": 1
+   },
+   "end": {
+    "page": 106,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0106.md#¶1",
+   "heading_line": "###### **SM-10I AND SM-11I INJECTION WELL PERFORMANCE MONITORING**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.additional-items-for-consideration",
+   "title": "ADDITIONAL ITEMS FOR CONSIDERATION",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:14",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 106,
+    "para": 16
+   },
+   "end": {
+    "page": 108,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0106.md#¶16",
+   "heading_line": "###### **ADDITIONAL ITEMS FOR CONSIDERATION**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.scada-control-system-deployment",
+   "title": "SCADA Control System Deployment",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:14.additional-items-for-consideration",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 106,
+    "para": 18
+   },
+   "end": {
+    "page": 106,
+    "para": 21
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0106.md#¶18",
+   "heading_line": "###### **_SCADA Control System Deployment_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.training-and-development-of-city-staff-for-water-wastewater",
+   "title": "Training and Development of City Staff for Water/Wastewater/Advanced Water",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:14.additional-items-for-consideration",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 107,
+    "para": 1
+   },
+   "end": {
+    "page": 107,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0107.md#¶1",
+   "heading_line": "###### **_Training and Development of City Staff for Water/Wastewater/Advanced Water_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:14.inventory-management-for-arcadia",
+   "title": "Inventory Management for Arcadia",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:14.additional-items-for-consideration",
+   "outline_index": 14,
+   "outline_title": "Section 4: Suggested Modificationsto the Scope of Work",
+   "kind": "body",
+   "start": {
+    "page": 107,
+    "para": 5
+   },
+   "end": {
+    "page": 108,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0107.md#¶5",
+   "heading_line": "###### **_Inventory Management for Arcadia_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15",
+   "title": "Section 5: Cost Proposal",
+   "level": 1,
+   "parent": null,
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "outline",
+   "start": {
+    "page": 109,
+    "para": 1
+   },
+   "end": {
+    "page": 119,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0109.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.jacobs-commitment-to-value-performance-and-partnership",
+   "title": "JACOBS’ COMMITMENT TO VALUE, PERFORMANCE, AND PARTNERSHIP",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:15",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 109,
+    "para": 2
+   },
+   "end": {
+    "page": 110,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0109.md#¶2",
+   "heading_line": "###### **JACOBS’ COMMITMENT TO VALUE, PERFORMANCE, AND PARTNERSHIP**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.the-best-overall-value",
+   "title": "The Best Overall Value",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:15.jacobs-commitment-to-value-performance-and-partnership",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 109,
+    "para": 6
+   },
+   "end": {
+    "page": 110,
+    "para": 8
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0109.md#¶6",
+   "heading_line": "###### **_The Best Overall Value_**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.cost-proposal",
+   "title": "COST PROPOSAL",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:15",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 111,
+    "para": 1
+   },
+   "end": {
+    "page": 111,
+    "para": 10
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0111.md#¶1",
+   "heading_line": "###### **COST PROPOSAL**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.pricing-form-schedules-with-our-assumptions",
+   "title": "PRICING FORM SCHEDULES WITH OUR ASSUMPTIONS",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:15",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 111,
+    "para": 11
+   },
+   "end": {
+    "page": 113,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0111.md#¶11",
+   "heading_line": "###### **PRICING FORM SCHEDULES WITH OUR ASSUMPTIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.schedule-a-contract-price-operations-services-for-the-facili",
+   "title": "Schedule A – Contract Price, Operations Services for the Facilities",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:15.pricing-form-schedules-with-our-assumptions",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 111,
+    "para": 12
+   },
+   "end": {
+    "page": 112,
+    "para": 1
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0111.md#¶12",
+   "heading_line": "###### **Schedule A – Contract Price, Operations Services for the Facilities**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.schedule-b-city-controlled-allowances",
+   "title": "Schedule B – City Controlled Allowances",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:15.pricing-form-schedules-with-our-assumptions",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 112,
+    "para": 2
+   },
+   "end": {
+    "page": 113,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0112.md#¶2",
+   "heading_line": "###### **Schedule B – City Controlled Allowances**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.6-oem-service-agreements-per-exhibit-a-2-7-service-contracts",
+   "title": "6. OEM Service Agreements per Exhibit A 2.7 Service Contracts",
+   "level": 2,
+   "parent": "santamonica-swip-om-2025:15",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 113,
+    "para": 4
+   },
+   "end": {
+    "page": 119,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0113.md#¶4",
+   "heading_line": "###### 6. **OEM Service Agreements per Exhibit A 2.7 Service Contracts**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.schedule-c-one-time-costs-associated-with-transition-and-han",
+   "title": "Schedule C – One-Time Costs Associated with Transition and Handover",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:15.6-oem-service-agreements-per-exhibit-a-2-7-service-contracts",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 115,
+    "para": 1
+   },
+   "end": {
+    "page": 115,
+    "para": 4
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0115.md#¶1",
+   "heading_line": "###### **Schedule C – One-Time Costs Associated with Transition and Handover**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.pricing-and-contract-assumptions",
+   "title": "PRICING AND CONTRACT ASSUMPTIONS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:15.6-oem-service-agreements-per-exhibit-a-2-7-service-contracts",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 115,
+    "para": 5
+   },
+   "end": {
+    "page": 115,
+    "para": 15
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0115.md#¶5",
+   "heading_line": "###### **PRICING AND CONTRACT ASSUMPTIONS**",
+   "minor": false
+  },
+  {
+   "id": "santamonica-swip-om-2025:15.deviations-from-terms-and-conditions",
+   "title": "DEVIATIONS FROM TERMS AND CONDITIONS",
+   "level": 3,
+   "parent": "santamonica-swip-om-2025:15.6-oem-service-agreements-per-exhibit-a-2-7-service-contracts",
+   "outline_index": 15,
+   "outline_title": "Section 5: Cost Proposal",
+   "kind": "body",
+   "start": {
+    "page": 116,
+    "para": 1
+   },
+   "end": {
+    "page": 119,
+    "para": 3
+   },
+   "anchor": "verbatim/santamonica-swip-om-2025/pages/p0116.md#¶1",
+   "heading_line": "###### **DEVIATIONS FROM TERMS AND CONDITIONS**",
+   "minor": false
+  }
+ ],
+ "generated": "2026-09-14"
+}

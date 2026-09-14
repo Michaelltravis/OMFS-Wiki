@@ -1,0 +1,19 @@
+{
+  "slug": "fulton-county-2025",
+  "review_status": "draft",
+  "descriptor": "a Southeast US county public works department",
+  "client_names": ["Fulton County Department of Public Works", "Fulton County Public Works", "Fulton County", "North Fulton"],
+  "client_aliases": ["the County"],
+  "location_names": [],
+  "location_placeholder": "[the region]",
+  "facility_names": [
+    {"names": ["Big Creek Water Reclamation Facility", "Big Creek WRF", "Big Creek"], "placeholder": "[FACILITY A]", "descriptor": "the largest of the three MBR water reclamation facilities"},
+    {"names": ["Johns Creek Environmental Campus", "JCEC", "Johns Creek"], "placeholder": "[FACILITY B]", "descriptor": ""},
+    {"names": ["Little River Water Reclamation Facility", "Little River WRF", "Little River"], "placeholder": "[FACILITY C]", "descriptor": ""}
+  ],
+  "product_names": [],
+  "protect": [],
+  "keep": ["Atlanta", "Georgia", "GA EPD", "Georgia EPD", "CERM", "JC Solutions"],
+  "ambiguous": ["the City", "Veolia"],
+  "notes": "Bid as JC Solutions (Jacobs/CERM JV) — the JV name stays. 'the City' refers to the various North Fulton cities; 'Veolia' appears as a past operator at other clients."
+}

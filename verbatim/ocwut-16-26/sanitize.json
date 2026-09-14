@@ -1,0 +1,21 @@
+{
+  "slug": "ocwut-16-26",
+  "review_status": "draft",
+  "descriptor": "a Southcentral US water utility trust",
+  "client_names": ["Oklahoma City Water Utilities Trust", "City of Oklahoma City", "Oklahoma City", "OCWUT", "OKC"],
+  "client_aliases": ["the Trust"],
+  "location_names": [],
+  "location_placeholder": "[the region]",
+  "facility_names": [
+    {"names": ["North Canadian Wastewater Treatment Plant", "North Canadian WWTP", "North Canadian"], "placeholder": "[FACILITY A]", "descriptor": "the largest of the four wastewater treatment plants"},
+    {"names": ["Deer Creek Wastewater Treatment Plant", "Deer Creek WWTP", "Deer Creek"], "placeholder": "[FACILITY B]", "descriptor": ""},
+    {"names": ["South Canadian Wastewater Treatment Plant", "South Canadian WWTP", "South Canadian"], "placeholder": "[FACILITY C]", "descriptor": ""},
+    {"names": ["Chisholm Creek Wastewater Treatment Plant", "Chisholm Creek WWTP", "Chisholm Creek"], "placeholder": "[FACILITY D]", "descriptor": ""},
+    {"names": ["Witcher Pump Station", "Witcher"], "placeholder": "[PUMP STATION]", "descriptor": ""}
+  ],
+  "product_names": [],
+  "protect": [],
+  "keep": ["Oklahoma", "ODEQ", "Oklahoma Department of Environmental Quality"],
+  "ambiguous": ["the City"],
+  "notes": "'the City' usually means the City of Oklahoma City (effectively the client) but sometimes another municipality; left as-is and listed in the pull summary for review."
+}

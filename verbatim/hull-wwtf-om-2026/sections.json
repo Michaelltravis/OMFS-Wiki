@@ -1,0 +1,3687 @@
+{
+ "slug": "hull-wwtf-om-2026",
+ "rules_version": 1,
+ "page_count": 104,
+ "repeating_lines": [
+  "# hhull #ko #",
+  "# hull #ko #",
+  "# nantasket avenue hull, ma # tel: (#) #-# fax: (#) #-# email: sewer@town.hull.ma.us www.town.hull.ma.us",
+  "(confidential/proprietary)",
+  "acknowledgment of notice",
+  "annual project fee",
+  "appendix a - resumes | town of hull o&m services | a-#",
+  "appendix b - project descriptions | town of hull o&m services | b-#",
+  "appendix f - wats modeling | town of hull o&m services | f-#",
+  "attachment(s) added to document room in bidnet:",
+  "clarification(s) to rfp document:",
+  "dear contractor/vendor/supplier - please read carefully:",
+  "description of services provided",
+  "detailed description of the facilities managed",
+  "education",
+  "end of addendum",
+  "i, the undersigned, acknowledge receipt of addendum no. #",
+  "licenses/registrations",
+  "notice to all bidders of record / clarification to proposal documents:",
+  "operations management international, inc. (omi) bidder/company name: (a subsidiary of jacobs solutions, inc.)",
+  "owner contact",
+  "plant size",
+  "professional background",
+  "proposal due date: april #, # @ #:# pm (unchanged) issued by: tom molinari, assistant director of wastewater operations",
+  "regulatory compliance",
+  "relevant experience",
+  "response(s) to bidder(s) question(s):",
+  "sales@smartcoversystems.com",
+  "section #",
+  "section # - executive summary | town of hull o&m services | #",
+  "section # - firm qualifications and demonstrated experience | town of hull o&m services | #",
+  "section # - project staffing and project management plan | town of hull o&m services | #",
+  "section # - project understanding and technical approach | town of hull o&m | #",
+  "smartcoversystems.com",
+  "town of hull sewer department",
+  "town of hull, ma addendum no. #",
+  "years of service",
+  "you are hereby formally notified of the following additions/changes to the contract documents for the above mentioned project.",
+  "|---|---|",
+  "|---|---|---|",
+  "|---|---|---|---|",
+  "|---|---|---|---|---|",
+  "µ total experience: # years"
+ ],
+ "stats": {
+  "sections": 181,
+  "outline": 20,
+  "merged": 11,
+  "body_headings": 301,
+  "excluded": {
+   "repeating": 79,
+   "fragment": 13,
+   "too-long": 5,
+   "plain": 30,
+   "caption": 2
+  },
+  "minor": 3
+ },
+ "sections": [
+  {
+   "id": "hull-wwtf-om-2026:00",
+   "title": "Cover",
+   "level": 1,
+   "parent": null,
+   "outline_index": 0,
+   "outline_title": "Cover",
+   "kind": "outline",
+   "start": {
+    "page": 1,
+    "para": 1
+   },
+   "end": {
+    "page": 2,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0001.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:01",
+   "title": "Section 1 - Cover Letter",
+   "level": 1,
+   "parent": null,
+   "outline_index": 1,
+   "outline_title": "Section 1 - Cover Letter",
+   "kind": "outline",
+   "start": {
+    "page": 3,
+    "para": 1
+   },
+   "end": {
+    "page": 4,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0003.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02",
+   "title": "Section 2 - Executive Summary",
+   "level": 1,
+   "parent": null,
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "outline",
+   "start": {
+    "page": 5,
+    "para": 1
+   },
+   "end": {
+    "page": 9,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0005.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02.positioning-hull-s-wastewater-program-for-its-next-phase",
+   "title": "POSITIONING HULL’S WASTEWATER PROGRAM FOR ITS NEXT PHASE",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:02",
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 5,
+    "para": 2
+   },
+   "end": {
+    "page": 5,
+    "para": 8
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0005.md#¶2",
+   "heading_line": "##### **POSITIONING HULL’S WASTEWATER PROGRAM FOR ITS NEXT PHASE**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02.leadership-driven-operations-and-accountability",
+   "title": "LEADERSHIP-DRIVEN OPERATIONS AND ACCOUNTABILITY",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:02",
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 6,
+    "para": 1
+   },
+   "end": {
+    "page": 6,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0006.md#¶1",
+   "heading_line": "##### **LEADERSHIP-DRIVEN OPERATIONS AND ACCOUNTABILITY**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02.coordinated-system-operations-and-data-driven-performance",
+   "title": "COORDINATED SYSTEM OPERATIONS AND DATA-DRIVEN PERFORMANCE",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:02",
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 6,
+    "para": 8
+   },
+   "end": {
+    "page": 7,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0006.md#¶8",
+   "heading_line": "##### **COORDINATED SYSTEM OPERATIONS AND DATA-DRIVEN PERFORMANCE**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02.the-jacobs-difference-expertise-that-drives-results",
+   "title": "THE JACOBS DIFFERENCE: EXPERTISE THAT DRIVES RESULTS",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:02",
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 7,
+    "para": 2
+   },
+   "end": {
+    "page": 7,
+    "para": 4
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0007.md#¶2",
+   "heading_line": "##### **THE JACOBS DIFFERENCE: EXPERTISE THAT DRIVES RESULTS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02.proven-operations-in-coastal-and-complex-systems",
+   "title": "PROVEN OPERATIONS IN COASTAL AND COMPLEX SYSTEMS",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:02",
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 7,
+    "para": 5
+   },
+   "end": {
+    "page": 7,
+    "para": 13
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0007.md#¶5",
+   "heading_line": "##### **PROVEN OPERATIONS IN COASTAL AND COMPLEX SYSTEMS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02.continuous-improvement-through-an-annual-innovation-workshop",
+   "title": "CONTINUOUS IMPROVEMENT THROUGH AN ANNUAL INNOVATION WORKSHOP",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:02",
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 7,
+    "para": 14
+   },
+   "end": {
+    "page": 8,
+    "para": 10
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0007.md#¶14",
+   "heading_line": "##### **CONTINUOUS IMPROVEMENT THROUGH AN ANNUAL INNOVATION WORKSHOP**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02.our-value-added-approach",
+   "title": "OUR VALUE-ADDED APPROACH",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:02",
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 8,
+    "para": 11
+   },
+   "end": {
+    "page": 8,
+    "para": 20
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶11",
+   "heading_line": "##### **OUR VALUE-ADDED APPROACH**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:02.your-next-chapter",
+   "title": "YOUR NEXT CHAPTER",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:02",
+   "outline_index": 2,
+   "outline_title": "Section 2 - Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 8,
+    "para": 21
+   },
+   "end": {
+    "page": 9,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0008.md#¶21",
+   "heading_line": "##### **YOUR NEXT CHAPTER**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03",
+   "title": "Section 3 - Firm Qualifications and Experience",
+   "level": 1,
+   "parent": null,
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "outline",
+   "start": {
+    "page": 10,
+    "para": 1
+   },
+   "end": {
+    "page": 18,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.corporate-profile-and-legal-qualifications",
+   "title": "CORPORATE PROFILE AND LEGAL QUALIFICATIONS",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:03",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 3
+   },
+   "end": {
+    "page": 10,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶3",
+   "heading_line": "##### **CORPORATE PROFILE AND LEGAL QUALIFICATIONS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.corporate-profile",
+   "title": "CORPORATE PROFILE",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.corporate-profile-and-legal-qualifications",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 4
+   },
+   "end": {
+    "page": 10,
+    "para": 8
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶4",
+   "heading_line": "###### **CORPORATE PROFILE**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.legal-standing-in-massachusetts",
+   "title": "LEGAL STANDING IN MASSACHUSETTS",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.corporate-profile-and-legal-qualifications",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 9
+   },
+   "end": {
+    "page": 10,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶9",
+   "heading_line": "###### **LEGAL STANDING IN MASSACHUSETTS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.technical-qualifications",
+   "title": "TECHNICAL QUALIFICATIONS",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:03",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 11,
+    "para": 1
+   },
+   "end": {
+    "page": 13,
+    "para": 9
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0011.md#¶1",
+   "heading_line": "##### **TECHNICAL QUALIFICATIONS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.years-of-experience-providing-o-m-services-for-wastewater-fa",
+   "title": "YEARS OF EXPERIENCE PROVIDING O&M SERVICES FOR WASTEWATER FACILITIES",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.technical-qualifications",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 11,
+    "para": 2
+   },
+   "end": {
+    "page": 12,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0011.md#¶2",
+   "heading_line": "###### **YEARS OF EXPERIENCE PROVIDING O&M SERVICES FOR WASTEWATER FACILITIES**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.robust-regional-resources",
+   "title": "Robust Regional Resources",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:03.years-of-experience-providing-o-m-services-for-wastewater-fa",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 12,
+    "para": 2
+   },
+   "end": {
+    "page": 12,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶2",
+   "heading_line": "###### **_Robust Regional Resources_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.representative-facilities",
+   "title": "Representative Facilities",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:03.years-of-experience-providing-o-m-services-for-wastewater-fa",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 12,
+    "para": 4
+   },
+   "end": {
+    "page": 12,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶4",
+   "heading_line": "###### **_Representative Facilities_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.experience-operating-wastewater-treatment-plants",
+   "title": "EXPERIENCE OPERATING WASTEWATER TREATMENT PLANTS",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.technical-qualifications",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 12,
+    "para": 6
+   },
+   "end": {
+    "page": 12,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶6",
+   "heading_line": "###### **EXPERIENCE OPERATING WASTEWATER TREATMENT PLANTS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.management-of-collection-systems-including-pumping-stations",
+   "title": "MANAGEMENT OF COLLECTION SYSTEMS, INCLUDING PUMPING STATIONS OF SIMILAR SIZE AND COMPLEXITY",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.technical-qualifications",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 12,
+    "para": 8
+   },
+   "end": {
+    "page": 13,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0012.md#¶8",
+   "heading_line": "###### **MANAGEMENT OF COLLECTION SYSTEMS, INCLUDING PUMPING STATIONS OF SIMILAR SIZE AND COMPLEXITY**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.experience-with-low-pressure-sewer-systems",
+   "title": "EXPERIENCE WITH LOW-PRESSURE SEWER SYSTEMS",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.technical-qualifications",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 13,
+    "para": 4
+   },
+   "end": {
+    "page": 13,
+    "para": 9
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0013.md#¶4",
+   "heading_line": "###### **EXPERIENCE WITH LOW-PRESSURE SEWER SYSTEMS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.financial-qualifications",
+   "title": "FINANCIAL QUALIFICATIONS",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:03",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 14,
+    "para": 1
+   },
+   "end": {
+    "page": 14,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0014.md#¶1",
+   "heading_line": "##### **FINANCIAL QUALIFICATIONS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.references",
+   "title": "REFERENCES",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:03",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 14,
+    "para": 6
+   },
+   "end": {
+    "page": 14,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0014.md#¶6",
+   "heading_line": "##### **REFERENCES**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.litigation-or-contract-termination",
+   "title": "LITIGATION OR CONTRACT TERMINATION",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:03",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 14,
+    "para": 8
+   },
+   "end": {
+    "page": 15,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0014.md#¶8",
+   "heading_line": "##### **LITIGATION OR CONTRACT TERMINATION**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.litigation",
+   "title": "LITIGATION",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.litigation-or-contract-termination",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 14,
+    "para": 9
+   },
+   "end": {
+    "page": 14,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0014.md#¶9",
+   "heading_line": "###### **LITIGATION**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.contract-termination",
+   "title": "CONTRACT TERMINATION",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.litigation-or-contract-termination",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 14,
+    "para": 12
+   },
+   "end": {
+    "page": 15,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0014.md#¶12",
+   "heading_line": "###### **CONTRACT TERMINATION**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.corporate-experience",
+   "title": "CORPORATE EXPERIENCE",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:03",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 16,
+    "para": 1
+   },
+   "end": {
+    "page": 18,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0016.md#¶1",
+   "heading_line": "##### **CORPORATE EXPERIENCE**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.similar-facilities",
+   "title": "SIMILAR FACILITIES",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.corporate-experience",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 16,
+    "para": 2
+   },
+   "end": {
+    "page": 16,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0016.md#¶2",
+   "heading_line": "###### **SIMILAR FACILITIES**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.full-o-m-services-for-water-and-wastewater-treatment-facilit",
+   "title": "Full O&M Services for Water and Wastewater Treatment Facilities",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:03.similar-facilities",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 16,
+    "para": 4
+   },
+   "end": {
+    "page": 16,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0016.md#¶4",
+   "heading_line": "###### **_Full O&M Services for Water and Wastewater Treatment Facilities_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.additional-technical-resources-and-capital-planning-support",
+   "title": "ADDITIONAL TECHNICAL RESOURCES AND CAPITAL PLANNING SUPPORT",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.corporate-experience",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 16,
+    "para": 6
+   },
+   "end": {
+    "page": 16,
+    "para": 15
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0016.md#¶6",
+   "heading_line": "###### **ADDITIONAL TECHNICAL RESOURCES AND CAPITAL PLANNING SUPPORT**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.health-safety-and-environmental-compliance-record",
+   "title": "HEALTH, SAFETY, AND ENVIRONMENTAL COMPLIANCE RECORD",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:03.corporate-experience",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 17,
+    "para": 1
+   },
+   "end": {
+    "page": 18,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0017.md#¶1",
+   "heading_line": "###### **HEALTH, SAFETY, AND ENVIRONMENTAL COMPLIANCE RECORD**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.health-and-safety",
+   "title": "Health and Safety",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:03.health-safety-and-environmental-compliance-record",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 17,
+    "para": 4
+   },
+   "end": {
+    "page": 17,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0017.md#¶4",
+   "heading_line": "###### **_Health and Safety_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.osha-recordable-rate",
+   "title": "OSHA Recordable Rate",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:03.health-safety-and-environmental-compliance-record",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 17,
+    "para": 6
+   },
+   "end": {
+    "page": 17,
+    "para": 10
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0017.md#¶6",
+   "heading_line": "###### **_OSHA Recordable Rate_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.experience-modification-rate-emr",
+   "title": "Experience Modification Rate (EMR)",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:03.health-safety-and-environmental-compliance-record",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 17,
+    "para": 11
+   },
+   "end": {
+    "page": 17,
+    "para": 15
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0017.md#¶11",
+   "heading_line": "###### **_Experience Modification Rate (EMR)_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.environmental-compliance",
+   "title": "Environmental Compliance",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:03.health-safety-and-environmental-compliance-record",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 17,
+    "para": 16
+   },
+   "end": {
+    "page": 17,
+    "para": 17
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0017.md#¶16",
+   "heading_line": "###### **_Environmental Compliance_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:03.meeting-and-guaranteeing-permit-compliance",
+   "title": "Meeting and Guaranteeing Permit Compliance",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:03.health-safety-and-environmental-compliance-record",
+   "outline_index": 3,
+   "outline_title": "Section 3 - Firm Qualifications and Experience",
+   "kind": "body",
+   "start": {
+    "page": 17,
+    "para": 18
+   },
+   "end": {
+    "page": 18,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0017.md#¶18",
+   "heading_line": "###### **_Meeting and Guaranteeing Permit Compliance_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04",
+   "title": "Section 4 - Project Staffing and Project Management Plan",
+   "level": 1,
+   "parent": null,
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "outline",
+   "start": {
+    "page": 19,
+    "para": 1
+   },
+   "end": {
+    "page": 24,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "title": "CULTURE-DRIVEN LEADERSHIP FOR THE TOWN OF HULL",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:04",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 2
+   },
+   "end": {
+    "page": 24,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶2",
+   "heading_line": "##### **CULTURE-DRIVEN LEADERSHIP FOR THE TOWN OF HULL**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.organization-chart",
+   "title": "ORGANIZATION CHART",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 10
+   },
+   "end": {
+    "page": 19,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶10",
+   "heading_line": "###### **ORGANIZATION CHART**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.staffing-overview-and-coverage",
+   "title": "STAFFING OVERVIEW AND COVERAGE",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 12
+   },
+   "end": {
+    "page": 19,
+    "para": 19
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0019.md#¶12",
+   "heading_line": "###### **STAFFING OVERVIEW AND COVERAGE**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.key-staff-and-management-team",
+   "title": "KEY STAFF AND MANAGEMENT TEAM",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 1
+   },
+   "end": {
+    "page": 20,
+    "para": 35
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶1",
+   "heading_line": "###### **KEY STAFF AND MANAGEMENT TEAM**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.technical-support-team",
+   "title": "TECHNICAL SUPPORT TEAM",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 1
+   },
+   "end": {
+    "page": 22,
+    "para": 13
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0021.md#¶1",
+   "heading_line": "###### **TECHNICAL SUPPORT TEAM**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.certifications-and-training",
+   "title": "CERTIFICATIONS AND TRAINING",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 14
+   },
+   "end": {
+    "page": 22,
+    "para": 22
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶14",
+   "heading_line": "###### **CERTIFICATIONS AND TRAINING**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.leadership-credentials",
+   "title": "Leadership Credentials",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:04.certifications-and-training",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 15
+   },
+   "end": {
+    "page": 22,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶15",
+   "heading_line": "###### **_Leadership Credentials_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.staff-certifications-and-training",
+   "title": "Staff Certifications and Training",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:04.certifications-and-training",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 17
+   },
+   "end": {
+    "page": 22,
+    "para": 18
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶17",
+   "heading_line": "###### **_Staff Certifications and Training_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.operator-certification-incentives",
+   "title": "Operator Certification Incentives",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:04.certifications-and-training",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 19
+   },
+   "end": {
+    "page": 22,
+    "para": 20
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶19",
+   "heading_line": "###### **_Operator Certification Incentives_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.maintenance-certification-programs",
+   "title": "Maintenance Certification Programs",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:04.certifications-and-training",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 21
+   },
+   "end": {
+    "page": 22,
+    "para": 22
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶21",
+   "heading_line": "###### **_Maintenance Certification Programs_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.staffing-plan",
+   "title": "STAFFING PLAN",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 23
+   },
+   "end": {
+    "page": 22,
+    "para": 29
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶23",
+   "heading_line": "###### **STAFFING PLAN**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.coverage-shifts-and-on-call-structure",
+   "title": "Coverage, Shifts, and On‑Call Structure",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:04.staffing-plan",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 25
+   },
+   "end": {
+    "page": 22,
+    "para": 29
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶25",
+   "heading_line": "###### **_Coverage, Shifts, and On‑Call Structure_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.plan-to-transition-management-and-operation-of-facility",
+   "title": "PLAN TO TRANSITION MANAGEMENT AND OPERATION OF FACILITY",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 30
+   },
+   "end": {
+    "page": 23,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶30",
+   "heading_line": "###### **PLAN TO TRANSITION MANAGEMENT AND OPERATION OF FACILITY**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.proven-transition-and-mobilization-strategy",
+   "title": "Proven Transition and Mobilization Strategy",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:04.plan-to-transition-management-and-operation-of-facility",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 31
+   },
+   "end": {
+    "page": 23,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0022.md#¶31",
+   "heading_line": "###### **_Proven Transition and Mobilization Strategy_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.retention-first-staffing-strategy",
+   "title": "Retention‑First Staffing Strategy",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:04.plan-to-transition-management-and-operation-of-facility",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 2
+   },
+   "end": {
+    "page": 23,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶2",
+   "heading_line": "###### **_Retention‑First Staffing Strategy_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.management-handoff-and-knowledge-retention",
+   "title": "Management Handoff and Knowledge Retention",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:04.plan-to-transition-management-and-operation-of-facility",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 6
+   },
+   "end": {
+    "page": 23,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶6",
+   "heading_line": "###### **_Management Handoff and Knowledge Retention_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.subcontractors",
+   "title": "SUBCONTRACTORS",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 12
+   },
+   "end": {
+    "page": 23,
+    "para": 13
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶12",
+   "heading_line": "###### **SUBCONTRACTORS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:04.backup-resource-availability-to-augment-onsite-staff-and-fil",
+   "title": "BACKUP RESOURCE AVAILABILITY TO AUGMENT ONSITE STAFF AND FILL TEMPORARY POSITIONS",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull",
+   "outline_index": 4,
+   "outline_title": "Section 4 - Project Staffing and Project Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 14
+   },
+   "end": {
+    "page": 24,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0023.md#¶14",
+   "heading_line": "###### **BACKUP RESOURCE AVAILABILITY TO AUGMENT ONSITE STAFF AND FILL TEMPORARY POSITIONS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05",
+   "title": "Section 5 - Project Understanding and Technical Approach",
+   "level": 1,
+   "parent": null,
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "outline",
+   "start": {
+    "page": 25,
+    "para": 1
+   },
+   "end": {
+    "page": 52,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0025.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.project-understanding",
+   "title": "PROJECT UNDERSTANDING",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:05",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 25,
+    "para": 2
+   },
+   "end": {
+    "page": 26,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0025.md#¶2",
+   "heading_line": "##### **PROJECT UNDERSTANDING**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-systems",
+   "title": "OUR O&M APPROACH BUILT ON PROVEN, TRANSPARENT SYSTEMS",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:05",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 3
+   },
+   "end": {
+    "page": 28,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0026.md#¶3",
+   "heading_line": "##### **OUR O&M APPROACH BUILT ON PROVEN, TRANSPARENT SYSTEMS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.human-resources",
+   "title": "Human Resources",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-systems",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 8
+   },
+   "end": {
+    "page": 26,
+    "para": 9
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0026.md#¶8",
+   "heading_line": "###### **Human Resources**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.financial-management",
+   "title": "Financial Management",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-systems",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 10
+   },
+   "end": {
+    "page": 26,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0026.md#¶10",
+   "heading_line": "###### **Financial Management**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.project-management",
+   "title": "Project Management",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-systems",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 12
+   },
+   "end": {
+    "page": 26,
+    "para": 13
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0026.md#¶12",
+   "heading_line": "###### **Project Management**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.community-involvement",
+   "title": "Community Involvement",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-systems",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 14
+   },
+   "end": {
+    "page": 26,
+    "para": 15
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0026.md#¶14",
+   "heading_line": "###### **Community Involvement**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.customer-service",
+   "title": "Customer Service",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-systems",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 16
+   },
+   "end": {
+    "page": 26,
+    "para": 18
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0026.md#¶16",
+   "heading_line": "###### **Customer Service**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.transparent-communications-and-reporting",
+   "title": "TRANSPARENT COMMUNICATIONS AND REPORTING",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-systems",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 27,
+    "para": 1
+   },
+   "end": {
+    "page": 28,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0027.md#¶1",
+   "heading_line": "###### **TRANSPARENT COMMUNICATIONS AND REPORTING**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.annual-innovation-workshops-drive-continuous-improvement-and",
+   "title": "Annual Innovation Workshops Drive Continuous Improvement and Innovation",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.transparent-communications-and-reporting",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 27,
+    "para": 4
+   },
+   "end": {
+    "page": 28,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0027.md#¶4",
+   "heading_line": "###### **_Annual Innovation Workshops Drive Continuous Improvement and Innovation_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.operational-approach",
+   "title": "OPERATIONAL APPROACH",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:05",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 28,
+    "para": 6
+   },
+   "end": {
+    "page": 52,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0028.md#¶6",
+   "heading_line": "##### **OPERATIONAL APPROACH**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.process-tools-and-oversight",
+   "title": "PROCESS TOOLS AND OVERSIGHT",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 28,
+    "para": 9
+   },
+   "end": {
+    "page": 28,
+    "para": 15
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0028.md#¶9",
+   "heading_line": "###### **PROCESS TOOLS AND OVERSIGHT**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations",
+   "title": "OUR PHASED APPROACH TO SUSTAINABLE OPERATIONS",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 29,
+    "para": 1
+   },
+   "end": {
+    "page": 32,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0029.md#¶1",
+   "heading_line": "###### **OUR PHASED APPROACH TO SUSTAINABLE OPERATIONS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.baseline-operations",
+   "title": "Baseline Operations",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 29,
+    "para": 3
+   },
+   "end": {
+    "page": 29,
+    "para": 15
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0029.md#¶3",
+   "heading_line": "###### **_Baseline Operations_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.opportunities-for-stable-and-sustainable-operations",
+   "title": "Opportunities for Stable and Sustainable Operations",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 29,
+    "para": 16
+   },
+   "end": {
+    "page": 30,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0029.md#¶16",
+   "heading_line": "###### **_Opportunities for Stable and Sustainable Operations_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.execution-and-transparency",
+   "title": "Execution and Transparency",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 30,
+    "para": 3
+   },
+   "end": {
+    "page": 31,
+    "para": 4
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0030.md#¶3",
+   "heading_line": "###### **_Execution and Transparency_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.regulatory-oversight-and-change-management",
+   "title": "Regulatory Oversight and Change Management",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 5
+   },
+   "end": {
+    "page": 31,
+    "para": 6
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0031.md#¶5",
+   "heading_line": "###### **_Regulatory Oversight and Change Management_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.incident-response-and-continuous-improvement",
+   "title": "Incident Response and Continuous Improvement",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 7
+   },
+   "end": {
+    "page": 31,
+    "para": 8
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0031.md#¶7",
+   "heading_line": "###### **_Incident Response and Continuous Improvement_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.laboratory-management-and-data-integrity",
+   "title": "Laboratory Management and Data Integrity",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 9
+   },
+   "end": {
+    "page": 32,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0031.md#¶9",
+   "heading_line": "###### **_Laboratory Management and Data Integrity_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.biosolids-and-residuals-management",
+   "title": "BIOSOLIDS AND RESIDUALS MANAGEMENT",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 2
+   },
+   "end": {
+    "page": 33,
+    "para": 18
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0032.md#¶2",
+   "heading_line": "###### **BIOSOLIDS AND RESIDUALS MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.stabilization-thickening-and-biosolids-inventory-management",
+   "title": "Stabilization, Thickening, and Biosolids Inventory Management",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.biosolids-and-residuals-management",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 6
+   },
+   "end": {
+    "page": 33,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0032.md#¶6",
+   "heading_line": "###### **_Stabilization, Thickening, and Biosolids Inventory Management_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.hauling-and-disposal",
+   "title": "Hauling and Disposal",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.biosolids-and-residuals-management",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 33,
+    "para": 3
+   },
+   "end": {
+    "page": 33,
+    "para": 10
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0033.md#¶3",
+   "heading_line": "###### **_Hauling and Disposal_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.regulatory-compliance-and-reporting",
+   "title": "Regulatory Compliance and Reporting",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.biosolids-and-residuals-management",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 33,
+    "para": 11
+   },
+   "end": {
+    "page": 33,
+    "para": 13
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0033.md#¶11",
+   "heading_line": "###### **_Regulatory Compliance and Reporting_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.strategic-planning-and-future-market-conditions",
+   "title": "Strategic Planning and Future Market Conditions",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.biosolids-and-residuals-management",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 33,
+    "para": 14
+   },
+   "end": {
+    "page": 33,
+    "para": 18
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0033.md#¶14",
+   "heading_line": "###### **_Strategic Planning and Future Market Conditions_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.collections",
+   "title": "COLLECTIONS",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 1
+   },
+   "end": {
+    "page": 36,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0034.md#¶1",
+   "heading_line": "###### **COLLECTIONS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.the-town-s-collection-system-and-its-challenges",
+   "title": "The Town’s Collection System and Its Challenges",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.collections",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 2
+   },
+   "end": {
+    "page": 34,
+    "para": 4
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0034.md#¶2",
+   "heading_line": "###### **_The Town’s Collection System and Its Challenges_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.collection-system-operations",
+   "title": "Collection System Operations",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.collections",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 5
+   },
+   "end": {
+    "page": 34,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0034.md#¶5",
+   "heading_line": "###### **_Collection System Operations_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.support-for-the-town-s-i-i-reduction-efforts",
+   "title": "Support for the Town’s I/I Reduction Efforts",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.collections",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 17
+   },
+   "end": {
+    "page": 35,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0034.md#¶17",
+   "heading_line": "###### **_Support for the Town’s I/I Reduction Efforts_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.sewer-pump-station-operations",
+   "title": "Sewer Pump Station Operations",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.collections",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 8
+   },
+   "end": {
+    "page": 35,
+    "para": 21
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0035.md#¶8",
+   "heading_line": "###### **_Sewer Pump Station Operations_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.daily",
+   "title": "Daily",
+   "level": 5,
+   "parent": "hull-wwtf-om-2026:05.sewer-pump-station-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 10
+   },
+   "end": {
+    "page": 35,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0035.md#¶10",
+   "heading_line": "###### **Daily**",
+   "minor": true
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.weekly-monday-and-friday-or-more-often-as-conditions-dictate",
+   "title": "Weekly (Monday and Friday, or more often as conditions dictate)",
+   "level": 5,
+   "parent": "hull-wwtf-om-2026:05.sewer-pump-station-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 12
+   },
+   "end": {
+    "page": 35,
+    "para": 15
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0035.md#¶12",
+   "heading_line": "###### **Weekly (Monday and Friday, or more often as conditions dictate)**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.monthly-inspections",
+   "title": "Monthly Inspections",
+   "level": 5,
+   "parent": "hull-wwtf-om-2026:05.sewer-pump-station-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 16
+   },
+   "end": {
+    "page": 35,
+    "para": 18
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0035.md#¶16",
+   "heading_line": "###### **Monthly Inspections**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.quarterly-annual-inspections",
+   "title": "Quarterly/Annual Inspections",
+   "level": 5,
+   "parent": "hull-wwtf-om-2026:05.sewer-pump-station-operations",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 19
+   },
+   "end": {
+    "page": 35,
+    "para": 21
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0035.md#¶19",
+   "heading_line": "###### **Quarterly/Annual Inspections**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.cctv-and-sewer-line-cleaning",
+   "title": "CCTV and Sewer Line Cleaning",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.collections",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 22
+   },
+   "end": {
+    "page": 36,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0035.md#¶22",
+   "heading_line": "###### **_CCTV and Sewer Line Cleaning_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.low-pressure-system-grinder-pumps",
+   "title": "Low-Pressure System/Grinder Pumps",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.collections",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 4
+   },
+   "end": {
+    "page": 36,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0036.md#¶4",
+   "heading_line": "###### **_Low-Pressure System/Grinder Pumps_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.site-specific-odor-control-plan",
+   "title": "SITE-SPECIFIC ODOR CONTROL PLAN",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 6
+   },
+   "end": {
+    "page": 38,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0036.md#¶6",
+   "heading_line": "###### **SITE-SPECIFIC ODOR CONTROL PLAN**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.proactive-monitoring-and-early-detection",
+   "title": "Proactive Monitoring and Early Detection",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.site-specific-odor-control-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 13
+   },
+   "end": {
+    "page": 37,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0036.md#¶13",
+   "heading_line": "###### **_Proactive Monitoring and Early Detection_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.rapid-complaint-response-and-investigation",
+   "title": "Rapid Complaint Response and Investigation",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.site-specific-odor-control-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 37,
+    "para": 4
+   },
+   "end": {
+    "page": 37,
+    "para": 6
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0037.md#¶4",
+   "heading_line": "###### **_Rapid Complaint Response and Investigation_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.wastewater-treatment-facility-odor-management",
+   "title": "Wastewater Treatment Facility Odor Management",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.site-specific-odor-control-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 37,
+    "para": 7
+   },
+   "end": {
+    "page": 37,
+    "para": 9
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0037.md#¶7",
+   "heading_line": "###### **_Wastewater Treatment Facility Odor Management_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.collection-system-and-pump-station-odor-control",
+   "title": "Collection System and Pump Station Odor Control",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.site-specific-odor-control-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 37,
+    "para": 10
+   },
+   "end": {
+    "page": 37,
+    "para": 15
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0037.md#¶10",
+   "heading_line": "###### **_Collection System and Pump Station Odor Control_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.documentation-and-reporting",
+   "title": "Documentation and Reporting",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.site-specific-odor-control-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 38,
+    "para": 1
+   },
+   "end": {
+    "page": 38,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0038.md#¶1",
+   "heading_line": "###### **_Documentation and Reporting_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.innovation-and-sustainable-odor-control-strategies",
+   "title": "Innovation and Sustainable Odor Control Strategies",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.site-specific-odor-control-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 38,
+    "para": 3
+   },
+   "end": {
+    "page": 38,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0038.md#¶3",
+   "heading_line": "###### **_Innovation and Sustainable Odor Control Strategies_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.operational-technology-ot-scada-intelligent-o-m",
+   "title": "OPERATIONAL TECHNOLOGY (OT)/SCADA/ INTELLIGENT O&M",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 38,
+    "para": 6
+   },
+   "end": {
+    "page": 39,
+    "para": 8
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0038.md#¶6",
+   "heading_line": "###### **OPERATIONAL TECHNOLOGY (OT)/SCADA/ INTELLIGENT O&M**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.three-phase-roadmap-to-strengthen-visibility-resilience-and",
+   "title": "Three-Phase Roadmap to Strengthen Visibility, Resilience, and Asset Performance",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.operational-technology-ot-scada-intelligent-o-m",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 38,
+    "para": 8
+   },
+   "end": {
+    "page": 39,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0038.md#¶8",
+   "heading_line": "###### **_Three-Phase Roadmap to Strengthen Visibility, Resilience, and Asset Performance_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.key-outcomes-enabled-by-ot-and-scada",
+   "title": "Key Outcomes Enabled by OT and SCADA",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.operational-technology-ot-scada-intelligent-o-m",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 39,
+    "para": 3
+   },
+   "end": {
+    "page": 39,
+    "para": 8
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0039.md#¶3",
+   "heading_line": "###### **_Key Outcomes Enabled by OT and SCADA_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.integrated-safety-security-and-cyber-resilience",
+   "title": "INTEGRATED SAFETY, SECURITY, AND CYBER RESILIENCE",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 39,
+    "para": 9
+   },
+   "end": {
+    "page": 40,
+    "para": 14
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0039.md#¶9",
+   "heading_line": "###### **INTEGRATED SAFETY, SECURITY, AND CYBER RESILIENCE**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.safety-leadership-and-culture",
+   "title": "Safety Leadership and Culture",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.integrated-safety-security-and-cyber-resilience",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 40,
+    "para": 3
+   },
+   "end": {
+    "page": 40,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0040.md#¶3",
+   "heading_line": "###### **_Safety Leadership and Culture_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.site-specific-safety-and-security-planning",
+   "title": "Site-Specific Safety and Security Planning",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.integrated-safety-security-and-cyber-resilience",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 40,
+    "para": 6
+   },
+   "end": {
+    "page": 40,
+    "para": 10
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0040.md#¶6",
+   "heading_line": "###### **_Site-Specific Safety and Security Planning_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.cybersecurity-and-scada-protection",
+   "title": "Cybersecurity and SCADA Protection",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.integrated-safety-security-and-cyber-resilience",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 40,
+    "para": 11
+   },
+   "end": {
+    "page": 40,
+    "para": 14
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0040.md#¶11",
+   "heading_line": "###### **_Cybersecurity and SCADA Protection_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.emergency-response-and-storm-preparation",
+   "title": "EMERGENCY RESPONSE AND STORM PREPARATION",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 41,
+    "para": 1
+   },
+   "end": {
+    "page": 41,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0041.md#¶1",
+   "heading_line": "###### **EMERGENCY RESPONSE AND STORM PREPARATION**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.emergency-response-framework",
+   "title": "Emergency Response Framework",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.emergency-response-and-storm-preparation",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 41,
+    "para": 4
+   },
+   "end": {
+    "page": 41,
+    "para": 6
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0041.md#¶4",
+   "heading_line": "###### **_Emergency Response Framework_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.storm-identification-and-advance-preparation",
+   "title": "Storm Identification and Advance Preparation",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.emergency-response-and-storm-preparation",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 41,
+    "para": 7
+   },
+   "end": {
+    "page": 41,
+    "para": 9
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0041.md#¶7",
+   "heading_line": "###### **_Storm Identification and Advance Preparation_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.high-flow-operations-and-post-storm-recovery",
+   "title": "High-Flow Operations and Post-Storm Recovery",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.emergency-response-and-storm-preparation",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 41,
+    "para": 10
+   },
+   "end": {
+    "page": 41,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0041.md#¶10",
+   "heading_line": "###### **_High-Flow Operations and Post-Storm Recovery_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.energy-management-a-core-operating-discipline",
+   "title": "ENERGY MANAGEMENT: A CORE OPERATING DISCIPLINE",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 1
+   },
+   "end": {
+    "page": 43,
+    "para": 4
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0042.md#¶1",
+   "heading_line": "###### **ENERGY MANAGEMENT: A CORE OPERATING DISCIPLINE**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.optimizing-high-impact-energy-uses",
+   "title": "Optimizing High-Impact Energy Uses",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 4
+   },
+   "end": {
+    "page": 42,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0042.md#¶4",
+   "heading_line": "###### **_Optimizing High-Impact Energy Uses_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.collaboration-on-opportunities-for-phased-energy-optimizatio",
+   "title": "Collaboration on Opportunities for Phased Energy Optimization",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 6
+   },
+   "end": {
+    "page": 42,
+    "para": 13
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0042.md#¶6",
+   "heading_line": "###### **_Collaboration on Opportunities for Phased Energy Optimization_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.proven-success-with-significant-energy-and-chemical-optimiza",
+   "title": "Proven Success with Significant Energy (and Chemical) Optimization",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 14
+   },
+   "end": {
+    "page": 42,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0042.md#¶14",
+   "heading_line": "###### **_Proven Success with Significant Energy (and Chemical) Optimization_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.jacobs-grant-loan-support-services",
+   "title": "Jacobs Grant/Loan Support Services",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 17
+   },
+   "end": {
+    "page": 43,
+    "para": 4
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0042.md#¶17",
+   "heading_line": "###### **_Jacobs Grant/Loan Support Services_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "title": "ASSET MANAGEMENT/MAINTENANCE",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 5
+   },
+   "end": {
+    "page": 46,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0043.md#¶5",
+   "heading_line": "###### **ASSET MANAGEMENT/MAINTENANCE**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.the-town-s-asset-environment",
+   "title": "The Town’s Asset Environment",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 6
+   },
+   "end": {
+    "page": 43,
+    "para": 13
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0043.md#¶6",
+   "heading_line": "###### **_The Town’s Asset Environment_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.our-asset-management-and-maintenance-approach-for-the-town",
+   "title": "Our Asset Management and Maintenance Approach for the Town",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 14
+   },
+   "end": {
+    "page": 43,
+    "para": 14
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0043.md#¶14",
+   "heading_line": "###### **_Our Asset Management and Maintenance Approach for the Town_**",
+   "minor": true
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.cmms-driven-asset-visibility",
+   "title": "CMMS-Driven Asset Visibility",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 15
+   },
+   "end": {
+    "page": 44,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0043.md#¶15",
+   "heading_line": "###### **_CMMS-Driven Asset Visibility_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.planned-maintenance-on-critical-assets",
+   "title": "Planned Maintenance on Critical Assets",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 4
+   },
+   "end": {
+    "page": 45,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0044.md#¶4",
+   "heading_line": "###### **_Planned Maintenance on Critical Assets_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.self-performance-with-specialist-depth",
+   "title": "Self-Performance with Specialist Depth",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 4
+   },
+   "end": {
+    "page": 45,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0045.md#¶4",
+   "heading_line": "###### **_Self-Performance with Specialist Depth_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.housekeeping-focused-on-clean-orderly-facilities",
+   "title": "Housekeeping Focused on Clean, Orderly Facilities",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 6
+   },
+   "end": {
+    "page": 45,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0045.md#¶6",
+   "heading_line": "###### **_Housekeeping Focused on Clean, Orderly Facilities_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.whole-system-asset-planning",
+   "title": "Whole-System Asset Planning",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 8
+   },
+   "end": {
+    "page": 45,
+    "para": 12
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0045.md#¶8",
+   "heading_line": "###### **_Whole-System Asset Planning_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.integrating-sops-training-and-storm-readiness-into-maintenan",
+   "title": "Integrating SOPs, Training, and Storm Readiness into Maintenance Practices",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 13
+   },
+   "end": {
+    "page": 45,
+    "para": 14
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0045.md#¶13",
+   "heading_line": "###### **_Integrating SOPs, Training, and Storm Readiness into Maintenance Practices_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.technical-expertise-for-capital-planning-efforts",
+   "title": "Technical Expertise for Capital Planning Efforts",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 15
+   },
+   "end": {
+    "page": 45,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0045.md#¶15",
+   "heading_line": "###### **_Technical Expertise for Capital Planning Efforts_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.support-for-planning-and-executing-construction-projects-and",
+   "title": "Support for Planning and Executing Construction Projects and Facility Upgrades",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 17
+   },
+   "end": {
+    "page": 45,
+    "para": 19
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0045.md#¶17",
+   "heading_line": "###### **_Support for Planning and Executing Construction Projects and Facility Upgrades_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.innovative-opportunities-for-enhanced-maintenance-of-the-tow",
+   "title": "Innovative Opportunities for Enhanced Maintenance of the Town’s Facilities",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.asset-management-maintenance",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 46,
+    "para": 1
+   },
+   "end": {
+    "page": 46,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0046.md#¶1",
+   "heading_line": "###### **_Innovative Opportunities for Enhanced Maintenance of the Town’s Facilities_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.transition-plan",
+   "title": "TRANSITION PLAN",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 46,
+    "para": 8
+   },
+   "end": {
+    "page": 48,
+    "para": 27
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0046.md#¶8",
+   "heading_line": "###### **TRANSITION PLAN**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.immediate-mobilization-and-governance",
+   "title": "Immediate Mobilization and Governance",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.transition-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 47,
+    "para": 4
+   },
+   "end": {
+    "page": 47,
+    "para": 13
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0047.md#¶4",
+   "heading_line": "###### **_Immediate Mobilization and Governance_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.transition-leadership-and-workforce-continuity",
+   "title": "Transition Leadership and Workforce Continuity",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.transition-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 47,
+    "para": 14
+   },
+   "end": {
+    "page": 48,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0047.md#¶14",
+   "heading_line": "###### **_Transition Leadership and Workforce Continuity_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.training-and-operational-readiness",
+   "title": "Training and Operational Readiness",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.transition-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 8
+   },
+   "end": {
+    "page": 48,
+    "para": 9
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0048.md#¶8",
+   "heading_line": "###### **_Training and Operational Readiness_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.town-specific-operational-integration",
+   "title": "Town-Specific Operational Integration",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.transition-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 10
+   },
+   "end": {
+    "page": 48,
+    "para": 18
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0048.md#¶10",
+   "heading_line": "###### **_Town-Specific Operational Integration_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.asset-inventory-and-condition-assessment",
+   "title": "Asset Inventory and Condition Assessment",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.transition-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 19
+   },
+   "end": {
+    "page": 48,
+    "para": 20
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0048.md#¶19",
+   "heading_line": "###### **_Asset Inventory and Condition Assessment_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.communication-and-knowledge-transfer",
+   "title": "Communication and Knowledge Transfer",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.transition-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 21
+   },
+   "end": {
+    "page": 48,
+    "para": 23
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0048.md#¶21",
+   "heading_line": "###### **_Communication and Knowledge Transfer_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.assurance-of-continuity-and-compliance",
+   "title": "Assurance of Continuity and Compliance",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.transition-plan",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 24
+   },
+   "end": {
+    "page": 48,
+    "para": 27
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0048.md#¶24",
+   "heading_line": "###### **_Assurance of Continuity and Compliance_**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.required-documentation-delivery",
+   "title": "REQUIRED DOCUMENTATION DELIVERY",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 1
+   },
+   "end": {
+    "page": 50,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0049.md#¶1",
+   "heading_line": "###### **REQUIRED DOCUMENTATION DELIVERY**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.day-to-day-ongoing",
+   "title": "Day-to-Day/Ongoing",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.required-documentation-delivery",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 3
+   },
+   "end": {
+    "page": 49,
+    "para": 4
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0049.md#¶3",
+   "heading_line": "###### **Day-to-Day/Ongoing**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.monthly",
+   "title": "Monthly",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.required-documentation-delivery",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 5
+   },
+   "end": {
+    "page": 49,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0049.md#¶5",
+   "heading_line": "###### **Monthly**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.annual",
+   "title": "Annual",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.required-documentation-delivery",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 17
+   },
+   "end": {
+    "page": 49,
+    "para": 20
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0049.md#¶17",
+   "heading_line": "###### **Annual**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.one-time-startup-deliverables",
+   "title": "One-Time/Startup Deliverables",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.required-documentation-delivery",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 21
+   },
+   "end": {
+    "page": 49,
+    "para": 32
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0049.md#¶21",
+   "heading_line": "###### **One-Time/Startup Deliverables**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.as-needed-event-driven-periodic-based-on-requirements",
+   "title": "As Needed/Event-Driven/Periodic Based on Requirements",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:05.required-documentation-delivery",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 33
+   },
+   "end": {
+    "page": 50,
+    "para": 5
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0049.md#¶33",
+   "heading_line": "###### **As Needed/Event-Driven/Periodic Based on Requirements**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.community-stewardship",
+   "title": "COMMUNITY STEWARDSHIP",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 6
+   },
+   "end": {
+    "page": 50,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0050.md#¶6",
+   "heading_line": "###### **COMMUNITY STEWARDSHIP**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:05.innovation",
+   "title": "INNOVATION",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:05.operational-approach",
+   "outline_index": 5,
+   "outline_title": "Section 5 - Project Understanding and Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 17
+   },
+   "end": {
+    "page": 52,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0050.md#¶17",
+   "heading_line": "###### **INNOVATION**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:06",
+   "title": "Section 6 - Required Forms",
+   "level": 1,
+   "parent": null,
+   "outline_index": 6,
+   "outline_title": "Section 6 - Required Forms",
+   "kind": "outline+body",
+   "start": {
+    "page": 53,
+    "para": 1
+   },
+   "end": {
+    "page": 68,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0053.md#¶1",
+   "heading_line": "###### **Attachment G - Required Forms**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:06.statutory-forms",
+   "title": "STATUTORY FORMS",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:06",
+   "outline_index": 6,
+   "outline_title": "Section 6 - Required Forms",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 2
+   },
+   "end": {
+    "page": 55,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0053.md#¶2",
+   "heading_line": "###### **STATUTORY FORMS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:06.out-of-state-bidder-foreign-corporations-only",
+   "title": "Out of State Bidder (Foreign Corporations Only)",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:06.statutory-forms",
+   "outline_index": 6,
+   "outline_title": "Section 6 - Required Forms",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 3
+   },
+   "end": {
+    "page": 53,
+    "para": 4
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0053.md#¶3",
+   "heading_line": "###### **Out of State Bidder (Foreign Corporations Only)**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:06.osha-10-certification-labor-harmony-certification",
+   "title": "OSHA 10 Certification & Labor Harmony Certification",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:06.statutory-forms",
+   "outline_index": 6,
+   "outline_title": "Section 6 - Required Forms",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 5
+   },
+   "end": {
+    "page": 53,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0053.md#¶5",
+   "heading_line": "###### **OSHA 10 Certification & Labor Harmony Certification**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:06.disbarment",
+   "title": "Disbarment",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:06.statutory-forms",
+   "outline_index": 6,
+   "outline_title": "Section 6 - Required Forms",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 8
+   },
+   "end": {
+    "page": 53,
+    "para": 9
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0053.md#¶8",
+   "heading_line": "###### **Disbarment**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:06.non-collusion",
+   "title": "Non-Collusion",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:06.statutory-forms",
+   "outline_index": 6,
+   "outline_title": "Section 6 - Required Forms",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 10
+   },
+   "end": {
+    "page": 53,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0053.md#¶10",
+   "heading_line": "###### **Non-Collusion**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:06.certificate-of-tax-compliance",
+   "title": "Certificate of Tax Compliance",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:06.statutory-forms",
+   "outline_index": 6,
+   "outline_title": "Section 6 - Required Forms",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 12
+   },
+   "end": {
+    "page": 55,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0053.md#¶12",
+   "heading_line": "###### **Certificate of Tax Compliance**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:07",
+   "title": "Addendum No. 1",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:06",
+   "outline_index": 7,
+   "outline_title": "Addendum No. 1",
+   "kind": "outline+body",
+   "start": {
+    "page": 55,
+    "para": 3
+   },
+   "end": {
+    "page": 56,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0055.md#¶3",
+   "heading_line": "###### **<u>TOWN OF HULL, MA</u> ADDENDUM NO. 1**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:08",
+   "title": "Addendum No. 2",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:06",
+   "outline_index": 8,
+   "outline_title": "Addendum No. 2",
+   "kind": "outline+body",
+   "start": {
+    "page": 56,
+    "para": 3
+   },
+   "end": {
+    "page": 58,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0056.md#¶3",
+   "heading_line": "###### **<u>TOWN OF HULL, MA</u> ADDENDUM NO. 2**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:09",
+   "title": "Addendum No. 3",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:06",
+   "outline_index": 9,
+   "outline_title": "Addendum No. 3",
+   "kind": "outline+body",
+   "start": {
+    "page": 58,
+    "para": 3
+   },
+   "end": {
+    "page": 62,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0058.md#¶3",
+   "heading_line": "###### **<u>TOWN OF HULL, MA</u> ADDENDUM NO. 3**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:10",
+   "title": "Addendum No. 4",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:06",
+   "outline_index": 10,
+   "outline_title": "Addendum No. 4",
+   "kind": "outline+body",
+   "start": {
+    "page": 62,
+    "para": 3
+   },
+   "end": {
+    "page": 66,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0062.md#¶3",
+   "heading_line": "###### **<u>TOWN OF HULL, MA</u> ADDENDUM NO. 4**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:11",
+   "title": "Addendum No. 5",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:06",
+   "outline_index": 11,
+   "outline_title": "Addendum No. 5",
+   "kind": "outline+body",
+   "start": {
+    "page": 66,
+    "para": 3
+   },
+   "end": {
+    "page": 68,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0066.md#¶3",
+   "heading_line": "###### **<u>TOWN OF HULL, MA</u> ADDENDUM NO. 5**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:12",
+   "title": "Section 7 - Appendix A - Resumes",
+   "level": 1,
+   "parent": null,
+   "outline_index": 12,
+   "outline_title": "Section 7 - Appendix A - Resumes",
+   "kind": "outline",
+   "start": {
+    "page": 69,
+    "para": 1
+   },
+   "end": {
+    "page": 75,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0069.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:12.why-nathan",
+   "title": "WHY NATHAN?",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:12",
+   "outline_index": 12,
+   "outline_title": "Section 7 - Appendix A - Resumes",
+   "kind": "body",
+   "start": {
+    "page": 69,
+    "para": 3
+   },
+   "end": {
+    "page": 71,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0069.md#¶3",
+   "heading_line": "###### _WHY NATHAN?_",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:12.why-tony",
+   "title": "WHY TONY?",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:12",
+   "outline_index": 12,
+   "outline_title": "Section 7 - Appendix A - Resumes",
+   "kind": "body",
+   "start": {
+    "page": 71,
+    "para": 3
+   },
+   "end": {
+    "page": 72,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0071.md#¶3",
+   "heading_line": "###### _WHY TONY?_",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:12.why-mike",
+   "title": "WHY MIKE?",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:12",
+   "outline_index": 12,
+   "outline_title": "Section 7 - Appendix A - Resumes",
+   "kind": "body",
+   "start": {
+    "page": 72,
+    "para": 2
+   },
+   "end": {
+    "page": 72,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0072.md#¶2",
+   "heading_line": "###### _WHY MIKE?_",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:12.professional-background-total-experience-31-years-education",
+   "title": "PROFESSIONAL BACKGROUND µ Total Experience: 31 years EDUCATION",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:12",
+   "outline_index": 12,
+   "outline_title": "Section 7 - Appendix A - Resumes",
+   "kind": "body",
+   "start": {
+    "page": 72,
+    "para": 4
+   },
+   "end": {
+    "page": 75,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0072.md#¶4",
+   "heading_line": "###### **PROFESSIONAL BACKGROUND** µ Total Experience: 31 years **EDUCATION**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:12.why-kevin",
+   "title": "WHY KEVIN?",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:12.professional-background-total-experience-31-years-education",
+   "outline_index": 12,
+   "outline_title": "Section 7 - Appendix A - Resumes",
+   "kind": "body",
+   "start": {
+    "page": 73,
+    "para": 3
+   },
+   "end": {
+    "page": 74,
+    "para": 2
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0073.md#¶3",
+   "heading_line": "###### _WHY KEVIN?_",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:12.why-scott",
+   "title": "WHY SCOTT?",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:12.professional-background-total-experience-31-years-education",
+   "outline_index": 12,
+   "outline_title": "Section 7 - Appendix A - Resumes",
+   "kind": "body",
+   "start": {
+    "page": 74,
+    "para": 3
+   },
+   "end": {
+    "page": 75,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0074.md#¶3",
+   "heading_line": "###### _WHY SCOTT?_",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:13",
+   "title": "Section 7 - Appendix B - Project Descriptions",
+   "level": 1,
+   "parent": null,
+   "outline_index": 13,
+   "outline_title": "Section 7 - Appendix B - Project Descriptions",
+   "kind": "outline",
+   "start": {
+    "page": 76,
+    "para": 1
+   },
+   "end": {
+    "page": 81,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:13.3-3-mgd",
+   "title": "3.3 MGD",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:13",
+   "outline_index": 13,
+   "outline_title": "Section 7 - Appendix B - Project Descriptions",
+   "kind": "body",
+   "start": {
+    "page": 77,
+    "para": 19
+   },
+   "end": {
+    "page": 81,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0077.md#¶19",
+   "heading_line": "###### 3.3 MGD",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:14",
+   "title": "Section 7 - Appendix C - Facilities Similar to the Town",
+   "level": 1,
+   "parent": null,
+   "outline_index": 14,
+   "outline_title": "Section 7 - Appendix C - Facilities Similar to the Town",
+   "kind": "outline+body",
+   "start": {
+    "page": 82,
+    "para": 1
+   },
+   "end": {
+    "page": 84,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0082.md#¶1",
+   "heading_line": "#### **APPENDIX C - FACILITIES SIMILAR TO THE TOWN**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:15",
+   "title": "Section 7 - Appendix D - Innovation Workshop Agenda and Examples",
+   "level": 1,
+   "parent": null,
+   "outline_index": 15,
+   "outline_title": "Section 7 - Appendix D - Innovation Workshop Agenda and Examples",
+   "kind": "outline+body",
+   "start": {
+    "page": 85,
+    "para": 1
+   },
+   "end": {
+    "page": 87,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0085.md#¶1",
+   "heading_line": "#### **APPENDIX D -INNOVATION WORKSHOP AGENDA AND EXAMPLES**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16",
+   "title": "Section 7 - Appendix E - SmartCover Information",
+   "level": 1,
+   "parent": null,
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "outline",
+   "start": {
+    "page": 88,
+    "para": 1
+   },
+   "end": {
+    "page": 94,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0088.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.trusted-utility-partner",
+   "title": "TRUSTED UTILITY PARTNER",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:16",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 11
+   },
+   "end": {
+    "page": 91,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0089.md#¶11",
+   "heading_line": "##### **TRUSTED UTILITY PARTNER**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.protect-the-environment",
+   "title": "PROTECT THE ENVIRONMENT",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:16.trusted-utility-partner",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 13
+   },
+   "end": {
+    "page": 89,
+    "para": 16
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0089.md#¶13",
+   "heading_line": "###### **PROTECT THE ENVIRONMENT**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.optimize-investments",
+   "title": "OPTIMIZE INVESTMENTS",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:16.trusted-utility-partner",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 17
+   },
+   "end": {
+    "page": 89,
+    "para": 20
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0089.md#¶17",
+   "heading_line": "###### **OPTIMIZE INVESTMENTS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.strengthen-utility-resiliency",
+   "title": "STRENGTHEN UTILITY RESILIENCY",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:16.trusted-utility-partner",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 21
+   },
+   "end": {
+    "page": 91,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0089.md#¶21",
+   "heading_line": "###### **STRENGTHEN UTILITY RESILIENCY**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.new-jersey-american-water-njaw-bound-brook",
+   "title": "New Jersey American Water (NJAW) Bound Brook",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:16",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 92,
+    "para": 1
+   },
+   "end": {
+    "page": 94,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0092.md#¶1",
+   "heading_line": "### **New Jersey American Water (NJAW) Bound Brook**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.pinpointed-hotspots-leads-to-immediate-roi",
+   "title": "Pinpointed Hotspots Leads to Immediate ROI",
+   "level": 3,
+   "parent": "hull-wwtf-om-2026:16.new-jersey-american-water-njaw-bound-brook",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 92,
+    "para": 2
+   },
+   "end": {
+    "page": 94,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0092.md#¶2",
+   "heading_line": "#### **Pinpointed Hotspots Leads to Immediate ROI**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.the-challenge",
+   "title": "The Challenge",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:16.pinpointed-hotspots-leads-to-immediate-roi",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 92,
+    "para": 4
+   },
+   "end": {
+    "page": 92,
+    "para": 11
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0092.md#¶4",
+   "heading_line": "###### **The Challenge**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.the-solution",
+   "title": "The Solution",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:16.pinpointed-hotspots-leads-to-immediate-roi",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 92,
+    "para": 12
+   },
+   "end": {
+    "page": 93,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0092.md#¶12",
+   "heading_line": "###### **The Solution**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.the-results",
+   "title": "The Results",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:16.pinpointed-hotspots-leads-to-immediate-roi",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 93,
+    "para": 4
+   },
+   "end": {
+    "page": 93,
+    "para": 7
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0093.md#¶4",
+   "heading_line": "###### **The Results**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:16.conclusion",
+   "title": "Conclusion",
+   "level": 4,
+   "parent": "hull-wwtf-om-2026:16.pinpointed-hotspots-leads-to-immediate-roi",
+   "outline_index": 16,
+   "outline_title": "Section 7 - Appendix E - SmartCover Information",
+   "kind": "body",
+   "start": {
+    "page": 93,
+    "para": 8
+   },
+   "end": {
+    "page": 94,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0093.md#¶8",
+   "heading_line": "###### **Conclusion**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:17",
+   "title": "Section 7 - Appendix F - WATS Modeling",
+   "level": 1,
+   "parent": null,
+   "outline_index": 17,
+   "outline_title": "Section 7 - Appendix F - WATS Modeling",
+   "kind": "outline+body",
+   "start": {
+    "page": 95,
+    "para": 1
+   },
+   "end": {
+    "page": 98,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0095.md#¶1",
+   "heading_line": "#### **APPENDIX F – WATS MODELING**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:17.wastewater-aerobic-anaerobic-transformations-in-sewers-wats",
+   "title": "WASTEWATER AEROBIC/ANAEROBIC TRANSFORMATIONS IN SEWERS (WATS) MODELING",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:17",
+   "outline_index": 17,
+   "outline_title": "Section 7 - Appendix F - WATS Modeling",
+   "kind": "body",
+   "start": {
+    "page": 95,
+    "para": 2
+   },
+   "end": {
+    "page": 98,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0095.md#¶2",
+   "heading_line": "###### **WASTEWATER AEROBIC/ANAEROBIC TRANSFORMATIONS IN SEWERS (WATS) MODELING**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:18",
+   "title": "Section 7 - Appendix G - Transition Activity Gantt Chart",
+   "level": 1,
+   "parent": null,
+   "outline_index": 18,
+   "outline_title": "Section 7 - Appendix G - Transition Activity Gantt Chart",
+   "kind": "outline+body",
+   "start": {
+    "page": 99,
+    "para": 1
+   },
+   "end": {
+    "page": 101,
+    "para": 1
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0099.md#¶1",
+   "heading_line": "#### **APPENDIX G - TRANSITION ACTIVITY GANTT CHART**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:19",
+   "title": "Section 7 - Appendix H - Contract Exceptions",
+   "level": 1,
+   "parent": null,
+   "outline_index": 19,
+   "outline_title": "Section 7 - Appendix H - Contract Exceptions",
+   "kind": "outline+body",
+   "start": {
+    "page": 102,
+    "para": 1
+   },
+   "end": {
+    "page": 104,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶1",
+   "heading_line": "#### **APPENDIX H - CONTRACT EXCEPTIONS**",
+   "minor": false
+  },
+  {
+   "id": "hull-wwtf-om-2026:19.mark-phillips",
+   "title": "Mark Phillips",
+   "level": 2,
+   "parent": "hull-wwtf-om-2026:19",
+   "outline_index": 19,
+   "outline_title": "Section 7 - Appendix H - Contract Exceptions",
+   "kind": "body",
+   "start": {
+    "page": 104,
+    "para": 2
+   },
+   "end": {
+    "page": 104,
+    "para": 3
+   },
+   "anchor": "verbatim/hull-wwtf-om-2026/pages/p0104.md#¶2",
+   "heading_line": "###### **Mark Phillips**",
+   "minor": true
+  }
+ ],
+ "generated": "2026-09-14"
+}

@@ -1,0 +1,5932 @@
+{
+ "slug": "ocwut-16-26",
+ "rules_version": 1,
+ "page_count": 184,
+ "repeating_lines": [
+  "- class a ok ww operator license reciprocity in progress",
+  "amy dembinski, asset manager",
+  "brian daniels",
+  "certifications/licenses",
+  "compliance",
+  "contract dates",
+  "education",
+  "education: ms, environmental engineering;",
+  "facility overview",
+  "i&c technician",
+  "jacobs' role and relevance to ocwut",
+  "jacobs’ role and relevance to ocwut",
+  "kelly irving",
+  "key current/future challenges jacobs’ strategies to deliver results",
+  "land application of sludge",
+  "lessons learned: integrated experience improving plans & delivery",
+  "maintenance",
+  "meets minimum qualifications",
+  "ocwut-#-# | o&m of wastewater facilities and solids management program services |",
+  "ocwut-#-# | o&m of wastewater facilities and solids management program services | #",
+  "ocwut’s goals",
+  "operations",
+  "owner information",
+  "project challenges and how we responded",
+  "project manager",
+  "proven results",
+  "relevant experience",
+  "relevant personnel",
+  "relevant training",
+  "ryan harrold, regional manager",
+  "section #",
+  "size of facilities",
+  "steve carpenter project director",
+  "t: #.#.#",
+  "transition manager",
+  "understanding of",
+  "water utilities trust",
+  "what made this partnership work: unique characteristics that benefited both parties",
+  "years of experience jacobs: # total: #",
+  "years of experience: # (# with jacobs)",
+  "|---|---|",
+  "|---|---|---|",
+  "|---|---|---|---|",
+  "|---|---|---|---|---|",
+  "|---|---|---|---|---|---|---|---|---|",
+  "|proposed oklahoma city"
+ ],
+ "stats": {
+  "sections": 293,
+  "outline": 35,
+  "merged": 11,
+  "body_headings": 522,
+  "excluded": {
+   "plain": 81,
+   "fragment": 12,
+   "repeating": 119,
+   "too-long": 20,
+   "caption": 1,
+   "mark": 20,
+   "bullet-or-dash": 1
+  },
+  "minor": 14
+ },
+ "sections": [
+  {
+   "id": "ocwut-16-26:00-front",
+   "title": "Front matter",
+   "level": 1,
+   "parent": null,
+   "outline_index": -1,
+   "outline_title": "",
+   "kind": "front",
+   "start": {
+    "page": 1,
+    "para": 1
+   },
+   "end": {
+    "page": 1,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0001.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:00",
+   "title": "Table of Contents",
+   "level": 1,
+   "parent": null,
+   "outline_index": 0,
+   "outline_title": "Table of Contents",
+   "kind": "outline",
+   "start": {
+    "page": 2,
+    "para": 1
+   },
+   "end": {
+    "page": 3,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0002.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:01",
+   "title": "Cover Letter",
+   "level": 1,
+   "parent": null,
+   "outline_index": 1,
+   "outline_title": "Cover Letter",
+   "kind": "outline",
+   "start": {
+    "page": 4,
+    "para": 1
+   },
+   "end": {
+    "page": 7,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0004.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:02",
+   "title": "Executive Summary of Technical Approach",
+   "level": 1,
+   "parent": null,
+   "outline_index": 2,
+   "outline_title": "Executive Summary of Technical Approach",
+   "kind": "outline",
+   "start": {
+    "page": 8,
+    "para": 1
+   },
+   "end": {
+    "page": 11,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0008.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:02.we-know-oklahoma-city-and-what-s-at-stake",
+   "title": "WE KNOW OKLAHOMA CITY—AND WHAT’S AT STAKE",
+   "level": 2,
+   "parent": "ocwut-16-26:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary of Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 8,
+    "para": 4
+   },
+   "end": {
+    "page": 8,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0008.md#¶4",
+   "heading_line": "###### **WE KNOW OKLAHOMA CITY—AND WHAT’S AT STAKE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:02.a-team-built-for-this-program",
+   "title": "A TEAM BUILT FOR THIS PROGRAM",
+   "level": 2,
+   "parent": "ocwut-16-26:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary of Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 8,
+    "para": 15
+   },
+   "end": {
+    "page": 9,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0008.md#¶15",
+   "heading_line": "###### **A TEAM BUILT FOR THIS PROGRAM**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:02.your-leadership-team",
+   "title": "YOUR LEADERSHIP TEAM",
+   "level": 2,
+   "parent": "ocwut-16-26:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary of Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 9,
+    "para": 2
+   },
+   "end": {
+    "page": 9,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0009.md#¶2",
+   "heading_line": "###### **YOUR LEADERSHIP TEAM**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:02.technical-approach-facility-specific-results-driven",
+   "title": "TECHNICAL APPROACH: FACILITY-SPECIFIC, RESULTS-DRIVEN",
+   "level": 2,
+   "parent": "ocwut-16-26:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary of Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 9,
+    "para": 7
+   },
+   "end": {
+    "page": 9,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0009.md#¶7",
+   "heading_line": "###### **TECHNICAL APPROACH: FACILITY-SPECIFIC, RESULTS-DRIVEN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:02.required-plans-built-for-ocwut-ready-on-day-one",
+   "title": "REQUIRED PLANS: BUILT FOR OCWUT, READY ON DAY ONE",
+   "level": 2,
+   "parent": "ocwut-16-26:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary of Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 1
+   },
+   "end": {
+    "page": 10,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0010.md#¶1",
+   "heading_line": "###### **REQUIRED PLANS: BUILT FOR OCWUT, READY ON DAY ONE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:02.innovations-recommended-alternatives",
+   "title": "INNOVATIONS & RECOMMENDED ALTERNATIVES",
+   "level": 2,
+   "parent": "ocwut-16-26:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary of Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 8
+   },
+   "end": {
+    "page": 10,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0010.md#¶8",
+   "heading_line": "###### **INNOVATIONS & RECOMMENDED ALTERNATIVES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:02.1-technical-approach",
+   "title": "1 Technical Approach",
+   "level": 2,
+   "parent": "ocwut-16-26:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary of Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 11,
+    "para": 1
+   },
+   "end": {
+    "page": 11,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0011.md#¶1",
+   "heading_line": "# 1 Technical Approach",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:03",
+   "title": "Section 1 | Technical Approach",
+   "level": 1,
+   "parent": null,
+   "outline_index": 3,
+   "outline_title": "Section 1 | Technical Approach",
+   "kind": "outline",
+   "start": {
+    "page": 12,
+    "para": 1
+   },
+   "end": {
+    "page": 70,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0012.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:03.jacobs-understands-ocwut-s-facilities-and-its-goals-for-this",
+   "title": "JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT",
+   "level": 2,
+   "parent": "ocwut-16-26:03",
+   "outline_index": 3,
+   "outline_title": "Section 1 | Technical Approach",
+   "kind": "body",
+   "start": {
+    "page": 12,
+    "para": 2
+   },
+   "end": {
+    "page": 16,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0012.md#¶2",
+   "heading_line": "###### **JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04",
+   "title": "Management Plan",
+   "level": 2,
+   "parent": "ocwut-16-26:03",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "outline+body",
+   "start": {
+    "page": 17,
+    "para": 1
+   },
+   "end": {
+    "page": 25,
+    "para": 20
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0017.md#¶1",
+   "heading_line": "###### **MANAGEMENT PLAN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.leadership-that-knows-oklahoma-city",
+   "title": "Leadership That Knows Oklahoma City",
+   "level": 3,
+   "parent": "ocwut-16-26:04",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 17,
+    "para": 4
+   },
+   "end": {
+    "page": 18,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0017.md#¶4",
+   "heading_line": "###### **Leadership That Knows Oklahoma City**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.transparency-you-don-t-have-to-chase",
+   "title": "Transparency You Don’t Have to Chase",
+   "level": 3,
+   "parent": "ocwut-16-26:04",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 18,
+    "para": 4
+   },
+   "end": {
+    "page": 18,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0018.md#¶4",
+   "heading_line": "###### **Transparency You Don’t Have to Chase**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.o-m-management-philosophy-critical-success-factors",
+   "title": "O&M MANAGEMENT PHILOSOPHY/CRITICAL SUCCESS FACTORS",
+   "level": 3,
+   "parent": "ocwut-16-26:04",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 1
+   },
+   "end": {
+    "page": 19,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0019.md#¶1",
+   "heading_line": "###### **O&M MANAGEMENT PHILOSOPHY/CRITICAL SUCCESS FACTORS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.7-cip-integration-continuity",
+   "title": "7 CIP INTEGRATION & CONTINUITY",
+   "level": 3,
+   "parent": "ocwut-16-26:04",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 19
+   },
+   "end": {
+    "page": 19,
+    "para": 26
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0019.md#¶19",
+   "heading_line": "###### 7 **CIP INTEGRATION & CONTINUITY**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.6-neighbor-community-care",
+   "title": "6 NEIGHBOR & COMMUNITY CARE",
+   "level": 3,
+   "parent": "ocwut-16-26:04",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 27
+   },
+   "end": {
+    "page": 25,
+    "para": 20
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0019.md#¶27",
+   "heading_line": "###### 6 **NEIGHBOR & COMMUNITY CARE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.innovation-5-best-practices",
+   "title": "INNOVATION & 5 BEST PRACTICES",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 19,
+    "para": 34
+   },
+   "end": {
+    "page": 20,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0019.md#¶34",
+   "heading_line": "###### **INNOVATION &** 5 **BEST PRACTICES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.structured-reporting-against-schedule-5-metrics",
+   "title": "STRUCTURED REPORTING AGAINST SCHEDULE 5 METRICS",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 4
+   },
+   "end": {
+    "page": 24,
+    "para": 34
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0020.md#¶4",
+   "heading_line": "###### **STRUCTURED REPORTING AGAINST SCHEDULE 5 METRICS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.how-we-ll-track-measure-and-report-performance",
+   "title": "How We’ll Track, Measure, and Report Performance",
+   "level": 5,
+   "parent": "ocwut-16-26:04.structured-reporting-against-schedule-5-metrics",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 10
+   },
+   "end": {
+    "page": 20,
+    "para": 17
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0020.md#¶10",
+   "heading_line": "###### _How We’ll Track, Measure, and Report Performance_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.jacobs-qa-qc-program",
+   "title": "Jacobs’ QA/QC Program",
+   "level": 5,
+   "parent": "ocwut-16-26:04.structured-reporting-against-schedule-5-metrics",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 18
+   },
+   "end": {
+    "page": 21,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0020.md#¶18",
+   "heading_line": "###### **Jacobs’ QA/QC Program**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.management-oversight",
+   "title": "Management Oversight",
+   "level": 6,
+   "parent": "ocwut-16-26:04.jacobs-qa-qc-program",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 19
+   },
+   "end": {
+    "page": 20,
+    "para": 34
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0020.md#¶19",
+   "heading_line": "###### _Management Oversight_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.qa-qc-plan-development-and-internal-audit-program",
+   "title": "QA/QC Plan Development and Internal Audit Program",
+   "level": 6,
+   "parent": "ocwut-16-26:04.jacobs-qa-qc-program",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 1
+   },
+   "end": {
+    "page": 21,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0021.md#¶1",
+   "heading_line": "###### _QA/QC Plan Development and Internal Audit Program_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.compliance-verification-before-report-submittal",
+   "title": "Compliance Verification Before Report Submittal",
+   "level": 6,
+   "parent": "ocwut-16-26:04.jacobs-qa-qc-program",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 13
+   },
+   "end": {
+    "page": 21,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0021.md#¶13",
+   "heading_line": "###### _Compliance Verification Before Report Submittal_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.reporting-and-communication",
+   "title": "Reporting and Communication",
+   "level": 5,
+   "parent": "ocwut-16-26:04.structured-reporting-against-schedule-5-metrics",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 15
+   },
+   "end": {
+    "page": 23,
+    "para": 11
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0021.md#¶15",
+   "heading_line": "###### **Reporting and Communication**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.structured-communication-and-reporting-framework",
+   "title": "Structured Communication and Reporting Framework",
+   "level": 6,
+   "parent": "ocwut-16-26:04.reporting-and-communication",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 1
+   },
+   "end": {
+    "page": 23,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0022.md#¶1",
+   "heading_line": "###### _Structured Communication and Reporting Framework_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.jacobs-annual-innovation-workshop-drives-continuous-improvem",
+   "title": "Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M",
+   "level": 6,
+   "parent": "ocwut-16-26:04.reporting-and-communication",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 8
+   },
+   "end": {
+    "page": 23,
+    "para": 11
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0023.md#¶8",
+   "heading_line": "###### _Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.performance-dashboard-and-reporting-tools",
+   "title": "Performance Dashboard and Reporting Tools",
+   "level": 5,
+   "parent": "ocwut-16-26:04.structured-reporting-against-schedule-5-metrics",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 12
+   },
+   "end": {
+    "page": 23,
+    "para": 27
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0023.md#¶12",
+   "heading_line": "###### **Performance Dashboard and Reporting Tools**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.management-systems",
+   "title": "Management Systems",
+   "level": 5,
+   "parent": "ocwut-16-26:04.structured-reporting-against-schedule-5-metrics",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 1
+   },
+   "end": {
+    "page": 24,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶1",
+   "heading_line": "###### **Management Systems**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.new-plans",
+   "title": "New Plans",
+   "level": 5,
+   "parent": "ocwut-16-26:04.structured-reporting-against-schedule-5-metrics",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 4
+   },
+   "end": {
+    "page": 24,
+    "para": 34
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶4",
+   "heading_line": "###### **New Plans**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.health-safety-and-security",
+   "title": "HEALTH, SAFETY, AND SECURITY",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 35
+   },
+   "end": {
+    "page": 24,
+    "para": 36
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶35",
+   "heading_line": "###### **HEALTH, SAFETY, AND SECURITY**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.compliance-and-reporting",
+   "title": "COMPLIANCE AND REPORTING",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 37
+   },
+   "end": {
+    "page": 24,
+    "para": 38
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶37",
+   "heading_line": "###### **COMPLIANCE AND REPORTING**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.operations-management",
+   "title": "OPERATIONS MANAGEMENT",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 39
+   },
+   "end": {
+    "page": 24,
+    "para": 40
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶39",
+   "heading_line": "###### **OPERATIONS MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.financial-management",
+   "title": "FINANCIAL MANAGEMENT",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 41
+   },
+   "end": {
+    "page": 24,
+    "para": 42
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶41",
+   "heading_line": "###### **FINANCIAL MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.maintenance-asset-management",
+   "title": "MAINTENANCE & ASSET MANAGEMENT",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 43
+   },
+   "end": {
+    "page": 24,
+    "para": 43
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶43",
+   "heading_line": "###### **MAINTENANCE & ASSET MANAGEMENT**",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:04.project-management",
+   "title": "PROJECT MANAGEMENT",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 44
+   },
+   "end": {
+    "page": 24,
+    "para": 46
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶44",
+   "heading_line": "###### **PROJECT MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.laboratory-management",
+   "title": "LABORATORY MANAGEMENT",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 47
+   },
+   "end": {
+    "page": 24,
+    "para": 47
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶47",
+   "heading_line": "###### **LABORATORY MANAGEMENT**",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:04.public-education-community-involvement-and-media-relations",
+   "title": "PUBLIC EDUCATION, COMMUNITY INVOLVEMENT, AND MEDIA RELATIONS",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 48
+   },
+   "end": {
+    "page": 24,
+    "para": 50
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶48",
+   "heading_line": "###### **PUBLIC EDUCATION, COMMUNITY INVOLVEMENT, AND MEDIA RELATIONS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.staffing-training-human-resources",
+   "title": "STAFFING & TRAINING (HUMAN RESOURCES)",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 51
+   },
+   "end": {
+    "page": 24,
+    "para": 52
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶51",
+   "heading_line": "###### **STAFFING & TRAINING (HUMAN RESOURCES)**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.good-neighbor-programs",
+   "title": "GOOD NEIGHBOR PROGRAMS",
+   "level": 4,
+   "parent": "ocwut-16-26:04.6-neighbor-community-care",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 53
+   },
+   "end": {
+    "page": 25,
+    "para": 20
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0024.md#¶53",
+   "heading_line": "###### **GOOD NEIGHBOR PROGRAMS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:04.community-engagement",
+   "title": "Community Engagement",
+   "level": 5,
+   "parent": "ocwut-16-26:04.good-neighbor-programs",
+   "outline_index": 4,
+   "outline_title": "Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 25,
+    "para": 1
+   },
+   "end": {
+    "page": 25,
+    "para": 20
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0025.md#¶1",
+   "heading_line": "###### **Community Engagement**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05",
+   "title": "Operations Plan",
+   "level": 2,
+   "parent": "ocwut-16-26:03",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "outline+body",
+   "start": {
+    "page": 26,
+    "para": 1
+   },
+   "end": {
+    "page": 56,
+    "para": 34
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0026.md#¶1",
+   "heading_line": "###### **OPERATIONS PLAN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.process-control-strategy",
+   "title": "PROCESS CONTROL STRATEGY",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 4
+   },
+   "end": {
+    "page": 33,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0026.md#¶4",
+   "heading_line": "###### **PROCESS CONTROL STRATEGY**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.jacobs-process-control-strategy-tailored-to-each-ocwut-facil",
+   "title": "Jacobs’ Process Control Strategy Tailored to Each OCWUT Facility",
+   "level": 4,
+   "parent": "ocwut-16-26:05.process-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 28,
+    "para": 1
+   },
+   "end": {
+    "page": 30,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0028.md#¶1",
+   "heading_line": "###### **Jacobs’ Process Control Strategy Tailored to Each OCWUT Facility**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.north-canadian-wwtp-stabilize-first-optimize-second",
+   "title": "North Canadian WWTP — Stabilize First, Optimize Second",
+   "level": 5,
+   "parent": "ocwut-16-26:05.jacobs-process-control-strategy-tailored-to-each-ocwut-facil",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 28,
+    "para": 29
+   },
+   "end": {
+    "page": 29,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0028.md#¶29",
+   "heading_line": "###### _North Canadian WWTP — Stabilize First, Optimize Second_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.deer-creek-wwtp-breaking-the-cycle-of-reactive-operations",
+   "title": "Deer Creek WWTP— Breaking the Cycle of Reactive Operations",
+   "level": 5,
+   "parent": "ocwut-16-26:05.jacobs-process-control-strategy-tailored-to-each-ocwut-facil",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 29,
+    "para": 11
+   },
+   "end": {
+    "page": 30,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0029.md#¶11",
+   "heading_line": "###### _Deer Creek WWTP— Breaking the Cycle of Reactive Operations_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.chisholm-creek-wwtp-protecting-what-s-working-reducing-what",
+   "title": "Chisholm Creek WWTP—Protecting What’s Working, Reducing What’s at Risk",
+   "level": 5,
+   "parent": "ocwut-16-26:05.jacobs-process-control-strategy-tailored-to-each-ocwut-facil",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 30,
+    "para": 3
+   },
+   "end": {
+    "page": 30,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0030.md#¶3",
+   "heading_line": "###### _Chisholm Creek WWTP—Protecting What’s Working, Reducing What’s at Risk_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.south-canadian-wwtp-new-plant-right-habits-from-day-one",
+   "title": "South Canadian WWTP— New Plant, Right Habits from Day One",
+   "level": 5,
+   "parent": "ocwut-16-26:05.jacobs-process-control-strategy-tailored-to-each-ocwut-facil",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 30,
+    "para": 8
+   },
+   "end": {
+    "page": 30,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0030.md#¶8",
+   "heading_line": "###### _South Canadian WWTP— New Plant, Right Habits from Day One_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.how-we-monitor-verify-and-elevate-performance",
+   "title": "How We Monitor, Verify, and Elevate Performance",
+   "level": 4,
+   "parent": "ocwut-16-26:05.process-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 1
+   },
+   "end": {
+    "page": 33,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0031.md#¶1",
+   "heading_line": "###### **How We Monitor, Verify, and Elevate Performance**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.operating-under-low-flow-and-minimum-load-conditions",
+   "title": "Operating Under Low-Flow and Minimum-Load Conditions",
+   "level": 5,
+   "parent": "ocwut-16-26:05.how-we-monitor-verify-and-elevate-performance",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 2
+   },
+   "end": {
+    "page": 33,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0031.md#¶2",
+   "heading_line": "###### _Operating Under Low-Flow and Minimum-Load Conditions_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.process-control-doesn-t-operate-in-a-silo",
+   "title": "Process Control Doesn’t Operate in a Silo",
+   "level": 4,
+   "parent": "ocwut-16-26:05.process-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 33,
+    "para": 7
+   },
+   "end": {
+    "page": 33,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0033.md#¶7",
+   "heading_line": "###### **Process Control Doesn’t Operate in a Silo**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.reuse-water",
+   "title": "REUSE WATER",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 1
+   },
+   "end": {
+    "page": 36,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0034.md#¶1",
+   "heading_line": "###### **REUSE WATER**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.we-understand-the-challenges-and-goals-of-ocwut-s-reuse-prog",
+   "title": "We Understand the Challenges and Goals of OCWUT’s Reuse Program",
+   "level": 4,
+   "parent": "ocwut-16-26:05.reuse-water",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 6
+   },
+   "end": {
+    "page": 34,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0034.md#¶6",
+   "heading_line": "###### **We Understand the Challenges and Goals of OCWUT’s Reuse Program**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.three-customers-three-facilities-one-standard",
+   "title": "Three Customers, Three Facilities, One Standard",
+   "level": 5,
+   "parent": "ocwut-16-26:05.we-understand-the-challenges-and-goals-of-ocwut-s-reuse-prog",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 8
+   },
+   "end": {
+    "page": 34,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0034.md#¶8",
+   "heading_line": "###### _Three Customers, Three Facilities, One Standard_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.our-approach-reliable-reuse-every-delivery",
+   "title": "Our Approach: Reliable Reuse, Every Delivery",
+   "level": 4,
+   "parent": "ocwut-16-26:05.reuse-water",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 15
+   },
+   "end": {
+    "page": 36,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0034.md#¶15",
+   "heading_line": "###### **Our Approach: Reliable Reuse, Every Delivery**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.getting-disinfection-right-facility-by-facility",
+   "title": "Getting Disinfection Right — Facility by Facility",
+   "level": 5,
+   "parent": "ocwut-16-26:05.our-approach-reliable-reuse-every-delivery",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 2
+   },
+   "end": {
+    "page": 35,
+    "para": 19
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0035.md#¶2",
+   "heading_line": "###### _Getting Disinfection Right — Facility by Facility_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.distribution-integrity-cross-connection-control-and-end-user",
+   "title": "Distribution Integrity, Cross-connection Control, and End-user Safety",
+   "level": 5,
+   "parent": "ocwut-16-26:05.our-approach-reliable-reuse-every-delivery",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 20
+   },
+   "end": {
+    "page": 35,
+    "para": 20
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0035.md#¶20",
+   "heading_line": "###### _Distribution Integrity, Cross-connection Control, and End-user Safety_",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:05.continuous-verification-not-assumptions",
+   "title": "Continuous Verification, Not Assumptions",
+   "level": 5,
+   "parent": "ocwut-16-26:05.our-approach-reliable-reuse-every-delivery",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 21
+   },
+   "end": {
+    "page": 35,
+    "para": 23
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0035.md#¶21",
+   "heading_line": "###### _Continuous Verification, Not Assumptions_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.operational-continuity-and-contingencies-so-reuse-stays-onli",
+   "title": "Operational Continuity and Contingencies So Reuse Stays Online",
+   "level": 5,
+   "parent": "ocwut-16-26:05.our-approach-reliable-reuse-every-delivery",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 35,
+    "para": 24
+   },
+   "end": {
+    "page": 36,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0035.md#¶24",
+   "heading_line": "###### _Operational Continuity and Contingencies So Reuse Stays Online_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.regulatory-compliance-laboratory-and-sampling-plans",
+   "title": "REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 2
+   },
+   "end": {
+    "page": 39,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0036.md#¶2",
+   "heading_line": "###### **REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.why-compliance-matters-to-ocwut",
+   "title": "Why Compliance Matters to OCWUT",
+   "level": 4,
+   "parent": "ocwut-16-26:05.regulatory-compliance-laboratory-and-sampling-plans",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 4
+   },
+   "end": {
+    "page": 36,
+    "para": 16
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0036.md#¶4",
+   "heading_line": "###### **Why Compliance Matters to OCWUT**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.monitoring-data-and-reporting",
+   "title": "Monitoring, Data, and Reporting",
+   "level": 4,
+   "parent": "ocwut-16-26:05.regulatory-compliance-laboratory-and-sampling-plans",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 17
+   },
+   "end": {
+    "page": 36,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0036.md#¶17",
+   "heading_line": "###### **Monitoring, Data, and Reporting**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.governance-and-accountability",
+   "title": "Governance and Accountability",
+   "level": 4,
+   "parent": "ocwut-16-26:05.regulatory-compliance-laboratory-and-sampling-plans",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 36,
+    "para": 19
+   },
+   "end": {
+    "page": 37,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0036.md#¶19",
+   "heading_line": "###### **Governance and Accountability**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.laboratory-and-qa-qc-integration",
+   "title": "Laboratory and QA/QC Integration",
+   "level": 4,
+   "parent": "ocwut-16-26:05.regulatory-compliance-laboratory-and-sampling-plans",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 37,
+    "para": 10
+   },
+   "end": {
+    "page": 38,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0037.md#¶10",
+   "heading_line": "###### **Laboratory and QA/QC Integration**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.continuous-improvement-and-compliance-assurance",
+   "title": "Continuous Improvement and Compliance Assurance",
+   "level": 4,
+   "parent": "ocwut-16-26:05.regulatory-compliance-laboratory-and-sampling-plans",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 38,
+    "para": 11
+   },
+   "end": {
+    "page": 39,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0038.md#¶11",
+   "heading_line": "###### **Continuous Improvement and Compliance Assurance**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.oklahoma-regulatory-knowledge-and-odeq-relationship",
+   "title": "Oklahoma Regulatory Knowledge and ODEQ Relationship",
+   "level": 4,
+   "parent": "ocwut-16-26:05.regulatory-compliance-laboratory-and-sampling-plans",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 39,
+    "para": 2
+   },
+   "end": {
+    "page": 39,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0039.md#¶2",
+   "heading_line": "###### **Oklahoma Regulatory Knowledge and ODEQ Relationship**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.odor-control-strategy",
+   "title": "ODOR CONTROL STRATEGY",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 39,
+    "para": 7
+   },
+   "end": {
+    "page": 44,
+    "para": 16
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0039.md#¶7",
+   "heading_line": "###### **ODOR CONTROL STRATEGY**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.why-odor-management-and-control-matters-to-ocwut",
+   "title": "Why Odor Management and Control Matters to OCWUT",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 39,
+    "para": 8
+   },
+   "end": {
+    "page": 39,
+    "para": 11
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0039.md#¶8",
+   "heading_line": "###### **Why Odor Management and Control Matters to OCWUT**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.a-systemwide-approach-to-odor-management",
+   "title": "A Systemwide Approach to Odor Management",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 39,
+    "para": 12
+   },
+   "end": {
+    "page": 40,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0039.md#¶12",
+   "heading_line": "###### **A Systemwide Approach to Odor Management**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.collection-system-odor-control",
+   "title": "Collection System Odor Control",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 40,
+    "para": 19
+   },
+   "end": {
+    "page": 42,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0040.md#¶19",
+   "heading_line": "###### **Collection System Odor Control**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.wastewater-treatment-facility-odor-control",
+   "title": "Wastewater Treatment Facility Odor Control",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 6
+   },
+   "end": {
+    "page": 42,
+    "para": 8
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0042.md#¶6",
+   "heading_line": "###### **Wastewater Treatment Facility Odor Control**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.maintenance-as-a-driver-of-odor-control",
+   "title": "Maintenance as a Driver of Odor Control",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 9
+   },
+   "end": {
+    "page": 43,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0042.md#¶9",
+   "heading_line": "###### **Maintenance as a Driver of Odor Control**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.advanced-monitoring-and-data-driven-control",
+   "title": "Advanced Monitoring and Data-Driven Control",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 4
+   },
+   "end": {
+    "page": 44,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0043.md#¶4",
+   "heading_line": "###### **Advanced Monitoring and Data-Driven Control**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.biosolids-and-disinfection-systems-as-odor-drivers",
+   "title": "Biosolids and Disinfection Systems as Odor Drivers",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 2
+   },
+   "end": {
+    "page": 44,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0044.md#¶2",
+   "heading_line": "###### **Biosolids and Disinfection Systems as Odor Drivers**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.fence-line-performance-and-compliance",
+   "title": "Fence-Line Performance and Compliance",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 6
+   },
+   "end": {
+    "page": 44,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0044.md#¶6",
+   "heading_line": "###### **Fence-Line Performance and Compliance**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.rapid-response-and-community-engagement",
+   "title": "Rapid Response and Community Engagement",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 10
+   },
+   "end": {
+    "page": 44,
+    "para": 11
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0044.md#¶10",
+   "heading_line": "###### **Rapid Response and Community Engagement**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.integration-with-operations-maintenance-and-capital-planning",
+   "title": "Integration with Operations, Maintenance, and Capital Planning",
+   "level": 4,
+   "parent": "ocwut-16-26:05.odor-control-strategy",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 12
+   },
+   "end": {
+    "page": 44,
+    "para": 16
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0044.md#¶12",
+   "heading_line": "###### **Integration with Operations, Maintenance, and Capital Planning**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.scada-operational-technology-ot-cybersecurity",
+   "title": "SCADA/OPERATIONAL TECHNOLOGY (OT)/ CYBERSECURITY",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 1
+   },
+   "end": {
+    "page": 46,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0045.md#¶1",
+   "heading_line": "###### **SCADA/OPERATIONAL TECHNOLOGY (OT)/ CYBERSECURITY**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.collaborative-automation-and-ot-support-approach-aligned-wit",
+   "title": "Collaborative Automation and OT Support Approach Aligned with OCWUT Governance",
+   "level": 4,
+   "parent": "ocwut-16-26:05.scada-operational-technology-ot-cybersecurity",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 2
+   },
+   "end": {
+    "page": 45,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0045.md#¶2",
+   "heading_line": "###### **Collaborative Automation and OT Support Approach Aligned with OCWUT Governance**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.jacobs-understands-your-scada-ot-environment-and-cybersecuri",
+   "title": "Jacobs Understands Your SCADA/OT Environment and Cybersecurity Expectations from Experience",
+   "level": 4,
+   "parent": "ocwut-16-26:05.scada-operational-technology-ot-cybersecurity",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 4
+   },
+   "end": {
+    "page": 45,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0045.md#¶4",
+   "heading_line": "###### **Jacobs Understands Your SCADA/OT Environment and Cybersecurity Expectations from Experience**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.process-control-system-phased-performance-improvement-plan",
+   "title": "Process Control System Phased Performance Improvement Plan",
+   "level": 4,
+   "parent": "ocwut-16-26:05.scada-operational-technology-ot-cybersecurity",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 6
+   },
+   "end": {
+    "page": 46,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0045.md#¶6",
+   "heading_line": "###### **Process Control System Phased Performance Improvement Plan**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.phase-1-establishing-a-shared-baseline-for-process-control-p",
+   "title": "Phase 1 – Establishing a Shared Baseline for Process Control Performance",
+   "level": 5,
+   "parent": "ocwut-16-26:05.process-control-system-phased-performance-improvement-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 45,
+    "para": 13
+   },
+   "end": {
+    "page": 46,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0045.md#¶13",
+   "heading_line": "###### _Phase 1 – Establishing a Shared Baseline for Process Control Performance_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.contractor-managed-jacobs",
+   "title": "CONTRACTOR-MANAGED (JACOBS)",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 46,
+    "para": 5
+   },
+   "end": {
+    "page": 46,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0046.md#¶5",
+   "heading_line": "###### **CONTRACTOR-MANAGED (JACOBS)**",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:05.ocwut-managed",
+   "title": "OCWUT-MANAGED",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 46,
+    "para": 6
+   },
+   "end": {
+    "page": 48,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0046.md#¶6",
+   "heading_line": "###### **OCWUT-MANAGED**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.phase-2-monitoring-planning-and-process-refinement",
+   "title": "Phase 2 – Monitoring, Planning, and Process Refinement",
+   "level": 4,
+   "parent": "ocwut-16-26:05.ocwut-managed",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 46,
+    "para": 12
+   },
+   "end": {
+    "page": 46,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0046.md#¶12",
+   "heading_line": "###### _Phase 2 – Monitoring, Planning, and Process Refinement_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.phase-3-process-automation-integration",
+   "title": "Phase 3: Process Automation Integration",
+   "level": 4,
+   "parent": "ocwut-16-26:05.ocwut-managed",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 46,
+    "para": 19
+   },
+   "end": {
+    "page": 47,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0046.md#¶19",
+   "heading_line": "###### _Phase 3: Process Automation Integration_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.operational-technology-cybersecurity-approach",
+   "title": "Operational Technology Cybersecurity Approach",
+   "level": 4,
+   "parent": "ocwut-16-26:05.ocwut-managed",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 47,
+    "para": 2
+   },
+   "end": {
+    "page": 47,
+    "para": 8
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0047.md#¶2",
+   "heading_line": "###### **Operational Technology Cybersecurity Approach**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.cip-integration-and-regional-ot-support",
+   "title": "CIP Integration and Regional OT Support",
+   "level": 4,
+   "parent": "ocwut-16-26:05.ocwut-managed",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 47,
+    "para": 9
+   },
+   "end": {
+    "page": 48,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0047.md#¶9",
+   "heading_line": "###### **CIP Integration and Regional OT Support**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.safety-and-site-security",
+   "title": "SAFETY AND SITE SECURITY",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 2
+   },
+   "end": {
+    "page": 49,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0048.md#¶2",
+   "heading_line": "###### **SAFETY AND SITE SECURITY**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.leadership-accountability-and-safe-work",
+   "title": "Leadership, Accountability, and Safe Work",
+   "level": 4,
+   "parent": "ocwut-16-26:05.safety-and-site-security",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 9
+   },
+   "end": {
+    "page": 48,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0048.md#¶9",
+   "heading_line": "###### **Leadership, Accountability, and Safe Work**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.training-personal-protective-equipment-ppe-and-chemical-safe",
+   "title": "Training, Personal Protective Equipment (PPE), and Chemical Safety",
+   "level": 4,
+   "parent": "ocwut-16-26:05.safety-and-site-security",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 14
+   },
+   "end": {
+    "page": 49,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0048.md#¶14",
+   "heading_line": "###### **Training, Personal Protective Equipment (PPE), and Chemical Safety**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.physical-and-electronic-security",
+   "title": "Physical and Electronic Security",
+   "level": 4,
+   "parent": "ocwut-16-26:05.safety-and-site-security",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 4
+   },
+   "end": {
+    "page": 49,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0049.md#¶4",
+   "heading_line": "###### **Physical and Electronic Security**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.drug-detection-and-deterrence",
+   "title": "Drug Detection and Deterrence",
+   "level": 4,
+   "parent": "ocwut-16-26:05.safety-and-site-security",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 8
+   },
+   "end": {
+    "page": 49,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0049.md#¶8",
+   "heading_line": "###### **Drug Detection and Deterrence**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.emergency-operating-plan",
+   "title": "EMERGENCY OPERATING PLAN",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 1
+   },
+   "end": {
+    "page": 52,
+    "para": 28
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0050.md#¶1",
+   "heading_line": "###### **EMERGENCY OPERATING PLAN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.protecting-service-public-health-and-community-confidence",
+   "title": "Protecting Service, Public Health, and Community Confidence",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 2
+   },
+   "end": {
+    "page": 50,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0050.md#¶2",
+   "heading_line": "###### **Protecting Service, Public Health, and Community Confidence**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.prepared-trained-and-ready-to-act",
+   "title": "Prepared, Trained, and Ready To Act",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 4
+   },
+   "end": {
+    "page": 50,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0050.md#¶4",
+   "heading_line": "###### **Prepared, Trained, and Ready To Act**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.rapid-structured-response-when-it-matters-most",
+   "title": "Rapid, Structured Response When It Matters Most",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 7
+   },
+   "end": {
+    "page": 50,
+    "para": 11
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0050.md#¶7",
+   "heading_line": "###### **Rapid, Structured Response When It Matters Most**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.fast-recovery-and-return-to-full-operations",
+   "title": "Fast Recovery and Return to Full Operations",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 50,
+    "para": 12
+   },
+   "end": {
+    "page": 50,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0050.md#¶12",
+   "heading_line": "###### **Fast Recovery and Return to Full Operations**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.coordination-with-ocwut-and-local-responders",
+   "title": "Coordination With OCWUT and Local Responders",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 51,
+    "para": 1
+   },
+   "end": {
+    "page": 51,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0051.md#¶1",
+   "heading_line": "###### **Coordination With OCWUT and Local Responders**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.elements-of-our-emergency-operating-plan",
+   "title": "Elements of Our Emergency Operating Plan",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 51,
+    "para": 3
+   },
+   "end": {
+    "page": 52,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0051.md#¶3",
+   "heading_line": "###### **Elements of Our Emergency Operating Plan**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.staffing-resilience-and-continuity-of-operations",
+   "title": "Staffing Resilience and Continuity of Operations",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 52,
+    "para": 2
+   },
+   "end": {
+    "page": 52,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0052.md#¶2",
+   "heading_line": "###### **Staffing Resilience and Continuity of Operations**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.local-response-backed-by-regional-support",
+   "title": "Local Response Backed By Regional Support",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 52,
+    "para": 8
+   },
+   "end": {
+    "page": 52,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0052.md#¶8",
+   "heading_line": "###### **Local Response Backed By Regional Support**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.continuous-improvement-and-ongoing-readiness",
+   "title": "Continuous Improvement and Ongoing Readiness",
+   "level": 4,
+   "parent": "ocwut-16-26:05.emergency-operating-plan",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 52,
+    "para": 11
+   },
+   "end": {
+    "page": 52,
+    "para": 28
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0052.md#¶11",
+   "heading_line": "###### **Continuous Improvement and Ongoing Readiness**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.energy-management-a-core-operating-discipline",
+   "title": "ENERGY MANAGEMENT – A CORE OPERATING DISCIPLINE",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 1
+   },
+   "end": {
+    "page": 54,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0053.md#¶1",
+   "heading_line": "###### **ENERGY MANAGEMENT – A CORE OPERATING DISCIPLINE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.understanding-ocwut-s-energy-landscape",
+   "title": "Understanding OCWUT’s Energy Landscape",
+   "level": 4,
+   "parent": "ocwut-16-26:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 2
+   },
+   "end": {
+    "page": 53,
+    "para": 11
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0053.md#¶2",
+   "heading_line": "###### **Understanding OCWUT’s Energy Landscape**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.our-approach-baseline-driven-energy-management",
+   "title": "Our Approach: Baseline-Driven Energy Management",
+   "level": 4,
+   "parent": "ocwut-16-26:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 12
+   },
+   "end": {
+    "page": 53,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0053.md#¶12",
+   "heading_line": "###### **Our Approach: Baseline-Driven Energy Management**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.tracking-performance-where-it-counts",
+   "title": "Tracking Performance Where It Counts",
+   "level": 5,
+   "parent": "ocwut-16-26:05.our-approach-baseline-driven-energy-management",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 14
+   },
+   "end": {
+    "page": 53,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0053.md#¶14",
+   "heading_line": "###### _Tracking Performance Where It Counts_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.our-energy-management-approach-provides-the-performance-trac",
+   "title": "Our energy management approach provides the performance tracking",
+   "level": 4,
+   "parent": "ocwut-16-26:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 16
+   },
+   "end": {
+    "page": 54,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0053.md#¶16",
+   "heading_line": "###### **Our energy management approach provides the performance tracking**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.collaboration-on-opportunities-for-phased-energy-optimizatio",
+   "title": "Collaboration on Opportunities for Phased Energy Optimization",
+   "level": 5,
+   "parent": "ocwut-16-26:05.our-energy-management-approach-provides-the-performance-trac",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 18
+   },
+   "end": {
+    "page": 54,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0053.md#¶18",
+   "heading_line": "###### _Collaboration on Opportunities for Phased Energy Optimization_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.proven-results-at-comparable-facilities",
+   "title": "Proven Results at Comparable Facilities",
+   "level": 4,
+   "parent": "ocwut-16-26:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 54,
+    "para": 8
+   },
+   "end": {
+    "page": 54,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0054.md#¶8",
+   "heading_line": "###### **Proven Results at Comparable Facilities**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.additional-opportunities-beyond-the-o-m-scope",
+   "title": "Additional Opportunities Beyond the O&M Scope",
+   "level": 4,
+   "parent": "ocwut-16-26:05.energy-management-a-core-operating-discipline",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 54,
+    "para": 13
+   },
+   "end": {
+    "page": 54,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0054.md#¶13",
+   "heading_line": "###### **Additional Opportunities Beyond the O&M Scope**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.pump-station-operations-and-septage-receiving",
+   "title": "PUMP STATION OPERATIONS AND SEPTAGE RECEIVING",
+   "level": 3,
+   "parent": "ocwut-16-26:05",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 1
+   },
+   "end": {
+    "page": 56,
+    "para": 34
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0055.md#¶1",
+   "heading_line": "###### **PUMP STATION OPERATIONS AND SEPTAGE RECEIVING**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.pump-station-operations",
+   "title": "Pump Station Operations",
+   "level": 4,
+   "parent": "ocwut-16-26:05.pump-station-operations-and-septage-receiving",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 5
+   },
+   "end": {
+    "page": 55,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0055.md#¶5",
+   "heading_line": "###### **Pump Station Operations**",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:05.challenges-we-ll-address",
+   "title": "Challenges We’ll Address",
+   "level": 4,
+   "parent": "ocwut-16-26:05.pump-station-operations-and-septage-receiving",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 6
+   },
+   "end": {
+    "page": 56,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0055.md#¶6",
+   "heading_line": "###### **Challenges We’ll Address**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.wet-weather-management-at-witcher",
+   "title": "Wet Weather Management at Witcher",
+   "level": 5,
+   "parent": "ocwut-16-26:05.challenges-we-ll-address",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 56,
+    "para": 1
+   },
+   "end": {
+    "page": 56,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0056.md#¶1",
+   "heading_line": "###### _Wet Weather Management at Witcher_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:05.septage-receiving-program",
+   "title": "Septage Receiving Program",
+   "level": 4,
+   "parent": "ocwut-16-26:05.pump-station-operations-and-septage-receiving",
+   "outline_index": 5,
+   "outline_title": "Operations Plan",
+   "kind": "body",
+   "start": {
+    "page": 56,
+    "para": 3
+   },
+   "end": {
+    "page": 56,
+    "para": 34
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0056.md#¶3",
+   "heading_line": "###### **Septage Receiving Program**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06",
+   "title": "Maintenance Plan (Assets)",
+   "level": 2,
+   "parent": "ocwut-16-26:03",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "outline+body",
+   "start": {
+    "page": 57,
+    "para": 1
+   },
+   "end": {
+    "page": 70,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0057.md#¶1",
+   "heading_line": "###### **MAINTENANCE PLAN (ASSETS)**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.what-we-found-across-the-system",
+   "title": "What We Found Across the System",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 57,
+    "para": 4
+   },
+   "end": {
+    "page": 57,
+    "para": 21
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0057.md#¶4",
+   "heading_line": "###### **What We Found Across the System**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.facility-by-facility-maintenance-priorities",
+   "title": "Facility-by-Facility Maintenance Priorities",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 58,
+    "para": 1
+   },
+   "end": {
+    "page": 58,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0058.md#¶1",
+   "heading_line": "###### **Facility-by-Facility Maintenance Priorities**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.asset-management-system-ams-from-framework-to-field-results",
+   "title": "Asset Management System (AMS) — From Framework to Field Results",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 59,
+    "para": 1
+   },
+   "end": {
+    "page": 59,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0059.md#¶1",
+   "heading_line": "###### **Asset Management System (AMS) — From Framework to Field Results**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.governance-strategy-and-decision-making",
+   "title": "Governance, Strategy, and Decision Making",
+   "level": 4,
+   "parent": "ocwut-16-26:06.asset-management-system-ams-from-framework-to-field-results",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 59,
+    "para": 4
+   },
+   "end": {
+    "page": 59,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0059.md#¶4",
+   "heading_line": "###### _Governance, Strategy, and Decision Making_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.organizational-strategic-plan",
+   "title": "Organizational Strategic Plan",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 59,
+    "para": 7
+   },
+   "end": {
+    "page": 59,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0059.md#¶7",
+   "heading_line": "###### **~~Organizational Strategic Plan~~**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.asset-management-policy",
+   "title": "Asset Management Policy",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 59,
+    "para": 10
+   },
+   "end": {
+    "page": 59,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0059.md#¶10",
+   "heading_line": "###### **Asset Management Policy**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.strategic-asset-management-plan-samp",
+   "title": "Strategic Asset Management Plan (SAMP)",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 59,
+    "para": 13
+   },
+   "end": {
+    "page": 59,
+    "para": 17
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0059.md#¶13",
+   "heading_line": "###### **Strategic Asset Management Plan (SAMP)**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.asset-management-plans-amps",
+   "title": "Asset Management Plans (AMPs)",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 59,
+    "para": 18
+   },
+   "end": {
+    "page": 62,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0059.md#¶18",
+   "heading_line": "###### **Asset Management Plans (AMPs)**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.lifecycle-delivery-and-how-the-samp-looks-day-to-day",
+   "title": "Lifecycle Delivery and How the SAMP Looks Day-to-Day",
+   "level": 4,
+   "parent": "ocwut-16-26:06.asset-management-plans-amps",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 61,
+    "para": 1
+   },
+   "end": {
+    "page": 61,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0061.md#¶1",
+   "heading_line": "###### _Lifecycle Delivery and How the SAMP Looks Day-to-Day_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.continual-improvement-and-learning-loops",
+   "title": "Continual Improvement and Learning Loops",
+   "level": 4,
+   "parent": "ocwut-16-26:06.asset-management-plans-amps",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 62,
+    "para": 1
+   },
+   "end": {
+    "page": 62,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0062.md#¶1",
+   "heading_line": "###### _Continual Improvement and Learning Loops_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.preventive-maintenance-program",
+   "title": "Preventive Maintenance Program",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 62,
+    "para": 5
+   },
+   "end": {
+    "page": 63,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0062.md#¶5",
+   "heading_line": "###### **Preventive Maintenance Program**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.on-site-maintenance-manager",
+   "title": "ON-SITE MAINTENANCE MANAGER",
+   "level": 4,
+   "parent": "ocwut-16-26:06.preventive-maintenance-program",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 62,
+    "para": 8
+   },
+   "end": {
+    "page": 62,
+    "para": 20
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0062.md#¶8",
+   "heading_line": "###### _ON-SITE MAINTENANCE MANAGER_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.drain-and-clean-program",
+   "title": "Drain and Clean Program",
+   "level": 4,
+   "parent": "ocwut-16-26:06.preventive-maintenance-program",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 62,
+    "para": 21
+   },
+   "end": {
+    "page": 62,
+    "para": 23
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0062.md#¶21",
+   "heading_line": "###### _Drain and Clean Program_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.cathodic-protection-and-corrosion-control",
+   "title": "Cathodic Protection and Corrosion Control",
+   "level": 4,
+   "parent": "ocwut-16-26:06.preventive-maintenance-program",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 1
+   },
+   "end": {
+    "page": 63,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0063.md#¶1",
+   "heading_line": "###### _Cathodic Protection and Corrosion Control_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.building-grounds-and-housekeeping",
+   "title": "Building, Grounds, and Housekeeping",
+   "level": 4,
+   "parent": "ocwut-16-26:06.preventive-maintenance-program",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 3
+   },
+   "end": {
+    "page": 63,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0063.md#¶3",
+   "heading_line": "###### _Building, Grounds, and Housekeeping_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.predictive-maintenance-pdm-program",
+   "title": "Predictive Maintenance (PdM) Program",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 6
+   },
+   "end": {
+    "page": 64,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0063.md#¶6",
+   "heading_line": "###### **Predictive Maintenance (PdM) Program**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.vibration-analysis",
+   "title": "Vibration Analysis",
+   "level": 4,
+   "parent": "ocwut-16-26:06.predictive-maintenance-pdm-program",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 8
+   },
+   "end": {
+    "page": 63,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0063.md#¶8",
+   "heading_line": "###### _Vibration Analysis_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.electrical-testing",
+   "title": "Electrical Testing",
+   "level": 4,
+   "parent": "ocwut-16-26:06.predictive-maintenance-pdm-program",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 63,
+    "para": 11
+   },
+   "end": {
+    "page": 64,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0063.md#¶11",
+   "heading_line": "###### _Electrical Testing_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.full-pdm-technology-suite",
+   "title": "Full PdM Technology Suite",
+   "level": 4,
+   "parent": "ocwut-16-26:06.predictive-maintenance-pdm-program",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 64,
+    "para": 2
+   },
+   "end": {
+    "page": 64,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0064.md#¶2",
+   "heading_line": "###### _Full PdM Technology Suite_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.corrective-maintenance-program",
+   "title": "Corrective Maintenance Program",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 64,
+    "para": 5
+   },
+   "end": {
+    "page": 64,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0064.md#¶5",
+   "heading_line": "###### **Corrective Maintenance Program**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.maintenance-staffing-approach",
+   "title": "Maintenance Staffing Approach",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 64,
+    "para": 16
+   },
+   "end": {
+    "page": 65,
+    "para": 17
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0064.md#¶16",
+   "heading_line": "###### **Maintenance Staffing Approach**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.regional-maintenance-support-the-jacobs-advantage",
+   "title": "Regional Maintenance Support: The Jacobs Advantage",
+   "level": 4,
+   "parent": "ocwut-16-26:06.maintenance-staffing-approach",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 65,
+    "para": 16
+   },
+   "end": {
+    "page": 65,
+    "para": 17
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0065.md#¶16",
+   "heading_line": "###### _Regional Maintenance Support: The Jacobs Advantage_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.warranty-management",
+   "title": "Warranty Management",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 65,
+    "para": 18
+   },
+   "end": {
+    "page": 66,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0065.md#¶18",
+   "heading_line": "###### **Warranty Management**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.inventory-management-and-spare-parts",
+   "title": "Inventory Management and Spare Parts",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 66,
+    "para": 2
+   },
+   "end": {
+    "page": 66,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0066.md#¶2",
+   "heading_line": "###### **Inventory Management and Spare Parts**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.maintenance-and-repair-m-r-fund-and-rehabilitation-and-repla",
+   "title": "Maintenance and Repair (M&R) Fund and Rehabilitation and Replacement (R&R) Fund Management",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 66,
+    "para": 6
+   },
+   "end": {
+    "page": 66,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0066.md#¶6",
+   "heading_line": "###### **Maintenance and Repair (M&R) Fund and Rehabilitation and Replacement (R&R) Fund Management**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.on-call-and-emergency-maintenance-response",
+   "title": "On-Call and Emergency Maintenance Response",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 66,
+    "para": 13
+   },
+   "end": {
+    "page": 66,
+    "para": 16
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0066.md#¶13",
+   "heading_line": "###### **On-Call and Emergency Maintenance Response**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.continuous-improvement-and-performance-reporting",
+   "title": "Continuous Improvement and Performance Reporting",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 67,
+    "para": 1
+   },
+   "end": {
+    "page": 67,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0067.md#¶1",
+   "heading_line": "###### **Continuous Improvement and Performance Reporting**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.jacobs-asset-replacement-modeling-arm-tool",
+   "title": "Jacobs’ Asset Replacement Modeling (ARM) Tool",
+   "level": 4,
+   "parent": "ocwut-16-26:06.continuous-improvement-and-performance-reporting",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 67,
+    "para": 9
+   },
+   "end": {
+    "page": 67,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0067.md#¶9",
+   "heading_line": "###### _Jacobs’ Asset Replacement Modeling (ARM) Tool_",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:06.asset-management-driven-capital-planning",
+   "title": "Asset Management-Driven Capital Planning",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 67,
+    "para": 10
+   },
+   "end": {
+    "page": 68,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0067.md#¶10",
+   "heading_line": "###### **Asset Management-Driven Capital Planning**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.annual-facilities-status-report",
+   "title": "Annual Facilities Status Report",
+   "level": 4,
+   "parent": "ocwut-16-26:06.asset-management-driven-capital-planning",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 2
+   },
+   "end": {
+    "page": 68,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0068.md#¶2",
+   "heading_line": "###### _Annual Facilities Status Report_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.cip-project-implementation-and-construction-coordination",
+   "title": "CIP Project Implementation and Construction Coordination",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 4
+   },
+   "end": {
+    "page": 69,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0068.md#¶4",
+   "heading_line": "###### **CIP Project Implementation and Construction Coordination**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.dedicated-cip-construction-manager",
+   "title": "Dedicated CIP Construction Manager",
+   "level": 4,
+   "parent": "ocwut-16-26:06.cip-project-implementation-and-construction-coordination",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 68,
+    "para": 12
+   },
+   "end": {
+    "page": 68,
+    "para": 19
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0068.md#¶12",
+   "heading_line": "###### _Dedicated CIP Construction Manager_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.phase-by-phase-cip-support",
+   "title": "Phase-by-Phase CIP Support",
+   "level": 4,
+   "parent": "ocwut-16-26:06.cip-project-implementation-and-construction-coordination",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 69,
+    "para": 1
+   },
+   "end": {
+    "page": 69,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0069.md#¶1",
+   "heading_line": "###### _Phase-by-Phase CIP Support_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.maintenance-of-plant-operations-mopo",
+   "title": "Maintenance of Plant Operations (MOPO)",
+   "level": 4,
+   "parent": "ocwut-16-26:06.cip-project-implementation-and-construction-coordination",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 69,
+    "para": 6
+   },
+   "end": {
+    "page": 69,
+    "para": 8
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0069.md#¶6",
+   "heading_line": "###### _Maintenance of Plant Operations (MOPO)_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.the-jacobs-advantage-integrated-o-m-and-engineering",
+   "title": "The Jacobs Advantage: Integrated O&M and Engineering",
+   "level": 4,
+   "parent": "ocwut-16-26:06.cip-project-implementation-and-construction-coordination",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 69,
+    "para": 9
+   },
+   "end": {
+    "page": 69,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0069.md#¶9",
+   "heading_line": "###### _The Jacobs Advantage: Integrated O&M and Engineering_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:06.2-cost-proposal",
+   "title": "2 Cost Proposal",
+   "level": 3,
+   "parent": "ocwut-16-26:06",
+   "outline_index": 6,
+   "outline_title": "Maintenance Plan (Assets)",
+   "kind": "body",
+   "start": {
+    "page": 70,
+    "para": 1
+   },
+   "end": {
+    "page": 70,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0070.md#¶1",
+   "heading_line": "# 2 Cost Proposal",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:07",
+   "title": "Section 2 | Cost Proposal",
+   "level": 1,
+   "parent": null,
+   "outline_index": 7,
+   "outline_title": "Section 2 | Cost Proposal",
+   "kind": "outline",
+   "start": {
+    "page": 71,
+    "para": 1
+   },
+   "end": {
+    "page": 72,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0071.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08",
+   "title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "level": 1,
+   "parent": null,
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "outline",
+   "start": {
+    "page": 73,
+    "para": 1
+   },
+   "end": {
+    "page": 123,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0073.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.jacobs-experience-providing-full-o-m-services-for-water-and",
+   "title": "JACOBS’ EXPERIENCE PROVIDING FULL O&M SERVICES FOR WATER AND WASTEWATER TREATMENT FACILITIES",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 74,
+    "para": 6
+   },
+   "end": {
+    "page": 75,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0074.md#¶6",
+   "heading_line": "###### **JACOBS’ EXPERIENCE PROVIDING FULL O&M SERVICES FOR WATER AND WASTEWATER TREATMENT FACILITIES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.oklahoma-experience-and-resources",
+   "title": "OKLAHOMA EXPERIENCE AND RESOURCES",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 75,
+    "para": 4
+   },
+   "end": {
+    "page": 76,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0075.md#¶4",
+   "heading_line": "###### **OKLAHOMA EXPERIENCE AND RESOURCES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.biosolids-land-application",
+   "title": "BIOSOLIDS/LAND APPLICATION",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 76,
+    "para": 4
+   },
+   "end": {
+    "page": 76,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0076.md#¶4",
+   "heading_line": "###### **BIOSOLIDS/LAND APPLICATION**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.from-process-challenge-to-reliable-biosolids-performance",
+   "title": "FROM PROCESS CHALLENGE TO RELIABLE BIOSOLIDS PERFORMANCE",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 76,
+    "para": 8
+   },
+   "end": {
+    "page": 76,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0076.md#¶8",
+   "heading_line": "###### **FROM PROCESS CHALLENGE TO RELIABLE BIOSOLIDS PERFORMANCE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.biosolids-recovery-turning-crisis-into-control-in-baltimore",
+   "title": "BIOSOLIDS RECOVERY – TURNING CRISIS INTO CONTROL IN BALTIMORE",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 76,
+    "para": 10
+   },
+   "end": {
+    "page": 77,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0076.md#¶10",
+   "heading_line": "###### **BIOSOLIDS RECOVERY – TURNING CRISIS INTO CONTROL IN BALTIMORE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.odor-control",
+   "title": "ODOR CONTROL",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 77,
+    "para": 5
+   },
+   "end": {
+    "page": 77,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0077.md#¶5",
+   "heading_line": "###### **ODOR CONTROL**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.on-site-sodium-hypochlorite-generation",
+   "title": "ON-SITE SODIUM HYPOCHLORITE GENERATION",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 78,
+    "para": 1
+   },
+   "end": {
+    "page": 79,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0078.md#¶1",
+   "heading_line": "###### **ON-SITE SODIUM HYPOCHLORITE GENERATION**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.communications-transparency",
+   "title": "COMMUNICATIONS/TRANSPARENCY",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 79,
+    "para": 6
+   },
+   "end": {
+    "page": 79,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0079.md#¶6",
+   "heading_line": "###### **COMMUNICATIONS/TRANSPARENCY**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.septage-receiving",
+   "title": "SEPTAGE RECEIVING",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 79,
+    "para": 10
+   },
+   "end": {
+    "page": 80,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0079.md#¶10",
+   "heading_line": "###### **SEPTAGE RECEIVING**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.contract-compliance",
+   "title": "CONTRACT COMPLIANCE",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 80,
+    "para": 5
+   },
+   "end": {
+    "page": 80,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0080.md#¶5",
+   "heading_line": "###### **CONTRACT COMPLIANCE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.pump-stations",
+   "title": "PUMP STATIONS",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 80,
+    "para": 8
+   },
+   "end": {
+    "page": 81,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0080.md#¶8",
+   "heading_line": "###### **PUMP STATIONS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.experience-and-qualifications-of-the-management-team",
+   "title": "EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 81,
+    "para": 2
+   },
+   "end": {
+    "page": 82,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0081.md#¶2",
+   "heading_line": "###### **EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.management-team-and-additional-key-personnel",
+   "title": "MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 82,
+    "para": 3
+   },
+   "end": {
+    "page": 86,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0082.md#¶3",
+   "heading_line": "###### **MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.corporate-support-team",
+   "title": "CORPORATE SUPPORT TEAM",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 86,
+    "para": 7
+   },
+   "end": {
+    "page": 87,
+    "para": 20
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0086.md#¶7",
+   "heading_line": "###### **CORPORATE SUPPORT TEAM**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.off-site-sme-support-resources",
+   "title": "OFF-SITE SME SUPPORT RESOURCES",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 88,
+    "para": 1
+   },
+   "end": {
+    "page": 88,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0088.md#¶1",
+   "heading_line": "###### **OFF-SITE SME SUPPORT RESOURCES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.o-m-smes",
+   "title": "O&M SMES",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 88,
+    "para": 3
+   },
+   "end": {
+    "page": 88,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0088.md#¶3",
+   "heading_line": "###### **O&M SMES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.oklahoma-city-the-oklahoma-city-water-utilities-trust",
+   "title": "OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 88,
+    "para": 6
+   },
+   "end": {
+    "page": 91,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0088.md#¶6",
+   "heading_line": "###### **OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:08.engineering-smes",
+   "title": "ENGINEERING SMES",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 8,
+   "outline_title": "Section 3 | Experience and Qualifications of the Firm and Management Team",
+   "kind": "body",
+   "start": {
+    "page": 92,
+    "para": 1
+   },
+   "end": {
+    "page": 94,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0092.md#¶1",
+   "heading_line": "###### **ENGINEERING SMES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:09",
+   "title": "Key Team Member Resumes",
+   "level": 2,
+   "parent": "ocwut-16-26:08",
+   "outline_index": 9,
+   "outline_title": "Key Team Member Resumes",
+   "kind": "outline",
+   "start": {
+    "page": 95,
+    "para": 1
+   },
+   "end": {
+    "page": 123,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0095.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:10",
+   "title": "Pitocchelli, David",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 10,
+   "outline_title": "Pitocchelli, David",
+   "kind": "outline",
+   "start": {
+    "page": 95,
+    "para": 1
+   },
+   "end": {
+    "page": 96,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0095.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:10.client-reference",
+   "title": "CLIENT REFERENCE",
+   "level": 4,
+   "parent": "ocwut-16-26:10",
+   "outline_index": 10,
+   "outline_title": "Pitocchelli, David",
+   "kind": "body",
+   "start": {
+    "page": 96,
+    "para": 13
+   },
+   "end": {
+    "page": 96,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0096.md#¶13",
+   "heading_line": "###### **CLIENT REFERENCE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:11",
+   "title": "Carpenter, Steve",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 11,
+   "outline_title": "Carpenter, Steve",
+   "kind": "outline",
+   "start": {
+    "page": 97,
+    "para": 1
+   },
+   "end": {
+    "page": 98,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0097.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:11.client-references",
+   "title": "CLIENT REFERENCES",
+   "level": 4,
+   "parent": "ocwut-16-26:11",
+   "outline_index": 11,
+   "outline_title": "Carpenter, Steve",
+   "kind": "body",
+   "start": {
+    "page": 98,
+    "para": 14
+   },
+   "end": {
+    "page": 98,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0098.md#¶14",
+   "heading_line": "###### **CLIENT REFERENCES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:12",
+   "title": "Irving, Kelly",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 12,
+   "outline_title": "Irving, Kelly",
+   "kind": "outline",
+   "start": {
+    "page": 99,
+    "para": 1
+   },
+   "end": {
+    "page": 100,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0099.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:13",
+   "title": "Alleman, Josh",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 13,
+   "outline_title": "Alleman, Josh",
+   "kind": "outline",
+   "start": {
+    "page": 101,
+    "para": 1
+   },
+   "end": {
+    "page": 102,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0101.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:14",
+   "title": "Rodriguez, Alex",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 14,
+   "outline_title": "Rodriguez, Alex",
+   "kind": "outline",
+   "start": {
+    "page": 103,
+    "para": 1
+   },
+   "end": {
+    "page": 104,
+    "para": 19
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0103.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:14.client-references",
+   "title": "CLIENT REFERENCES",
+   "level": 4,
+   "parent": "ocwut-16-26:14",
+   "outline_index": 14,
+   "outline_title": "Rodriguez, Alex",
+   "kind": "body",
+   "start": {
+    "page": 104,
+    "para": 12
+   },
+   "end": {
+    "page": 104,
+    "para": 19
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0104.md#¶12",
+   "heading_line": "###### **CLIENT REFERENCES**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:15",
+   "title": "Durham, Tim",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 15,
+   "outline_title": "Durham, Tim",
+   "kind": "outline",
+   "start": {
+    "page": 105,
+    "para": 1
+   },
+   "end": {
+    "page": 106,
+    "para": 12
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0105.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:16",
+   "title": "Ramos, Jose \"Joe\"",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 16,
+   "outline_title": "Ramos, Jose \"Joe\"",
+   "kind": "outline",
+   "start": {
+    "page": 107,
+    "para": 1
+   },
+   "end": {
+    "page": 108,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0107.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:17",
+   "title": "Shropshire, Paul",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 17,
+   "outline_title": "Shropshire, Paul",
+   "kind": "outline+body",
+   "start": {
+    "page": 109,
+    "para": 1
+   },
+   "end": {
+    "page": 110,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0109.md#¶1",
+   "heading_line": "### PAUL SHROPSHIRE",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:18",
+   "title": "Aristizabal, Roy",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 18,
+   "outline_title": "Aristizabal, Roy",
+   "kind": "outline",
+   "start": {
+    "page": 111,
+    "para": 1
+   },
+   "end": {
+    "page": 112,
+    "para": 16
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0111.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:18.years-of-experience",
+   "title": "YEARS OF EXPERIENCE",
+   "level": 4,
+   "parent": "ocwut-16-26:18",
+   "outline_index": 18,
+   "outline_title": "Aristizabal, Roy",
+   "kind": "body",
+   "start": {
+    "page": 111,
+    "para": 8
+   },
+   "end": {
+    "page": 112,
+    "para": 16
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0111.md#¶8",
+   "heading_line": "###### **YEARS OF EXPERIENCE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:19",
+   "title": "Pipher, Tanner",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 19,
+   "outline_title": "Pipher, Tanner",
+   "kind": "outline+body",
+   "start": {
+    "page": 113,
+    "para": 1
+   },
+   "end": {
+    "page": 114,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0113.md#¶1",
+   "heading_line": "### TANNER PIPHER, PE CIP Construction Manager",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:20",
+   "title": "Dembinski, Amy",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 20,
+   "outline_title": "Dembinski, Amy",
+   "kind": "outline",
+   "start": {
+    "page": 115,
+    "para": 1
+   },
+   "end": {
+    "page": 116,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0115.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:21",
+   "title": "Daniels, Brian",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 21,
+   "outline_title": "Daniels, Brian",
+   "kind": "outline",
+   "start": {
+    "page": 117,
+    "para": 1
+   },
+   "end": {
+    "page": 118,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0117.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:22",
+   "title": "Coons, Robert Earl",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 22,
+   "outline_title": "Coons, Robert Earl",
+   "kind": "outline",
+   "start": {
+    "page": 119,
+    "para": 1
+   },
+   "end": {
+    "page": 120,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0119.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:23",
+   "title": "Golden, Scott",
+   "level": 3,
+   "parent": "ocwut-16-26:09",
+   "outline_index": 23,
+   "outline_title": "Golden, Scott",
+   "kind": "outline",
+   "start": {
+    "page": 121,
+    "para": 1
+   },
+   "end": {
+    "page": 123,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0121.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:24",
+   "title": "Section 4 | Oklahoma Law",
+   "level": 1,
+   "parent": null,
+   "outline_index": 24,
+   "outline_title": "Section 4 | Oklahoma Law",
+   "kind": "outline",
+   "start": {
+    "page": 124,
+    "para": 1
+   },
+   "end": {
+    "page": 127,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0124.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:24.oklahoma-law-regulatory-knowledge-and-environmental-complian",
+   "title": "OKLAHOMA LAW: REGULATORY KNOWLEDGE AND ENVIRONMENTAL COMPLIANCE",
+   "level": 2,
+   "parent": "ocwut-16-26:24",
+   "outline_index": 24,
+   "outline_title": "Section 4 | Oklahoma Law",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 4
+   },
+   "end": {
+    "page": 125,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0125.md#¶4",
+   "heading_line": "###### **OKLAHOMA LAW: REGULATORY KNOWLEDGE AND ENVIRONMENTAL COMPLIANCE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:24.risk-management-process-safety-and-environmental-emergency-p",
+   "title": "RISK MANAGEMENT, PROCESS SAFETY, AND ENVIRONMENTAL EMERGENCY PROGRAMS",
+   "level": 2,
+   "parent": "ocwut-16-26:24",
+   "outline_index": 24,
+   "outline_title": "Section 4 | Oklahoma Law",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 14
+   },
+   "end": {
+    "page": 125,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0125.md#¶14",
+   "heading_line": "###### **RISK MANAGEMENT, PROCESS SAFETY, AND ENVIRONMENTAL EMERGENCY PROGRAMS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:24.oklahoma-corporation-commission-occ-petroleum-storage-tanks",
+   "title": "OKLAHOMA CORPORATION COMMISSION (OCC)— PETROLEUM STORAGE TANKS",
+   "level": 2,
+   "parent": "ocwut-16-26:24",
+   "outline_index": 24,
+   "outline_title": "Section 4 | Oklahoma Law",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 19
+   },
+   "end": {
+    "page": 126,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0125.md#¶19",
+   "heading_line": "###### **OKLAHOMA CORPORATION COMMISSION (OCC)— PETROLEUM STORAGE TANKS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:24.stormwater",
+   "title": "STORMWATER",
+   "level": 2,
+   "parent": "ocwut-16-26:24",
+   "outline_index": 24,
+   "outline_title": "Section 4 | Oklahoma Law",
+   "kind": "body",
+   "start": {
+    "page": 126,
+    "para": 2
+   },
+   "end": {
+    "page": 126,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0126.md#¶2",
+   "heading_line": "###### **STORMWATER**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:24.emerging-regulatory-risk-oklahoma-s-biosolids-legislation",
+   "title": "EMERGING REGULATORY RISK: OKLAHOMA'S BIOSOLIDS LEGISLATION",
+   "level": 2,
+   "parent": "ocwut-16-26:24",
+   "outline_index": 24,
+   "outline_title": "Section 4 | Oklahoma Law",
+   "kind": "body",
+   "start": {
+    "page": 126,
+    "para": 4
+   },
+   "end": {
+    "page": 126,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0126.md#¶4",
+   "heading_line": "###### **EMERGING REGULATORY RISK: OKLAHOMA'S BIOSOLIDS LEGISLATION**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:24.5-required-plans-submitted-with-the-proposal",
+   "title": "5 Required Plans Submitted with the Proposal",
+   "level": 2,
+   "parent": "ocwut-16-26:24",
+   "outline_index": 24,
+   "outline_title": "Section 4 | Oklahoma Law",
+   "kind": "body",
+   "start": {
+    "page": 127,
+    "para": 1
+   },
+   "end": {
+    "page": 127,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0127.md#¶1",
+   "heading_line": "# 5 Required Plans Submitted with the Proposal",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:25",
+   "title": "Section 5 | Required Plans Submitted with the Proposal",
+   "level": 1,
+   "parent": null,
+   "outline_index": 25,
+   "outline_title": "Section 5 | Required Plans Submitted with the Proposal",
+   "kind": "outline",
+   "start": {
+    "page": 128,
+    "para": 1
+   },
+   "end": {
+    "page": 159,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0128.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26",
+   "title": "Staffing and Training Plan",
+   "level": 2,
+   "parent": "ocwut-16-26:25",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "outline+body",
+   "start": {
+    "page": 128,
+    "para": 3
+   },
+   "end": {
+    "page": 135,
+    "para": 24
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0128.md#¶3",
+   "heading_line": "###### **STAFFING AND TRAINING PLAN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.organization-structure-and-leadership-team",
+   "title": "Organization Structure and Leadership Team",
+   "level": 3,
+   "parent": "ocwut-16-26:26",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 128,
+    "para": 6
+   },
+   "end": {
+    "page": 130,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0128.md#¶6",
+   "heading_line": "###### **Organization Structure and Leadership Team**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.staffing-approach-and-facility-coverage",
+   "title": "Staffing Approach and Facility Coverage",
+   "level": 3,
+   "parent": "ocwut-16-26:26",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 131,
+    "para": 1
+   },
+   "end": {
+    "page": 133,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0131.md#¶1",
+   "heading_line": "###### **Staffing Approach and Facility Coverage**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.staffing-model",
+   "title": "Staffing Model",
+   "level": 4,
+   "parent": "ocwut-16-26:26.staffing-approach-and-facility-coverage",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 131,
+    "para": 2
+   },
+   "end": {
+    "page": 131,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0131.md#¶2",
+   "heading_line": "###### _Staffing Model_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.fewer-managers-more-doers",
+   "title": "Fewer Managers, More Doers",
+   "level": 4,
+   "parent": "ocwut-16-26:26.staffing-approach-and-facility-coverage",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 131,
+    "para": 5
+   },
+   "end": {
+    "page": 132,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0131.md#¶5",
+   "heading_line": "###### _Fewer Managers, More Doers_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.24-7-facility-coverage",
+   "title": "24/7 Facility Coverage",
+   "level": 4,
+   "parent": "ocwut-16-26:26.staffing-approach-and-facility-coverage",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 132,
+    "para": 4
+   },
+   "end": {
+    "page": 132,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0132.md#¶4",
+   "heading_line": "###### _24/7 Facility Coverage_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.on-call-rotation-and-emergency-response-staffing",
+   "title": "On-Call Rotation and Emergency Response Staffing",
+   "level": 4,
+   "parent": "ocwut-16-26:26.staffing-approach-and-facility-coverage",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 132,
+    "para": 8
+   },
+   "end": {
+    "page": 133,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0132.md#¶8",
+   "heading_line": "###### _On-Call Rotation and Emergency Response Staffing_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.vacancy-management-retention-and-staffing-resiliency",
+   "title": "Vacancy Management, Retention, and Staffing Resiliency",
+   "level": 3,
+   "parent": "ocwut-16-26:26",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 133,
+    "para": 10
+   },
+   "end": {
+    "page": 134,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0133.md#¶10",
+   "heading_line": "###### **Vacancy Management, Retention, and Staffing Resiliency**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.preventing-vacancies-train-to-retain",
+   "title": "Preventing Vacancies: Train to Retain",
+   "level": 4,
+   "parent": "ocwut-16-26:26.vacancy-management-retention-and-staffing-resiliency",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 133,
+    "para": 12
+   },
+   "end": {
+    "page": 133,
+    "para": 22
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0133.md#¶12",
+   "heading_line": "###### _Preventing Vacancies: Train to Retain_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.staffing-transparency",
+   "title": "Staffing Transparency",
+   "level": 4,
+   "parent": "ocwut-16-26:26.vacancy-management-retention-and-staffing-resiliency",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 133,
+    "para": 23
+   },
+   "end": {
+    "page": 134,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0133.md#¶23",
+   "heading_line": "###### _Staffing Transparency_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.individualized-training-program",
+   "title": "Individualized Training Program",
+   "level": 3,
+   "parent": "ocwut-16-26:26",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 134,
+    "para": 2
+   },
+   "end": {
+    "page": 135,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0134.md#¶2",
+   "heading_line": "###### **Individualized Training Program**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.training-topics-by-role",
+   "title": "Training Topics by Role",
+   "level": 4,
+   "parent": "ocwut-16-26:26.individualized-training-program",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 134,
+    "para": 18
+   },
+   "end": {
+    "page": 134,
+    "para": 19
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0134.md#¶18",
+   "heading_line": "###### _Training Topics by Role_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.cross-training-program",
+   "title": "Cross-Training Program",
+   "level": 4,
+   "parent": "ocwut-16-26:26.individualized-training-program",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 134,
+    "para": 20
+   },
+   "end": {
+    "page": 135,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0134.md#¶20",
+   "heading_line": "###### _Cross-Training Program_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.licensing-certification-professional-development",
+   "title": "Licensing, Certification, & Professional Development",
+   "level": 3,
+   "parent": "ocwut-16-26:26",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 135,
+    "para": 6
+   },
+   "end": {
+    "page": 135,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0135.md#¶6",
+   "heading_line": "###### **Licensing, Certification, & Professional Development**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.regional-sme-support",
+   "title": "Regional & SME Support",
+   "level": 3,
+   "parent": "ocwut-16-26:26",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 135,
+    "para": 15
+   },
+   "end": {
+    "page": 135,
+    "para": 20
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0135.md#¶15",
+   "heading_line": "###### **Regional & SME Support**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:26.subcontractors",
+   "title": "Subcontractors",
+   "level": 3,
+   "parent": "ocwut-16-26:26",
+   "outline_index": 26,
+   "outline_title": "Staffing and Training Plan",
+   "kind": "body",
+   "start": {
+    "page": 135,
+    "para": 21
+   },
+   "end": {
+    "page": 135,
+    "para": 24
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0135.md#¶21",
+   "heading_line": "###### **Subcontractors**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27",
+   "title": "Sludge Management Plan",
+   "level": 2,
+   "parent": "ocwut-16-26:25",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "outline+body",
+   "start": {
+    "page": 136,
+    "para": 1
+   },
+   "end": {
+    "page": 139,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0136.md#¶1",
+   "heading_line": "###### **SLUDGE MANAGEMENT PLAN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.why-sludge-management-matters-to-ocwut",
+   "title": "Why Sludge Management Matters to OCWUT",
+   "level": 3,
+   "parent": "ocwut-16-26:27",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 136,
+    "para": 2
+   },
+   "end": {
+    "page": 136,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0136.md#¶2",
+   "heading_line": "###### **Why Sludge Management Matters to OCWUT**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.understanding-ocwut-s-existing-program",
+   "title": "Understanding OCWUT’s Existing Program",
+   "level": 3,
+   "parent": "ocwut-16-26:27",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 136,
+    "para": 6
+   },
+   "end": {
+    "page": 137,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0136.md#¶6",
+   "heading_line": "###### **Understanding OCWUT’s Existing Program**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.sludge-generation-processing-and-class-b-treatment",
+   "title": "Sludge Generation, Processing, and Class B Treatment",
+   "level": 3,
+   "parent": "ocwut-16-26:27",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 137,
+    "para": 5
+   },
+   "end": {
+    "page": 137,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0137.md#¶5",
+   "heading_line": "###### **Sludge Generation, Processing, and Class B Treatment**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.storage-management-and-backlog-prevention",
+   "title": "Storage Management and Backlog Prevention",
+   "level": 3,
+   "parent": "ocwut-16-26:27",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 137,
+    "para": 7
+   },
+   "end": {
+    "page": 138,
+    "para": 8
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0137.md#¶7",
+   "heading_line": "###### **Storage Management and Backlog Prevention**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.weather-dewatering-hauling-site-pad-noaa-output-schedule-ava",
+   "title": "WEATHER/ DEWATERING HAULING SITE PAD NOAA OUTPUT SCHEDULE AVAILABILITY UTILIZATION",
+   "level": 3,
+   "parent": "ocwut-16-26:27",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 138,
+    "para": 9
+   },
+   "end": {
+    "page": 139,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0138.md#¶9",
+   "heading_line": "###### **WEATHER/ DEWATERING HAULING SITE PAD NOAA OUTPUT SCHEDULE AVAILABILITY UTILIZATION**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.odor-management-in-sludge-operations",
+   "title": "Odor Management in Sludge Operations",
+   "level": 4,
+   "parent": "ocwut-16-26:27.weather-dewatering-hauling-site-pad-noaa-output-schedule-ava",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 138,
+    "para": 14
+   },
+   "end": {
+    "page": 138,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0138.md#¶14",
+   "heading_line": "###### **Odor Management in Sludge Operations**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.transport-and-hauling-controls",
+   "title": "Transport and Hauling Controls",
+   "level": 4,
+   "parent": "ocwut-16-26:27.weather-dewatering-hauling-site-pad-noaa-output-schedule-ava",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 138,
+    "para": 16
+   },
+   "end": {
+    "page": 138,
+    "para": 18
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0138.md#¶16",
+   "heading_line": "###### **Transport and Hauling Controls**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.land-application-program-management",
+   "title": "Land Application Program Management",
+   "level": 4,
+   "parent": "ocwut-16-26:27.weather-dewatering-hauling-site-pad-noaa-output-schedule-ava",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 138,
+    "para": 19
+   },
+   "end": {
+    "page": 138,
+    "para": 21
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0138.md#¶19",
+   "heading_line": "###### **Land Application Program Management**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.testing-monitoring-and-compliance-reporting",
+   "title": "Testing, Monitoring, and Compliance Reporting",
+   "level": 4,
+   "parent": "ocwut-16-26:27.weather-dewatering-hauling-site-pad-noaa-output-schedule-ava",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 138,
+    "para": 22
+   },
+   "end": {
+    "page": 138,
+    "para": 23
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0138.md#¶22",
+   "heading_line": "###### **Testing, Monitoring, and Compliance Reporting**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.external-communications-protocol",
+   "title": "External Communications Protocol",
+   "level": 4,
+   "parent": "ocwut-16-26:27.weather-dewatering-hauling-site-pad-noaa-output-schedule-ava",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 138,
+    "para": 24
+   },
+   "end": {
+    "page": 138,
+    "para": 27
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0138.md#¶24",
+   "heading_line": "###### **External Communications Protocol**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.contingency-planning-and-upset-response",
+   "title": "Contingency Planning and Upset Response",
+   "level": 4,
+   "parent": "ocwut-16-26:27.weather-dewatering-hauling-site-pad-noaa-output-schedule-ava",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 139,
+    "para": 1
+   },
+   "end": {
+    "page": 139,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0139.md#¶1",
+   "heading_line": "###### **Contingency Planning and Upset Response**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:27.performance-tracking-and-continuous-improvement",
+   "title": "Performance Tracking and Continuous Improvement",
+   "level": 4,
+   "parent": "ocwut-16-26:27.weather-dewatering-hauling-site-pad-noaa-output-schedule-ava",
+   "outline_index": 27,
+   "outline_title": "Sludge Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 139,
+    "para": 3
+   },
+   "end": {
+    "page": 139,
+    "para": 5
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0139.md#¶3",
+   "heading_line": "###### **Performance Tracking and Continuous Improvement**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28",
+   "title": "Operational Integration Plan",
+   "level": 2,
+   "parent": "ocwut-16-26:25",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "outline+body",
+   "start": {
+    "page": 139,
+    "para": 6
+   },
+   "end": {
+    "page": 144,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0139.md#¶6",
+   "heading_line": "###### **OPERATIONAL INTEGRATION PLAN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.integration-approach-and-ocwut-s-planned-capital-improvement",
+   "title": "Integration Approach and OCWUT’s Planned Capital Improvements",
+   "level": 3,
+   "parent": "ocwut-16-26:28",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 139,
+    "para": 7
+   },
+   "end": {
+    "page": 140,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0139.md#¶7",
+   "heading_line": "###### **Integration Approach and OCWUT’s Planned Capital Improvements**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.staffing-resource-and-cost-impacts",
+   "title": "Staffing, Resource, and Cost Impacts",
+   "level": 3,
+   "parent": "ocwut-16-26:28",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 140,
+    "para": 2
+   },
+   "end": {
+    "page": 142,
+    "para": 8
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0140.md#¶2",
+   "heading_line": "###### **Staffing, Resource, and Cost Impacts**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.staffing-levels-and-classifications",
+   "title": "Staffing Levels and Classifications",
+   "level": 4,
+   "parent": "ocwut-16-26:28.staffing-resource-and-cost-impacts",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 140,
+    "para": 4
+   },
+   "end": {
+    "page": 140,
+    "para": 7
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0140.md#¶4",
+   "heading_line": "###### _Staffing Levels and Classifications_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.maintenance-staffing-and-specialized-skill-sets",
+   "title": "Maintenance Staffing and Specialized Skill Sets",
+   "level": 4,
+   "parent": "ocwut-16-26:28.staffing-resource-and-cost-impacts",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 140,
+    "para": 8
+   },
+   "end": {
+    "page": 140,
+    "para": 11
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0140.md#¶8",
+   "heading_line": "###### _Maintenance Staffing and Specialized Skill Sets_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.use-of-subcontractors-or-third-party-services",
+   "title": "Use of Subcontractors or Third-Party Services",
+   "level": 4,
+   "parent": "ocwut-16-26:28.staffing-resource-and-cost-impacts",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 140,
+    "para": 12
+   },
+   "end": {
+    "page": 141,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0140.md#¶12",
+   "heading_line": "###### _Use of Subcontractors or Third-Party Services_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.emergency-response-and-on-call-coverage",
+   "title": "Emergency Response and On-Call Coverage",
+   "level": 4,
+   "parent": "ocwut-16-26:28.staffing-resource-and-cost-impacts",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 2
+   },
+   "end": {
+    "page": 141,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0141.md#¶2",
+   "heading_line": "###### _Emergency Response and On-Call Coverage_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.expected-impacts-on-operating-and-maintenance-costs",
+   "title": "Expected Impacts on Operating and Maintenance Costs",
+   "level": 4,
+   "parent": "ocwut-16-26:28.staffing-resource-and-cost-impacts",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 4
+   },
+   "end": {
+    "page": 141,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0141.md#¶4",
+   "heading_line": "###### _Expected Impacts on Operating and Maintenance Costs_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.hypochlorite-transport-plan",
+   "title": "Hypochlorite Transport Plan",
+   "level": 4,
+   "parent": "ocwut-16-26:28.staffing-resource-and-cost-impacts",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 10
+   },
+   "end": {
+    "page": 141,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0141.md#¶10",
+   "heading_line": "###### _Hypochlorite Transport Plan_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.biosolids-transition-land-application-to-landfill-disposal",
+   "title": "Biosolids Transition—Land Application to Landfill Disposal",
+   "level": 4,
+   "parent": "ocwut-16-26:28.staffing-resource-and-cost-impacts",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 16
+   },
+   "end": {
+    "page": 142,
+    "para": 8
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0141.md#¶16",
+   "heading_line": "###### _Biosolids Transition—Land Application to Landfill Disposal_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.training-and-knowledge-transfer",
+   "title": "Training and Knowledge Transfer",
+   "level": 3,
+   "parent": "ocwut-16-26:28",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 142,
+    "para": 9
+   },
+   "end": {
+    "page": 142,
+    "para": 16
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0142.md#¶9",
+   "heading_line": "###### **Training and Knowledge Transfer**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.maintenance-program-adjustments",
+   "title": "Maintenance Program Adjustments",
+   "level": 3,
+   "parent": "ocwut-16-26:28",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 142,
+    "para": 17
+   },
+   "end": {
+    "page": 143,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0142.md#¶17",
+   "heading_line": "###### **Maintenance Program Adjustments**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.risk-management-and-continuity-of-operations",
+   "title": "Risk Management and Continuity of Operations",
+   "level": 3,
+   "parent": "ocwut-16-26:28",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 143,
+    "para": 3
+   },
+   "end": {
+    "page": 143,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0143.md#¶3",
+   "heading_line": "###### **Risk Management and Continuity of Operations**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:28.experience-with-oshg",
+   "title": "Experience with OSHG",
+   "level": 3,
+   "parent": "ocwut-16-26:28",
+   "outline_index": 28,
+   "outline_title": "Operational Integration Plan",
+   "kind": "body",
+   "start": {
+    "page": 144,
+    "para": 1
+   },
+   "end": {
+    "page": 144,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0144.md#¶1",
+   "heading_line": "###### **Experience with OSHG**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29",
+   "title": "Draft Transition Plan",
+   "level": 2,
+   "parent": "ocwut-16-26:25",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "outline+body",
+   "start": {
+    "page": 144,
+    "para": 11
+   },
+   "end": {
+    "page": 155,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0144.md#¶11",
+   "heading_line": "###### **DRAFT TRANSITION PLAN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.transition-plan-and-operational-readiness-approach",
+   "title": "Transition Plan and Operational Readiness Approach",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 144,
+    "para": 12
+   },
+   "end": {
+    "page": 144,
+    "para": 15
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0144.md#¶12",
+   "heading_line": "###### **Transition Plan and Operational Readiness Approach**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.structured-phased-transition-with-clear-accountability",
+   "title": "Structured, Phased Transition with Clear Accountability",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 144,
+    "para": 16
+   },
+   "end": {
+    "page": 146,
+    "para": 17
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0144.md#¶16",
+   "heading_line": "###### **Structured, Phased Transition with Clear Accountability**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.risk-based-transition-management",
+   "title": "Risk-Based Transition Management",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 146,
+    "para": 18
+   },
+   "end": {
+    "page": 147,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0146.md#¶18",
+   "heading_line": "###### **Risk-Based Transition Management**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.workforce-transition-staffing-readiness-and-retention",
+   "title": "Workforce Transition, Staffing Readiness, and Retention",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 147,
+    "para": 4
+   },
+   "end": {
+    "page": 148,
+    "para": 9
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0147.md#¶4",
+   "heading_line": "###### **Workforce Transition, Staffing Readiness, and Retention**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.transition-leadership-and-coordination",
+   "title": "Transition Leadership and Coordination",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 148,
+    "para": 10
+   },
+   "end": {
+    "page": 149,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0148.md#¶10",
+   "heading_line": "###### **Transition Leadership and Coordination**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.ocwut-specific-operational-readiness",
+   "title": "OCWUT-Specific Operational Readiness",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 149,
+    "para": 7
+   },
+   "end": {
+    "page": 150,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0149.md#¶7",
+   "heading_line": "###### **OCWUT-Specific Operational Readiness**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.communication-and-knowledge-transfer",
+   "title": "Communication and Knowledge Transfer",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 150,
+    "para": 5
+   },
+   "end": {
+    "page": 150,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0150.md#¶5",
+   "heading_line": "###### **Communication and Knowledge Transfer**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.training-and-operational-readiness",
+   "title": "Training and Operational Readiness",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 150,
+    "para": 7
+   },
+   "end": {
+    "page": 150,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0150.md#¶7",
+   "heading_line": "###### **Training and Operational Readiness**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.asset-validation-and-capital-planning",
+   "title": "Asset Validation and Capital Planning",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 150,
+    "para": 11
+   },
+   "end": {
+    "page": 150,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0150.md#¶11",
+   "heading_line": "###### **Asset Validation and Capital Planning**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:29.continuity-compliance-and-long-term-partnership",
+   "title": "Continuity, Compliance, and Long-Term Partnership",
+   "level": 3,
+   "parent": "ocwut-16-26:29",
+   "outline_index": 29,
+   "outline_title": "Draft Transition Plan",
+   "kind": "body",
+   "start": {
+    "page": 151,
+    "para": 1
+   },
+   "end": {
+    "page": 155,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0151.md#¶1",
+   "heading_line": "###### **Continuity, Compliance, and Long-Term Partnership**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30",
+   "title": "Solids Management Plan",
+   "level": 2,
+   "parent": "ocwut-16-26:25",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "outline+body",
+   "start": {
+    "page": 155,
+    "para": 2
+   },
+   "end": {
+    "page": 159,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0155.md#¶2",
+   "heading_line": "###### **SOLIDS MANAGEMENT PLAN**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.understanding-of-ocwut-solids-management-requirements",
+   "title": "Understanding of OCWUT Solids Management Requirements",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 156,
+    "para": 7
+   },
+   "end": {
+    "page": 156,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0156.md#¶7",
+   "heading_line": "###### **Understanding of OCWUT Solids Management Requirements**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.jacobs-acted-immediately-to-stabilize",
+   "title": "Jacobs acted immediately to stabilize",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 156,
+    "para": 14
+   },
+   "end": {
+    "page": 157,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0156.md#¶14",
+   "heading_line": "###### **Jacobs acted immediately to stabilize**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.integrated-solids-management-strategy",
+   "title": "Integrated Solids Management Strategy",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 157,
+    "para": 3
+   },
+   "end": {
+    "page": 157,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0157.md#¶3",
+   "heading_line": "###### **Integrated Solids Management Strategy**",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:30.biosolids-processing-and-dewatering-operations",
+   "title": "Biosolids Processing and Dewatering Operations",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 157,
+    "para": 4
+   },
+   "end": {
+    "page": 157,
+    "para": 13
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0157.md#¶4",
+   "heading_line": "###### **Biosolids Processing and Dewatering Operations**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.biosolids-storage-and-backlog-management",
+   "title": "Biosolids Storage and Backlog Management",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 157,
+    "para": 14
+   },
+   "end": {
+    "page": 158,
+    "para": 4
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0157.md#¶14",
+   "heading_line": "###### **Biosolids Storage and Backlog Management**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.hauling-land-application-and-disposal-coordination",
+   "title": "Hauling, Land Application, and Disposal Coordination",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 158,
+    "para": 5
+   },
+   "end": {
+    "page": 158,
+    "para": 8
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0158.md#¶5",
+   "heading_line": "###### **Hauling, Land Application, and Disposal Coordination**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.odor-and-environmental-controls",
+   "title": "Odor and Environmental Controls",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 158,
+    "para": 9
+   },
+   "end": {
+    "page": 158,
+    "para": 10
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0158.md#¶9",
+   "heading_line": "###### **Odor and Environmental Controls**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.monitoring-reporting-and-compliance-assurance",
+   "title": "Monitoring, Reporting, and Compliance Assurance",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 158,
+    "para": 11
+   },
+   "end": {
+    "page": 158,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0158.md#¶11",
+   "heading_line": "###### **Monitoring, Reporting, and Compliance Assurance**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.continuous-improvement-and-risk-management",
+   "title": "Continuous Improvement and Risk Management",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 158,
+    "para": 15
+   },
+   "end": {
+    "page": 158,
+    "para": 16
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0158.md#¶15",
+   "heading_line": "###### **Continuous Improvement and Risk Management**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.related-program-support",
+   "title": "Related Program Support",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 158,
+    "para": 17
+   },
+   "end": {
+    "page": 158,
+    "para": 22
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0158.md#¶17",
+   "heading_line": "###### **Related Program Support**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:30.6-disclosures",
+   "title": "6 Disclosures",
+   "level": 3,
+   "parent": "ocwut-16-26:30",
+   "outline_index": 30,
+   "outline_title": "Solids Management Plan",
+   "kind": "body",
+   "start": {
+    "page": 159,
+    "para": 1
+   },
+   "end": {
+    "page": 159,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0159.md#¶1",
+   "heading_line": "# 6 Disclosures",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:31",
+   "title": "Section 6 | Disclosures",
+   "level": 1,
+   "parent": null,
+   "outline_index": 31,
+   "outline_title": "Section 6 | Disclosures",
+   "kind": "outline",
+   "start": {
+    "page": 160,
+    "para": 1
+   },
+   "end": {
+    "page": 163,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0160.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:31.enforcements",
+   "title": "ENFORCEMENTS",
+   "level": 2,
+   "parent": "ocwut-16-26:31",
+   "outline_index": 31,
+   "outline_title": "Section 6 | Disclosures",
+   "kind": "body",
+   "start": {
+    "page": 160,
+    "para": 3
+   },
+   "end": {
+    "page": 161,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0160.md#¶3",
+   "heading_line": "###### **ENFORCEMENTS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:31.at-fault-violation-events",
+   "title": "AT-FAULT VIOLATION EVENTS",
+   "level": 2,
+   "parent": "ocwut-16-26:31",
+   "outline_index": 31,
+   "outline_title": "Section 6 | Disclosures",
+   "kind": "body",
+   "start": {
+    "page": 161,
+    "para": 2
+   },
+   "end": {
+    "page": 162,
+    "para": 3
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0161.md#¶2",
+   "heading_line": "###### **AT-FAULT VIOLATION EVENTS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:31.7-projects-and-references",
+   "title": "7 Projects and References",
+   "level": 2,
+   "parent": "ocwut-16-26:31",
+   "outline_index": 31,
+   "outline_title": "Section 6 | Disclosures",
+   "kind": "body",
+   "start": {
+    "page": 163,
+    "para": 1
+   },
+   "end": {
+    "page": 163,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0163.md#¶1",
+   "heading_line": "# 7 Projects and References",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:32",
+   "title": "Section 7 | Projects and References",
+   "level": 1,
+   "parent": null,
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "outline",
+   "start": {
+    "page": 164,
+    "para": 1
+   },
+   "end": {
+    "page": 177,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0164.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.five-year-o-m-project-reference-table",
+   "title": "FIVE-YEAR O&M PROJECT REFERENCE TABLE",
+   "level": 2,
+   "parent": "ocwut-16-26:32",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 164,
+    "para": 7
+   },
+   "end": {
+    "page": 164,
+    "para": 8
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0164.md#¶7",
+   "heading_line": "###### **FIVE-YEAR O&M PROJECT REFERENCE TABLE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.relevant-project-experience",
+   "title": "RELEVANT PROJECT EXPERIENCE",
+   "level": 2,
+   "parent": "ocwut-16-26:32",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 164,
+    "para": 9
+   },
+   "end": {
+    "page": 171,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0164.md#¶9",
+   "heading_line": "###### **RELEVANT PROJECT EXPERIENCE**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.bixby-water-reclamation-facility-and-lift-stations-o-m",
+   "title": "Bixby Water Reclamation Facility and Lift Stations O&M",
+   "level": 3,
+   "parent": "ocwut-16-26:32.relevant-project-experience",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 165,
+    "para": 1
+   },
+   "end": {
+    "page": 166,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0165.md#¶1",
+   "heading_line": "###### **Bixby Water Reclamation Facility and Lift Stations O&M**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.jackson-public-drinking-water-and-wastewater-facilities-o-m",
+   "title": "Jackson Public Drinking Water and Wastewater Facilities O&M",
+   "level": 3,
+   "parent": "ocwut-16-26:32.relevant-project-experience",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 167,
+    "para": 1
+   },
+   "end": {
+    "page": 168,
+    "para": 17
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0167.md#¶1",
+   "heading_line": "###### **Jackson Public Drinking Water and Wastewater Facilities O&M**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.waterbury-water-and-wastewater-system-o-m",
+   "title": "Waterbury Water and Wastewater System O&M",
+   "level": 3,
+   "parent": "ocwut-16-26:32.relevant-project-experience",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 169,
+    "para": 1
+   },
+   "end": {
+    "page": 170,
+    "para": 17
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0169.md#¶1",
+   "heading_line": "###### **Waterbury Water and Wastewater System O&M**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.westside-and-marine-park-wwtps-o-m",
+   "title": "Westside and Marine Park WWTPS O&M",
+   "level": 3,
+   "parent": "ocwut-16-26:32.relevant-project-experience",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 171,
+    "para": 1
+   },
+   "end": {
+    "page": 171,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0171.md#¶1",
+   "heading_line": "###### **Westside and Marine Park WWTPS O&M**",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:32.city-of-vancouver-vancouver-wa",
+   "title": "CITY OF VANCOUVER | VANCOUVER, WA",
+   "level": 2,
+   "parent": "ocwut-16-26:32",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 171,
+    "para": 2
+   },
+   "end": {
+    "page": 172,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0171.md#¶2",
+   "heading_line": "###### **CITY OF VANCOUVER | VANCOUVER, WA**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.awards",
+   "title": "AWARDS",
+   "level": 2,
+   "parent": "ocwut-16-26:32",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 172,
+    "para": 2
+   },
+   "end": {
+    "page": 174,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0172.md#¶2",
+   "heading_line": "###### **AWARDS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.awards-p174",
+   "title": "AWARDS",
+   "level": 2,
+   "parent": "ocwut-16-26:32",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 174,
+    "para": 2
+   },
+   "end": {
+    "page": 176,
+    "para": 27
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0174.md#¶2",
+   "heading_line": "###### **AWARDS**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.san-marcos-wwtp-o-m",
+   "title": "San Marcos WWTP O&M",
+   "level": 3,
+   "parent": "ocwut-16-26:32.awards-p174",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 175,
+    "para": 1
+   },
+   "end": {
+    "page": 176,
+    "para": 27
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0175.md#¶1",
+   "heading_line": "###### **San Marcos WWTP O&M**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:32.8-innovative-and-or-alternative-recommendations",
+   "title": "8 Innovative and/or Alternative Recommendations",
+   "level": 2,
+   "parent": "ocwut-16-26:32",
+   "outline_index": 32,
+   "outline_title": "Section 7 | Projects and References",
+   "kind": "body",
+   "start": {
+    "page": 177,
+    "para": 1
+   },
+   "end": {
+    "page": 177,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0177.md#¶1",
+   "heading_line": "# 8 Innovative and/or Alternative Recommendations",
+   "minor": true
+  },
+  {
+   "id": "ocwut-16-26:33",
+   "title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "level": 1,
+   "parent": null,
+   "outline_index": 33,
+   "outline_title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "kind": "outline",
+   "start": {
+    "page": 178,
+    "para": 1
+   },
+   "end": {
+    "page": 181,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0178.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:33.more-than-an-operator-our-innovative-approach-to-o-m",
+   "title": "MORE THAN AN OPERATOR: OUR INNOVATIVE APPROACH TO O&M",
+   "level": 2,
+   "parent": "ocwut-16-26:33",
+   "outline_index": 33,
+   "outline_title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "kind": "body",
+   "start": {
+    "page": 178,
+    "para": 2
+   },
+   "end": {
+    "page": 181,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0178.md#¶2",
+   "heading_line": "###### **MORE THAN AN OPERATOR: OUR INNOVATIVE APPROACH TO O&M**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:33.discounted-engineering-services-to-support-innovation-and-im",
+   "title": "Discounted Engineering Services to Support Innovation and Improvements",
+   "level": 3,
+   "parent": "ocwut-16-26:33.more-than-an-operator-our-innovative-approach-to-o-m",
+   "outline_index": 33,
+   "outline_title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "kind": "body",
+   "start": {
+    "page": 178,
+    "para": 9
+   },
+   "end": {
+    "page": 179,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0178.md#¶9",
+   "heading_line": "###### **Discounted Engineering Services to Support Innovation and Improvements**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:33.odor-study-gap-analysis-and-updated-odor-control-report",
+   "title": "Odor Study Gap Analysis and Updated Odor Control Report",
+   "level": 4,
+   "parent": "ocwut-16-26:33.discounted-engineering-services-to-support-innovation-and-im",
+   "outline_index": 33,
+   "outline_title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "kind": "body",
+   "start": {
+    "page": 178,
+    "para": 12
+   },
+   "end": {
+    "page": 178,
+    "para": 14
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0178.md#¶12",
+   "heading_line": "###### _Odor Study Gap Analysis and Updated Odor Control Report_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:33.replica-hydraulic-model-for-system-and-facility-optimization",
+   "title": "Replica Hydraulic Model for System and Facility Optimization",
+   "level": 4,
+   "parent": "ocwut-16-26:33.discounted-engineering-services-to-support-innovation-and-im",
+   "outline_index": 33,
+   "outline_title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "kind": "body",
+   "start": {
+    "page": 178,
+    "para": 15
+   },
+   "end": {
+    "page": 179,
+    "para": 2
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0178.md#¶15",
+   "heading_line": "###### _Replica Hydraulic Model for System and Facility Optimization_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:33.nexgen-phase-2-implementation-support",
+   "title": "NexGen Phase 2 Implementation Support",
+   "level": 4,
+   "parent": "ocwut-16-26:33.discounted-engineering-services-to-support-innovation-and-im",
+   "outline_index": 33,
+   "outline_title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "kind": "body",
+   "start": {
+    "page": 179,
+    "para": 3
+   },
+   "end": {
+    "page": 179,
+    "para": 6
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0179.md#¶3",
+   "heading_line": "###### _NexGen Phase 2 Implementation Support_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:33.additional-ideas-for-discounted-engineering",
+   "title": "Additional Ideas for Discounted Engineering",
+   "level": 3,
+   "parent": "ocwut-16-26:33.more-than-an-operator-our-innovative-approach-to-o-m",
+   "outline_index": 33,
+   "outline_title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "kind": "body",
+   "start": {
+    "page": 179,
+    "para": 7
+   },
+   "end": {
+    "page": 181,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0179.md#¶7",
+   "heading_line": "###### **Additional Ideas for Discounted Engineering**",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:33.potential-chemical-and-energy-savings-through-intelligent-o",
+   "title": "Potential Chemical and Energy Savings Through Intelligent O&M",
+   "level": 4,
+   "parent": "ocwut-16-26:33.additional-ideas-for-discounted-engineering",
+   "outline_index": 33,
+   "outline_title": "Section 8 | Innovative and/or Alternative Recommendations",
+   "kind": "body",
+   "start": {
+    "page": 180,
+    "para": 1
+   },
+   "end": {
+    "page": 181,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0180.md#¶1",
+   "heading_line": "###### _Potential Chemical and Energy Savings Through Intelligent O&M_",
+   "minor": false
+  },
+  {
+   "id": "ocwut-16-26:34",
+   "title": "Statutory Clauses",
+   "level": 1,
+   "parent": null,
+   "outline_index": 34,
+   "outline_title": "Statutory Clauses",
+   "kind": "outline+body",
+   "start": {
+    "page": 182,
+    "para": 1
+   },
+   "end": {
+    "page": 184,
+    "para": 1
+   },
+   "anchor": "verbatim/ocwut-16-26/pages/p0182.md#¶1",
+   "heading_line": "###### **STATUTORY CLAUSES**",
+   "minor": false
+  }
+ ],
+ "generated": "2026-09-14"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "mmsd-om-2028",
+  "review_status": "draft",
+  "descriptor": "a Midwest US regional sewerage district",
+  "client_names": ["Milwaukee Metropolitan Sewerage District", "MMSD"],
+  "client_aliases": ["the District"],
+  "location_names": ["Milwaukee"],
+  "location_placeholder": "[the region]",
+  "facility_names": [
+    {"names": ["Jones Island Water Reclamation Facility", "Jones Island WRF", "Jones Island", "JIWRF"], "placeholder": "[FACILITY A]", "descriptor": "the larger of the two water reclamation facilities"},
+    {"names": ["South Shore Water Reclamation Facility", "South Shore WRF", "South Shore", "SSWRF"], "placeholder": "[FACILITY B]", "descriptor": "the second water reclamation facility"}
+  ],
+  "product_names": [
+    {"names": ["Milorganite"], "replacement": "[CLIENT]'s biosolids product"}
+  ],
+  "protect": [
+    "University of Wisconsin–Milwaukee",
+    "University of Wisconsin-Milwaukee",
+    "UW–Milwaukee",
+    "UW-Milwaukee",
+    "Milwaukee Area Technical College",
+    "Milwaukee Water Council",
+    "Milwaukee Metropolitan Sewerage District"
+  ],
+  "keep": ["WDNR", "Wisconsin", "MATC", "Marquette"],
+  "ambiguous": ["Veolia"],
+  "notes": "'Veolia' is this pursuit's incumbent operator; it is left as-is in pulls and listed for review (blocks generalize it to 'the incumbent operator' only where it means MMSD's own current operator). Protected phrases are proper nouns that happen to contain 'Milwaukee'."
+}

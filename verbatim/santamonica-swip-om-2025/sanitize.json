@@ -1,0 +1,17 @@
+{
+  "slug": "santamonica-swip-om-2025",
+  "review_status": "draft",
+  "descriptor": "a Southern California coastal city",
+  "client_names": ["City of Santa Monica", "Santa Monica"],
+  "client_aliases": ["the City"],
+  "location_names": [],
+  "location_placeholder": "[the region]",
+  "facility_names": [],
+  "product_names": [
+    {"names": ["SWIP"], "replacement": "[PROJECT]"}
+  ],
+  "protect": ["Santa Monica Bay", "Santa Monica Mountains"],
+  "keep": ["AWTF", "GRRP", "California", "SWRCB", "DDW", "Los Angeles"],
+  "ambiguous": ["Veolia", "the District", "the County"],
+  "notes": "SWIP → [PROJECT] follows the existing block convention. AWTF and GRRP are kept as generic facility-type acronyms. 'Veolia' appears as a past operator at other clients; 'the District'/'the County' refer to third parties."
+}

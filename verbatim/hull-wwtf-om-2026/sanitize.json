@@ -1,0 +1,15 @@
+{
+  "slug": "hull-wwtf-om-2026",
+  "review_status": "draft",
+  "descriptor": "a coastal New England town",
+  "client_names": ["Town of Hull", "Hull"],
+  "client_aliases": ["the Town", "Town"],
+  "location_names": ["Nantasket"],
+  "location_placeholder": "[the service area]",
+  "facility_names": [],
+  "product_names": [],
+  "protect": ["Hull Wind", "Hull Redevelopment Authority", "Town of Southbridge", "Town of Westerly", "Town of Goderich", "Town of Prescott", "Town Meeting"],
+  "keep": ["Massachusetts", "MassDEP", "EPA Region 1", "New England", "Santa Monica", "the City"],
+  "ambiguous": [],
+  "notes": "Hull's pages mention Santa Monica, SWIP and 'the City' only as references to other clients; they are not sanitized here. 'Hull' inside graphic asset ids (e.g. 135_Hull_0091KO_2) is never touched."
+}
