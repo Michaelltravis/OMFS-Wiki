@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.management-team-and-additional-key-personnel
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Two strong plant-level bios plus a QA/QC bio that answers the "who checks the checkers" question with named audit and DMR-review duties at prior utilities, and a compliance-recovery story (Duncan) that maps directly onto a challenger pitch.
 reuse-notes: Names, year counts, prior employers, and facility assignments are individual-specific. The reusable moves are the state-regulator credibility line (naming direct coordination with the state agency), the "led plant startups and stepped in during emergency situations to restore compliance" sentence, and the practice of assigning one named operations manager per plant.

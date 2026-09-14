@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.media-relations-program
+section-order: 4
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim interactive education, local partnership, and community-wellness passage."
 reuse-notes: "Confirm all partners, event names, public-health organizations, and sponsor permissions before reuse."

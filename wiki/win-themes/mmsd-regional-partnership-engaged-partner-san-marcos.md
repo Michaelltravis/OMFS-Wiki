@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:36.1-jxn-water-jackson-mississippi
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A 19-year tenure used as the community-partnership proof rather than as a service claim, with three countable results — 70% of interns hired full time, a named university researcher partnership that produced more than 900M gallons of reclaimed water, and a river cleanup drawing 700 volunteers. The intern conversion rate is the number that answers a workforce-development promise.
 reuse-notes: Refresh the contract tenure figure and the reclaimed-water volume; both grow. Select this example when the pursuit client cares about university research partnerships or has its own pilot program, and pair it with the internship commitments so the percentage lands against a promise.

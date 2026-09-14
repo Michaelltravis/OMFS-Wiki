@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:28.maintenance-staffing-and-specialized-skill-sets
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: The South Canadian argument is the winner here — the operator will already be running the same on-site generation equipment at another plant in the portfolio from contract start, so the learning curve for the later installations is paid for in advance. It also prices the risk honestly (proprietary cartridges at roughly $20,000 each) and folds subcontractors into the same work management system as self-performed work.
 reuse-notes: Keep the multi-facility learning-transfer argument wherever the portfolio contains an early installation of technology arriving later elsewhere — it is the strongest sentence in this passage. Update equipment brand names, cartridge cost, and the schedule citations. Substitute the client's work management system for NexGen EAM. Verify the cartridge price before restating it and register it as a proof point.

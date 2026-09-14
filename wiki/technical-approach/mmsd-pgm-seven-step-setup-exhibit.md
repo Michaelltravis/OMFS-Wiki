@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for
+section-order: 5
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Turns a governance promise into a sequenced, deliverable-bearing plan — each step has a stated purpose and a named artifact (charter, governance handbook, program implementation plan, baseline report and risk register). Evaluators can score it.
 reuse-notes: Keep the goal / purpose / deliverable three-row structure. The due-diligence hours cited in Step 1 must be the pursuit's real figure. Map the seven steps onto the actual pre-term window so the schedule section and this exhibit agree.

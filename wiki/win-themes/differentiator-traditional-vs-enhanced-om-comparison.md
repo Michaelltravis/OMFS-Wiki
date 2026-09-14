@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:02.coordinated-system-operations-and-data-driven-performance
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A clean "old way vs. new way" contrast that reframes O&M as a performance-optimization discipline rather than routine maintenance. Because every label is industry-generic, the exhibit carries no client-specific information and is reusable essentially unchanged — and in an incumbent-displacement pursuit it lets the proposal characterize the status quo without naming or attacking the incumbent
 reuse-notes: The five rows are generic industry framing and travel as-is; what must be written fresh is the sentence before or after the exhibit that ties the contrast to the target client's specific reliability, overflow, or compliance risk. Confirm the "Jacobs Performance Approach" column label matches current firm terminology.

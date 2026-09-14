@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:31.3-3-key-personnel-for-cmms-implementation
+section-order: 1
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "A ready-made five-person CMMS implementation bench with role, credential, years, named NexGen implementations at other utilities, and a one-line 'benefit to the client' for each — the pattern that turns a staff list into an evaluation argument."
 reuse-notes: "Staff names, credentials, and named reference projects are verbatim and stay. Rewrite each 'Benefit to [CLIENT]' line for the target pursuit. Confirm current availability and years of experience before reuse. Note the source spells the CMMS Implementation Project Manager's surname 'Habermeyer' on page 129 and 'Habermayer' on page 130 — verify before external use."

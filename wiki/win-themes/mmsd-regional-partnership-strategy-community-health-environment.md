@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The first of four partnering strategies, and the one that converts "community benefit" into work packages an evaluator can price and schedule — training local contractors to install green infrastructure, a public fishing pier, public art along river corridors, dashboards. Every idea attaches to a program the client already runs, so nothing reads as a Jacobs vanity project.
 reuse-notes: Rebuild the named partner organizations and programs from the pursuit region; the green-infrastructure, recreation, and stewardship categories transfer intact. Keep the two-tier "going above and beyond" / "aiming higher" labeling so the client can see which items are committed and which are aspirational.

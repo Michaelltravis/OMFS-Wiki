@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.stakeholders-directory
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for three water-reclamation facilities and pump stations."
 quality: "Near-verbatim community-outreach leadership experience and communication-tools passage."
 reuse-notes: "Retain JC Solutions as the Jacobs/CERM JV; confirm the named communications lead, external partners, and local media outlets before reuse."

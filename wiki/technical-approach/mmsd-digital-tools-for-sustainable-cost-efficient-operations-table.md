@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.our-digital-one-water-connects-data-across-the-full-wastewat
+section-order: 3
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'The named-tool inventory an evaluator can score — seven products, each with how it is implemented and what it returns, and two hard numbers: Intelligent O&M has contributed to a 10-30% reduction in power and chemical consumption at Jacobs-managed facilities, and Dragonfly delivers approximately 30-40% cost savings compared to manual defect coding. This is the table to reach for whenever an RFP asks what technology the operator brings.'
 reuse-notes: Keep the tool names and the two savings figures (register both in proof-points/registry.md). Rewrite the "how implemented" and "benefits" cells around the pursuit's assets — substitute its storage, conveyance, and chemical systems for the tunnel, interceptor, and ferric/bisulfite references. Drop rows for tools not offered on the pursuit.

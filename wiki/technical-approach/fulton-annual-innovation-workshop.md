@@ -23,6 +23,8 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 superseded-by: [wiki/technical-approach/swip-annual-innovation-workshop.md, wiki/technical-approach/annual-innovation-workshop-program.md, wiki/technical-approach/mmsd-annual-innovation-workshop.md]
+section-id: fulton-county-2025:12.annual-innovation-workshop
+section-order: 1
 context: "JC Solutions (a Jacobs/CERM JV) annual innovation forum for a Southeast county multi-facility wastewater system."
 quality: "Near-verbatim annual forum that links prior-year results to forward-looking goals and treatment practice."
 reuse-notes: "Tailor participants, agenda, and priorities. The $250,000 value-added investment callout is source-backed value framing, not a fee or rate; retain only after proposal-team review. Retain JC Solutions as the Jacobs/CERM JV and attribute utility expertise to Jacobs."

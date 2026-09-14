@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for
+section-order: 4
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "Converts an abstract governance promise into seven sequenced steps, each with a purpose and a named deliverable an evaluator can hold the team to. Deliverable names (Program Leadership Charter, Governance Handbook, Baseline Report and Risk Register, Team Charter) are the portable asset."
 reuse-notes: "Reusable as a whole with only the client name and the due-diligence hour count changed. If the pursuit has a short pre-term window, compress steps 1–3 rather than dropping the baseline and governance deliverables, which are what make the promise auditable."

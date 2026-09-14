@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf
+section-order: 7
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: An "Above and Beyond / Value-Added Extras" callout that converts corporate bench depth into named, credentialed individuals with quantified reach (120 municipalities, 30+ years) and specific equipment expertise — the format to reuse whenever a section needs SME proof rather than a claim of resources.
 reuse-notes: Verify each SME's availability and current credentials with the staffing lead before reuse; the counts (municipalities served, years of experience) age and must be refreshed against the proof-point registry. These are Jacobs staff, not client staff — names stay verbatim.

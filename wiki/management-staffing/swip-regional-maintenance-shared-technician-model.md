@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:10.proven-innovative-regional-maintenance-team-approach
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A clear competitive-differentiation argument (standalone dedicated regional team vs. competitors who "borrow" staff) paired with a concrete shared-cost staffing mechanism — two new local hires whose time is split between the pursuit facility and other local projects — with a simple Venn-diagram visual concept that communicates the model at a glance.
 reuse-notes: The "standalone vs. borrowed" competitive claim should only be used where true and defensible; the shared-technician cost/coverage mechanism is a strong, reusable staffing-efficiency argument for any pursuit where a full-time dedicated specialist isn't cost-justified but response speed still matters.

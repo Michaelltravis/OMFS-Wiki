@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: The opening move of a winning technical approach — an italic commitment paragraph naming 24/7 compliance and the exact technology stack, followed by four paragraphs that prove the team did real due diligence (site visits, staff conversations, RFP/scope/draft-agreement review) and that flatter the client's pioneering achievements before proposing anything. Sets up the facility-by-facility matrix that follows.
 reuse-notes: The commitment paragraph and the due-diligence paragraph are fully reusable for any multi-facility O&M pursuit — swap the technology list and the regulatory order numbers. The "first of its kind" facility claims belong to this pursuit's client and must be replaced with the target client's own distinctions. Keep the flattery-then-aspiration move (naming the client's next ambition and offering to help achieve it); it is a strong incumbent-displacement device.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:10.1-1-leadership-team
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A clean answer to the "why two senior leaders instead of one" question — it splits operational delivery from strategic/regional work, ties the Deputy's second hat to a stated client priority, and closes with the chemistry argument (a year working together) that makes the pairing credible rather than decorative.
 reuse-notes: Substitute the two named leaders and the priorities being elevated to Deputy level; the split (day-to-day operations vs. support groups and regional partnership) is the reusable structure. Local residency and 24/7 availability are commitments — confirm before repeating them. Re-point the exhibit numbers.

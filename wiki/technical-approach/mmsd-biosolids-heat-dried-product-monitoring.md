@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-6-4-milorganite-production-and-biosolids-operations
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus a marketed heat-dried biosolids product line, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: Treats a marketed biosolids product line as a production operation with product quality, energy, and EPA 503 compliance monitored on the same footing as liquid treatment — the right posture for any client whose biosolids are a revenue product rather than a disposal cost. Names the specific monitored variables by shift and day.
 reuse-notes: Written for a client with a heat-drying operation and a branded product; for a client hauling Class B cake, keep the monitored-variable list (solids feed rate, dewatering efficiency, polymer use) and drop dryer/furnace and product temperature. EPA 503 product temperature archiving is a hard compliance requirement for Class A heat-dried product and should stay wherever it applies. JXN Water reporting reference (Exhibit IV-36) is a real client and stays verbatim.

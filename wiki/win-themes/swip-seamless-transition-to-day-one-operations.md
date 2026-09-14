@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:03.seamless-transition-to-day-one-operations
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Leads a transition narrative with people rather than schedule — an explicit invitation to qualified incumbent employees, framed as preserving hard-won site knowledge — then maps six mobilization workstreams to one concrete deliverable each, so the whole plan fits on a page an evaluator can score line by line.
 reuse-notes: The six workstream rows are a durable skeleton; swap the named platforms (Ignition v8.1, learning management system, the client's CMMS) for the target contract's actual systems and set the go-live month to the real contract start.

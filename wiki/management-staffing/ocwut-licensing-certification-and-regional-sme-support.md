@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:26.licensing-certification-professional-development
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement; Oklahoma operator and laboratory licensing requirements.
 quality: Near-verbatim link between license readiness, career development, regional depth, and subcontractor accountability.
 reuse-notes: Verify all license requirements, incentive programs, support-hour and network-size claims, subcontractor scope, and the operational-start commitment. Names, contract schedules, and specialty needs must be tailored.

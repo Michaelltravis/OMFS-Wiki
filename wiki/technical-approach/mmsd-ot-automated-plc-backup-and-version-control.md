@@ -23,6 +23,8 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md
+section-id: mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-control
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: Turns an IT housekeeping topic into an operations and compliance argument — verified baselines for rapid recovery, an audit-ready change history, approval workflows, and configuration drift alerts against unauthorized edits.
 reuse-notes: Confirm the controller and HMI vendors in use and the client's change-approval governance; align the audit-history claim with the regulatory reporting the target permit actually requires.

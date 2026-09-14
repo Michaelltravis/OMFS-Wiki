@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:02
+section-order: 3
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'The strongest single page of the executive summary — it converts "value-added" from a claim into a quantified, categorized balance sheet: $107M of investments and savings included in the base fee, $21–53M of potential future savings, up to $160M over 10 years, with each category carrying its own number and a commitment to deliver within the first 24 months.'
 reuse-notes: Every dollar figure is pursuit-specific and must be re-derived from the new pursuit's own value-added register before reuse; carry the figures into proof-points/registry.md with their as-of date and approval status. The reusable assets are the structure (investments included in base fee vs. potential future savings vs. additional identified ideas), the "services that would ordinarily require stand-alone consulting contracts" line, and the 24-month delivery commitment.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:26.3-3-reliability-enhancement-plans-improving-equipment-uptime
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities with digester gas cogeneration, 2028 challenger bid against an incumbent contract operator; WDNR
 quality: The deepest equipment-level reliability content in the section — adaptive alarm thresholds, safe operating ranges, predictive siloxane management, seasonal cooling and valve discipline, hot water loop balancing, and a unified health dashboard, each tied back to a shutdown mechanism it prevents. Names the engine fleet (Caterpillar units, White Superior) and the four reliability constraints.
 reuse-notes: Every lever here is digester-gas cogeneration specific; carry it to pursuits with gas-fueled engines or turbines and rebuild the constraint list from the client's own shutdown history. The closing paragraph — converting reliability triggers into standard work order processes in the CMMS — is the general pattern and transfers to any reliability plan.

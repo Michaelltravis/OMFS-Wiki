@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.overview-and-compliance-strategy
+section-order: 1
 context: County wastewater O&M pursuit supported by JC Solutions, a Jacobs/CERM joint venture.
 quality: Near-verbatim operating plan that distinguishes routine process-control work from client-performed discharge and pretreatment laboratory responsibilities.
 reuse-notes: Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV. Confirm Georgia EPD approvals, Consent Order obligations, laboratory responsibility split, cited contract articles, and third-party laboratory availability before reuse.

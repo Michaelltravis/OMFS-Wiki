@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.engineering-smes
+section-order: 3
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The most locally weighted page of the bench and the best example of hiring the other side of the table into the SME list — a former public works director who ran five bond initiatives and $100M+ in capital improvements, and a former state regulator with eight years inside the permitting division that reviews this client's projects. Both are credentials a competitor cannot match by adding corporate depth.
 reuse-notes: The local-hire entries are the point of this table and are entirely pursuit-specific — find the equivalent former client-side and former regulator staff in the region you are bidding. Verify the bond-initiative count, the $100M+ capital figure, the tenure at the state agency, and the 40,000-employee security population before restating them.

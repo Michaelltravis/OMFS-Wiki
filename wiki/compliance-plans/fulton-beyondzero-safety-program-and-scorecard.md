@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.safety-plan-and-management
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim safety-management framework connecting behavior-based observation, work controls, training, audits, and leading/lagging indicators.
 reuse-notes: Confirm all safety-program names, historical rates, training inventory, and site observations before use.

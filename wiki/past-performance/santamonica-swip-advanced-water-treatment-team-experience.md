@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:12.familiarity-with-advanced-water-treatment-technologies-and-c
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "Verbatim team-experience proof point for an advanced/potable-reuse treatment pursuit - a named-individual credential matrix against the specific regulatory frameworks (Title 22, GRRP) an evaluator is scoring, paired with a reach-back/bench-strength argument and a workforce-development commitment (intern program alignment)."
 reuse-notes: "VERBATIM per CLAUDE.md - past-performance blocks keep real named individuals, titles, and certification grades for the proposed City of Santa Monica SWIP operations team. QC before external reuse: confirm each individual is still assigned to this pursuit/contract and that certification grades (WW Grade V/AWT3, WW Grade V/AWT5) are current. The named comparison facilities (West Basin, Soquel Creek) are other real Jacobs projects cited as bench-strength proof points - reconfirm those are still appropriate to name before reuse in a different proposal."

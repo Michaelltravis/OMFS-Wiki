@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.industry-leading-expertise-in-comprehensive-biosolids-manage
+section-order: 1
 context: JC Solutions (a Jacobs/CERM JV) biosolids-management approach for a Southeast county multi-facility wastewater system.
 quality: Near-verbatim biosolids capability statement, site observations, and named technical bench.
 reuse-notes: Tailor facility conditions, equipment manufacturers, and local biosolids requirements. Preserve Jacobs attribution for the technical bench; use the JC Solutions JV voice for the delivery commitment.

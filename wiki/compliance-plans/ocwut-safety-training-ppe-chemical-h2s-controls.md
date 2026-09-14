@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.training-personal-protective-equipment-ppe-and-chemical-safe
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Strongest available example of turning a site visit observation into a funded startup commitment — elevated H2S readings that blocked personnel access are answered with Blackline personal gas monitors as part of the startup investment, an incumbent-displacement move that also carries the role-based training matrix and the RMP/PSM/SPCC alignment
 reuse-notes: The H2S access-restriction observation at North Canadian and Deer Creek came from an actual site visit — replace it with what your team observed at the target facilities rather than reusing the finding. Confirm the personal gas monitor commitment (Blackline here) is priced into the startup investment before promising it. Training list, role list, and refresh cadence are portable; adjust the role list to the proposed staffing plan.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-6-6-continuous-improvement
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: Continuous improvement stated as a quarterly cycle with named example actions (aeration control, chemical feed curves, dryer operating parameters tuned from existing SCADA data) rather than as an aspiration, and closed with corrective actions tracked to closure and summarized in quarterly reports. The "using existing data" framing is a low-cost credibility move.
 reuse-notes: Replace the three example improvement actions with ones drawn from the client's own known pain points — a generic aeration example on a plant without fine-bubble aeration undercuts the paragraph. Where a client has an existing continuous improvement or optimization program, say the quarterly cycle plugs into it rather than replaces it.

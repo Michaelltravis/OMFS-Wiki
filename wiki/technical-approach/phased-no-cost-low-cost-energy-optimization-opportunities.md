@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.collaboration-on-opportunities-for-phased-energy-optimizatio
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A clean, seven-item menu of controllable energy and chemical drivers with the sequencing logic clients want to hear — no-cost and low-cost first, then incentives and grants, then justified capital under the M&R/R&R framework.
 reuse-notes: Chemical names (polymer, ferrous chloride, lime) and the plant-specific DO observations are pursuit-specific — substitute the chemicals and observations from your own site visits. Replace the M&R/R&R fund framework with the pursuit's capital funding mechanism, and re-number Exhibit 1-26 to the new proposal's exhibit sequence.

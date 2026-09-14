@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:22
+section-order: 3
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The single most persuasive device in a challenger bid: a color-coded, asset-group-by-asset-group health check that names what is wrong today and pairs each finding with a specific, often quantified, Jacobs solution. Demonstrates due diligence and displaces the incumbent without ever naming them."
 reuse-notes: "The device travels; the findings do not. Rebuild the grid from the pursuit's own due diligence, keeping the three-part cell structure (asset group, numbered challenges, numbered solutions/value-add) and the green-to-red legend. The savings ranges (10–25% aeration, 20–40% chemical) are portfolio benchmarks and must be re-registered per pursuit."

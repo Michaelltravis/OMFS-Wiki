@@ -23,6 +23,8 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md
+section-id: mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min
+section-order: 5
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: A seven-step complaint protocol with a memorable credibility device — responders have "their noses tested" with industry-standard odor sticks to qualify as average-sensitivity observers — plus the bench claim (more than 20 odor technologists) and the goal of zero odor complaints.
 reuse-notes: Re-check the odor technologist count and local office count against current staffing before reuse, and name the technologist who leads the group for the target pursuit. Confirm which complaint intake channels (client system, operator website, hotline, social media) will actually be stood up.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.jacobs-process-control-strategy-tailored-to-each-ocwut-facil
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A three-phase process control roadmap (transition to month 6, month 6 to year 2, year 2 through the contract term) paired with the specific UPCP parameters that get set, reviewed weekly, and refreshed annually. It answers the evaluator's "when will we see it" question without over-promising in year one.
 reuse-notes: The phase content is facility-specific — rebuild the bullets from the new client's conditions and CIP schedule. The UPCP parameter list (SRT, MLSS, DO setpoints, blanket depth, TSS/BOD/ammonia/chlorine residual targets below permit limits) is universal to activated-sludge O&M and can be reused nearly as written; confirm the contract schedule reference and the review cadence. Exhibit 1-12 (graphic 116_009385) renders the same content as a three-column phase graphic.

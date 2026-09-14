@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:13.fluid-continuity-enabling-uninterrupted-excellence-in-water
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim transition, staff-retention, six-step workforce-transfer, leadership, and communications approach.
 reuse-notes: Replace client and facility references, schedule, compensation terms, roles, and regulatory requirements for the target pursuit.

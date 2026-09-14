@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:11.3-union-and-labor-relations
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The clearest statement in the library of how Jacobs takes over a represented workforce — pre-proposal meetings already held with six named unions, an explicit commitment to honor the CBA, a step-by-step represented-employee hiring sequence including weekly notification to the union, and a twice-yearly performance roundtable. Carries a union lead operator's quote from a comparable transition as third-party proof.
 reuse-notes: Confirm which unions have actually been met before the proposal is submitted — the credibility of this passage depends on the meetings being real. Replace the union list, the named Labor Relations Lead, and the successor-agreement terms. The commitment to honor the CBA must be cleared with legal and the labor relations lead for each pursuit. Testimonial is from the City of Wilmington, DE Wastewater Treatment Facility; confirm permission status before external use.

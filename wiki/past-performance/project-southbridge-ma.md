@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:13.3-3-mgd
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The only in-state (Massachusetts) reference and the most recent mobilization in the set — unanimous selection, a dated takeover from the previous contractor (February 1, 2025), a named technology commitment (Dragonfly AI enhanced CCTV), and a client testimonial from the Director of Public Works.
 reuse-notes: "VERBATIM — real client name, contact, and quote; past-performance blocks are exempt from client-name generalization. QC before external use: confirm John Jovan, Jr. is still Town Manager and Rich Benoit still Director of Public Works, and that phone/email are current; reconfirm the $1.7M annual project fee and the $85 million nitrogen reduction upgrade value (the latter is drawn from the proposal's Section 3 Exhibit 3-5, p. 11, not from the Appendix B page) with the account team. Register each figure in proof-points/registry.md before it appears in a live draft."

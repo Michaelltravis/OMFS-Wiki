@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: fulton-county-2025:03
+section-order: 1
 context: Southeast US county wastewater O&M pursuit (North Fulton), 2025, bid as JC Solutions, a JV of Jacobs and Atlanta-based minority-owned CERM; three water reclamation facilities (32 MGD MBR, 15 MGD MBR, 2.6 MGD) plus 28 wastewater and 5 potable water pump stations; MBR-heavy membrane operations, $750K workforce development commitment, incumbent engineering presence; Georgia EPD regulatory regime.
 quality: The strongest available model for opening a joint-venture executive summary — it establishes the value proposition in one italic lead, then justifies the JV structure by naming exactly which strength each partner contributes, backed by corporate scale figures. The "complementary strengths" construction is what keeps a JV from reading as two firms stapled together.
 reuse-notes: Update corporate scale figures (revenue year, O&M backlog, professional counts) and the local partner's founding year, staff count, and certification each cycle. The JV voice must be preserved — capability is attributed to the national partner, local presence and workforce development to the local partner. Replace the named legal entity block and regional staff count for the new geography.

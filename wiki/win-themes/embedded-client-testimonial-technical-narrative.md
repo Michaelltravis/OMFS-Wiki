@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.collection-system-operations
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A placement pattern distinct from the standard past-performance appendix — a full client testimonial dropped as a sidebar directly inside the technical-approach narrative, positioned exactly where the evaluator is reading about the capability (collections O&M) the quote validates. The quote itself carries genuine, checkable proof (32-year tenure, named annual industry awards since 2012) rather than generic praise.
 reuse-notes: This is a recipe describing how the quote is deployed; the quote itself lives in the paired prose block. Source a fresh, currently authorized quote for the target pursuit and confirm the quoted individual consents to being quoted in a new proposal — never reuse this reference relationship to support a different bid.

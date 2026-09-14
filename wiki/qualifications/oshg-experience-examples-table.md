@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.on-site-sodium-hypochlorite-generation
+section-order: 3
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A four-row reference table whose Project Features column does real work — each row names a distinct operating challenge (chlorine release alarming and security, an extremely tight seasonal TRC limit, military demand variability, Class 1-A reuse injection) rather than repeating the same capability four times.
 reuse-notes: Contract durations are stated as "since <year> (N years)" and must be recalculated to the new proposal year. Verify each contract is still active before listing it. The Rio Rancho row is a Wedeco advanced-oxidation system, not OSHG — keep it only where advanced oxidation or reuse injection is relevant to the new scope.

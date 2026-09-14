@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:01
+section-order: 4
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Carries the three highest-value corporate proof points in a single tight passage — the large-utility O&M portfolio with capacities (Baltimore 180 MGD, Wilmington 134 MGD, Baton Rouge 300 MGD, Jackson 145 MGD), the Jackson emergency-oversight turnaround, and the "perfect compliance and perfect reporting of non-compliance" ethics line that closes with the go-to-firm-for-change claim
 reuse-notes: "Verify the portfolio capacities and the since-1980 date against current corporate qualifications before restating; swap the named innovations for the ones actually offered in the target pursuit and point to the correct section number. Client EAM-platform statements are tagged nexgen-eam — approved-for-external-use: pending — sourced from a live pursuit."

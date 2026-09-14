@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration
+section-order: 1
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, unionized workforce under a CBA, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "Rare, specific planner-to-craft ratio benchmark (industry ~1:20, target 1:30–1:40) plus an honest treatment of CBA-driven shift structure and a stated willingness to explore 7-day scheduling with the unions."
 reuse-notes: "Recheck the planner ratio against the target site's craft headcount before committing to it, and replace the CBA shift language with the target's labor agreement terms — or delete it where there is no union."

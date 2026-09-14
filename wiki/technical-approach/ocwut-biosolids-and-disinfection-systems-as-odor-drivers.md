@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+section-id: ocwut-16-26:05.biosolids-and-disinfection-systems-as-odor-drivers
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Connects a large land application program (~170 permitted sites, >13,000 acres) and a chlorine-gas-to-OSHG conversion to odor performance — the link most odor sections miss, and one the client's own requirements made explicit.
 reuse-notes: Site counts and acreage are this pursuit's program scale — substitute the new pursuit's biosolids program. Keep the OSHG transition paragraph only where the client is actually converting from chlorine gas. This block stays distinct from the Sludge Management, Solids Management, and Operational Integration plan blocks.

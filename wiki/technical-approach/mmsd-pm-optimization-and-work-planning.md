@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:26.3-5-cm-and-work-order-management
+section-order: 1
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "Concrete, auditable PM optimization mechanics — PMO cycle, job-plan content, operator-driven requests, kitting, QR tagging, and a PM-Plus approval flow — rather than generic PM boilerplate."
 reuse-notes: "Swap the CMMS platform name (NEXGEN here) for the client's system, confirm the governance committee names exist in the target contract, and tailor the PM-Plus/non-routine work approval flow to the client's task-order language."

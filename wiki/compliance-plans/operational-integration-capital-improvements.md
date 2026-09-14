@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:28.integration-approach-and-ocwut-s-planned-capital-improvement
+section-order: 2
 context: Southcentral U.S. municipal water utility trust competitive wastewater O&M procurement with planned disinfection, biosolids, and solids-disposal capital improvements.
 quality: Provides a repeatable, construction-to-operations handover framework with staffing, training, maintenance, and risk controls tied to commissioning.
 reuse-notes: Tailor the capital projects, regulatory references, staffing impacts, and owner roles to the target utility; retain the construction-to-operations boundary and project-specific integration-plan logic.

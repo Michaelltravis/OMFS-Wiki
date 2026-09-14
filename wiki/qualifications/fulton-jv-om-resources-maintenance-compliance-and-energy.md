@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:14.o-m-resources
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit (North Fulton), 2025, bid as JC Solutions, a JV of Jacobs and Atlanta-based minority-owned CERM; three water reclamation facilities (32 MGD MBR, 15 MGD MBR, 2.6 MGD) plus 28 wastewater and 5 potable water pump stations; MBR-heavy membrane operations, $750K workforce development commitment, incumbent engineering presence; Georgia EPD regulatory regime."
 quality: "A functional O&M bench that connects the onsite team to capital integration, asset management, maintenance, compliance, cyber, laboratory, and energy specialists."
 reuse-notes: "State that these are Jacobs resources only where the current teaming arrangement supports that claim. Confirm availability, current titles, numbers, and the named North Shore outcome before reuse."

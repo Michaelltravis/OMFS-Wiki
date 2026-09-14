@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:09.key-current-and-future-challenges
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim bridge from local, client-specific knowledge to the SMEs that support practical facility improvement.
 reuse-notes: The named prior assignments and Devon Trezevant's experience are source-specific and must be independently confirmed. Replace [CLIENT] with the target client only after a comparable history is established.

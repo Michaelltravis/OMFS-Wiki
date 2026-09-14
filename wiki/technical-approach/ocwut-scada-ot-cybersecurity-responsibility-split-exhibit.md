@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.phase-1-establishing-a-shared-baseline-for-process-control-p
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A one-graphic answer to the question every utility asks about an O&M operator and its SCADA — who touches what. Naming the owner-retained items first, before claiming any scope, is what makes the transparency claim land.
 reuse-notes: The line items are this client's systems; rebuild the asset list from the pursuit's actual architecture and confirm each assignment with the client before publishing. The three-column device (owner-managed / shared / contractor-managed) is the reusable pattern. Source is a Venn-style graphic (asset ID 119_009385); the row assignments below are reconstructed from the exhibit's text layer, so verify against the render before reuse.

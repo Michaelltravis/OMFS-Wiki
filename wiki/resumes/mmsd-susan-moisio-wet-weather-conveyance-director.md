@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The industry-recognition card for wet weather and CSO work — 16 years inside a major combined-sewer utility, then strategic advisory on Thames Tideway, Miami-Dade ocean outfall legislation and VCS Denmark, with named external recognition.
 reuse-notes: Third-party recognition (One Water Council fellowship, Global Water Intelligence listings) carries a year and must be restated with its date. Use this card on combined-sewer and wet-weather pursuits; it is over-weight on a simple treatment-only bid.

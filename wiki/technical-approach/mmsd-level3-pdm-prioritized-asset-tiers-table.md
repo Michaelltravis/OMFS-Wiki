@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:32.4-1-proposed-pdm-technologies-for-mmsd-s-treatment-facilitie
+section-order: 2
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "A criticality-tiered monitoring plan that names the equipment, the parameter to be trended, and the specific sensor or analysis for each — the artifact that proves a PdM offer was engineered against the client's asset base rather than sold from a catalog."
 reuse-notes: "Re-tier the equipment list against the target facility's own criticality rankings; the three-tier structure and the four-column format carry over unchanged. Confirm sensor types against what the target plant's PLCs and historian can actually route."

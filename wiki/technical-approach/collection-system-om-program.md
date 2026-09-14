@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.the-town-s-collection-system-and-its-challenges
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Detailed, technology-enabled collection system approach with hard cadence commitments (1-hour overflow response; 20% cleaned/CCTV'd annually for 5 years then 10%) and a differentiated I/I methodology that separates saltwater intrusion from rainfall-driven I/I — with SmartCover cited as delivering results up to 12 months sooner than the traditional 18-to-24-month isolation study. Carries a 32-year client testimonial as embedded third-party proof.
 reuse-notes: Cadence numbers (1-hour overflow response, 20%/10% CCTV cycle) are this contract's commitments — match them to the target system's size and the RFP's required service levels. Technology brand names (SmartCover, SL-RAT, WATS, In-Pipe Technology, Wet Well Wizard) should be confirmed as still-current vendor tools. The Auburn, CA testimonial requires the quoted individual's current permission before reuse. Sections beyond "I/I Reduction Support" are drawn from pp. 29-30 of the source and are maintained by the block owner for those pages.

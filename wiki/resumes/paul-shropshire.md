@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:17
+section-order: 1
 context: Proposed site Operations Manager for the most publicly visible and odor-sensitive of four plants in a Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator; ODEQ regulatory regime.
 quality: "The strongest large-utility operations-leadership resume in this set — 37 years, two 75-MGD plants plus a biosolids facility, a combined $27.4M budget, indirect oversight of 132 licensed professionals, and 126+ pump stations. Carries budget and headcount numbers that most O&M resumes lack, and matches an odor-sensitive, publicly visible site."
 reuse-notes: "VERBATIM resume — real name and licenses retained. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Paul Shropshire's current role, availability, and years of experience (37 total, 12 with Jacobs at time of writing); (2) verify the Texas Class A Wastewater Operator License is current and check the status of the Class A OK WW Operator License reciprocity, which was in progress at time of writing — an in-progress reciprocity must be restated accurately, not upgraded; (3) 'Horsby Bend' appears in two headings and 'Hornsby Bend' in the body of the source — use the correct spelling, Hornsby Bend, on reuse; (4) the San Marcos, Austin, and Austin Water Utility descriptions name real clients and carry budget figures — clear with the account teams before external use."

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.community-outreach-plan
+section-order: 1
 context: "JC Solutions (a Jacobs/CERM JV) community-relations planning and stakeholder-directory approach for a Southeast county multi-facility wastewater system."
 quality: "Near-verbatim community-relations plan and directory framework with measurable planning components and local communication tactics."
 reuse-notes: "Tailor the workshop, plan submission timing, stakeholder lists, communication channels, facilities, and community events. Confirm Full Circle participation and the Baton Rouge example before external use."

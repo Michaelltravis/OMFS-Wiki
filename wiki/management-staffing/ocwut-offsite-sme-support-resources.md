@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.off-site-sme-support-resources
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The clearest "deep bench" exhibit in the library — 26 named SMEs by discipline, each flagged for prior experience on the client's system and for out-of-state PE licensure, with the SME team lead carrying a quantified innovation claim (10–30% chemical and power reduction) and a 200+ site footprint.
 reuse-notes: The SME discipline list transfers almost intact to any large multi-facility O&M pursuit; swap the names and re-check who actually has client experience. The two legend flags — prior experience on this client's system, and PE licensed in a state other than the client's — are the device that makes the exhibit persuasive, and both need re-verification per pursuit. The 10-30% chemical and power reduction figure is a portfolio claim, not a site-specific one; keep its "at utilities nationwide" qualifier.

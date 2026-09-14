@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:24.risk-management-process-safety-and-environmental-emergency-p
+section-order: 1
 context: Multi-facility Oklahoma wastewater operations with chemical thresholds, petroleum tanks, emergency plans, and annual hazardous-chemical reporting.
 quality: Converts risk, process safety, spill prevention, emergency planning, and petroleum-tank obligations into executable routines.
 reuse-notes: Confirm chemical thresholds, facilities, tanks, annual deadlines, and emergency-plan names against the target scope.

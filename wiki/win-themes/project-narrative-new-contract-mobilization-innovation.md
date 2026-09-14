@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:13.3-3-mgd
+section-order: 2
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The template for referencing a very recent contract award where there is not yet a multi-year performance record — it reframes 'new' as 'actively investing' rather than 'unproven', anchored by a unanimous selection, a dated February 1, 2025 takeover, and a named technology commitment.
 reuse-notes: "Use this pattern only for genuinely recent contract starts; do not stretch it to cover a contract with years of history that would support a stronger outcomes-based narrative. Swap in whatever technology or process investments are actually planned or funded for the project being cited — do not invent commitments that were not made. The reference client, contact, and testimonial are stated verbatim in past-performance/project-southbridge-ma.md, which also carries the $85 million nitrogen reduction upgrade figure from the proposal's Section 3 exhibit."

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-7-9-unified-compliance-oversight-and-continuous-improvemen
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: A dated, checkable commitment — a baseline environmental compliance audit inside the first 90 days — followed by the recurring governance that keeps it live, and a short closing that ties the compliance section back to the client's environmental leadership. The 90-day audit is the single most useful sentence here because it is a transition-period deliverable an evaluator can hold the operator to.
 reuse-notes: The 90-day baseline audit is a commitment; confirm it against the transition plan so the two sections give the same date. Adjust the semi-annual compliance review cadence to whatever the client's governance calendar uses. The air-permit, chemical handling, solids, and odor-control list should be trimmed to the obligations the client actually carries.

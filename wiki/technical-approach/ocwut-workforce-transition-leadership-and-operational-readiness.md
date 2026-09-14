@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: '2026-09-07'
 last-verified: '2026-09-07'
+section-id: ocwut-16-26:29.workforce-transition-staffing-readiness-and-retention
+section-order: 1
 context: Southcentral US water-utility-trust wastewater O&M pursuit; four wastewater facilities, pump-station interface, biosolids program, and elevated-H2S site conditions.
 quality: Near-verbatim workforce and operational-readiness language that connects employee continuity, accountable leadership, and the operating realities of a newly commissioned facility.
 reuse-notes: Tailor personnel names, facility systems, staffing commitments, and regulatory certifications. Pair with the separate risk matrix and schedule; do not merge with Operational Integration or Solids plan blocks.

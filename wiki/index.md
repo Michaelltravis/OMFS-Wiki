@@ -1,6 +1,6 @@
 # Wiki Index
 
-Master index of all content blocks, regenerated from block frontmatter (`python work/regen_index.py`). Content is sourced from `hull-wwtf-om-2026` or `santamonica-swip-om-2025` (see each block's `source:` frontmatter field). See `graphics/hull-wwtf-om-2026.md` and `graphics/santamonica-swip-om-2025.md` for the exhibit/graphics catalogs.
+Master index of all content blocks, regenerated from block frontmatter (`python work/regen_index.py`). Sources: `fulton-county-2025`, `hull-wwtf-om-2026`, `mmsd-om-2028`, `ocwut-16-26`, `santamonica-swip-om-2025` (see each block's `source:` frontmatter field and `graphics/<source>.md` for the exhibit/graphics catalogs). The **By source section** facet at the end lists every block in its proposal's reading order.
 
 **Verbatim-categories QC warning:** `resumes/` and `past-performance/` are VERBATIM content (real names, contacts, and client identities) — the proposal team must QC these before any external use. Other categories use `[CLIENT]`-style generalized placeholders and are safe to reuse across pursuits as-is.
 
@@ -5152,3 +5152,1371 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Resume — Tim Durham (Operations Manager, North Canadian/Witcher)](resumes/tim-durham.md)
 - [Project Description — South Huron Wastewater Treatment Plant O&M (South Huron Valley Utility Authority, Rockwood, MI)](past-performance/project-south-huron-mi.md)
 - [Project Team's Experience with Advanced Water Treatment Facilities - City of Santa Monica SWIP](past-performance/santamonica-swip-advanced-water-treatment-team-experience.md)
+
+## By source section
+
+_Every block in its source proposal's reading order, under the section it was drawn from (`section-id` / `section-order`, set by `work/assign_block_sections.py` from `verbatim/<source>/sections.json`). Sections with no blocks are omitted. Pull a whole section with `python work/assemble_section.py <source> "<section>"`._
+
+### fulton-county-2025
+
+- **Wayfinding Table** (`fulton-county-2025:02`, pp. 4–7)
+  - 1. [RFP Wayfinding Crosswalk — Evaluation Criterion to Proposal Page](win-themes/rfp-wayfinding-crosswalk-pattern.md) — p0004¶2 · table · preferred
+- **Section 1 | Executive Summary** (`fulton-county-2025:03`, pp. 8–12)
+  - 1. [Executive Summary Opening — JV Partnership Value Proposition and Combined Strengths](win-themes/exec-summary-jv-partnership-value-proposition.md) — p0009¶4 · prose · preferred
+  - 2. [Executive Summary — Comprehensive JV Solution and Client Benefits](win-themes/exec-summary-comprehensive-jv-solution-benefits.md) — p0010¶2 · prose · preferred
+  - 3. [Executive Summary — JV Project Understanding and Proactive Response](win-themes/exec-summary-jv-project-understanding-and-response.md) — p0011¶4 · prose · preferred
+  - 4. [Executive Summary — Maintenance Challenges and Targeted Solutions Table](win-themes/exec-summary-maintenance-challenges-and-targeted-solutions.md) — p0011¶9 · table · preferred
+  - 5. [Executive Summary — Operational Benefits and Future Readiness Table](win-themes/exec-summary-operational-benefits-and-future-readiness.md) — p0011¶10 · table · preferred
+  - 6. [Executive Summary — JV Strategic Partner Close](win-themes/exec-summary-jv-strategic-partner-close.md) — p0011¶14 · prose · preferred
+  - **2.1 | JC Solutions' Comprehensive Approach to Operations & Maintenance** (`fulton-county-2025:05`, p. 13)
+    - 1. [Comprehensive O&M Approach and Transition Commitments](technical-approach/fulton-comprehensive-om-approach-and-transition.md) — p0013¶3 · prose · preferred
+  - **2.3 | Understanding of and Commitment to Project Deliverables Including Facilities Plans** (`fulton-county-2025:07`, pp. 14–16)
+    - 1. [Deliverables Commitment: Annual, Transition, and Asset-Management Plans](technical-approach/fulton-deliverables-commitment-annual-and-transition-plans-table.md) — p0014¶7 · table · preferred
+    - 2. [Deliverables Commitment: Records, Safety, Outreach, and Staffing Plans](technical-approach/fulton-deliverables-commitment-records-safety-and-staffing-table.md) — p0015¶1 · table · preferred
+  - **2.4 | Approach to Project Execution and Administration** (`fulton-county-2025:08`, pp. 17–18)
+    - 1. [Project Execution Through Integrated Management Systems](technical-approach/fulton-project-execution-management-systems.md) — p0017¶2 · prose · preferred
+    - **Customer Service** (`fulton-county-2025:08.customer-service`, pp. 17–18)
+      - 1. [Secure KPI Dashboard and Transparency Framework](technical-approach/fulton-secure-kpi-dashboard-and-transparency.md) — p0018¶1 · prose · preferred
+    - **PROJECT UNDERSTANDING** (`fulton-county-2025:09.project-understanding`, p. 19)
+      - 1. [Three-Facility MBR Portfolio and Pump-Station Operating Context](technical-approach/fulton-mbr-facility-portfolio-and-pump-stations.md) — p0019¶3 · prose · preferred
+    - **LITTLE RIVER PLANT** (`fulton-county-2025:09.little-river-plant`, pp. 19–21)
+      - 1. [MBR Facility Asset Inventory Pattern](technical-approach/fulton-facility-asset-inventory.md) — p0019¶13 · table · preferred
+      - **Planned Improvements to Meet Future Needs** (`fulton-county-2025:09.planned-improvements-to-meet-future-needs`, p. 20)
+        - 1. [Current and Future MBR Challenges with Coordinated Commissioning Need](technical-approach/fulton-current-future-challenges-and-commissioning.md) — p0020¶2 · prose · preferred
+      - **Key Current and Future Challenges** (`fulton-county-2025:09.key-current-and-future-challenges`, pp. 20–21)
+        - 1. [Trusted-Partner Experience and Comprehensive SME Support](technical-approach/fulton-trusted-partner-and-comprehensive-sme-support.md) — p0020¶9 · prose · preferred
+    - **APPROACH TO ACHIEVING THE COUNTY’S GOALS** (`fulton-county-2025:09.approach-to-achieving-the-county-s-goals`, p. 21)
+      - 1. [Transparent Partnership, Community Stewardship, and Facility Appearance](technical-approach/fulton-transparent-community-partnership.md) — p0021¶6 · prose · preferred
+    - **1. Meaningful partnership built on transparency, accountability, and investment in community** (`fulton-county-2025:09.1-meaningful-partnership-built-on-transparency-accountabilit`, pp. 21–22)
+      - 1. [Compliance Accountability, Jacobs Reach-Back, and CERM Workforce Development](technical-approach/fulton-compliance-workforce-reachback.md) — p0022¶2 · prose · preferred
+    - **4. Comprehensive support for every aspect of wastewater operations** (`fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera`, pp. 22–26)
+      - 1. [MBR Optimization, Predictive Maintenance, Odor, Biosolids, and Purposeful Innovation](technical-approach/fulton-mbr-maintenance-odor-biosolids-innovation.md) — p0023¶1 · prose · preferred
+      - 2. [Transitioned-Staff Satisfaction and Industry Recognition](technical-approach/fulton-workforce-satisfaction-and-industry-recognition.md) — p0023¶5 · prose · preferred
+      - 3. [Successful Experience at Other Locations: Multi-Facility and MBR Operations](technical-approach/fulton-successful-experience-multi-facility-mbr.md) — p0024¶1 · prose · preferred
+      - 4. [Successful Experience at Other Locations: Transition, Asset Management, and Community Partnership](technical-approach/fulton-successful-experience-transition-asset-community.md) — p0026¶2 · prose · preferred
+  - **2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance** (`fulton-county-2025:10`, pp. 27–40)
+    - 1. [JV Value-Added Innovation Program Opening](win-themes/fulton-value-added-innovation-program.md) — p0027¶2 · prose · preferred
+    - **VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE** (`fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee`, pp. 27–30)
+      - 1. [Energy Management Strategy and Operating Actions](win-themes/fulton-energy-management-strategy.md) — p0028¶2 · prose · preferred
+      - 2. [JV Regional Support, Training, and Maintenance Intelligence Benefits](win-themes/fulton-regional-training-maintenance-intelligence.md) — p0028¶2 · prose · preferred
+      - 3. [Process Optimization, Cybersecurity, and Asset-Management Benefits](win-themes/fulton-process-security-asset-management-benefits.md) — p0029¶2 · prose · preferred
+      - 4. [Local Workforce, Digital Twin, and Smart Collections Benefits](win-themes/fulton-workforce-digital-twin-collections-benefits.md) — p0030¶2 · prose · preferred
+    - **AVAILABLE ADDITIONAL DIGITAL TOOLS FOR NEXT LEVEL OPTIMIZATION OFFERINGS** (`fulton-county-2025:10.available-additional-digital-tools-for-next-level-optimizati`, p. 31)
+      - 1. [Additional Digital Tools for Next-Level Optimization](win-themes/fulton-additional-digital-tools.md) — p0031¶2 · prose · preferred
+      - **Benefits to Fulton County** (`fulton-county-2025:10.benefits-to-fulton-county`, pp. 33–34)
+        - 1. [Energy Management Benefits and Strategic Value](win-themes/fulton-energy-management-benefits.md) — p0033¶11 · prose · preferred
+      - **Investment Value and Cost Savings** (`fulton-county-2025:10.investment-value-and-cost-savings`, p. 34)
+        - 1. [Energy Management Investment Value and Cost Savings](win-themes/fulton-energy-management-investment-value-and-savings.md) — p0034¶3 · prose · preferred
+      - **Maintenance Planner/Scheduler Powered by Palantir** (`fulton-county-2025:10.maintenance-planner-scheduler-powered-by-palantir`, pp. 34–35)
+        - 1. [Maintenance Planner/Scheduler Powered by Palantir](win-themes/fulton-maintenance-planner-scheduler-palantir.md) — p0034¶16 · prose · preferred
+        - 2. [Maintenance AI Assistant Powered by Palantir](win-themes/fulton-maintenance-ai-assistant-palantir.md) — p0035¶4 · prose · preferred
+      - **Replica Digital Twin: Modeling for Process Optimization and Employee Training** (`fulton-county-2025:10.replica-digital-twin-modeling-for-process-optimization-and-e`, pp. 36–39)
+        - 1. [Replica Digital Twin for Process Optimization and Operator Training](win-themes/fulton-replica-digital-twin-optimization-training.md) — p0036¶5 · prose · preferred
+        - 2. [AquaDNA Smart System Optimization and Pump-Station Deragging](win-themes/fulton-aquadna-smart-system-optimization.md) — p0038¶1 · prose · preferred
+    - **LONG HISTORY OF SERVICE IN ATLANTA AND THE COUNTY** (`fulton-county-2025:11.long-history-of-service-in-atlanta-and-the-county`, p. 40)
+      - 1. [Jacobs Technical Bench and CERM-Led Local Workforce Development](management-staffing/fulton-jv-regional-workforce-and-technical-bench.md) — p0040¶4 · prose · preferred
+    - **QUALIFIED AND LICENSED PERSONNEL** (`fulton-county-2025:11.qualified-and-licensed-personnel`, pp. 41–42)
+      - 1. [Licensed and Certified Personnel Roster](management-staffing/fulton-licensed-personnel-roster.md) — p0041¶2 · roster · preferred
+    - **LEADERSHIP APPROACH AND DEVELOPMENT** (`fulton-county-2025:11.leadership-approach-and-development`, p. 43)
+      - 1. [Servant Leadership, Certification Advancement, and Regional Compatibility](management-staffing/fulton-servant-leadership-and-regional-compatibility.md) — p0043¶2 · prose · preferred
+    - **GUIDING PRINCIPLES** (`fulton-county-2025:12.guiding-principles`, p. 44)
+      - 1. [O&M Guiding Principles, Facilities Plans, and Networked QA/QC Support](management-staffing/fulton-guiding-principles-facilities-plans-and-qaqc-network.md) — p0044¶3 · prose · preferred
+    - **EXTENSIVE SYSTEM OF QA/QC MEASURES AND TECHNICAL SUPPORT** (`fulton-county-2025:12.extensive-system-of-qa-qc-measures-and-technical-support`, pp. 44–46)
+      - 1. [Internal Delivery and QA/QC Functional Support Matrix](management-staffing/fulton-delivery-qaqc-functional-support-matrix.md) — p0046¶4 · table · preferred
+    - **STAFFING PLAN** (`fulton-county-2025:12.staffing-plan`, pp. 47–53)
+      - 1. [Three-Facility Staffing Plan and FTE Roster](management-staffing/fulton-staffing-plan-and-fte-roster.md) — p0047¶2 · roster · preferred
+      - **Subcontractors** (`fulton-county-2025:12.subcontractors`, p. 50)
+        - 1. [Subcontractor Scopes and Jacobs/CERM O&M Support Bench](management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md) — p0050¶3 · table · preferred
+      - **Building Employee Culture: True Belonging with Diversity, Equality, and Inclusion** (`fulton-county-2025:12.building-employee-culture-true-belonging-with-diversity-equa`, pp. 52–53)
+        - 1. [Inclusive Culture and Employee-Network Development](management-staffing/fulton-inclusive-culture-and-employee-networks.md) — p0052¶2 · prose · fallback
+    - **TRAINING PLAN** (`fulton-county-2025:12.training-plan`, pp. 54–57)
+      - 1. [Training, Certification, and Career-Development Program](management-staffing/fulton-training-certification-and-career-development.md) — p0054¶4 · prose · preferred
+      - **Workforce Development and Staffing Strategy** (`fulton-county-2025:12.workforce-development-and-staffing-strategy`, p. 55)
+        - 1. [CERM-Led Workforce Development and Technical-College Pipeline](management-staffing/fulton-cerm-workforce-development-pipeline.md) — p0055¶12 · prose · preferred
+      - **Recruiting, Retention, and Succession Planning** (`fulton-county-2025:12.recruiting-retention-and-succession-planning`, p. 57)
+        - 1. [Recruiting, Retention, and Succession Planning](management-staffing/fulton-recruiting-retention-and-succession.md) — p0057¶2 · prose · preferred
+    - **OPERATION & MAINTENANCE PLANS** (`fulton-county-2025:12.operation-maintenance-plans`, pp. 58–69)
+      - 1. [Process Control, Data Management, and Operator Rounds](technical-approach/fulton-process-control-data-management-and-operator-rounds.md) — p0058¶2 · prose · fallback
+      - **Process Optimization** (`fulton-county-2025:12.process-optimization`, p. 60)
+        - 1. [Process Optimization, Fermentation, and Phosphorus Removal](technical-approach/fulton-process-optimization-fermentation-phosphorus.md) — p0060¶2 · prose · preferred
+      - **Swing Zones** (`fulton-county-2025:12.swing-zones`, p. 62)
+        - 1. [Swing Zones and Internal Mixed Liquor Recycle Optimization](technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md) — p0062¶2 · prose · preferred
+      - **Little River WRF Internal Mixed Liquor Recycle** (`fulton-county-2025:12.little-river-wrf-internal-mixed-liquor-recycle`, pp. 62–63)
+        - 1. [IMLR Piping Evaluation and Membrane Commissioning Support](technical-approach/fulton-imlr-piping-and-membrane-commissioning.md) — p0063¶1 · prose · preferred
+      - **Chemical Cleaning to Maintain Membrane Performance** (`fulton-county-2025:12.chemical-cleaning-to-maintain-membrane-performance`, pp. 63–64)
+        - 1. [Membrane Cleaning, Alkalinity Addition, and Mixed-Liquor Filterability](technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md) — p0063¶14 · prose · preferred
+      - **Tracking Membrane Performance** (`fulton-county-2025:12.tracking-membrane-performance`, pp. 65–67)
+        - 1. [Membrane Monitoring, SCADA Capability, and Peak-Flow Testing](technical-approach/fulton-membrane-monitoring-and-scada-capability.md) — p0065¶3 · prose · preferred
+      - **Properly Operating Scrubbers to Avoid Offsite Odor** (`fulton-county-2025:12.properly-operating-scrubbers-to-avoid-offsite-odor`, pp. 67–68)
+        - 1. [Scrubber Optimization for Offsite Odor Control](technical-approach/fulton-odor-control-scrubber-optimization.md) — p0067¶8 · prose · preferred
+      - **Reducing Real-Time/Peak Power Consumption** (`fulton-county-2025:12.reducing-real-time-peak-power-consumption`, p. 68)
+        - 1. [Energy Management, Equipment Availability, and Ammonia-Based Aeration](technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md) — p0068¶3 · prose · preferred
+      - **Ultraviolet Disinfection** (`fulton-county-2025:12.ultraviolet-disinfection`, p. 69)
+        - 1. [UV Disinfection, Solids Dewatering, and Potable-Water Protection](technical-approach/fulton-uv-solids-and-potable-water-protection.md) — p0069¶6 · prose · preferred
+      - **Corporate Capability and Approach** (`fulton-county-2025:12.corporate-capability-and-approach`, p. 70)
+        - 1. [JV Regulatory Compliance Program and Transparent Reporting](compliance-plans/fulton-regulatory-compliance-program.md) — p0070¶3 · prose · preferred
+      - **Training** (`fulton-county-2025:12.training`, pp. 70–71)
+        - 1. [JV Compliance Training and Oversight Tools](compliance-plans/fulton-compliance-training-and-tools.md) — p0070¶14 · prose · preferred
+        - 2. [Laboratory QA/QC and Compliance Dashboard](compliance-plans/fulton-laboratory-qaqc-and-compliance-dashboard.md) — p0071¶1 · prose · preferred
+      - **Electronic Document Management System** (`fulton-county-2025:12.electronic-document-management-system`, p. 72)
+        - 1. [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md) — p0072¶3 · prose · preferred
+      - **Environmental Management Plan** (`fulton-county-2025:12.environmental-management-plan`, p. 73)
+        - 1. [Environmental Management, Transparent Reporting, and Sampling Strategy](compliance-plans/fulton-environmental-management-and-sampling-strategy.md) — p0073¶2 · prose · preferred
+      - **Overview and Compliance Strategy** (`fulton-county-2025:12.overview-and-compliance-strategy`, pp. 73–74)
+        - 1. [Laboratory Management and Compliance Plan](compliance-plans/fulton-laboratory-management-and-compliance-plan.md) — p0073¶8 · prose · preferred
+      - **Sampling Program** (`fulton-county-2025:12.sampling-program`, p. 74)
+        - 1. [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md) — p0074¶5 · prose · preferred
+      - **Industry-Leading Expertise in Comprehensive Biosolids Management Solutions** (`fulton-county-2025:12.industry-leading-expertise-in-comprehensive-biosolids-manage`, p. 76)
+        - 1. [Biosolids Capability and Facility Assessment](technical-approach/fulton-biosolids-capability-and-facility-assessment.md) — p0076¶3 · prose · preferred
+      - **Little River WRF** (`fulton-county-2025:12.little-river-wrf`, p. 77)
+        - 1. [Biosolids Transfer, Beneficial Reuse, and Dewatering Optimization](technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md) — p0077¶3 · prose · preferred
+      - **Temporary and/or Emergency Dewatering** (`fulton-county-2025:12.temporary-and-or-emergency-dewatering`, p. 78)
+        - 1. [Biosolids Resilience, Emerging Contaminants, and Dryer Support](technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md) — p0078¶3 · prose · preferred
+    - **ODOR AND NOISE MITIGATION** (`fulton-county-2025:12.odor-and-noise-mitigation`, pp. 79–80)
+      - 1. [Odor Control Baseline and Routine Monitoring](technical-approach/fulton-odor-control-baseline-and-monitoring.md) — p0079¶2 · prose · preferred
+      - **Odor and Noise Control Program** (`fulton-county-2025:12.odor-and-noise-control-program`, p. 79)
+        - 1. [Odor and Noise Complaint Response and Source Evaluation](technical-approach/fulton-odor-complaint-response-and-source-evaluation.md) — p0079¶6 · prose · preferred
+      - **Addressing Odor or Noise Complaints** (`fulton-county-2025:12.addressing-odor-or-noise-complaints`, pp. 79–80)
+        - 1. [Odor Emissions Study and Routine Housekeeping](technical-approach/fulton-odor-emissions-study-and-housekeeping.md) — p0079¶12 · prose · preferred
+    - **ASSET MANAGEMENT AND MAINTENANCE** (`fulton-county-2025:12.asset-management-and-maintenance`, pp. 81–87)
+      - 1. [JV Asset Management System and Technical Support](technical-approach/fulton-asset-management-system-and-technical-support.md) — p0081¶2 · prose · preferred
+      - **Asset Management-centered Maintenance Approach** (`fulton-county-2025:12.asset-management-centered-maintenance-approach`, pp. 82–83)
+        - 1. [ISO 55001-Aligned AMS, CMMS, and Risk Workshop](technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md) — p0082¶8 · prose · preferred
+      - **JC Solutions’ AMS Elements Built on the 10-Box Model** (`fulton-county-2025:12.jc-solutions-ams-elements-built-on-the-10-box-model`, pp. 83–86)
+        - 1. [Lifecycle Maintenance, Risk, and Performance Management](technical-approach/fulton-lifecycle-maintenance-risk-and-performance-management.md) — p0084¶1 · prose · preferred
+      - **Key Focus Areas for Asset Management and Maintenance** (`fulton-county-2025:12.key-focus-areas-for-asset-management-and-maintenance`, pp. 86–87)
+        - 1. [MBR Facility Maintenance Priorities](technical-approach/fulton-mbr-facility-maintenance-priorities.md) — p0086¶4 · prose · fallback
+      - **Key Findings of Our Initial Facilities Assessments** (`fulton-county-2025:12.key-findings-of-our-initial-facilities-assessments`, p. 88)
+        - 1. [Pump Station Predictive Maintenance and Condition Monitoring](technical-approach/fulton-pump-station-predictive-maintenance.md) — p0088¶4 · prose · preferred
+      - **Site Housekeeping and Facility Appearance** (`fulton-county-2025:12.site-housekeeping-and-facility-appearance`, pp. 89–90)
+        - 1. [Facility Appearance Standard and MBR Maintenance Experience](technical-approach/fulton-facility-appearance-and-mbr-maintenance-experience.md) — p0089¶8 · prose · preferred
+      - **Equipment Performance Testing Plan** (`fulton-county-2025:12.equipment-performance-testing-plan`, p. 90)
+        - 1. [Equipment Performance Testing Plan](technical-approach/fulton-equipment-performance-testing-plan.md) — p0090¶3 · prose · preferred
+    - **SAFETY PLAN AND MANAGEMENT** (`fulton-county-2025:12.safety-plan-and-management`, pp. 91–93)
+      - 1. [BeyondZero Safety Culture, Work Controls, and Safety Scorecard](compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md) — p0091¶2 · prose · preferred
+    - **SECURITY PLAN** (`fulton-county-2025:12.security-plan`, pp. 94–96)
+      - 1. [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md) — p0094¶2 · prose · preferred
+    - **CYBERSECURITY** (`fulton-county-2025:12.cybersecurity`, pp. 96–97)
+      - 1. [ICS Cybersecurity, 3-2-1-1 Backups, and Disaster Recovery](compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md) — p0096¶22 · prose · preferred
+    - **EMERGENCY RESPONSE AND DISASTER PREPAREDNESS PLAN** (`fulton-county-2025:12.emergency-response-and-disaster-preparedness-plan`, pp. 98–100)
+      - 1. [Emergency Response, 24/7 Reporting, and Regional Disaster Support](compliance-plans/fulton-emergency-response-regional-disaster-support.md) — p0098¶2 · prose · preferred
+    - **CUSTOMER SERVICE PLAN** (`fulton-county-2025:12.customer-service-plan`, pp. 101–102)
+      - 1. [JV Customer Service Plan and Accountability](technical-approach/fulton-customer-service-plan.md) — p0101¶2 · prose · preferred
+    - **COMMUNICATIONS AND REPORTING** (`fulton-county-2025:12.communications-and-reporting`, pp. 102–103)
+      - 1. [JV Communications Cadence, Reporting, and Dashboard Transparency](technical-approach/fulton-communications-cadence-and-reporting.md) — p0102¶4 · prose · fallback
+    - **ANNUAL INNOVATION WORKSHOP** (`fulton-county-2025:12.annual-innovation-workshop`, pp. 103–104)
+      - 1. [JV Annual Innovation Workshop](technical-approach/fulton-annual-innovation-workshop.md) — p0103¶4 · prose · fallback
+    - **PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN** (`fulton-county-2025:12.public-education-and-community-outreach-plan`, pp. 105–106)
+      - 1. [JV Community Outreach Team and Public Relations Framework](technical-approach/fulton-community-outreach-team-and-framework.md) — p0105¶2 · prose · preferred
+      - **Public Relations Plan** (`fulton-county-2025:12.public-relations-plan`, p. 106)
+        - 1. [JV Community Concerns, Complaint Response, and Regulatory Engagement](technical-approach/fulton-community-concerns-and-regulatory-engagement.md) — p0106¶17 · prose · preferred
+      - **Community Outreach Plan** (`fulton-county-2025:12.community-outreach-plan`, p. 108)
+        - 1. [JV Community Relations Plan and Stakeholder Directory](technical-approach/fulton-community-relations-plan-and-stakeholder-directory.md) — p0108¶3 · prose · preferred
+      - **Stakeholders Directory** (`fulton-county-2025:12.stakeholders-directory`, pp. 108–109)
+        - 1. [Community Outreach Leadership and Communication Tools](win-themes/fulton-community-outreach-leadership-and-communication-tools.md) — p0109¶1 · prose · preferred
+      - **School Program** (`fulton-county-2025:12.school-program`, pp. 109–110)
+        - 1. [School STEM and Career Exploration Program](win-themes/fulton-school-stem-and-career-exploration-program.md) — p0109¶11 · prose · preferred
+      - **Public Information Display** (`fulton-county-2025:12.public-information-display`, p. 110)
+        - 1. [Public Information Displays, Tours, and Speakers Bureau](win-themes/fulton-public-information-displays-tours-and-speakers-bureau.md) — p0110¶3 · prose · preferred
+      - **Media Relations Program** (`fulton-county-2025:12.media-relations-program`, pp. 110–114)
+        - 1. [Proactive Media Relations Program](win-themes/fulton-proactive-media-relations-program.md) — p0110¶20 · prose · preferred
+        - 2. [Community Internship and Workforce Development Partnerships](win-themes/fulton-community-internship-and-workforce-development-partnerships.md) — p0111¶1 · prose · preferred
+        - 3. [Community Organization and Water Stewardship Partnerships](win-themes/fulton-community-organization-and-water-stewardship-partnerships.md) — p0112¶1 · prose · preferred
+        - 4. [Interactive Community Education and Wellness Partnerships](win-themes/fulton-interactive-community-education-and-wellness-partnerships.md) — p0113¶1 · prose · preferred
+        - **Office)** (`fulton-county-2025:12.office`, p. 114)
+          - 1. [Community Engagement Accountability and Relief Support](win-themes/fulton-community-engagement-accountability-and-relief-support.md) — p0114¶3 · prose · preferred
+    - **Fluid Continuity: Enabling Uninterrupted Excellence in Water Services** (`fulton-county-2025:13.fluid-continuity-enabling-uninterrupted-excellence-in-water`, pp. 115–116)
+      - 1. [Transition Continuity and Staff Transfer](technical-approach/fulton-transition-continuity-and-staff-transfer.md) — p0115¶4 · prose · preferred
+    - **45-Day Schedule for Smooth Transition of Operations and Related Systems** (`fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-operations-and-rela`, p. 120)
+      - 1. [Transition Schedule and Exit Transition Plan](technical-approach/fulton-transition-schedule-and-exit-plan.md) — p0120¶12 · table · preferred
+- **Section 3 | Project Team Qualifications, Qualifications of Key Personnel** (`fulton-county-2025:14`, pp. 126–167)
+  - 1. [JC Solutions JV Team Organization and Key Personnel](management-staffing/fulton-team-organization-and-key-personnel.md) — p0127¶2 · roster · preferred
+    - **Subcontractors** (`fulton-county-2025:14.subcontractors`, pp. 129–158)
+      - 1. [Team Organization Subcontractors and Consulting Bench](management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md) — p0129¶9 · table · preferred
+      - 2. [Resume — Anthony Benavidez (Project Manager)](resumes/anthony-benavidez.md) — p0130¶2 · prose · preferred
+      - 3. [Resume — Devon Trezevant (Operations and Compliance Manager)](resumes/devon-trezevant.md) — p0133¶3 · prose · preferred
+      - 4. [Resume — Nathan Dahl (Maintenance Manager)](resumes/nathan-dahl.md) — p0136¶3 · prose · preferred
+      - 5. [Resume — David Pitocchelli (Little River Plant Manager)](resumes/david-pitocchelli-little-river-plant-manager.md) — p0139¶3 · prose · preferred
+      - 6. [Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)](resumes/fulton-nathan-callison-johns-creek-plant-manager.md) — p0142¶1 · prose · fallback
+      - 7. [Resume — Mark Huggard, CMRT (Big Creek Plant Manager)](resumes/fulton-mark-huggard-big-creek-plant-manager.md) — p0145¶1 · prose · preferred
+      - 8. [Resume — Tim Durham (Senior Supervisor | Operations Management Director)](resumes/fulton-tim-durham-senior-supervisor.md) — p0148¶2 · prose · preferred
+      - 9. [Resume — Benjamin Bagwell (Senior Strategic Supervisor)](resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md) — p0151¶2 · prose · preferred
+      - 10. [Resume — Terrell Gibbs, PhD, PE (Workforce Development and Training)](resumes/terrell-gibbs.md) — p0153¶1 · prose · preferred
+      - 11. [Resume — Scott Levesque, PE (MBR Specialist and Wastewater Process)](resumes/scott-levesque.md) — p0156¶2 · prose · preferred
+  - **EXECUTIVE SPONSORS AND SENIOR SUPERVISORS** (`fulton-county-2025:14.executive-sponsors-and-senior-supervisors`, p. 159)
+    - 1. [JC Solutions JV Executive Sponsors and Senior Supervisors](qualifications/fulton-jv-executive-sponsors-and-senior-supervisors.md) — p0159¶2 · roster · preferred
+  - **ADDITIONAL MANAGEMENT AND LEADERSHIP** (`fulton-county-2025:14.additional-management-and-leadership`, pp. 160–161)
+    - 1. [JC Solutions JV Additional Management and Leadership](qualifications/fulton-jv-additional-management-and-leadership.md) — p0160¶2 · roster · preferred
+  - **O&M RESOURCES** (`fulton-county-2025:14.o-m-resources`, pp. 161–167)
+    - 1. [JC Solutions JV O&M Resources — Maintenance, Compliance, Digital, Laboratory, and Energy](qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md) — p0161¶3 · roster · preferred
+    - 2. [JC Solutions JV O&M Resources — Operations, Safety, Biosolids, Workforce, Procurement, and Administration](qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md) — p0163¶1 · roster · preferred
+    - **Jorge Bermudez** (`fulton-county-2025:14.jorge-bermudez`, pp. 163–167)
+      - 1. [JC Solutions JV Consulting Resources — Membrane, Process, and Wet-Weather Support](qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md) — p0165¶2 · roster · preferred
+      - 2. [JC Solutions JV Consulting Resources — Digital, Solids, Energy, and Commissioning](qualifications/fulton-jv-consulting-resources-digital-solids-energy-and-commissioning.md) — p0166¶1 · roster · preferred
+  - **JACOBS’ EXPERIENCE OPERATING US TREATMENT FACILITIES** (`fulton-county-2025:15.jacobs-experience-operating-us-treatment-facilities`, p. 168)
+    - 1. [Jacobs US Treatment Facilities O&M Portfolio](past-performance/fulton-us-treatment-facilities-portfolio.md) — p0168¶4 · prose · preferred
+  - **JACOBS WASTEWATER ENGINEERING AND MBR EXPERIENCE** (`fulton-county-2025:15.jacobs-wastewater-engineering-and-mbr-experience`, pp. 168–171)
+    - 1. [Jacobs MBR Design and Commissioning Portfolio](past-performance/fulton-mbr-design-and-commissioning-portfolio.md) — p0168¶6 · prose · preferred
+    - 2. [MBR Operations, Engineering Depth, and Named SME Experience](past-performance/fulton-mbr-operations-engineering-and-sme-experience.md) — p0169¶5 · prose · preferred
+    - 3. [Exhibit 4-1 — Jacobs MBR Experience Highlights: Additional Experience](past-performance/fulton-mbr-experience-highlights-additional-table.md) — p0170¶2 · table · preferred
+    - 4. [Exhibit 4-1 — Jacobs MBR Experience Highlights: Operations Experience](past-performance/fulton-mbr-experience-highlights-operations-table.md) — p0170¶2 · table · preferred
+  - **JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE** (`fulton-county-2025:15.jacobs-collection-system-pump-station-experience`, pp. 171–180)
+    - 1. [Jacobs Collection System Pump Station Experience](past-performance/fulton-pump-station-operations-experience.md) — p0171¶5 · prose · preferred
+    - 2. [Traverse City Regional WWTP DBO — Reference Overview](past-performance/fulton-traverse-city-dbo-overview.md) — p0174¶2 · prose · preferred
+    - 3. [Traverse City Regional WWTP DBO — Accomplishments and Performance](past-performance/fulton-traverse-city-dbo-accomplishments.md) — p0175¶2 · prose · preferred
+    - 4. [Spokane County Regional Water Reclamation Facility DBO — Reference Overview](past-performance/fulton-spokane-county-dbo-overview.md) — p0176¶2 · prose · preferred
+    - 5. [Spokane County Regional Water Reclamation Facility DBO — Delivery and Performance](past-performance/fulton-spokane-county-dbo-performance.md) — p0177¶2 · prose · preferred
+    - 6. [Clovis WWTP Reuse Facility — Reference Overview](past-performance/fulton-clovis-reuse-facility-overview.md) — p0178¶2 · prose · preferred
+    - 7. [Clovis WWTP Reuse Facility — Operating Performance and Safety](past-performance/fulton-clovis-reuse-facility-performance.md) — p0179¶1 · prose · fallback
+  - **ENVIRONMENTAL PROTECTION AND MITIGATION** (`fulton-county-2025:16.environmental-protection-and-mitigation`, p. 181)
+    - 1. [JV Environmental Protection and Transparent Compliance Reporting Commitment](compliance-plans/fulton-environmental-protection-and-reporting-commitment.md) — p0181¶3 · prose · fallback
+  - **ENVIRONMENTAL COMPLIANCE RECORD** (`fulton-county-2025:16.environmental-compliance-record`, pp. 181–182)
+    - 1. [Traverse City Environmental Compliance Record — Five-Year Reference Disclosure](compliance-plans/fulton-traverse-city-environmental-compliance-record.md) — p0181¶11 · prose · preferred
+    - **Reference Project #1: Traverse City Regional WWTP, City of Traverse, Michigan** (`fulton-county-2025:16.reference-project-1-traverse-city-regional-wwtp-city-of-trav`, p. 181)
+      - 1. [Spokane County Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-spokane-environmental-compliance-record.md) — p0181¶18 · prose · preferred
+    - **Reference Project #3: Clovis WWTP Reuse Facility, City of Clovis, California** (`fulton-county-2025:16.reference-project-3-clovis-wwtp-reuse-facility-city-of-clovi`, p. 182)
+      - 1. [Clovis Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-clovis-environmental-compliance-record.md) — p0182¶1 · prose · preferred
+  - **KEY PERSONNEL AND PLAN FOR COMMITMENT** (`fulton-county-2025:17.key-personnel-and-plan-for-commitment`, pp. 184–185)
+    - 1. [Key Personnel Availability and Commitment Plan](management-staffing/fulton-key-personnel-availability-and-commitment.md) — p0184¶3 · roster · preferred
+- **Section 7 | Local Preference** (`fulton-county-2025:18`, pp. 185–187)
+  - 1. [Local Preference Supporting Documentation](qualifications/fulton-local-preference-supporting-documentation.md) — p0186¶2 · prose · preferred
+
+### hull-wwtf-om-2026
+
+- **Section 1 - Cover Letter** (`hull-wwtf-om-2026:01`, pp. 3–4)
+  - 1. [Cover Letter Opening — Coastal Operating Context and Named Leadership With a Bench Behind It](win-themes/cover-letter-coastal-context-and-named-leadership.md) — p0003¶7 · prose · preferred
+  - 2. [Cover Letter Structure Pattern — Challenge, Team, Transition, Commitment](win-themes/cover-letter-structure-pattern.md) — p0003¶7 · recipe · preferred
+  - 3. [Cover Letter Close — Structured Transition, Workforce Continuity, and Long-Term Partnership](win-themes/cover-letter-transition-commitment-and-partnership-close.md) — p0003¶9 · prose · preferred
+  - **POSITIONING HULL’S WASTEWATER PROGRAM FOR ITS NEXT PHASE** (`hull-wwtf-om-2026:02.positioning-hull-s-wastewater-program-for-its-next-phase`, p. 5)
+    - 1. [Executive Summary Opening — "Ready for a Change" Readiness Framing (Recipe)](win-themes/exec-summary-client-readiness-framing.md) — p0005¶4 · recipe · preferred
+    - 2. [Executive Summary Opening — "Ready for a Change" Positioning and System Profile](win-themes/exec-summary-readiness-and-system-profile-opening.md) — p0005¶4 · prose · preferred
+    - 3. [Value Proposition Table — Approach / Operational Impact / Value to Client (Exhibit 2-1)](win-themes/value-proposition-table-approach-impact-value.md) — p0005¶8 · table · preferred
+  - **LEADERSHIP-DRIVEN OPERATIONS AND ACCOUNTABILITY** (`hull-wwtf-om-2026:02.leadership-driven-operations-and-accountability`, p. 6)
+    - 1. [Leadership Team Introduction and "Extension of Client Staff" Coordinated-Operations Narrative](win-themes/leadership-team-and-coordinated-operations-narrative.md) — p0006¶3 · prose · preferred
+  - **COORDINATED SYSTEM OPERATIONS AND DATA-DRIVEN PERFORMANCE** (`hull-wwtf-om-2026:02.coordinated-system-operations-and-data-driven-performance`, pp. 6–7)
+    - 1. [Differentiator Device — Traditional vs. Jacobs Performance O&M Comparison (Exhibit 2-3)](win-themes/differentiator-traditional-vs-enhanced-om-comparison.md) — p0006¶13 · table · preferred
+  - **PROVEN OPERATIONS IN COASTAL AND COMPLEX SYSTEMS** (`hull-wwtf-om-2026:02.proven-operations-in-coastal-and-complex-systems`, p. 7)
+    - 1. [Proof-Point Examples — Track Record in Coastal and Complex Wastewater Systems](win-themes/proof-point-examples-coastal-complex-systems.md) — p0007¶6 · prose · preferred
+  - **CONTINUOUS IMPROVEMENT THROUGH AN ANNUAL INNOVATION WORKSHOP** (`hull-wwtf-om-2026:02.continuous-improvement-through-an-annual-innovation-workshop`, pp. 7–8)
+    - 1. [Executive Summary Partnership Beat — Continuous Improvement Through an Annual Innovation Workshop](win-themes/exec-summary-annual-innovation-workshop-partnership-narrative.md) — p0007¶15 · prose · preferred
+  - **OUR VALUE-ADDED APPROACH** (`hull-wwtf-om-2026:02.our-value-added-approach`, p. 8)
+    - 1. [Value-Added Approach — No-Additional-Cost Enhancements as a Quantified Value Story](win-themes/value-added-no-cost-enhancements-framing.md) — p0008¶12 · prose · preferred
+- **Section 3 - Firm Qualifications and Experience** (`hull-wwtf-om-2026:03`, pp. 10–18)
+  - 1. [Corporate Entity Details, Legal Standing, and Litigation/Termination Disclosure](qualifications/corporate-entity-legal-qualifications.md) — p0010¶2 · prose · preferred
+    - **CORPORATE PROFILE** (`hull-wwtf-om-2026:03.corporate-profile`, p. 10)
+      - 1. [OMFS Corporate Scale and O&M Portfolio Proof Points](qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md) — p0010¶5 · prose · preferred
+      - 2. [Workforce Culture, Retention, and Employer-of-Choice Positioning](qualifications/workforce-culture-retention-employer-of-choice-value-prop.md) — p0010¶7 · prose · preferred
+      - **Robust Regional Resources** (`hull-wwtf-om-2026:03.robust-regional-resources`, p. 12)
+        - 1. [Regional Presence and Regulatory Relationships as a Qualifications Differentiator](qualifications/regional-presence-local-support-value-prop.md) — p0012¶3 · prose · preferred
+    - **EXPERIENCE OPERATING WASTEWATER TREATMENT PLANTS** (`hull-wwtf-om-2026:03.experience-operating-wastewater-treatment-plants`, p. 12)
+      - 1. [Track Record Operating Facilities and Collection Systems of Comparable Scale](qualifications/comparable-scale-track-record-treatment-and-collection.md) — p0012¶7 · prose · preferred
+    - **EXPERIENCE WITH LOW-PRESSURE SEWER SYSTEMS** (`hull-wwtf-om-2026:03.experience-with-low-pressure-sewer-systems`, p. 13)
+      - 1. [Low-Pressure Sewer and Grinder Pump System O&M Experience](technical-approach/low-pressure-sewer-grinder-pump-om-experience.md) — p0013¶5 · prose · preferred
+  - **FINANCIAL QUALIFICATIONS** (`hull-wwtf-om-2026:03.financial-qualifications`, p. 14)
+    - 1. [Financial Strength, Audited Reporting, and Low-Risk Partner Positioning](qualifications/financial-strength-low-risk-partner-value-prop.md) — p0014¶2 · prose · preferred
+  - **REFERENCES** (`hull-wwtf-om-2026:03.references`, p. 14)
+    - 1. [Reference Portfolio Comparability and Similar Coastal Facilities](qualifications/reference-portfolio-comparability-and-similar-facilities.md) — p0014¶7 · prose · preferred
+    - **CONTRACT TERMINATION** (`hull-wwtf-om-2026:03.contract-termination`, pp. 14–15)
+      - 1. [Section 3 Reference Tables — Exhibit 3-5 (Reference Projects) and Exhibit 3-3 (Representative Experience)](past-performance/client-references.md) — p0015¶2 · table · preferred
+      - 2. [Representative Past-Performance Narrative Patterns](qualifications/representative-past-performance-narrative-patterns.md) — p0015¶2 · recipe · preferred
+      - 3. [Past-Performance Project Description — Structure & Sidebar Pattern](win-themes/past-performance-narrative-structure.md) — p0015¶2 · recipe · preferred
+      - **Full O&M Services for Water and Wastewater Treatment Facilities** (`hull-wwtf-om-2026:03.full-o-m-services-for-water-and-wastewater-treatment-facilit`, p. 16)
+        - 1. [Full-Service Lifecycle Capability and Capital Planning Support](qualifications/full-service-lifecycle-capability-and-capital-planning-support.md) — p0016¶5 · prose · preferred
+      - **Health and Safety** (`hull-wwtf-om-2026:03.health-and-safety`, p. 17)
+        - 1. [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md) — p0017¶5 · prose · preferred
+  - **CULTURE-DRIVEN LEADERSHIP FOR THE TOWN OF HULL** (`hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull`, pp. 19–24)
+    - 1. [Blended On-Site/Off-Site Organizational Structure for O&M Contracts](management-staffing/blended-onsite-offsite-org-structure.md) — p0019¶3 · prose · preferred
+    - **KEY STAFF AND MANAGEMENT TEAM** (`hull-wwtf-om-2026:04.key-staff-and-management-team`, p. 20)
+      - 1. [Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)](management-staffing/key-personnel-role-descriptions.md) — p0020¶2 · prose · preferred
+      - 2. [Proposed Team Org-Chart Roster — On-Site FTEs and Off-Site Regional/Technical Support](management-staffing/proposed-team-org-chart-roster.md) — p0020¶8 · table · preferred
+      - 3. [Proposed Team Roster — Town of Hull WWTF and Collection System O&M (2026)](resumes/proposed-team-roster-hull-wwtf-om-2026.md) — p0020¶25 · roster · preferred
+    - **TECHNICAL SUPPORT TEAM** (`hull-wwtf-om-2026:04.technical-support-team`, pp. 21–22)
+      - 1. [Regional Technical Support Bench — Committed-Hours Model](management-staffing/regional-technical-support-bench.md) — p0021¶2 · roster · preferred
+      - **Staff Certifications and Training** (`hull-wwtf-om-2026:04.staff-certifications-and-training`, p. 22)
+        - 1. [Staff Certification, Training, and Advancement Incentive Program](management-staffing/staff-certification-training-program.md) — p0022¶18 · prose · preferred
+      - **Coverage, Shifts, and On‑Call Structure** (`hull-wwtf-om-2026:04.coverage-shifts-and-on-call-structure`, p. 22)
+        - 1. [Staffing Coverage, Shift, and On-Call Structure for Small WWTF/Collection O&M Contracts](management-staffing/staffing-coverage-shift-oncall-plan.md) — p0022¶26 · prose · preferred
+      - **Proven Transition and Mobilization Strategy** (`hull-wwtf-om-2026:04.proven-transition-and-mobilization-strategy`, pp. 22–23)
+        - 1. [Retention-First Workforce Continuity Strategy for O&M Transitions](management-staffing/workforce-retention-transition-continuity.md) — p0023¶1 · prose · preferred
+    - **BACKUP RESOURCE AVAILABILITY TO AUGMENT ONSITE STAFF AND FILL TEMPORARY POSITIONS** (`hull-wwtf-om-2026:04.backup-resource-availability-to-augment-onsite-staff-and-fil`, pp. 23–24)
+      - 1. [Surge Staffing and Backup Resource Availability via a Regional Resource Planning Group](management-staffing/surge-staffing-backup-resource-planning.md) — p0023¶15 · prose · preferred
+  - **PROJECT UNDERSTANDING** (`hull-wwtf-om-2026:05.project-understanding`, pp. 25–26)
+    - 1. [Project Understanding Narrative and Goals/Challenges/Response Crosswalk Matrix](technical-approach/project-understanding-goals-challenges-response-matrix.md) — p0025¶3 · prose · preferred
+  - **OUR O&M APPROACH BUILT ON PROVEN, TRANSPARENT SYSTEMS** (`hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-systems`, pp. 26–28)
+    - 1. [O&M Core Management Systems Framework](technical-approach/om-management-systems-framework.md) — p0026¶4 · prose · fallback
+    - **TRANSPARENT COMMUNICATIONS AND REPORTING** (`hull-wwtf-om-2026:05.transparent-communications-and-reporting`, pp. 27–28)
+      - 1. [Tiered Communication and Reporting Protocol (Day-to-Day through Annual)](technical-approach/tiered-communication-reporting-protocol.md) — p0027¶2 · prose · preferred
+      - **Annual Innovation Workshops Drive Continuous Improvement and Innovation** (`hull-wwtf-om-2026:05.annual-innovation-workshops-drive-continuous-improvement-and`, pp. 27–28)
+        - 1. [Annual Innovation Workshop Program](technical-approach/annual-innovation-workshop-program.md) — p0027¶5 · prose · fallback
+    - **PROCESS TOOLS AND OVERSIGHT** (`hull-wwtf-om-2026:05.process-tools-and-oversight`, p. 28)
+      - 1. [Process Control and Compliance Tool Set (UPCPs, Sampling Plan, Data Management, STT)](technical-approach/process-control-and-compliance-tools.md) — p0028¶10 · prose · preferred
+    - **OUR PHASED APPROACH TO SUSTAINABLE OPERATIONS** (`hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations`, pp. 29–32)
+      - 1. [Phased Baseline-to-Optimization O&M Transition Approach](technical-approach/phased-baseline-to-optimization-approach.md) — p0029¶2 · prose · preferred
+      - **Execution and Transparency** (`hull-wwtf-om-2026:05.execution-and-transparency`, pp. 30–31)
+        - 1. [Six-Point Compliance Program](compliance-plans/six-point-compliance-program.md) — p0030¶5 · prose · preferred
+        - 2. [Regulatory Compliance Reporting and Real-Time Dashboard](compliance-plans/regulatory-compliance-reporting-dashboard.md) — p0030¶6 · prose · preferred
+      - **Laboratory Management and Data Integrity** (`hull-wwtf-om-2026:05.laboratory-management-and-data-integrity`, pp. 31–32)
+        - 1. [Laboratory Management and Data Integrity Program](compliance-plans/laboratory-management-data-integrity-program.md) — p0031¶10 · prose · preferred
+    - **BIOSOLIDS AND RESIDUALS MANAGEMENT** (`hull-wwtf-om-2026:05.biosolids-and-residuals-management`, pp. 32–33)
+      - 1. [Biosolids and Residuals Management Program (Stabilization, Thickening, Inventory)](technical-approach/biosolids-residuals-management-program.md) — p0032¶3 · prose · preferred
+      - **Hauling and Disposal** (`hull-wwtf-om-2026:05.hauling-and-disposal`, p. 33)
+        - 1. [Biosolids Hauling, Disposal, and Regional Market-Risk Management](technical-approach/biosolids-hauling-disposal-and-market-risk-management.md) — p0033¶5 · prose · preferred
+      - **The Town’s Collection System and Its Challenges** (`hull-wwtf-om-2026:05.the-town-s-collection-system-and-its-challenges`, p. 34)
+        - 1. [Collection System O&M Program (I/I Reduction, CCTV/Cleaning, SmartCover Monitoring)](technical-approach/collection-system-om-program.md) — p0034¶4 · prose · preferred
+      - **Collection System Operations** (`hull-wwtf-om-2026:05.collection-system-operations`, p. 34)
+        - 1. [Embedding a Client Testimonial Pull-Quote Inside a Technical Narrative Section](win-themes/embedded-client-testimonial-technical-narrative.md) — p0034¶10 · recipe · preferred
+    - **SITE-SPECIFIC ODOR CONTROL PLAN** (`hull-wwtf-om-2026:05.site-specific-odor-control-plan`, pp. 36–38)
+      - 1. [Site-Specific Odor Control Program and Evaluation Framework](technical-approach/site-specific-odor-control-program.md) — p0036¶7 · prose · preferred
+      - **Proactive Monitoring and Early Detection** (`hull-wwtf-om-2026:05.proactive-monitoring-and-early-detection`, pp. 36–37)
+        - 1. [Proven Odor Control Improvement Case Study Callout (Town of Southbridge, MA)](win-themes/embedded-differentiator-case-study-callout.md) — p0037¶1 · prose · preferred
+    - **OPERATIONAL TECHNOLOGY (OT)/SCADA/ INTELLIGENT O&M** (`hull-wwtf-om-2026:05.operational-technology-ot-scada-intelligent-o-m`, pp. 38–39)
+      - 1. [OT and SCADA Modernization Roadmap for Wastewater O&M](technical-approach/ot-scada-modernization-roadmap.md) — p0038¶7 · prose · preferred
+    - **INTEGRATED SAFETY, SECURITY, AND CYBER RESILIENCE** (`hull-wwtf-om-2026:05.integrated-safety-security-and-cyber-resilience`, pp. 39–40)
+      - 1. [Integrated Safety, Security, and Cybersecurity Program for Wastewater Facilities](compliance-plans/integrated-safety-security-cybersecurity-program.md) — p0039¶10 · prose · preferred
+    - **EMERGENCY RESPONSE AND STORM PREPARATION** (`hull-wwtf-om-2026:05.emergency-response-and-storm-preparation`, p. 41)
+      - 1. [Emergency Response and Storm Preparedness Program for Coastal Wastewater Systems](compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md) — p0041¶2 · prose · preferred
+    - **ENERGY MANAGEMENT: A CORE OPERATING DISCIPLINE** (`hull-wwtf-om-2026:05.energy-management-a-core-operating-discipline`, pp. 42–43)
+      - 1. [Energy Management Program for Wastewater O&M](technical-approach/energy-management-program-wastewater-om.md) — p0042¶3 · prose · preferred
+      - **Jacobs Grant/Loan Support Services** (`hull-wwtf-om-2026:05.jacobs-grant-loan-support-services`, pp. 42–43)
+        - 1. [Grant, Loan, and Capital Funding Strategy Support Services](technical-approach/grant-loan-funding-support-capital-planning.md) — p0042¶19 · prose · preferred
+      - **The Town’s Asset Environment** (`hull-wwtf-om-2026:05.the-town-s-asset-environment`, p. 43)
+        - 1. [CMMS-Driven Asset Management and Maintenance Program](technical-approach/cmms-driven-asset-management-maintenance-program.md) — p0043¶7 · prose · preferred
+        - 2. [Asset Management Improvement Shifts (Current Practice → Jacobs Approach → Client Benefit)](technical-approach/asset-management-improvement-shifts-table.md) — p0043¶12 · table · preferred
+      - **Self-Performance with Specialist Depth** (`hull-wwtf-om-2026:05.self-performance-with-specialist-depth`, p. 45)
+        - 1. [Maintenance Workflow, Self-Performance, and M&R Fund Governance](compliance-plans/maintenance-workflow-self-performance-mr-fund-governance.md) — p0045¶5 · prose · preferred
+      - **Technical Expertise for Capital Planning Efforts** (`hull-wwtf-om-2026:05.technical-expertise-for-capital-planning-efforts`, p. 45)
+        - 1. [Capital Planning, Construction Support, and Targeted Maintenance Innovation Studies](compliance-plans/capital-planning-construction-support-innovation-studies.md) — p0045¶16 · prose · preferred
+    - **TRANSITION PLAN** (`hull-wwtf-om-2026:05.transition-plan`, pp. 46–48)
+      - 1. [Wastewater O&M Transition Plan and Mobilization Approach](management-staffing/wastewater-om-transition-plan-mobilization.md) — p0046¶10 · prose · preferred
+      - **Immediate Mobilization and Governance** (`hull-wwtf-om-2026:05.immediate-mobilization-and-governance`, p. 47)
+        - 1. [Transition Due Diligence and Mobilization Governance Checklist](compliance-plans/transition-due-diligence-governance-checklist.md) — p0047¶5 · prose · preferred
+      - **Transition Leadership and Workforce Continuity** (`hull-wwtf-om-2026:05.transition-leadership-and-workforce-continuity`, pp. 47–48)
+        - 1. [Transition Team Organization Roster](compliance-plans/transition-team-organization-roster.md) — p0047¶18 · roster · preferred
+      - **Training and Operational Readiness** (`hull-wwtf-om-2026:05.training-and-operational-readiness`, p. 48)
+        - 1. [Transition Readiness, Training, and Day-One Compliance Assurance](compliance-plans/transition-readiness-training-day-one-compliance.md) — p0048¶9 · prose · preferred
+    - **REQUIRED DOCUMENTATION DELIVERY** (`hull-wwtf-om-2026:05.required-documentation-delivery`, pp. 49–50)
+      - 1. [O&M Reporting and Documentation Deliverables Schedule](compliance-plans/om-reporting-documentation-deliverables-schedule.md) — p0049¶2 · prose · preferred
+    - **COMMUNITY STEWARDSHIP** (`hull-wwtf-om-2026:05.community-stewardship`, p. 50)
+      - 1. [Community Stewardship and Public Engagement Program](win-themes/community-stewardship-public-engagement-program.md) — p0050¶7 · prose · preferred
+    - **INNOVATION** (`hull-wwtf-om-2026:05.innovation`, pp. 50–52)
+      - 1. [Value-Added Innovations Menu for O&M Contracts](technical-approach/value-added-innovations-menu-om-contracts.md) — p0050¶18 · prose · preferred
+      - 2. [Value-Added Innovations Delivered at No Additional Cost (Exhibit Table)](compliance-plans/value-added-innovations-no-additional-cost.md) — p0051¶2 · table · preferred
+  - **WHY NATHAN?** (`hull-wwtf-om-2026:12.why-nathan`, pp. 69–71)
+    - 1. [Resume — Nathan Callison, CRL, CMRT (Project Manager)](resumes/nathan-callison.md) — p0069¶4 · prose · preferred
+  - **WHY TONY?** (`hull-wwtf-om-2026:12.why-tony`, pp. 71–72)
+    - 1. [Resume — Anthony "Tony" Rose (Assistant Project Manager)](resumes/anthony-rose.md) — p0071¶4 · prose · preferred
+  - **WHY MIKE?** (`hull-wwtf-om-2026:12.why-mike`, p. 72)
+    - 1. [Resume — Mike Boven (Transition Manager)](resumes/mike-boven.md) — p0072¶3 · prose · preferred
+    - **WHY KEVIN?** (`hull-wwtf-om-2026:12.why-kevin`, pp. 73–74)
+      - 1. [Resume — Kevin Dahl, PE, CRL, CMRT (Regional Director of Operations)](resumes/kevin-dahl.md) — p0073¶4 · prose · preferred
+    - **WHY SCOTT?** (`hull-wwtf-om-2026:12.why-scott`, pp. 74–75)
+      - 1. [Resume — Scott Mangold, CRL (Regional Operations Manager)](resumes/scott-mangold.md) — p0074¶4 · prose · preferred
+- **Section 7 - Appendix B - Project Descriptions** (`hull-wwtf-om-2026:13`, pp. 76–81)
+  - 1. [Project Narrative — Holistic Utility Partnership Drives Multi-Million-Dollar Cost Savings (Large Coastal WWTP)](win-themes/project-narrative-utility-partnership-cost-savings.md) — p0076¶4 · prose · preferred
+  - 2. [Project Description — Westerly Wastewater Treatment Plant O&M and DBO Services (Town of Westerly, RI)](past-performance/project-westerly-ri.md) — p0077¶5 · prose · preferred
+  - 3. [Project Narrative — Incumbent Turnaround Plus Progressive Design-Build (Small Coastal WWTP)](win-themes/project-narrative-contract-transition-turnaround.md) — p0077¶5 · prose · preferred
+  - **3.3 MGD** (`hull-wwtf-om-2026:13.3-3-mgd`, pp. 77–81)
+    - 1. [Project Description — Southbridge Wastewater Treatment Plant O&M (Town of Southbridge, MA)](past-performance/project-southbridge-ma.md) — p0078¶3 · prose · preferred
+    - 2. [Project Narrative — Newly Mobilized Contract Framed Around Investment and Innovation (Small New England WWTP)](win-themes/project-narrative-new-contract-mobilization-innovation.md) — p0078¶3 · prose · preferred
+    - 3. [Project Description — South Huron Wastewater Treatment Plant O&M (South Huron Valley Utility Authority, Rockwood, MI)](past-performance/project-south-huron-mi.md) — p0079¶3 · prose · preferred
+    - 4. [Project Narrative — Workforce Transition Success Paired With Biosolids Modernization (Regional Utility Authority)](win-themes/project-narrative-workforce-transition-biosolids-modernization.md) — p0079¶3 · prose · preferred
+    - 5. [Project Description — Traverse City Regional Wastewater Treatment Plant DBO (City of Traverse City, MI)](past-performance/project-traverse-city-mi.md) — p0080¶3 · prose · preferred
+    - 6. [Project Narrative — Multi-Decade DBO Partnership With Sustained Award Recognition (Regional WWTP)](win-themes/project-narrative-long-term-dbo-performance-excellence.md) — p0080¶3 · prose · preferred
+- **Section 7 - Appendix C - Facilities Similar to the Town** (`hull-wwtf-om-2026:14`, pp. 82–84)
+  - 1. [Appendix C — Facilities Similar to the Town (Full Reference Table)](past-performance/similar-facilities-table.md) — p0082¶3 · table · preferred
+  - 2. [Similar-Facilities Comparison Table — Framing & Format](win-themes/similar-facilities-comparison-table-framing.md) — p0082¶3 · table · preferred
+- **Section 7 - Appendix D - Innovation Workshop Agenda and Examples** (`hull-wwtf-om-2026:15`, pp. 85–87)
+  - 1. [Innovation Workshop Appendix — Proposed Agenda and Delivered-Workshop Examples](technical-approach/innovation-workshop-appendix-agenda-and-examples.md) — p0085¶2 · prose · preferred
+  - 2. [Innovation Workshop — Sample Agenda Structure (Proof-of-Execution Exhibit)](technical-approach/innovation-workshop-sample-agenda-structure.md) — p0086¶1 · recipe · fallback
+- **Section 7 - Appendix E - SmartCover Information** (`hull-wwtf-om-2026:16`, pp. 88–94)
+  - 1. [SmartCover Real-Time Satellite Sewer Monitoring — Capability Overview](technical-approach/smartcover-real-time-sewer-monitoring-capability.md) — p0088¶3 · prose · preferred
+    - **Pinpointed Hotspots Leads to Immediate ROI** (`hull-wwtf-om-2026:16.pinpointed-hotspots-leads-to-immediate-roi`, pp. 92–94)
+      - 1. [SmartCover / NJAW Bound Brook — Accelerated I&I Isolation and SSO Elimination Case Study](technical-approach/smartcover-njaw-bound-brook-case-study.md) — p0092¶3 · prose · preferred
+  - **WASTEWATER AEROBIC/ANAEROBIC TRANSFORMATIONS IN SEWERS (WATS) MODELING** (`hull-wwtf-om-2026:17.wastewater-aerobic-anaerobic-transformations-in-sewers-wats`, pp. 95–98)
+    - 1. [WATS Collection-System Odor and Corrosion Modeling Approach](technical-approach/wats-collection-system-odor-corrosion-modeling.md) — p0095¶3 · prose · preferred
+    - 2. [Sensor-to-Dispersion-Model Early Warning System for Proactive Odor Mitigation](technical-approach/sensor-dispersion-model-odor-early-warning-system.md) — p0096¶1 · prose · preferred
+- **Section 7 - Appendix G - Transition Activity Gantt Chart** (`hull-wwtf-om-2026:18`, pp. 99–101)
+  - 1. [O&M Contract Transition Work Plan — Phased Schedule Structure](management-staffing/om-transition-workplan-phased-schedule.md) — p0099¶3 · table · preferred
+
+### mmsd-om-2028
+
+  - **Executive Summary** (`mmsd-om-2028:02`, pp. 5–12)
+    - 1. [Executive Summary Opening — Trusted Partner Framing and Six Core Attributes of the Approach](win-themes/mmsd-exec-summary-trusted-partner-opening-and-six-core-attributes.md) — p0005¶3 · prose · preferred
+    - 2. [Comprehensive O&M Enhanced by Award-Winning Consulting and Program Management — Four Differentiator Bullets](win-themes/mmsd-exec-summary-comprehensive-om-with-consulting-bench.md) — p0006¶18 · prose · preferred
+    - 3. [Above and Beyond — Value-Added Investments and Savings Included in the Base Fee](win-themes/mmsd-exec-summary-above-and-beyond-investments-and-savings.md) — p0007¶8 · prose · preferred
+    - 4. [High-Caliber Leadership Will Create a People-First, High-Performance Team](win-themes/mmsd-exec-summary-high-caliber-leadership-and-people-first-culture.md) — p0008¶4 · prose · preferred
+    - 5. [Programmatic Framework for Unified Governance, Accountability, and Auditable Shared Cost Controls](win-themes/mmsd-exec-summary-programmatic-framework-and-auditable-cost-transparency.md) — p0008¶5 · prose · preferred
+    - 6. [ISO 55001-Aligned Asset Management System for PM/CM Excellence and Reliability](win-themes/mmsd-exec-summary-iso-55001-asset-management-and-reliability.md) — p0009¶3 · prose · preferred
+    - 7. [Elevated Operations — Technical Bench, Open-Book Visibility, and "No Surprises" Compliance](win-themes/mmsd-exec-summary-elevated-operations-technical-bench-and-no-surprises-compliance.md) — p0009¶13 · prose · preferred
+    - **Optimization that Delivers Value for MMSD’s Budget** (`mmsd-om-2028:02.optimization-that-delivers-value-for-mmsd-s-budget`, p. 10)
+      - 1. [Wet Weather Flow Management for Zero Overflows and Optimization That Delivers Budget Value](win-themes/mmsd-exec-summary-wet-weather-and-optimization-savings.md) — p0010¶5 · prose · preferred
+    - **Milorganite Production: Precision, Continuity, and Brand Protection** (`mmsd-om-2028:02.milorganite-production-precision-continuity-and-brand-protec`, p. 10)
+      - 1. [Biosolids Product Continuity, Brand Protection, and Proactive Odor Control](win-themes/mmsd-exec-summary-biosolids-continuity-and-odor-control.md) — p0010¶7 · prose · preferred
+    - **Odor Control: Prevention, Early Warning, and Documented Response** (`mmsd-om-2028:02.odor-control-prevention-early-warning-and-documented-respons`, pp. 10–12)
+      - 1. [Seamless Transition — 18-Month Pre-Term Runway, Union Workforce Continuity, and Day 1 Readiness](win-themes/mmsd-exec-summary-seamless-transition-and-workforce-continuity.md) — p0011¶3 · prose · preferred
+      - 2. [Regional Partnerships and Public Outreach for Community Benefits — Four Strategies and Example Ideas](win-themes/mmsd-exec-summary-regional-partnership-and-community-benefits.md) — p0011¶7 · prose · preferred
+    - **Regional Partnership Ideas to Enhance the Community** (`mmsd-om-2028:02.regional-partnership-ideas-to-enhance-the-community`, p. 12)
+      - 1. [Why Jacobs — Success Criteria Restated, Six Closing Commitments, and CEO Statement](win-themes/mmsd-exec-summary-why-jacobs-close.md) — p0012¶5 · prose · preferred
+  - **I.A. Proposer Identity** (`mmsd-om-2028:04`, p. 13)
+    - 1. [Proposer Identity, Contracting Entity, and Financial Strength Opener](qualifications/mmsd-proposer-identity-financial-strength-and-contracting-entity.md) — p0013¶2 · prose · preferred
+    - **I.C. Guaranty** (`mmsd-om-2028:06`, pp. 14–15)
+      - 1. [Financial Assurances: Letter of Credit, Guaranty, and Insurance (with Broker Letter of Insurability)](qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md) — p0014¶2 · prose · preferred
+  - **I.E. Confidentiality Statement** (`mmsd-om-2028:08`, pp. 15–16)
+    - 1. [Confidentiality Designation and Trade-Secret Legal Basis](qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md) — p0015¶7 · prose · preferred
+  - **II.A. Staffing Strategy and Key Positions** (`mmsd-om-2028:10`, pp. 16–20)
+    - 1. [Staffing Strategy Opening and Organizational Structure](management-staffing/mmsd-staffing-strategy-and-organizational-structure.md) — p0016¶4 · prose · preferred
+      - **1.1. Leadership Team** (`mmsd-om-2028:10.1-1-leadership-team`, pp. 16–20)
+        - 1. [Dual-Management Model — Project Manager and Deputy Project Manager](management-staffing/mmsd-dual-management-leadership-model.md) — p0016¶9 · prose · preferred
+        - 2. [Leadership Team Organization Chart — Named Roles and Role Benefit Statements](management-staffing/mmsd-leadership-team-org-chart-roles.md) — p0017¶15 · roster · preferred
+        - 3. [Value-Added Staff Positions and FTE Roster by Functional Group](management-staffing/mmsd-value-added-staff-positions-exhibit.md) — p0018¶4 · roster · preferred
+        - 4. [Key Leader Management Philosophy, Personal Statements, and Client Testimonials](management-staffing/mmsd-key-leader-philosophy-and-client-testimonials.md) — p0019¶10 · prose · preferred
+    - **1.2. Staffing Plan** (`mmsd-om-2028:11.1-2-staffing-plan`, p. 20)
+      - 1. [Staffing Plan Table — Required Onsite Staff Plus Above-and-Beyond Onsite and Offsite FTE](management-staffing/mmsd-staffing-plan-above-and-beyond-table.md) — p0020¶11 · table · preferred
+      - **1.1. We Bring an Award-Winning Culture Aligned with MMSD’s Values** (`mmsd-om-2028:11.1-1-we-bring-an-award-winning-culture-aligned-with-mmsd-s-va`, p. 20)
+        - 1. [HR Commitment — Award-Winning Culture and an Integrated Local + National HR Team](management-staffing/mmsd-hr-commitment-award-winning-culture-and-integrated-hr-team.md) — p0020¶14 · prose · preferred
+      - **1.3. MMSD Committees** (`mmsd-om-2028:11.1-3-mmsd-committees`, p. 20)
+        - 1. [Governance Committees and the Blue-Ribbon Panel](management-staffing/mmsd-governance-committees-and-blue-ribbon-panel.md) — p0020¶18 · prose · preferred
+        - **Maintenance Committee** (`mmsd-om-2028:11.maintenance-committee`, pp. 20–21)
+          - 1. [Staffing Certainty Framework Exhibit — HR Integrated Onsite, Regional Bench, National Network](management-staffing/mmsd-staffing-certainty-framework-exhibit.md) — p0021¶5 · exhibit · preferred
+    - **2. OUR PLAN TO FULFILL AND SUSTAIN THE MINIMUM STAFFING PLAN** (`mmsd-om-2028:11.2-our-plan-to-fulfill-and-sustain-the-minimum-staffing-plan`, p. 21)
+      - 1. [Plan to Fulfill and Sustain the Minimum Staffing Plan](management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md) — p0021¶7 · prose · preferred
+    - **3. UNION AND LABOR RELATIONS** (`mmsd-om-2028:11.3-union-and-labor-relations`, pp. 21–23)
+      - 1. [Union and Labor Relations — Recognizing the CBA and Transitioning Represented Employees](management-staffing/mmsd-union-and-labor-relations-and-employee-transition.md) — p0021¶25 · prose · preferred
+      - 2. [Five-Step Approach to Labor Relations (Exhibit II-7)](management-staffing/mmsd-labor-relations-five-step-approach-exhibit.md) — p0022¶2 · table · preferred
+      - **3.3. Building the Pipeline with Apprenticeships and Union Partnerships** (`mmsd-om-2028:11.3-3-building-the-pipeline-with-apprenticeships-and-union-par`, pp. 22–23)
+        - 1. [Building the Labor Pipeline with Apprenticeships and Union Partnerships](management-staffing/mmsd-apprenticeships-and-union-labor-pipeline.md) — p0022¶21 · prose · preferred
+    - **4. LONG-TERM RETENTION AND SUCCESSION PLANNING** (`mmsd-om-2028:11.4-long-term-retention-and-succession-planning`, pp. 23–24)
+      - 1. [Long-Term Retention and Succession Planning — Keep People, Grow People, Honor Knowledge](management-staffing/mmsd-long-term-retention-and-succession-planning.md) — p0023¶13 · prose · preferred
+      - **4.3. Succession Planning—A Structured, Visible Path to Advancement** (`mmsd-om-2028:11.4-3-succession-planning-a-structured-visible-path-to-advance`, pp. 23–24)
+        - 1. [Union Partners Exhibit — Eight O&M Facilities with Unionized Workforces](management-staffing/mmsd-union-partners-exhibit.md) — p0023¶20 · exhibit · preferred
+      - **5.1. Union Employees—Providing Affordable Benefits, Respect for the Agreement, Clear Communications Commitment** (`mmsd-om-2028:11.5-1-union-employees-providing-affordable-benefits-respect-fo`, p. 24)
+        - 1. [Standard Employee Benefits — Union CBA Alignment and Non-Union Package](management-staffing/mmsd-standard-employee-benefits-union-and-nonunion.md) — p0024¶7 · prose · preferred
+  - **II.C. PM and CM Staffing** (`mmsd-om-2028:12`, pp. 24–26)
+    - 1. [PM and CM Staffing Model — Wrenches, Not Waiting](management-staffing/mmsd-pm-cm-maintenance-staffing-model.md) — p0024¶27 · prose · preferred
+      - **Asset Management Team** (`mmsd-om-2028:12.asset-management-team`, p. 25)
+        - 1. [Integrated Asset Management and Maintenance Support Bench (Exhibit II-9)](management-staffing/mmsd-integrated-asset-management-and-maintenance-support.md) — p0025¶14 · prose · preferred
+    - **3. PM STAFFING AND SCHEDULE DISCIPLINE** (`mmsd-om-2028:12.3-pm-staffing-and-schedule-discipline`, p. 26)
+      - 1. [PM Schedule Discipline, CM Rapid Response, and PdM Integration](management-staffing/mmsd-pm-cm-schedule-discipline-and-pdm-integration.md) — p0026¶7 · prose · preferred
+  - **II.D. Use of Subcontractors** (`mmsd-om-2028:13`, pp. 26–27)
+    - 1. [Subcontractor Strategy — Building Local and Small Business Capacity](management-staffing/mmsd-subcontractor-strategy-and-local-business-capacity.md) — p0026¶15 · prose · preferred
+    - 2. [Local Subcontractor Partners Proposed for the Contract (Exhibit II-10)](management-staffing/mmsd-local-subcontractor-partners-table.md) — p0026¶17 · table · preferred
+    - **1. IDENTIFYING, SELECTING, AND MANAGING SUBCONTRACTORS** (`mmsd-om-2028:13.1-identifying-selecting-and-managing-subcontractors`, pp. 26–27)
+      - 1. [Identifying, Selecting, and Managing Subcontractors — Five-Step Framework](management-staffing/mmsd-subcontractor-selection-and-management-process.md) — p0026¶19 · prose · preferred
+  - **II.E. Technical Training Program** (`mmsd-om-2028:14`, pp. 27–29)
+    - 1. [Technical Training Program and Five-Component Training Framework](management-staffing/mmsd-technical-training-program-and-framework.md) — p0027¶22 · prose · preferred
+    - **3. OPERATIONS MANAGEMENT STAFF TRAINING PROGRAMS** (`mmsd-om-2028:14.3-operations-management-staff-training-programs`, pp. 28–29)
+      - 1. [Operations Management Training, Cross-Training, and Mentoring](management-staffing/mmsd-leadership-development-cross-training-and-mentoring.md) — p0028¶23 · prose · preferred
+    - **4. VALUE-ADD: DIGITAL INNOVATION IN TRAINING – DIGITAL TWIN OPERATIONS** (`mmsd-om-2028:14.4-value-add-digital-innovation-in-training-digital-twin-oper`, p. 29)
+      - 1. [Digital Twin Operations as a Training Value-Add](management-staffing/mmsd-digital-twin-training-value-add.md) — p0029¶5 · prose · preferred
+  - **II.F. Safe Work Environment** (`mmsd-om-2028:15`, p. 29)
+    - 1. [Safe Work Environment, Safety Leadership, and Healthy Workforce](management-staffing/mmsd-safe-work-environment-and-healthy-workforce.md) — p0029¶10 · prose · preferred
+    - **1. BUILDING OUR ONE WATER, ONE TEAM, ONE VISION CULTURE** (`mmsd-om-2028:16.1-building-our-one-water-one-team-one-vision-culture`, pp. 29–30)
+      - 1. [One Water, One Team, One Vision Culture and Inclusion Programs](management-staffing/mmsd-one-water-one-team-culture-and-shared-values.md) — p0029¶19 · prose · preferred
+      - 2. [Client-to-Jacobs Values Alignment Table (Exhibit II-13)](management-staffing/mmsd-corporate-values-alignment-table.md) — p0030¶7 · table · preferred
+    - **2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING** (`mmsd-om-2028:16.2-maintaining-a-respectful-workplace-of-inclusion-and-belong`, pp. 30–31)
+      - 1. [Peer-to-Peer Culture Coach Program (Exhibit II-14)](management-staffing/mmsd-peer-to-peer-culture-coach-program.md) — p0030¶18 · exhibit · preferred
+    - **3. ZERO TOLERANCE FOR HARASSMENT, DISCRIMINATION, OR BULLYING** (`mmsd-om-2028:16.3-zero-tolerance-for-harassment-discrimination-or-bullying`, p. 31)
+      - 1. [Zero-Tolerance Policy, Ethics Hotline, and Employee Feedback Loop](management-staffing/mmsd-zero-tolerance-ethics-hotline-and-employee-feedback.md) — p0031¶6 · prose · preferred
+    - **5. A CULTURE THAT CELEBRATES TEAMWORK AND ACHIEVEMENT** (`mmsd-om-2028:16.5-a-culture-that-celebrates-teamwork-and-achievement`, p. 31)
+      - 1. [Recognition, Teamwork, and Community Giving Culture](management-staffing/mmsd-recognition-teamwork-and-community-giving.md) — p0031¶12 · prose · preferred
+  - **II.H. Workforce Development** (`mmsd-om-2028:17`, pp. 31–34)
+    - 1. [Workforce Development Plan — Goals, Elements, and Delivery Partners](management-staffing/mmsd-workforce-development-plan-goals-and-elements.md) — p0031¶18 · prose · preferred
+      - **1.1. Structured Career Pathways Promote Advancement Opportunities** (`mmsd-om-2028:17.1-1-structured-career-pathways-promote-advancement-opportuni`, pp. 32–33)
+        - 1. [Structured Career Pathways and the Operator Advancement Ladder](management-staffing/mmsd-structured-career-pathways-and-advancement-ladder.md) — p0032¶12 · prose · preferred
+        - 2. [O&M Apprenticeships and Local Union Partnership](management-staffing/mmsd-apprenticeships-and-local-union-partnership.md) — p0033¶4 · prose · preferred
+      - **1.3. Internships Peak Interest in Careers** (`mmsd-om-2028:17.1-3-internships-peak-interest-in-careers`, pp. 33–34)
+        - 1. [Internships and Career Awareness Outreach](management-staffing/mmsd-internships-and-career-awareness-outreach.md) — p0033¶21 · prose · preferred
+        - 2. [Wastewater Career Internship Pipeline Program (Exhibit II-19)](management-staffing/mmsd-wastewater-career-internship-pipeline-program.md) — p0033¶23 · prose · preferred
+        - 3. [University Scholarship Fund Commitment (Exhibit II-20)](management-staffing/mmsd-uwm-scholarship-commitment.md) — p0033¶24 · exhibit · preferred
+    - **2. DEDICATED WORKFORCE DEVELOPMENT TEAM AND REPORTING** (`mmsd-om-2028:17.2-dedicated-workforce-development-team-and-reporting`, p. 34)
+      - 1. [Workforce Development Team, Subconsultant Roles, and Transparent Reporting](management-staffing/mmsd-workforce-development-team-and-transparent-reporting.md) — p0034¶4 · prose · preferred
+      - 2. [Small Business Outreach, Mentor-Protégé, and Construction Academy (Exhibit II-21)](management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md) — p0034¶10 · prose · preferred
+  - **II.I. Key Staff Resumes** (`mmsd-om-2028:18`, pp. 35–42)
+    - 1. [Resume — Kevin Dahl, CRL (Project Manager)](resumes/mmsd-kevin-dahl-project-manager.md) — p0035¶3 · prose · preferred
+    - 2. [Resume — Rick Warner, PE (Deputy Project Manager / Director of Regional Partnership)](resumes/mmsd-rick-warner-deputy-project-manager.md) — p0035¶5 · prose · preferred
+    - 3. [Resume — Kelly Irving (Transition Manager)](resumes/mmsd-kelly-irving-transition-manager.md) — p0036¶5 · prose · fallback
+    - 4. [Resume — Keoki Sears (Program Management Advisor)](resumes/mmsd-keoki-sears-program-management-advisor.md) — p0036¶5 · prose · preferred
+    - 5. [Resume — Quitterie Cotten, PE (Program Management & Initiation)](resumes/mmsd-quitterie-cotten-program-management-initiation.md) — p0036¶5 · prose · preferred
+    - **Public Outreach Coordinator – Toyin Ogunfolaju** (`mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju`, pp. 37–38)
+      - 1. [Resume — Toyin Ogunfolaju (Public Outreach Coordinator)](resumes/mmsd-toyin-ogunfolaju-public-outreach-coordinator.md) — p0037¶18 · prose · preferred
+      - 2. [Resume — John Loucks-Powell, CRL (Director of Maintenance & Asset Management / MMS Advisor)](resumes/mmsd-john-loucks-powell-director-maintenance-asset-management.md) — p0037¶24 · prose · preferred
+      - 3. [Resume — Frank Dipietrapaul (Maintenance & Asset Manager, Water Reclamation Facilities)](resumes/mmsd-frank-dipietrapaul-maintenance-asset-manager-wrfs.md) — p0037¶25 · prose · preferred
+    - **WRF Operations Manager – Aleksey Reznik** (`mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik`, pp. 38–39)
+      - 1. [Resume — Susan Moisio, PE (Wet Weather and Conveyance Director)](resumes/mmsd-susan-moisio-wet-weather-conveyance-director.md) — p0038¶18 · prose · preferred
+      - 2. [Resume — Aleksey Reznik (Water Reclamation Facility Operations Manager)](resumes/mmsd-aleksey-reznik-wrf-operations-manager.md) — p0038¶25 · prose · preferred
+      - 3. [Resume — Monty Sedlak, PMP, PgMP, CSP (Maintenance & Asset Manager, Conveyance)](resumes/mmsd-monty-sedlak-maintenance-asset-manager-conveyance.md) — p0038¶30 · prose · preferred
+    - **Capital Project Coordinator – Liie Hill, PE** (`mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe`, pp. 39–42)
+      - 1. [Resume — Bill Desing, PE (Chief Engineer and Offsite Support Lead)](resumes/mmsd-bill-desing-chief-engineer.md) — p0039¶20 · prose · preferred
+      - 2. [Resume — Eric Habermayer, IAM (Conveyance Manager and CMMS Implementation Project Manager)](resumes/mmsd-eric-habermayer-conveyance-manager-cmms.md) — p0039¶22 · prose · preferred
+      - 3. [Resume — Liie Hill, PE (Capital Project Coordinator)](resumes/mmsd-liie-hill-capital-project-coordinator.md) — p0039¶23 · prose · preferred
+      - 4. [Resume — Brooke Winters, SPHR (Human Resources)](resumes/mmsd-brooke-winters-hr.md) — p0040¶25 · prose · preferred
+      - 5. [Resume — Jeff Williams, SPHR (Labor Relations)](resumes/mmsd-jeff-williams-labor-relations.md) — p0040¶26 · prose · preferred
+      - 6. [Resume — Natalie Lenz, PE, ENV SP (Capital Project Coordinator)](resumes/mmsd-natalie-lenz-capital-project-coordinator.md) — p0040¶27 · prose · preferred
+      - 7. [Resume — Travis Leech, CSP (Security and Safety Manager)](resumes/mmsd-travis-leech-security-safety-manager.md) — p0041¶7 · prose · preferred
+      - 8. [Resume — Dave Haverly (Safety and Security, Jones Island Water Reclamation Facility)](resumes/mmsd-dave-haverly-safety-security-jiwrf.md) — p0041¶7 · prose · preferred
+      - 9. [Resume — Tracy James (Safety and Security, South Shore Water Reclamation Facility)](resumes/mmsd-tracy-james-safety-security-sswrf.md) — p0041¶7 · prose · preferred
+- **IV. Approach Summary** (`mmsd-om-2028:21`, pp. 44–138)
+  - 1. [Approach Summary: O&M Plan Built Around the Client's Stated Priorities](technical-approach/mmsd-approach-summary-om-plan-and-shared-priorities.md) — p0044¶7 · prose · fallback
+  - 2. [Approach Summary — O&M Plan Built on the Client's Shared Priorities](technical-approach/mmsd-approach-summary-om-plan-shared-priorities.md) — p0044¶7 · prose · preferred
+  - **Energy and Chemical Optimization** (`mmsd-om-2028:21.energy-and-chemical-optimization`, pp. 44–46)
+    - 1. [Exhibit IV-1 — Client Priorities and the Matching O&M Plan Elements](technical-approach/mmsd-exhibit-priorities-and-om-plan-elements.md) — p0044¶24 · exhibit · preferred
+    - 2. [Exhibit: Shared Priorities and the O&M Plan That Delivers Them](technical-approach/mmsd-exhibit-shared-priorities-and-om-plan-grid.md) — p0044¶24 · table · fallback
+    - 3. [Value-Added Investments Included in the Base Fee, Plus a Pipeline of Future Savings](technical-approach/mmsd-base-fee-value-added-investments-and-future-savings.md) — p0045¶6 · prose · fallback
+    - 4. [Exhibit IV-2 — Value-Added Investments and Potential Future Savings Breakdown](technical-approach/mmsd-exhibit-value-added-savings-breakdown.md) — p0045¶6 · table · preferred
+    - 5. [Value-Added Investments and Savings Included in the Base Fee](technical-approach/mmsd-value-added-investments-and-future-savings.md) — p0045¶6 · prose · preferred
+    - 6. [Exhibit: Value-Added Investments and Potential Future Savings by Category](technical-approach/mmsd-exhibit-value-added-savings-by-category.md) — p0045¶11 · table · fallback
+  - **IV.A. Approach to Management, Operations, PM, and CM** (`mmsd-om-2028:22`, pp. 46–119)
+    - 1. [Two Years of Due Diligence and an Approach Aligned to the Client's Own Values](technical-approach/mmsd-due-diligence-understanding-and-shared-values-alignment.md) — p0046¶6 · prose · fallback
+    - 2. [Facilities and Goals Understanding — 16,000 Hours of Due Diligence and Shared Values](technical-approach/mmsd-facilities-understanding-shared-values.md) — p0046¶10 · prose · preferred
+    - 3. [System Health Check, Part 1: Facility and System-Wide Asset Groups](technical-approach/mmsd-system-health-check-challenges-and-value-add-table.md) — p0047¶8 · table · fallback
+    - 4. [Facility Health Check — Challenges Found and Value-Add Solutions Offered (Exhibit IV-4)](technical-approach/mmsd-facility-health-check-exhibit.md) — p0047¶8 · table · preferred
+    - 5. [System Health Check, Part 2: Conveyance, Collection System, Solids, and Support Assets](technical-approach/mmsd-system-health-check-conveyance-collection-and-solids-table.md) — p0047¶8 · table · fallback
+    - **IV.A.1. Approach to Management of Facilities** (`mmsd-om-2028:23`, pp. 48–52)
+      - 1. [Approach to Management of Facilities: Client-for-Life Mindset and Five Tenets of Delivery](technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md) — p0048¶6 · prose · fallback
+      - 2. [Approach to Management of Facilities — Client-for-Life Mindset and the PgM Foundation](technical-approach/mmsd-approach-to-management-of-facilities-pgm-foundation.md) — p0048¶6 · prose · preferred
+      - **1.2. PgM Framework is the Foundation of Our Shared Success** (`mmsd-om-2028:23.1-2-pgm-framework-is-the-foundation-of-our-shared-success`, pp. 48–52)
+        - 1. [Program Management Framework as the Foundation of Shared Success](technical-approach/mmsd-pgm-framework-foundation-of-shared-success.md) — p0048¶10 · prose · fallback
+        - 2. [Five Interconnected Tenets That Define How We Deliver O&M (Exhibit IV-5)](technical-approach/mmsd-five-tenets-culture-exhibit.md) — p0048¶14 · table · preferred
+        - **1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD** (`mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for`, pp. 49–52)
+          - 1. [Standing Up the PgM Framework — Named Leadership and Insights-Based Alignment](technical-approach/mmsd-pgm-framework-standup-and-leadership.md) — p0049¶5 · prose · preferred
+          - 2. [PgM-Driven Cost Control, Monitoring, Communications, and Reporting](technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md) — p0049¶8 · prose · fallback
+          - 3. [PgM-Driven Cost Control, Monitoring, and Reporting for Transparency and Accountability](technical-approach/mmsd-pgm-cost-control-monitoring-reporting.md) — p0049¶8 · prose · preferred
+          - 4. [Exhibit: Seven Steps to Stand Up the PgM Framework](technical-approach/mmsd-pgm-seven-step-initiation-table.md) — p0050¶3 · table · fallback
+          - 5. [Seven Steps to Set Up the PgM Framework (Exhibit IV-8)](technical-approach/mmsd-pgm-seven-step-setup-exhibit.md) — p0050¶3 · table · preferred
+          - 6. [Day-to-Day Communication, Governance Meetings, and Public Engagement by the Project Manager](technical-approach/mmsd-day-to-day-communication-and-governance.md) — p0050¶5 · prose · preferred
+          - 7. [Communications with the Client — Daily to Annual Meeting and Reporting Cadence (Exhibit IV-9)](technical-approach/mmsd-communications-cadence-exhibit.md) — p0051¶8 · table · preferred
+          - 8. [Exhibit: Communications and Reporting Cadence with the Client](technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md) — p0051¶8 · table · fallback
+          - 9. [Operations Approach Built on Six Operational Priorities](technical-approach/mmsd-operations-approach-and-operational-priorities.md) — p0052¶4 · prose · preferred
+      - **2.1. Collaborative Decision-Making for Safe, Compliant, and Reliable Operations** (`mmsd-om-2028:24.2-1-collaborative-decision-making-for-safe-compliant-and-rel`, pp. 53–54)
+        - 1. [Collaborative Decision-Making for Safe, Compliant, and Reliable Operations](technical-approach/mmsd-collaborative-decision-making-governance.md) — p0053¶9 · prose · preferred
+        - 2. [Project Manager's Leadership and Decision-Making Philosophy (First-Person Callout)](technical-approach/mmsd-project-manager-leadership-decision-philosophy.md) — p0053¶13 · prose · preferred
+      - **01 ONSITE PROCESS CONTROL AND OPERATIONAL AND MAINTENANCE DECISIONS** (`mmsd-om-2028:24.01-onsite-process-control-and-operational-and-maintenance-de`, p. 54)
+        - 1. [Three-Tier Decision-Making Hierarchy with Named Decision Forums](technical-approach/mmsd-decision-making-hierarchy-three-tiers.md) — p0054¶9 · prose · preferred
+      - **03 STRATEGIC AND CONTINUOUS IMPROVEMENT** (`mmsd-om-2028:24.03-strategic-and-continuous-improvement`, pp. 54–72)
+        - 1. [Process Monitoring and Control for System-Wide Insight](technical-approach/mmsd-process-monitoring-control-system-wide-insight.md) — p0055¶4 · prose · preferred
+        - **COLLECTION SYSTEM & WET-WEATHER FLOW MANAGEMENT** (`mmsd-om-2028:24.collection-system-wet-weather-flow-management`, p. 55)
+          - 1. [Six Key Operational Focus Areas (Exhibit Summaries)](technical-approach/mmsd-key-operational-focus-areas.md) — p0055¶13 · prose · preferred
+        - **ODOR CONTROL** (`mmsd-om-2028:24.odor-control`, pp. 55–60)
+          - 1. [Monitoring and Control Practices Table — Conveyance, Wet Weather, and Liquid Processes](technical-approach/mmsd-monitoring-control-practices-conveyance-liquid-table.md) — p0056¶8 · table · preferred
+          - 2. [Monitoring and Control Practices Table — Solids, Energy, Chemical, and Odor](technical-approach/mmsd-monitoring-control-practices-solids-energy-chemical-odor-table.md) — p0057¶6 · table · preferred
+          - 3. [Collection System, Tunnels, and Wet Weather Flow Management — Focus Area Overview](technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md) — p0058¶5 · prose · preferred
+          - **Intelligent Dry Weather Management** (`mmsd-om-2028:24.intelligent-dry-weather-management`, pp. 58–59)
+            - 1. [Intelligent Dry Weather Management of Interceptors and Pump Stations](technical-approach/mmsd-intelligent-dry-weather-management.md) — p0058¶8 · prose · preferred
+          - **Effective and Efficient Wet Weather Operations** (`mmsd-om-2028:24.effective-and-efficient-wet-weather-operations`, pp. 59–60)
+            - 1. [Effective and Efficient Wet Weather Operations, with Named Wet-Weather Leadership](technical-approach/mmsd-effective-efficient-wet-weather-operations.md) — p0059¶9 · prose · preferred
+          - **Systemwide Integration for Optimized Operations** (`mmsd-om-2028:24.systemwide-integration-for-optimized-operations`, p. 60)
+            - 1. [Liquid Treatment Process Control — Systemwide Integration Across Two WRFs](technical-approach/mmsd-wrf-wet-processes-systemwide-integration.md) — p0060¶6 · prose · preferred
+          - **Specific Optimization Opportunities at SSWRF and JIWRF** (`mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf`, pp. 60–67)
+            - 1. [Settleability and Aeration Optimization Opportunities — Hydrocyclones, Step Feed BNR, and MBAS](technical-approach/mmsd-liquid-treatment-optimization-opportunities.md) — p0060¶15 · prose · preferred
+            - 2. [Settleability Optimization Strategies Table — Seven Targeted Improvement Areas](technical-approach/mmsd-settleability-optimization-strategies-table.md) — p0061¶10 · table · preferred
+            - 3. [Aeration Optimization — Unlocking Energy and Process Gains at a Large WRF](technical-approach/mmsd-aeration-energy-and-process-optimization.md) — p0062¶2 · prose · preferred
+            - 4. [Optimizing Solids Processing and Heat-Dried Biosolids Production — Focus Area Opening](technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md) — p0063¶4 · prose · preferred
+            - 5. [Dewatering and Drying Optimization — Cake Solids, Mixing, and Backup Dewatering](technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md) — p0064¶2 · prose · preferred
+            - 6. [Maximizing Renewable Gas — Turbine Uptime and High-Strength Waste Digestion](technical-approach/mmsd-renewable-gas-turbine-uptime-and-high-strength-waste.md) — p0064¶3 · prose · preferred
+            - 7. [Deep Bench of Dewatering and Solids Experts — Value-Added SME Support](technical-approach/mmsd-solids-dewatering-sme-bench.md) — p0064¶11 · roster · preferred
+            - 8. [Reliable Biosolids Product Production — Strategic Risk Management, Chaff Handling, and Housekeeping](technical-approach/mmsd-reliable-biosolids-product-risk-management-and-housekeeping.md) — p0065¶5 · prose · preferred
+            - 9. [Energy Optimization Focus Area — Running Energy Assets as One Coordinated System](technical-approach/mmsd-energy-optimization-focus-area-and-dynamic-energy-balance.md) — p0066¶4 · prose · preferred
+            - 10. [Landfill Gas Power Generation and Waste Heat Strategy](technical-approach/mmsd-landfill-gas-power-generation-and-waste-heat-strategy.md) — p0066¶7 · prose · preferred
+            - 11. [Digester Gas Power Generation, Energy Monitoring, and AI-Powered Analytics](technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md) — p0067¶2 · prose · preferred
+          - **SSWRF digester gas may meet all facility’s power needs** (`mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs`, pp. 67–72)
+            - 1. [Energy Demand Management — Predictive Advisories Without Capital Investment](technical-approach/mmsd-energy-demand-management-predictive-advisories.md) — p0067¶15 · prose · preferred
+            - 2. [Four Pillars of Chemical Optimization — Compliance, Transparency, Cost, Innovation](technical-approach/mmsd-four-pillars-of-chemical-optimization.md) — p0068¶7 · prose · preferred
+            - 3. [Dechlorination and RAS Chlorination Optimization — Matching Dose to Lagging Data](technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md) — p0069¶8 · prose · preferred
+            - 4. [Sodium Hypochlorite Disinfection Dosage Optimization — Predictive Dosing Use Case](technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md) — p0069¶13 · prose · preferred
+            - 5. [Metal Salt Optimization for Phosphorus Control — Injection Point Change Plus Machine Learning](technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md) — p0071¶7 · prose · preferred
+    - **IV.A.6. Responding to Public Odor Complaints** (`mmsd-om-2028:25`, pp. 72–90)
+      - 1. [Odor Challenge Framing and Proactive Odor Management Strategy](technical-approach/mmsd-odor-challenge-and-proactive-odor-management-strategy.md) — p0072¶5 · prose · preferred
+      - 2. [Odor Control Focus Area — Understanding the Odor Challenge and Program Commitment](technical-approach/mmsd-odor-control-focus-area-and-program-commitment.md) — p0072¶5 · prose · fallback
+      - 3. [WATS Model for Systemwide Sulfide, Odor, and Corrosion Prediction](technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md) — p0073¶5 · prose · preferred
+      - 4. [WATS Collection System Sulfide Model — Predictive, Systemwide Odor and Corrosion Insight](technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md) — p0073¶5 · prose · fallback
+      - **Installation of “Odor Early Warning System” at the WRFs to Minimize Odors** (`mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min`, pp. 73–76)
+        - 1. [Odor Early Warning System — Sulfide Monitoring, Dispersion Modeling, and Proactive Notification](technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md) — p0073¶9 · prose · fallback
+        - 2. [Odor Early Warning System — Sulfiloggers, SUMO, and AERMOD Dispersion Modeling](technical-approach/mmsd-odor-early-warning-system-sulfiloggers-aermod.md) — p0073¶9 · prose · preferred
+        - 3. [Disciplined Plant Operations and Equipment Performance to Prevent Fugitive Odor Emissions](technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md) — p0074¶9 · prose · fallback
+        - 4. [Disciplined Plant Operations and Odor Control Equipment Performance](technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odors.md) — p0074¶9 · prose · preferred
+        - 5. [Odor Complaint Protocol — Intake, Investigation, Verification, and Resident Follow-up](technical-approach/mmsd-odor-complaint-protocol-and-investigation.md) — p0075¶5 · prose · preferred
+        - 6. [Odor Complaint Response Protocol — Seven-Step Investigation, Nose-Tested Staff, and Odor Technologist Bench](technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md) — p0075¶5 · prose · fallback
+        - 7. [Odor Program Continuous Improvement, Governance Review, and Community Outreach](technical-approach/mmsd-odor-continuous-improvement-and-community-outreach.md) — p0075¶9 · prose · preferred
+        - **2.3.1. Digital Twin: Enabling System-Wide Optimization** (`mmsd-om-2028:25.2-3-1-digital-twin-enabling-system-wide-optimization`, pp. 76–79)
+          - 1. [Digital One Water and the Digital Twin for Systemwide Optimization](technical-approach/mmsd-digital-one-water-and-digital-twin-approach.md) — p0076¶8 · prose · preferred
+          - 2. [Digital One Water and the Digital Twin — Systemwide Optimization with Operator Judgment Intact](technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md) — p0076¶8 · prose · fallback
+          - **Our Digital One Water connects data across the full wastewater** (`mmsd-om-2028:25.our-digital-one-water-connects-data-across-the-full-wastewat`, pp. 76–79)
+            - 1. [Digital Twin Benefits Table (Exhibit IV-29)](technical-approach/mmsd-digital-twin-benefits-table.md) — p0077¶5 · table · fallback
+            - 2. [Digital Twin Benefits Exhibit (Wet Weather, Energy, Compliance, Resiliency)](technical-approach/mmsd-digital-twin-benefits-exhibit-table.md) — p0077¶20 · table · preferred
+            - 3. [Digital Tools for More Sustainable and Cost-Efficient Operations Table (Exhibit IV-30)](technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md) — p0078¶10 · table · preferred
+      - **2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise** (`mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a`, pp. 79–82)
+        - 1. [World-Class Operational Technology — OT Tools, Training, and the OT Asset Management Platform](technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md) — p0079¶5 · prose · fallback
+        - 2. [Operational Technology (OT) Tools, Expertise, and Onsite Training](technical-approach/mmsd-operational-technology-tools-expertise-and-training.md) — p0079¶5 · prose · preferred
+        - 3. [OT Asset Management Software Platform Modules Table (Exhibit IV-31)](technical-approach/mmsd-ot-asset-management-modules-table.md) — p0079¶7 · table · preferred
+        - **2.4.2. Jacobs OT Asset Automated Backup and Version Control** (`mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-control`, pp. 80–81)
+          - 1. [OT Automated Backup, Version Control, and Change Management](technical-approach/mmsd-ot-automated-backup-and-version-control.md) — p0080¶3 · prose · fallback
+          - 2. [Automated PLC Backup, Version Control, and Change Management](technical-approach/mmsd-ot-automated-plc-backup-and-version-control.md) — p0080¶3 · prose · preferred
+          - 3. [OT Asset Automated Backup Benefits Table (Exhibit IV-32)](technical-approach/mmsd-ot-automated-backup-benefits-table.md) — p0080¶11 · table · preferred
+        - **2.4.3. Jacobs Managed OT Privileged Access Management (PAM) Service** (`mmsd-om-2028:25.2-4-3-jacobs-managed-ot-privileged-access-management-pam-ser`, pp. 81–82)
+          - 1. [Managed OT Privileged Access Management (PAM) Service](technical-approach/mmsd-ot-privileged-access-management-service.md) — p0081¶7 · prose · preferred
+      - **2.5. Leveraging Corporate Resources for Operational Excellence** (`mmsd-om-2028:25.2-5-leveraging-corporate-resources-for-operational-excellenc`, pp. 82–84)
+        - 1. [Leveraging Corporate Resources for Operational Excellence](technical-approach/mmsd-leveraging-corporate-resources-operational-excellence.md) — p0082¶5 · prose · preferred
+        - 2. [Unmatched Corporate Resources for Operational Excellence — Six Pillars (Exhibit IV-35)](technical-approach/mmsd-corporate-resources-six-pillars-exhibit.md) — p0083¶8 · table · preferred
+        - **2.6.3. Tunnel System Operations** (`mmsd-om-2028:25.2-6-3-tunnel-system-operations`, p. 84)
+          - 1. [Tunnel and Inline Storage System Operations Monitoring and Wet Weather Coordination](technical-approach/mmsd-tunnel-operations-wet-weather-monitoring.md) — p0084¶9 · prose · preferred
+        - **2.6.1. Integrated Performance Management Framework** (`mmsd-om-2028:25.2-6-1-integrated-performance-management-framework`, p. 84)
+          - 1. [Integrated Performance Management Framework for Monitoring, Tracking, and Reporting Operational Parameters](technical-approach/mmsd-integrated-performance-monitoring-framework.md) — p0084¶12 · prose · preferred
+        - **2.6.2. Chemical Usage Monitoring and Control** (`mmsd-om-2028:25.2-6-2-chemical-usage-monitoring-and-control`, p. 84)
+          - 1. [Chemical Usage Monitoring, Dosing Optimization, and Cost Allocation](technical-approach/mmsd-chemical-usage-monitoring-and-control.md) — p0084¶14 · prose · preferred
+        - **2.6.4. Milorganite Production and Biosolids Operations** (`mmsd-om-2028:25.2-6-4-milorganite-production-and-biosolids-operations`, pp. 84–85)
+          - 1. [Biosolids and Heat-Dried Product Production Monitoring](technical-approach/mmsd-biosolids-heat-dried-product-monitoring.md) — p0084¶16 · prose · preferred
+        - **2.6.5. Shared-Cost Transparency and Reporting** (`mmsd-om-2028:25.2-6-5-shared-cost-transparency-and-reporting`, p. 85)
+          - 1. [Shared-Cost Transparency and Reporting](technical-approach/mmsd-shared-cost-transparency-and-reporting.md) — p0085¶6 · prose · preferred
+        - **2.6.6. Continuous Improvement** (`mmsd-om-2028:25.2-6-6-continuous-improvement`, pp. 85–86)
+          - 1. [Continuous Improvement and Corrective Action Tracking](technical-approach/mmsd-continuous-improvement-corrective-action-tracking.md) — p0085¶14 · prose · preferred
+      - **2.7. Regulatory and Environmental Compliance** (`mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance`, pp. 86–90)
+        - 1. [Six-Point Compliance Program (Exhibit IV-37)](technical-approach/mmsd-six-point-compliance-program-exhibit.md) — p0086¶8 · table · preferred
+        - **2.7.1. Commitment to Zero Excursions** (`mmsd-om-2028:25.2-7-1-commitment-to-zero-excursions`, p. 87)
+          - 1. [Commitment to Zero Excursions and Compliance Governance](technical-approach/mmsd-commitment-to-zero-excursions.md) — p0087¶5 · prose · preferred
+          - 2. [Compliance Execution — Tracking, Reporting, Dashboards, and Laboratory QA/QC](technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md) — p0087¶10 · prose · preferred
+        - **2.7.5. Holistic, Systems-Based Approach** (`mmsd-om-2028:25.2-7-5-holistic-systems-based-approach`, pp. 88–89)
+          - 1. [Holistic, Systems-Based Approach — One Water, One Team](technical-approach/mmsd-holistic-systems-based-one-water-one-team.md) — p0088¶12 · prose · preferred
+        - **2.7.9. Unified Compliance Oversight and Continuous Improvement** (`mmsd-om-2028:25.2-7-9-unified-compliance-oversight-and-continuous-improvemen`, p. 89)
+          - 1. [Unified Compliance Oversight, Baseline Audit, and Ongoing Stewardship](technical-approach/mmsd-unified-compliance-oversight-and-stewardship.md) — p0089¶13 · prose · preferred
+      - **3.1. Jacobs Understands and Supports MMSD’s Maintenance Objectives and Challenges** (`mmsd-om-2028:26.3-1-jacobs-understands-and-supports-mmsd-s-maintenance-objec`, pp. 90–91)
+        - 1. [Maintenance Objectives and the Maintenance Visibility Gap Under the Incumbent](technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md) — p0090¶8 · prose · preferred
+        - 2. [PM/PdM as Front-End Investment — Evidence, Dashboards, and Material Readiness](technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md) — p0090¶18 · prose · preferred
+      - **3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution** (`mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag`, pp. 91–95)
+        - 1. [ISO 55001-Aligned Asset Management System, SAMP, and the Planning-to-Delivery Line of Site](technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md) — p0091¶5 · prose · fallback
+        - **3.2.1. Our ISO-aligned, 10-Box AMS is tailored to MMSD** (`mmsd-om-2028:26.3-2-1-our-iso-aligned-10-box-ams-is-tailored-to-mmsd`, pp. 91–93)
+          - 1. [10-Box Asset Management System, Elements 1–5 — Governance Through Asset Information](technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md) — p0091¶21 · prose · preferred
+          - 2. [10-Box Asset Management System, Elements 6–10 — People, Risk, Improvement, Performance, Outcomes](technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md) — p0093¶4 · prose · preferred
+        - **3.2.2. AMS Drives Maintenance Delivery** (`mmsd-om-2028:26.3-2-2-ams-drives-maintenance-delivery`, pp. 93–94)
+          - 1. [AMS Drives Maintenance Delivery — Weekly Planning, Daily Execution, and the Work Order Life Cycle](technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md) — p0093¶18 · prose · fallback
+        - **3.2.3. How our SAMP looks day-to-day** (`mmsd-om-2028:26.3-2-3-how-our-samp-looks-day-to-day`, pp. 94–95)
+          - 1. [Outcomes of an Integrated, Reliability-Focused Maintenance Program](technical-approach/mmsd-integrated-reliability-maintenance-program-outcomes.md) — p0095¶2 · prose · preferred
+      - **3.3. Reliability Enhancement Plans: Improving Equipment Uptime at JIWRF and SSWRF** (`mmsd-om-2028:26.3-3-reliability-enhancement-plans-improving-equipment-uptime`, pp. 95–97)
+        - 1. [Reliability Enhancement Plans for WRF Uptime — Cogeneration Data Flow and Alarm Strategy](technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md) — p0095¶10 · prose · preferred
+        - 2. [Cogeneration Reliability Levers and the Second WRF Enhancement Plan](technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md) — p0096¶3 · prose · preferred
+      - **3.5. CM and Work Order Management** (`mmsd-om-2028:26.3-5-cm-and-work-order-management`, pp. 97–98)
+        - 1. [PM Optimization, Operator-Driven Requests, and Work Planning](technical-approach/mmsd-pm-optimization-and-work-planning.md) — p0097¶6 · prose · preferred
+        - 2. [Corrective Maintenance, Work Order Closeout, and In-House Failure Analysis](technical-approach/mmsd-corrective-maintenance-and-failure-analysis.md) — p0097¶7 · prose · preferred
+      - **3.6. Fleet Maintenance** (`mmsd-om-2028:26.3-6-fleet-maintenance`, p. 98)
+        - 1. [Fleet Maintenance Program for Plant, Sewer, and Field Vehicles](technical-approach/mmsd-fleet-maintenance-program.md) — p0098¶3 · prose · preferred
+      - **3.7. Transparency, Reporting, and Governance** (`mmsd-om-2028:26.3-7-transparency-reporting-and-governance`, pp. 98–99)
+        - 1. [Maintenance Transparency, Live Dashboards, and Governance Committees](technical-approach/mmsd-maintenance-transparency-reporting-governance.md) — p0098¶12 · prose · preferred
+      - **3.9. Capital Project and Asset Life-Cycle Integration** (`mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration`, pp. 99–103)
+        - 1. [Maintenance Staffing, Shift Coverage, and Special Maintenance Functions](technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md) — p0099¶4 · prose · preferred
+        - 2. [Data-Driven Capital Improvement Planning and the Asset Replacement Model](technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md) — p0099¶9 · prose · preferred
+        - 3. [Client CIP Program Scale by Functional Area (Exhibit IV-47)](technical-approach/mmsd-cip-program-scale-table.md) — p0099¶11 · table · preferred
+        - **3.9.1. Integrated Approach to CIP Planning** (`mmsd-om-2028:26.3-9-1-integrated-approach-to-cip-planning`, pp. 99–103)
+          - 1. [Capital Project Coordination and O&M Input Across CIP Phases](technical-approach/mmsd-capital-project-coordination-and-om-input.md) — p0100¶23 · prose · preferred
+          - 2. [O&M-Informed Capital Upgrade at Wilmington Delivers 20% Cost Savings](technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md) — p0101¶14 · prose · preferred
+          - **ABOVE AND BEYOND: MMSD-Specific AI Assistant** (`mmsd-om-2028:26.above-and-beyond-mmsd-specific-ai-assistant`, pp. 102–103)
+            - 1. [Facility-Specific AI Maintenance Assistant (Above and Beyond)](technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md) — p0102¶6 · prose · preferred
+        - **4.1.1. Safety First: A Culture of Accountability and Prevention** (`mmsd-om-2028:27.4-1-1-safety-first-a-culture-of-accountability-and-preventio`, p. 103)
+          - 1. [Safety First — BeyondZero Culture, Safety360, and Industry-Leading Rates](compliance-plans/mmsd-safety-culture-beyondzero-and-performance-record.md) — p0103¶6 · prose · preferred
+        - **4.1.2. SMS and Required Plans** (`mmsd-om-2028:27.4-1-2-sms-and-required-plans`, pp. 103–104)
+          - 1. [Safety Management System and the 30-Day Safety Plan Contents](compliance-plans/mmsd-safety-management-system-required-plans.md) — p0103¶12 · prose · preferred
+        - **4.1.3. Leadership, Roles, and Integration** (`mmsd-om-2028:27.4-1-3-leadership-roles-and-integration`, p. 104)
+          - 1. [Safety Leadership Roles, Training, and Incident Reporting Timelines](compliance-plans/mmsd-safety-leadership-training-and-incident-reporting.md) — p0104¶4 · prose · preferred
+        - **4.1.5. Incident Reporting and Investigation** (`mmsd-om-2028:27.4-1-5-incident-reporting-and-investigation`, pp. 104–105)
+          - 1. [How Do We Do It — Safety Culture Practices and Typical Training Curriculum](compliance-plans/mmsd-safety-how-we-do-it-and-training-curriculum.md) — p0104¶16 · prose · preferred
+        - **4.1.6. Auditing, Inspections, and Continuous Improvement** (`mmsd-om-2028:27.4-1-6-auditing-inspections-and-continuous-improvement`, p. 105)
+          - 1. [Safety Auditing, Preliminary Site Assessment, and Commitment to a Safe Operation](compliance-plans/mmsd-safety-auditing-and-preliminary-site-assessment.md) — p0105¶3 · prose · preferred
+        - **4.1.8. Commitment to a Safe Operation** (`mmsd-om-2028:27.4-1-8-commitment-to-a-safe-operation`, pp. 105–106)
+          - 1. [Expert Spotlight — Global Security Leadership (Forrest Gist and Keith Waddell)](compliance-plans/mmsd-security-expert-spotlight-gist-waddell.md) — p0106¶6 · prose · preferred
+        - **4.2.1. Security, Integration, Prevention, and Rapid Response** (`mmsd-om-2028:27.4-2-1-security-integration-prevention-and-rapid-response`, p. 106)
+          - 1. [Site Physical Security — Program Framework and Management Structure](compliance-plans/mmsd-security-program-framework-and-management-structure.md) — p0106¶13 · prose · preferred
+        - **4.2.2. Security Management Structure** (`mmsd-om-2028:27.4-2-2-security-management-structure`, pp. 106–107)
+          - 1. [Access Control, Surveillance, and Security Incident Response](compliance-plans/mmsd-security-access-control-surveillance-and-incident-response.md) — p0107¶6 · prose · preferred
+        - **4.2.3. Integrated Prevention and Awareness** (`mmsd-om-2028:27.4-2-3-integrated-prevention-and-awareness`, pp. 107–108)
+          - 1. [Security Awareness, Active-Shooter and Workplace-Violence Preparedness](compliance-plans/mmsd-security-awareness-and-workplace-violence-preparedness.md) — p0107¶14 · prose · preferred
+        - **4.2.6. Innovative Security Enhancements** (`mmsd-om-2028:27.4-2-6-innovative-security-enhancements`, p. 108)
+          - 1. [Innovative Security Enhancements — Shoreline Detection, Mobile Video, Automated Workflows](compliance-plans/mmsd-innovative-security-enhancements.md) — p0108¶4 · prose · preferred
+        - **4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness** (`mmsd-om-2028:27.4-2-7-jacobs-business-networks-infrastructure-cybersecurity`, pp. 108–110)
+          - 1. [Enterprise Cybersecurity — Governance, Incident Response, and Network Protection](compliance-plans/mmsd-cybersecurity-governance-and-incident-response.md) — p0108¶11 · prose · preferred
+            - **Access Control and Account Management** (`mmsd-om-2028:27.access-control-and-account-management`, p. 109)
+              - 1. [Cybersecurity Access Control, Workforce Awareness, Data Protection, and Field Security](compliance-plans/mmsd-cybersecurity-access-awareness-and-data-protection.md) — p0109¶5 · prose · preferred
+            - **Field and Collection System Security** (`mmsd-om-2028:27.field-and-collection-system-security`, pp. 109–110)
+              - 1. [Emergency Preparedness and Response — ERP, Drills, and Resilient Operations](compliance-plans/mmsd-emergency-preparedness-and-response-program.md) — p0110¶4 · prose · preferred
+    - **IV.A.5. Continuous Improvement and Innovation** (`mmsd-om-2028:28`, pp. 111–117)
+      - 1. [Continuous Improvement Through Research-Driven Innovation — Why a Joint Innovation Model](technical-approach/mmsd-continuous-improvement-innovation-partnership-rationale.md) — p0111¶2 · prose · preferred
+      - **5.1. Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M** (`mmsd-om-2028:28.5-1-jacobs-annual-innovation-workshop-drives-continuous-impr`, pp. 111–112)
+        - 1. [Annual Innovation Workshop Drives Continuous Improvement and Elevated O&M](technical-approach/mmsd-annual-innovation-workshop.md) — p0111¶10 · prose · preferred
+        - 2. [Innovation Workshop Exhibit — Sample Agenda and Client Testimonials](technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md) — p0112¶3 · exhibit · fallback
+      - **5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee** (`mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par`, pp. 112–115)
+        - 1. [Value-Added Improvements and Innovations Included in the Base Fee](technical-approach/mmsd-value-added-improvements-included-in-base-fee.md) — p0112¶9 · prose · fallback
+        - 2. [Exhibit IV-52 (Part 1) — Value-Added Innovations Table: Studies, Offsite and Onsite Support, Regional Partnership](technical-approach/mmsd-exhibit-value-added-innovations-studies-support-partnership-table.md) — p0113¶5 · table · preferred
+        - 3. [Exhibit IV-52 (Part 2) — Value-Added Innovations Table: Workforce, Best Practices, and Continued Improvements](technical-approach/mmsd-exhibit-value-added-innovations-best-practices-improvements-table.md) — p0114¶1 · table · preferred
+        - 4. [Exhibit IV-52 (Part 3) — Value-Added Innovations Table: Solids Pilots, O&M Optimization, and Total Value](technical-approach/mmsd-exhibit-value-added-innovations-pilots-optimization-table.md) — p0115¶1 · table · preferred
+      - **5.4 Additional Improvements and Innovations for Future Savings** (`mmsd-om-2028:28.5-4-additional-improvements-and-innovations-for-future-savin`, pp. 116–117)
+        - 1. [Additional Improvements and Innovations for Future Savings — The Second Tier of Ideas](technical-approach/mmsd-future-improvements-and-innovations-for-additional-savings.md) — p0116¶2 · prose · preferred
+        - 2. [Exhibit IV-53 (Part 1) — Future Collaboration Table: Process Improvements](technical-approach/mmsd-exhibit-future-collaboration-process-improvements-table.md) — p0116¶4 · table · preferred
+        - 3. [Exhibit IV-53 (Part 2) — Future Collaboration Table: Intelligent O&M and SCADA/Security/OT Improvements](technical-approach/mmsd-exhibit-future-collaboration-intelligent-om-and-ot-security-table.md) — p0117¶1 · table · preferred
+    - **IV.A.7. Sustainable Approach to Operations** (`mmsd-om-2028:29`, pp. 118–119)
+      - 1. [Sustainable Approach to Operations — KPIs, Decarbonization, Resource Recovery, and Climate Resilience](technical-approach/mmsd-sustainable-approach-to-operations.md) — p0118¶2 · prose · preferred
+      - **7.2. Resource Recovery and Biosolids Optimization** (`mmsd-om-2028:29.7-2-resource-recovery-and-biosolids-optimization`, pp. 118–119)
+        - 1. [Exhibit IV-54 — Opportunities to Improve Sustainability for Operational Excellence](technical-approach/mmsd-exhibit-sustainability-opportunities-table.md) — p0118¶13 · table · preferred
+  - **IV.B. Pre-term Activities** (`mmsd-om-2028:30`, pp. 119–127)
+    - 1. [Transition Continuity — Addressing Transition Risk with a Proven Track Record](management-staffing/mmsd-transition-continuity-and-proven-track-record.md) — p0119¶8 · prose · fallback
+    - **1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees** (`mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo`, pp. 120–122)
+      - 1. [Seamless Workforce Transition — Union Engagement and Prior Transitions Map](management-staffing/mmsd-seamless-workforce-transition-and-union-engagement.md) — p0120¶13 · prose · preferred
+      - 2. [Step-by-Step Transition for New Employees and Retention of Institutional Knowledge](management-staffing/mmsd-step-by-step-employee-transition-and-knowledge-retention.md) — p0120¶11 · prose · preferred
+      - **1.2.1. Care and Sensitivity Toward Transitioning Employees** (`mmsd-om-2028:30.1-2-1-care-and-sensitivity-toward-transitioning-employees`, p. 121)
+        - 1. [Care and Sensitivity Toward Transitioning Employees — Workshops, Compensation, and Benefits](management-staffing/mmsd-transitioning-employee-care-workshops-and-compensation.md) — p0121¶9 · prose · preferred
+      - **1.2.3. Employee Satisfaction and Engagement** (`mmsd-om-2028:30.1-2-3-employee-satisfaction-and-engagement`, p. 122)
+        - 1. [Employee Satisfaction After Transition and the Six-Step Workforce Transition Process](management-staffing/mmsd-employee-satisfaction-and-six-step-transition-process.md) — p0122¶4 · prose · preferred
+      - **1.3.1. Kelly Irving – Transition Manager** (`mmsd-om-2028:30.1-3-1-kelly-irving-transition-manager`, p. 123)
+        - 1. [Transition Leadership Team Profiles and Program Management Office Role](management-staffing/mmsd-transition-leadership-team-and-pmo.md) — p0123¶4 · prose · preferred
+        - **Project Management Office** (`mmsd-om-2028:30.project-management-office`, p. 123)
+          - 1. [Transition Organization Team Roster (Exhibit IV-57)](management-staffing/mmsd-transition-organization-team-roster.md) — p0123¶10 · roster · preferred
+      - **1.3.5. Comprehensive Transition Support** (`mmsd-om-2028:30.1-3-5-comprehensive-transition-support`, p. 124)
+        - 1. [Comprehensive Transition Support — Specialist Team Working Side-by-Side with Client Staff](management-staffing/mmsd-comprehensive-transition-support.md) — p0124¶9 · prose · preferred
+    - **1.4. Transition Training Period** (`mmsd-om-2028:30.1-4-transition-training-period`, pp. 124–125)
+      - 1. [Transition Training Period — Onboarding, Shadowing, and Knowledge Capture Before Day 1](management-staffing/mmsd-transition-training-period-and-shadowing.md) — p0124¶18 · prose · preferred
+    - **1.5. Mobilization Overview** (`mmsd-om-2028:30.1-5-mobilization-overview`, p. 125)
+      - 1. [Mobilization Overview, Transition Governance, and Communications Plan](management-staffing/mmsd-mobilization-governance-and-communications-plan.md) — p0125¶4 · prose · preferred
+    - **1.9. Assurance of Continuity** (`mmsd-om-2028:30.1-9-assurance-of-continuity`, p. 125)
+      - 1. [Assurance of Continuity and the Phased 18-Month Pre-Term Schedule](management-staffing/mmsd-transition-schedule-and-assurance-of-continuity.md) — p0125¶21 · prose · preferred
+    - **1.10. Schedule for Smooth Transition of Operations and Related Systems** (`mmsd-om-2028:30.1-10-schedule-for-smooth-transition-of-operations-and-relate`, pp. 125–127)
+      - 1. [High-Level Transition Schedule (Exhibit IV-58)](management-staffing/mmsd-high-level-transition-schedule-table.md) — p0126¶3 · table · preferred
+    - **1. JACOBS’ DIFFERENTIATING STRENGTH IN CMMS IMPLEMENTATION** (`mmsd-om-2028:31.1-jacobs-differentiating-strength-in-cmms-implementation`, p. 127)
+      - 1. [Differentiating Strength in CMMS Implementation and Proven NexGen Experience](technical-approach/mmsd-cmms-differentiating-strength-and-nexgen-experience.md) — p0127¶7 · prose · preferred
+    - **2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK** (`mmsd-om-2028:31.2-current-context-and-partnership-framework`, pp. 127–131)
+      - 1. [Collaborative CMMS Implementation Process — Implementation Phase and Operational Phase](technical-approach/mmsd-cmms-collaborative-implementation-process.md) — p0128¶6 · prose · preferred
+      - **3.3. Key Personnel for CMMS Implementation** (`mmsd-om-2028:31.3-3-key-personnel-for-cmms-implementation`, p. 129)
+        - 1. [CMMS Implementation Key Personnel and Mini-Resumes](technical-approach/mmsd-cmms-implementation-key-personnel-roster.md) — p0129¶4 · roster · preferred
+      - **3.4. Integrations Required by Jacobs** (`mmsd-om-2028:31.3-4-integrations-required-by-jacobs`, pp. 129–131)
+        - 1. [Exhibit — Process and Benefits of CMMS Integrations with Jacobs' Technology Systems](technical-approach/mmsd-cmms-nexgen-integrations-table.md) — p0129¶12 · table · preferred
+    - **1. JACOBS UNDERSTANDS AND AGREES WITH MMSD’S GOALS FOR PdM** (`mmsd-om-2028:32.1-jacobs-understands-and-agrees-with-mmsd-s-goals-for-pdm`, p. 131)
+      - 1. [Predictive Maintenance Goals and the Current Fragmented PdM State](technical-approach/mmsd-pdm-goals-and-current-fragmented-state.md) — p0131¶5 · prose · preferred
+    - **2. SUMMARY OF LEVELS 1–3 PdM** (`mmsd-om-2028:32.2-summary-of-levels-1-3-pdm`, pp. 131–132)
+      - 1. [Levels 1–3 PdM Framework and the Benefit of an Integrated PdM Approach](technical-approach/mmsd-pdm-levels-1-3-framework.md) — p0131¶9 · prose · preferred
+      - **4.1. Proposed PdM Technologies for MMSD’s Treatment Facilities** (`mmsd-om-2028:32.4-1-proposed-pdm-technologies-for-mmsd-s-treatment-facilitie`, pp. 132–134)
+        - 1. [Recommended Level 3 PdM Technologies for the Treatment Facilities](technical-approach/mmsd-level3-pdm-technologies-treatment-facilities.md) — p0132¶11 · prose · preferred
+        - 2. [Exhibit — Prioritized Asset Types for Continuous PdM Monitoring](technical-approach/mmsd-level3-pdm-prioritized-asset-tiers-table.md) — p0133¶8 · table · preferred
+      - **4.3. Additional PdM Technologies Included in Our Base Fee** (`mmsd-om-2028:32.4-3-additional-pdm-technologies-included-in-our-base-fee`, pp. 134–135)
+        - 1. [Level 3 PdM Technologies for the Conveyance System — Deragger, SL-RAT, Dragonfly and ArgonLite](technical-approach/mmsd-level3-pdm-conveyance-technologies.md) — p0134¶5 · prose · preferred
+    - **5. ROLES AND RESPONSIBILITIES FOR SUCCESS** (`mmsd-om-2028:32.5-roles-and-responsibilities-for-success`, pp. 135–136)
+      - 1. [Roles and Responsibilities for a Disciplined PdM Program](technical-approach/mmsd-pdm-roles-and-responsibilities.md) — p0135¶7 · prose · preferred
+      - 2. [PdM Program Approach — Integrating Levels 1, 2, and 3 Data for Asset Protection and PM Results](technical-approach/mmsd-pdm-program-approach-integrating-levels-1-3.md) — p0135¶9 · prose · preferred
+    - **7. PHASED ROLLOUT** (`mmsd-om-2028:32.7-phased-rollout`, pp. 136–137)
+      - 1. [Phased Rollout of Level 3 PdM — Foundation, Expansion, Optimization and Maturity](technical-approach/mmsd-level3-pdm-phased-rollout.md) — p0136¶7 · prose · preferred
+    - **8. INTEGRATION WITH SCADA AND NEXGEN CMMS** (`mmsd-om-2028:32.8-integration-with-scada-and-nexgen-cmms`, p. 137)
+      - 1. [Level 3 PdM Integration with SCADA and the CMMS, and Critical Scope Considerations](technical-approach/mmsd-level3-pdm-integration-scada-cmms-and-considerations.md) — p0137¶4 · prose · preferred
+- **V. Statement on Regional Partnership** (`mmsd-om-2028:33`, pp. 138–145)
+  - 1. [Regional Partnership Opening — More Than an O&M Contract, a Fully Integrated Partner](win-themes/mmsd-regional-partnership-opening-commitment.md) — p0138¶4 · prose · preferred
+  - **V.A. Community-Focused Leadership Team to Drive Positive 
+Long-Term Outcomes** (`mmsd-om-2028:34`, pp. 138–139)
+    - 1. [Community-Focused Regional Partnership Leadership Team and Local Partner Firms](win-themes/mmsd-regional-partnership-leadership-team-and-local-partners.md) — p0138¶7 · roster · preferred
+  - **V.B. Strategies for Bettering the Service Area 
+through Targeted Regional Partnering** (`mmsd-om-2028:35`, pp. 139–143)
+    - 1. [Regional Partnering Plan — Charter, Cultivate, Implement, Measure, Recalibrate](win-themes/mmsd-regional-partnership-partnering-plan-steps.md) — p0139¶9 · prose · preferred
+    - 2. [Local Community Involvement Record — Building a Resilient, Inclusive, and Thriving Region](win-themes/mmsd-regional-partnership-local-community-involvement-record.md) — p0139¶25 · prose · preferred
+    - 3. [Recognizing the Client's Vision — Four Areas Where the District Already Leads](win-themes/mmsd-regional-partnership-client-vision-recognition.md) — p0140¶7 · prose · preferred
+    - **Leveraging an Ongoing Riverfront Estuary Renewal to Enhance Regional Benefits** (`mmsd-om-2028:35.leveraging-an-ongoing-riverfront-estuary-renewal-to-enhance`, pp. 140–141)
+      - 1. [Above-and-Beyond Idea — Fishing Pier and River Access Concept Tied to an Ongoing Sediment Cleanup](win-themes/mmsd-regional-partnership-fishing-pier-river-access-concept.md) — p0140¶14 · prose · preferred
+    - **1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS** (`mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon`, pp. 141–143)
+      - 1. [Partnering Strategy 01 — Community Health and Environmental Enhancement](win-themes/mmsd-regional-partnership-strategy-community-health-environment.md) — p0141¶13 · prose · preferred
+      - **Support Business Case Development** (`mmsd-om-2028:35.support-business-case-development`, p. 141)
+        - 1. [Partnering Strategy 02 — Workforce Development and Economic Growth](win-themes/mmsd-regional-partnership-strategy-workforce-economic-growth.md) — p0141¶47 · prose · preferred
+      - **Academic and Research Partnerships** (`mmsd-om-2028:35.academic-and-research-partnerships`, pp. 141–142)
+        - 1. [Partnering Strategy 03 — Sustainability and Resilience](win-themes/mmsd-regional-partnership-strategy-sustainability-resilience.md) — p0142¶11 · prose · preferred
+      - **Support Business Case Development** (`mmsd-om-2028:35.support-business-case-development-p142`, p. 142)
+        - 1. [Partnering Strategy 04 — Research and Development Initiatives](win-themes/mmsd-regional-partnership-strategy-research-development.md) — p0142¶26 · prose · preferred
+      - **Support Business Case Development** (`mmsd-om-2028:35.support-business-case-development-p142-31`, pp. 142–143)
+        - 1. [Research and Innovation Credentials — 40 WRF Studies Totaling $9.5M Since 2020](win-themes/mmsd-regional-partnership-wrf-research-portfolio.md) — p0142¶34 · prose · preferred
+    - **1. JXN Water, Jackson, Mississippi** (`mmsd-om-2028:36.1-jxn-water-jackson-mississippi`, pp. 143–144)
+      - 1. [Engaged Regional Partner Example — JXN Water, Jackson, Mississippi](win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md) — p0143¶11 · prose · preferred
+      - 2. [Engaged Regional Partner Example — City of San Marcos, Texas (19-Year Partnership)](win-themes/mmsd-regional-partnership-engaged-partner-san-marcos.md) — p0143¶20 · prose · preferred
+    - **4. Thames Tideway Program, London, UK** (`mmsd-om-2028:36.4-thames-tideway-program-london-uk`, pp. 144–145)
+      - 1. [Engaged Regional Partner Example — The Villages, Florida (Multi-System Community Engagement)](win-themes/mmsd-regional-partnership-engaged-partner-the-villages.md) — p0144¶12 · prose · preferred
+      - 2. [Engaged Regional Partner Example — Thames Tideway Program, London (Monetized Social Value Legacy)](win-themes/mmsd-regional-partnership-engaged-partner-thames-tideway.md) — p0144¶13 · prose · preferred
+  - **VI.A. Exceptions** (`mmsd-om-2028:38`, pp. 145–146)
+    - 1. [Exceptions and Proposed Contract Alternatives Table](qualifications/mmsd-exceptions-and-proposed-contract-alternatives-table.md) — p0145¶4 · table · preferred
+  - **VI.B. Markups to Exhibit J - Insurance** (`mmsd-om-2028:39`, pp. 146–147)
+    - 1. [Insurance Exhibit Markups — General Provisions, Certificates, and Notice](qualifications/mmsd-insurance-exhibit-markups-general-provisions.md) — p0146¶3 · prose · preferred
+    - **7. Make the following changes to Paragraph 9, subsection (c)** (`mmsd-om-2028:39.7-make-the-following-changes-to-paragraph-9-subsection-c`, p. 147)
+      - 1. [Insurance Exhibit Markups — Coverage Limits by Line (Auto, Umbrella, Pollution, Cyber)](qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md) — p0147¶3 · prose · preferred
+
+### ocwut-16-26
+
+- **Cover Letter** (`ocwut-16-26:01`, pp. 4–7)
+  - 1. [Cover Letter Opening — Decade-Long Relationship, System Challenges, and Baldrige Credibility](win-themes/cover-letter-utility-partnership-opening-and-system-challenges.md) — p0004¶6 · prose · preferred
+  - 2. [Cover Letter Value Bullets — Five Day-One Priorities from Due Diligence](win-themes/cover-letter-day-one-priorities-value-bullets.md) — p0004¶11 · prose · preferred
+  - 3. [Exhibit — "A Trusted Partnership Built Over Two Decades" Relationship Timeline](win-themes/exhibit-trusted-partnership-relationship-timeline.md) — p0005¶8 · exhibit · preferred
+  - 4. [Cover Letter Differentiators — Innovation, Large-Utility Scale, and a Culture of Doing Things Right](win-themes/cover-letter-innovation-scale-and-ethics-differentiators.md) — p0006¶1 · prose · preferred
+  - 5. [Cover Letter Close — Named Leadership Team, Contract Prerequisites, and Commitments](win-themes/cover-letter-named-leadership-and-contract-prerequisites-close.md) — p0006¶4 · prose · preferred
+  - **WE KNOW OKLAHOMA CITY—AND WHAT’S AT STAKE** (`ocwut-16-26:02.we-know-oklahoma-city-and-what-s-at-stake`, p. 8)
+    - 1. [Executive Summary Opening — Site-Verified Understanding and the Case for Change](win-themes/exec-summary-site-verified-understanding-and-case-for-change.md) — p0008¶7 · prose · preferred
+  - **A TEAM BUILT FOR THIS PROGRAM** (`ocwut-16-26:02.a-team-built-for-this-program`, pp. 8–9)
+    - 1. [Executive Summary Credential Beat — National O&M Bench, ENR Rankings, and Workforce Continuity](win-themes/exec-summary-national-om-bench-and-workforce-continuity.md) — p0008¶16 · prose · preferred
+  - **YOUR LEADERSHIP TEAM** (`ocwut-16-26:02.your-leadership-team`, p. 9)
+    - 1. [Executive Summary Leadership Roster — "Why This Matters to You" Table and the Corporate Bench Behind It](win-themes/exec-summary-leadership-team-roster-and-corporate-bench.md) — p0009¶4 · roster · preferred
+  - **TECHNICAL APPROACH: FACILITY-SPECIFIC, RESULTS-DRIVEN** (`ocwut-16-26:02.technical-approach-facility-specific-results-driven`, p. 9)
+    - 1. [Executive Summary Technical Approach — Five Pillars from Compliance to Performance Transparency](win-themes/exec-summary-technical-approach-pillars.md) — p0009¶9 · prose · preferred
+  - **REQUIRED PLANS: BUILT FOR OCWUT, READY ON DAY ONE** (`ocwut-16-26:02.required-plans-built-for-ocwut-ready-on-day-one`, p. 10)
+    - 1. [Executive Summary Required Plans — Draft Transition Plan and Staffing & Training Plan](win-themes/exec-summary-required-plans-transition-and-staffing.md) — p0010¶2 · prose · preferred
+    - 2. [Executive Summary Required Plan — Sludge Management Plan, Generation Through Disposal](win-themes/exec-summary-sludge-management-plan-commitment.md) — p0010¶4 · prose · preferred
+    - 3. [Executive Summary Required Plan — Solids Management Plan as One Coordinated System](win-themes/exec-summary-solids-management-plan-commitment.md) — p0010¶5 · prose · preferred
+    - 4. [Executive Summary Required Plan — Operational Integration Plan for Bringing CIP Projects Into Operations](win-themes/exec-summary-operational-integration-plan-commitment.md) — p0010¶6 · prose · preferred
+  - **INNOVATIONS & RECOMMENDED ALTERNATIVES** (`ocwut-16-26:02.innovations-recommended-alternatives`, p. 10)
+    - 1. [Executive Summary Innovation Beat and Closing Statement — Ideas Ready Now, Validated Before Implementation](win-themes/exec-summary-innovation-commitment-and-closing-statement.md) — p0010¶9 · prose · preferred
+    - 2. [Executive Summary Innovation Table — Three Named Innovations With Quantified Client Benefit](win-themes/exec-summary-innovation-benefit-table.md) — p0010¶11 · table · preferred
+  - **JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT** (`ocwut-16-26:03.jacobs-understands-ocwut-s-facilities-and-its-goals-for-this`, pp. 12–16)
+    - 1. [Facility Understanding and Due-Diligence Preparation (Multi-Plant Wastewater O&M, >110 MGD)](technical-approach/ocwut-facility-understanding-and-proposal-preparation.md) — p0012¶3 · prose · preferred
+    - 2. [Exhibit 1-1 Matrix — Regulatory Compliance, Permit Protection, and Reuse Commitments](technical-approach/ocwut-exhibit-1-1-regulatory-compliance-reuse-matrix.md) — p0012¶7 · table · preferred
+    - 3. [Exhibit 1-1 Matrix — Odor Control and Community Protection](technical-approach/ocwut-exhibit-1-1-odor-control-community-protection-matrix.md) — p0013¶3 · table · preferred
+    - 4. [Four-Layer Odor Control Strategy (Source Control, Equipment Restoration, Process Control, Early-Contract Assessment)](technical-approach/ocwut-four-layer-odor-control-strategy.md) — p0013¶4 · prose · preferred
+    - 5. [Exhibit 1-1 Matrix — Wet Weather and Solids Management](technical-approach/ocwut-exhibit-1-1-wet-weather-solids-management-matrix.md) — p0014¶2 · table · preferred
+    - 6. [Exhibit 1-1 Matrix — Asset Protection, Maintenance, and Capital Improvement Program Integration](technical-approach/ocwut-exhibit-1-1-asset-protection-cip-integration-matrix.md) — p0015¶2 · table · preferred
+    - 7. [Exhibit 1-1 Matrix — Staffing Stability, Performance Management, and Transition Execution](technical-approach/ocwut-exhibit-1-1-staffing-performance-transition-matrix.md) — p0016¶2 · table · preferred
+  - **Management Plan** (`ocwut-16-26:04`, pp. 17–25)
+    - 1. [Integrated Management Approach and Leadership Team for a Multi-Plant Wastewater System](management-staffing/ocwut-integrated-management-approach-and-leadership-team.md) — p0017¶2 · prose · preferred
+    - **Leadership That Knows Oklahoma City** (`ocwut-16-26:04.leadership-that-knows-oklahoma-city`, pp. 17–18)
+      - 1. [Client/Jacobs Leadership Alignment — Six-Tier "Zippering" Communication Table (Exhibit 1-2)](management-staffing/ocwut-leadership-alignment-zippering-table.md) — p0018¶2 · table · preferred
+    - **O&M MANAGEMENT PHILOSOPHY/CRITICAL SUCCESS FACTORS** (`ocwut-16-26:04.o-m-management-philosophy-critical-success-factors`, p. 19)
+      - 1. [O&M Management Philosophy — Seven Interconnected Critical Success Factors (Exhibit 1-3)](management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md) — p0019¶2 · prose · preferred
+      - 2. [Performance Management Framework — Understanding and Commitment to Performance-Based Standards](management-staffing/ocwut-performance-management-framework-schedule-5-standards.md) — p0019¶4 · prose · preferred
+        - **How We’ll Track, Measure, and Report Performance** (`ocwut-16-26:04.how-we-ll-track-measure-and-report-performance`, p. 20)
+          - 1. [Layered Performance Monitoring, Independent Oversight, and Five-Step Corrective Action Escalation (Exhibit 1-4)](management-staffing/ocwut-layered-performance-monitoring-and-corrective-action.md) — p0020¶11 · prose · preferred
+          - **Management Oversight** (`ocwut-16-26:04.management-oversight`, p. 20)
+            - 1. [QA/QC Program — Independent Management Oversight, QA/QC Plan, and the Four-Step Annual Quality Audit (Exhibits 1-5, 1-6)](management-staffing/ocwut-qaqc-program-oversight-and-annual-quality-audit.md) — p0020¶20 · prose · preferred
+        - **Reporting and Communication** (`ocwut-16-26:04.reporting-and-communication`, pp. 21–23)
+          - 1. [Reporting and Communication — The "No Surprises" Zippering Model](management-staffing/ocwut-reporting-and-communication-framework.md) — p0021¶16 · prose · preferred
+          - **Structured Communication and Reporting Framework** (`ocwut-16-26:04.structured-communication-and-reporting-framework`, pp. 22–23)
+            - 1. [Communications and Reporting Framework — Daily to Annual Deliverables Table (Exhibit 1-7)](management-staffing/ocwut-communications-reporting-framework-table.md) — p0022¶6 · table · preferred
+          - **Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M** (`ocwut-16-26:04.jacobs-annual-innovation-workshop-drives-continuous-improvem`, p. 23)
+            - 1. [Annual Innovation Workshop — No-Cost Continuous Improvement Forum, with WEFTEC Leadership Proof and Client Quotes](management-staffing/ocwut-annual-innovation-workshop-value-add.md) — p0023¶9 · prose · preferred
+        - **Performance Dashboard and Reporting Tools** (`ocwut-16-26:04.performance-dashboard-and-reporting-tools`, p. 23)
+          - 1. [Real-Time Performance Dashboard and Reporting Tools (Exhibit 1-8)](management-staffing/ocwut-performance-dashboard-and-reporting-tools.md) — p0023¶13 · prose · preferred
+        - **Management Systems** (`ocwut-16-26:04.management-systems`, p. 24)
+          - 1. [Integrated Management Systems and the 15 New / 9 Updated Required Plans (Exhibit 1-9)](management-staffing/ocwut-integrated-management-systems-and-required-plans.md) — p0024¶2 · prose · preferred
+        - **Community Engagement** (`ocwut-16-26:04.community-engagement`, p. 25)
+          - 1. [Community Engagement Program and Existing Local Involvement Record (Exhibit 1-10)](management-staffing/ocwut-community-engagement-program-and-local-involvement.md) — p0025¶2 · prose · preferred
+  - **Operations Plan** (`ocwut-16-26:05`, pp. 26–56)
+    - 1. [Operations Plan, SOP Library, and the Weekly Process Control Rhythm](technical-approach/ocwut-operations-plan-sop-library-process-control-rhythm.md) — p0026¶3 · prose · preferred
+    - **PROCESS CONTROL STRATEGY** (`ocwut-16-26:05.process-control-strategy`, pp. 26–33)
+      - 1. [Site-Visit Diagnosis of Process Control Fundamentals Across Four WWTPs](technical-approach/ocwut-four-facility-process-control-diagnosis.md) — p0026¶6 · prose · preferred
+      - 2. [Facility Process Control Priority Matrix (What We Found / What We'll Do)](technical-approach/facility-process-control-priority-matrix.md) — p0027¶4 · table · preferred
+      - **Jacobs’ Process Control Strategy Tailored to Each OCWUT Facility** (`ocwut-16-26:05.jacobs-process-control-strategy-tailored-to-each-ocwut-facil`, pp. 28–30)
+        - 1. [Phased Process Control Strategy — Stabilize, Optimize, Sustain (with UPCP Target Parameters)](technical-approach/phased-process-control-strategy-stabilize-optimize-sustain.md) — p0028¶4 · prose · preferred
+        - **North Canadian WWTP — Stabilize First, Optimize Second** (`ocwut-16-26:05.north-canadian-wwtp-stabilize-first-optimize-second`, pp. 28–29)
+          - 1. [Compliance Recovery at a Multi-Train Activated Sludge Plant — SRT-Based Wasting, Clarifier Protection, and DO Profiling](technical-approach/north-canadian-process-control-stabilize-first.md) — p0028¶31 · prose · preferred
+        - **Deer Creek WWTP— Breaking the Cycle of Reactive Operations** (`ocwut-16-26:05.deer-creek-wwtp-breaking-the-cycle-of-reactive-operations`, pp. 29–30)
+          - 1. [Breaking the Cycle of Reactive Operations — Solids Handling, Filtration Automation, and H₂S Relief at a Loaded Plant](technical-approach/deer-creek-process-control-breaking-reactive-cycle.md) — p0029¶12 · prose · preferred
+        - **Chisholm Creek WWTP—Protecting What’s Working, Reducing What’s at Risk** (`ocwut-16-26:05.chisholm-creek-wwtp-protecting-what-s-working-reducing-what`, p. 30)
+          - 1. [Protecting What's Working — Proactive Risk Reduction at the Best-Performing Plant in a Portfolio](technical-approach/chisholm-creek-process-control-proactive-risk-reduction.md) — p0030¶4 · prose · preferred
+        - **South Canadian WWTP— New Plant, Right Habits from Day One** (`ocwut-16-26:05.south-canadian-wwtp-new-plant-right-habits-from-day-one`, p. 30)
+          - 1. [New Plant, Right Habits from Day One — Startup Process Control and On-Site Hypochlorite Generation](technical-approach/south-canadian-new-plant-process-control-day-one.md) — p0030¶9 · prose · preferred
+        - **Operating Under Low-Flow and Minimum-Load Conditions** (`ocwut-16-26:05.operating-under-low-flow-and-minimum-load-conditions`, pp. 31–33)
+          - 1. [Operating Under Low-Flow and Minimum-Load Conditions](technical-approach/low-flow-minimum-load-operating-strategy.md) — p0031¶3 · prose · preferred
+          - 2. [Process Control Tool Set and Client Benefits Table (UPCPs, Mass Balance, Sampling Plan, STT, Data Management, SOPs, Round Sheets, Resiliency Plan)](technical-approach/process-control-tools-benefits-table.md) — p0032¶3 · table · preferred
+      - **Process Control Doesn’t Operate in a Silo** (`ocwut-16-26:05.process-control-doesn-t-operate-in-a-silo`, p. 33)
+        - 1. [Process Control Doesn't Operate in a Silo — Energy, Standby Equipment, and Cross-Program Interdependencies](technical-approach/process-control-interdependencies-energy-equipment-rotation.md) — p0033¶8 · prose · preferred
+    - **REUSE WATER** (`ocwut-16-26:05.reuse-water`, pp. 34–36)
+      - 1. [Reuse Water Program — Understanding, Reuse Expertise, and Service Standard](compliance-plans/reuse-water-program-understanding-and-expertise.md) — p0034¶3 · prose · preferred
+        - **Three Customers, Three Facilities, One Standard** (`ocwut-16-26:05.three-customers-three-facilities-one-standard`, p. 34)
+          - 1. [Reuse Disinfection Challenge Comparison Table (Three Facilities, Three Issues)](compliance-plans/reuse-disinfection-challenge-comparison-table.md) — p0034¶14 · table · preferred
+      - **Our Approach: Reliable Reuse, Every Delivery** (`ocwut-16-26:05.our-approach-reliable-reuse-every-delivery`, pp. 34–36)
+        - 1. [Reuse Portfolio Proof — Photo Callouts (Largest Advanced Reuse Facility, West Basin, San Marcos)](compliance-plans/reuse-portfolio-proof-exhibit-callouts.md) — p0035¶1 · exhibit · preferred
+        - **Getting Disinfection Right — Facility by Facility** (`ocwut-16-26:05.getting-disinfection-right-facility-by-facility`, p. 35)
+          - 1. [Reuse Disinfection — Facility-by-Facility Approach and Hypochlorite Transition](compliance-plans/reuse-disinfection-facility-by-facility-approach.md) — p0035¶3 · prose · preferred
+        - **Continuous Verification, Not Assumptions** (`ocwut-16-26:05.continuous-verification-not-assumptions`, p. 35)
+          - 1. [Reuse Monitoring, Distribution Integrity, and Operational Continuity](compliance-plans/reuse-monitoring-distribution-integrity-and-continuity.md) — p0035¶23 · prose · preferred
+      - **Why Compliance Matters to OCWUT** (`ocwut-16-26:05.why-compliance-matters-to-ocwut`, p. 36)
+        - 1. [Regulatory Compliance Program — Why It Matters, Leadership, and Governance](compliance-plans/regulatory-compliance-program-leadership-and-governance.md) — p0036¶14 · prose · preferred
+      - **Monitoring, Data, and Reporting** (`ocwut-16-26:05.monitoring-data-and-reporting`, p. 36)
+        - 1. [Compliance Monitoring, Data, Reporting, and Excursion Notification](compliance-plans/compliance-monitoring-data-and-reporting.md) — p0036¶18 · prose · preferred
+      - **Laboratory and QA/QC Integration** (`ocwut-16-26:05.laboratory-and-qa-qc-integration`, pp. 37–38)
+        - 1. [Laboratory Program, Certification Gap, and QA/QC Integration](compliance-plans/laboratory-program-and-qaqc-integration-ocwut.md) — p0037¶12 · prose · preferred
+        - 2. [Sampling — Compliance and Process Control Programs, Sample Tracking Tool, and Biomonitoring](compliance-plans/sampling-compliance-and-process-control.md) — p0038¶4 · prose · preferred
+      - **Continuous Improvement and Compliance Assurance** (`ocwut-16-26:05.continuous-improvement-and-compliance-assurance`, pp. 38–39)
+        - 1. [Continuous Improvement, Baseline Compliance Audit, and Laboratory Compliance Tools](compliance-plans/continuous-improvement-compliance-assurance-and-tools.md) — p0038¶12 · prose · preferred
+      - **Oklahoma Regulatory Knowledge and ODEQ Relationship** (`ocwut-16-26:05.oklahoma-regulatory-knowledge-and-odeq-relationship`, p. 39)
+        - 1. [Oklahoma Regulatory Knowledge and ODEQ Relationship](technical-approach/ocwut-oklahoma-regulatory-knowledge-odeq-relationship.md) — p0039¶3 · prose · preferred
+      - **Why Odor Management and Control Matters to OCWUT** (`ocwut-16-26:05.why-odor-management-and-control-matters-to-ocwut`, p. 39)
+        - 1. [Why Odor Management Matters and the Prevent-Detect-Respond-Improve Framework](technical-approach/ocwut-odor-control-why-it-matters-and-systemwide-framework.md) — p0039¶11 · prose · preferred
+      - **Collection System Odor Control** (`ocwut-16-26:05.collection-system-odor-control`, pp. 40–42)
+        - 1. [Collection System Odor Control — WATS Modeling, Wet-Well Optimization, and Wet-Weather Basin Management](technical-approach/ocwut-collection-system-odor-control-wats-and-wet-weather-basins.md) — p0040¶20 · prose · preferred
+      - **Maintenance as a Driver of Odor Control** (`ocwut-16-26:05.maintenance-as-a-driver-of-odor-control`, pp. 42–43)
+        - 1. [Treatment Facility Odor Control — Source Sampling, Dispersion Modeling, Chemical Optimization, and Equipment Restoration](technical-approach/ocwut-wwtf-odor-control-dispersion-modeling-and-equipment-restoration.md) — p0042¶11 · prose · preferred
+        - 2. [Maintenance as a Driver of Odor Control](technical-approach/ocwut-maintenance-as-a-driver-of-odor-control.md) — p0042¶10 · prose · preferred
+      - **Advanced Monitoring and Data-Driven Control** (`ocwut-16-26:05.advanced-monitoring-and-data-driven-control`, pp. 43–44)
+        - 1. [Advanced Odor Monitoring and Data-Driven Control — Sulfilogger, Weather Stations, and Personal Gas Monitors](technical-approach/ocwut-advanced-odor-monitoring-and-data-driven-control.md) — p0043¶6 · prose · preferred
+      - **Biosolids and Disinfection Systems as Odor Drivers** (`ocwut-16-26:05.biosolids-and-disinfection-systems-as-odor-drivers`, p. 44)
+        - 1. [Biosolids and Disinfection Systems as Odor Drivers](technical-approach/ocwut-biosolids-and-disinfection-systems-as-odor-drivers.md) — p0044¶3 · prose · preferred
+      - **Fence-Line Performance and Compliance** (`ocwut-16-26:05.fence-line-performance-and-compliance`, p. 44)
+        - 1. [Fence-Line Odor Performance, One-Hour Complaint Response, and Integration with Capital Planning](technical-approach/ocwut-fence-line-performance-rapid-response-and-integration.md) — p0044¶7 · prose · preferred
+      - **Collaborative Automation and OT Support Approach Aligned with OCWUT Governance** (`ocwut-16-26:05.collaborative-automation-and-ot-support-approach-aligned-wit`, p. 45)
+        - 1. [Owner-Governed SCADA/OT Support Approach with Incumbent System Knowledge](technical-approach/ocwut-owner-governed-scada-ot-support-approach.md) — p0045¶3 · prose · preferred
+      - **Process Control System Phased Performance Improvement Plan** (`ocwut-16-26:05.process-control-system-phased-performance-improvement-plan`, pp. 45–46)
+        - 1. [Phased Process Control Performance Improvement Plan — Phase 1 Shared Baseline](technical-approach/ocwut-process-control-phased-improvement-plan-phase-1-baseline.md) — p0045¶7 · prose · preferred
+        - 2. [On-Site I&C Technicians Backed by Regional OT/SCADA and Cybersecurity SMEs](technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md) — p0045¶11 · roster · preferred
+        - **Phase 1 – Establishing a Shared Baseline for Process Control Performance** (`ocwut-16-26:05.phase-1-establishing-a-shared-baseline-for-process-control-p`, pp. 45–46)
+          - 1. [SCADA/OT/Cybersecurity Responsibility Split — Owner-Managed, Shared, Contractor-Managed](technical-approach/ocwut-scada-ot-cybersecurity-responsibility-split-exhibit.md) — p0046¶1 · table · preferred
+      - **Phase 2 – Monitoring, Planning, and Process Refinement** (`ocwut-16-26:05.phase-2-monitoring-planning-and-process-refinement`, p. 46)
+        - 1. [Phase 2 — "SCADA You Can Trust" Monitoring, Planning, and Process Refinement](technical-approach/ocwut-process-control-phase-2-scada-you-can-trust.md) — p0046¶13 · prose · preferred
+      - **Phase 3: Process Automation Integration** (`ocwut-16-26:05.phase-3-process-automation-integration`, pp. 46–47)
+        - 1. [Phase 3 — Process Automation Integration and Demand-Responsive Aeration Control](technical-approach/ocwut-process-control-phase-3-automation-integration.md) — p0046¶20 · prose · preferred
+      - **Operational Technology Cybersecurity Approach** (`ocwut-16-26:05.operational-technology-cybersecurity-approach`, p. 47)
+        - 1. [Operational Technology Cybersecurity Approach and Living ITS Implementation and Use Plan](technical-approach/ocwut-operational-technology-cybersecurity-its-plan.md) — p0047¶3 · prose · preferred
+        - 2. [Phase 3 Automation Integration Strategies, Results, and Benefits (Exhibit)](technical-approach/ocwut-phase-3-automation-strategies-and-benefits-exhibit.md) — p0047¶5 · table · preferred
+      - **CIP Integration and Regional OT Support** (`ocwut-16-26:05.cip-integration-and-regional-ot-support`, pp. 47–48)
+        - 1. [CIP Integration and 24/7 Regional OT Support with OEM Partnerships](technical-approach/ocwut-cip-integration-and-regional-ot-support.md) — p0047¶10 · prose · preferred
+    - **SAFETY AND SITE SECURITY** (`ocwut-16-26:05.safety-and-site-security`, pp. 48–49)
+      - 1. [Safety Program and Plan — Leadership, Accountability, and Safe Work Control](compliance-plans/ocwut-safety-program-leadership-accountability.md) — p0048¶4 · prose · preferred
+      - 2. [Safety and Site Security SME Bios Supporting the On-Site O&M Team](compliance-plans/ocwut-safety-site-security-sme-bios.md) — p0048¶6 · prose · preferred
+      - **Training, Personal Protective Equipment (PPE), and Chemical Safety** (`ocwut-16-26:05.training-personal-protective-equipment-ppe-and-chemical-safe`, pp. 48–49)
+        - 1. [Role-Based Safety Training, PPE, and Chemical/H2S Field Controls](compliance-plans/ocwut-safety-training-ppe-chemical-h2s-controls.md) — p0048¶15 · prose · preferred
+      - **Physical and Electronic Security** (`ocwut-16-26:05.physical-and-electronic-security`, p. 49)
+        - 1. [Physical and Electronic Site Security Plan with Drug Detection and Deterrence](compliance-plans/ocwut-physical-electronic-security-drug-detection.md) — p0049¶5 · prose · preferred
+      - **Protecting Service, Public Health, and Community Confidence** (`ocwut-16-26:05.protecting-service-public-health-and-community-confidence`, p. 50)
+        - 1. [Emergency Operating Plan — Prepare, Respond, Recover, and Coordinate](compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md) — p0050¶3 · prose · preferred
+      - **Elements of Our Emergency Operating Plan** (`ocwut-16-26:05.elements-of-our-emergency-operating-plan`, pp. 51–52)
+        - 1. [Elements of the Emergency Operating Plan — Event Response Matrix](compliance-plans/ocwut-emergency-operating-plan-elements-matrix.md) — p0051¶4 · table · fallback
+      - **Staffing Resilience and Continuity of Operations** (`ocwut-16-26:05.staffing-resilience-and-continuity-of-operations`, p. 52)
+        - 1. [Staffing Resilience, Regional Emergency Support, and Ongoing Readiness](compliance-plans/ocwut-staffing-resilience-regional-emergency-support.md) — p0052¶3 · prose · preferred
+      - **Our Approach: Baseline-Driven Energy Management** (`ocwut-16-26:05.our-approach-baseline-driven-energy-management`, p. 53)
+        - 1. [Baseline-Driven Energy Management Across a Multi-Facility Portfolio](technical-approach/baseline-driven-energy-management-multi-facility-portfolio.md) — p0053¶13 · prose · preferred
+        - **Collaboration on Opportunities for Phased Energy Optimization** (`ocwut-16-26:05.collaboration-on-opportunities-for-phased-energy-optimizatio`, pp. 53–54)
+          - 1. [Phased No-Cost and Low-Cost Energy and Chemical Optimization Opportunities](technical-approach/phased-no-cost-low-cost-energy-optimization-opportunities.md) — p0053¶19 · prose · preferred
+      - **Proven Results at Comparable Facilities** (`ocwut-16-26:05.proven-results-at-comparable-facilities`, p. 54)
+        - 1. [Proven Energy Optimization Results at Comparable Facilities](technical-approach/energy-optimization-proven-results-comparable-facilities.md) — p0054¶10 · prose · preferred
+      - **Challenges We’ll Address** (`ocwut-16-26:05.challenges-we-ll-address`, pp. 55–56)
+        - 1. [Major Pump Station Operations — Odor, Hydraulic Reliability, and Asset Stewardship](technical-approach/major-pump-station-operations-odor-hydraulic-reliability.md) — p0055¶7 · prose · preferred
+      - **Septage Receiving Program** (`ocwut-16-26:05.septage-receiving-program`, p. 56)
+        - 1. [Septage Receiving Program — Intake Discipline, Hauler Controls, and Solids Feedback Loop](technical-approach/septage-receiving-program-hauler-controls-and-feedback-loop.md) — p0056¶5 · prose · preferred
+        - 2. [Phased Process Control Approach — Three-Phase Stabilize-to-Optimize Exhibit](technical-approach/phased-process-control-approach-three-phase-exhibit.md) — p0056¶6 · table · preferred
+    - **What We Found Across the System** (`ocwut-16-26:06.what-we-found-across-the-system`, p. 57)
+      - 1. [Maintenance Plan Opener and System-Wide Due Diligence Findings](technical-approach/maintenance-plan-system-findings-asset-condition.md) — p0057¶5 · prose · preferred
+    - **Facility-by-Facility Maintenance Priorities** (`ocwut-16-26:06.facility-by-facility-maintenance-priorities`, p. 58)
+      - 1. [Facility-by-Facility Maintenance Priorities Table (Exhibit 1-28)](technical-approach/facility-by-facility-maintenance-priorities-table.md) — p0058¶5 · table · preferred
+    - **Asset Management System (AMS) — From Framework to Field Results** (`ocwut-16-26:06.asset-management-system-ams-from-framework-to-field-results`, p. 59)
+      - 1. [Asset Management System — ISO 55001 Framework, SAMP, and Governance](technical-approach/asset-management-system-iso-55001-samp-governance.md) — p0059¶2 · prose · preferred
+    - **Asset Management Plans (AMPs)** (`ocwut-16-26:06.asset-management-plans-amps`, pp. 59–62)
+      - 1. [Maintenance and Asset Management SME Bench — On-Site Owners and National Support](technical-approach/maintenance-asset-management-sme-bench-roster.md) — p0059¶23 · roster · preferred
+      - 2. [NexGen EAM — CMMS Governance and Implementation-to-Operations Continuity](technical-approach/nexgen-eam-cmms-governance-and-implementation-continuity.md) — p0060¶4 · prose · preferred
+      - **Lifecycle Delivery and How the SAMP Looks Day-to-Day** (`ocwut-16-26:06.lifecycle-delivery-and-how-the-samp-looks-day-to-day`, p. 61)
+        - 1. [Lifecycle Delivery and the Work Order Lifecycle Process (Exhibit 1-31)](technical-approach/work-order-lifecycle-process.md) — p0061¶2 · prose · preferred
+    - **Preventive Maintenance Program** (`ocwut-16-26:06.preventive-maintenance-program`, pp. 62–63)
+      - 1. [Continual Improvement Loops and the Preventive Maintenance Program](technical-approach/continual-improvement-and-preventive-maintenance-program.md) — p0062¶7 · prose · preferred
+      - **Drain and Clean Program** (`ocwut-16-26:06.drain-and-clean-program`, p. 62)
+        - 1. [Drain and Clean, Cathodic Protection, and Buildings and Grounds Program](technical-approach/drain-clean-corrosion-control-housekeeping-program.md) — p0062¶22 · prose · preferred
+    - **Predictive Maintenance (PdM) Program** (`ocwut-16-26:06.predictive-maintenance-pdm-program`, pp. 63–64)
+      - 1. [Predictive Maintenance Program — Vibration, Electrical Testing, and Full PdM Technology Suite](technical-approach/predictive-maintenance-technology-suite-program.md) — p0063¶7 · prose · preferred
+    - **Corrective Maintenance Program** (`ocwut-16-26:06.corrective-maintenance-program`, p. 64)
+      - 1. [Corrective Maintenance Program — Breaking the Failure Chain](technical-approach/corrective-maintenance-program-failure-chain.md) — p0064¶8 · prose · preferred
+    - **Maintenance Staffing Approach** (`ocwut-16-26:06.maintenance-staffing-approach`, pp. 64–65)
+      - 1. [Maintenance Staffing Approach and Drain-and-Clean Restructuring](technical-approach/maintenance-staffing-and-drain-clean-restructuring.md) — p0064¶17 · prose · preferred
+      - 2. [Integrated Maintenance and Asset Management Team with Regional Maintenance Support](technical-approach/integrated-maintenance-asset-management-team-regional-support.md) — p0065¶3 · prose · preferred
+    - **Warranty Management** (`ocwut-16-26:06.warranty-management`, pp. 65–66)
+      - 1. [Warranty Management Through a CMMS Warranty Register](technical-approach/warranty-management-cmms-warranty-register.md) — p0065¶21 · prose · preferred
+    - **Inventory Management and Spare Parts** (`ocwut-16-26:06.inventory-management-and-spare-parts`, p. 66)
+      - 1. [Spare Parts and Inventory Management for Critical Assets](technical-approach/spare-parts-inventory-management-critical-assets.md) — p0066¶3 · prose · preferred
+    - **Maintenance and Repair (M&R) Fund and Rehabilitation and Replacement (R&R) Fund Management** (`ocwut-16-26:06.maintenance-and-repair-m-r-fund-and-rehabilitation-and-repla`, p. 66)
+      - 1. [Tiered M&R Fund and R&R Fund Management with Documentation Discipline](technical-approach/mr-and-rr-fund-management-documentation-discipline.md) — p0066¶7 · prose · preferred
+    - **On-Call and Emergency Maintenance Response** (`ocwut-16-26:06.on-call-and-emergency-maintenance-response`, p. 66)
+      - 1. [On-Call Rotation and Emergency Maintenance Response](technical-approach/on-call-and-emergency-maintenance-response.md) — p0066¶14 · prose · preferred
+    - **Continuous Improvement and Performance Reporting** (`ocwut-16-26:06.continuous-improvement-and-performance-reporting`, p. 67)
+      - 1. [Three-Phase Maintenance Continuous Improvement and Performance Reporting](technical-approach/maintenance-three-phase-continuous-improvement-reporting.md) — p0067¶2 · prose · preferred
+    - **Asset Management-Driven Capital Planning** (`ocwut-16-26:06.asset-management-driven-capital-planning`, pp. 67–68)
+      - 1. [ARM Tool — Asset Replacement Modeling for Capital Planning and the Annual Facilities Status Report](technical-approach/arm-tool-asset-replacement-modeling-capital-planning.md) — p0067¶12 · prose · preferred
+      - **Dedicated CIP Construction Manager** (`ocwut-16-26:06.dedicated-cip-construction-manager`, p. 68)
+        - 1. [CIP Project Implementation, Construction Coordination, and the Dedicated CIP Construction Manager](technical-approach/cip-implementation-and-construction-coordination.md) — p0068¶13 · prose · preferred
+      - **Phase-by-Phase CIP Support** (`ocwut-16-26:06.phase-by-phase-cip-support`, p. 69)
+        - 1. [Phase-by-Phase CIP Support Table (Preliminary Report Through Operate & Maintain)](technical-approach/cip-phase-by-phase-support-table.md) — p0069¶5 · table · preferred
+      - **Maintenance of Plant Operations (MOPO)** (`ocwut-16-26:06.maintenance-of-plant-operations-mopo`, p. 69)
+        - 1. [Maintenance of Plant Operations (MOPO) and the Integrated O&M-Plus-Engineering CIP Advantage](technical-approach/mopo-and-integrated-om-engineering-cip-advantage.md) — p0069¶7 · prose · preferred
+- **Section 3 | Experience and Qualifications of the Firm and Management Team** (`ocwut-16-26:08`, pp. 73–123)
+  - 1. [Firm Qualifications Opener and Corporate Scale](qualifications/firm-qualifications-opener-and-corporate-scale.md) — p0073¶2 · prose · preferred
+  - 2. [Corporate Fact Box and Employer Culture](qualifications/corporate-fact-box-and-employer-culture.md) — p0073¶4 · prose · preferred
+  - 3. [Environmental Compliance Record and Transparency Posture](qualifications/environmental-compliance-record-and-transparency-posture.md) — p0073¶7 · prose · preferred
+  - 4. [Why Corporate Structure Matters — Stability Comparison Table](qualifications/why-corporate-structure-matters-stability-comparison.md) — p0074¶3 · table · preferred
+  - **JACOBS’ EXPERIENCE PROVIDING FULL O&M SERVICES FOR WATER AND WASTEWATER TREATMENT FACILITIES** (`ocwut-16-26:08.jacobs-experience-providing-full-o-m-services-for-water-and`, pp. 74–75)
+    - 1. [Full O&M Service Portfolio and Integrated Delivery Model](qualifications/full-om-service-portfolio-and-integrated-delivery-model.md) — p0074¶7 · prose · preferred
+  - **OKLAHOMA EXPERIENCE AND RESOURCES** (`ocwut-16-26:08.oklahoma-experience-and-resources`, pp. 75–76)
+    - 1. [Oklahoma Experience and Regional Resources](qualifications/oklahoma-experience-and-regional-resources.md) — p0075¶5 · prose · preferred
+  - **BIOSOLIDS/LAND APPLICATION** (`ocwut-16-26:08.biosolids-land-application`, p. 76)
+    - 1. [Biosolids and Land Application Capability with Case Studies](qualifications/biosolids-land-application-capability-and-case-studies.md) — p0076¶5 · prose · preferred
+  - **ODOR CONTROL** (`ocwut-16-26:08.odor-control`, p. 77)
+    - 1. [Odor Control Capability and Case Studies](qualifications/odor-control-capability-and-case-studies.md) — p0077¶6 · prose · preferred
+  - **ON-SITE SODIUM HYPOCHLORITE GENERATION** (`ocwut-16-26:08.on-site-sodium-hypochlorite-generation`, pp. 78–79)
+    - 1. [On-Site Sodium Hypochlorite Generation Experience](qualifications/on-site-sodium-hypochlorite-generation-experience.md) — p0078¶2 · prose · preferred
+    - 2. [Maintenance and Asset Management Capability with Case Studies](qualifications/maintenance-and-asset-management-case-studies.md) — p0078¶6 · prose · preferred
+    - 3. [OSHG Experience Examples Table (Exhibit 3-4)](qualifications/oshg-experience-examples-table.md) — p0078¶11 · table · preferred
+  - **COMMUNICATIONS/TRANSPARENCY** (`ocwut-16-26:08.communications-transparency`, p. 79)
+    - 1. [Communications and Transparency Partnership Record](qualifications/communications-and-transparency-partnership-record.md) — p0079¶7 · prose · preferred
+  - **SEPTAGE RECEIVING** (`ocwut-16-26:08.septage-receiving`, pp. 79–80)
+    - 1. [Septage Receiving Program Experience](qualifications/septage-receiving-program-experience.md) — p0079¶11 · prose · preferred
+  - **CONTRACT COMPLIANCE** (`ocwut-16-26:08.contract-compliance`, p. 80)
+    - 1. [Contract Compliance Record and Audit Program](qualifications/contract-compliance-record-and-audit-program.md) — p0080¶6 · prose · preferred
+  - **PUMP STATIONS** (`ocwut-16-26:08.pump-stations`, pp. 80–81)
+    - 1. [Pump Station O&M Experience and Portfolio Table (Exhibit 3-5)](qualifications/pump-station-om-experience-and-portfolio-table.md) — p0080¶10 · table · preferred
+  - **EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM** (`ocwut-16-26:08.experience-and-qualifications-of-the-management-team`, pp. 81–82)
+    - 1. [Management Structure and Team Familiarity — "We Know Your Plants Already"](management-staffing/ocwut-management-structure-and-team-familiarity.md) — p0081¶3 · prose · preferred
+    - 2. [Exhibit 3-6 — Leadership You Know, Support You Can Count On (management org tiles)](management-staffing/ocwut-leadership-and-corporate-support-exhibit.md) — p0081¶9 · exhibit · preferred
+  - **MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL** (`ocwut-16-26:08.management-team-and-additional-key-personnel`, pp. 82–86)
+    - 1. [Project Leadership Triad Profiles — PM, Assistant PM, and Project Director](management-staffing/ocwut-project-leadership-triad-profiles.md) — p0082¶4 · prose · preferred
+    - 2. [QA/QC Manager and Plant Operations Manager Profiles (North Canadian/Witcher, Chisholm Creek)](management-staffing/ocwut-qaqc-and-plant-operations-manager-profiles.md) — p0083¶1 · prose · preferred
+    - 3. [Operations Manager and Maintenance Manager Profiles (Deer Creek, South Canadian, Maintenance)](management-staffing/ocwut-operations-and-maintenance-manager-profiles.md) — p0084¶2 · prose · preferred
+    - 4. [Asset Manager, Laboratory Manager, and CIP Construction Manager Profiles](management-staffing/ocwut-asset-laboratory-cip-manager-profiles.md) — p0085¶1 · prose · preferred
+    - 5. [I&C Technician and Transition Manager Profiles — Additional Key Personnel](management-staffing/ocwut-ic-technician-and-transition-manager-profiles.md) — p0086¶1 · prose · preferred
+  - **CORPORATE SUPPORT TEAM** (`ocwut-16-26:08.corporate-support-team`, pp. 86–87)
+    - 1. [Corporate Support Team — Executive Sponsor, Strategic Advisor, Client Account Manager, Regional and Area Managers](management-staffing/ocwut-corporate-support-team-profiles.md) — p0086¶8 · roster · preferred
+  - **OFF-SITE SME SUPPORT RESOURCES** (`ocwut-16-26:08.off-site-sme-support-resources`, p. 88)
+    - 1. [Off-Site SME Support Resources — Exhibit 3-7 Bench and O&M SME Team Lead](management-staffing/ocwut-offsite-sme-support-resources.md) — p0088¶2 · roster · preferred
+  - **OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST** (`ocwut-16-26:08.oklahoma-city-the-oklahoma-city-water-utilities-trust`, pp. 88–91)
+    - 1. [Off-Site SME Support — Asset Management, Regional Maintenance, and Condition Assessment](qualifications/offsite-sme-support-asset-management-maintenance.md) — p0089¶1 · roster · preferred
+    - 2. [Off-Site SME Support — Biosolids Operations and Land Application](qualifications/offsite-sme-support-biosolids-operations.md) — p0089¶1 · roster · preferred
+    - 3. [Off-Site SME Support — Process, Compliance and Reporting, Laboratory, Energy/Chemical Optimization, and OT Cybersecurity](qualifications/offsite-sme-support-process-compliance-laboratory-energy-ot.md) — p0090¶1 · roster · preferred
+    - 4. [Off-Site SME Support — Safety, Communications and Outreach, HR, Procurement, and Capital Projects](qualifications/offsite-sme-support-safety-communications-hr-procurement-capital.md) — p0091¶1 · roster · preferred
+  - **ENGINEERING SMES** (`ocwut-16-26:08.engineering-smes`, pp. 92–94)
+    - 1. [Engineering SME Bench — Consulting Access, CMMS/EAM, Biosolids, Odor Control, and Reuse](qualifications/engineering-sme-bench-cmms-biosolids-odor-control-reuse.md) — p0092¶2 · roster · preferred
+    - 2. [Engineering SME Bench — Wet Weather, SCADA/OT, Emergency Response, Commissioning, and Capital Projects Planning](qualifications/engineering-sme-bench-wet-weather-scada-emergency-response-commissioning.md) — p0093¶1 · roster · preferred
+    - 3. [Engineering SME Bench — Electrical, Process Engineering, Grants and Funding, State Regulator Coordination, and Site Security](qualifications/engineering-sme-bench-electrical-process-funding-regulatory-security.md) — p0094¶1 · roster · preferred
+    - **Pitocchelli, David** (`ocwut-16-26:10`, pp. 95–96)
+      - 1. [Resume — David Pitocchelli (Project Manager)](resumes/david-pitocchelli.md) — p0095¶7 · prose · preferred
+    - **Carpenter, Steve** (`ocwut-16-26:11`, pp. 97–98)
+      - 1. [Resume — Steve Carpenter (Project Director)](resumes/steve-carpenter.md) — p0097¶12 · prose · preferred
+    - **Irving, Kelly** (`ocwut-16-26:12`, pp. 99–100)
+      - 1. [Resume — Kelly Irving (Transition Manager)](resumes/kelly-irving.md) — p0099¶7 · prose · preferred
+    - **Alleman, Josh** (`ocwut-16-26:13`, pp. 101–102)
+      - 1. [Resume — Josh Alleman (QA/QC Manager)](resumes/josh-alleman.md) — p0101¶14 · prose · preferred
+    - **Rodriguez, Alex** (`ocwut-16-26:14`, pp. 103–104)
+      - 1. [Resume — Alex Rodriguez (Assistant Project Manager)](resumes/alex-rodriguez.md) — p0103¶7 · prose · preferred
+    - **Durham, Tim** (`ocwut-16-26:15`, pp. 105–106)
+      - 1. [Resume — Tim Durham (Operations Manager, North Canadian/Witcher)](resumes/tim-durham.md) — p0105¶7 · prose · preferred
+    - **Ramos, Jose "Joe"** (`ocwut-16-26:16`, pp. 107–108)
+      - 1. [Resume — Jose "Joe" Ramos (Operations Manager, Chisholm Creek)](resumes/jose-ramos.md) — p0107¶15 · prose · preferred
+    - **Shropshire, Paul** (`ocwut-16-26:17`, pp. 109–110)
+      - 1. [Resume — Paul Shropshire (Operations Manager, Deer Creek)](resumes/paul-shropshire.md) — p0109¶16 · prose · preferred
+    - **Aristizabal, Roy** (`ocwut-16-26:18`, pp. 111–112)
+      - 1. [Resume — Roy Aristizabal (Operations Manager, South Canadian)](resumes/roy-aristizabal.md) — p0111¶7 · prose · preferred
+    - **Pipher, Tanner** (`ocwut-16-26:19`, pp. 113–114)
+      - 1. [Resume — Tanner Pipher, PE (CIP Construction Manager)](resumes/tanner-pipher.md) — p0113¶13 · prose · preferred
+    - **Dembinski, Amy** (`ocwut-16-26:20`, pp. 115–116)
+      - 1. [Resume — Amy Dembinski, CRL (Asset Manager)](resumes/amy-dembinski.md) — p0115¶11 · prose · preferred
+    - **Daniels, Brian** (`ocwut-16-26:21`, pp. 117–118)
+      - 1. [Resume — Brian Daniels (Maintenance Manager)](resumes/brian-daniels.md) — p0117¶16 · prose · preferred
+    - **Coons, Robert Earl** (`ocwut-16-26:22`, pp. 119–120)
+      - 1. [Resume — Robert Earl Coons (I&C Technician)](resumes/robert-coons.md) — p0119¶19 · prose · preferred
+    - **Golden, Scott** (`ocwut-16-26:23`, pp. 121–123)
+      - 1. [Resume — Scott Golden (Laboratory Manager)](resumes/scott-golden.md) — p0121¶7 · prose · preferred
+- **Section 4 | Oklahoma Law** (`ocwut-16-26:24`, pp. 124–127)
+  - 1. [ODEQ Partnership and Oklahoma Regulatory Compliance](compliance-plans/ocwut-odeq-partnership-and-regulatory-compliance.md) — p0124¶3 · prose · preferred
+  - 2. [30-Year State Regulator Track Record — The Duncan, Oklahoma Proof Story](compliance-plans/odeq-30-year-track-record-duncan.md) — p0124¶3 · prose · preferred
+  - 3. [ODEQ Engagement, Permitting, and Reporting Discipline — "How We Already Operate"](compliance-plans/odeq-engagement-permitting-and-reporting-discipline.md) — p0124¶8 · prose · preferred
+  - **OKLAHOMA LAW: REGULATORY KNOWLEDGE AND ENVIRONMENTAL COMPLIANCE** (`ocwut-16-26:24.oklahoma-law-regulatory-knowledge-and-environmental-complian`, p. 125)
+    - 1. [Oklahoma Law and Regulatory Framework](compliance-plans/ocwut-oklahoma-law-regulatory-framework.md) — p0125¶5 · prose · preferred
+    - 2. [Layered Regulatory Framework — Federal, ODEQ Rules, and Stormwater Permit Administration](compliance-plans/oklahoma-regulatory-framework-and-stormwater-permits.md) — p0125¶5 · prose · preferred
+  - **RISK MANAGEMENT, PROCESS SAFETY, AND ENVIRONMENTAL EMERGENCY PROGRAMS** (`ocwut-16-26:24.risk-management-process-safety-and-environmental-emergency-p`, p. 125)
+    - 1. [Risk Management and Environmental Emergency Programs](compliance-plans/ocwut-risk-management-emergency-programs.md) — p0125¶15 · prose · preferred
+    - 2. [Risk Management Plan, Process Safety Management, SPCC, and Tier II Reporting](compliance-plans/risk-management-psm-spcc-tier-ii-programs.md) — p0125¶15 · prose · preferred
+  - **OKLAHOMA CORPORATION COMMISSION (OCC)— PETROLEUM STORAGE TANKS** (`ocwut-16-26:24.oklahoma-corporation-commission-occ-petroleum-storage-tanks`, pp. 125–126)
+    - 1. [Petroleum Storage Tank Compliance — State Corporation Commission Permits and SPCC Integration](compliance-plans/petroleum-storage-tank-compliance-occ.md) — p0125¶20 · prose · preferred
+    - 2. [Stormwater and Emerging Biosolids Legislation](compliance-plans/ocwut-stormwater-and-biosolids-legislation.md) — p0126¶1 · prose · fallback
+  - **EMERGING REGULATORY RISK: OKLAHOMA'S BIOSOLIDS LEGISLATION** (`ocwut-16-26:24.emerging-regulatory-risk-oklahoma-s-biosolids-legislation`, p. 126)
+    - 1. [Emerging Regulatory Risk — State Biosolids Land Application Legislation and Scenario Planning](compliance-plans/oklahoma-biosolids-legislation-emerging-risk.md) — p0126¶5 · prose · preferred
+  - **Staffing and Training Plan** (`ocwut-16-26:26`, pp. 128–135)
+    - 1. [Staffing and Training Plan Opener — Stable Workforce and Leadership Team](management-staffing/ocwut-staffing-training-plan-overview-and-leadership.md) — p0128¶5 · prose · preferred
+    - **Organization Structure and Leadership Team** (`ocwut-16-26:26.organization-structure-and-leadership-team`, pp. 128–130)
+      - 1. [Key Personnel Requirements Matrix — Role, Required Experience, Certification, Assigned Qualifications](management-staffing/ocwut-key-personnel-requirements-matrix-table.md) — p0129¶3 · table · preferred
+      - 2. [Organization Chart and Reporting Structure — Corporate Support Through Facility Crews](management-staffing/ocwut-organization-chart-and-reporting-structure.md) — p0129¶4 · roster · preferred
+      - **Fewer Managers, More Doers** (`ocwut-16-26:26.fewer-managers-more-doers`, pp. 131–132)
+        - 1. [Staffing Model — "Fewer Managers, More Doers" Workforce Rebalance](management-staffing/ocwut-staffing-model-fewer-managers-more-doers.md) — p0131¶6 · prose · preferred
+        - 2. [On-Site Delivery Team FTE Roster — 109 FTE Across Four Plants](management-staffing/ocwut-onsite-delivery-team-fte-roster-table.md) — p0131¶10 · table · preferred
+      - **24/7 Facility Coverage** (`ocwut-16-26:26.24-7-facility-coverage`, p. 132)
+        - 1. [24/7 Facility Coverage, Shift Structure, and On-Call Escalation](management-staffing/ocwut-247-coverage-and-oncall-rotation.md) — p0132¶5 · prose · preferred
+      - **On-Call Rotation and Emergency Response Staffing** (`ocwut-16-26:26.on-call-rotation-and-emergency-response-staffing`, pp. 132–133)
+        - 1. [Building a High-Performing Culture — Culture Coaches, BeyondZero, Ownership Mindset](management-staffing/ocwut-high-performing-culture-and-culture-coach-program.md) — p0132¶18 · prose · preferred
+    - **Vacancy Management, Retention, and Staffing Resiliency** (`ocwut-16-26:26.vacancy-management-retention-and-staffing-resiliency`, pp. 133–134)
+      - 1. [Vacancy Management, Retention, and Staffing Resiliency](management-staffing/ocwut-vacancy-management-retention-and-staffing-resiliency.md) — p0133¶11 · prose · preferred
+    - **Individualized Training Program** (`ocwut-16-26:26.individualized-training-program`, pp. 134–135)
+      - 1. [Individualized Training Program and Cross-Training](management-staffing/ocwut-individualized-training-program-and-cross-training.md) — p0134¶3 · prose · preferred
+      - **Cross-Training Program** (`ocwut-16-26:26.cross-training-program`, pp. 134–135)
+        - 1. [Training Topics by Staff Role](management-staffing/ocwut-training-topics-by-role-table.md) — p0134¶24 · table · preferred
+    - **Licensing, Certification, & Professional Development** (`ocwut-16-26:26.licensing-certification-professional-development`, p. 135)
+      - 1. [Licensing, Certification, Regional Support, and Subcontractor Integration](management-staffing/ocwut-licensing-certification-and-regional-sme-support.md) — p0135¶7 · prose · preferred
+    - **Why Sludge Management Matters to OCWUT** (`ocwut-16-26:27.why-sludge-management-matters-to-ocwut`, p. 136)
+      - 1. [Sludge Management as One Integrated Program — Why It Matters and How It Is Governed](compliance-plans/ocwut-sludge-management-integrated-program.md) — p0136¶3 · prose · preferred
+    - **Understanding OCWUT’s Existing Program** (`ocwut-16-26:27.understanding-ocwut-s-existing-program`, pp. 136–137)
+      - 1. [Biosolids SME Bios — Expertise That Goes Beyond Day-to-Day Operations](compliance-plans/ocwut-biosolids-sme-bios.md) — p0136¶11 · roster · fallback
+      - 2. [Facility-by-Facility Solids Profiles — Site Observations and Day-One Corrections](compliance-plans/ocwut-sludge-facility-specific-solids-profiles.md) — p0136¶15 · prose · preferred
+    - **Storage Management and Backlog Prevention** (`ocwut-16-26:27.storage-management-and-backlog-prevention`, pp. 137–138)
+      - 1. [Storage Management and Backlog Prevention — Tiered Pad Utilization Protocol](compliance-plans/ocwut-sludge-storage-management-tiered-protocol.md) — p0137¶8 · prose · preferred
+      - **Odor Management in Sludge Operations** (`ocwut-16-26:27.odor-management-in-sludge-operations`, p. 138)
+        - 1. [Odor Management in Sludge Operations and Transport/Hauling Controls](compliance-plans/ocwut-sludge-odor-transport-hauling-controls.md) — p0138¶15 · prose · preferred
+      - **Land Application Program Management** (`ocwut-16-26:27.land-application-program-management`, p. 138)
+        - 1. [Land Application Program Management, Testing/Reporting, and External Communications Protocol](compliance-plans/ocwut-biosolids-land-application-testing-communications.md) — p0138¶20 · prose · preferred
+      - **Contingency Planning and Upset Response** (`ocwut-16-26:27.contingency-planning-and-upset-response`, p. 139)
+        - 1. [Sludge Program Contingency Planning, Upset Response, and KPI Tracking](compliance-plans/ocwut-sludge-contingency-planning-and-performance-tracking.md) — p0139¶2 · prose · preferred
+    - **Integration Approach and OCWUT’s Planned Capital Improvements** (`ocwut-16-26:28.integration-approach-and-ocwut-s-planned-capital-improvement`, pp. 139–140)
+      - 1. [Operational Integration Plan — Approach to Client Capital Improvements and Operational Handover](compliance-plans/cip-operational-integration-approach-and-handover-framework.md) — p0139¶8 · prose · fallback
+      - 2. [Operational Integration of Capital Improvements](compliance-plans/operational-integration-capital-improvements.md) — p0139¶8 · prose · preferred
+      - 3. [Planned Capital Improvements and Key Integration Considerations (Exhibit 5-10)](compliance-plans/planned-capital-improvements-integration-considerations-table.md) — p0139¶10 · table · preferred
+    - **Staffing, Resource, and Cost Impacts** (`ocwut-16-26:28.staffing-resource-and-cost-impacts`, pp. 140–142)
+      - 1. [CIP Integration — Staffing Levels, Classifications, and Resource Impacts by Project](compliance-plans/cip-staffing-levels-and-classification-impacts.md) — p0140¶3 · prose · fallback
+      - **Maintenance Staffing and Specialized Skill Sets** (`ocwut-16-26:28.maintenance-staffing-and-specialized-skill-sets`, p. 140)
+        - 1. [CIP Integration — Specialized Maintenance Skills, Subcontracted Services, and Emergency Coverage](compliance-plans/cip-maintenance-skills-subcontractors-and-on-call-coverage.md) — p0140¶10 · prose · preferred
+      - **Expected Impacts on Operating and Maintenance Costs** (`ocwut-16-26:28.expected-impacts-on-operating-and-maintenance-costs`, p. 141)
+        - 1. [CIP Integration — Expected Operating and Maintenance Cost Impacts and the Adjustment Process](compliance-plans/cip-operating-and-maintenance-cost-impact-analysis.md) — p0141¶5 · prose · preferred
+      - **Hypochlorite Transport Plan** (`ocwut-16-26:28.hypochlorite-transport-plan`, p. 141)
+        - 1. [Hypochlorite Transport Operational Integration Plan](compliance-plans/hypochlorite-transport-operational-integration.md) — p0141¶11 · prose · preferred
+      - **Biosolids Transition—Land Application to Landfill Disposal** (`ocwut-16-26:28.biosolids-transition-land-application-to-landfill-disposal`, pp. 141–142)
+        - 1. [Landfill Transition Operational Integration Framework](compliance-plans/landfill-transition-operational-integration.md) — p0141¶17 · prose · preferred
+    - **Training and Knowledge Transfer** (`ocwut-16-26:28.training-and-knowledge-transfer`, p. 142)
+      - 1. [CIP Training and Knowledge Transfer Before Operational Handover](compliance-plans/cip-training-and-knowledge-transfer.md) — p0142¶10 · prose · preferred
+    - **Maintenance Program Adjustments** (`ocwut-16-26:28.maintenance-program-adjustments`, pp. 142–143)
+      - 1. [CIP Maintenance Program and Asset Lifecycle Integration](compliance-plans/cip-maintenance-program-asset-lifecycle-integration.md) — p0142¶18 · prose · preferred
+    - **Risk Management and Continuity of Operations** (`ocwut-16-26:28.risk-management-and-continuity-of-operations`, p. 143)
+      - 1. [CIP Integration Risk and Continuity of Operations Controls](compliance-plans/cip-integration-risk-and-continuity-controls.md) — p0143¶4 · table · preferred
+    - **Experience with OSHG** (`ocwut-16-26:28.experience-with-oshg`, p. 144)
+      - 1. [On-Site Hypochlorite Generation (OSHG) Conversion — Operating Experience and Transition Considerations](technical-approach/ocwut-oshg-conversion-transition-experience.md) — p0144¶3 · prose · preferred
+    - **Transition Plan and Operational Readiness Approach** (`ocwut-16-26:29.transition-plan-and-operational-readiness-approach`, p. 144)
+      - 1. [Transition Plan and Operational Readiness Approach — Phased Execution to Schedule 19 Deliverables](technical-approach/ocwut-transition-plan-phased-approach-and-schedule-19-deliverables.md) — p0144¶13 · prose · preferred
+    - **Structured, Phased Transition with Clear Accountability** (`ocwut-16-26:29.structured-phased-transition-with-clear-accountability`, pp. 144–146)
+      - 1. [Proven Success Transitioning Complex Projects — Client Testimonial Callouts](technical-approach/ocwut-transition-client-testimonials-proven-success.md) — p0145¶6 · prose · preferred
+      - 2. [Award-to-Operational-Start Milestone Framework and Transition Checklist (Exhibit 5-12)](technical-approach/ocwut-transition-milestone-framework-and-checklist-exhibit.md) — p0146¶1 · exhibit · preferred
+    - **Risk-Based Transition Management** (`ocwut-16-26:29.risk-based-transition-management`, pp. 146–147)
+      - 1. [Risk-Based Transition Management Approach (Exhibit 5-13)](technical-approach/ocwut-risk-based-transition-management.md) — p0146¶19 · table · preferred
+    - **Workforce Transition, Staffing Readiness, and Retention** (`ocwut-16-26:29.workforce-transition-staffing-readiness-and-retention`, pp. 147–148)
+      - 1. [Workforce Transition, Leadership, and Facility-Specific Operational Readiness](technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md) — p0147¶5 · prose · preferred
+    - **Transition Leadership and Coordination** (`ocwut-16-26:29.transition-leadership-and-coordination`, pp. 148–149)
+      - 1. [Transition Organization Chart and Subject-Matter Support Team (Exhibit 5-15)](technical-approach/ocwut-transition-organization-chart-exhibit.md) — p0149¶1 · roster · preferred
+    - **Communication and Knowledge Transfer** (`ocwut-16-26:29.communication-and-knowledge-transfer`, p. 150)
+      - 1. [Transition Communications, Training, Asset Validation, and Long-Term Partnership](technical-approach/ocwut-transition-communications-training-asset-validation-and-partnership.md) — p0150¶6 · prose · preferred
+    - **Continuity, Compliance, and Long-Term Partnership** (`ocwut-16-26:29.continuity-compliance-and-long-term-partnership`, pp. 151–155)
+      - 1. [Transition Work Plan and Schedule 19 Deliverables (Exhibit 5-16)](technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md) — p0151¶8 · table · preferred
+  - **Solids Management Plan** (`ocwut-16-26:30`, pp. 155–159)
+    - 1. [Biosolids SME Bench and Legislative Monitoring — Expertise Beyond Day-to-Day Operations](compliance-plans/ocwut-solids-biosolids-sme-bench-and-legislative-monitoring.md) — p0156¶3 · prose · preferred
+    - 2. [Solids Management Plan — Stakes, Integration Commitment, and Land Application Routing](compliance-plans/ocwut-solids-management-plan-stakes-and-commitment.md) — p0155¶3 · prose · preferred
+    - **Understanding of OCWUT Solids Management Requirements** (`ocwut-16-26:30.understanding-of-ocwut-solids-management-requirements`, p. 156)
+      - 1. [Understanding of a Four-Facility Solids System — Facility-by-Facility Conditions and Constraints](compliance-plans/ocwut-solids-facility-by-facility-system-understanding.md) — p0156¶8 · prose · preferred
+      - 2. [Biosolids Program Proof Points — Rapid Stabilization in Jackson and the Farmington Beneficial Use Award](compliance-plans/ocwut-biosolids-program-turnaround-proof-points.md) — p0156¶13 · prose · preferred
+    - **Biosolids Processing and Dewatering Operations** (`ocwut-16-26:30.biosolids-processing-and-dewatering-operations`, p. 157)
+      - 1. [Integrated Solids Processing and Dewatering Operations](compliance-plans/ocwut-solids-processing-and-dewatering-operations.md) — p0157¶5 · prose · preferred
+    - **Biosolids Storage and Backlog Management** (`ocwut-16-26:30.biosolids-storage-and-backlog-management`, pp. 157–158)
+      - 1. [Biosolids Storage and Backlog Management — Internal Trigger and Escalation](compliance-plans/ocwut-biosolids-storage-and-backlog-management.md) — p0157¶15 · prose · preferred
+    - **Hauling, Land Application, and Disposal Coordination** (`ocwut-16-26:30.hauling-land-application-and-disposal-coordination`, p. 158)
+      - 1. [Biosolids Hauling, Land Application, and Disposal Coordination](compliance-plans/ocwut-biosolids-hauling-land-application-disposal-coordination.md) — p0158¶6 · prose · preferred
+    - **Odor and Environmental Controls** (`ocwut-16-26:30.odor-and-environmental-controls`, p. 158)
+      - 1. [Solids Compliance Assurance and Related Program Support](compliance-plans/ocwut-solids-compliance-assurance-and-related-program-support.md) — p0158¶10 · prose · preferred
+- **Section 7 | Projects and References** (`ocwut-16-26:32`, pp. 164–177)
+  - 1. [Section 7 Opener — O&M Portfolio Scale, Oklahoma Track Record, and Reference Project Framing (OCWUT)](past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md) — p0164¶3 · prose · preferred
+    - **Bixby Water Reclamation Facility and Lift Stations O&M** (`ocwut-16-26:32.bixby-water-reclamation-facility-and-lift-stations-o-m`, pp. 165–166)
+      - 1. [Project Description — Bixby Water Reclamation Facility and Lift Stations O&M (City of Bixby, OK)](past-performance/project-bixby-wrf-lift-stations-om.md) — p0165¶4 · prose · preferred
+      - 2. [Project Results — Bixby Water Reclamation Facility and Lift Stations O&M (City of Bixby, OK)](past-performance/project-bixby-wrf-lift-stations-results-and-partnership.md) — p0166¶3 · prose · preferred
+    - **Jackson Public Drinking Water and Wastewater Facilities O&M** (`ocwut-16-26:32.jackson-public-drinking-water-and-wastewater-facilities-o-m`, pp. 167–168)
+      - 1. [Project Description — Jackson Public Drinking Water and Wastewater Facilities O&M (JXN Water, Jackson, MS)](past-performance/project-jackson-jxn-water-om.md) — p0167¶4 · prose · preferred
+      - 2. [Project Results — Jackson Public Drinking Water and Wastewater Facilities O&M (JXN Water, Jackson, MS)](past-performance/project-jackson-jxn-water-turnaround-results.md) — p0168¶1 · prose · preferred
+    - **Waterbury Water and Wastewater System O&M** (`ocwut-16-26:32.waterbury-water-and-wastewater-system-o-m`, pp. 169–170)
+      - 1. [Project Description — Waterbury Water and Wastewater System O&M (City of Waterbury, CT)](past-performance/project-waterbury-ct.md) — p0169¶4 · prose · preferred
+      - 2. [Project Results — Waterbury Water and Wastewater System O&M (City of Waterbury, CT)](past-performance/project-waterbury-ct-odor-control-and-results.md) — p0169¶10 · prose · preferred
+  - **CITY OF VANCOUVER | VANCOUVER, WA** (`ocwut-16-26:32.city-of-vancouver-vancouver-wa`, pp. 171–172)
+    - 1. [Project Description — Westside and Marine Park WWTPs O&M (City of Vancouver, WA)](past-performance/project-vancouver-wa-westside-marine-park.md) — p0171¶4 · prose · preferred
+  - **AWARDS** (`ocwut-16-26:32.awards`, pp. 172–174)
+    - 1. [Project Description — Agua Nueva Water Reclamation Facility DBO (Pima County, AZ)](past-performance/project-agua-nueva-dbo-pima-county-az.md) — p0173¶6 · prose · preferred
+    - **San Marcos WWTP O&M** (`ocwut-16-26:32.san-marcos-wwtp-o-m`, pp. 175–176)
+      - 1. [Project Description — San Marcos WWTP O&M (City of San Marcos, TX)](past-performance/project-san-marcos-tx.md) — p0175¶4 · prose · preferred
+  - **MORE THAN AN OPERATOR: OUR INNOVATIVE APPROACH TO O&M** (`ocwut-16-26:33.more-than-an-operator-our-innovative-approach-to-o-m`, pp. 178–181)
+    - 1. ["More Than an Operator" Innovation Section Opening](win-themes/innovation-more-than-an-operator-framing.md) — p0178¶3 · prose · preferred
+    - 2. [Alternative Escalation Index Methodology as a Priced Innovation](win-themes/alternative-escalation-index-methodology.md) — p0178¶7 · prose · preferred
+    - **Discounted Engineering Services to Support Innovation and Improvements** (`ocwut-16-26:33.discounted-engineering-services-to-support-innovation-and-im`, pp. 178–179)
+      - 1. [Discounted Engineering Services Offer to an O&M Client](win-themes/discounted-engineering-services-offer.md) — p0178¶10 · prose · preferred
+      - **Odor Study Gap Analysis and Updated Odor Control Report** (`ocwut-16-26:33.odor-study-gap-analysis-and-updated-odor-control-report`, p. 178)
+        - 1. [Odor Study Gap Analysis and Updated Odor Control Report Offer](win-themes/odor-study-gap-analysis-and-updated-report.md) — p0178¶13 · prose · preferred
+      - **Replica Hydraulic Model for System and Facility Optimization** (`ocwut-16-26:33.replica-hydraulic-model-for-system-and-facility-optimization`, pp. 178–179)
+        - 1. [Replica Hydraulic Model for System and Facility Optimization](win-themes/replica-hydraulic-model-system-optimization.md) — p0178¶16 · prose · preferred
+      - **NexGen Phase 2 Implementation Support** (`ocwut-16-26:33.nexgen-phase-2-implementation-support`, p. 179)
+        - 1. [NexGen Phase 2 Asset-Data Implementation Support](win-themes/nexgen-phase-2-asset-data-support.md) — p0179¶4 · prose · preferred
+    - **Additional Ideas for Discounted Engineering** (`ocwut-16-26:33.additional-ideas-for-discounted-engineering`, pp. 179–181)
+      - 1. [Exhibit 8-1 Commercial Source Exclusion Record](win-themes/discounted-engineering-savings-example-table.md) — p0179¶10 · recipe · fallback
+      - 2. [Innovative Financing for Biosolids Management](win-themes/innovative-financing-for-biosolids-management.md) — p0179¶14 · prose · preferred
+      - **Potential Chemical and Energy Savings Through Intelligent O&M** (`ocwut-16-26:33.potential-chemical-and-energy-savings-through-intelligent-o`, pp. 180–181)
+        - 1. [Intelligent O&M Chemical and Energy Savings](win-themes/intelligent-om-chemical-energy-savings.md) — p0180¶2 · prose · preferred
+
+### santamonica-swip-om-2025
+
+- **Section 1: Letter of Transmittal** (`santamonica-swip-om-2025:02`, pp. 4–5)
+  - 1. [Transmittal Letter — Opening Frame, Positioning Paragraph, and Partnership Close](win-themes/swip-transmittal-letter-opening-and-closing.md) — p0004¶8 · prose · preferred
+  - 2. [Transmittal Letter — "Our Value to the Client" Eight-Bullet Value List](win-themes/swip-transmittal-letter-value-bullets.md) — p0004¶11 · prose · preferred
+  - **SANTA MONICA’S VISION FOR SWIP AND DPR** (`santamonica-swip-om-2025:03.santa-monica-s-vision-for-swip-and-dpr`, p. 6)
+    - 1. [Executive Summary Opening — Client Vision, Integrated Reuse System Understanding, and DPR Pathway](win-themes/swip-vision-and-system-understanding-framing.md) — p0006¶3 · prose · preferred
+  - **JACOBS’ O&M QUALIFICATIONS FOR ADVANCED WATER TREATMENT** (`santamonica-swip-om-2025:03.jacobs-o-m-qualifications-for-advanced-water-treatment`, p. 7)
+    - 1. [O&M Qualifications Proof Points — Scale, California Advanced-Treatment Track Record, and Governance Model](win-themes/swip-om-qualifications-proof-points.md) — p0007¶2 · prose · preferred
+  - **HIGH-CALIBER ONSITE TEAM—QUALIFICATIONS AND COMMITMENT** (`santamonica-swip-om-2025:03.high-caliber-onsite-team-qualifications-and-commitment`, pp. 7–8)
+    - 1. [High-Caliber Onsite Team — Named Leadership, Certifications, Regional Surge, and Shift Model](win-themes/swip-onsite-team-staffing-and-shift-model.md) — p0007¶7 · prose · preferred
+  - **OUR ROLE—AN EXTENSION OF CITY STAFF** (`santamonica-swip-om-2025:03.our-role-an-extension-of-city-staff`, p. 8)
+    - 1. [Partnership Framing — Extension of Client Staff, Quantified Technical Bench, and Integrated O&M plus Engineering](win-themes/swip-partner-integration-and-technical-bench.md) — p0008¶5 · prose · preferred
+  - **MORE THAN AN OPERATOR—INTEGRATED O&M + ENGINEERING** (`santamonica-swip-om-2025:03.more-than-an-operator-integrated-o-m-engineering`, pp. 8–9)
+    - 1. [Value-Added Offerings Package — 1,000 Discounted Engineering Hours and a $4.1M No-Cost Bundle](win-themes/swip-value-added-offerings-package.md) — p0009¶3 · prose · preferred
+  - **TOP WATER REUSE EXPERTS—ON CALL FOR SANTA MONICA** (`santamonica-swip-om-2025:03.top-water-reuse-experts-on-call-for-santa-monica`, p. 9)
+    - 1. [Top Water Reuse Experts On Call — Named National Potable-Reuse Leaders Behind the Onsite Team](win-themes/swip-top-water-reuse-experts-on-call.md) — p0009¶16 · prose · preferred
+  - **HOW WE WILL DELIVER RESULTS— COMPLIANCE, RELIABILITY, TRANSPARENCY** (`santamonica-swip-om-2025:03.how-we-will-deliver-results-compliance-reliability-transpare`, p. 10)
+    - 1. [How We Will Deliver Results — Operate to Permits and KPIs, QA/QC and Audits, Reporting and Dashboards](win-themes/swip-compliance-reliability-transparency-narrative.md) — p0010¶3 · prose · preferred
+  - **TRAINING, CROSS-TRAINING, AND KNOWLEDGE TRANSFER** (`santamonica-swip-om-2025:03.training-cross-training-and-knowledge-transfer`, p. 10)
+    - 1. [Training, Cross-Training, and Knowledge Transfer — Association Programs, Formal Training Plan, and Intern Mentoring](win-themes/swip-training-cross-training-knowledge-transfer.md) — p0010¶10 · prose · preferred
+  - **SITE-SPECIFIC READINESS AND RELIABILITY** (`santamonica-swip-om-2025:03.site-specific-readiness-and-reliability`, pp. 10–11)
+    - 1. [Site-Specific Readiness and Reliability — Asset-by-Asset Commitments for Treatment, Stormwater, Recycling, and Injection Wells](win-themes/swip-site-specific-readiness-and-reliability.md) — p0010¶15 · prose · preferred
+  - **ASSET MANAGEMENT, CMMS, INVENTORY, AND 72-HOUR REPAIR RECOMMENDATIONS** (`santamonica-swip-om-2025:03.asset-management-cmms-inventory-and-72-hour-repair-recommend`, p. 11)
+    - 1. [Asset Management, CMMS, Inventory, and the 72-Hour Repair Recommendation Commitment](win-themes/swip-asset-management-cmms-inventory-72-hour-repairs.md) — p0011¶6 · prose · preferred
+  - **COMPLIANCE SYSTEMS AND LABORATORY PROGRAM** (`santamonica-swip-om-2025:03.compliance-systems-and-laboratory-program`, p. 11)
+    - 1. [Compliance Systems and Laboratory Program — WIMS/LIMS Integration, Sample Tracking, and the Six-Point Compliance Program](win-themes/swip-compliance-systems-and-laboratory-program.md) — p0011¶10 · prose · preferred
+  - **SAFETY, EMERGENCY PREPAREDNESS, AND RISK MANAGEMENT** (`santamonica-swip-om-2025:03.safety-emergency-preparedness-and-risk-management`, p. 12)
+    - 1. [Safety, Emergency Preparedness, and Risk Management — Regional Safety Support, FEMA-Tested Response, and Indicator-Driven Risk Tracking](win-themes/swip-safety-emergency-preparedness-risk-management.md) — p0012¶2 · prose · preferred
+  - **SEAMLESS TRANSITION TO DAY-ONE OPERATIONS** (`santamonica-swip-om-2025:03.seamless-transition-to-day-one-operations`, p. 12)
+    - 1. [Seamless Transition to Day-One Operations — Incumbent Retention and Six-Workstream Mobilization](win-themes/swip-seamless-transition-to-day-one-operations.md) — p0012¶6 · prose · preferred
+  - **BOTTOM LINE** (`santamonica-swip-om-2025:03.bottom-line`, pp. 13–14)
+    - 1. [Bottom Line — Executive Summary Close and Boxed Best-Value Positioning Statement](win-themes/swip-bottom-line-close-and-positioning-statement.md) — p0013¶8 · prose · preferred
+  - **2.1 FIRM HISTORY** (`santamonica-swip-om-2025:05`, pp. 15–16)
+    - 1. [Firm History and Corporate Overview (Scale, Financial Strength, Market Leadership)](qualifications/firm-history-corporate-overview.md) — p0015¶3 · prose · preferred
+    - **SUCCESSFUL O&M PROJECT DELIVERY IN CALIFORNIA SINCE 1984** (`santamonica-swip-om-2025:05.successful-o-m-project-delivery-in-california-since-1984`, p. 16)
+      - 1. [California O&M Track Record and OMFS Corporate Governance Structure](qualifications/california-om-track-record-and-governance.md) — p0016¶2 · prose · preferred
+    - **Exceptional Reach-back to Regional and Technical O&M Resources** (`santamonica-swip-om-2025:06.exceptional-reach-back-to-regional-and-technical-o-m-resourc`, pp. 17–18)
+      - 1. [Reach-Back Model — Regional and Technical O&M Support Network](qualifications/reach-back-model-and-regional-support.md) — p0017¶4 · prose · preferred
+      - 2. [Full-Service Firm — Integrated Engineering, Design-Build, and O&M Capability Spectrum](qualifications/full-service-firm-capabilities.md) — p0018¶2 · prose · preferred
+    - **Unrivaled Industry Expertise in Advance Treatment and Reuse** (`santamonica-swip-om-2025:06.unrivaled-industry-expertise-in-advance-treatment-and-reuse`, pp. 18–19)
+      - 1. [Water Reuse Industry Leadership — 60+ Year Innovation Timeline](qualifications/water-reuse-leadership-and-timeline.md) — p0018¶16 · prose · preferred
+    - **Proven Advanced Treatment and Reuse Experience in California** (`santamonica-swip-om-2025:06.proven-advanced-treatment-and-reuse-experience-in-california`, p. 20)
+      - 1. [Southern California Reuse Expertise — Named SME Bench and Regulatory Relationships](qualifications/southern-california-reuse-expertise-and-sme-bench.md) — p0020¶2 · prose · preferred
+    - **Representative Operations Experience with Advanced Water Treatment and Potable Reuse Facilities** (`santamonica-swip-om-2025:06.representative-operations-experience-with-advanced-water-tre`, p. 20)
+      - 1. [Representative O&M Experience Comparison Table — Reuse Facilities in California](qualifications/representative-om-experience-comparison-table.md) — p0020¶5 · table · preferred
+    - **OPERATIONAL EXCELLENCE BACKED BY DIVERSE PROJECT EXPERIENCE** (`santamonica-swip-om-2025:07.operational-excellence-backed-by-diverse-project-experience`, pp. 21–29)
+      - 1. [References Section Overview — Advanced Water Treatment O&M Portfolio Framing](past-performance/references-section-overview.md) — p0021¶2 · prose · preferred
+      - **Clovis WWTP/WRF O&M** (`santamonica-swip-om-2025:07.clovis-wwtp-wrf-o-m`, pp. 22–25)
+        - 1. [Clovis WWTP/WRF O&M — Reference Project (City of Clovis, CA)](past-performance/clovis-wwtp-wrf-om.md) — p0022¶3 · prose · preferred
+        - 2. [Soquel Creek Advanced Water Purification O&M — Reference Project (Soquel Creek Water District, CA)](past-performance/soquel-creek-advanced-water-purification-om.md) — p0024¶2 · prose · preferred
+      - **Turlock Zero Liquid Discharge Facility O&M** (`santamonica-swip-om-2025:07.turlock-zero-liquid-discharge-facility-o-m`, pp. 26–29)
+        - 1. [Turlock Zero Liquid Discharge Facility O&M — Reference Project (Turlock Irrigation District, CA)](past-performance/turlock-zero-liquid-discharge-facility-om.md) — p0026¶3 · prose · preferred
+        - 2. [Edward C. Little Water Recycling Facility O&M — Reference Project (West Basin Municipal Water District, El Segundo, CA)](past-performance/edward-c-little-water-recycling-facility-om.md) — p0028¶2 · prose · preferred
+  - **2.4 FIRM APPROACH** (`santamonica-swip-om-2025:08`, pp. 30–72)
+    - 1. [Firm Approach Section Opener — Integrated O&M Commitment and Facility Understanding](technical-approach/swip-firm-approach-section-opener-understanding.md) — p0030¶2 · prose · preferred
+    - **JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES** (`santamonica-swip-om-2025:08.jacobs-understands-santa-monica-s-challenges-and-goals-for-i`, pp. 30–31)
+      - 1. [Facility-by-Facility Goals, Challenges, and Strategy Matrix (Multi-Facility Water Reuse O&M)](technical-approach/swip-facility-goals-challenges-strategy-matrix.md) — p0030¶9 · table · preferred
+    - **APPROACH TO DELIVERY OF THE O&M SERVICES** (`santamonica-swip-om-2025:08.approach-to-delivery-of-the-o-m-services`, p. 32)
+      - 1. [O&M Project Execution Framework — 9-Element Delivery Model with KPI Dashboard and Deliverables Tracking](technical-approach/swip-om-project-execution-framework.md) — p0032¶2 · prose · preferred
+    - **STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION** (`santamonica-swip-om-2025:08.strategic-o-m-plans-built-on-best-practices-and-innovation`, p. 34)
+      - 1. [Comprehensive O&M Plan Document Roster (30-Plan Framework)](technical-approach/swip-comprehensive-om-plan-list.md) — p0034¶3 · prose · preferred
+    - **PROCESS CONTROL** (`santamonica-swip-om-2025:08.process-control`, pp. 35–37)
+      - 1. [Companywide Process Control System (CPCS) and Supporting Operations Tool Set](technical-approach/swip-process-control-system-tools.md) — p0035¶2 · prose · preferred
+      - **Observations and Understanding of the City’s Operations** (`santamonica-swip-om-2025:08.observations-and-understanding-of-the-city-s-operations`, p. 36)
+        - 1. [MBR Process Optimization Approach with Calibrated Digital Process Modeling (BioWin/Pro2D/Replica)](technical-approach/swip-process-optimization-digital-modeling.md) — p0036¶4 · prose · preferred
+    - **IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL** (`santamonica-swip-om-2025:08.in-house-procedures-to-provide-accuracy-integrity-and-qualit`, pp. 38–39)
+      - 1. [QA/QC Program with Annual Audit Process (Regional Team Model, 4-Step Audit Lifecycle)](compliance-plans/swip-qaqc-program-audit-process.md) — p0038¶2 · prose · preferred
+    - **TRAINING & CERTIFICATION PROGRAM FOR O&M PERSONNEL** (`santamonica-swip-om-2025:08.training-certification-program-for-o-m-personnel`, p. 40)
+      - 1. [Training and Certification Program for O&M Personnel (AWTO-Focused, Incentive-Driven)](management-staffing/swip-training-certification-program.md) — p0040¶2 · prose · preferred
+      - **True Belonging with Diversity, Equality, and Inclusion** (`santamonica-swip-om-2025:08.true-belonging-with-diversity-equality-and-inclusion`, p. 44)
+        - 1. [Workforce Culture - TogetherBeyond Diversity Strategy and Employee Network Groups](management-staffing/swip-workforce-culture-dei-employee-networks.md) — p0044¶2 · prose · preferred
+    - **INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY** (`santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc`, pp. 45–48)
+      - 1. [Innovation and Value-Added Offerings Overview (Included-in-Base-Fee Program Wheel)](technical-approach/swip-innovation-value-added-offerings-overview.md) — p0045¶2 · prose · preferred
+      - **Plant Process Optimization – Leveraging Digital Tools and Data-Driven Operations** (`santamonica-swip-om-2025:08.plant-process-optimization-leveraging-digital-tools-and-data`, p. 46)
+        - 1. [Plant Process Optimization with Digital Tools and the Replica Digital Twin](technical-approach/swip-replica-digital-twin-plant-digital-tools.md) — p0046¶5 · prose · preferred
+      - **AquaDNA Deragger for Ocean Avenue Lift Station** (`santamonica-swip-om-2025:08.aquadna-deragger-for-ocean-avenue-lift-station`, p. 47)
+        - 1. [AquaDNA DeRagger - Pump Deragging and Lift Station Optimization Technology](technical-approach/swip-aquadna-deragger-technology.md) — p0047¶2 · prose · preferred
+      - **Proactive Inventory Management to Support Operational Continuity** (`santamonica-swip-om-2025:08.proactive-inventory-management-to-support-operational-contin`, p. 47)
+        - 1. [Proactive Inventory Management Program (CMMS-Integrated, ISO 55001-Aligned)](technical-approach/swip-inventory-management-asset-tracking.md) — p0047¶6 · prose · preferred
+      - **Energy Optimization** (`santamonica-swip-om-2025:08.energy-optimization`, pp. 47–48)
+        - 1. [Energy Optimization, Chemical Efficiency, and Hybrid Fleet Sustainability Program](technical-approach/swip-energy-chemical-efficiency-fleet-program.md) — p0047¶10 · prose · preferred
+      - **Customized Digital Reporting Dashboards** (`santamonica-swip-om-2025:08.customized-digital-reporting-dashboards`, p. 48)
+        - 1. [Customized Web-Based KPI Reporting Dashboard (Digital Reporting Platform)](technical-approach/swip-digital-kpi-reporting-dashboard.md) — p0048¶6 · prose · preferred
+      - **Health and Safety** (`santamonica-swip-om-2025:08.health-and-safety`, p. 49)
+        - 1. [Safety Plan and Management with BeyondZero Culture and Multi-Year Performance Metrics](compliance-plans/swip-safety-plan-performance-record.md) — p0049¶4 · prose · preferred
+      - **Leadership Engagement and Accountability** (`santamonica-swip-om-2025:08.leadership-engagement-and-accountability`, p. 50)
+        - 1. [Safety Leadership Engagement, OSHA Audit Record, and Key Safety Program Elements](compliance-plans/swip-safety-leadership-and-program-elements.md) — p0050¶3 · prose · preferred
+      - **Key Elements of Our Safety Program and Planning** (`santamonica-swip-om-2025:08.key-elements-of-our-safety-program-and-planning`, pp. 50–51)
+        - 1. [Ongoing Safety Training/Certification and Underground/Confined Space Safety Program](compliance-plans/swip-safety-training-confined-space-programs.md) — p0051¶1 · prose · preferred
+      - **SWIP Site Safety Observations and Unique Safety Needs** (`santamonica-swip-om-2025:08.swip-site-safety-observations-and-unique-safety-needs`, p. 51)
+        - 1. [Site-Specific Safety Approach for a Below-Grade Treatment Facility and Employee Well-Being Program](compliance-plans/swip-site-specific-safety-approach-underground-facility.md) — p0051¶3 · prose · preferred
+    - **REGULATORY COMPLIANCE** (`santamonica-swip-om-2025:08.regulatory-compliance`, pp. 52–54)
+      - 1. [Environmental Regulatory Compliance Program, Dashboard, and Risk Management Approach](compliance-plans/swip-environmental-regulatory-compliance-program.md) — p0052¶3 · prose · preferred
+      - 2. [Summary of Jacobs' Permit and Compliance Record — Violations and Corrective Actions (Reference Table)](compliance-plans/swip-permit-compliance-track-record.md) — p0053¶1 · table · preferred
+    - **LABORATORY MANAGEMENT AND SAMPLING PLAN** (`santamonica-swip-om-2025:08.laboratory-management-and-sampling-plan`, pp. 54–55)
+      - 1. [Laboratory Management and Sampling/QA-QC Plan](compliance-plans/swip-laboratory-management-and-sampling-plan.md) — p0054¶3 · prose · preferred
+      - **Understanding the City’s Asset Management Goals and Facility Needs** (`santamonica-swip-om-2025:08.understanding-the-city-s-asset-management-goals-and-facility`, p. 56)
+        - 1. [Asset Management Program Overview — Understanding Client Goals and Value-Added Support Structure](technical-approach/swip-asset-management-program-overview.md) — p0056¶3 · prose · preferred
+      - **Asset Management-Centered Maintenance Approach** (`santamonica-swip-om-2025:08.asset-management-centered-maintenance-approach`, p. 57)
+        - 1. [Asset Management System — 10-Box Model Methodology and Predictive Maintenance Technologies](technical-approach/swip-asset-management-10-box-model.md) — p0057¶2 · prose · preferred
+    - **ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM** (`santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-program`, pp. 57–60)
+      - 1. [Lifecycle Delivery and Maintenance Strategy — PM/PdM Blend, CMMS Workflow, and Work-Order Service Levels](technical-approach/swip-lifecycle-delivery-maintenance-strategy.md) — p0058¶4 · prose · preferred
+      - 2. [Predictive Maintenance Technologies — Five-Technology Reliability-Centered Toolkit](technical-approach/swip-predictive-maintenance-technologies.md) — p0059¶10 · prose · preferred
+    - **PERFORMANCE & REPORTING** (`santamonica-swip-om-2025:08.performance-reporting`, p. 60)
+      - 1. [Inventory Management System — Summary of Services](technical-approach/swip-inventory-management-system.md) — p0060¶31 · prose · preferred
+    - **COMMUNICATIONS AND REPORTING** (`santamonica-swip-om-2025:08.communications-and-reporting`, pp. 61–62)
+      - 1. [Communications and Reporting Plan — Structure, Cadence, and Deliverables](technical-approach/swip-communications-and-reporting-plan.md) — p0061¶2 · prose · preferred
+      - **Annual Innovation Workshop** (`santamonica-swip-om-2025:08.annual-innovation-workshop`, p. 62)
+        - 1. [Annual Innovation Workshop — No-Cost Continuous Improvement Program](technical-approach/swip-annual-innovation-workshop.md) — p0062¶19 · prose · preferred
+    - **FINANCIAL RESPONSIBILITY** (`santamonica-swip-om-2025:08.financial-responsibility`, pp. 63–64)
+      - 1. [Financial Strength, Stability, and Comparable-Project Financial Track Record](qualifications/swip-financial-strength-and-stability.md) — p0063¶2 · prose · preferred
+    - **MINIMAL LITIGATION HISTORY** (`santamonica-swip-om-2025:08.minimal-litigation-history`, p. 64)
+      - 1. [Financial Transparency/Disclosure Practices and Litigation History Disclosure](qualifications/swip-financial-transparency-and-litigation-history.md) — p0064¶3 · prose · preferred
+      - **Prevention of and Response to Emergencies** (`santamonica-swip-om-2025:08.prevention-of-and-response-to-emergencies`, p. 65)
+        - 1. [Emergency Response Plan Approach and Preparedness Method](compliance-plans/swip-emergency-response-plan-approach.md) — p0065¶3 · prose · fallback
+      - **Elements of our Emergency Response Plan (ERP)** (`santamonica-swip-om-2025:08.elements-of-our-emergency-response-plan-erp`, pp. 65–67)
+        - 1. [ERP Event-Response Matrix — Key Elements in the Emergency Response Plan](compliance-plans/swip-erp-event-response-matrix.md) — p0066¶2 · table · preferred
+      - **Local and Regional Resources for Diversified Emergency Response** (`santamonica-swip-om-2025:08.local-and-regional-resources-for-diversified-emergency-respo`, p. 67)
+        - 1. [Regional and National Emergency Response Surge Capability](compliance-plans/swip-emergency-response-regional-resources.md) — p0067¶3 · prose · preferred
+      - **Site Visit Findings** (`santamonica-swip-om-2025:08.site-visit-findings`, p. 68)
+        - 1. [SCADA, Instrumentation & Controls, and Cybersecurity Approach](technical-approach/swip-scada-ic-cybersecurity-approach.md) — p0068¶3 · prose · preferred
+    - **COMMUNITY INVOLVEMENT AND OUTREACH** (`santamonica-swip-om-2025:08.community-involvement-and-outreach`, p. 70)
+      - 1. [Community Involvement and Outreach Program — Advanced Water Reuse Facility](technical-approach/swip-community-involvement-outreach-program.md) — p0070¶2 · prose · preferred
+  - **3.1 STAFFING PLAN** (`santamonica-swip-om-2025:10`, pp. 73–80)
+    - 1. [Staffing Plan Philosophy — Certified Onsite Team, Added Regional Hires, and 100+ SME Bench](management-staffing/swip-staffing-plan-philosophy-and-regional-bench.md) — p0073¶4 · prose · preferred
+    - 2. [Proposed Project Team Organization — Onsite, Shared, and Offsite Support Tiers](management-staffing/swip-project-team-org-structure.md) — p0074¶1 · roster · preferred
+      - **Onsite O&M Team** (`santamonica-swip-om-2025:10.onsite-o-m-team`, pp. 75–76)
+        - 1. [Key Personnel Bios — Director of Operations and Manager of Operations, with AWTO Compliance Leadership Framing](management-staffing/swip-key-personnel-operations-leadership-bios.md) — p0075¶5 · prose · preferred
+        - 2. [Key Personnel Bios — Chief Plant Operator and Operators in Charge](management-staffing/swip-key-personnel-cpo-and-operators-bios.md) — p0076¶3 · prose · preferred
+      - **Operators – Josh Hernandez, Christen Wood, and Chris Catlin** (`santamonica-swip-om-2025:10.operators-josh-hernandez-christen-wood-and-chris-catlin`, pp. 76–77)
+        - 1. [Key Personnel Bios — Maintenance Technician and I&C Technician](management-staffing/swip-key-personnel-maintenance-ic-technician-bios.md) — p0077¶2 · prose · preferred
+      - **Proven, Innovative Regional Maintenance Team Approach** (`santamonica-swip-om-2025:10.proven-innovative-regional-maintenance-team-approach`, pp. 77–78)
+        - 1. [Regional Maintenance Team — Shared, Locally Embedded Technician Model](management-staffing/swip-regional-maintenance-shared-technician-model.md) — p0077¶7 · prose · preferred
+        - 2. [Regional Maintenance Team Capability — Proof-Point Case Studies](technical-approach/swip-regional-maintenance-team-capability-proof-points.md) — p0078¶11 · prose · preferred
+    - **STAFFING PLAN** (`santamonica-swip-om-2025:10.staffing-plan`, pp. 79–80)
+      - 1. [Staffing Approach — Right-Sized Coverage and Welcoming Incumbent Staff](management-staffing/swip-staffing-approach-and-incumbent-workforce.md) — p0079¶4 · prose · preferred
+      - **Shift Schedules** (`santamonica-swip-om-2025:10.shift-schedules`, p. 79)
+        - 1. [Hybrid Shift Schedule (4/10 and 5/8) and On-Call Staffing Plan](management-staffing/swip-shift-schedule-and-oncall-staffing-plan.md) — p0079¶12 · prose · preferred
+      - **Cross-Training for Resiliency** (`santamonica-swip-om-2025:10.cross-training-for-resiliency`, p. 80)
+        - 1. [Cross-Training for Resiliency and Intern Program Support](management-staffing/swip-cross-training-and-intern-program.md) — p0080¶2 · prose · preferred
+    - **WHY HOWARD?** (`santamonica-swip-om-2025:11.why-howard`, pp. 81–83)
+      - 1. [Howard Brewen - Director of Operations (WW Grade V)](resumes/howard-brewen.md) — p0081¶10 · prose · preferred
+    - **WHY CHRIS?** (`santamonica-swip-om-2025:11.why-chris`, p. 83)
+      - 1. [Chris Catlin, PE - Manager of Operations (T3/AWT5)](resumes/chris-catlin.md) — p0083¶9 · prose · preferred
+      - **WHY MACK?** (`santamonica-swip-om-2025:11.why-mack`, p. 85)
+        - 1. [Mack Mckenzie - Chief Plant Operator (WW Grade V, AWT3)](resumes/mack-mckenzie.md) — p0085¶10 · prose · preferred
+      - **WHY JOSH?** (`santamonica-swip-om-2025:11.why-josh`, pp. 87–88)
+        - 1. [Joshua Hernandez - Operator (WW Operator Grade V, AWT3)](resumes/joshua-hernandez.md) — p0087¶9 · prose · preferred
+      - **WHY CHRISTEN?** (`santamonica-swip-om-2025:11.why-christen`, pp. 88–90)
+        - 1. [Christen Wood - Operator (WW Operator Grade V, AWT3)](resumes/christen-wood.md) — p0088¶9 · prose · preferred
+      - **WHY JASON?** (`santamonica-swip-om-2025:11.why-jason`, pp. 90–91)
+        - 1. [Jason Holst - Operator (T3, AWT3)](resumes/jason-holst.md) — p0090¶9 · prose · preferred
+      - **WHY MAYO?** (`santamonica-swip-om-2025:11.why-mayo`, pp. 91–93)
+        - 1. [Mayo Miller - I&C Technician](resumes/mayo-miller.md) — p0091¶9 · prose · preferred
+    - **SKILLS** (`santamonica-swip-om-2025:11.skills`, pp. 93–94)
+      - 1. [Richard Gwinn - Maintenance Technician](resumes/richard-gwinn.md) — p0093¶9 · prose · preferred
+    - **FAMILIARITY WITH ADVANCED WATER TREATMENT TECHNOLOGIES AND CALIFORNIA GRRP REGULATIONS** (`santamonica-swip-om-2025:12.familiarity-with-advanced-water-treatment-technologies-and-c`, p. 95)
+      - 1. [Project Team's Experience with Advanced Water Treatment Facilities - City of Santa Monica SWIP](past-performance/santamonica-swip-advanced-water-treatment-team-experience.md) — p0095¶3 · prose · preferred
+    - **COMMITMENT TO A SMOOTH TRANSITION** (`santamonica-swip-om-2025:13.commitment-to-a-smooth-transition`, p. 96)
+      - 1. [Seamless Transition — Commitment to a Smooth Transition and Proven Track Record](management-staffing/swip-transition-plan-overview-and-track-record.md) — p0096¶3 · prose · preferred
+    - **TAPPING THE VALUE OF EXISTING STAFF** (`santamonica-swip-om-2025:13.tapping-the-value-of-existing-staff`, p. 97)
+      - 1. [Seamless Transition — Staff Retention Approach and Six-Step Staff Transition Process (Exhibit 3-3)](management-staffing/swip-staff-retention-and-six-step-transition-process.md) — p0097¶2 · prose · preferred
+    - **CARE AND SENSITIVITY TOWARD TRANSITIONING EMPLOYEES** (`santamonica-swip-om-2025:13.care-and-sensitivity-toward-transitioning-employees`, p. 98)
+      - 1. [Seamless Transition — Care and Sensitivity Toward Transitioning Employees, Compensation Package, and Employee Satisfaction Results](management-staffing/swip-transitioning-employee-care-and-compensation.md) — p0098¶2 · prose · preferred
+    - **EXPERIENCED TRANSITION TEAM** (`santamonica-swip-om-2025:13.experienced-transition-team`, pp. 98–99)
+      - 1. [Seamless Transition — Experienced Transition Team, Transition Organization Chart, and Communications Plan](management-staffing/swip-transition-team-and-communications-plan.md) — p0098¶10 · prose · preferred
+      - **Transition Phasing and Timeline** (`santamonica-swip-om-2025:13.transition-phasing-and-timeline`, pp. 100–101)
+        - 1. [Seamless Transition — Four-Phase Transition Model and Preliminary Transition Schedule (Exhibit 3-5)](management-staffing/swip-transition-phasing-and-schedule-template.md) — p0100¶3 · table · preferred
+    - **LONG-TERM STAFFING/SUCCESSION PLANNING PRACTICES** (`santamonica-swip-om-2025:13.long-term-staffing-succession-planning-practices`, pp. 102–103)
+      - 1. [Seamless Transition — Long-Term Staffing and Succession Planning Practices (Exhibit 3-6)](management-staffing/swip-long-term-staffing-succession-planning.md) — p0102¶3 · prose · preferred
+  - **DISCOUNTED ENGINEERING SERVICES** (`santamonica-swip-om-2025:14.discounted-engineering-services`, pp. 104–105)
+    - 1. [Discounted Engineering Hours Value-Add and Suggested-Modifications Opener](technical-approach/swip-discounted-engineering-hours-value-add.md) — p0104¶6 · prose · preferred
+    - **Preparing for Direct Potable Reuse** (`santamonica-swip-om-2025:14.preparing-for-direct-potable-reuse`, pp. 104–105)
+      - 1. [Direct Potable Reuse Readiness — Additional Monitoring Value-Add and Named Expert Bench](technical-approach/swip-dpr-readiness-expert-bench-and-monitoring.md) — p0104¶14 · prose · preferred
+      - 2. [MBR Biofouling (Leech/Physa Snail) Mitigation Case Study](technical-approach/swip-mbr-fouling-mitigation-case-study.md) — p0104¶16 · prose · preferred
+  - **MECHANICAL AND I&C SUPPORT AT OTHER CITY FACILITIES** (`santamonica-swip-om-2025:14.mechanical-and-i-c-support-at-other-city-facilities`, p. 105)
+    - 1. [Mechanical and I&C Regional Support Value-Add for Multi-Facility Clients](technical-approach/swip-mechanical-ic-regional-support-value-add.md) — p0105¶4 · prose · preferred
+    - **Direct Potable Reuse Operations** (`santamonica-swip-om-2025:14.direct-potable-reuse-operations`, p. 105)
+      - 1. [Direct Potable Reuse Operations Staffing Model (Operator Tiers, Responsibilities, Assumptions)](technical-approach/swip-dpr-operations-staffing-model.md) — p0105¶7 · table · preferred
+  - **SM-10I AND SM-11I INJECTION WELL PERFORMANCE MONITORING** (`santamonica-swip-om-2025:14.sm-10i-and-sm-11i-injection-well-performance-monitoring`, p. 106)
+    - 1. [Injection Well Performance Monitoring Plan (PMP) Approach](technical-approach/swip-injection-well-performance-monitoring-plan.md) — p0106¶2 · prose · preferred
+    - **SCADA Control System Deployment** (`santamonica-swip-om-2025:14.scada-control-system-deployment`, p. 106)
+      - 1. [SCADA Control System Redundancy Upgrade Recommendation](technical-approach/swip-scada-redundancy-upgrade-recommendation.md) — p0106¶19 · prose · preferred
+    - **Training and Development of City Staff for Water/Wastewater/Advanced Water** (`santamonica-swip-om-2025:14.training-and-development-of-city-staff-for-water-wastewater`, p. 107)
+      - 1. [Operator Training and Development Program for Client Water/Wastewater Staff](technical-approach/swip-city-staff-training-program.md) — p0107¶2 · prose · preferred
+    - **Inventory Management for Arcadia** (`santamonica-swip-om-2025:14.inventory-management-for-arcadia`, pp. 107–108)
+      - 1. [CMMS-Integrated Inventory Management Value-Add for a Second Facility](technical-approach/swip-cmms-inventory-management-value-add.md) — p0107¶6 · prose · preferred

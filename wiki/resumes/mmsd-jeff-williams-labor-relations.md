@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe
+section-order: 5
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers the question every union client asks a challenger — who negotiates the collective bargaining agreement — with a named corporate labor relations manager and a count of CBAs negotiated during O&M transitions.
 reuse-notes: The count of CBAs negotiated is the proof value and must be refreshed. Keep the "before they escalate" framing and the commitment that site managers, not only corporate, are equipped to handle labor issues.

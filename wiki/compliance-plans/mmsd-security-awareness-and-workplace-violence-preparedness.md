@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:27.4-2-3-integrated-prevention-and-awareness
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Grounds two soft-sounding topics in hard evidence — more than 100 ANSI J-100 Risk and Resilience Assessments completed, and a workplace-violence program built on grievance interruption from a named FBI publication rather than generic run-hide-fight training.
 reuse-notes: Update the count of completed J-100 assessments before reuse. Confirm the client has its own security procedures to align to; where it does not, offer to author them instead of referencing theirs.

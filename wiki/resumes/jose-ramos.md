@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:16
+section-order: 1
 context: Proposed site Operations Manager for one of four plants in a Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "Strong site-level Operations Manager profile — 30 years of experience with 25 in management, direct on-the-ground Oklahoma work at Bixby and Duncan (including emergency compliance recovery), and hands-on experience at large-flow facilities (112-MGD WWTP, 320-MGD expansion). Shows the 'meets minimum qualifications' crosswalk device against a named RFP schedule."
 reuse-notes: "VERBATIM resume — real name and licenses retained. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Joe Ramos's current role, availability, and years of experience (30 total, 12 with Jacobs at time of writing); (2) verify the Class A OK WW Operator License and the Texas Class A water and wastewater licenses are current; (3) re-point the 'Schedule 10' minimum-qualification crosswalk and the facility name (Chisholm Creek) to the new RFP's requirement citation and site; (4) the JXN Water, AlexRenew, Houston, Bixby, Duncan, Gallup, and Donna project references name real clients — clear with the account teams before external use."

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Named project manager card for a large regional-district O&M challenger bid; pairs an operator-licensed career track with corporate operations authority, and closes with a decision-authority differentiator aimed squarely at an incumbent.
 reuse-notes: Certifications, license numbers and the project list are person-specific and must be refreshed from the current corporate resume before reuse. The "authorized to make contract decisions" closing line is the reusable device; retarget the client objectives and vision statement named in the last sentence.

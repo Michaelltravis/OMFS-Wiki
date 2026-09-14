@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:35.leveraging-an-ongoing-riverfront-estuary-renewal-to-enhance
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: One concrete, buildable amenity instead of a category of good intentions — and it is deliberately hitched to a funded program already under way ($450M estuary restoration), so the client gets a permanent public asset without a new funding fight. Names the exact services offered (feasibility, design, permitting, construction oversight, funding support, stakeholder coordination), which makes the offer auditable.
 reuse-notes: The transferable move is finding a funded environmental program in the client's region and proposing the public-access amenity that rides on it. Replace the river, the cleanup program, the partner organizations, and the amenity itself; keep the six-service scope list and the closing sentence that ties public use to stewardship leadership.

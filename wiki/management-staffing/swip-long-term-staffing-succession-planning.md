@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:13.long-term-staffing-succession-planning-practices
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "A concise, well-organized eight-program catalog (Exhibit 3-6) of Jacobs' corporate staff-development and succession-planning infrastructure — useful whenever a proposal needs to show the workforce pipeline behind a transition plan, beyond the specific transition itself."
 reuse-notes: "Fully corporate/generic content — no client name appears in this subsection at all, so no [CLIENT] substitution was needed. The named internal group (Resource Planning Group) and named initiative titles (Global Future Talent Team, Project Manager Intern Program, Leadership Team Mentor Program, Maintenance Excellence Initiative) are real corporate program names, kept verbatim; reconfirm current program names/scope with corporate HR/talent-development before reuse, as internal program names and statistics (e.g., 35-person Leadership Team Mentor Program cohort, 20+ talent-development staff) may be updated year to year."

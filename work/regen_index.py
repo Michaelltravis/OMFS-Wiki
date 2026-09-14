@@ -109,12 +109,14 @@ def main():
     lines = []
     lines.append("# Wiki Index")
     lines.append("")
+    sources = sorted({str(b["fm"].get("source")) for cat in blocks_by_category for b in blocks_by_category[cat] if b["fm"].get("source")})
     lines.append(
         "Master index of all content blocks, regenerated from block frontmatter "
-        "(`python work/regen_index.py`). Content is sourced from "
-        "`hull-wwtf-om-2026` or `santamonica-swip-om-2025` (see each block's "
-        "`source:` frontmatter field). See `graphics/hull-wwtf-om-2026.md` and "
-        "`graphics/santamonica-swip-om-2025.md` for the exhibit/graphics catalogs."
+        "(`python work/regen_index.py`). Sources: "
+        + ", ".join(f"`{s}`" for s in sources)
+        + " (see each block's `source:` frontmatter field and `graphics/<source>.md` "
+        "for the exhibit/graphics catalogs). The **By source section** facet at the end "
+        "lists every block in its proposal's reading order."
     )
     lines.append("")
     lines.append(
@@ -206,6 +208,67 @@ def main():
             "_No block in the wiki currently sets `win-theme-map` — omitted "
             "until schema-v2 migration adds this key._"
         )
+        lines.append("")
+
+    # Facet: By source section (reading order from section-id / section-order)
+    lines.append("## By source section")
+    lines.append("")
+    lines.append(
+        "_Every block in its source proposal's reading order, under the section it was "
+        "drawn from (`section-id` / `section-order`, set by `work/assign_block_sections.py` "
+        "from `verbatim/<source>/sections.json`). Sections with no blocks are omitted. "
+        "Pull a whole section with `python work/assemble_section.py <source> \"<section>\"`._"
+    )
+    lines.append("")
+    try:
+        import sys as _sys
+        _sys.path.insert(0, str(ROOT / "work"))
+        from verbatim_sections import load_sections as _load_sections
+    except Exception:  # pragma: no cover
+        _load_sections = None
+    ref_re = __import__("re").compile(r"p(\d{4})\.md#¶(\d+)")
+    any_facet = False
+    if _load_sections is not None:
+        for slug in sources:
+            try:
+                doc = _load_sections(slug)
+            except Exception:
+                continue
+            by_sec = {}
+            for cat in CATEGORY_DIRS:
+                for item in blocks_by_category[cat]:
+                    fm, rel = item["fm"], item["rel"]
+                    if str(fm.get("source")) != slug or not fm.get("section-id"):
+                        continue
+                    refs = as_list(fm.get("verbatim-ref"))
+                    m = ref_re.search(str(refs[0])) if refs else None
+                    ref = f"p{m.group(1)}¶{m.group(2)}" if m else DASH
+                    order = fm.get("section-order")
+                    try:
+                        order = int(order)
+                    except (TypeError, ValueError):
+                        order = 0
+                    by_sec.setdefault(str(fm["section-id"]), []).append(
+                        (order, fm.get("title") or Path(rel).stem, rel, ref, cell(fm.get("block-type")), cell(fm.get("status"))))
+            if not by_sec:
+                continue
+            any_facet = True
+            lines.append(f"### {slug}")
+            lines.append("")
+            for sec in doc["sections"]:
+                items = by_sec.get(sec["id"])
+                if not items:
+                    continue
+                indent = "  " * max(0, sec["level"] - 1)
+                a, b = sec["start"]["page"], sec["end"]["page"]
+                pages = f"p. {a}" if a == b else f"pp. {a}–{b}"
+                lines.append(f"{indent}- **{sec['title']}** (`{sec['id']}`, {pages})")
+                for order, title, rel, ref, bt, st in sorted(items, key=lambda x: (x[0], x[2])):
+                    lines.append(f"{indent}  - {order}. [{title}]({rel}) — {ref} · {bt} · {st}")
+            lines.append("")
+    if not any_facet:
+        lines.append("_No block carries `section-id` yet — run `python work/build_sections.py --all` "
+                     "then `python work/assign_block_sections.py`._")
         lines.append("")
 
     md_text = "\n".join(lines).rstrip() + "\n"

@@ -24,6 +24,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:21.energy-and-chemical-optimization
+section-order: 6
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "A complete itemized inventory of everything a large O&M bid put on the table as value-add, bucketed with a dollar value per bucket. Useful as a checklist of offerable enhancements when building a new pursuit's value-add exhibit."
 reuse-notes: "Use the bucket structure and the item menu as a starting checklist; every dollar value is pursuit-specific. Category assignment of individual items is reconstructed from the graphic's text layer and should be verified against the page render before any item is quoted as an exhibit line."

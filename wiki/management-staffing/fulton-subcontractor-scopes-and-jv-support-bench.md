@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.subcontractors
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Source subcontractor table preserves the scope allocation and explicitly attributes CERM's local workforce and support role.
 reuse-notes: Subcontractor names, certifications, scope assignments, and support availability are pursuit-specific; verify contracts and client goals before reuse. Commercial fee and investment figures are intentionally omitted.

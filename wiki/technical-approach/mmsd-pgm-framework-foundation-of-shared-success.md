@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23.1-2-pgm-framework-is-the-foundation-of-our-shared-success
+section-order: 1
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The central differentiator of this bid: applying capital-program management discipline—governance, chartering, baselines, a program implementation plan—to an O&M contract. Names the leaders accountable for it and the culture instrument (Insights Discovery) used to align them."
 reuse-notes: "Keep the argument that portfolio complexity demands a PgM lens; it is what separates this from a conventional O&M management narrative. Replace the named leaders and their years of experience, and confirm the culture-assessment tool is still the one the team uses."

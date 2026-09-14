@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.biosolids-land-application
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The Baltimore Back River recovery narrative is the strongest turnaround story in this library — a consent-decree facility stabilized in one year with hard counts on every claim (4,500 truckloads, 800 tons of legacy sludge, 3,200 training hours, 22 permanent hires with all existing City staff retained) — and it sits behind a corporate biosolids scale claim and two other named projects.
 reuse-notes: The 40,000 dry tons per year figure and the 4,000-facility count are corporate totals that need a current-year check. The Baltimore story is the closer for any solids-heavy pursuit; keep the staff-retention detail, which is what makes it safe to use where the client fears a workforce disruption. Vancouver's 100%-through-the-incinerator claim carries the "excluding only planned diversions during annual outages" qualifier — keep that qualifier attached.

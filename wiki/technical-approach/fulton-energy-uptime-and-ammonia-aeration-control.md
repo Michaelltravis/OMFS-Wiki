@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.reducing-real-time-peak-power-consumption
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim operating strategy integrating maintenance uptime, equalization, peak-power management, and ammonia-based aeration control."
 reuse-notes: "Confirm utility tariffs, air permits, generator-paralleling feasibility, equalization capacity, screen design, and aeration-control safeguards before reuse."

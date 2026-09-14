@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:30.hauling-land-application-and-disposal-coordination
+section-order: 1
 context: Southcentral US water utility trust challenger wastewater O&M pursuit, 2026; four-facility system exceeding 110 MGD under ODEQ.
 quality: Connects daily hauling and site sequencing with documentation, landfill transition planning, odor controls, communications protocol, and a ready contingency route.
 reuse-notes: Confirm disposal timeline, public-information protocol, biosolids class, manifest rules, and permitted-site development process. Replace Schedule 14 and the 2029 target with verified pursuit requirements. Read the cited verbatim page for the full passage.

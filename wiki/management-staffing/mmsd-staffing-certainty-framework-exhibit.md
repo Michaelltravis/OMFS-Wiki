@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:11.maintenance-committee
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A one-graphic answer to staffing risk — the three tiers of supply (onsite-integrated HR, regional bench for immediate/emergency backfill, national network including the O&M Resource Planning Group) plus transparent metrics and reporting, with the 20+ national HR staff proof point in the caption.
 reuse-notes: The source page renders this exhibit as interleaved graphic text; the caption below reconstructs its four labeled elements and its narrative caption. Recreate the graphic for a new pursuit rather than reusing the image, and re-verify the national HR staff count. Note the caption's above-and-beyond HR-position claim must match whatever the new staffing table shows.

@@ -23,6 +23,8 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 superseded-by: wiki/compliance-plans/oklahoma-biosolids-legislation-emerging-risk.md
+section-id: ocwut-16-26:24.oklahoma-corporation-commission-occ-petroleum-storage-tanks
+section-order: 2
 context: Oklahoma municipal utility with OPDES stormwater obligations and a 170-site, 13,500-acre Class B biosolids land-application program.
 quality: Pairs executable stormwater responsibility with a specific legislative-risk scenario and contingency-planning posture.
 reuse-notes: Validate current legislation, pilot status, land-application footprint, Schedule 12 responsibilities, and alternative disposal pathways before reuse.

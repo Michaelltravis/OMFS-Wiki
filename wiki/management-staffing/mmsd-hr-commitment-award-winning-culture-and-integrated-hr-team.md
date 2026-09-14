@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:11.1-1-we-bring-an-award-winning-culture-aligned-with-mmsd-s-va
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Pairs an employer-brand proof point (Forbes 2025 America's Best Employers) with a named, structured HR delivery model — integrated recruiting, union coordination, hiring halls, and surge coverage — so the culture claim lands as an operating plan rather than a slogan. Strong content for unionized, large-headcount pursuits.
 reuse-notes: Replace named HR and leadership staff with the proposed team for the pursuit. Refresh the Forbes list year. Keep the four-bullet HR structure; drop the union bullets only where the workforce is not represented. Confirm the local recruiting partners and hiring halls named for the new region.

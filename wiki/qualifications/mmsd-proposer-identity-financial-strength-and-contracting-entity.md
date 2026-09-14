@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:04
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR regulatory regime.
 quality: The standard Jacobs answer to the "who exactly is bidding" question — a short financial-strength framing paragraph followed by a clean identity table naming the contracting entity (OMI), the parent guarantor (JEG), the corporate relationship, the contact person, and the authorizing officer. Reusable on any RFP that asks the proposer to identify itself and its guarantor.
 reuse-notes: Verify the contracting-entity address, the named contact person and the authorizing officer against current Jacobs O&M leadership before submission; the roles (VP of Operations, President of OMI) are stable, the names are not. Update the "over 75 years / over 40 years" figures to the current year. Where the RFP prescribes an identity form, transfer these fields into the client's form and keep this prose as the lead-in.

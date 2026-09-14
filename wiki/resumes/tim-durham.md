@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:15
+section-order: 1
 context: Proposed site Operations Manager for the North Canadian plant and Witcher Pump Station. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; ODEQ regulatory regime.
 quality: "Site Operations Manager resume built on public-sector utility leadership rather than contract operations alone — carries a rate study, sewer mapping, two plant expansions, GAWP Gold Awards, and a $31M budget with 60+ staff."
 reuse-notes: "VERBATIM resume — real name and license numbers retained; no client reference contacts are listed in the source. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Tim Durham's current role, availability, and years of experience (31 total, 2 with Jacobs at time of writing); (2) verify the OK, GA, and MS licenses are current; (3) the $31M budget figure is a client operating budget, not a Jacobs fee — keep it, but re-confirm with the Jackson account team, which is a sensitive account; (4) rewrite the site name in the title and summary for the new facility."

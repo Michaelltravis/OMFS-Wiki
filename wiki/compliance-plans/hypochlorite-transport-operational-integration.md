@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:28.hypochlorite-transport-plan
+section-order: 1
 context: Southcentral municipal water utility trust capital program.
 quality: Near-verbatim logistics, safety, responsibility, and contingency framework for moving generated hypochlorite between facilities.
 reuse-notes: Tailor the facilities, completion date, delivery comparison, and applicable transport requirements.

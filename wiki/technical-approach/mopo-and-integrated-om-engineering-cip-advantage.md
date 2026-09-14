@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:06.maintenance-of-plant-operations-mopo
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Names MOPO as the highest-risk element of capital work at an operating plant and treats it as a living document, then lands the operator-plus-engineering differentiator on a hard proof point — the Wilmington, Delaware aeration resequencing that cut the construction schedule 40% and cost 20%.
 reuse-notes: The Wilmington, Delaware Wastewater Treatment Facility example and its 40% schedule / 20% cost figures are the reusable proof — confirm the figures against the registry and confirm client permission before external use. Re-cite the performance-requirement schedule and the design percentage at which MOPO planning begins against the target contract.

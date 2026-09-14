@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.process-tools-and-oversight
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A tight, five-tool operational toolkit with a clear what-we-will-do / benefit-to-the-client framing, opened by the comprehensive O&M Plan and living-SOP commitment that anchors the whole operational approach — maps cleanly onto any treatment plant process control narrative.
 reuse-notes: Tool names (STT, UPCP) are program-specific branding — confirm current internal tool names before reuse. Confirm the client's actual required sampling frequencies and permit parameters, and rename the data-management platform if a different SCADA/CMMS/LIMS will be used. The electronic-tablet commitment is a real contract commitment; keep it only if it will be funded.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:32.5-roles-and-responsibilities-for-success
+section-order: 1
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "Answers the question most PdM offers skip — who actually does this work. Four accountable roles, each with the specific handoff it owns, plus a named SME bench behind the onsite team. Short, concrete, and directly reusable in a staffing section as well as a technical one."
 reuse-notes: "Swap the named SMEs for the pursuit's actual bench and confirm the client-side counterpart role (asset management lead here). The Reliability Engineer / SCADA-OT / maintenance-and-asset-management / SME-reachback split is the reusable structure."

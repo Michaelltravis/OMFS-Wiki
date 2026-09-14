@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.safety-and-site-security
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Two tight sidebar bios that put credentialed corporate SMEs (ASP/CSP safety, CPP/CFE security) behind the site team and state exactly what each will do for the client — the reach-back proof that separates a national operator from a local incumbent
 reuse-notes: Swap in the SMEs actually committed to the pursuit and confirm their credentials, years of experience, and current titles; Keith Waddell's title (Director, Security-Americas) and Tracy James's 20 years of EHS experience are as of the 2026 proposal date. Keep the "for [CLIENT], he'll..." closing sentence pattern — it converts a resume into a commitment. Names are kept per wiki policy; the proposal team QCs staff availability before external use.

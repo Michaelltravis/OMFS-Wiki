@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:22
+section-order: 1
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The challenger's credibility move: quantified due diligence (2 years of SME engagement, more than 16,000 hours) placed directly against the client's own published strategic objectives. Converts 'we understand you' from a claim into a countable investment."
 reuse-notes: "Recompute the due-diligence hours and engagement period for each pursuit and register them. Replace the six strategic objectives with the client's own, quoted from their strategic plan or RFP, in their wording and order."

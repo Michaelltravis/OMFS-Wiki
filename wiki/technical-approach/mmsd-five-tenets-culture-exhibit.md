@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23.1-2-pgm-framework-is-the-foundation-of-our-shared-success
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A fully client-neutral statement of Jacobs' operating culture in five named tenets with a written definition of each — drop-in reusable for any pursuit, any size, any service line.
 reuse-notes: Contains no client-specific content; reusable verbatim. Tie each tenet to a concrete pursuit-specific commitment in the surrounding text so it reads as practice rather than values-poster language.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.jc-solutions-ams-elements-built-on-the-10-box-model
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim lifecycle, PdM/PM, condition-assessment, KPI, and continual-improvement content."
 reuse-notes: "Tailor task-closeout targets, capital-planning horizons, dashboards, and named staff. Retain JC Solutions as the Jacobs/CERM JV and Jacobs attribution for technical support."

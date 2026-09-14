@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:10.onsite-o-m-team
+section-order: 2
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Detailed, technology-specific operator bios (MBR, ultrafiltration, RO, UV disinfection/UV-AOP) with named prior facilities across multiple MGD scales, plus a clear cross-training/coverage statement for off-hours and emergency response — a strong reusable pattern for advanced-treatment operator qualifications.
 reuse-notes: 'Named individuals and their real credentials are kept verbatim per wiki policy. Note: the source document''s subheading names "Chris Catlin" as a third Operator alongside Josh Hernandez and Christen Wood, but the third bio beneath it is for Jason Holst — this appears to be a source-document inconsistency (Chris Catlin is elsewhere named Manager of Operations, not an Operator in Charge). Flagged here for the proposal team to verify/correct before reuse; the bios below are transcribed faithfully from the source.'

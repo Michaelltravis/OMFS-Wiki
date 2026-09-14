@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:17.1-3-internships-peak-interest-in-careers
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Grounds the outreach promise in programs that already exist and that the client already recognizes by name, and puts a proposed key person into the client's own internship program as a photo caption — the cheapest, most credible form of "we are already here."
 reuse-notes: Only list outreach programs the local team genuinely participates in; an evaluator will know. Swap the named colleges, nonprofits, and client programs for the pursuit's own. Keep the bilingual recruitment and underserved-community outreach commitments only where the team is prepared to deliver them.

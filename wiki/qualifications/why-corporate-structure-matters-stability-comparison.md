@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08
+section-order: 4
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A three-column competitor-class comparison that attacks private-equity ownership and small-firm depth without naming a competitor — the single most transferable competitive device in this section, and safe to use in any market where the field includes PE-backed operators.
 reuse-notes: "Do not name the actual competitors in the column headers; the comparison works because it addresses ownership classes. Confirm the exchange listing line (NYSE: J) and re-check that the incumbent or likely competitors actually fall into one of the two right-hand classes before deploying — the table backfires against a municipally owned or employee-owned competitor."

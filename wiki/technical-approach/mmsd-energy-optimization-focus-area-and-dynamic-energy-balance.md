@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf
+section-order: 9
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The clearest statement of the energy positioning in this proposal — the client already owns the assets; the operator's job is to run them as one system — plus the offer to extend a Sankey energy model the firm itself built for the client into a live operational dashboard.
 reuse-notes: The 100%-renewable-by-2035 goal, the asset list, and the prior Energy Plan authorship are pursuit-specific. The reusable core is the "one coordinated system" framing and the dynamic energy balance as a decision dashboard rather than a report.

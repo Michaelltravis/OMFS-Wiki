@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.ultraviolet-disinfection
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim treatment reliability and safety narrative connecting UV operation, dewatering tradeoffs, and high-hazard cross-connection protection."
 reuse-notes: "Verify disinfection design, dewatering equipment, landfill requirements, sludge handling, and backflow-prevention configuration before reuse."

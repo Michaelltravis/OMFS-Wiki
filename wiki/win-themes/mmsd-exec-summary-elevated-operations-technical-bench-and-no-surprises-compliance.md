@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:02
+section-order: 7
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Opens by listing exactly what the client values — permit performance, zero overflows, biosolids product quality and reliable production, safe and resilient operations, cost effectiveness, progress toward the 2035 Vision — which proves listening before it makes any claim. Then pairs open-book reporting and real-time client visibility with the "no surprises" compliance commitment and closes on the Annual Innovation Workshop, framed as a standing defense against operator complacency.
 reuse-notes: Rewrite the "what the client values most" list from the pursuit's own RFP language and site-visit notes; a generic list destroys the effect. The Annual Innovation Workshop content also exists as a stand-alone block sourced from another proposal — check wiki/win-themes/exec-summary-annual-innovation-workshop-partnership-narrative.md and use whichever framing fits the section.

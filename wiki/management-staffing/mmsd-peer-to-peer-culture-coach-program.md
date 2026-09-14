@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:16.2-maintaining-a-respectful-workplace-of-inclusion-and-belong
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A culture claim with a measurable commitment attached — the 80% annual coaching-session goal converts "we care about retention" into something an evaluator can score and a client can later audit.
 reuse-notes: Refresh the client survey year. The 80% goal is a corporate commitment; confirm with the operations leadership that it is being carried into the pursuit before restating it, since it becomes a contract expectation.

@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for
+section-order: 2
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The strongest open-book passage in the library: one validated source of truth built from named source systems, auditable shared-cost controls for energy, chemicals, fuel and biosolids, automatic KPI flagging, a corrective-action log the client can see, and immediate notification of anything that could touch permit compliance."
 reuse-notes: "Replace the source systems (NEXGEN, SCADA, CMMS, Hach WIMS/LIMS, financials) with the pursuit's actual stack, and the RFP exhibit reference with the pursuit's performance-standards exhibit. Named leaders and their tenure change per pursuit. The shared-cost commodity list should match the contract's shared-cost definition."

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:23
+section-order: 1
 context: Proposed Laboratory Manager leading compliance sampling, QA/QC, DMR reporting, and laboratory-driven process control across the facility portfolio. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; ODEQ regulatory regime.
 quality: "Laboratory Manager resume that argues the lab is a process-control instrument, not a reporting function — every bullet and every experience paragraph closes the loop from analytical data to operating decisions. In-state credentials (Class A OK WW Laboratory Operators License, ODEQ No. 95706) plus two Oklahoma utility assignments make this a strong local-bench proof in an ODEQ pursuit."
 reuse-notes: "VERBATIM resume — real name and license numbers retained; no client reference contacts are listed in the source. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Scott's current role, availability, and years (21 total, 7 with Jacobs at time of writing); (2) the ODEQ license expires 06/30/2026 and the TCEQ license 02/17/2028 — re-verify both before any submission; (3) re-point the closing sentence of the summary, which names the pursuit's Sampling and Testing QA/QC Plan by title; (4) the JXN Water entry is a sensitive account — clear the Jackson, MS reference with the account team."

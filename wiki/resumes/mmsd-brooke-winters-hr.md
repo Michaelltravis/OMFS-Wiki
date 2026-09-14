@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe
+section-order: 4
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Commits a dedicated HR business partner to a single contract and states what that dedication buys the client — a wider candidate pool and fast-tracked screening, offers and onboarding, with a list of O&M contracts she has supported the same way.
 reuse-notes: The word "dedicated" is the commitment and should only be used where the role is genuinely contract-specific. Refresh the supported-contract list to the nearest comparable facilities.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf
+section-order: 3
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Model passage for crediting an incumbent-quality record while naming a specific, data-supported energy opportunity — DO variability, channel mixing, blower VFDs, settleability — and tying it to digital tools and the client's own capital strategy.
 reuse-notes: Replace the aeration specifics (big bubble channel mixing, single VFD-equipped blower, hydrocyclone/MBAS settleability) with the target plant's observed conditions; the exhibit reference (DO variability scatter) must be rebuilt from the new client's SCADA data. Keep the structure - credit the record, name the dynamics, then list the targeted intensification measures.

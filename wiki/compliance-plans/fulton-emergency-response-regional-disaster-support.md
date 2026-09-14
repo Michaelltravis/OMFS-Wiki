@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.emergency-response-and-disaster-preparedness-plan
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim emergency-plan table and regional-response proof, including notification, recovery, and scalable deployment commitments.
 reuse-notes: Confirm every contract deadline, capacity, hotline, event type, response commitment, and disaster reference before use. Client testimonial permission remains unknown.

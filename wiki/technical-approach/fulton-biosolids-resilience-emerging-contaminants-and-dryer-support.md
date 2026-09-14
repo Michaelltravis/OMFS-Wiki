@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.temporary-and-or-emergency-dewatering
+section-order: 1
 context: JC Solutions (a Jacobs/CERM JV) biosolids-resilience and future-treatment support for a Southeast county multi-facility wastewater system.
 quality: Near-verbatim contingency, PFAS-awareness, and future dryer-delivery language with named external funding examples.
 reuse-notes: Verify current mobile-dewatering availability, PFAS developments, project references, contractor relationships, funding status, and delivery options before reuse.

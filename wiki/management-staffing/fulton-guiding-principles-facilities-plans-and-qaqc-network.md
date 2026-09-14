@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.guiding-principles
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim operating-principles and support-network language that connects system plans, audits, onsite delivery, regional management, and SME reach-back.
 reuse-notes: Verify CMMS, audit frequency, required plans, delivery formats, and client requirements. Retain JC Solutions as a Jacobs/CERM JV rather than collapsing attribution to Jacobs.

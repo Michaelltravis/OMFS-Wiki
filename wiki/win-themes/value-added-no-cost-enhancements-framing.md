@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:02.our-value-added-approach
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The clearest sales device on these pages — five distinct enhancements totaled into one headline "$5 million in value at no additional cost over a 10-year term" figure and rendered as a ring chart, then explained one by one so each carries both a mechanism and an outcome. It converts a list of nice-to-haves into a single number a client can repeat back internally
 reuse-notes: Every figure here is the source pursuit's actual offer over a 10-year term — rebuild the initiative mix, the per-item values, the total, and the term from the target pursuit's real value-add package before any reuse, and register each number as a proof point. The engineering multiplier and discount percentage are the source pursuit's commercial terms; carry them only if the target pursuit's pricing team confirms the same offer. Section 5 (Project Understanding and Technical Approach) is where the full detail behind each initiative belongs — the executive summary version stays to one paragraph per initiative.

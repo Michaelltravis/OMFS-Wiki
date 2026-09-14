@@ -23,6 +23,8 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md
+section-id: santamonica-swip-om-2025:08.process-control
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement — advanced water treatment facility with MBR/RO/UV-AOP train
 quality: Names a proprietary companywide framework (CPCS) and pairs it with six concrete, named tools (UPCPs, Sampling Plan, Sample Tracking Tool, Data Management/LIMS/HachWIMS, SOPs, Operator Round Sheets, Peak Flow Tests) each with an explicit client benefit statement — a strong template for demonstrating "not just a philosophy, an actual tool stack."
 reuse-notes: The CPCS name, all six tool descriptions, and their benefit framing are fully generic and reusable across any water/wastewater O&M pursuit. The peak-flow-test cadence (monthly, one-hour at design peak) is specific to membrane-train facilities; adapt for non-membrane process trains.

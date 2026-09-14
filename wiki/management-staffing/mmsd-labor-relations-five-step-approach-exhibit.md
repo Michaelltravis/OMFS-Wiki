@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:11.3-union-and-labor-relations
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A labor-relations plan with a status row — three of five steps already marked COMPLETE at proposal time, which converts a promise into evidence of work already done. Graphic asset ID 311_007CAM_4.
 reuse-notes: The status row is the differentiator and is only usable when the steps really are complete for that pursuit; re-set each status honestly. The voluntary-recognition commitment must be cleared with legal before reuse. Graphic ID 311_007CAM_4 is client-specific and needs re-lettering.

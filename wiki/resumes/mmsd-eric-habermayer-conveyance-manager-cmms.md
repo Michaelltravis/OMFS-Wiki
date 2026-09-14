@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Combines combined-sewer real-time control and CSO flow monitoring experience with an Institute of Asset Management credential and CMMS implementation ownership — one person covering conveyance operations and the asset system that governs it — plus a local-roots line.
 reuse-notes: The CMMS implementation responsibility should only be claimed where the pursuit actually includes a system stand-up or migration. The in-state roots line needs a true local connection.

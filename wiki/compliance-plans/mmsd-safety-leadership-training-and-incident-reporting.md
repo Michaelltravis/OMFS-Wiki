@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:27.4-1-3-leadership-roles-and-integration
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers the three questions evaluators ask about a safety program — who owns it, how people are trained, and how fast the client hears about an incident — with named roles, a specific training list, and committed notification clocks (immediate phone call, written summary in 12 hours, full root-cause investigation in 48 to 72 hours).
 reuse-notes: Replace the role titles and the client counterpart titles with the ones named in the new RFP; align the notification and investigation clocks with the contract's stated timelines rather than restating these. Confirm the governance-meeting cadence matches the management approach section.

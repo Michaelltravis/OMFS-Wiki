@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:02.required-plans-built-for-ocwut-ready-on-day-one
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Proves facility-by-facility knowledge in a single sentence — four plants, four different named solids problems, each with a specific response — then ties them to a tiered storage protocol with a stated threshold. This is the paragraph that separates a site-visit-based proposal from a boilerplate one.
 reuse-notes: The four facility-specific strategies and the count of permitted land application sites are pursuit facts and must be re-derived from the target system's own solids data. Keep this block distinct from the Solids Management Plan block — the two plans answer different contract schedules and evaluators score them separately.

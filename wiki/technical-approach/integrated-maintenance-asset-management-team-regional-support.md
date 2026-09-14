@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:06.maintenance-staffing-approach
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Makes the case for splitting maintenance management and asset management into two dedicated roles — an explicit incumbent-displacement argument tied to observed deferred maintenance — and pairs it with the regional maintenance bench differentiator (standalone specialists who do not compete with project resources).
 reuse-notes: Swap the named leads (Brian Daniels, Amy Dembinski, CRL) and the regional locations (Baton Rouge, Jackson) for the pursuit's proposed team and nearest regional support hubs; confirm the "more than 100 Jacobs-operated facilities" count is current before restating; the "deferred maintenance we've observed" line only works where the team has actually toured the facilities.

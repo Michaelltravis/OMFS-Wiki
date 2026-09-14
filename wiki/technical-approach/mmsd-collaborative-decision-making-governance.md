@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.2-1-collaborative-decision-making-for-safe-compliant-and-rel
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The cleanest available statement of how an operator makes decisions without surprising the client — decision levels, the forums that own each, named areas of shared risk, and decision logs/escalation paths as the transparency mechanism. Directly answers "who decides what" evaluation questions.
 reuse-notes: Replace the governance forum names (O&M Committees, Executive Committee) and the contract exhibit reference with the pursuit's own governance instruments; tailor the shared-risk list (energy, chemicals, odor control, solids handling and disposal, technology and IT systems, regulatory fees) to the risks the contract actually allocates; substitute the named project manager.

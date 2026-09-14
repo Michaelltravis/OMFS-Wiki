@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV; MBR plants with residential odor sensitivity and biosolids-management needs.
 quality: A full source-prose sequence connecting MBR technical support, predictive maintenance, community odor management, biosolids options, and applied innovation.
 reuse-notes: Treat all facility findings and examples as source-specific. Validate any technology partners, client outcomes, and biosolids alternatives before external use.

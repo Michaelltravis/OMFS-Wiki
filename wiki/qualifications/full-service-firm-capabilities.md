@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:06.exceptional-reach-back-to-regional-and-technical-o-m-resourc
+section-order: 2
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Strong "more than an operator" differentiator with a five-column capability matrix (Consulting, Engineering, Procurement, Construction, FM/O&M) that concretely lists dozens of in-house services available to an O&M site team at no extra cost — good for any RFP evaluation criterion on firm-wide resources and capabilities.
 reuse-notes: Replace [CLIENT] and [PROJECT] placeholders. The five-column capability list is a standing corporate capability set and needs no pursuit-specific tailoring, though it can be trimmed to the services most relevant to the RFP's stated scope so the exhibit stays legible.

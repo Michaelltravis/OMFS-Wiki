@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.office
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim community-accountability, relief-support, and annual-reporting passage."
 reuse-notes: "Confirm summit participation, relief partners, measurement methods, report recipients, and annual reporting commitments before reuse."

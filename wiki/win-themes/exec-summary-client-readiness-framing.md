@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:02.positioning-hull-s-wastewater-program-for-its-next-phase
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A concise, evaluator-friendly opening pattern that names the client's investment to date, reframes the real gap as leadership/communication/proactivity rather than technical failure, and pivots directly to the firm's value-proposition exhibit — sets up the rest of the section in three short paragraphs
 reuse-notes: This block is the instructional recipe only. The paste-ready prose it describes lives in `exec-summary-readiness-and-system-profile-opening.md`; start there and use this block to understand why each beat is placed where it is. The specific "what's already been invested" and "what's still missing" claims must reflect genuine RFP/site-visit findings for the target client, and the facility statistics paragraph must be replaced with the target facility's real figures.

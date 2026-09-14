@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The sharpest challenger passage in this section — it names a persistent settleability problem that has caused effluent violations, credits the client's own upgrade, quotes the client's design documentation against the assumption that the upgrade alone is sufficient, then offers three specific technologies with quantified capacity gains (10-15% from two-pass step feed, up to 40% from MBAS). Proprietary MBAS (Jacobs/Nuvoda) is a genuine differentiator.
 reuse-notes: The capacity-gain percentages are facility-specific screening-level estimates and must be re-derived against the pursuit's basin geometry, loading, and blower capacity before restating; confirm MBAS and hydrocyclone applicability with the technology leads; keep the pattern of crediting the client's existing investment before proposing more.

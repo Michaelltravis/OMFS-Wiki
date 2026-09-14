@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.extensive-system-of-qa-qc-measures-and-technical-support
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Source matrix of regional process, maintenance, compliance, management, and executive functions that keeps QA/QC integrated with daily delivery.
 reuse-notes: Reconcile every cadence, dashboard, system name, target, and assigned role with the target scope and project organization.

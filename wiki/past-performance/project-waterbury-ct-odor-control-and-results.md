@@ -22,6 +22,8 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:32.waterbury-water-and-wastewater-system-o-m
+section-order: 2
 context: "Verbatim municipal water and wastewater O&M reference."
 quality: "Source-faithful odor-control, maintenance, collection-system, and sludge-backlog results."
 reuse-notes: "Past-performance content is verbatim and client-exempt. Confirm current outcomes before external use. Preserve the exact odor-reduction wording and time window."

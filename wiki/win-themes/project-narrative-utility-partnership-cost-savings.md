@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:13
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Strong proof point for a large, complex O&M award — pairs a compliance-driven origin story (sewer overflows) with a holistic multi-service scope and a quantifiable, client-attributed cost outcome ($12.7 million).
 reuse-notes: "Use as a model for pursuits where the target facility is large or complex and the client is likely comparing Jacobs' full-service capability (capital planning + CMOM + regional support) against a narrower incumbent scope. Keep the $12.7 million savings and $25 million upgrade figures — they are outcome figures, not commercial pricing — and register both in proof-points/registry.md before they appear in a draft. Swap in the target facility's actual process train and collection-system statistics. The reference client behind this narrative is named verbatim in past-performance/project-waterbury-ct.md; read that block when the writer needs the real name, contact, or quote."

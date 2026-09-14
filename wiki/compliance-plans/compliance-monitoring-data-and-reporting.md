@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.monitoring-data-and-reporting
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Contains the single strongest transparency line in the proposal — "You will never learn about a compliance issue from ODEQ before hearing it from us" — plus a concrete early-warning-threshold commitment and a named DMR delivery lead time tied to a contract schedule.
 reuse-notes: Substitute the regulator, the DMR lead time, and the contract clause identifiers (COM-1, MGT-1, Schedule 1). The performance-deduction percentage is an RFP contract term, not a Jacobs fee figure — restate it only when the target RFP contains an equivalent at-risk provision. Keep the notify-client-before-the-regulator commitment verbatim; it is the section's memorable line.

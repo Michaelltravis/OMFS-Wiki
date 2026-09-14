@@ -22,6 +22,8 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:14.subcontractors
+section-order: 10
 context: "Verbatim proposed Workforce Development and Training resume from a Southeast county wastewater-facilities and pump-stations O&M pursuit."
 quality: "Verbatim resume unit preserving executive utility leadership, master-planning, capital-program, stormwater, water, wastewater, training, awards, references, and the candidate statement."
 reuse-notes: "VERBATIM full resume — retain real names, clients, contacts, certifications, dates, numbers, experience, and candidate statement. This file combines the source-faithful p. 153 role/profile with p. 154–155 relevant experience; confirm current role, availability, credentials, references, and all contact information before external reuse."

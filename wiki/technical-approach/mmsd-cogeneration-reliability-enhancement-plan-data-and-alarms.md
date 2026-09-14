@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:26.3-3-reliability-enhancement-plans-improving-equipment-uptime
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities with digester gas cogeneration, 2028 challenger bid against an incumbent contract operator; WDNR
 quality: Shows work already done before award — facility-specific reliability plans developed from the O&M manuals and RFP alone. The three-lever structure (make data actionable, make alarms meaningful, prevent repeat shutdowns) is the reusable spine, and the alarm-tiering sentence protects safety shutdowns while cutting nuisance alarms.
 reuse-notes: This only works where the team has actually read the client's O&M manuals and can name the systems that drive uptime — write the plan before claiming it. Replace the cogeneration asset list (fuel gas conditioning and compression, cooling water, fuel quality, turbine operating envelope, waste heat) with the pursuit's own uptime-critical systems.

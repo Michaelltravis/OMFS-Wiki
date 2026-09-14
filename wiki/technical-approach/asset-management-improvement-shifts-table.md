@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.the-town-s-asset-environment
+section-order: 2
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A four-row "current → our approach = benefit" device that makes the incumbent-displacement argument visually and without naming or attacking the incumbent; each row pairs a specific operating practice with the outcome the client actually cares about
 reuse-notes: The four rows are drawn from observed conditions at this facility. Rewrite the "current" column from an actual site walk and the client's own stated frustrations in the RFP; keep the three-column grammar (present state → proposed practice → client benefit) and keep the arrow/equals device, which is what makes the exhibit read as a promise rather than a list of services.

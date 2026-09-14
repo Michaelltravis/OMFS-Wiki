@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:16.reference-project-3-clovis-wwtp-reuse-facility-city-of-clovi
+section-order: 1
 context: "Southeast county multi-facility wastewater O&M pursuit, bid by JC Solutions, a Jacobs/CERM JV; disclosed reference-project compliance record."
 quality: "Detailed, dated permit-exception table retained as a transparent reference disclosure with stated causes and corrective context."
 reuse-notes: "City of Clovis is an unrelated reference client and is retained as source proof. Use only as a labeled historical disclosure after reference authorization is confirmed; retain all dated exceptions, stated causes, and zero-result categories."

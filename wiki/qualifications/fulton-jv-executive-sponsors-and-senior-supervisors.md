@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:14.executive-sponsors-and-senior-supervisors
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit (North Fulton), 2025, bid as JC Solutions, a JV of Jacobs and Atlanta-based minority-owned CERM; three water reclamation facilities (32 MGD MBR, 15 MGD MBR, 2.6 MGD) plus 28 wastewater and 5 potable water pump stations; MBR-heavy membrane operations, $750K workforce development commitment, incumbent engineering presence; Georgia EPD regulatory regime."
 quality: "A named executive-forum roster that retains the Jacobs/CERM JV governance and the operational, maintenance, community, and regional-support credentials behind it."
 reuse-notes: "Retain the JC Solutions (a Jacobs/CERM JV) attribution where this governance model is proposed. Reconfirm all named personnel, years of experience, board positions, and current project assignments before reuse."

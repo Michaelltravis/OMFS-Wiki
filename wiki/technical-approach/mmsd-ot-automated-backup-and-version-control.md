@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-control
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A narrow, high-credibility commitment — continuous PLC/HMI backup with version control, approval workflows before deployment, automated validation, configuration-drift detection, and multi-vendor coverage — with an audit-ready change history ("what changed, when, and who made the change") that answers both the cybersecurity and the regulatory-reporting question in one move.
 reuse-notes: Confirm the pursuit's controller vendors before restating the multi-vendor claim. The recovery-time benefit is framed against wet-weather overflow risk; reframe it against whatever failure the pursuit's client actually fears.

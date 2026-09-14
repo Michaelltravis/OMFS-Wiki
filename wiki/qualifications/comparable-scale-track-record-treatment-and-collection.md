@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:03.experience-operating-wastewater-treatment-plants
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Converts raw portfolio size into a "well beyond the requirement" argument by comparing Jacobs' facility, mileage, and pump-station counts directly against the RFP's minimum-experience threshold — a persuasive pattern, not a stat dump — and then bridges from scale into the operating conditions (I/I, wet weather, grease and odor, pump station reliability) the client actually worries about.
 reuse-notes: Recompute the facility, client, and mileage counts from current internal data before reuse. Rebuild the "well beyond the requirement" sentence around the actual RFP's minimum-experience language for the new pursuit — it only lands if you can point at the specific number the RFP asked for. Swap the ~42-mile network, multiple pump stations, and low-pressure sewer descriptors for the new client's actual system configuration. The client-by-client Exhibit 3-3 table backing this narrative is captured verbatim in past-performance/client-references.md.

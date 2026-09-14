@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:26.fewer-managers-more-doers
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest challenger device in the section — a three-row before/after table that shows management FTEs cut from 19 to 13 and hourly FTEs raised from ~69 to 83, then four bullets that say exactly where the added hands go. It reframes a higher total headcount (101 to 109) as overhead redirected to the field rather than as cost.
 reuse-notes: The 19-to-13 and 69-to-83 comparison depends on knowing the incumbent's current workforce mix — only usable where the RFP or a site visit disclosed it. Drain-and-clean, the Tuesday/Wednesday/Thursday operator concentration, the four R&R-dedicated maintenance staff, and the new 24/7 requirement at South Canadian are pursuit-specific; the reusable idea is assigning tank cleaning to operators so mechanics get wrench time back.

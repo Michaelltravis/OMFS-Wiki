@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik
+section-order: 3
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Rare triple credential (PMP, PgMP, CSP) plus vibration analysis certification on a conveyance maintenance role, backed by portfolio-scale exposure (250+ O&M contracts) and an explicit union-relations claim.
 reuse-notes: The predictive-maintenance credential set is the differentiator; keep Mobius vibration analyst and the operator licenses together. The PM-goal sentence in the benefit paragraph must be aligned to the target client's own KPI.

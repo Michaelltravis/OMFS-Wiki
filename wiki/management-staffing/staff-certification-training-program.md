@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:04.staff-certifications-and-training
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Ties workforce development directly to compliance risk reduction and asset reliability, and includes concrete incentive mechanics (exam fee coverage, a defined 6- to 12-month operator-in-training pathway, certification bonuses) that read as a genuine retention tool rather than boilerplate training language.
 reuse-notes: Specific license and certification names (state licensing classes, NASSCO PACP/MACP, CMRT, CRL) should be swapped for the applicable state and discipline requirements of the pursuit's jurisdiction; confirm the incentive mechanics offered by the pursuing business unit before committing to them in a live proposal.

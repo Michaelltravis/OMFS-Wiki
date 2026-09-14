@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.corporate-support-team
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A compact five-person corporate roster in a uniform years/education/certifications plus benefit-bullet format, where each entry answers "what does the client actually get from this person" instead of describing a corporate title.
 reuse-notes: The roster format (Role and name in the left column; years with the firm in parentheses, education, certifications; benefit bullets in the right column) transfers to any pursuit. Names, license numbers, and the "7+ years supporting this client" claim are pursuit-specific. Verify PE license numbers before reuse.

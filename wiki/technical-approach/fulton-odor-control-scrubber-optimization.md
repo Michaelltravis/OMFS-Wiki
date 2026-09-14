@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.properly-operating-scrubbers-to-avoid-offsite-odor
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim operational odor-control diagnostic connecting chemical setpoints, GAC use, model-based tuning, and community outcomes."
 reuse-notes: "Confirm scrubber design, current chemical use, hydrogen-sulfide data, odor history, and savings before reuse."

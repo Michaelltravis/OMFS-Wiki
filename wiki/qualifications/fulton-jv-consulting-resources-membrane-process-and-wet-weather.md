@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:14.jorge-bermudez
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit (North Fulton), 2025, bid as JC Solutions, a JV of Jacobs and Atlanta-based minority-owned CERM; three water reclamation facilities (32 MGD MBR, 15 MGD MBR, 2.6 MGD) plus 28 wastewater and 5 potable water pump stations; MBR-heavy membrane operations, $750K workforce development commitment, incumbent engineering presence; Georgia EPD regulatory regime."
 quality: "An accessible consulting bench for MBR performance, resource recovery, engineering lifecycle support, and wet-weather modeling, retaining the source's imperfect but substantive exhibit content."
 reuse-notes: "The source's extracted Exhibit 3-5 separates several capability bullets from a named row; retain that distinction or verify the original exhibit before assigning those bullets to a person. Confirm all personnel and years before reuse."

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.self-performance-with-specialist-depth
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: the operational mechanics behind the maintenance promise — a four-stage work-order workflow, an explicit line between self-performed and subcontracted work, housekeeping treated as a maintenance discipline, and a tiered M&R approval table that reads as cost transparency
 reuse-notes: reset the M&R approval threshold to the target contract's own figure and confirm which cost categories the contract excludes from the fund; drop the storm-readiness paragraph for inland facilities; adjust the CCTV/sewer-cleaning vendor language to match how the pursuit actually staffs collection-system work

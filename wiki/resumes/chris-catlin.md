@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:11.why-chris
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "PE-credentialed 30+ year operations veteran with a broad multi-state resume spanning startup/commissioning (Soquel Creek AWPF; 2,200-MGD Catskill-Delaware UV facility), design engineering, and large-plant superintendent roles (120-MGD Minneapolis WTP, staff of 140); directly relevant to advanced water purification / potable reuse pursuits (AWT5, RO, UV-AOP)."
 reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Strong fit for pursuits needing a PE Manager of Operations with advanced treatment (RO/NF/ozone/UV/AOP) startup and commissioning credentials. Verify PE license numbers and state registrations remain current before reuse."

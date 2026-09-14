@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:26.3-1-jacobs-understands-and-supports-mmsd-s-maintenance-objec
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent contract operator; WDNR
 quality: The strongest challenger opening in the maintenance section — it concedes that the plants look well kept, then converts the absence of maintenance evidence into the buying decision. Pairs a documented gap list with a named proof of two prior incumbent displacements.
 reuse-notes: Swap Vancouver and Waterbury for the displacement references closest to the pursuit's region and asset mix. Replace NEXGEN with the client's CMMS/EAM of record. Confirm the gap list against what the site visit and the RFP's own reporting requirements actually support before asserting it — the paragraph only works when the observation is first-hand.

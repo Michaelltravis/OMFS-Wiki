@@ -22,6 +22,8 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:32.city-of-vancouver-vancouver-wa
+section-order: 1
 context: "Verbatim municipal wastewater O&M reference: two activated-sludge plants, industrial pretreatment, lift stations, and an active capital program."
 quality: "Complete reference evidence for transition, odor, SCADA, asset management, awards, contact, and results."
 reuse-notes: "VERBATIM — past-performance blocks retain real client, facility, personnel, and contact information. Reconfirm contacts, dates, award years, and status before external use. Commercial fee/rate figures are omitted; operational, capital, and outcome figures remain."

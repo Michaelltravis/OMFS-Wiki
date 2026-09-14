@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:26.individualized-training-program
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement; four facilities requiring qualified coverage and Oklahoma licensing.
 quality: Near-verbatim integrated training structure, covering the training system, role-specific instruction, compliance recordkeeping, and coverage-focused cross-training.
 reuse-notes: Confirm current training-system scale, named learning platforms, applicable permits, licensing jurisdiction, facility names, and the client-access method for training records. Pair with [ocwut-vacancy-management-retention-and-staffing-resiliency.md](ocwut-vacancy-management-retention-and-staffing-resiliency.md).

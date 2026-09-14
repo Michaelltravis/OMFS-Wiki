@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:20
+section-order: 1
 context: Proposed program Asset Manager supporting asset visibility, maintenance planning, and life-cycle stewardship across a multi-facility portfolio. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; ODEQ regulatory regime.
 quality: "The house Asset Manager resume — five multi-state O&M asset-management assignments (OK, MS, WA, CT, TX) in one profile, a data-science credential set unusual for an O&M role, and an explicit NexGen EAM implementation reference. Answers the Schedule 10 Asset Manager scope function by function."
 reuse-notes: "VERBATIM resume — real name and certification retained. approved-for-external-use: pending - sourced from a live pursuit. This block references NexGen EAM implementation; keep that reference verbatim and confirm the platform naming with the digital team before external use. Before reuse: (1) confirm Amy Dembinski's current role, availability, and years of experience (18 total, all 18 with Jacobs at time of writing); (2) verify the Certified Reliability Leader (CRL) credential is current; (3) re-point the 'Schedule 10' minimum-qualification crosswalk to the new RFP's requirement citation; (4) the Bixby, JXN Water, Vancouver, Waterbury, and San Marcos entries name real clients — clear with the account teams before external use."

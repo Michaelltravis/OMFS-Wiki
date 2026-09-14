@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:28.training-and-knowledge-transfer
+section-order: 1
 context: Southcentral municipal water utility trust capital-program handover.
 quality: Near-verbatim commissioning-to-competency sequence for new treatment and maintenance systems.
 reuse-notes: Tailor vendors, equipment, startup obligations, and references to the companion training plan.

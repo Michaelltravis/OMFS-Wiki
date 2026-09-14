@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:07
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM joint venture; multi-facility MBR operations under GA EPD oversight."
 quality: "Near-verbatim deliverables crosswalk that makes timing, plan ownership, and contract traceability explicit."
 reuse-notes: "Replace the due dates and cited proposal-page references with the receiving RFP's requirements. Keep commercial-budget and settlement rows only when the solicitation requires them."

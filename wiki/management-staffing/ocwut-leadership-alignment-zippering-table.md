@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:04.leadership-that-knows-oklahoma-city
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The single most reusable governance device in this proposal — it names a real counterpart on both sides of every interface, ties each tier to the specific contract schedule or service-agreement clause that governs it, and shows dispute escalation with a stated business-day trigger. Evaluators can see exactly who they will call.
 reuse-notes: Rebuild the client column from the actual RFP org chart and service agreement, and re-cite the schedule/section numbers that govern each interface (dispute resolution, SCADA/IT, CIP, maintenance approvals) — the credibility comes from those citations, not the layout. Confirm every named Jacobs person is committed before publishing. Client-side names shown here are from the source proposal and should be QC'd by the proposal team before external use.

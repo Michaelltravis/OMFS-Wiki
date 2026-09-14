@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf
+section-order: 11
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Pairs an energy-neutral digestion claim with the monitoring machinery that proves it — tracked consumption by process area and asset, forecast demand, operator control guidance — and closes with a portable benchmark (20% energy savings at comparable large-scale utilities) and a reporting commitment.
 reuse-notes: The 20% savings benchmark and the client's renewable-energy targets must be re-verified against the proof-point registry for each pursuit. The bullet set (track, identify, forecast, continue) is reusable verbatim with the asset list swapped.

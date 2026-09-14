@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:01
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest incumbent-displacement device in the letter — each bullet names a specific observed deficiency under the current operator (H2S exposure, fecal exceedances, untended SCADA alarms, deferred maintenance, turnover) and immediately pairs it with a concrete corrective commitment, without ever attacking the incumbent by name
 reuse-notes: "Every named deficiency must come from the target pursuit's own due diligence and site visits — the device fails if the observations are generic. Confirm the 90-day condition assessment commitment and any named safety technology with operations before restating. approved-for-external-use: pending — sourced from a live pursuit."

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.continuous-verification-not-assumptions
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Covers the three obligations most reuse RFP requirements ask about — continuous verification, cross-connection/end-user safety, and contingency continuity — in three tight paragraphs, each ending in an accountability commitment rather than a capability claim.
 reuse-notes: The "continuous verification, not assumptions" heading and the grab-sample-with-chain-of-custody commitment transfer directly. Swap the analyzer models and the named permit-driven sampling obligation. Pair with the laboratory and sampling blocks so the reuse data path and the compliance data path are described consistently.

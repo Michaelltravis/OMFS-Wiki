@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.security-plan
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim site-security framework that moves from contractual plan obligations through assessment and implementation.
 reuse-notes: Replace contract articles, plan deadline, local crime data, asset classes, and physical-security findings with the target client’s requirements.

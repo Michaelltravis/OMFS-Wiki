@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:02.odor-control-prevention-early-warning-and-documented-respons
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The displacement answer — a named senior transition manager, an 18-month pre-term runway used deliberately, parallel mobilization of the program-management team, explicit union-continuity commitment, and a map of prior transitions taken from the same incumbent operator, closed by a client testimonial from one of those transitions that names the incumbent's 20-year tenure and calls the handover smooth.
 reuse-notes: Confirm the transition duration and start date against the pursuit's own schedule — the 18-month runway is unusually long and the argument changes with a 90-day one. The West Basin quotation requires permission status "on-file" in testimonials/inventory.md before external use; the contact phone number should be re-confirmed with the reference before the proposal ships.

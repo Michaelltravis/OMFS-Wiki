@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:28.biosolids-transition-land-application-to-landfill-disposal
+section-order: 1
 context: Southcentral municipal water utility trust capital-program handover.
 quality: Operational-integration framework for sequencing a disposal change before a future thermal-drying asset enters service.
 reuse-notes: Use only as the operational-handover interface; pair with, but do not replace, a separate solids-management plan.

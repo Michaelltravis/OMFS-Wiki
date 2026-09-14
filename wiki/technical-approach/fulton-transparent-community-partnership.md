@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:09.approach-to-achieving-the-county-s-goals
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV; highly visible MBR facility with public programming.
 quality: Near-verbatim partnership language that links real-time KPI access to community-facing facility stewardship.
 reuse-notes: Confirm dashboard access, meeting cadence, public programming, and CMMS capabilities before offering them. Attribute the proposer as JC Solutions when retained as a JV pursuit message.

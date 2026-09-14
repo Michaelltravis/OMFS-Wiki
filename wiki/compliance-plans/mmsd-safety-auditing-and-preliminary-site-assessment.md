@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:27.4-1-6-auditing-inspections-and-continuous-improvement
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A challenger move that few bidders make — walking the client's plants during proposal development and publishing the specific safety findings (railing gaps over 4 inches, unguarded dryer shaft, headworks screen guards flipped down) with photographs. It credits the incumbent's housekeeping, then shows the evaluator exactly what a new operator would fix first. Graphic asset ID 262_007CAM_2.
 reuse-notes: The findings list is entirely site-specific and must be replaced with observations from the actual pursuit walkdown — never reuse another facility's findings. The framing (credit what is strong, name what is fixable, commit to verifying with the client during transition and tracking to closure) is what transfers. Only publish findings the capture team is confident are accurate and defensible.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:06.asset-management-plans-amps
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The section's sharpest differentiator — the proposer is the client's own EAM implementation consultant, converted into an operational claim (configuration aligned to field workflow from day one) rather than a bare credential. Paired with a hard work-order completion standard that doubles as a financial-integrity commitment.
 reuse-notes: "approved-for-external-use: pending - sourced from a live pursuit. The implementation-consultant claim is entirely pursuit-specific and only transfers where Jacobs holds the same relationship on the target client's platform; verify before reuse. The CMMS governance content — naming conventions, hierarchies, required fields, GIS integration for linear assets, SCADA/Historian tag linkage, mobile close-out with photos, meter reads, parts consumption and test results, and the rule that a work order is not complete until labor, materials, failure coding, and condition updates are documented — is universal and reusable on any platform. Because generalizing the client name removes the force of the differentiator, read the verbatim page before adapting."

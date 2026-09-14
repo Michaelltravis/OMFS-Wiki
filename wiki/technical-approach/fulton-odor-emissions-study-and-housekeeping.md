@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.addressing-odor-or-noise-complaints
+section-order: 1
 context: JC Solutions (a Jacobs/CERM JV) odor-emissions-study and routine-housekeeping approach for a Southeast county multi-facility wastewater system.
 quality: Near-verbatim dispersion-modeling study and practical housekeeping controls.
 reuse-notes: Validate the study scope, sampling plan, meteorological record, existing odor study, and relevant buildings before reuse. Preserve Jacobs attribution for odor-control expertise.

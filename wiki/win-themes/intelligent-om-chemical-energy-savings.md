@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:33.potential-chemical-and-energy-savings-through-intelligent-o
+section-order: 1
 context: "Southcentral US municipal water utility trust wastewater O&M competitive procurement; four WWTPs plus one major pump station; ODEQ regulatory regime."
 quality: "Near-verbatim data-to-decision narrative with visible case-study outcomes and the complete visible map legend and location labels."
 reuse-notes: "Validate available operating data, candidate systems, and case-study figures before reuse. Intelligent O&M supports operators; it does not replace operator judgment or compliance controls."

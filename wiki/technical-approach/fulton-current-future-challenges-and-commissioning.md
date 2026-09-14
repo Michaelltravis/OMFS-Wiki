@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:09.planned-improvements-to-meet-future-needs
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV; three MBR water-reclamation facilities.
 quality: A concise diagnosis tying permit-compliance philosophy, capital changes, staffing, odor, biosolids, membranes, and commissioning into a single project-understanding narrative.
 reuse-notes: These findings are pursuit-specific. Reuse only the diagnostic structure after site visits, document review, and a confirmed capital-program status; read the cited source pages for complete detail.

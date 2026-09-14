@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:29.7-2-resource-recovery-and-biosolids-optimization
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: 'A five-column sustainability exhibit that puts a labeled lead on each column (Drivers, Key Actions, High Value Opportunities, System Resiliency, Resources) and attaches numbers to the first one — 10-20% energy reduction plus 20-30% chemical optimization. The funding column is the differentiator: it ties sustainable O&M initiatives to external funding streams and cites a real Jacobs client where that was done. Graphic asset ID 285_007CAM_5.'
 reuse-notes: Replace the state energy program in the Funding column with the pursuit state's equivalent, and replace the Wilmington funding example with the closest comparable Jacobs success. The energy and chemical percentage bands should be reconciled with the 15-25 percent power reduction figure stated in the accompanying narrative — the spec sheet must lock one value per claim. The banner line tying the exhibit to the client's 2035 Vision and 2050 goals is pursuit-specific.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:30.1-9-assurance-of-continuity
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The closing promise of the transition section, and its best line — a handover "reassuring to employees and invisible to the public." It then shows the operator proposed its own 18-month schedule where the draft contract set none, which reads as confidence rather than compliance.
 reuse-notes: Substitute the schedule duration, the operational start date, and the contract section citations. The "invisible to the public" formulation is a house line worth keeping verbatim. Re-point Exhibit IV-58.

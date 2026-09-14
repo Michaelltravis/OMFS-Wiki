@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.laboratory-and-qa-qc-integration
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Handles a laboratory certification gap discovered in due diligence without attacking the incumbent, then answers it with two named, credentialed staff — one of whom personally performed the lab due diligence — and follows through with satellite-lab, analyzer, and hazardous-waste findings and fixes.
 reuse-notes: "The certification-gap paragraph is a model for writing about a deficiency the client already knows about: state the finding, state the regulatory latitude that makes current reporting lawful, then commit to full compliance from day one. Staff names, license classes, and years of experience must be refreshed per pursuit; the QA/QC plan due dates are contract-schedule specific."

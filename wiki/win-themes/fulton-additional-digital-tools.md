@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:10.available-additional-digital-tools-for-next-level-optimizati
+section-order: 1
 context: Optional Jacobs digital-tool offerings presented by JC Solutions for a county wastewater utility.
 quality: Specific near-verbatim descriptions show how optional analytics tools turn existing operational data into power, chemical, and collections-system decisions.
 reuse-notes: These are optional offerings, not base-scope commitments. Confirm commercial availability, data sources, cybersecurity approval, and any savings assumptions before reuse; retain Jacobs attribution for the digital tools.

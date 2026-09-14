@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:03.jacobs-understands-ocwut-s-facilities-and-its-goals-for-this
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The compliance row of a three-column goals/challenges/strategies matrix, written at a level of plant-by-plant specificity (which blowers run, which analyzers are offline, which WET tests failed and when) that only site visits produce — the strongest available evidence that a challenger understands the plants better than the incumbent operating them.
 reuse-notes: The three-column structure (Understanding of Goals | Key Current/Future Challenges | Jacobs' Strategies to Deliver Results) and the strategy verbs are fully reusable. Every challenge cell is specific to these facilities and must be rewritten from the target pursuit's own due diligence. Fee-at-risk percentages are this contract's Schedule 5 terms; re-derive from the target RFP. Pair with the facility understanding opener that introduces this exhibit.

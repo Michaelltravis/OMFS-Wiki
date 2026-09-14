@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:04.performance-dashboard-and-reporting-tools
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Names the actual platform stack (Hach WIMS plus the proprietary Compliance Process Control System and electronic Sample Tracking Tool) and lists exactly which five data sets the client can see on demand — including staffing levels against FTE requirements, which is unusually candid and directly answers the transparency win theme.
 reuse-notes: Confirm the current platform names and proprietary tool branding before restating, and match the dashboard content list to the pursuit's own performance requirements. The offer to configure the dashboard to client preference should be kept only where the team has budgeted the configuration effort.

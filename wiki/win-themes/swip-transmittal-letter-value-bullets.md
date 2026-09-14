@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:02
+section-order: 2
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: The persuasive core of a winning transmittal letter — eight tightly written value bullets that each pair a named capability with the client-facing consequence, sequenced team credentials → track record → technical depth → forward-looking readiness → integrated bench → no-cost value-add → transparency → transition risk. Doubles as an executive-summary preview and as the win-theme spine for the rest of the volume.
 reuse-notes: Replace [CLIENT] and the generalized program descriptor with the target client and its actual program name. The named staff (Mack McKenzie, Howard Brewen, Chris Catlin), their certifications, the six-person core team, and the reference projects (Pure Water Los Angeles, Pure Water Southern California, Valley Water, Ontario, Clovis, Soquel Creek) are the real proposed offer for this pursuit — confirm each person is actually being proposed and each certification is current before reusing. The "over 300 long-term O&M projects" figure and the January 2026 start date are pursuit-dated; refresh the portfolio count from the current corporate figure and swap the start date for the new contract's day one. Keep the value-added bullet's "as part of our base fee" framing — it is what makes the innovation offerings score as differentiators rather than options.

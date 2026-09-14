@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:06.exceptional-reach-back-to-regional-and-technical-o-m-resourc
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Clear differentiator narrative (dedicated vs. shuffled staffing) paired with a four-category reach-back exhibit that concretely enumerates what regional support actually does — useful anywhere Jacobs needs to answer "how do you back up your on-site team."
 reuse-notes: Replace [CLIENT] with the pursuit's generalized client descriptor; update office count and named regional presence (here "15 offices across California, including a strong presence in Los Angeles") to match the pursuing region's actual footprint. The "over 100 O&M and technical specialists" figure is firm-wide — verify current before reuse.

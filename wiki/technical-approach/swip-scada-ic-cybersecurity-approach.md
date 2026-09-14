@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.site-visit-findings
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A candid site-assessment-based gap analysis (single-point-of-failure server, no redundancy) paired with two priced no-cost value-adds and a firm-wide SCADA/OT capability statement plus a named client testimonial — technical credibility through specificity rather than generic claims.
 reuse-notes: The specific findings (minimal-model server with no failover, Allen Bradley PLCs, Ignition SCADA, Wonderware-to-Ignition conversion) are pursuit-specific site-visit observations — replace with the target facility's actual platform and vendor findings. The firm-wide capability statistics (2,600+ IT professionals, 350 SCADA practitioners) and the embedded-value figures for the cybersecurity survey and dedicated I&C technician are reusable as-is. The closing testimonial (Frank Dick, PE, City of Vancouver) is a real, attributable reference-client quote — keep name and city verbatim; confirm permission before reuse.

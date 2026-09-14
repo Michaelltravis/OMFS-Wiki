@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:27.understanding-ocwut-s-existing-program
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: The strongest incumbent-displacement device in the solids section — each facility gets its own operational profile built from site-visit observations (H2S in solids handling, plastics in lime-stabilized biosolids, an RFP-required peroxide dose that is not being run), and each observation is answered with a specific day-one correction. Names the evaluator's own problems back to them without naming the incumbent.
 reuse-notes: "This block only works if the team actually walked the sites — replace every observation with what was seen on this pursuit's tour and keep the observation-to-correction pairing. The 300 mg/L hydrogen peroxide dose and its stated 86% hydrogen sulfide / 93% mercaptan reduction are the RFP's own numbers here; verify the pursuit RFP's dose and stated performance before restating. Facility names are the client's plants; generalize them if the block is reused outside this client family. Approved-for-external-use: pending — sourced from a live pursuit."

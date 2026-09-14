@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.key-findings-of-our-initial-facilities-assessments
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, including wastewater and potable-water pump stations."
 quality: "Near-verbatim pump-station assessment and PdM implementation content."
 reuse-notes: "Tailor the assessment findings, station designs, telemetry platform, and critical assets. Retain JC Solutions as the Jacobs/CERM JV."

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:04.backup-resource-availability-to-augment-onsite-staff-and-fil
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Names a specific organizational mechanism — a dedicated Resource Planning Group — for absence coverage and emergency surge staffing, giving evaluators confidence that backup coverage is a real internal process rather than a vague promise. Directly answers the standard RFP requirement for backup resource availability to augment on-site staff and fill temporary positions.
 reuse-notes: Confirm the internal group name used by the pursuing business unit if different from "Resource Planning Group"; adjust the described mobilization scope (local, regional, national) to match the firm's actual bench depth in the pursuit's region.

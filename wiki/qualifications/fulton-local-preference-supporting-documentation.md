@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:18
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim Section 7 response that identifies the requested local-preference substantiation without asserting eligibility.
 reuse-notes: Retain the JC Solutions (Jacobs/CERM JV) attribution, but confirm the target RFP's local-preference criteria and supporting-document requirements. This source identifies Exhibit 1 as documentation; it does not establish eligibility.

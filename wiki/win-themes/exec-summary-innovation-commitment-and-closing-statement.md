@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:02.innovations-recommended-alternatives
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: An innovation promise with a governor on it — three ideas ready now, a recurring annual workshop to keep them coming, and an explicit commitment to validate every opportunity with site-specific data and confirm costs and benefits with the client before implementing anything. The validation clause is what makes the innovation claim credible to an evaluator who has been oversold before. Closes with the proposal's summary assertion.
 reuse-notes: The count of innovations must match the number actually offered in the innovations section, and the cross-reference must point to the right section number. The annual innovation workshop is a recurring commitment with a real cost — confirm it is priced. A parallel version of the workshop narrative drawn from a New England pursuit lives at exec-summary-annual-innovation-workshop-partnership-narrative.md; choose one per proposal rather than using both.

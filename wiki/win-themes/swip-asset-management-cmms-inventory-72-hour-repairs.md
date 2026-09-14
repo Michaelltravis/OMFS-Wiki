@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:03.asset-management-cmms-inventory-and-72-hour-repair-recommend
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Contains the single most quotable service-level commitment in this executive summary — repair recommendations delivered within 72 hours for large or emergency repairs, justified by warranty and asset-life protection — wrapped in an ISO 55001-aligned program that runs in the client's own CMMS rather than a proprietary system the client cannot see.
 reuse-notes: The 72-hour turnaround is a real contractual commitment; confirm the operations and engineering leads can meet it for the target scope before repeating it. Name the client's actual CMMS or asset performance management platform rather than assuming Mentor APM is in place.

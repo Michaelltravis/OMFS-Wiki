@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:02
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The "more than an operator" claim in four tight bullets — local team plus national bench, resilient interconnected operations, one-team culture across incumbent and transitioning staff, and safety plus cyber/physical security. Short enough to sit on an executive summary spread and specific enough to be more than boilerplate.
 reuse-notes: Swap the sustainability/watershed language for whatever integrated goal the pursuit client publishes. The fourth bullet pairs safety with cyber/physical security; keep them together when the RFP asks about OT security, split them when it does not.

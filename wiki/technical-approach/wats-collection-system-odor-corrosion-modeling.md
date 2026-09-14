@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:17.wastewater-aerobic-anaerobic-transformations-in-sewers-wats
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Differentiated, science-based technical methodology with clear value framing versus traditional field-sampling/pilot-testing approaches; strong proof-point language for technical narrative sections.
 reuse-notes: Model name (WATS) and the Aalborg University partnership are generic Jacobs capabilities, reusable as-is. Tailor the "select portion of the collection system" scoping language and the bulleted outcomes to the specific pursuit's odor/corrosion pain points. Pair with the sensor-to-dispersion-model early warning block for pursuits where odor complaints from nearby residents or businesses are a stated concern.

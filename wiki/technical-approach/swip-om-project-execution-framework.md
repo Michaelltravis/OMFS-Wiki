@@ -23,6 +23,8 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/om-management-systems-framework.md
+section-id: santamonica-swip-om-2025:08.approach-to-delivery-of-the-o-m-services
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A clean, evaluator-scannable 9-element framework (icons + one-paragraph descriptions) that covers the full breadth of an O&M program in a single exhibit, paired with a concrete KPI-dashboard capability and a named commitment to co-develop a tailored communication plan and a real-time deliverables-tracking dashboard — moves the proposal from "we'll comply" to "here is the specific tool set."
 reuse-notes: The 9 program elements and their one-line descriptions are fully generic and reusable for any water/wastewater O&M pursuit. The KPI dashboard example and deliverables-tracking system description should be paired with the pursuit's actual required KPIs/reporting cadence once known.

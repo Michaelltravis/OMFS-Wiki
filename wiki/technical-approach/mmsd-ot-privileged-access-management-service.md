@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-4-3-jacobs-managed-ot-privileged-access-management-pam-ser
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: A concrete, offerable OT cybersecurity enhancement written as an optional value-add, with four named capabilities each paired with a plain-language "what this means for you" example drawn from real plant work (PLC programming, SCADA passwords, wet-weather pump logic, remote conveyance troubleshooting). Useful in any pursuit where the client raises SCADA/OT security.
 reuse-notes: Confirm the client actually wants PAM offered as an option before including; the block is written as "should [CLIENT] desire." Swap the four example scenarios for assets the client actually owns (PLC, SCADA server, network switch, remote conveyance site all generalize easily). Exhibit asset ID 303_007CAM_3 is a Jacobs-standard graphic and is not client-specific. Pairs with the corporate-resources block for the OT/automation/cybersecurity pillar.

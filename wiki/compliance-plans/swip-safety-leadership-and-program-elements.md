@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.leadership-engagement-and-accountability
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Concrete leadership-accountability structure with named executives, paired with a seven-element safety program table and a real five-year OSHA citation disclosure, showing transparency and a digital, tablet-based safety-management approach.
 reuse-notes: Named leaders (Paul Rheault, Bobby Hammond, Mack Mckenzie, Howard Brewen, Chris Catlin, Trey Kane) are kept verbatim per wiki policy (staff names and titles are reuse content, not client identifiers) - replace with the pursuing team's actual assigned leaders and region. Regenerate the OSHA citation summary from the firm's current five-year record; the citation dates and the Seattle PSM facility example are point-in-time facts.

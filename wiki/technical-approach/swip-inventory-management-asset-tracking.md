@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.proactive-inventory-management-to-support-operational-contin
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: 'Frames inventory control as a strategic, ISO 55001-aligned asset-management discipline rather than a back-office chore, with concrete transition-phase deliverables: defined inventory roles, stockroom setup, bin-location data entered into the CMMS, barcoded parts tracking, and SOPs for ordering, stocking, and usage.'
 reuse-notes: Fully generic and reusable for any O&M pursuit with a physical spare-parts inventory; nothing client-specific to replace. Schedule the transition-phase steps into the mobilization timeline for the target pursuit.

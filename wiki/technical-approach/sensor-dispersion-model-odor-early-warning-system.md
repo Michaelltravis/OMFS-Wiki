@@ -20,6 +20,8 @@ geography: Northeast / MA / MassDEP
 rfp-section-type: [tech-approach]
 win-theme-map: [odor-control, innovation-value-add]
 sanitization-loss: high
+section-id: hull-wwtf-om-2026:17.wastewater-aerobic-anaerobic-transformations-in-sewers-wats
+section-order: 2
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: Compact, visual, easily-understood differentiator chaining real-time sensing to predictive dispersion modeling; strong for win-theme and technical-approach sections addressing community odor complaints near sensitive receptors.

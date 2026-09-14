@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:14.3-operations-management-staff-training-programs
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'Names the actual programs rather than describing training in the abstract — Jacobs University, the "Lead with Purpose" supervisor program, and Frontline Fundamentals with named 2026 workshops — and ties cross-training and mentoring directly to the two risks clients worry about: workforce shortages and aging infrastructure.'
 reuse-notes: Confirm the annual session count and the current-year Frontline Fundamentals course lineup before restating them. Adjust the advanced-technology examples (SCADA, membrane bioreactor) to the pursuit's process train.

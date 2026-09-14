@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:24.oklahoma-corporation-commission-occ-petroleum-storage-tanks
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Covers a regulatory obligation most proposals miss entirely — fuel storage tanks regulated by a different state agency than the environmental regulator — and then ties the tanks back into the facility SPCC Plans so the portfolio has one release-prevention approach instead of a permit silo.
 reuse-notes: The Oklahoma Corporation Commission Petroleum Storage Tank Program is state-specific; identify the equivalent agency and program in the target state and confirm which facilities hold underground versus aboveground tanks during due diligence. The "unified approach to petroleum release prevention across the portfolio" framing is universal and pairs with the SPCC commitment in the risk-management block.

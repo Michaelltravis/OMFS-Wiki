@@ -23,6 +23,8 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 superseded-by: wiki/compliance-plans/swip-erp-event-response-matrix.md
+section-id: ocwut-16-26:05.elements-of-our-emergency-operating-plan
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: A twelve-row event/approach matrix that answers the RFP's minimum required emergencies (fires, floods, tornadoes, power outages) on its face and then extends past them — the compliance-plus-coverage device evaluators can score line by line
 reuse-notes: Reset the row list to the emergencies the target RFP names as minimum coverage, then add the events the target system actually faces (hurricane and storm surge on the coast, seismic in the West, wildfire and smoke, extreme cold). Keep the two-column event/approach shape and the sentence that states the RFP minimum is met and exceeded. Renumber the exhibit to the target document. A parallel SWIP-sourced matrix exists at swip-erp-event-response-matrix.md — pick one, do not run both.

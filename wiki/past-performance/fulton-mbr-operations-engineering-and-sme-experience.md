@@ -22,6 +22,8 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:15.jacobs-wastewater-engineering-and-mbr-experience
+section-order: 2
 context: MBR operating experience, engineering support, and named technical-resource profile presented in a Southeast county wastewater O&M pursuit.
 quality: Detailed, source-verbatim account of operating plants designed by others, technical communities, regional design support, and a named MBR subject-matter expert.
 reuse-notes: "VERBATIM past-performance content. Retain facility names, locations, personal credentials, publication titles, and capacity ranges exactly; confirm the availability, role, and current biography of the named expert before reuse."

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.local-and-regional-resources-for-diversified-emergency-respo
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Strong differentiator (certified FEMA Disaster Response and Recovery contractor) paired with two real, verifiable community emergency-response stories and an attributable client quote, demonstrating credibility beyond generic claims.
 reuse-notes: The Waterbury, CT (Regional Director Kevin Dahl) and Prescott Valley, AZ (Town Manager Gilbert Davidson) anecdotes are real, attributable reference events — keep them verbatim including named individuals and the quote, since these are proof points, not pursuit-client identifiers. Confirm current FEMA contractor status and quote permission before reuse.

@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for
+section-order: 3
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The most concrete transparency commitment in the proposal — auditable shared-cost controls tied to invoicing, automatic KPI deviation flags, a corrective-action log the client can see, and immediate notification of anything that could affect permit compliance. This is what "no surprises" actually means, written as obligations rather than adjectives.
 reuse-notes: Match the data sources named (CMMS, SCADA, LIMS, financial systems) to the platforms the target client actually runs, and align the KPI set to the RFP's own standards-of-performance exhibit. The shared-cost categories (energy, chemicals, fuel, biosolids handling) must match the commercial structure of the target contract.

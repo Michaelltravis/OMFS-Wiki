@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.asset-management-and-maintenance
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for a multi-facility MBR portfolio and pump stations."
 quality: "Near-verbatim asset-management opening that connects JV delivery to a structured onsite and technical-support model."
 reuse-notes: "Tailor the client objectives and transition timing. Retain JC Solutions as the Jacobs/CERM JV; attribute technical capability to Jacobs and local workforce presence to CERM when that distinction is relevant."

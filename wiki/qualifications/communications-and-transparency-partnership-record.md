@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.communications-transparency
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The clearest statement of the transparency win theme in this library — "without chasing information" names the exact frustration a client has with an underperforming incumbent — backed by a nine-year relationship the client's own engineering leadership characterizes as a genuine, transparent partnership.
 reuse-notes: The Vancouver characterization is reported speech, not a quoted testimonial; if a direct quote is wanted, source it and log it in testimonials/inventory.md with permission status before using quotation marks. The transparency claim only lands where the reporting cadence is actually specified elsewhere in the proposal — pair it with the reporting deliverables schedule or it reads as an assertion.

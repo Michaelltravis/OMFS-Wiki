@@ -22,6 +22,8 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:32.san-marcos-wwtp-o-m
+section-order: 1
 context: "Verbatim municipal wastewater O&M reference for full-treatment-train operations, reclaimed water, odor control, biosolids, capital support, and optimization."
 quality: "Two decades of O&M, sensitive-receiver compliance, biological odor control, measurable chemical and energy reductions, predictive maintenance, and capital-program coordination."
 reuse-notes: "VERBATIM — past-performance blocks retain real client, facility, personnel, and contact information. Reconfirm contacts, dates, awards, status, and figures before external use. Commercial fee/rate figures are omitted; operational and outcome figures remain."

@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Puts named, credentialed people behind an otherwise abstract framework and closes with a culture-building step (Insights Discovery) that was already underway at proposal time — a small, verifiable proof that the partnership had started before award.
 reuse-notes: Swap the named leaders and their years of experience for the pursuit's own assigned personnel and confirm both against their resumes. The claim that the leadership assessment has already been run must be true for the pursuit — it is a "we started already" proof and cannot be borrowed.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.chemical-cleaning-to-maintain-membrane-performance
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim, facility-specific membrane-chemistry and filterability analysis with commercial allowance language removed."
 reuse-notes: "These chemical-demand estimates and wasting configurations are pursuit-specific. Confirm process data, membrane condition, chemical dosage, and operating strategy before reuse."

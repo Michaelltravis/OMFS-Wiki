@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.school-program
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for three water-reclamation facilities and pump stations."
 quality: "Near-verbatim school outreach, STEM, and clean-water career pathway passage."
 reuse-notes: "Confirm school partners, facility-tour availability, named programs, and workforce partners before reuse."

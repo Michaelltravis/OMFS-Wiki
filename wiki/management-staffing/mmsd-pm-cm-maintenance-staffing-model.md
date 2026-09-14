@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:12
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers a maintenance-staffing requirement as a staffing argument rather than a technical one — meets the RFP minimum headcount, then adds an unrequired leadership role to beat the client's own PM/CM ratio target, and commits to a named reporting cadence and dashboard metrics.
 reuse-notes: Replace the 79-position headcount, the 85/15 PM/CM target, the named Director of Asset Management, and the CMMS platform with the pursuit's own. The "wrenches, not waiting" framing and the KPI list (PM compliance, CM backlog/aging, MTBF/MTTR, availability, labor/parts cost, closeout lag) are reusable as written.

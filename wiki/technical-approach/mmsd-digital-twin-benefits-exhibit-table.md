@@ -23,6 +23,8 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-digital-twin-benefits-table.md
+section-id: mmsd-om-2028:25.our-digital-one-water-connects-data-across-the-full-wastewat
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: Eleven digital twin benefits written as operator decisions rather than features — including the wet-weather entry that traces tunnel dewatering and flow splitting directly to final clarifier blanket upsets, the stated driver of the client's recent compliance issues.
 reuse-notes: Keep the benefit categories; rewrite each example to the target system's assets. The wet-weather and energy entries assume deep-tunnel storage, two receiving plants with different settling behavior, and thermal drying — drop or replace them where those assets do not exist.

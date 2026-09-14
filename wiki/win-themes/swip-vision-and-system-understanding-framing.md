@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:03.santa-monica-s-vision-for-swip-and-dpr
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A concise executive-summary opener that names every major system asset before making a single claim, then converts that understanding into a compliance commitment tied to specific State Board Orders and a five-step process-flow graphic ending in a "future" DPR arrow — the strongest available pattern for proving command of a whole integrated reuse system rather than just the headline plant.
 reuse-notes: Facility acronyms, well IDs, State Board Order numbers, and treatment-train steps must be rebuilt from the target system's real configuration; the "name every asset, then name the challenges you already see" opening move is the transferable part.

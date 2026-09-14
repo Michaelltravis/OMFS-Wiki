@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:24
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The state-regulator proof story that opens a regulatory-knowledge section — a 30-year agency relationship anchored in one named reference contract held since 1995, a scope mirror against the pursuit, a state association Plant of the Year award, a disaster-response beat, a regulator endorsement of the team's pretreatment work, and a nearly $5M savings figure.
 reuse-notes: Duncan is a reference client and stays named — this block is the state-relationship evidence, so the reference must survive. Swap Duncan for the equivalent in-state reference when reusing outside Oklahoma, and confirm the Municipal Plant of the Year award year and the nearly $5M cost-and-energy-savings figure with the account team before restating them. The scope-mirror sentence must be rewritten against the target system's actual scope.

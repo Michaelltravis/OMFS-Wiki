@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:03.how-we-will-deliver-results-compliance-reliability-transpare
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Compresses the entire compliance promise into three named commitments — operate to permits and KPIs, QA/QC and audits, reporting and dashboards — each written as an action with a stated frequency, so nothing in it is an adjective the client cannot verify monthly.
 reuse-notes: The critical control point / log reduction value tracking and injection-well trending are potable-reuse-specific; substitute the target permit's own compliance parameters. Name the client's actual SCADA and reporting platforms rather than assuming Ignition is in place.

@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The argument that a large, interconnected utility portfolio needs program management, not plant management — with the "decisions in one area influence the entire service territory" logic that justifies a governance model. This is how Jacobs differentiates from an operator who runs sites in isolation.
 reuse-notes: Scale the complexity claim honestly — "among the most complex and interconnected in the country" belongs only to genuinely large portfolios. For single-facility pursuits, keep the client-for-life opening and the collaboration/transparency/accountability triad and drop the program-wide framing.

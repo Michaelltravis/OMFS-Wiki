@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.transparent-communications-and-reporting
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A clean, tiered communications cadence (day-to-day/weekly/monthly/quarterly/annual) with defined attendees and deliverables at each tier, opened by a strong "communication as an operational control" framing — directly reusable for any O&M transition/communications plan
 reuse-notes: Attendee titles, the named project manager, and specific deliverables (5-year CIP recommendations, org chart updates) should be tailored to contract scope; the tiering structure itself is universal. Swap in the actual required monthly report contents from the target RFP's scope of work.

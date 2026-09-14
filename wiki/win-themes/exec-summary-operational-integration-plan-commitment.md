@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:02.required-plans-built-for-ocwut-ready-on-day-one
+section-order: 4
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Answers the question every utility in a heavy capital program actually worries about — what happens to operations when the contractor hands the new asset over — with a repeatable process, a named per-project deliverable set (staffing impacts, maintenance adjustments, training sequences, risk mitigation), and direct operating experience on the specific technology being installed. The closing benefit callout for the whole required-plans section lands here.
 reuse-notes: The three named capital projects and the specific technology reference are pursuit facts. The claim of direct operating experience with a named product must be verifiable at a named site before reuse. The benefit callout closes the entire required-plans sequence, so carry it with whichever plan block ends that sequence in the new proposal.

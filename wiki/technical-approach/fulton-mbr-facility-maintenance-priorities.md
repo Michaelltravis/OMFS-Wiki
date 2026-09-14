@@ -23,6 +23,8 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 superseded-by: wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md
+section-id: fulton-county-2025:12.key-focus-areas-for-asset-management-and-maintenance
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for three membrane-treatment facilities."
 quality: "Near-verbatim facility-specific MBR maintenance priorities, generalized for reusable narrative use."
 reuse-notes: "Tailor the facility descriptors, membrane vendor and equipment findings to the pursuit. [FACILITY A] is the larger Kubota MBR facility; [FACILITY B] and [FACILITY C] are Xenon membrane facilities. Retain JC Solutions as the Jacobs/CERM JV."

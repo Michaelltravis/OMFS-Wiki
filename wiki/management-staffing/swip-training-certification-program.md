@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.training-certification-program-for-o-m-personnel
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: 'A complete workforce-development package: individualized needs assessment, a categorized training-topics catalog, 20 years of quantified annual training hours, a named eLearning platform with 36 instructional volumes, concrete certification-incentive mechanics (a six- to 12-month OIT path, AWTO cost coverage), named CMRT and CRL programs, twelve California AWTO-certified employees, and a Culture Coach program with an 80 percent participation goal.'
 reuse-notes: 'The training-topics catalog, eLearning description, certification-incentive mechanics, CMRT/CRL references, and Culture Coach program are generic and reusable. Refresh before reuse: the twelve California AWTO-certified employees figure, the more-than-300 O&M sites figure, the Newsweek Top 100 Most Loved Workplaces award year, the 2005-2024 training-hours series, and the 2023 client-survey reference. This block runs long for a single block (about 1,400 words) - split it into a training-delivery block and a certification/career-development block if a section needs only one half.'

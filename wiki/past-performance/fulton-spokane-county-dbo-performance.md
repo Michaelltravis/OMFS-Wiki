@@ -22,6 +22,8 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:15.jacobs-collection-system-pump-station-experience
+section-order: 5
 context: "Verbatim county DBO delivery, compliance, staffing, and operating-performance reference."
 quality: "Preserves lead-DBO responsibilities, startup/compliance record, capital work, regional staffing support, and County director testimonial."
 reuse-notes: "Past-performance content is verbatim and exempt from client-name generalization. Retain client, dates, compliance outcomes, and quote; strip only commercial fee or rate figures if present in a future source. Confirm contact status and quote permission before external reuse."

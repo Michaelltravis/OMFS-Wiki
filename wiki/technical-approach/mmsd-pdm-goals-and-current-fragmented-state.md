@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:32.1-jacobs-understands-and-agrees-with-mmsd-s-goals-for-pdm
+section-order: 1
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR. The client's existing PdM work was spread across several vendor platforms under the incumbent."
 quality: "The best example in the bank of naming a client's present-state problem precisely — vendor black boxes, location-level rather than asset-level records, unreviewed reports — without insulting the client or the incumbent, then framing the offer as the fix. Strong project-understanding opener for any PdM or reliability section."
 reuse-notes: "Re-verify the asset count (more than 200 assets under vibration and oil analysis here) and the named OEM systems against the target utility's actual inventory. The 'black box vendor dependency' framing is the reusable core; keep it only where the client has actually voiced that concern."

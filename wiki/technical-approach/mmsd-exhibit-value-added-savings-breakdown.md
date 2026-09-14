@@ -24,6 +24,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-11
+section-id: mmsd-om-2028:21.energy-and-chemical-optimization
+section-order: 4
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The itemized backing for the headline savings number — every category carries a dollar value and a named list of what produces it. The category structure (savings, investments, best practices, onsite/offsite support, regional partnership, studies, then future tiers) is a reusable taxonomy for any value-add exhibit.
 reuse-notes: Rebuild all figures and item lists per pursuit. Facility-specific items (interplant pumping shims, belt presses, fishing pier) are examples of the level of specificity expected, not transferable content. The exhibit's text layer interleaves columns; verify any line against the page render before quoting it as exhibit copy.

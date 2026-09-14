@@ -23,6 +23,8 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 superseded-by: wiki/technical-approach/work-order-lifecycle-process.md
+section-id: mmsd-om-2028:26.3-2-2-ams-drives-maintenance-delivery
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent contract operator; WDNR
 quality: Bridges the framework to the field — names the accountable leader, the system of record and its integrations, then walks the five-stage work order life cycle with the Planner/Scheduler's specific duties and the chronic-issue loop back to RCA/PMO.
 reuse-notes: Substitute the named Director of Maintenance and Asset Management and the client's EAM. The work order life cycle is drawn from Jacobs' Maintenance Resource Guide and transfers unchanged; only the dashboard recipient and the asset classes in the coverage sentence need editing. A duplicate exists at work-order-lifecycle-process.md from an earlier source — check which is preferred for the pursuit.

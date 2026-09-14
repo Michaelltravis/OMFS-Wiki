@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:11.qualified-and-licensed-personnel
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Complete source roster of the proposed management, strategic-supervisor, technical-support, laboratory, SCADA, transition, and compliance roles with stated licenses and certifications.
 reuse-notes: Personnel assignments and every credential require current confirmation before use. Keep individual names and licenses only in an approved pursuit-specific roster.

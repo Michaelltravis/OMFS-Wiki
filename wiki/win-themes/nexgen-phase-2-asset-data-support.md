@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:33.nexgen-phase-2-implementation-support
+section-order: 1
 context: "Southcentral US municipal water utility trust wastewater O&M competitive procurement; four WWTPs plus one major pump station; ODEQ regulatory regime."
 quality: "Near-verbatim implementation support that connects missing asset data to lifecycle planning, capital prioritization, and stewardship."
 reuse-notes: "Tailor the EAM platform, implementation phase, missing data fields, and implementation status. approved-for-external-use: pending - sourced from a live pursuit."

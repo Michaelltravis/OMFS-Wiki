@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.septage-receiving-program
+section-order: 2
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The single device that makes a challenger's process-control promises credible — every commitment carries a time window (transition to month 6, month 6 to year 2, year 2 to contract term), so the client sees stabilization before optimization and knows when each item lands.
 reuse-notes: Phase assignment of individual line items is read from the exhibit's three columns; verify against the page render before reuse. Facility names, CIP dates (onsite hypochlorite generation in 2028 and 2029), contract Schedule 3 kWh/MG targets, and the new-plant startup line are pursuit-specific. Graphic asset ID 116_009385.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:04.key-staff-and-management-team
+section-order: 2
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The actual named org-chart roster behind Exhibit 4-1 — every on-site position with its FTE allocation and every off-site regional/technical support discipline with its named specialist, plus the total on-site FTE count. This is the evidence layer that makes the two-tier staffing narrative credible.
 reuse-notes: Every name, FTE allocation, and discipline must be re-verified against the pursuit's actual proposed team before reuse; the client-side reporting line at the top of the chart takes the client's own organizational title.

@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:06.drain-and-clean-program
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Takes three scope items that most proposers treat as boilerplate compliance and converts each into a management position — draindowns as inspection and repair opportunities, coatings applied during drain and clean to extend structural life, and every housekeeping standard loaded into the CMMS as a tracked work order with an owner, due date, and escalation trigger. Also states a self-perform versus subcontract decision with the reasoning behind it.
 reuse-notes: Replace the schedule numbers (Schedule 15 drain and clean, Schedule 3 housekeeping), the KPI identifiers and their at-risk fee mechanism, the 30-day uncorrected-item trigger, and the facility names with the target contract's equivalents. The grounds-maintenance subcontracting rationale — dedicated subcontractors outperform in-house mowing at large-acreage sites while a small footprint is kept in-house — is a reusable judgment, but confirm it against the target pursuit's labor plan and any local-hiring commitments.

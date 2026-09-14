@@ -19,6 +19,8 @@ geography: Northeast / MA / MassDEP
 rfp-section-type: [staffing, resume]
 win-theme-map: [partner-transparency]
 sanitization-loss: none
+section-id: hull-wwtf-om-2026:04.key-staff-and-management-team
+section-order: 3
 context: Proposed key-personnel team for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026).
 sanitized: false
 quality: Verbatim roster of the proposed team with contact info pulled directly from the signed cover letter; links each name to its full resume.

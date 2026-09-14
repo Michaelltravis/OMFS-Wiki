@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:26.3-9-1-integrated-approach-to-cip-planning
+section-order: 1
 context: "Midwest US regional sewerage district with a CIP exceeding $2B, two large water reclamation facilities plus a regional conveyance system, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "Names dedicated Capital Project Coordinators by name and credential and commits to concrete deliverables — phase-by-phase O&M input, 24/7 availability, AMS capture of new assets, and quarterly labor reporting by project number. This is the 'our engineers make our operators better' claim made auditable."
 reuse-notes: "Replace the named coordinators with the proposed team, confirm the quarterly capital-support labor reporting requirement in the target agreement, and adjust the SCADA/testing example to a real conflict the target client faces."

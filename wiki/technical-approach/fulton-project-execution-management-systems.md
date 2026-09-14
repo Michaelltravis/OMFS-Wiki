@@ -23,6 +23,8 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 supersedes: wiki/technical-approach/om-management-systems-framework.md
+section-id: fulton-county-2025:08
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM joint venture; multi-facility MBR operations under GA EPD oversight."
 quality: "Near-verbatim management-system framework that connects project administration to operating, compliance, safety, and community functions."
 reuse-notes: "Tailor the market-position claim and the client/facility descriptors. Retain the JC Solutions/Jacobs/CERM JV framing when the combined-delivery model is proposed."

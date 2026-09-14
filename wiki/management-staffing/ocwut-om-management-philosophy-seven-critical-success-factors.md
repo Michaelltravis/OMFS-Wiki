@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:04.o-m-management-philosophy-critical-success-factors
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A compact, graphic-ready statement of O&M philosophy in which each of the seven pillars carries a client benefit rather than a value statement — and one pillar carries a hard number (99.98% compliance rate). This is the "how we think" page that anchors the rest of a Management Plan and doubles as a wheel/hub exhibit.
 reuse-notes: Tailor the community-care and CIP pillars to the pursuit's actual pain points (odor location, capital program size). Re-verify the 99.98% compliance rate against the current corporate figure and register it before restating. The seven pillars can be reordered so the pursuit's dominant win theme sits first.

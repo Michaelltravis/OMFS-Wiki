@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:13.care-and-sensitivity-toward-transitioning-employees
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: The human-side answer to the incumbent workforce's real question during a contract change — family-inclusive informational workshops, a market-benchmarked compensation package, and a hard before/after employee-satisfaction comparison at three transitioned facilities that shows staff ended up measurably happier after joining Jacobs.
 reuse-notes: No pursuit client name appears in this passage, so no [CLIENT] substitution was required. The three named comparison facilities (Pembroke Pines FL, Vancouver WA, Ontario OR) and their prior-organization versus Jacobs satisfaction scores are real, quantified proof points and are kept verbatim — reconfirm the current survey round with the account team before reuse. The regional salary analysis referenced here is pursuit-specific and must be re-run for each new labor market.

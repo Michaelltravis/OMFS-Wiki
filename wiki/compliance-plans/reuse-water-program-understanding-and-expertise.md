@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.reuse-water
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Shows how to open a reuse section by naming the client's actual reuse customers and the distinct operational demand at each, then attaching a named global reuse SME and a day-to-day process SME to the on-site team — understanding plus bench depth in under a page.
 reuse-notes: Replace the three named reuse customers and their host plants with the target system's reuse agreements; keep the "one standard, different gaps" framing. Named SMEs (Larry Schimmoller, EJ Hindy) must be confirmed available for the new pursuit. Pairs with the disinfection facility-by-facility block and the reuse challenge table.

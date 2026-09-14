@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:16.5-a-culture-that-celebrates-teamwork-and-achievement
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'Names the three corporate recognition programs (BeyondZero®, Beyond If℠, Collectively℠), anchors social impact with a hard number — over $10.9M contributed since 2020 — and then makes the differentiating promise: community service run with operational discipline as a standing practice, not a one-off event. That last sentence is the reusable idea.'
 reuse-notes: Update the Collectively℠ contribution total and the tenure figure to the pursuit's own region and current date. The "standing practice, rather than a one-off event" formulation is the durable differentiator and should survive rewriting; the list of volunteer activity types should be swapped for activities the local office actually runs.

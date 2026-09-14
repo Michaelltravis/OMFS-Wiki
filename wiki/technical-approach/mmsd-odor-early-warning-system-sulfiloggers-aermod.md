@@ -23,6 +23,8 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md
+section-id: mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: A concrete, named technology stack that converts odor control from reactive dosing to a forecast — liquid-phase sulfide monitoring feeding a dosing control loop, plus AERMOD plume prediction that triggers resident notification before complaints arrive.
 reuse-notes: Confirm the current dosing practice being displaced, the availability of a meteorological station location, and the notification channels and community contacts for the target service area. Sulfilogger and AERMOD are vendor/regulatory tool names — verify current product naming before external use.

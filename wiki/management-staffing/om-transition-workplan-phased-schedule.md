@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:18
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Comprehensive, realistic three-phase transition schedule with named task-lead roles and durations for every activity category (contractual, staffing, compliance, asset/SCADA, safety, training) — a strong reusable skeleton for any O&M transition/mobilization work plan.
 reuse-notes: Original chart used absolute 2026 calendar dates tied to this specific award; this block converts every activity to relative day-offsets from two anchor points (Award Date and Contract Start Date) so the structure, sequencing, and durations can be re-dated to any pursuit's actual award/start dates. Task-lead titles are generic role names, already reusable as-is.

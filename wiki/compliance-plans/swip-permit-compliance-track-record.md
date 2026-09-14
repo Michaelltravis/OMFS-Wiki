@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.regulatory-compliance
+section-order: 2
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A rare, transparent self-disclosure table of actual permit violations and corrective actions across multiple real O&M contracts — strong evidence of a genuine compliance culture and useful as a compliance-record response template (RFPs frequently require this exact disclosure).
 reuse-notes: This table lists actual reference-project client names (not the pursuing client) and is kept verbatim per wiki rule — these are legitimate reference/past-performance data, not the pursuit client's identity. Regenerate/update this table each pursuit with the firm's then-current five-year violation record; do not reuse stale entries as if current.

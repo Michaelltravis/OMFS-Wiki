@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:08.customer-service
+section-order: 1
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM joint venture; multi-facility MBR operations under GA EPD oversight."
 quality: "Near-verbatim digital transparency narrative with security, role-based access, real-time visibility, and reporting-plan commitments."
 reuse-notes: "Tailor the sources, security functions, badge capabilities, and reporting cadence to the proposed system. The source's statement that the dashboard was included in the base fee was removed as commercial pricing language."

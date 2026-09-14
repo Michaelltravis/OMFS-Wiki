@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.our-digital-one-water-connects-data-across-the-full-wastewat
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Ten digital-twin benefits, each stated as an operating decision the twin improves rather than a feature. The wet-weather row is the best of them — it names the actual operator decision (when to start emptying the tunnel, how to split flow between two plants with different sludge settling behavior) and ties it to the driver of the client's recent compliance issues, which turns a generic capability into a targeted answer.
 reuse-notes: Keep the benefit categories; rewrite each cell around the pursuit's own decisions, facilities, and compliance history. Do not carry the "driver of recent compliance issues" claim to another client without confirming their record.

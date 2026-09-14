@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:14.training-and-development-of-city-staff-for-water-wastewater
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A concrete, tiered training-program structure with a specific, credible course list — it replaces a generic "we value training" claim with an actual curriculum, and it opens by mirroring a workforce commitment the client had already made (its own internship program).
 reuse-notes: The course list is specific to a wastewater and activated-sludge and disinfection context — substitute courses relevant to the target facility's actual treatment processes (drinking water, membrane processes, UV/AOP, RO) if different. No price was stated for this item in the source pursuit; confirm whether the target pursuit expects it framed as an unpriced recommendation or as a priced, scoped addition.

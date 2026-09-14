@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:02
+section-order: 5
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers the shared-cost transparency worry that drives most multi-facility O&M procurements — a program-management operating model that creates a single source of truth, ties cost to verifiable data and shared KPIs, and automatically flags deviations with a corrective action log the client can see. The "trigger immediate notifications … followed by a written corrective action summary" commitment is the hard edge.
 reuse-notes: Name the specific shared cost pools the pursuit actually has (here energy, chemicals, fuel, and biosolids) — a generic list reads as boilerplate. Confirm the reporting cadence (monthly/quarterly reviews) against the RFP's required cadence before reuse.

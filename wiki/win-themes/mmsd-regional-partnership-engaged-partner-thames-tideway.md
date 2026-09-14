@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:36.4-thames-tideway-program-london-uk
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The only example in the section that puts a dollar value on social outcomes — 1,000 previously unemployed people hired against a predicted $4.17M of additional value to society, 25% local employment worth $2M, 37 people with convictions worth $2M, 80,000 young people reached through STEM worth $6.95M. Closes with a named client executive's quote, which is the strongest third-party validation in the whole regional-partnership section.
 reuse-notes: Confirm the testimonial's permission status before external use and check the speaker's current title. The social-value figures come from a monetization methodology — state the method (Simetrica-Jacobs) alongside them so an evaluator can see they are calculated, not asserted.

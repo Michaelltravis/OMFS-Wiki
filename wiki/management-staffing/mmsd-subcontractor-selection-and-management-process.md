@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:13.1-identifying-selecting-and-managing-subcontractors
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers the self-performance question head on — subcontractors supplement rather than replace the O&M workforce — then backs it with a documented five-step gate, a Master Service Agreement strategy for emergency backup, and a clear list of what actually gets subcontracted.
 reuse-notes: Replace the named procurement lead and the client's procurement department references. The "supplement, not replace" sentence is the key line to keep when an RFP sets a self-performance percentage.

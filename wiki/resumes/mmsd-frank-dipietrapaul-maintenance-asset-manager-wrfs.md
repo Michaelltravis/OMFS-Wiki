@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju
+section-order: 3
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A trades-to-management career card — millwright apprenticeship through big-city utility division manager — that gives a maintenance manager role craft credibility with a union workforce plus a $50M+ capital and 50-person supervisory scale.
 reuse-notes: The craft apprenticeship line and the public-agency division manager role are the differentiators; keep both. Refresh the Pacific Northwest project list when bidding outside that region.

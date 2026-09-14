@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:09.1-meaningful-partnership-built-on-transparency-accountabilit
+section-order: 1
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: JV-specific accountability language that correctly separates Jacobs technical reach-back from CERM-led local workforce development.
 reuse-notes: Verify the regulatory jurisdiction, dashboard, certification incentives, and training offerings. Retain the Jacobs/CERM attribution only where the same JV structure applies.

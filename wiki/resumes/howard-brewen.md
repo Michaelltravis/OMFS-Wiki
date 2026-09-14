@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:11.why-howard
+section-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "Deep bench-strength resume combining private-sector and municipal water/wastewater leadership; strong CIP budget and energy-efficiency figures ($9.75M PG&E public/private partnership, $140M WRRF upgrade); demonstrated O&M transition leadership (40-MGD ECLWRF operator changeover) and an intern-program track record (1,840-hour OIT program, 90%+ placement)."
 reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Reuse for pursuits needing a Director of Operations / senior O&M leader with California regulatory credibility, MBR/BFP biosolids experience, large-scale WTP/WWTP oversight, and transition-management proof points. Confirm current title, role assignment, and years-of-experience figures with the proposal team before reuse; the source resume states 22 years in the summary and 24 years total in the professional-background box."

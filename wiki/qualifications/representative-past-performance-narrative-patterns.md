@@ -23,6 +23,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:03.contract-termination
+section-order: 2
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The five structural patterns behind the source proposal's reference write-ups — each pairs a clear operating model with a concrete accomplishment, which is what makes a past-performance blurb persuasive rather than a name-dropped client list.
 reuse-notes: "RECIPE, not prose — a QC checklist for a drafted reference write-up, never text to paste. Draft from the paired prose blocks in ../past-performance/ (project-waterbury-ct.md, project-southbridge-ma.md, project-westerly-ri.md, project-south-huron-mi.md, project-traverse-city-mi.md), then check the draft against the three-move structure and whichever pattern fits the reference's situation. Keep facility specifics and every outcome figure; confirm contacts and confidentiality markings with the account team before external use."

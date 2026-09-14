@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:04.technical-support-team
+section-order: 1
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Concrete, quantified model — approximately 2,000 hours of dedicated technical support annually included in the base fee — backed by a named bench of 19 specialists with stated years of experience and two capability bullets each. Quantified and paste-ready, and pairs a clean subcontractor-governance statement.
 reuse-notes: Scale the committed-hours figure to the contract's actual scope and include only the specialist disciplines relevant to the pursuit's processes; re-verify each named specialist's availability and years of experience.

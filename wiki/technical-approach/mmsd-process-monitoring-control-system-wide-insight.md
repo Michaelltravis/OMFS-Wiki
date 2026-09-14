@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.03-strategic-and-continuous-improvement
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The best available articulation of "operate a multi-facility system as one system" — it argues from interconnection (a decision in one area changes performance elsewhere) to shared dashboards and aligned control strategies across plants, then to predictive insight and optimization. Includes a first-person callout on revisiting original design intent.
 reuse-notes: Rescale the system description (collection network miles, pump stations, interplant transfers, storage tunnel, number of plants) to the pursuit; keep the three-bullet structure — integrated monitoring, predictive insight, optimization — and swap the digital tool names for those actually offered on this pursuit.

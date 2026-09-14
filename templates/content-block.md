@@ -8,6 +8,8 @@ source: <source-slug from CLAUDE.md registry>
 source-section: "<Section X, Title>"
 source-pages: [<PDF page numbers>]
 verbatim-ref: ["verbatim/<slug>/pages/p0076.md#¶3"]
+section-id: <set by work/assign_block_sections.py from the first verbatim-ref — do not hand-edit>
+section-order: <set by work/assign_block_sections.py — reading-order ordinal within section-id>
 pursuit-type: [<wwtp-om | collections | stormwater | reuse-dpr | water-treatment | solids | multi-facility>]
 client-type: <municipal | county | authority | trust | private>
 client-size: "<e.g. 3 MGD / 42 mi / 10k pop>"

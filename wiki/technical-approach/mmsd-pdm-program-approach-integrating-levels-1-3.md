@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:32.5-roles-and-responsibilities-for-success
+section-order: 2
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR. The client already collected substantial condition data that sat unused across vendor reports."
 quality: "The strongest 'we will use the data you already own' argument in the bank — it reframes an additive-scope sell as unlocking a sunk investment, names the highest-consequence assets it starts with, and commits the resulting insights to three standing client committees rather than to a report."
 reuse-notes: "Re-name the highest-consequence asset list for the target facility and confirm the client's committee names and cybersecurity exhibit reference. The assumption that existing PLCs and control systems can route PdM data to SCADA, the historian, and the CMMS must be re-verified per pursuit — it is a scope assumption, not a given."

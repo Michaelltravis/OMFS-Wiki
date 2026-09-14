@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:30.1-5-mobilization-overview
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The governance answer in a single page — a three-tiered committee structure that starts meeting within 10 business days of contract execution, a communications plan with a named cadence and a shared digital workspace, and a dashboard on schedule, staffing and risk. Specific enough that a client can hold the operator to it.
 reuse-notes: Re-point the contract exhibit references (Exhibit E, Exhibit P) and the cross-references to the CMMS and wet-weather sections. Substitute the committee names to match the client's own governance model, and the modeling partner named in the system-readiness paragraph.

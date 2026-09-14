@@ -23,6 +23,8 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md
+section-id: mmsd-om-2028:25.2-3-1-digital-twin-enabling-system-wide-optimization
+section-order: 1
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: Handles the two objections a digital twin always draws — does it take control away from operators, and does the client get to see what the operator sees — with an explicit "does not automate plant operations" and a transparency commitment.
 reuse-notes: Tailor the connected-system list (collection system, storage, plants, biosolids) and the outcome list (permit compliance, overflow reduction, energy, resource recovery, carbon) to the target system. Pair with the digital twin benefits exhibit and the digital tools table rather than restating their content here.

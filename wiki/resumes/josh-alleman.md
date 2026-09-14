@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:13
+section-order: 1
 context: Proposed QA/QC Manager providing first-level audit and assurance across financial, maintenance, operations, and environmental compliance. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator; ODEQ regulatory regime.
 quality: "Best available QA/QC Manager resume — maps one person against all four audit pillars (financial, maintenance, operations, environmental compliance) and carries a hard turnaround outcome: the City of Duncan's first year without a discharge compliance issue."
 reuse-notes: "VERBATIM resume — real name and licenses retained; no client reference contacts are listed in the source. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Josh Alleman's current role, availability, and years of experience (22 total, 5 with Jacobs at time of writing); (2) verify the AR water and wastewater licenses and Cat I vibration analyst certification are current; (3) the contract-renewal terms (10-year plus 5-year with 3 years remaining) and the Duncan first-clean-year outcome should be re-confirmed with the account teams before external use; (4) the Chesapeake Energy / Devon Energy and Southwest United Industries descriptions name private clients — clear before external use."

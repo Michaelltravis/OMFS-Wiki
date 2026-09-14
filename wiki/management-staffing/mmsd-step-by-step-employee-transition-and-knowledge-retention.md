@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo
+section-order: 2
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers the incumbent-staff question with commitment rather than platitude — named leaders who already know the system, leaders relocating years ahead of the start date, and an explicit statement that the client's own workforce holds knowledge (here, a proprietary biosolids product line) the operator intends to preserve rather than replace.
 reuse-notes: Substitute the named leaders with prior client experience and the relocation commitments — those are personal commitments and must be confirmed with each individual. Replace the product-specific knowledge paragraph with the equivalent specialty process at the new pursuit (drying, thermal hydrolysis, reuse, etc.).

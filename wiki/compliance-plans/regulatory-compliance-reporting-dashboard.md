@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.execution-and-transparency
+section-order: 2
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A centralized, auditable compliance management system described in three tight moves — one integrated record, real-time client visibility with automated approaching-limit alerts, and a named list of the regulatory submissions the operator owns. Pairs with any technology-forward compliance narrative and directly answers "how will we know you are compliant" without waiting for a monthly report.
 reuse-notes: The dashboard screen shown in the source exhibit (Exhibit 5-7) is client-branded software UI and is client-specific — do not reuse the image; the described capabilities are reusable regardless of platform. Confirm which submission types actually apply to the target facility (omit CSO notifications for a fully separated system) and name the actual reporting platform being proposed.

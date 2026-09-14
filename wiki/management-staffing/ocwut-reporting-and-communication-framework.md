@@ -22,6 +22,8 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:04.reporting-and-communication
+section-order: 1
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "A short, high-leverage passage: it states the communication principle (\"no surprises\"), maps executive-to-executive and manager-to-manager pairings by name, flags which commitments exceed the RFP, and then offers to refine the whole framework with the client during chartering — collaborative without being vague."
 reuse-notes: Re-pair the named leaders to the pursuit's actual counterparts. The "items marked ★ are above and beyond what the RFP requires" device only works if the accompanying table actually marks them — carry the two together. Keep the chartering offer only where a chartering or partnering process is genuinely planned.
