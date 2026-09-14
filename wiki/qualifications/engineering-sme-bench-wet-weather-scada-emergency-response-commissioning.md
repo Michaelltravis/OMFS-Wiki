@@ -23,7 +23,9 @@ sanitization-loss: high
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:08.engineering-smes
-section-order: 2
+section-order: 30
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › ENGINEERING SMES
+doc-order: 137
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The page where the bench proves it already knows the client's systems — the SCADA and emergency response SMEs both cite prior work directly for the pursuit client, which is the challenger's substitute for incumbency. Also carries the largest dollar credentials in the section ($1B+ commissioned, $1.77B Northeast Water Purification Plant).
 reuse-notes: Sanitization loss is high here — the SCADA and emergency response entries originally named prior work performed for this same client, and "[CLIENT]" hides that proof. Read the verbatim page before reusing, and for a new pursuit replace those bullets with prior work for that client or drop the claim. Verify the $1B combined commissioning value, the $1.77B plant value, and the 35+ agencies figure.

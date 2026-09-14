@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05.continuous-improvement-and-compliance-assurance
-section-order: 1
+section-order: 21
+section-path: Section 1 | Technical Approach › Operations Plan › REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS › Continuous Improvement and Compliance Assurance
+doc-order: 56
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A dated, auditable commitment — a baseline compliance audit inside the first 90 days, findings tracked through a corrective action program and shared transparently — tied directly to the contract-required Management Oversight QA/QC Plan, plus the standing toolkit that supports it.
 reuse-notes: The 90-day baseline compliance audit and the transparent corrective action tracking transfer to any transition-year pursuit; the QA/QC plan due dates are contract-schedule specific. The laboratory compliance tools sidebar is partially recovered from the source text layer — unrecovered spans are marked [...] and must be rebuilt from a current version of the sidebar before reuse rather than guessed.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:30.understanding-of-ocwut-solids-management-requirements
-section-order: 2
+section-order: 4
+section-path: Section 5 | Required Plans Submitted with the Proposal › Solids Management Plan › Understanding of OCWUT Solids Management Requirements
+doc-order: 204
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Two biosolids sidebars that answer the two questions an evaluator has about a challenger — can you take over a broken program fast, and can you make one excellent over time. Jackson supplies the speed proof (procurement issued, contractors onboarded, hauling and land application assumed, new dewatering designed for approximately 25,000 wet tons annually, no service disruption); Farmington supplies the excellence proof (a WEFTEC Utility of the Future Today award with three concrete results). The "for [CLIENT], this means" sentence is the move that converts a case study into a commitment.
 reuse-notes: "Reference client names, locations, dates, and outcomes are kept verbatim and must be QC'd by the proposal team before external use. The wet-tonnage figure is a design capacity, not a throughput achieved. Swap the \"for [CLIENT], this means\" closing sentence to match the pursuit's dominant worry. Approved-for-external-use: pending — sourced from a live pursuit."

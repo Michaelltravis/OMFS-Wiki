@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05.staffing-resilience-and-continuity-of-operations
-section-order: 1
+section-order: 45
+section-path: Section 1 | Technical Approach › Operations Plan › EMERGENCY OPERATING PLAN › Staffing Resilience and Continuity of Operations
+doc-order: 80
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Answers "what happens when the event is bigger than the site team" with two dated, quantified proofs — the 2018 Duncan WWTF flood (7.7 inches in 9 hours, 10,400 GPM peak for 22 hours, temporary pump station, roughly $10K in damages avoided) and the 2022 Jackson, Mississippi water emergency with a client-side quote — plus the local-team-backed-by-regional-network argument that a purely local incumbent cannot make
 reuse-notes: "The Duncan flood case study and the Jackson, Mississippi callout are reference-client past performance and stay verbatim, including client names, dates, and figures. approved-for-external-use: pending - sourced from a live pursuit. The Jackson callout and the Ted Henifin quote are reconstructed from a scrambled PDF text layer — read `verbatim/ocwut-16-26/pages/p0052.md#¶15` through `#¶28` and confirm the wording against the source PDF and the testimonial inventory before using either externally. Replace the local-experience sentence with the regional and metro-area emergency work relevant to the target client."

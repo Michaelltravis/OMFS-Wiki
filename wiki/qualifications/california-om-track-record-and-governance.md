@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:05.successful-o-m-project-delivery-in-california-since-1984
-section-order: 1
+section-order: 2
+section-path: 'Section 2: Qualifications › 2.1 FIRM HISTORY › SUCCESSFUL O&M PROJECT DELIVERY IN CALIFORNIA SINCE 1984'
+doc-order: 18
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Pairs a quantified regional track-record claim with a named executive governance chart, showing the client exactly who owns escalation at every level — a strong compliance-and-confidence builder for evaluators who ask "who do we call."
 reuse-notes: Replace [PROJECT]/[CLIENT] placeholders; confirm the current OMFS executive roster (names/titles change) before reuse; re-propose the Executive Sponsor/Director of Operations/Chief Plant Operator/Manager of Operations names to match the actual proposed team for the new pursuit while keeping the corporate-hierarchy pattern (CEO -> President of Global Operations -> President of OMFS & Design-Build -> VP of Operations (West) -> [state] O&M Director -> project team) intact.

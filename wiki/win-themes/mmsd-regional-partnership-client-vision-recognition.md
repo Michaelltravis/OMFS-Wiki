@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:35
 section-order: 3
+section-path: V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering
+doc-order: 237
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'Written entirely in the second person — every sentence begins with what the client is doing, with specific programs, dollar figures, and named pilots — before Jacobs asks for anything. As a challenger bid this does double duty: it proves the team studied the district''s published strategy, and it positions the proposed ideas as extensions of the client''s own plan rather than corrections to it.'
 reuse-notes: Rebuild all four bullets from the pursuit client's current strategic plan, capital program, and research initiatives, and name the programs exactly as the client names them. Keep the "we're inspired by your vision" pivot sentence and the above-and-beyond / aiming-higher framing that introduces the strategy exhibit.

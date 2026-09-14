@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:27.odor-management-in-sludge-operations
-section-order: 1
+section-order: 5
+section-path: Section 5 | Required Plans Submitted with the Proposal › Sludge Management Plan › WEATHER/ DEWATERING HAULING SITE PAD NOAA OUTPUT SCHEDULE AVAILABILITY UTILIZATION › Odor Management in Sludge Operations
+doc-order: 179
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Solves the cross-referencing problem every multi-plan RFP creates — it hands the detailed odor strategy to the Odor Control Plan while keeping the part that belongs here (how sludge decisions drive odor outcomes), and it covers the full Schedule 14 transport obligation including subcontract hauler accountability in one tight paragraph
 reuse-notes: "Point the cross-reference at whatever the pursuit's companion odor plan is actually called, and replace the schedule reference with the pursuit's transport requirement. The subcontract-hauler oversight sentence matters wherever hauling is subcontracted — keep it. Approved-for-external-use: pending — sourced from a live pursuit."

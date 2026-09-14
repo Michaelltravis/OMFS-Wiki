@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:05.execution-and-transparency
-section-order: 1
+section-order: 7
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › OUR PHASED APPROACH TO SUSTAINABLE OPERATIONS › Execution and Transparency
+doc-order: 40
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A six-pillar compliance framework anchored by a headline statistic (99.98% compliance) and structured to argue that compliance is a designed system rather than an incidental outcome, backed by concrete corporate proof (30,000 training hours in the last 3 years; 20+ dedicated O&M compliance and reporting SMEs). Highly reusable centerpiece for any regulatory compliance section.
 reuse-notes: Verify the 99.98% compliance rate, the 30,000 training hours, and the 20+ SME count against the current corporate figures before each reuse — these are time-bounded track-record numbers, and they must be registered in proof-points/registry.md with an as-of date. Adjust the regulatory change-management list (nutrient limits, PFAS, cybersecurity) to what is actually emerging in the target jurisdiction, and swap MassDEP/EPA Region 1 for the applicable regulator.

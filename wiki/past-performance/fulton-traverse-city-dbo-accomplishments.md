@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:15.jacobs-collection-system-pump-station-experience
-section-order: 3
+section-order: 8
+section-path: Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE
+doc-order: 120
 context: "Verbatim municipal MBR DBO performance and accomplishment reference."
 quality: "Preserves capital improvements, grant outcome, optimization result, operating performance, testimonial, and award list."
 reuse-notes: "Past-performance content is verbatim and exempt from client-name generalization. Retain the client, dates, outcomes, quote, and awards; strip only commercial fee or rate figures if present in a future source. Confirm the quote permission, reference status, awards, and current performance claims before external reuse."

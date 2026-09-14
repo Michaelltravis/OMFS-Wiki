@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:35
 section-order: 2
+section-path: V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering
+doc-order: 236
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers "are you actually from here?" with roughly thirty named local commitments — internships, scholarships, cleanups, school programs, career fairs, food banks — plus a mayoral proclamation declaring a Jacobs day in the city. The volume is the argument; no single item would carry it.
 reuse-notes: 'This list is entirely local to one metropolitan area and must be rebuilt from the pursuit region''s own record — regional office staff and the local business unit hold that record. Keep the structure (a two-column list mixing client-run programs, university partnerships, K-12 outreach, and charitable work) and keep the "home for our team" opening sentence. Because the local identity is the proof, read the verbatim page before reuse: verbatim/mmsd-om-2028/pages/p0139.md#¶25.'

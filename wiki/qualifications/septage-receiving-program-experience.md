@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:08.septage-receiving
-section-order: 1
+section-order: 13
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › SEPTAGE RECEIVING
+doc-order: 120
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Turns a low-glamour scope item into a revenue argument — the Lehigh County Authority hauled-waste overhaul is fully quantified (38% first-year increase, 63% cumulative growth, nearly $2.8M in offset annual revenue) and paired with a purpose-built septage facility operated since 2012, so the block proves both compliance discipline and upside.
 reuse-notes: The LCA revenue figures are outcome numbers and should be restated with their basis — market analysis, revised hauler permitting, updated metals limits, and shifting lab testing accountability to waste generators — because the mechanism is what makes them credible in a new pursuit. Confirm the 30-year LCA tenure and the 60-to-80-truckloads-daily figure against current contract records.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:27.land-application-program-management
-section-order: 1
+section-order: 6
+section-path: Section 5 | Required Plans Submitted with the Proposal › Sludge Management Plan › WEATHER/ DEWATERING HAULING SITE PAD NOAA OUTPUT SCHEDULE AVAILABILITY UTILIZATION › Land Application Program Management
+doc-order: 180
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: The back half of a required Sludge Management Plan handled in three disciplined blocks — site rotation logic with a Sensitive Sites list and prior notification, chain-of-custody sampling with pre-submission data review, and a single-channel external communications rule with staff and subcontractor training. The "when conditions are not favorable, we'll adjust or delay operations rather than create risk" line is the judgment statement evaluators look for.
 reuse-notes: "Replace the site count, acreage, and schedule citation, and confirm who the pursuit client's designated public information contact is before restating the communications rule. The Sensitive Sites list is offered as a jointly developed product — keep it as a collaborative commitment, not a unilateral one. Approved-for-external-use: pending — sourced from a live pursuit."

@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:08
 section-order: 1
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team
+doc-order: 108
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A section-opening italic lead that names what the client deserves before it names what the firm is, then lands the corporate scale figures immediately behind it — the "boots on the ground supported by SMEs" framing is the through-line for the whole qualifications section.
 reuse-notes: Refresh revenue, backlog, U.S. and worldwide headcount from the current corporate fact sheet — all are FY-dated figures. The opening sentence must be re-pointed at the new client's operating profile (number of plants, what makes their operations complex) or it reads as boilerplate.

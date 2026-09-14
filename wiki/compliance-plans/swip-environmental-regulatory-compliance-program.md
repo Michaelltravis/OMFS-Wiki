@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:08.regulatory-compliance
-section-order: 1
+section-order: 21
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › REGULATORY COMPLIANCE'
+doc-order: 49
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Quantified compliance proof point (99.98% environmental compliance record) with a concrete deliverables list, a compliance dashboard concept, and a defined environmental risk-scoring methodology — strong, evidence-backed compliance framing.
 reuse-notes: Named regulatory frameworks (NPDES, Title 22 GRRP, AQMD) and report types (DMRs, MORs, water recycling facility compliance records) should be swapped for the pursuit's applicable permits/regulators; the 99.98% compliance statistic is a firm-wide figure and reusable as-is once its currency is confirmed against the proof-point registry.

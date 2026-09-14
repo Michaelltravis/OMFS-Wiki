@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:05.training-and-operational-readiness
-section-order: 1
+section-order: 29
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › TRANSITION PLAN › Training and Operational Readiness
+doc-order: 62
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: closes the transition argument where evaluators worry most — training, site-specific procedure validation, baseline asset condition, structured knowledge transfer, and an unqualified assumption of regulatory responsibility from Day 1
 reuse-notes: rebuild the site-specific validation list from the target facility's actual processes and risks; re-date the Commencement milestones; confirm the 90-day condition-assessment commitment is compatible with the contract's own deliverable schedule before repeating it

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:08.in-house-procedures-to-provide-accuracy-integrity-and-qualit
-section-order: 1
+section-order: 7
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL'
+doc-order: 35
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Combines a named governance model (Local Team surrounded by a Compliance Team, Regional Manager, Regional Process Specialist, Regional Maintenance Specialist, and Audit Team) with a concrete 70+-criteria audit scope and a detailed 4-step audit lifecycle (Preparation, Onsite Assessment, Evaluation, Action Plan) that closes the loop with 30/60/90-day corrective-action tracking — demonstrates a real internal accountability mechanism, not just a QA/QC policy statement.
 reuse-notes: The governance model, 4-step audit lifecycle, and corrective-action tracking cadence are fully generic and reusable for any O&M pursuit. The specific regulatory citations (WDRs, Title 22 GRRP, South Coast Air Quality Management District (SCAQMD/AQMD), CalEPA-required ERP/IIPP) are Southern California-specific — swap for the target pursuit's applicable regulatory framework.

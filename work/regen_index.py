@@ -256,18 +256,27 @@ def main():
             if not by_sec:
                 continue
             any_facet = True
+            # a heading is shown when it or any descendant carries blocks, so parents keep their context
+            parent_of = {s["id"]: s.get("parent") for s in doc["sections"]}
+            shown = set()
+            for sid in by_sec:
+                cur = sid
+                while cur:
+                    shown.add(cur)
+                    cur = parent_of.get(cur)
             lines.append(f"### {slug}")
             lines.append("")
             for sec in doc["sections"]:
-                items = by_sec.get(sec["id"])
-                if not items:
+                if sec["id"] not in shown:
                     continue
+                items = by_sec.get(sec["id"], [])
                 indent = "  " * max(0, sec["level"] - 1)
                 a, b = sec["start"]["page"], sec["end"]["page"]
                 pages = f"p. {a}" if a == b else f"pp. {a}–{b}"
-                lines.append(f"{indent}- **{sec['title']}** (`{sec['id']}`, {pages})")
-                for _sort, order, title, rel, ref, bt, st in sorted(items, key=lambda x: (x[0], x[3])):
-                    lines.append(f"{indent}  - {order}. [{title}]({rel}) — {ref} · {bt} · {st}")
+                title = __import__("re").sub(r"\s+", " ", sec["title"]).strip()
+                lines.append(f"{indent}- **{title}** (`{sec['id']}`, {pages})")
+                for _sort, order, btitle, rel, ref, bt, st in sorted(items, key=lambda x: (x[0], x[3])):
+                    lines.append(f"{indent}  - {order}. [{btitle}]({rel}) — {ref} · {bt} · {st}")
             lines.append("")
     if not any_facet:
         lines.append("_No block carries `section-id` yet — run `python work/build_sections.py --all` "

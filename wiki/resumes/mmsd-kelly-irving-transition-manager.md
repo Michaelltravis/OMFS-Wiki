@@ -25,6 +25,8 @@ last-verified: 2026-09-05
 superseded-by: wiki/resumes/kelly-irving.md
 section-id: mmsd-om-2028:18
 section-order: 3
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes
+doc-order: 57
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The house transition-manager card — a corporate Sr. Director of Transitions with a 40-year O&M transition record and two recent named transitions (JXN Water, West Basin), written so the transition load visibly comes off the project manager.
 reuse-notes: Operator certifications and the transition project list must be refreshed per pursuit. The benefit paragraph's logic — she carries transition so the PM carries Day 1 operations — is the reusable argument; retarget the PM's name.

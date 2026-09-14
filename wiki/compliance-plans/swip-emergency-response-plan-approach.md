@@ -24,7 +24,9 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 superseded-by: wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md
 section-id: santamonica-swip-om-2025:08.prevention-of-and-response-to-emergencies
-section-order: 1
+section-order: 34
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › EMERGENCY RESPONSE PLAN › Prevention of and Response to Emergencies'
+doc-order: 62
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A complete ERP narrative — prevention posture, pre-event preparedness sequence, a 30-minute response commitment, a 24/7 incident reporting hotline, and integration with the client's own planning documents — directly reusable as an emergency-response section skeleton for any O&M proposal.
 reuse-notes: The "three stories underground" access detail is pursuit-specific; the 30-minute notification response commitment and hotline description are firm-wide capabilities and reusable as-is. The 2,400+ regional associates, 12 O&M projects, and 11 offices figures are regional-scale proof points for California — update the counts for the target pursuit's region before reuse. Pair with the ERP event-response matrix table block.

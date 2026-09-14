@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe
-section-order: 7
+section-order: 18
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE
+doc-order: 72
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The corporate safety-authority card — the numbers behind it (about 300 sites, a 4,000+-person O&M organization) are the scale proof that a single site safety manager cannot offer, and it is the card that carries the BeyondZero brand into the resume set.
 reuse-notes: The site count, workforce size and contract value are as-of the 2028 bid and must be refreshed from the corporate safety organization before reuse. Pair with the site-level safety cards so the evaluator sees corporate depth and resident presence as one system.

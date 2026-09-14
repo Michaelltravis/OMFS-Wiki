@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:14.additional-management-and-leadership
-section-order: 1
+section-order: 14
+section-path: Section 3 | Project Team Qualifications, Qualifications of Key Personnel › ADDITIONAL MANAGEMENT AND LEADERSHIP
+doc-order: 108
 context: "Southeast US county wastewater O&M pursuit (North Fulton), 2025, bid as JC Solutions, a JV of Jacobs and Atlanta-based minority-owned CERM; three water reclamation facilities (32 MGD MBR, 15 MGD MBR, 2.6 MGD) plus 28 wastewater and 5 potable water pump stations; MBR-heavy membrane operations, $750K workforce development commitment, incumbent engineering presence; Georgia EPD regulatory regime."
 quality: "Captures the transition, safety, communications, O&M-resource, and consulting leadership that extends the JV's onsite management structure."
 reuse-notes: "Reconfirm personnel, years, licenses, and project-specific experience. Tailor the transparency and community language to the target client while retaining the JC Solutions JV voice."

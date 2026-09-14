@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:14
 section-order: 1
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › Key Team Member Resumes › Rodriguez, Alex
+doc-order: 143
 context: Proposed Assistant Project Manager and direct backup to the Project Manager across four wastewater facilities, a major pump station, and the solids program. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; ODEQ regulatory regime.
 quality: "Mid-career Assistant PM resume that covers the full 24/7 facility-management span (operations, maintenance, lab, scheduling, on-call, SCADA, CMMS, biosolids, CIP, regulatory communication) and holds current Oklahoma wastewater, water, and laboratory credentials."
 reuse-notes: "VERBATIM resume — real name, license numbers, and two client reference contacts retained. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Alex Rodriguez's current role, availability, and years of experience (13 total, 5 with Jacobs at time of writing); (2) verify the OK, CO, and WA license numbers are current; (3) re-verify both client references (Abigail Elder, City of Hood River; Jim Nilson, Seattle Public Utilities) before listing; (4) the $10-12M Cedar CIP coordination figure is a scope-of-work figure, not a fee — keep it, but re-confirm the value with the account team."

@@ -24,7 +24,9 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/compliance-plans/swip-emergency-response-plan-approach.md
 section-id: mmsd-om-2028:27.field-and-collection-system-security
-section-order: 1
+section-order: 13
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness › Enhanced Cybersecurity Controls › Field and Collection System Security
+doc-order: 195
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'The house emergency-response passage: a 60-day ERP commitment and an annual joint-drill cadence, carried by the Superstorm Sandy testimonial from the North Hudson Sewerage Authority — an expert team on site in 24 hours, 24 pumps removed, rebuilt, and replaced, primary treatment restored 48 hours later and full secondary within 5 days. Proof that the plan has been executed under the worst conditions the sector has seen.'
 reuse-notes: Confirm testimonial permission status in testimonials/inventory.md before external use, and keep the speaker's name, title, and organization intact — this is a third-party reference, not the pursuit client. Align the ERP delivery window and drill cadence with the contract's requirements; substitute the credible emergency scenarios that match the pursuit's climate and hazards.

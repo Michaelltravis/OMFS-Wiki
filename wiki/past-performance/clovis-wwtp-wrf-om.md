@@ -24,7 +24,9 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/past-performance/fulton-clovis-reuse-facility-performance.md
 section-id: santamonica-swip-om-2025:07.clovis-wwtp-wrf-o-m
-section-order: 1
+section-order: 2
+section-path: 'Section 2: Qualifications › 2.3 REFERENCES › OPERATIONAL EXCELLENCE BACKED BY DIVERSE PROJECT EXPERIENCE › Clovis WWTP/WRF O&M'
+doc-order: 25
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Long-tenured (2009-ongoing) MBR reference with a named client contact, five awards, a documented value-engineering savings figure (more than $100,000), documented process improvements, and a named Jacobs plant manager quote — strong, fully verifiable past-performance reference for MBR/Title 22 reuse pursuits.
 reuse-notes: Verbatim past-performance content — real client, contact, and award names retained per wiki policy. Confirm reference contact (Nicholas Torstensen) is still current and willing to be listed before reuse; verify contract status ("2009 – Ongoing") is still accurate and that the award list does not need newer recognitions added.

@@ -366,7 +366,7 @@ def build_sections(slug: str, rules: dict | None = None) -> dict:
     stream = []  # entries: dict(pos, order, kind, title, rank, outline_index, outline_title, line)
     consumed = set()
     for i, o in enumerate(outline):
-        title = (o.get("title") or "").strip()
+        title = re.sub(r"\s+", " ", (o.get("title") or "")).strip()   # PDF bookmarks can carry line breaks
         page = int(o["page"])
         if page not in pages:
             # outline points to a page without a file (should not happen) — clamp

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:11.why-mayo
-section-order: 1
+section-order: 7
+section-path: 'Section 3: Key Personnel › 3.2 RESUMES › MEMBERSHIP/AFFILIATIONS › WHY MAYO?'
+doc-order: 83
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "Regional operational-technology lead with 12 years of SCADA/I&C/networking experience across multiple SCADA platforms (Ignition, FactoryTalk, AVEVA/Wonderware, iFIX, VTScada) and PLC brands; award recognition as Wastewater Manager of the Year for the Northwest District, Arkansas Waterworks & Water Environmental Association."
 reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Strong fit for pursuits needing SCADA/I&C/OT modernization, network and firewall support, or CMMS implementation expertise. He is a regional (South Region) reach-back resource rather than a site-resident position - say so explicitly when the RFP asks where key personnel are based."

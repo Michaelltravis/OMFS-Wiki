@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:39.7-make-the-following-changes-to-paragraph-9-subsection-c
-section-order: 1
+section-order: 2
+section-path: VI. Exceptions and Requests › VI.B. Markups to Exhibit J - Insurance › 7. Make the following changes to Paragraph 9, subsection (c)
+doc-order: 250
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR regulatory regime. Section VI.B of the technical proposal, continuing the itemized redline of the draft service agreement's insurance exhibit into the coverage-specific subsections.
 quality: Line-by-line record of the coverage limits and conditions Jacobs will carry on a large multi-facility O&M contract — automobile, umbrella/excess, contractors pollution, and cyber — with the exact wording changes that bring a client's exhibit inside the corporate program. Useful both as a redline precedent and as a reference for the limits Jacobs can evidence without project-specific placement.
 reuse-notes: Confirm every limit with Jacobs risk and insurance for the year and contract in question before reuse; limits shown are what was offered on this pursuit, not a standing commitment. Paragraph and subsection numbering follows the client's own exhibit and must be re-mapped. Where the client's fleet is used by the operator, decide explicitly whether the operator's auto policy responds primary to client-owned vehicles.

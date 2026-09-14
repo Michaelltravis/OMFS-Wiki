@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:30.understanding-of-ocwut-solids-management-requirements
-section-order: 1
+section-order: 3
+section-path: Section 5 | Required Plans Submitted with the Proposal › Solids Management Plan › Understanding of OCWUT Solids Management Requirements
+doc-order: 203
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: "The demonstrated-understanding passage that does the quiet incumbent-displacement work: it names what site observations found at each facility (elevated hydrogen sulfide in solids handling areas, inconsistent cake quality, a liquid transfer dependency, construction sequencing risk) and pairs every observed condition with a specific committed action. Cites the exact contract schedules reviewed, which is what converts \"we understand your system\" from a claim into evidence."
 reuse-notes: "The facility names and the conditions found at each are pursuit-specific and were drawn from site visits — replace them wholesale with observations from the pursuit's own site tour, keeping the condition-then-committed-action pattern. The hydrogen peroxide dosing commitment reflects an existing client practice being continued, not a new offer. Confirm the storage limit and schedule references against the pursuit's contract. Approved-for-external-use: pending — sourced from a live pursuit."

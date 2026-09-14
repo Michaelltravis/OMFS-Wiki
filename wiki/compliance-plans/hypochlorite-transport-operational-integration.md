@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: ocwut-16-26:28.hypochlorite-transport-plan
-section-order: 1
+section-order: 7
+section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Staffing, Resource, and Cost Impacts › Hypochlorite Transport Plan
+doc-order: 188
 context: Southcentral municipal water utility trust capital program.
 quality: Near-verbatim logistics, safety, responsibility, and contingency framework for moving generated hypochlorite between facilities.
 reuse-notes: Tailor the facilities, completion date, delivery comparison, and applicable transport requirements.

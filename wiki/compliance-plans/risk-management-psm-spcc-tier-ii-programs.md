@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:24.risk-management-process-safety-and-environmental-emergency-p
-section-order: 2
+section-order: 7
+section-path: Section 4 | Oklahoma Law › RISK MANAGEMENT, PROCESS SAFETY, AND ENVIRONMENTAL EMERGENCY PROGRAMS
+doc-order: 159
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Short, specific commitments on the chemical-threshold programs that most operators handle generically — RMP/PSM at the one facility that triggers them, SPCC integrated with the Emergency Operating Plan, and a named annual Tier II deadline (March 1) with the covered facilities listed, framed as a non-negotiable date the team tracks without prompting.
 reuse-notes: Which facility triggers RMP/PSM depends on the chemicals actually stored at the target system — confirm thresholds during due diligence before naming a facility. The Tier II facility list and the March 1 filing date are federal EPCRA-driven and reusable, but the facility names must be replaced. The emergency-plan alignment sentence names the client's own plans (Emergency Response Plan, municipal Emergency Operations Plan, Flood Emergency Response Plan) — swap in the target's plan set.

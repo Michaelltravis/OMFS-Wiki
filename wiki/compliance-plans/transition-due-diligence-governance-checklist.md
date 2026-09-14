@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:05.immediate-mobilization-and-governance
-section-order: 1
+section-order: 27
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › TRANSITION PLAN › Immediate Mobilization and Governance
+doc-order: 60
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: tight, six-item due-diligence checklist tied to a governance structure stood up on day one of award — reads as an executable mobilization protocol rather than a promise
 reuse-notes: confirm the permit type (NPDES vs. state-issued) and the regulator names for the target facility; drop the flood-control/standby-power item for inland facilities; align the readiness-milestone language with the Transition Schedule or Gantt actually submitted with the proposal

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-14
 last-verified: 2026-09-14
 section-id: ocwut-16-26:31.at-fault-violation-events
-section-order: 2
+section-order: 3
+section-path: Section 6 | Disclosures › AT-FAULT VIOLATION EVENTS
+doc-order: 211
 context: Southcentral US water utility trust, four WWTPs >110 MGD + biosolids, 2026 challenger bid; ODEQ
 quality: The second page of the at-fault log, and the richer half — disinfection excursions, UV failures, ammonia and TSS events, each with the measured excursion, a candid root cause and the fix. Several rows show the corrective action escalating beyond the immediate repair (weekly chemical strength testing, second-person checks, marking irrigation fields), which is the evidence of a learning maintenance and process-control program.
 reuse-notes: Regenerate from the corporate violation tracker for the RFP's lookback window and its definition of at-fault. Keep the root-cause candor and the completed corrective actions; where a corrective action became a standing practice change, say so — those are the rows that answer "what will you do differently at our plants." Verify every action is closed before submission.

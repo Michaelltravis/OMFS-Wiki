@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:03.corporate-profile
-section-order: 2
+section-order: 3
+section-path: Section 3 - Firm Qualifications and Experience › CORPORATE PROFILE AND LEGAL QUALIFICATIONS › CORPORATE PROFILE
+doc-order: 14
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Reframes a generic "great place to work" claim as a concrete O&M risk-mitigation argument — a named third-party recognition plus an industry-leading retention claim, tied directly to the client outcomes (performance, cost efficiency, long-term relationships) an evaluator cares about.
 reuse-notes: Confirm the "50 Best Companies to Work for" recognition and award year, and any turnover-rate claim, against the latest corporate fact sheet before reuse — awards and turnover figures are point-in-time. This paragraph sits inside the corporate profile in the source; when reusing, keep it adjacent to the corporate-scale block so the culture claim is read as an extension of firm capability rather than as filler.

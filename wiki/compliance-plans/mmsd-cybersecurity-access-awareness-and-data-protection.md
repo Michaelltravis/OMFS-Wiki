@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:27.access-control-and-account-management
-section-order: 1
+section-order: 12
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness › Enhanced Cybersecurity Controls › Access Control and Account Management
+doc-order: 194
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Specific where most cybersecurity narrative is vague — least privilege with just-in-time escalation, no shared accounts, enhanced credential monitoring on SCADA-adjacent systems, AES-256 encryption with change attribution, and an offer of joint penetration testing with the client. Closes by extending the same vigilance to remote conveyance sites and logging field findings in the CMMS.
 reuse-notes: Confirm the encryption standard and monitoring toolset with corporate IT security before reuse. The joint penetration-testing offer is conditional ("as appropriate") and should stay conditional unless the capture team has agreed to it. Adjust the field security paragraph to the remote assets actually in scope.

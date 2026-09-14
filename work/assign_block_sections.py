@@ -128,7 +128,7 @@ def main():
                 chain.append(cur)
                 cur = by_id.get(cur.get("parent") or "")
             chain.reverse()
-            path_titles = [c["title"] for c in chain]
+            path_titles = [re.sub(r"\s+", " ", c["title"]).strip() for c in chain]
             outline_key = f"{slug}:{sec['outline_index']}"
             rows.append(dict(path=rel, slug=slug, sid=sec["id"], first=first, minpos=min(refs), spans=spans, fm=fm,
                              outline_key=outline_key, section_path=" › ".join(path_titles)))

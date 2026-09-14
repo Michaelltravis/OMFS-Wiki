@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:08.key-elements-of-our-safety-program-and-planning
-section-order: 1
+section-order: 19
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › SAFETY PLAN AND MANAGEMENT › Key Elements of Our Safety Program and Planning'
+doc-order: 47
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Quantified training program (100-plus online safety courses, named OSHA topics) paired with a targeted underground and confined-space protocol written specifically for below-grade lift stations, stormwater tanks, and diversion structures.
 reuse-notes: Swap the asset list (lift stations, stormwater tanks, diversion structures) for the pursuit's actual inventory. The training-needs assessment cadence (at transition, then annually), the 100-plus course figure, and the confined-space protocol elements are corporate content reusable as-is; reverify the course count before each reuse.

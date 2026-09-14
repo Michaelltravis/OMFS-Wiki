@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe
-section-order: 3
+section-order: 14
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE
+doc-order: 68
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Carries the bank's best digital-twin outcome pair — construction duration shortened 40% and costs reduced 20% on a secondary treatment upgrade — and attaches it directly to a comparable upgrade planned at the client's own facility.
 reuse-notes: The 40% / 20% figures are the proof value and must be registered and cited with their project. The analogy to the client's planned upgrade only works where a genuinely comparable project is programmed.

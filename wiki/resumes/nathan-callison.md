@@ -25,6 +25,8 @@ win-theme-map: [regional-bench, transition-continuity, incumbent-displacement, c
 supersedes: wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md
 section-id: hull-wwtf-om-2026:12.why-nathan
 section-order: 1
+section-path: Section 7 - Appendix A - Resumes › WHY NATHAN?
+doc-order: 66
 context: Proposed as Project Manager. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Project Manager; strong direct-parallel experience (Southbridge, MA 5-year O&M contract transition) and named contact info from the cover letter.
 reuse-notes: "VERBATIM — real name, contact info, licenses, and project history. Before reuse on a new pursuit: (1) confirm Nathan Callison is still employed by Jacobs and still holds this role/title; (2) verify CRL and CMRT certifications and all state operator/plumber/HVAC licenses are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit; (4) reconfirm phone/email from the cover letter are still his current contact details."

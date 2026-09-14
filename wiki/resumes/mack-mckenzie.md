@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:11.why-mack
-section-order: 1
+section-order: 3
+section-path: 'Section 3: Key Personnel › 3.2 RESUMES › MEMBERSHIPS › WHY MACK?'
+doc-order: 79
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "Strong multi-facility CPO/Project Manager resume with deep California regulatory-board involvement (State Water Resources Control Board Wastewater Needs Assessment Advisory Group, 2024-2027), MBR/UF/RO operating experience, and repeated staff-supervision and capital-project scale (27 employees across five departments at the 16-MGD Richmond WPCP)."
 reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Good fit for California MBR/advanced water purification pursuits and for demonstrating regulatory-board engagement. Confirm the advisory-group term (2024-2027) is still active and that certification grades are current before reuse."

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:27.4-1-5-incident-reporting-and-investigation
-section-order: 1
+section-order: 4
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.5. Incident Reporting and Investigation
+doc-order: 186
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The house sidebar that makes a safety program feel human rather than procedural — daily volunteer safety messages "often reflecting on deeply personal events," recognition parties behind every incident-free year — paired with the all-staff / selected-staff / maintenance-staff training curriculum that proves the program has substance behind the sentiment. Graphic asset ID 235_007CAM_3.
 reuse-notes: Swap the named EH&S Specialist / Safety & Security Manager for the person proposed on the new pursuit. Trim or extend the curriculum lists to the certifications the scope actually requires; the three-tier split (all staff / selected staff / maintenance staff) is the reusable structure.

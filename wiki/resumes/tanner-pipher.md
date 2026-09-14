@@ -24,6 +24,8 @@ extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: ocwut-16-26:19
 section-order: 1
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › Key Team Member Resumes › Pipher, Tanner
+doc-order: 148
 context: Proposed CIP Construction Manager bridging design, construction, and operations for capital improvements in active facilities. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; ODEQ regulatory regime.
 quality: "The all-Oklahoma resume in this set — every project is an Oklahoma facility (Bixby, Duncan, Tulsa Northside, AB Jewell, Haikey Creek), backed by an Oklahoma PE license. Carries a concrete engineering outcome: reconfiguring a wasting treatment train to clear a solids bottleneck, informing a $40M capital improvement program."
 reuse-notes: "VERBATIM resume — real name and license number retained. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Tanner Pipher's current role, availability, and years of experience (8 total per the header, described as 'more than 7 years' in the summary and minimum-qualifications crosswalk — reconcile the two before reuse rather than harmonizing them silently); (2) verify Oklahoma PE #34730 and the OSHA confined space certification are current; (3) the Bixby, Duncan, City of Tulsa, and Haikey Creek entries name real clients and the $40M CIP figure — clear with the account teams before external use."

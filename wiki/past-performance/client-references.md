@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:03.contract-termination
-section-order: 1
+section-order: 6
+section-path: Section 3 - Firm Qualifications and Experience › LITIGATION OR CONTRACT TERMINATION › CONTRACT TERMINATION
+doc-order: 17
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Verbatim client-reference tables answering the 'references' compliance item most O&M RFPs carry — condensed project summaries plus named owner contacts (name, title, phone, email) for all five reference projects, and a broader 20-facility representative-experience list.
 reuse-notes: "VERBATIM — real client names, contacts, phones, emails; past-performance blocks are exempt from client-name generalization. QC every contact's name, title, phone, and email against current account-team knowledge before reuse, since these change and a stale contact reflects poorly on the firm. Flag the South Huron annual-fee discrepancy ($5.3M in Exhibit 3-5 vs. the literal '$xxM' placeholder on the Appendix B page) before citing that project. The source proposal's Exhibit 3-2 regional map (Section 3, p. 8) labels several nearby project markers 'Confidential' rather than naming the client; that map is not reproduced here, and the Exhibit 3-3 table itself discloses all 20 client/facility names. The five projects summarized here appear as full Appendix B narratives in the sibling project-*.md files."

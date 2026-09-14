@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: ocwut-16-26:32.jackson-public-drinking-water-and-wastewater-facilities-o-m
-section-order: 1
+section-order: 4
+section-path: Section 7 | Projects and References › RELEVANT PROJECT EXPERIENCE › Jackson Public Drinking Water and Wastewater Facilities O&M
+doc-order: 215
 context: "Verbatim municipal water and wastewater turnaround reference."
 quality: "Source-faithful project description covering interim support, multi-facility O&M, compliance, and program management."
 reuse-notes: "Past-performance content is verbatim and client-exempt. Confirm client contacts, contract status, personnel, and scope before external use. Commercial annual-rate language has been removed."

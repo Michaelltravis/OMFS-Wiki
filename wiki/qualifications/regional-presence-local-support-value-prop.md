@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:03.robust-regional-resources
-section-order: 1
+section-order: 4
+section-path: Section 3 - Firm Qualifications and Experience › TECHNICAL QUALIFICATIONS › YEARS OF EXPERIENCE PROVIDING O&M SERVICES FOR WASTEWATER FACILITIES › Robust Regional Resources
+doc-order: 15
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Converts "we have local offices" into a differentiated value proposition — ties physical and staffing proximity directly to named regulatory relationships, coastal and community-sensitive operating conditions, and a "one fully integrated team" concept, then lands the 98% contract renewal rate as evidence that the model holds up over time.
 reuse-notes: Replace the regulatory region, state agency names, and staff-proximity figures with the pursuit's actual regional footprint; the ~20-mile, 398/712/2,900+ staff counts are point-in-time Northeast figures and must be re-pulled. Confirm the 43-year regional-service figure and the 98% renewal rate against the latest corporate fact sheet. If Jacobs does not have comparable regional density near the new client, do not force this block — pivot to the national-resources framing in full-service-lifecycle-capability-and-capital-planning-support.md instead.

@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:08
 section-order: 2
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team
+doc-order: 109
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The standard Company Facts sidebar in its most complete form — including the contracting-party disclosure (OMI as the wholly owned subsidiary that signs O&M contracts), which RFPs routinely ask for — paired with the repeat-business and employer-of-choice culture paragraphs that run beside it.
 reuse-notes: The fact box fields (revenue, local office address, principal contact) are pursuit-specific and must be re-set every time; the local office line is the point of the box, so never carry a stale address. Confirm the OMI contracting-party language against the entity actually signing the new contract. The "50 Best Companies to Work for" recognition and the 98% repeat-business figure need a current-year check before external use.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:03.safety-emergency-preparedness-and-risk-management
-section-order: 1
+section-order: 12
+section-path: Executive Summary › SAFETY, EMERGENCY PREPAREDNESS, AND RISK MANAGEMENT
+doc-order: 14
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Compresses safety into one paragraph that still carries three differentiators — a regional safety-professional team behind the site staff, FEMA disaster-response experience translated into a concrete promise (securing materials and staffing during extreme events), and an environmental risk approach tracked against four named indicator families rather than described as a philosophy.
 reuse-notes: The FEMA disaster-response reference is a firm-level credential — confirm it is current and appropriate to the region's hazard profile before repeating it. Match the risk indicators and the seasonal hazards to the target site (wildfire, hurricane, freeze, flood) rather than carrying forward the coastal California framing.

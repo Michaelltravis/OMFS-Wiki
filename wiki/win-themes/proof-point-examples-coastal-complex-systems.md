@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:02.proven-operations-in-coastal-and-complex-systems
-section-order: 1
+section-order: 6
+section-path: Section 2 - Executive Summary › PROVEN OPERATIONS IN COASTAL AND COMPLEX SYSTEMS
+doc-order: 9
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A compact, one-line-per-reference proof-point list backed by two short expanded examples — enough evidence to carry a "demonstrated track record" claim inside an executive summary without the length of a full past-performance write-up, and it closes the loop on the operating-conditions challenge named in the section opening
 reuse-notes: Reference client names are kept verbatim (Westerly, SHVUA, Traverse City, Southbridge) because reference identities are the proof value; confirm each is still an approved, current reference and that the $134K savings figure is still accurate before external use. Substitute reference projects that match the target client's own pain points — lead with the odor-control example for a client worried about odor complaints, with the I/I and low-pressure examples for a collection-system-driven pursuit. The pursuit client's own name is generalized to [CLIENT]; reference clients are not.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:03.site-specific-readiness-and-reliability
-section-order: 1
+section-order: 9
+section-path: Executive Summary › SITE-SPECIFIC READINESS AND RELIABILITY
+doc-order: 11
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Walks the client's asset inventory one at a time and attaches a specific, testable commitment to each — monthly peak-flow stress tests, monthly alarm testing, vac-truck cleaning every eight weeks, injection-well telemetry embedded in the plant dashboard — which is what separates an operator who has read the engineering report from one offering generic reliability language.
 reuse-notes: Every commitment here is tied to a real asset in this system; rebuild the list from the target facility's own asset inventory. The frequencies (monthly stress tests, eight-week vac-truck cycle) are operational commitments the operations lead must confirm as achievable and priced before they are repeated.

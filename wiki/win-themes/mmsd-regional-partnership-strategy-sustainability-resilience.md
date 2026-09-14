@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:35.academic-and-research-partnerships
-section-order: 1
+section-order: 7
+section-path: V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS › Academic and Research Partnerships
+doc-order: 241
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Takes the sustainability strategy past emissions language into land — helping the district acquire and protect river corridor land, with watershed collaborations used to pick which parcels. Closes by quantifying social and environmental return on investment for green infrastructure and renewables so the sustainability case becomes a funding case.
 reuse-notes: Substitute the watershed collaborations and the land-protection program name; the sequence (nature-positive solutions, watershed planning, partnerships, then monetized business case) transfers to any client with a green-infrastructure or land-conservation program. Confirm the subconsultant partners named are on the pursuit team.

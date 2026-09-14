@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:08.minimal-litigation-history
-section-order: 1
+section-order: 33
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › MINIMAL LITIGATION HISTORY'
+doc-order: 61
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A ready-made legal and litigation-disclosure response pattern — frames scale-proportionate litigation as normal, points to SEC filings for independent verification, states a specific termination-history fact, and contrasts publicly traded ownership with private-equity models — commonly required by public-agency RFPs.
 reuse-notes: Litigation-disclosure language must be reconfirmed with legal and contracts counsel before each use, since the "not terminated for cause in the last five years" claim (including for the named subsidiary, Operations Management International, Inc./OMI) must reflect current, accurate status at time of submission. The subsidiary name and SEC investor-relations URLs are Jacobs corporate and legal facts, not pursuit-client identifiers, and are kept verbatim.

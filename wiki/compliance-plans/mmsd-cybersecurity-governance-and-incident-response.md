@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:27.4-2-7-jacobs-business-networks-infrastructure-cybersecurity
-section-order: 1
+section-order: 11
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness
+doc-order: 193
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Makes the scope boundary explicit up front — client-owned systems are covered in the OT section, this section is the operator's own enterprise posture — which is the distinction most cybersecurity proposal text blurs. Names the standards (ISO 27001, NIST/CISA), the 24/7 global Security Operations Center, and a checkable patch commitment (systems maintained within two major vendor releases).
 reuse-notes: Keep the cross-reference sentence pointing at whichever section of the new proposal covers client-owned OT systems, so the two do not contradict each other. Confirm current certifications, standards alignment, and the patch-currency commitment with corporate IT security before submission.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:08.health-and-safety
-section-order: 1
+section-order: 17
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › SAFETY PLAN AND MANAGEMENT › Health and Safety'
+doc-order: 45
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Combines the BeyondZero safety-culture narrative with a Safety Scorecard concept (five leading, two lagging indicators) and five years of hard corporate safety metrics (ERM by policy year, TRIR by year) plus industry benchmarks showing 60 percent and 72 percent better-than-industry performance.
 reuse-notes: The BeyondZero narrative, the Safety Scorecard leading/lagging framework, and the industry-benchmark framing are fully generic. Refresh every metric (ERM by policy year, TRIR by year, the BLS 2018-2022 benchmark window) from current corporate safety data before each reuse, and confirm the RFP's required EMR/TRIR thresholds are cleared before citing better-than-industry language.

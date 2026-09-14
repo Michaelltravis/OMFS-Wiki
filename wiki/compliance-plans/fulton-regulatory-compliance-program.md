@@ -24,7 +24,9 @@ extracted: 2026-09-07
 last-verified: 2026-09-07
 supersedes: wiki/compliance-plans/fulton-environmental-protection-and-reporting-commitment.md
 section-id: fulton-county-2025:12.corporate-capability-and-approach
-section-order: 1
+section-order: 18
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Corporate Capability and Approach
+doc-order: 55
 context: County wastewater O&M pursuit supported by JC Solutions, a Jacobs/CERM joint venture.
 quality: Near-verbatim compliance-program opening that connects site tailoring, regulatory expertise, and transparent reporting.
 reuse-notes: Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV. Tailor the regulatory program, laws, and stakeholder references to the current permit framework; attribute technical compliance capability to Jacobs and local delivery to CERM where applicable.

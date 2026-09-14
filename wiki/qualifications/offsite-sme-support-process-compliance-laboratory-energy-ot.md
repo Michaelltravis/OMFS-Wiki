@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:08.oklahoma-city-the-oklahoma-city-water-utilities-trust
-section-order: 3
+section-order: 27
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST
+doc-order: 134
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest page of the SME bench — the energy SME entry ties directly to an RFP-stated +5% electricity baseline variance and carries three hard numbers (2.4 million kWh and $240K saved, up to 23% energy savings, 100+ plants), and the OT/cybersecurity entry maps to a named RFP schedule requirement.
 reuse-notes: Re-verify the energy savings figures and the plant count before restating them; register each number in proof-points/registry.md. The "+5% baseline variance" and "Schedule 17 ITS Implementation and Use Plan" references are contract-document-specific and must be re-pointed at the new solicitation's clauses.

@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-14
 last-verified: 2026-09-14
 section-id: ocwut-16-26:04.innovation-5-best-practices
-section-order: 1
+section-order: 5
+section-path: Section 1 | Technical Approach › Management Plan › 6 NEIGHBOR & COMMUNITY CARE › INNOVATION & 5 BEST PRACTICES
+doc-order: 27
 context: Southcentral US water utility trust, four WWTPs >110 MGD + biosolids, 2026 challenger bid; ODEQ
 quality: Three of the seven "critical success factor" pillars that anchor the exhibit-driven management philosophy spread — people, assets, and innovation — each stated in two or three tight sentences that move from commitment to client consequence. Useful as short, parallel win-theme panels for an exhibit or callout row rather than as running body copy.
 reuse-notes: The three pillars are written to sit as parallel panels inside a seven-pillar graphic (Exhibit 1-3, asset 137_009385) and read best kept to the same length and cadence. Swap [CLIENT] and confirm the CMMS/EAM platform named in the maintenance pillar matches the pursuit. Pillar numbering (3, 4, 5) is exhibit-specific — renumber or drop when the graphic changes. Pair with the four remaining pillars on the same page (ethics and compliance, transparency and accountability, neighbor and community care, CIP integration and continuity).

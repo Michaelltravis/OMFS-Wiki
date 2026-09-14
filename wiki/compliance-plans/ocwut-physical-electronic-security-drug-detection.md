@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05.physical-and-electronic-security
-section-order: 1
+section-order: 42
+section-path: Section 1 | Technical Approach › Operations Plan › SAFETY AND SITE SECURITY › Physical and Electronic Security
+doc-order: 77
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Treats the plants as critical infrastructure and states the operator's security duties as concrete field actions — perimeter and gate inspection, secure-and-report-and-correct on a breach, identification-controlled access, badge-controlled restricted spaces — then joins physical security to OT/SCADA account management and closes with a workforce-reliability plan tied to the client's own HR workplace standards
 reuse-notes: Replace the access-control system name (AMAG here) and the client HR workplace standards reference with the target client's. Confirm what the RFP requires on background checks, pre-employment screening, and reporting of criminal convictions before committing to those steps, and confirm the client's IT/SCADA coordination model. The report-to-General-Manager escalation path should be renamed to the target contract's designated client representative.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:27.4-1-2-sms-and-required-plans
-section-order: 1
+section-order: 2
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.2. SMS and Required Plans
+doc-order: 184
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A compliance-grade contents list for the Safety Plan deliverable, committed to a date certain before the Start Date, with each element named specifically enough to be scored against an RFP checklist — including a biosolids-drying combustible dust item most competitors omit.
 reuse-notes: Adjust the submittal window to the contract's required lead time; add or remove program elements to match the facility hazards actually in scope (combustible dust applies only where a thermal drying or dry-product handling operation exists). Name the client's own safety counterparts in the closing coordination sentence.

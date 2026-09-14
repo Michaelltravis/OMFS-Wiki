@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:05.technical-expertise-for-capital-planning-efforts
-section-order: 1
+section-order: 24
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › ASSET MANAGEMENT/MAINTENANCE › Technical Expertise for Capital Planning Efforts
+doc-order: 57
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: connects daily maintenance data to a risk-ranked capital plan and then to delivery support — and names three concrete, facility-specific studies instead of promising generic "innovation"
 reuse-notes: replace the three named studies with opportunities identified at the target facility during site visits or from the RFP's own stated problems; confirm the delivery vehicle (innovation workshop, discounted engineering rates, or scoped task order) matches what the commercial proposal actually offers

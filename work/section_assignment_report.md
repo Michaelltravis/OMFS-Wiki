@@ -1,6 +1,6 @@
 # Section assignment report
 
-Blocks assigned: 798 (299 with a new or changed value) · unassigned: 0 · unparseable frontmatter: 0
+Blocks assigned: 798 (0 with a new or changed value) · unassigned: 0 · unparseable frontmatter: 0
 
 | source | blocks assigned |
 |---|---:|
