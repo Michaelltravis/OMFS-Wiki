@@ -8,18 +8,35 @@ export const meta = {
   ],
 }
 
-// args = contents of work/fragments/ranges_gapfill_<slug>.json:
-// { wiki, slug, clientNames:[..], context, ranges:[{slug, name, sectionId, pages:[a,b], category, rfpSectionType,
-//   existingBlocks:[paths], uncovered:[{page, para, words, kind, first_words, ref}]}], builderAddendum?, judgeModel?, filePrefix? }
+// args: either the contents of work/fragments/ranges_gapfill_<slug>.json inline —
+//   { wiki, slug, clientNames:[..], context, today, ranges:[{slug, name, sectionId, pages:[a,b], category, rfpSectionType,
+//     existingBlocks:[paths], uncovered:[{page, para, words, kind, first_words, ref}]}] }
+// — or the compact form { wiki, slug, rangesFile: "<absolute path to that json>" }, in which case a small Sonnet
+//   agent reads the file and returns its fields (kept tiny so launches and resumes stay cheap).
+// Optional: builderAddendum, judgeModel, filePrefix.
 const W = args.wiki
-const slug = args.slug
-const clientNames = args.clientNames || []
-const context = args.context || ''
+const LOADED = { type:'object', properties:{
+  slug:{type:'string'}, clientNames:{type:'array', items:{type:'string'}}, context:{type:'string'}, today:{type:'string'},
+  ranges:{type:'array', items:{type:'object', properties:{
+    slug:{type:'string'}, name:{type:'string'}, sectionId:{type:'string'}, pages:{type:'array', items:{type:'number'}},
+    category:{type:'string'}, rfpSectionType:{type:'array', items:{type:'string'}}, existingBlocks:{type:'array', items:{type:'string'}},
+    uncovered:{type:'array', items:{type:'object', properties:{ page:{type:'number'}, para:{type:'number'}, words:{type:'number'},
+      kind:{type:'string'}, first_words:{type:'string'}, ref:{type:'string'} }, required:['page','para','ref']}} },
+    required:['name','pages','category','rfpSectionType','existingBlocks','uncovered']}} },
+  required:['slug','clientNames','context','today','ranges'] }
+let cfg = args
+if (!args.ranges && args.rangesFile) {
+  phase('Blocks')
+  cfg = await agent(`Read the JSON file ${args.rangesFile} and return its contents unchanged as the fields slug, clientNames, context, today and ranges (every range with all its existingBlocks and uncovered entries, in file order). Transcribe exactly; do not summarize, reorder, drop or add anything; do not modify any file.`, {model:'sonnet', effort:'low', phase:'Blocks', label:'load ranges', schema:LOADED})
+}
+const slug = cfg.slug
+const clientNames = cfg.clientNames || []
+const context = cfg.context || ''
 const EXTRA = args.builderAddendum || ''
 const JUDGE_MODEL = args.judgeModel || 'fable'
 const PREFIX = args.filePrefix || ({ 'hull-wwtf-om-2026': 'hull', 'santamonica-swip-om-2025': 'swip', 'ocwut-16-26': 'ocwut', 'fulton-county-2025': 'fulton', 'mmsd-om-2028': 'mmsd' }[slug] || slug.split('-')[0])
-// Date.now()/new Date() are unavailable in workflow scripts (they break resume); make_gap_ranges.py stamps args.today.
-const TODAY = args.today || 'unknown-date'
+// Date.now()/new Date() are unavailable in workflow scripts (they break resume); make_gap_ranges.py stamps today.
+const TODAY = cfg.today || 'unknown-date'
 
 const BUILD = { type:'object', properties:{
   range:{type:'string'}, files_created:{type:'array', items:{type:'string'}},
@@ -65,7 +82,7 @@ For each block: read its frontmatter verbatim-ref and source-pages, open the ref
 const rewritePrompt = (r, fails) => `Rewrite these content-bank blocks so each body is the sanitized PROSE of its verbatim source, not a paraphrase. Read ${W}\\CLAUDE.md sanitization rules first. For each: open the block, open its verbatim-ref page(s) under ${W}\\verbatim\\${slug}\\pages\\ (fix verbatim-ref if it was wrong), replace the body with the source sentences (generalize pursuit client names ${clientNames.join(', ')} to [CLIENT] in narrative categories only; keep every number; strip commercial fee/rate figures only), keep the frontmatter v2 fields and the "## Reuse guidance" section. Blocks and judge reasons:\n${fails.map(f => `- ${f.path}: ${f.verdict} — ${f.reason||''}`).join('\n')}`
 
 phase('Blocks')
-const perRange = await pipeline(args.ranges,
+const perRange = await pipeline(cfg.ranges,
   r => agent(buildPrompt(r), {model:'opus', effort:'medium', phase:'Blocks', label:`gapfill ${slug} ${r.name}`, schema:BUILD}),
   async (built, r) => {
     if (!built) return null
@@ -83,7 +100,7 @@ const perRange = await pipeline(args.ranges,
     return { range:r.name, created:files.length, skipped:(built.skipped||[]).length, skipped_reasons:built.skipped||[], residual_fails:fails, quotes_fragment:built.quotes_fragment }
   })
 const done = perRange.filter(Boolean)
-log(`Blocks: ${done.length}/${args.ranges.length} ranges; created ${done.reduce((n,d)=>n+d.created,0)}; skipped ${done.reduce((n,d)=>n+d.skipped,0)}; residual paraphrase failures: ${done.reduce((n,d)=>n+d.residual_fails.length,0)}`)
+log(`Blocks: ${done.length}/${cfg.ranges.length} ranges; created ${done.reduce((n,d)=>n+d.created,0)}; skipped ${done.reduce((n,d)=>n+d.skipped,0)}; residual paraphrase failures: ${done.reduce((n,d)=>n+d.residual_fails.length,0)}`)
 
 phase('Finalize')
 const quoteFrags = done.map(d => d.quotes_fragment).filter(Boolean)
