@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:14.4-value-add-digital-innovation-in-training-digital-twin-oper
-section-order: 1
+section-order: 3
+section-path: 'II. Statement on Staffing, Training and Corporate Culture › II.E. Technical Training Program › 4. VALUE-ADD: DIGITAL INNOVATION IN TRAINING – DIGITAL TWIN OPERATIONS'
+doc-order: 40
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Short, clean value-add offer that attaches a digital innovation directly to the training program — benefits are stated as operator outcomes, and the offer is framed as optional so it carries no pricing exposure.
 reuse-notes: Confirm the digital twin platform is actually deployable at the pursuit's facilities and that the offer is priced (or explicitly unpriced) consistent with the commercial volume. Tailor the three benefit bullets to the processes the client actually runs — swap biological nutrient removal for the client's governing process if different.

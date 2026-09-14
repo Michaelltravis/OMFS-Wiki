@@ -24,7 +24,9 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md
 section-id: mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a
-section-order: 2
+section-order: 18
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise
+doc-order: 145
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: Names the gap most O&M proposals skip — traditional CMMS platforms cannot manage PLCs, HMIs, networked motor controls, and configuration change — and answers it with a purpose-built OT asset platform plus training positioned as a deliverable, not an add-on.
 reuse-notes: Confirm the client's OT asset classes and CMMS platform before promising integration; tailor the training topics (wet-weather performance, network resiliency, cybersecurity hardening) to the target operating environment.

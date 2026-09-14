@@ -24,7 +24,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:21.energy-and-chemical-optimization
-section-order: 1
+section-order: 3
+section-path: IV. Approach Summary › Energy and Chemical Optimization
+doc-order: 77
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A single-page graphic that maps every element of the O&M plan to a client priority, with a one-line benefit per element. This is the "whole approach on one page" device evaluators remember; the element captions are reusable one-liners throughout a technical approach.
 reuse-notes: Retitle each element to match the target RFP's own scope headings, and delete elements that are out of scope (tunnel storage, branded biosolids product, CMMS implementation). The CMMS vendor name must match the client's platform.

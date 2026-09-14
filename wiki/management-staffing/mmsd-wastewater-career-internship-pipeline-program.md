@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:17.1-3-internships-peak-interest-in-careers
-section-order: 2
+section-order: 5
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.3. Internships Peak Interest in Careers
+doc-order: 51
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A designed, two-phase program with named roles, a stated duration, and a defined end state — union apprenticeship, entry-level position, or post-secondary education. It is offered as a replication of something already built, which is far stronger than proposing a program from scratch.
 reuse-notes: Adjust the intern role list to the job families the pursuit actually staffs. The Title I school partnership and underrepresented-community prioritization should be checked against the client's own equity policy and against state law on hiring preferences before being restated. Confirm internships are paid and that the budget carries them.

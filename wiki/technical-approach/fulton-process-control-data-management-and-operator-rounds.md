@@ -24,7 +24,9 @@ extracted: 2026-09-07
 last-verified: 2026-09-07
 superseded-by: wiki/technical-approach/swip-process-control-system-tools.md
 section-id: fulton-county-2025:12.operation-maintenance-plans
-section-order: 1
+section-order: 9
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS
+doc-order: 46
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim operating-plan narrative that connects CPCS, sampling and data systems, SOPs, daily rounds, and membrane peak-flow tests.
 reuse-notes: Confirm platform availability, reporting access, sampling responsibilities, and the stated membrane-test commitment before use.

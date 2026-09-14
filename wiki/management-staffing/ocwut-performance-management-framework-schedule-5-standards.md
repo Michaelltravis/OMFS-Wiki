@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:04.o-m-management-philosophy-critical-success-factors
-section-order: 2
+section-order: 4
+section-path: Section 1 | Technical Approach › Management Plan › O&M MANAGEMENT PHILOSOPHY/CRITICAL SUCCESS FACTORS
+doc-order: 26
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The rare passage that quotes the client's own performance-requirement IDs back to them and states the exact share of fee the proposer is willing to put at risk — a compact, high-credibility demonstration that the bidder actually read and accepted the performance regime rather than describing quality in the abstract.
 reuse-notes: Rebuild the metric list from the pursuit's own performance schedule, using the client's requirement IDs verbatim; the at-risk percentage must be recalculated from the specific RFP and confirmed with the commercial lead before it appears in any draft. Do not carry another client's metric IDs forward.

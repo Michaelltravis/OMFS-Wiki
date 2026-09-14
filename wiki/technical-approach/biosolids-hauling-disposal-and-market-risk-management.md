@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:05.hauling-and-disposal
-section-order: 1
+section-order: 11
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › BIOSOLIDS AND RESIDUALS MANAGEMENT › Hauling and Disposal
+doc-order: 44
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Back half of the biosolids narrative and the commercially sharpest part of it — a named mechanism for managing regional disposal-market volatility (quarterly $/dry ton trend tracking against a baseline, plus active management to stay below the contract's 10% dry ton cost adjustment threshold), backed by audit-ready chain-of-custody documentation and an interstate transport compliance commitment.
 reuse-notes: The 10% dry ton cost adjustment threshold is this contract's commercial term — replace it with the target contract's actual adjustment mechanism. The receiving facility (Cranston WWTF) and the Massachusetts/Rhode Island interstate transport requirement must be swapped for the real disposal pathway and jurisdictions. The New England market conditions paragraph should be rewritten from current regional market intelligence at time of reuse.

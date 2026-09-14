@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:24.01-onsite-process-control-and-operational-and-maintenance-de
-section-order: 1
+section-order: 3
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 01 ONSITE PROCESS CONTROL AND OPERATIONAL AND MAINTENANCE DECISIONS
+doc-order: 103
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A three-level decision hierarchy that names the forum for each level — daily/weekly meetings, O&M committees, executive committee — and states what class of decision belongs where, including monthly metric reviews and the annual innovation workshop as the route for strategic recommendations. Answers governance and oversight evaluation criteria directly.
 reuse-notes: Rename the forums and cite the pursuit's own governance exhibit; tailor the tier-03 examples (energy management strategies, wet weather response, tunnel operations, biosolids product production) to the pursuit's strategic issues; confirm the monthly review cadence matches the contract's reporting requirements before committing to it.

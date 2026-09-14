@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:08.asset-management-centered-maintenance-approach
-section-order: 1
+section-order: 25
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › ASSET MANAGEMENT AND MAINTENANCE › Asset Management-Centered Maintenance Approach'
+doc-order: 53
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A complete, ISO 55001-aligned, 10-element asset-management methodology with named roles, a CMMS workflow, hard maintenance service levels (work orders issued within 24 hours, closed within 120 days), a 1-million-asset condition-assessment proof point, and a five-technology predictive-maintenance toolkit — a comprehensive, drop-in AM methodology section.
 reuse-notes: The 10-Box Model structure, CMMS workflow, service-level commitments, and predictive-maintenance technology list are firm-wide capabilities reusable near-verbatim. Named individuals (Mack Mckenzie, Graham Knowles, Richard Gwinn) are kept verbatim per wiki policy on staff names — replace with the pursuing team's assigned staff. Update the ISO 55001 value-add figure ($300,000 here) and confirm the 1-million-asset condition-assessment statistic against the proof-point registry per pursuit.

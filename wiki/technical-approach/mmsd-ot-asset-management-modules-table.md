@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a
-section-order: 3
+section-order: 19
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise
+doc-order: 146
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Seven OT asset management modules stated as commitments ("what Jacobs will do"), not features — inventory down to connectors and SFP modules, network mapping with Layer 2/Layer 3 tracking, lifecycle profiles integrated to the client's CMMS, architecture dependency mapping, downtime impact tracing, configuration comparison against standards, and governed change workflows. Concrete enough to survive a technical evaluator's scrutiny.
 reuse-notes: Replace the CMMS integration reference with the pursuit's platform. Where a client has an existing OT inventory or network documentation, reframe the inventory rows as verification and gap-closure rather than establishment.

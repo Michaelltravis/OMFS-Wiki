@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:08.experience-and-qualifications-of-the-management-team
-section-order: 2
+section-order: 17
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM
+doc-order: 124
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A two-tier org graphic whose every tile is written as a client benefit rather than a job description — each corporate support name is justified by what the client gets, and several tiles lean on existing relationships with the client's own staff.
 reuse-notes: Graphic asset ID 148_009385; client-specific, re-brand before reuse. The tile copy pattern (name / certifications / role label / one benefit sentence naming what the client gains) is the reusable part. Source text is multi-column and was de-interleaved column by column during extraction — check the render before quoting exact wording.

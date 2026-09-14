@@ -1,16 +1,16 @@
 # Section assignment report
 
-Blocks assigned: 794 (0 with a new or changed value) · unassigned: 0 · unparseable frontmatter: 0
+Blocks assigned: 798 (299 with a new or changed value) · unassigned: 0 · unparseable frontmatter: 0
 
 | source | blocks assigned |
 |---|---:|
 | fulton-county-2025 | 130 |
 | hull-wwtf-om-2026 | 88 |
 | mmsd-om-2028 | 250 |
-| ocwut-16-26 | 226 |
+| ocwut-16-26 | 230 |
 | santamonica-swip-om-2025 | 100 |
 
-## Blocks whose refs span more than one section (285)
+## Blocks whose refs span more than one section (286)
 
 The first ref decides `section-id`; the others are listed here for information only.
 
@@ -225,6 +225,7 @@ The first ref decides `section-id`; the others are listed here for information o
 - `wiki/qualifications/full-service-lifecycle-capability-and-capital-planning-support.md` → `hull-wwtf-om-2026:03.full-o-m-services-for-water-and-wastewater-treatment-facilit`; also touches `hull-wwtf-om-2026:03.additional-technical-resources-and-capital-planning-support`
 - `wiki/qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md` → `fulton-county-2025:14.o-m-resources`; also touches `fulton-county-2025:14.jorge-bermudez`
 - `wiki/qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md` → `mmsd-om-2028:06`; also touches `mmsd-om-2028:07`, `mmsd-om-2028:08`
+- `wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md` → `ocwut-16-26:31`; also touches `ocwut-16-26:31.enforcements`
 - `wiki/qualifications/odor-control-capability-and-case-studies.md` → `ocwut-16-26:08.odor-control`; also touches `ocwut-16-26:08.biosolids-recovery-turning-crisis-into-control-in-baltimore`
 - `wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md` → `hull-wwtf-om-2026:03.corporate-profile`; also touches `hull-wwtf-om-2026:03.years-of-experience-providing-o-m-services-for-wastewater-fa`
 - `wiki/qualifications/reference-portfolio-comparability-and-similar-facilities.md` → `hull-wwtf-om-2026:03.references`; also touches `hull-wwtf-om-2026:03.similar-facilities`

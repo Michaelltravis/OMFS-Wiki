@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: ocwut-16-26:26.organization-structure-and-leadership-team
-section-order: 2
+section-order: 3
+section-path: Section 5 | Required Plans Submitted with the Proposal › Staffing and Training Plan › Organization Structure and Leadership Team
+doc-order: 165
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A multi-facility org chart that shows three things an evaluator looks for at once — a named corporate/offsite support layer above the site, a single on-site accountable manager, and a per-facility crew with FTE counts under each operations manager — plus the hiring commitment that management is in place before transition ends.
 reuse-notes: Graphic asset ID 100_009385. Rebuild the chart per pursuit; the reusable structure is the four-band layout (corporate support / project leadership / facility operations / shared maintenance-lab support) with a legend distinguishing operations, maintenance, laboratory, electrical-biosolids, subcontracted staff, and team members with resumes provided. Names, FTE counts, plant names, and the Synagro biosolids subcontract are pursuit-specific.

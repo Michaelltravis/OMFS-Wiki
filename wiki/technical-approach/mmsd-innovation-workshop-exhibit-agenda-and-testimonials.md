@@ -25,7 +25,9 @@ last-verified: 2026-09-05
 supersedes: wiki/technical-approach/innovation-workshop-sample-agenda-structure.md
 superseded-by: [wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md, wiki/technical-approach/swip-annual-innovation-workshop.md]
 section-id: mmsd-om-2028:28.5-1-jacobs-annual-innovation-workshop-drives-continuous-impr
-section-order: 2
+section-order: 3
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.1. Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M
+doc-order: 198
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Turns the Annual Innovation Workshop from a promise into evidence — a real agenda from a real workshop held for an operating client, plus two named client testimonials with contact numbers. Graphic asset ID 305_007CAM_1.
 reuse-notes: The agenda is a real 2024 workshop agenda and is reused as a sample; re-title sessions to match the pursuit's priorities when the agenda is presented as a proposed one. Both testimonials are from other Jacobs clients (Wilmington DE and South Huron Valley) and stay verbatim with speaker name, title, and phone — confirm permission status in testimonials/inventory.md before external use. Graphic 305_007CAM_1 is client-specific to the extent it shows workshop photos; re-crop for a new pursuit.

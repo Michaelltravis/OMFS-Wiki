@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: ocwut-16-26:26.vacancy-management-retention-and-staffing-resiliency
-section-order: 1
+section-order: 8
+section-path: Section 5 | Required Plans Submitted with the Proposal › Staffing and Training Plan › Vacancy Management, Retention, and Staffing Resiliency
+doc-order: 170
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement; multi-facility operations under an ODEQ regulatory regime.
 quality: Near-verbatim, operationally specific vacancy-management passage that connects retention, recruiting, interim coverage, and transparent reporting.
 reuse-notes: Tailor compensation, benefits, recruiting channels, HR systems, geography, and Schedule 10 references. Confirm the current resource-planning performance before reusing the doubled-hire claim. Pair with [ocwut-247-coverage-and-oncall-rotation.md](ocwut-247-coverage-and-oncall-rotation.md) and [ocwut-high-performing-culture-and-culture-coach-program.md](ocwut-high-performing-culture-and-culture-coach-program.md).

@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05.phase-2-monitoring-planning-and-process-refinement
-section-order: 1
+section-order: 34
+section-path: Section 1 | Technical Approach › Operations Plan › OCWUT-MANAGED › Phase 2 – Monitoring, Planning, and Process Refinement
+doc-order: 69
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest incumbent-displacement device in this section — site-visit observations of inaccurate, disconnected, or invisible instrumentation are converted into an end-to-end control-path validation commitment and the memorable "SCADA you can trust" phrase, tied to wet-weather recovery and compliance.
 reuse-notes: The site-visit observations are evidence gathered on this pursuit; substitute observations actually made during the new pursuit's site visits, or reframe as a first-90-days verification commitment if no site visit occurred. The sensor to I/O to PLC logic to communications/historian to HMI validation chain, the verification-based maintenance idea, and the equipment anomaly program are fully portable. "SCADA you can trust" is a reusable headline.

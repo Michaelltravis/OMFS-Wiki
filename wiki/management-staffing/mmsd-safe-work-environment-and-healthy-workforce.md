@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:15
 section-order: 1
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.F. Safe Work Environment
+doc-order: 41
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Names the safety organization from manager down to frontline Safety Champion, ties the program to specific contract clauses and exhibits, gives the client real-time visibility through a named analytics system, and then closes the loop by treating mental well-being as inseparable from physical safety — a complete answer to a "safe work environment" requirement in one passage.
 reuse-notes: Replace the named Security and Safety Manager and the facility-level coordinator structure with the proposed team for the pursuit. Re-point the contract citations (§3.02(f), Exhibit M) to the pursuit's own clauses, and re-point the cross-reference to wherever the comprehensive safety and security program sits in the new proposal. Confirm IonCity is the current safety analytics platform at proposal time.

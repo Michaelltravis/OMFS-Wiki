@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:26.3-7-transparency-reporting-and-governance
-section-order: 1
+section-order: 13
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.7. Transparency, Reporting, and Governance
+doc-order: 176
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "Names the exact metrics the client gets live access to and commits to delineating client-funded vs. operator-funded work — the sharpest transparency language in this proposal and a direct contrast play against an incumbent."
 reuse-notes: "Rename the committees and subcommittees to match the target agreement, and confirm the Standards of Performance metric list and review cadence against the RFP's performance exhibit."

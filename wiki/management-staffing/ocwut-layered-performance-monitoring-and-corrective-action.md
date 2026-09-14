@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:04.how-we-ll-track-measure-and-report-performance
-section-order: 1
+section-order: 6
+section-path: Section 1 | Technical Approach › Management Plan › 6 NEIGHBOR & COMMUNITY CARE › STRUCTURED REPORTING AGAINST SCHEDULE 5 METRICS › How We’ll Track, Measure, and Report Performance
+doc-order: 28
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Answers the two questions evaluators actually score in a management plan — how do you know performance slipped, and what happens next — with three named oversight layers and a numbered escalation ending in an exception report to the client. The 24-hour root-cause commitment and the independent-verification step are what make it more than a process diagram.
 reuse-notes: Confirm the reference dashboard deployments named here are still current and approved for citation. Adjust the root-cause clock and the escalation roles to the pursuit's contract; where the client has no exception-report mechanism, offer one as an above-and-beyond commitment.

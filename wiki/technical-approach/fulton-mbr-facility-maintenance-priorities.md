@@ -24,7 +24,9 @@ extracted: 2026-09-07
 last-verified: 2026-09-07
 superseded-by: wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md
 section-id: fulton-county-2025:12.key-focus-areas-for-asset-management-and-maintenance
-section-order: 1
+section-order: 34
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ASSET MANAGEMENT AND MAINTENANCE › Key Focus Areas for Asset Management and Maintenance
+doc-order: 71
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for three membrane-treatment facilities."
 quality: "Near-verbatim facility-specific MBR maintenance priorities, generalized for reusable narrative use."
 reuse-notes: "Tailor the facility descriptors, membrane vendor and equipment findings to the pursuit. [FACILITY A] is the larger Kubota MBR facility; [FACILITY B] and [FACILITY C] are Xenon membrane facilities. Retain JC Solutions as the Jacobs/CERM JV."

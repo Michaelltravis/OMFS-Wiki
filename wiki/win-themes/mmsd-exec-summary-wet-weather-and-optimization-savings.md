@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:02.optimization-that-delivers-value-for-mmsd-s-budget
-section-order: 1
+section-order: 9
+section-path: I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Optimization that Delivers Value for MMSD’s Budget
+doc-order: 9
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'The savings paragraph is the sharpest proof point in the executive summary: 20–30% reductions in power and chemical use already identified and already reflected in the price, backed by named client evidence — 15–40% chemical reduction at West Basin, CA (the largest reuse facility in North America, taken over from the same incumbent operator) and 23% at Wilmington, DE. Savings that are priced in, not promised, are hard for a competitor to answer.'
 reuse-notes: The West Basin and Wilmington figures are real, named client outcomes and must keep their client names; verify each against the proof-point registry and confirm the as-of date before reuse. The "directly reflected in our price" claim can only be made where the cost model actually books the savings.

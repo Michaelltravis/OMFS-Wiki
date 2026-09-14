@@ -26,6 +26,8 @@ last-verified: 2026-09-05
 superseded-by: wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md
 section-id: hull-wwtf-om-2026:15
 section-order: 2
+section-path: Section 7 - Appendix D - Innovation Workshop Agenda and Examples
+doc-order: 83
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Turns the innovation-workshop concept from a promise into a demonstrated practice by showing two real prior agendas — strong proof-of-execution to pair with the concept description
 reuse-notes: This block is a recipe — it describes how the appendix is assembled, not the appendix prose. Use it alongside the prose block named in pairs-with. Only include real prior agendas when they exist and are shareable; otherwise present the proposed first-workshop agenda alone.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:06.on-call-and-emergency-maintenance-response
-section-order: 1
+section-order: 16
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › On-Call and Emergency Maintenance Response
+doc-order: 102
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: States the on-call rotation concretely by craft, by facility group, and by week, then answers a specific contractual return-to-service requirement with a named three-layer response model — on-site spares, on-call staff, regional specialists.
 reuse-notes: Rebuild the rotation to match the target portfolio's facility grouping and craft mix, and re-cite the return-to-service requirement against the target contract. The three-layer response construct and the "facility-familiar personnel drawn from the existing dedicated teams" commitment transfer to any multi-facility O&M pursuit.

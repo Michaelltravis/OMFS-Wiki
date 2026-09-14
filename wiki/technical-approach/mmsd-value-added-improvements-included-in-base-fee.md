@@ -24,7 +24,9 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 superseded-by: wiki/technical-approach/swip-innovation-value-added-offerings-overview.md
 section-id: mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par
-section-order: 1
+section-order: 4
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee
+doc-order: 199
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The setup paragraphs for the value-added innovations exhibit — they explain the two-column "value of investment / value of savings" construction, commit to completing the investments in the first 24 months, and make the argument that embedding consulting-grade services in the base fee is worth millions. This is the framing that makes a value-add table persuasive instead of a list.
 reuse-notes: The "10-Year Value" columns assume a 10-year term — restate the term to match the contract being bid. Confirm with the pricing lead that every listed item is genuinely inside the fee before repeating the no-additional-cost commitment, and confirm the 24-month completion target is achievable for the pursuit's item list.

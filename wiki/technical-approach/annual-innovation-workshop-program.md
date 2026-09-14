@@ -25,7 +25,9 @@ last-verified: 2026-09-05
 superseded-by: [wiki/technical-approach/swip-annual-innovation-workshop.md, wiki/technical-approach/mmsd-annual-innovation-workshop.md]
 supersedes: wiki/technical-approach/fulton-annual-innovation-workshop.md
 section-id: hull-wwtf-om-2026:05.annual-innovation-workshops-drive-continuous-improvement-and
-section-order: 1
+section-order: 4
+section-path: Section 5 - Project Understanding and Technical Approach › OUR O&M APPROACH BUILT ON PROVEN, TRANSPARENT SYSTEMS › TRANSPARENT COMMUNICATIONS AND REPORTING › Annual Innovation Workshops Drive Continuous Improvement and Innovation
+doc-order: 37
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Strong, low-cost differentiator — a recurring, no-cost annual forum with named SME topic areas that ties directly into the CIP and long-term planning process, backed by named prior-workshop precedents (Traverse City, MI and Wilmington, NC) and an appendix agenda.
 reuse-notes: Filter the topic list to what is genuinely relevant to the target facility (biosolids, energy, PFAS, AI, regionalization); evaluators can tell when a topic list was not customized. Keep the prior-workshop client references (Traverse City, MI; Wilmington, NC) only if those agendas are actually included as an appendix. The client testimonial requires a genuinely obtained, current quote and the quoted individual's permission before reuse.

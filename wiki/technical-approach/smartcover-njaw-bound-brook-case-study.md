@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:16.pinpointed-hotspots-leads-to-immediate-roi
-section-order: 1
+section-order: 2
+section-path: Section 7 - Appendix E - SmartCover Information › New Jersey American Water (NJAW) Bound Brook › Pinpointed Hotspots Leads to Immediate ROI
+doc-order: 85
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement — vendor case study carried as a proposal appendix to substantiate a smart-sewer value-add
 quality: The strongest proof in the SmartCover appendix — a named utility, a dated acquisition, hard before/after numbers (12 annual SSOs to 0; 16 SSOs prevented in four months; 40 units grown to 196 in under two years), and a credible time-savings mechanism (12 months faster than 18-to-24-month traditional I&I methods).
 reuse-notes: This is a SmartCover/Hazen-authored case study about New Jersey American Water, not a Jacobs project — attribute it as a technology case study, never as Jacobs past performance. Client and partner names (NJAW, Hazen and Sawyer) are reference names and stay verbatim. Confirm the vendor's permission and current numbers before reproducing in a live proposal.

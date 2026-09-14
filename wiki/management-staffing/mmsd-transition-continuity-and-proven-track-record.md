@@ -25,6 +25,8 @@ last-verified: 2026-09-05
 superseded-by: wiki/management-staffing/wastewater-om-transition-plan-mobilization.md
 section-id: mmsd-om-2028:30
 section-order: 1
+section-path: IV. Approach Summary › IV.B. Pre-term Activities
+doc-order: 208
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The opening move of a challenger transition section — it names the evaluator's real fear (service disruption and harm to incumbent staff) out loud, then answers it with four transitions from the same incumbent in a single year, named reference clients the evaluator can call, and a 200-point plan sequenced against the client's own unusually long transition window.
 reuse-notes: Substitute the operational start date, the transition duration, and the named 2025 reference transitions with the most recent set. The "we encourage you to call our clients" line only works when the reference contacts are current and permissioned. Re-point Exhibit IV-55 (prior transitions map).

@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:04.culture-driven-leadership-for-the-town-of-hull
 section-order: 1
+section-path: Section 4 - Project Staffing and Project Management Plan › CULTURE-DRIVEN LEADERSHIP FOR THE TOWN OF HULL
+doc-order: 25
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Clean articulation of a two-tier staffing model (dedicated on-site team backed by an off-site regional/technical bench) with a clear line-of-authority narrative — reusable as the framing for any org-chart section, independent of facility size.
 reuse-notes: FTE counts, role titles, and the reporting line into the client's Director of Wastewater Operations are pursuit-specific; the two-tier framing (dedicated on-site accountability + regional technical reach-back) and the benefit language are broadly reusable.

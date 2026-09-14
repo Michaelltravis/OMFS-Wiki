@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:24.2-1-collaborative-decision-making-for-safe-compliant-and-rel
 section-order: 2
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 2.1. Collaborative Decision-Making for Safe, Compliant, and Reliable Operations
+doc-order: 102
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A first-person project manager statement that does persuasive work no third-person prose can — it makes the operator/engineer integration claim personal, grounds it in a specific operating decision at the client's own facilities, and closes with a memorable line ("the biology outside the tank"). The strongest voice device in this section.
 reuse-notes: Rewrite in the actual project manager's voice — this only works if it is true of the person signing it. Substitute the operating example (when to pump down the tunnel, when to adjust ferric addition) with a decision specific to the pursuit's facilities. Keep the length short enough to sit in a sidebar with a photo.

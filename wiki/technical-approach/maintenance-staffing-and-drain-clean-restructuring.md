@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:06.maintenance-staffing-approach
-section-order: 1
+section-order: 11
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Maintenance Staffing Approach
+doc-order: 97
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Makes two defensible staffing commitments and states the client benefit of each — dedicated per-facility maintenance teams rather than crews shared across distant sites, and a labor-model change that moves drain and clean execution from mechanics to operators so mechanic wrench time goes to PM, PdM, and corrective work. The second is a genuine differentiator because the workforce was sized for it rather than merely proposed.
 reuse-notes: The dedicated-team-per-facility versus shared-specialist-pool split, and the operator-executed drain and clean restructuring, are both reusable positions. Replace the facility names, the drive-time figure, the schedule reference, and the cross-reference to the staffing section; confirm the operations workforce in the target pursuit's staffing plan actually carries the added hourly operator capacity before making the claim.

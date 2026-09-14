@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:31.1-jacobs-differentiating-strength-in-cmms-implementation
 section-order: 1
+section-path: IV. Approach Summary › IV.C. Computerized Maintenance Management System Approach › 1. JACOBS’ DIFFERENTIATING STRENGTH IN CMMS IMPLEMENTATION
+doc-order: 220
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR. The client was mid-procurement on a new NexGen CMMS with a hard go-live date."
 quality: "The cleanest statement of the 'operator plus designer plus CMMS implementer' positioning, anchored to a named platform (NexGen), a named standards set (SMRP, IAM, ISO 55000, PAS55), a hard client deadline, and a real prior implementation the firm led end to end."
 reuse-notes: "Swap the platform name (NexGen here) and the go-live date for the target pursuit. The Oklahoma City Water Utilities Trust callout is a real past-performance proof point and stays verbatim. Confirm which of the client's own prior engagements (SCADA modernization, conveyance risk assessment here) can be cited as firsthand knowledge of their digital ecosystem."

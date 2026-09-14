@@ -82,7 +82,7 @@
    "best_fraction": 0.096,
    "first_words": "|Regional ProcessSpecialists|Regional MaintenanceSpecialists|Compliance& Reporting Group|RegionalManagement| |---|---|---|---| |• Review process data,operator processcontrol logs•",
    "ref": "verbatim/santamonica-swip-om-2025/pages/p0017.md#¶9",
-   "writer_reason": "duplicate-of:wiki/qualifications/reach-back-model-and-regional-support.md"
+   "writer_reason": "duplicate-of:wiki/qualifications/reach-back-model-and-regional-support.md — that block already lists p0017.md#¶9 in its verbatim-ref and reproduces the full Exhibit 2-2 four-column table (Regional Process Specialists / Regional Maintenance Specialists / Compliance & Reporting Group / Regional Management) as GFM, sanitized, with graphic 103_008A26 cited."
   },
   {
    "page": 18,
@@ -97,7 +97,7 @@
    "best_fraction": 0.036,
    "first_words": "- Master Planning • Project Management • Planning & Strategy • Union",
    "ref": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶9",
-   "writer_reason": "duplicate-of:wiki/qualifications/full-service-firm-capabilities.md (exhibit-internal)"
+   "writer_reason": "duplicate-of:wiki/qualifications/full-service-firm-capabilities.md — that block already lists p0018.md#¶9 in its verbatim-ref; ¶9 is the interleaved picture-text of Exhibit 2-3 (ligature-damaged, e.g. \"Ef'iciency\") and its content is already reconstructed there as the five-column Consulting / Engineering / Procurement / Construction / FM/O&M capability matrix with graphic 105_008A26. Also exhibit-internal."
   },
   {
    "page": 18,
@@ -112,7 +112,7 @@
    "best_fraction": 0.0,
    "first_words": "- • Environmental Design (FEL 1,2,3) Prequali'ications Installation • Subcontract Management Management",
    "ref": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶10",
-   "writer_reason": "duplicate-of:wiki/qualifications/full-service-firm-capabilities.md (exhibit-internal)"
+   "writer_reason": "duplicate-of:wiki/qualifications/full-service-firm-capabilities.md — ¶10 is the next row-slice of the same Exhibit 2-3 picture text (continuous with ¶9 and ¶¶11-13, which were not listed); every item in it (Environmental Management, Front End Engineering Design (FEL 1,2,3), Global Sourcing & Prequalifications, Modular Fabrication & Installation, Subcontract Management, Process Safety Management, Materials & Equipment Procurement, Mechanical Piping & Electrical Construction, Soft Services) already appears in that block's matrix. Also exhibit-internal."
   },
   {
    "page": 20,
@@ -487,7 +487,7 @@
    "best_fraction": 0.0,
    "first_words": "ULTRASOUND PRECISION INFRARED LUBRICATION/ VIBRATION ANALYSIS ALIGNMENT THERMOGRAPHY OIL ANALYSIS MEASUREMENT for",
    "ref": "verbatim/santamonica-swip-om-2025/pages/p0059.md#¶10",
-   "writer_reason": "duplicate-of:wiki/technical-approach/swip-predictive-maintenance-technologies.md"
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-predictive-maintenance-technologies.md — that block already lists p0059.md#¶10 as its primary verbatim-ref and reproduces all five technology descriptions (ultrasound, precision alignment, infrared thermography, lubrication/oil analysis, vibration measurement) plus graphic asset ID 124_008A26"
   },
   {
    "page": 62,

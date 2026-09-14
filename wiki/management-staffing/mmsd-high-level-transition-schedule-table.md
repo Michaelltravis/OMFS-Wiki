@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:30.1-10-schedule-for-smooth-transition-of-operations-and-relate
-section-order: 1
+section-order: 12
+section-path: IV. Approach Summary › IV.B. Pre-term Activities › 1.10. Schedule for Smooth Transition of Operations and Related Systems
+doc-order: 219
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A nine-workstream transition Gantt with a task lead and a date range on every line, tying each activity back to the contract exhibit that requires it — the artifact that turns a transition narrative into something a client can audit month by month.
 reuse-notes: Every date, deliverable number, and contract exhibit citation is pursuit-specific and must be rebuilt from the new contract. The workstream taxonomy — contract mobilization, governance, workforce, safety/security, compliance, IT/OT, asset and inventory, deliverables, parallel operations, operational start, extended transition — is the reusable skeleton. In the original the table is rendered as a Gantt with monthly columns across 2027–2028; rebuild as a graphic, not a plain table.

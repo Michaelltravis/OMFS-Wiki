@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:01
 section-order: 3
+section-path: Section 1 - Cover Letter
+doc-order: 3
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The closing half of the winning cover letter — it names transition and workforce risk out loud (the evaluator's real fear in an incumbent-displacement pursuit), answers it with four concrete transition commitments, then closes on partnership rather than a sales pitch and carries the required addenda acknowledgment
 reuse-notes: Substitute the target client's culture/goals language and the real transition commitments the transition plan section can defend; replace the Annual Innovation Workshop with whichever recurring forum is actually offered; keep the addenda acknowledgment only when the RFP requires it in the letter

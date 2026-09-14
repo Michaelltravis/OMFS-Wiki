@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
 section-id: ocwut-16-26:05.why-odor-management-and-control-matters-to-ocwut
-section-order: 1
+section-order: 23
+section-path: Section 1 | Technical Approach › Operations Plan › ODOR CONTROL STRATEGY › Why Odor Management and Control Matters to OCWUT
+doc-order: 58
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest available opener for an odor section — reframes odor as a system-performance issue rather than an environmental nuisance, names the incumbent's reactive chemical-dependent pattern without naming the incumbent, and lands a four-verb framework (prevent, detect, respond, improve) that the rest of the section hangs on.
 reuse-notes: Site-observation findings (H2S restricting access to dewatering buildings and belt press areas) are specific to this pursuit's site visits — substitute the observed conditions from the new pursuit, or drop the sentence rather than generalize it. The four-action framework, the "odor is a system performance issue" line, and the detect/respond/improve mechanics are reusable as written.

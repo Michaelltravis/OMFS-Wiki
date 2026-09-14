@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05.our-approach-baseline-driven-energy-management
-section-order: 1
+section-order: 46
+section-path: 'Section 1 | Technical Approach › Operations Plan › ENERGY MANAGEMENT – A CORE OPERATING DISCIPLINE › Our Approach: Baseline-Driven Energy Management'
+doc-order: 81
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Ties a contractually mandated energy obligation (+5% baseline band, annual audit meeting, monthly and annual reporting) to a defensible flow-adjusted kWh/MG baseline method and names the energy SME who will drive it — the strongest multi-facility framing of energy as an operating discipline in the library.
 reuse-notes: Replace the +5% baseline band, the annual average kWh/MG basis, and the audit/reporting cadence with the pursuit's actual contract terms; confirm which party supplies electricity. Facility names (North Canadian, Deer Creek) are the pursuit client's assets — swap for the new client's plants. Confirm Dawn Lesley's availability and title before naming her.

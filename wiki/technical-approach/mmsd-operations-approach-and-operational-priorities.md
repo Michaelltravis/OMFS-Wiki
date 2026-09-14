@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for
-section-order: 9
+section-order: 13
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD
+doc-order: 100
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The section opener for a large multi-facility operations approach — states what matters to the client in one sentence, frames six operational priorities as an exhibit, and sets up the seven subsections that follow. Clean, reusable architecture for any "approach to operations" section.
 reuse-notes: Replace the six operational priorities with the priorities the RFP and capture plan actually name; replace the interconnected-system description (collection system, storage tunnel dynamics, treatment, biosolids product) with the pursuit's own system elements; renumber the exhibit references and the subsection list to match the new outline.

@@ -39,7 +39,7 @@ REQUIRED_KEYS = [
     "client-size", "geography", "rfp-section-type", "win-theme-map",
     "proof-point-ids", "status", "house-favorite", "sanitized",
     "sanitization-loss", "extracted", "last-verified", "context",
-    "quality", "reuse-notes", "section-id", "section-order",
+    "quality", "reuse-notes", "section-id", "section-path", "section-order", "doc-order",
 ]
 
 BLOCK_TYPE_ENUM = {"prose", "recipe", "table", "exhibit", "roster"}
@@ -290,9 +290,10 @@ def main():
                             if not (lo <= pos <= hi):
                                 add("section-id-span-mismatch", rel,
                                     f"first ref p{pos[0]:04d}¶{pos[1]} outside {sid} (p{lo[0]}¶{lo[1]}–p{hi[0]}¶{hi[1]}) — rerun assign_block_sections.py")
-            so = fm.get("section-order")
-            if so is not None and (not isinstance(so, int) or isinstance(so, bool) or so < 1):
-                add("section-order-invalid", rel, repr(so))
+            for key in ("section-order", "doc-order"):
+                so = fm.get(key)
+                if so is not None and (not isinstance(so, int) or isinstance(so, bool) or so < 1):
+                    add(f"{key}-invalid", rel, repr(so))
 
     # ---- report ----
     by_rule = {}

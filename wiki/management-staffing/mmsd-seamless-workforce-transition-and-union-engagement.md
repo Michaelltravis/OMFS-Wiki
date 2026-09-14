@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo
-section-order: 1
+section-order: 2
+section-path: IV. Approach Summary › IV.B. Pre-term Activities › 1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees
+doc-order: 209
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The union answer that most transition sections duck — it names the specific unions, quantifies 40 years and 11,000 transitioned union employees, and proves the engagement already happened by listing the topics union members raised. The paired map of prior transitions turns an assertion into a portfolio.
 reuse-notes: Confirm the union list and the 11,000-employee figure before reuse, and confirm that pre-award meetings with union leadership actually occurred for this pursuit — the paragraph claims a completed action, not an intention. Re-point Exhibit IV-55 and refresh the transition list.

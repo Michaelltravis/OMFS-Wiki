@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: ocwut-16-26:26.on-call-rotation-and-emergency-response-staffing
-section-order: 1
+section-order: 7
+section-path: Section 5 | Required Plans Submitted with the Proposal › Staffing and Training Plan › Staffing Approach and Facility Coverage › On-Call Rotation and Emergency Response Staffing
+doc-order: 169
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "Culture content that avoids being a slogan because every claim carries a mechanism or a number — a named Peer-to-Peer Culture Coach program with an 80% participation goal, Stop Work authority under BeyondZero, and post-transition employee satisfaction improvement at two named turnarounds (Jackson, MS and West Basin, CA). The ownership-mindset paragraph translates culture into outcomes the client can see: cleaner facilities, fewer breakdowns, faster response times."
 reuse-notes: The Jackson, MS and West Basin, CA employee-satisfaction improvement is a transition proof point — verify the current survey data before restating. The 80% Culture Coaching participation goal is a commitment; confirm it is still house policy for the year of the pursuit. The five culture pillars (valuing people, safety culture, training and certification, ownership mindset, recognition and feedback) are fully reusable.

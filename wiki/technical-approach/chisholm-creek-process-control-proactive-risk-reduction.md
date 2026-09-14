@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05.chisholm-creek-wwtp-protecting-what-s-working-reducing-what
-section-order: 1
+section-order: 7
+section-path: Section 1 | Technical Approach › Operations Plan › PROCESS CONTROL STRATEGY › Jacobs’ Process Control Strategy Tailored to Each OCWUT Facility › Chisholm Creek WWTP—Protecting What’s Working, Reducing What’s at Risk
+doc-order: 42
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Shows how to write about a plant that is already performing without either damning it or promising unnecessary change — the strategy is proactive risk reduction rather than recovery, delivered with operator-driven tools that are sustainable with existing staff. The thicker-waste-sludge argument converts a process change into a hauling-volume benefit.
 reuse-notes: "Reusable for the strong performer in any multi-plant portfolio. Pursuit-specific: the backwash return tank overflow condition, the 2,292 kWh/MG baseline, and the sludge hauling relationship to the sister plant. Keep the \"without adding unnecessary complexity\" commitment only if the staffing plan actually supports it."

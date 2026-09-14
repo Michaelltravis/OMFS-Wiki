@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: '2026-09-07'
 last-verified: '2026-09-07'
 section-id: ocwut-16-26:29.communication-and-knowledge-transfer
-section-order: 1
+section-order: 7
+section-path: Section 5 | Required Plans Submitted with the Proposal › Draft Transition Plan › Communication and Knowledge Transfer
+doc-order: 200
 context: Southcentral US water-utility-trust wastewater O&M transition to a January 1, 2027 operational start.
 quality: Near-verbatim, paste-ready treatment of the communications-to-readiness-to-baseline sequence, followed by quantified transition proof.
 reuse-notes: Tailor the contract schedules, operational-start date, capital-planning cadence, and reference-permission status. The City of Wilmington testimonial remains a past-client quotation and must not be relabeled as the pursuit client.

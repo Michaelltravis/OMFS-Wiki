@@ -24,6 +24,8 @@ extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:10
 section-order: 1
+section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance
+doc-order: 23
 context: County wastewater utility O&M pursuit supported by JC Solutions, a Jacobs/CERM joint venture.
 quality: Near-verbatim opening that connects a tailored JV operating approach to concrete near-term and long-term improvement ideas.
 reuse-notes: Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV. Tailor the client descriptor, the improvement list, and any exhibit references to the new pursuit; preserve the split between JV delivery and partner-specific capabilities.

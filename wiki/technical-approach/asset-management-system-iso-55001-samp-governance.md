@@ -24,7 +24,9 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md
 section-id: ocwut-16-26:06.asset-management-system-ams-from-framework-to-field-results
-section-order: 1
+section-order: 3
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Asset Management System (AMS) — From Framework to Field Results
+doc-order: 89
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A complete, standards-anchored AMS narrative — ISO 55001, SAMP, IAM "line of sight" model, baseline condition and criticality assessment, a standardized likelihood/consequence risk model, and monthly and quarterly governance forums — with named owners and the opening line that reframes maintenance as more than a task list.
 reuse-notes: The ISO 55001/SAMP/line-of-sight architecture and the decision-standards-embedded-in-the-CMMS commitment are universal. Replace the named personnel and their credentials, the client's asset scope, and the platform name with the target pursuit's team and systems; confirm the mobilization-window commitment for the baseline condition and criticality assessment against the target contract's transition schedule.

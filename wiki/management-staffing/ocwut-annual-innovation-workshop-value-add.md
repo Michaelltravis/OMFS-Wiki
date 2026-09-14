@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:04.jacobs-annual-innovation-workshop-drives-continuous-improvem
-section-order: 1
+section-order: 10
+section-path: Section 1 | Technical Approach › Management Plan › 6 NEIGHBOR & COMMUNITY CARE › STRUCTURED REPORTING AGAINST SCHEDULE 5 METRICS › Reporting and Communication › Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M
+doc-order: 32
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A no-cost offer backed on both sides — competitive proof (27 WEFTEC papers in 2024 against zero from major O&M competitors; more than 60 workshops in 2025) and outcome proof (a prior workshop identified more than $1M in energy savings at the Wilmington WWTP) — plus two named client quotes with phone numbers. This is the library's best example of an unpriced value-add that is actually evidenced.
 reuse-notes: "Refresh the WEFTEC counts for the current conference year before restating, and confirm the Wilmington energy-savings figure with the project team. Both client quotes carry the speaker's direct phone number — approved-for-external-use: pending, sourced from a live pursuit; confirm permission with the reference before publishing. Tailor the SME discipline list to the pursuit's actual challenges."

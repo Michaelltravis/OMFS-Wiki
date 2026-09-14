@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:10.1-1-leadership-team
-section-order: 4
+section-order: 5
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions › 1. ORGANIZATIONAL STRUCTURE › 1.1. Leadership Team
+doc-order: 20
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A key-personnel treatment that goes past credentials — three-bullet management philosophy, a first-person statement in the leader's own voice, and a named client or peer quote vouching for them. The Waterbury mayor's quote is unusually strong evidence for a challenger bid because it documents trust that expanded from one utility to a second.
 reuse-notes: Personal statements must be in the actual leader's voice and approved by them; do not recycle another person's words. The two quotes are attributed to real named third parties — confirm permission status in testimonials/inventory.md before external use, and keep speaker, title, and organization verbatim.

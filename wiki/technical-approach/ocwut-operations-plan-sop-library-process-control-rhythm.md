@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05
 section-order: 1
+section-path: Section 1 | Technical Approach › Operations Plan
+doc-order: 36
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The operating-system spine of a winning multi-plant O&M technical approach — the Operations Plan and living SOP library, the UPCP definition of targets and response actions, and the daily-to-weekly-to-annual rhythm that converts field data into decisions and client-visible reporting. Written as a direct contrast to an incumbent whose variability drives reactive performance.
 reuse-notes: Tailor the SOP scope list and the meeting cadence to the client's contract schedule references (here Schedule 3). Confirm the reporting artifacts actually committed (dashboard, monthly process scoring, annual refresh) before restating them; each is a real contract commitment. Replace the exhibit numbers with the new proposal's numbering. Pairs with the process control tools table and the phased process control strategy blocks.

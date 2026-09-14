@@ -363,7 +363,7 @@ def main():
             if b.get("status") == "fallback" and not args.include_fallback:
                 continue
             chosen.append(b)
-        chosen.sort(key=lambda b: (order_index.get(b.get("section-id"), 10**6), int(b.get("section-order") or 0), b["path"]))
+        chosen.sort(key=lambda b: (int(b.get("doc-order") or 0) or 10**6, order_index.get(b.get("section-id"), 10**6), int(b.get("section-order") or 0), b["path"]))
         lines.append(f"# {title} — blocks")
         lines.append("")
         lines.append(f"_{len(chosen)} blocks from `{slug}` in section order ({span_txt}); "
@@ -385,7 +385,8 @@ def main():
             ref = f"p{m.group(1)}¶{m.group(2)}" if m else "—"
             sec = by_id.get(b.get("section-id"), {})
             lines.append(f"## {n}. {b.get('title')}")
-            lines.append(f"`{b['path']}` · {b.get('block-type')} · {b.get('status')} · {ref} · section: {sec.get('title', b.get('section-id'))}"
+            lines.append(f"`{b['path']}` · {b.get('block-type')} · {b.get('status')} · {ref} · section-order {b.get('section-order', '—')} · "
+                         f"{b.get('section-path') or sec.get('title', b.get('section-id'))}"
                          + (f" · superseded by `{b.get('superseded-by')}`" if b.get("superseded-by") else ""))
             lines.append("")
             lines.append("\n".join(bl).strip("\n"))

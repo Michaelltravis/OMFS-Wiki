@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:26.3-6-fleet-maintenance
-section-order: 1
+section-order: 12
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.6. Fleet Maintenance
+doc-order: 175
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "One of the few fleet-maintenance passages in the library that is fully built out — asset classes covered, CMMS modules used, self-perform posture, loaner-vehicle commitment, annual assessment cadence, and garage safety."
 reuse-notes: "Replace the vehicle and equipment classes with the target RFP's fleet exhibit, swap the CMMS platform, and confirm the loaner-vehicle and towing commitments are ones the pursuit team wants to make before carrying them forward."

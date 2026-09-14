@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera
-section-order: 2
+section-order: 8
+section-path: Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 4. Comprehensive support for every aspect of wastewater operations
+doc-order: 20
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Source-prose employee-satisfaction and external-recognition evidence supporting the workforce proposition.
 reuse-notes: Validate survey values, award status, and event year before external use. The attribution to Jacobs must remain accurate in a JC Solutions JV context.

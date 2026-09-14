@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
 section-id: ocwut-16-26:05.maintenance-as-a-driver-of-odor-control
-section-order: 1
+section-order: 25
+section-path: Section 1 | Technical Approach › Operations Plan › ODOR CONTROL STRATEGY › Maintenance as a Driver of Odor Control
+doc-order: 60
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Combines a repeatable engineering method (source sampling plus air dispersion modeling) with the Waterbury, CT proof that the same method cut complaints by more than 55%, and then converts the incumbent's out-of-service scrubber inventory into a safety obligation — the sharpest incumbent-displacement passage in the section.
 reuse-notes: Scrubber counts (30 installed/3 operational; 7 installed/3 operational) and the H2S access findings are this pursuit's site-visit observations — replace with the new pursuit's observed conditions. The Waterbury figures appear in two wordings in the source ("more than 55% in the first 2 years" and "more than 55% between Year 1 and Year 2"); both are retained here as written and must not be harmonized. Confirm ferric chloride is the incumbent chemical before reusing the chemical-optimization paragraph.

@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
 section-id: ocwut-16-26:05.advanced-monitoring-and-data-driven-control
-section-order: 1
+section-order: 27
+section-path: Section 1 | Technical Approach › Operations Plan › ODOR CONTROL STRATEGY › Advanced Monitoring and Data-Driven Control
+doc-order: 62
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A priced, concrete value-add ($30K in Sulfilogger sulfide monitors and weather stations) that delivers two named operational benefits — automated proportional ferric dosing and a real-time plume-dispersion early warning — plus Blackline personal gas monitors framed as a baseline safety requirement with a man-down rescue consequence.
 reuse-notes: The $30K investment figure is this pursuit's committed value-add — re-price for the new pursuit's facility count before restating it, and confirm the Sulfilogger and Blackline product commitments with the operations lead. The early-warning architecture (sulfide monitors + weather station + AERMOD dispersion output) and the reactive-to-predictive framing are reusable as written.

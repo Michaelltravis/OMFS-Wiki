@@ -214,9 +214,11 @@ def main():
     lines.append("## By source section")
     lines.append("")
     lines.append(
-        "_Every block in its source proposal's reading order, under the section it was "
-        "drawn from (`section-id` / `section-order`, set by `work/assign_block_sections.py` "
-        "from `verbatim/<source>/sections.json`). Sections with no blocks are omitted. "
+        "_Every block in its source proposal's reading order, under the subsection it was "
+        "drawn from (`section-id`; set by `work/assign_block_sections.py` from "
+        "`verbatim/<source>/sections.json`). The number before each block is its `section-order`: "
+        "its position 1..N within the proposal's bookmarked section (e.g. Hull Section 5, MMSD IV.A.3). "
+        "Sections with no blocks are omitted. "
         "Pull a whole section with `python work/assemble_section.py <source> \"<section>\"`._"
     )
     lines.append("")
@@ -243,13 +245,14 @@ def main():
                     refs = as_list(fm.get("verbatim-ref"))
                     m = ref_re.search(str(refs[0])) if refs else None
                     ref = f"p{m.group(1)}¶{m.group(2)}" if m else DASH
-                    order = fm.get("section-order")
-                    try:
-                        order = int(order)
-                    except (TypeError, ValueError):
-                        order = 0
+                    def _int(v):
+                        try:
+                            return int(v)
+                        except (TypeError, ValueError):
+                            return 0
+                    order, dorder = _int(fm.get("section-order")), _int(fm.get("doc-order"))
                     by_sec.setdefault(str(fm["section-id"]), []).append(
-                        (order, fm.get("title") or Path(rel).stem, rel, ref, cell(fm.get("block-type")), cell(fm.get("status"))))
+                        (dorder or order, order, fm.get("title") or Path(rel).stem, rel, ref, cell(fm.get("block-type")), cell(fm.get("status"))))
             if not by_sec:
                 continue
             any_facet = True
@@ -263,7 +266,7 @@ def main():
                 a, b = sec["start"]["page"], sec["end"]["page"]
                 pages = f"p. {a}" if a == b else f"pp. {a}–{b}"
                 lines.append(f"{indent}- **{sec['title']}** (`{sec['id']}`, {pages})")
-                for order, title, rel, ref, bt, st in sorted(items, key=lambda x: (x[0], x[2])):
+                for _sort, order, title, rel, ref, bt, st in sorted(items, key=lambda x: (x[0], x[3])):
                     lines.append(f"{indent}  - {order}. [{title}]({rel}) — {ref} · {bt} · {st}")
             lines.append("")
     if not any_facet:

@@ -7,9 +7,17 @@ Usage:
 For each block under wiki/<category>/*.md, the FIRST `verbatim-ref`
 (verbatim/<slug>/pages/pNNNN.md#¶n — the template's "primary passage") is
 resolved to the deepest non-minor section in verbatim/<slug>/sections.json that
-contains that (page, ¶). `section-order` is the block's 1-based reading-order
-ordinal within that section, by (min ref page, min ref ¶, path). Fallback
-blocks are included in the ordinal (the assembler hides them by default).
+contains that (page, ¶). Four fields are set:
+
+  section-id     that deepest section's id (the precise subsection)
+  section-path   its breadcrumb of titles from the proposal section down
+  section-order  1-based reading-order ordinal of the block within its PROPOSAL
+                 SECTION — the PDF-bookmarked section that contains the subsection
+                 (e.g. Hull "Section 5", MMSD "IV.A.3. Approach to PM and CM") —
+                 by (min ref page, min ref ¶, path), so the numbers run 1..N
+  doc-order      the same ordinal across every block of the source
+
+Fallback blocks are included in the ordinals (the assembler hides them by default).
 
 Writes work/fragments/section_patches.json and applies it with
 work/patch_frontmatter.py (frontmatter only; bodies byte-checked; idempotent),
@@ -113,20 +121,37 @@ def main():
                 unassigned.append((rel, f"first ref p{first[0]:04d}¶{first[1]} is outside every section"))
                 continue
             spans = sorted({s["id"] for s in (section_for(doc, p, q) for p, q in refs) if s})
-            rows.append(dict(path=rel, slug=slug, sid=sec["id"], first=first,
-                             minpos=min(refs), spans=spans, fm=fm))
+            # breadcrumb from the proposal (outline) section down to the deepest section
+            by_id = {s["id"]: s for s in doc["sections"]}
+            chain, cur = [], sec
+            while cur:
+                chain.append(cur)
+                cur = by_id.get(cur.get("parent") or "")
+            chain.reverse()
+            path_titles = [c["title"] for c in chain]
+            outline_key = f"{slug}:{sec['outline_index']}"
+            rows.append(dict(path=rel, slug=slug, sid=sec["id"], first=first, minpos=min(refs), spans=spans, fm=fm,
+                             outline_key=outline_key, section_path=" › ".join(path_titles)))
 
-    # ordinals within each section
-    by_sec: dict[str, list] = {}
+    # ordinals: within the proposal (outline) section, and across the whole source
+    by_outline: dict[str, list] = {}
+    by_slug: dict[str, list] = {}
     for r in rows:
-        by_sec.setdefault(r["sid"], []).append(r)
-    for sid, items in by_sec.items():
+        by_outline.setdefault(r["outline_key"], []).append(r)
+        by_slug.setdefault(r["slug"], []).append(r)
+    for items in by_outline.values():
         items.sort(key=lambda r: (r["minpos"][0], r["minpos"][1], r["path"]))
         for i, r in enumerate(items, start=1):
             r["order"] = i
+    for items in by_slug.values():
+        items.sort(key=lambda r: (r["minpos"][0], r["minpos"][1], r["path"]))
+        for i, r in enumerate(items, start=1):
+            r["doc_order"] = i
 
-    patches = [{"path": r["path"], "set": {"section-id": r["sid"], "section-order": r["order"]}} for r in rows]
-    changed = sum(1 for r in rows if r["fm"].get("section-id") != r["sid"] or r["fm"].get("section-order") != r["order"])
+    patches = [{"path": r["path"], "set": {"section-id": r["sid"], "section-path": r["section_path"],
+                                           "section-order": r["order"], "doc-order": r["doc_order"]}} for r in rows]
+    changed = sum(1 for r in rows if r["fm"].get("section-id") != r["sid"] or r["fm"].get("section-order") != r["order"]
+                  or r["fm"].get("doc-order") != r["doc_order"] or r["fm"].get("section-path") != r["section_path"])
 
     frag = ROOT / "work" / "fragments"
     frag.mkdir(parents=True, exist_ok=True)

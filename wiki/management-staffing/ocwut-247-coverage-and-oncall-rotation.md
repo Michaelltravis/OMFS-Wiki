@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: ocwut-16-26:26.24-7-facility-coverage
-section-order: 1
+section-order: 6
+section-path: Section 5 | Required Plans Submitted with the Proposal › Staffing and Training Plan › Staffing Approach and Facility Coverage › 24/7 Facility Coverage
+doc-order: 168
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Answers the two coverage questions every O&M RFP asks — who is on site at 3 a.m., and who picks up the phone — with an 8-hour overlapping shift model, a named relief-rotation hierarchy for absences, and a four-tier on-call escalation ladder ending at regional/corporate. Also contains the clean way to defer detailed shift tables to the final plan without looking evasive.
 reuse-notes: Substitute the facilities that require round-the-clock staffing and confirm the shift length the client expects; some clients mandate 12-hour shifts. The deferral sentence ("too lengthy to provide in this proposal") is only usable where the RFP asks for a plan rather than the schedules themselves — check the submittal requirement first.

@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs
-section-order: 4
+section-order: 26
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs
+doc-order: 126
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The flagship digital use case — it explains why the savings exist (lab lag time drives "set it and forget it" dosing), pre-empts disbelief in the percentage, backs it with a 5-MGD-to-340+-MGD track record and a 40% result after taking over from another provider, and closes the loop with operator adoption rates.
 reuse-notes: Percentages and dollar values are outputs of a client-specific data analysis over two years of lab and SCADA records; never carry them to another pursuit. Everything explaining the mechanism, the track record range, and the adoption evidence is reusable.

@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-07
 section-id: ocwut-16-26:33.more-than-an-operator-our-innovative-approach-to-o-m
 section-order: 2
+section-path: 'Section 8 | Innovative and/or Alternative Recommendations › MORE THAN AN OPERATOR: OUR INNOVATIVE APPROACH TO O&M'
+doc-order: 223
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A rare example of an innovation that is purely contractual and still carries a hard number. It reframes an RFP term the client wrote as a source of client savings, and it explains the mechanism (contingency carried against index mismatch) rather than just asserting the benefit.
 reuse-notes: The escalation index named in the RFP and the alternative proposed must both be checked against the specific solicitation; the savings figure is pursuit-specific and must be recalculated by the pricing lead before it is restated. Confirm with the contracts lead that an alternative-index proposal is permitted before including this in a compliance-sensitive response.

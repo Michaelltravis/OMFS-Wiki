@@ -24,6 +24,8 @@ extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:09.project-understanding
 section-order: 1
+section-path: Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › PROJECT UNDERSTANDING
+doc-order: 13
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV; three MBR water-reclamation facilities and pump stations.
 quality: Facility-specific project-understanding language grounded in direct operating experience, site visits, and a three-plant asset portfolio.
 reuse-notes: Tailor every facility capacity, process description, asset list, and observation to the target system. JC Solutions is a Jacobs/CERM JV; preserve that attribution when reusing this language.

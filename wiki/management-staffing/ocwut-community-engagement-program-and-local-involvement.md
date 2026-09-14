@@ -23,7 +23,9 @@ sanitization-loss: high
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:04.community-engagement
-section-order: 1
+section-order: 13
+section-path: Section 1 | Technical Approach › Management Plan › 6 NEIGHBOR & COMMUNITY CARE › GOOD NEIGHBOR PROGRAMS › Community Engagement
+doc-order: 35
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Community engagement written as evidence rather than intention — five commitment bullets each carrying a "so that" benefit, then a hard portfolio number (3,918 volunteer hours last year; nearly 26,000 hours since 2009) and a list of named local programs the firm was already running before the pursuit, down to an employee who chairs a local beautification committee. Two named SMEs make the offer staffed rather than aspirational.
 reuse-notes: sanitization-loss is high — the persuasive force is that the named local programs, the local office, and the named chairperson are in the client's own city. Read the verbatim page for the unsanitized version and substitute the pursuit region's actual programs and people; never carry another city's program list forward. Re-verify the volunteer-hour totals with corporate before restating, and confirm the two named SMEs are committed.

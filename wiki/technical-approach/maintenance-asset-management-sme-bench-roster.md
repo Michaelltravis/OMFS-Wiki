@@ -23,7 +23,9 @@ sanitization-loss: high
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:06.asset-management-plans-amps
-section-order: 1
+section-order: 4
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Asset Management Plans (AMPs)
+doc-order: 90
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A repeatable sidebar device used three times through the maintenance section — each callout pairs a named on-site owner with the national or regional SME standing behind them, and states what the pairing gets the client (local execution plus strategic depth, implementation-to-operations continuity, on-call surge for specialized troubleshooting). Reads as a bench, not a list of names.
 reuse-notes: "approved-for-external-use: pending - sourced from a live pursuit. The one-on-site-owner-plus-one-national-SME callout pattern is universal and is the reusable asset here. Every name, credential, and relationship claim is pursuit-specific and must be re-cleared: confirm each individual is available and their role assignment before restating. The claim that the CMMS SME is a key member of the client's in-flight EAM implementation only holds where Jacobs actually holds that engagement, and generalizing the client name removes the force of the continuity argument, so read the verbatim pages before adapting."

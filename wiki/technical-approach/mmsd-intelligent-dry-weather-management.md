@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:24.intelligent-dry-weather-management
-section-order: 1
+section-order: 9
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL › Intelligent Dry Weather Management
+doc-order: 109
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The clearest AquaDNA write-up in the library — it explains the anomaly-detection use case, pairs it with a real proof exhibit from Wilmington, DE (a dry-weather CSO caught and cleared after an alert), and extends it to amp-draw-based deragging that keeps pumps online before a fault requires a crew. Also names the local modeling bench.
 reuse-notes: Scale the sensor count to the pursuit's instrumentation; the Wilmington, DE exhibit and the Mead & Hunt study reference are real past performance and stay verbatim; substitute the named local experts and the hydraulic models (WATS, PCSWMM) with those the pursuit team will actually use.

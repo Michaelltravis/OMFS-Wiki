@@ -10,10 +10,10 @@
  },
  "counts": {
   "substantive": 1000,
-  "covered": 946,
+  "covered": 951,
   "partial": 22,
-  "uncovered": 32,
-  "writer_skipped": 0,
+  "uncovered": 1,
+  "writer_skipped": 26,
   "skipped": {
    "short": 542,
    "heading": 517,
@@ -27,7 +27,7 @@
   {
    "page": 4,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 28,
    "kind": "prose",
@@ -37,12 +37,12 @@
    "best_fraction": 0.0,
    "first_words": "May 6, 2026 Tasha DeWitt, Management Specialist – Procurement Services Oklahoma City",
    "ref": "verbatim/ocwut-16-26/pages/p0004.md#¶2",
-   "writer_reason": null
+   "writer_reason": "form-boilerplate"
   },
   {
    "page": 5,
    "para": 9,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.028,
    "words": 241,
    "kind": "prose",
@@ -52,7 +52,7 @@
    "best_fraction": 0.023,
    "first_words": "2011 2019 • Phased Security & 2025 2009 Business Process Response Planning",
    "ref": "verbatim/ocwut-16-26/pages/p0005.md#¶9",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md"
   },
   {
    "page": 10,
@@ -237,7 +237,7 @@
   {
    "page": 46,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 74,
    "kind": "prose",
@@ -247,12 +247,12 @@
    "best_fraction": 0.0,
    "first_words": "WONDERWARE/AVEVA SOFTWARE PLC PROGRAMMING & CODING FIREWALLS & ACCESS CONTROLS FIELD INSTRUMENTATION,",
    "ref": "verbatim/ocwut-16-26/pages/p0046.md#¶8",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 50,
    "para": 9,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.14,
    "words": 53,
    "kind": "prose",
@@ -262,7 +262,7 @@
    "best_fraction": 0.14,
    "first_words": "We’ll prioritize JACOBS EMERGENCY REPORTING HOTLINE the safety of staff and the",
    "ref": "verbatim/ocwut-16-26/pages/p0050.md#¶9",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md"
   },
   {
    "page": 53,
@@ -297,7 +297,7 @@
   {
    "page": 59,
    "para": 19,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.13,
    "words": 30,
    "kind": "prose",
@@ -307,12 +307,12 @@
    "best_fraction": 0.13,
    "first_words": "- Provides approach to managing  Outlines long-term plan for the assets",
    "ref": "verbatim/ocwut-16-26/pages/p0059.md#¶19",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 73,
    "para": 5,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.172,
    "words": 129,
    "kind": "prose",
@@ -322,12 +322,12 @@
    "best_fraction": 0.172,
    "first_words": "More than 98% of our Technical Facilities, Cybersecurity work is repeat business.",
    "ref": "verbatim/ocwut-16-26/pages/p0073.md#¶5",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/qualifications/corporate-fact-box-and-employer-culture.md"
   },
   {
    "page": 80,
    "para": 10,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.039,
    "words": 157,
    "kind": "table",
@@ -337,12 +337,12 @@
    "best_fraction": 0.035,
    "first_words": "|Our team has extensiveexperience maintaining complexwastewater and potable wateri k lik h|Treatment",
    "ref": "verbatim/ocwut-16-26/pages/p0080.md#¶10",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/qualifications/pump-station-om-experience-and-portfolio-table.md"
   },
   {
    "page": 80,
    "para": 16,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 27,
    "kind": "prose",
@@ -352,12 +352,12 @@
    "best_fraction": 0.0,
    "first_words": "6+ YEARS 0 Kansas Water Environment DEFICIENCIES Association Without a Recordable Deficiencies",
    "ref": "verbatim/ocwut-16-26/pages/p0080.md#¶16",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/qualifications/contract-compliance-record-and-audit-program.md"
   },
   {
    "page": 81,
    "para": 7,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.087,
    "words": 28,
    "kind": "prose",
@@ -367,12 +367,12 @@
    "best_fraction": 0.087,
    "first_words": "Independent oversight between Your single point of accountability. OCWUT and the PM,",
    "ref": "verbatim/ocwut-16-26/pages/p0081.md#¶7",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md"
   },
   {
    "page": 81,
    "para": 9,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 153,
    "kind": "prose",
@@ -382,7 +382,7 @@
    "best_fraction": 0.0,
    "first_words": "KEVIN DAHL, RICK WARNER, LUKE LENARD, RYAN JACOB CMRT, CRL PE, WEF",
    "ref": "verbatim/ocwut-16-26/pages/p0081.md#¶9",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md"
   },
   {
    "page": 87,
@@ -402,7 +402,7 @@
   {
    "page": 88,
    "para": 11,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.092,
    "words": 69,
    "kind": "prose",
@@ -412,12 +412,12 @@
    "best_fraction": 0.092,
    "first_words": "ASSET MANAGEMENT/CMMS INTELLIGENT O&M Graham Knowles John Rickermann, PE, CMRT REGIONAL MAINTENANCE",
    "ref": "verbatim/ocwut-16-26/pages/p0088.md#¶11",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-offsite-sme-support-resources.md"
   },
   {
    "page": 88,
    "para": 12,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.037,
    "words": 79,
    "kind": "prose",
@@ -427,7 +427,7 @@
    "best_fraction": 0.037,
    "first_words": "CMMS/NEXGEN COMMISSIONING Janeane Giarrusso, IA M Ashley Currey, PE BIOSOLIDS CAPITAL PROJECTS",
    "ref": "verbatim/ocwut-16-26/pages/p0088.md#¶12",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-offsite-sme-support-resources.md"
   },
   {
    "page": 105,
@@ -462,7 +462,7 @@
   {
    "page": 130,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.171,
    "words": 283,
    "kind": "prose",
@@ -472,7 +472,7 @@
    "best_fraction": 0.157,
    "first_words": "LEAD OPERATOR 1 FTE EQUIPMENT OPERATORS 2 FTE CDL DRIVERS 8 FTE",
    "ref": "verbatim/ocwut-16-26/pages/p0130.md#¶1",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-organization-chart-and-reporting-structure.md"
   },
   {
    "page": 131,
@@ -507,7 +507,7 @@
   {
    "page": 133,
    "para": 20,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 27,
    "kind": "prose",
@@ -517,12 +517,12 @@
    "best_fraction": 0.0,
    "first_words": "- Internal mobility including offering open positions first to qualified Jacobs O&M",
    "ref": "verbatim/ocwut-16-26/pages/p0133.md#¶20",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-vacancy-management-retention-and-staffing-resiliency.md"
   },
   {
    "page": 134,
    "para": 22,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.048,
    "words": 27,
    "kind": "prose",
@@ -532,12 +532,12 @@
    "best_fraction": 0.048,
    "first_words": "- Facility familiarizationacross North Canadian, Deer Creek, Chisholm Creek, and South Canadian",
    "ref": "verbatim/ocwut-16-26/pages/p0134.md#¶22",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-individualized-training-program-and-cross-training.md"
   },
   {
    "page": 135,
    "para": 10,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.18,
    "words": 56,
    "kind": "prose",
@@ -547,12 +547,12 @@
    "best_fraction": 0.18,
    "first_words": "- Covering the cost of training, preparation, and exam fees - Potential",
    "ref": "verbatim/ocwut-16-26/pages/p0135.md#¶10",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md"
   },
   {
    "page": 135,
    "para": 17,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.157,
    "words": 88,
    "kind": "prose",
@@ -562,7 +562,7 @@
    "best_fraction": 0.157,
    "first_words": "- Regional operations support able to deploy on short notice for temporary",
    "ref": "verbatim/ocwut-16-26/pages/p0135.md#¶17",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md"
   },
   {
    "page": 143,
@@ -612,7 +612,7 @@
   {
    "page": 148,
    "para": 3,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 33,
    "kind": "prose",
@@ -622,12 +622,12 @@
    "best_fraction": 0.0,
    "first_words": "That approach has measurable results. As shown in Exhibit 5-14 , employees",
    "ref": "verbatim/ocwut-16-26/pages/p0148.md#¶3",
-   "writer_reason": null
+   "writer_reason": "continuation-of:wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md"
   },
   {
    "page": 151,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.153,
    "words": 139,
    "kind": "table",
@@ -637,12 +637,12 @@
    "best_fraction": 0.153,
    "first_words": "|Proposed Oklahoma City|TASK|START|COMPLETION|AUG 2026|SEP 2026|OCT 2026|NOV 2026|DEC 2026|JAN 2027|FEB 2027| |---|---|---|---|---|---|---|---|---|---|---| |Transition",
    "ref": "verbatim/ocwut-16-26/pages/p0151.md#¶8",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md"
   },
   {
    "page": 153,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.186,
    "words": 175,
    "kind": "table",
@@ -652,12 +652,12 @@
    "best_fraction": 0.18,
    "first_words": "|Proposed Oklahoma CityTransition Work Plan|TASKLEAD|STARTDATE|COMPLETIONDATE|AUG 20261234|SEP 20261234|OCT 2026NOV 2026DEC 2026123412341234|JAN 20271234|FEB 20271234|",
    "ref": "verbatim/ocwut-16-26/pages/p0153.md#¶1",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md"
   },
   {
    "page": 154,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.13,
    "words": 181,
    "kind": "table",
@@ -667,12 +667,12 @@
    "best_fraction": 0.13,
    "first_words": "|Proposed Oklahoma CityTransition Work Plan|TASKLEAD|STARTDATE|COMPLETIONDATE|AUG 2026SEP 2026OCT 2026123412341234|NOV 20261234|DEC 20261234|JAN 20271234|FEB 20271234|",
    "ref": "verbatim/ocwut-16-26/pages/p0154.md#¶1",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md"
   },
   {
    "page": 155,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 93,
    "kind": "table",
@@ -682,87 +682,12 @@
    "best_fraction": 0.0,
    "first_words": "|Proposed Oklahoma City|TASK|START|COMPLETION|AUG 2026|SEP 2026|OCT 2026NOV 2026|DEC 2026JAN 2027|FEB 2027| |---|---|---|---|---|---|---|---|---| |������������������������������������������������������������������and",
    "ref": "verbatim/ocwut-16-26/pages/p0155.md#¶1",
-   "writer_reason": null
-  },
-  {
-   "page": 160,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 61,
-   "kind": "prose",
-   "section_id": "ocwut-16-26:31",
-   "section_title": "Section 6 | Disclosures",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "In accordance with RFP Section 4.2.6 and the issued Questions and Answers,",
-   "ref": "verbatim/ocwut-16-26/pages/p0160.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 160,
-   "para": 5,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 359,
-   "kind": "table",
-   "section_id": "ocwut-16-26:31.enforcements",
-   "section_title": "ENFORCEMENTS",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "|Stephenville|TX|4/24/2024 Notice of Enforcement|TCEQ Cites NH3 violations from March-May 2022, other limits",
-   "ref": "verbatim/ocwut-16-26/pages/p0160.md#¶5",
-   "writer_reason": null
-  },
-  {
-   "page": 161,
-   "para": 1,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 174,
-   "kind": "table",
-   "section_id": "ocwut-16-26:31.enforcements",
-   "section_title": "ENFORCEMENTS",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "|Hood River|OR9/25/2025 Notice of Civil PenaltyAssessment and Order|Effluent violations and monitoring requirements.|Resolved|",
-   "ref": "verbatim/ocwut-16-26/pages/p0161.md#¶1",
-   "writer_reason": null
-  },
-  {
-   "page": 161,
-   "para": 4,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 444,
-   "kind": "table",
-   "section_id": "ocwut-16-26:31.at-fault-violation-events",
-   "section_title": "AT-FAULT VIOLATION EVENTS",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "|Clovis Project|8/23/2024|Permit limit excursion. Parameter pH. Limit type daily. Permitlimit 6.5 su,",
-   "ref": "verbatim/ocwut-16-26/pages/p0161.md#¶4",
-   "writer_reason": null
-  },
-  {
-   "page": 162,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 699,
-   "kind": "table",
-   "section_id": "ocwut-16-26:31.at-fault-violation-events",
-   "section_title": "AT-FAULT VIOLATION EVENTS",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "|Walla WallaProject|10/25/2024|Disinfection excursion.|Sodium Hypochlorite feed tote was let run to empty.inadequate checks",
-   "ref": "verbatim/ocwut-16-26/pages/p0162.md#¶2",
-   "writer_reason": null
+   "writer_reason": "continuation-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md"
   },
   {
    "page": 165,
    "para": 21,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.158,
    "words": 82,
    "kind": "prose",
@@ -772,7 +697,7 @@
    "best_fraction": 0.116,
    "first_words": "2.8 MGD (ultimate design: 5.0 MGD); 18 lift stations ###### OWNER INFORMATION",
    "ref": "verbatim/ocwut-16-26/pages/p0165.md#¶21",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/past-performance/project-bixby-wrf-lift-stations-om.md"
   },
   {
    "page": 167,
@@ -792,7 +717,7 @@
   {
    "page": 179,
    "para": 12,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 50,
    "kind": "table",
@@ -802,12 +727,12 @@
    "best_fraction": 0.0,
    "first_words": "|EXAMPLESWORK DESCRIPTION|MULTIPLIER|AVERAGERAW RATE|BILLABLERATE|PROJECTEDWORK HOURS|PROJECTEDBUDGET|%SAVINGS|$SAVED| |---|---|---|---|---|---|---|---| |CIP Desin|2.6|$65.00|$169.00|2750|$464,750.00|13%|$71,500.00| |g|3|$65.00|$195.00|2750|$536,250.00||| |Wastewater Studies, AM Data",
    "ref": "verbatim/ocwut-16-26/pages/p0179.md#¶12",
-   "writer_reason": null
+   "writer_reason": "commercial — Exhibit 8-1 is a fee/rate table (multiplier, average raw rate, billable rate, projected budget per work category). CLAUDE.md sanitization rule 2 removes commercial pricing (fee tables, rates) from the wiki, so the table cannot be carried into a reusable block. The existing block wiki/win-themes/discounted-engineering-savings-example-table.md already records this exclusion for the same verbatim-ref (p0179 ¶10, ¶12)."
   },
   {
    "page": 182,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 35,
    "kind": "prose",
@@ -817,12 +742,12 @@
    "best_fraction": 0.0,
    "first_words": "The following provisions are required and apply when public funds are expended",
    "ref": "verbatim/ocwut-16-26/pages/p0182.md#¶2",
-   "writer_reason": null
+   "writer_reason": "form-boilerplate"
   },
   {
    "page": 183,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 36,
    "kind": "prose",
@@ -832,7 +757,7 @@
    "best_fraction": 0.0,
    "first_words": "Note: An authorized officer or agent of the Services Provider must sign",
    "ref": "verbatim/ocwut-16-26/pages/p0183.md#¶2",
-   "writer_reason": null
+   "writer_reason": "form-boilerplate"
   }
  ]
 }

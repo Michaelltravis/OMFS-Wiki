@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:16.3-zero-tolerance-for-harassment-discrimination-or-bullying
-section-order: 1
+section-order: 4
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 3. ZERO TOLERANCE FOR HARASSMENT, DISCRIMINATION, OR BULLYING
+doc-order: 45
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers the harassment/discrimination policy question the way an evaluator wants it answered — policy, training cadence, an anonymous third-party reporting channel, and trained responders — then pivots straight into the feedback mechanism that turns complaints into change, closing with an explicit client benefit statement.
 reuse-notes: The ethics hotline and Code of Conduct are corporate and reusable verbatim. Tailor the benefit sentence to the pursuit client's stated workforce priorities, and check whether the RFP requires the policy itself as an attachment rather than a narrative summary.

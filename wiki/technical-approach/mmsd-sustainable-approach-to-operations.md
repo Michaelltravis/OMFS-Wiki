@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:29
 section-order: 1
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.7. Sustainable Approach to Operations
+doc-order: 206
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Makes sustainability measurable instead of aspirational by naming the actual KPIs — energy and chemical use per million gallons treated, energy and chemical use per ton of solids processed, MMBtu per ton of biosolids product, natural gas MMBtu per ton of product, GHG intensity, and renewable energy contribution. Carries a 15–25 percent power-reduction proof point from comparable large utilities.
 reuse-notes: Swap the KPI set to match the pursuit's processes (a plant without thermal drying will not have MMBtu per ton of product). Replace the client's strategic plan name. Confirm the 15–25 percent power-reduction band against the registry entry and the spec sheet's locked value before restating it.

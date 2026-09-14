@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.site-housekeeping-and-facility-appearance
-section-order: 1
+section-order: 36
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › JCEC › Site Housekeeping and Facility Appearance
+doc-order: 73
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for a multi-facility MBR portfolio."
 quality: "Near-verbatim connection between site housekeeping, CMMS scheduling, and MBR maintenance experience."
 reuse-notes: "Tailor site-visit observations and the reference project to the current pursuit. Retain JC Solutions as the Jacobs/CERM JV."

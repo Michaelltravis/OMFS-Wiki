@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:28
 section-order: 1
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation
+doc-order: 196
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Opens the continuous-improvement section by giving five named reasons a joint innovation model beats a vendor-delivered one, and ties innovation directly to the client's published long-range vision. Reusable wherever an RFP asks how the operator will keep improving over a long contract term.
 reuse-notes: Replace [CLIENT] and the named strategic plan ("2035 Vision") with the pursuit client's own long-range plan title and its stated pillars. Swap the evolving-challenge list (PFAS, climate, aging infrastructure, workforce transition) for the challenges named in the RFP. The Wilmington reference is a real Jacobs operating contract used as research proof and stays verbatim.

@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:04.key-staff-and-management-team
-section-order: 1
+section-order: 2
+section-path: Section 4 - Project Staffing and Project Management Plan › CULTURE-DRIVEN LEADERSHIP FOR THE TOWN OF HULL › KEY STAFF AND MANAGEMENT TEAM
+doc-order: 26
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Well-differentiated role narratives that separate day-to-day site accountability from regional oversight and transition leadership, each carrying real names, years of experience, licenses, and named relevant-experience projects — credible, paste-ready key-staff copy.
 reuse-notes: Confirm each named individual's current employment, assignment availability, and license currency before proposing them on a new pursuit. Trim roles that do not exist in a smaller or larger pursuit's proposed structure.

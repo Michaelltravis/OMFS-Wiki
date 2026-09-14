@@ -1,0 +1,42 @@
+[
+  {
+    "claim": "The enforcement and at-fault violation disclosure covers violations across more than 300 facilities operated by Jacobs",
+    "number": "300",
+    "unit": "facilities operated",
+    "as_of": "2026",
+    "page": 160,
+    "para": 2,
+    "block": "wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md",
+    "category": "qualifications"
+  },
+  {
+    "claim": "Enforcements and at-fault violation events disclosed cover the past 2 years where Jacobs or the client held the permit",
+    "number": "2",
+    "unit": "years lookback",
+    "as_of": "2026",
+    "page": 160,
+    "para": 2,
+    "block": "wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md",
+    "category": "qualifications"
+  },
+  {
+    "claim": "Enforcement log discloses 34 enforcement actions across the 2-year lookback period",
+    "number": "34",
+    "unit": "enforcement actions",
+    "as_of": "2026-04-15",
+    "page": 160,
+    "para": 5,
+    "block": "wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md",
+    "category": "qualifications"
+  },
+  {
+    "claim": "At-fault violation events log discloses 30 at-fault events, each with root cause and corrective action",
+    "number": "30",
+    "unit": "at-fault violation events",
+    "as_of": "2026-02-02",
+    "page": 161,
+    "para": 4,
+    "block": "wiki/qualifications/ocwut-at-fault-violation-events-log-part-1.md",
+    "category": "qualifications"
+  }
+]

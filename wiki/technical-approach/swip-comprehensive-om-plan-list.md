@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:08.strategic-o-m-plans-built-on-best-practices-and-innovation
-section-order: 1
+section-order: 4
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION'
+doc-order: 32
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A comprehensive, evaluator-friendly checklist of ~30 named O&M plan/program documents that make an abstract "we have a plan" claim concrete and auditable; paired with named leadership accountable for developing and refining the plans.
 reuse-notes: The 30-plan roster is broadly reusable for any water/wastewater O&M pursuit; confirm it against the target RFP's specifically required plan types (add/remove as needed) and update the named leadership team to the actual proposed staff for the new pursuit.

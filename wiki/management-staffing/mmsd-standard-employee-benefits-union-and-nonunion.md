@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:11.5-1-union-employees-providing-affordable-benefits-respect-fo
-section-order: 1
+section-order: 11
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 5. STANDARD EMPLOYEE BENEFITS › 5.1. Union Employees—Providing Affordable Benefits, Respect for the Agreement, Clear Communications Commitment
+doc-order: 31
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Rare, fully worked benefits narrative for a unionized O&M workforce — names the CBA elements to be honored, states the 80% premium subsidy as a hard commitment, and closes with a benefits-to-client statement tying benefits to retention and readiness.
 reuse-notes: Confirm the CBA benefit list and the employer premium share against current Jacobs HR policy and the specific bargaining agreements in force at the pursuit facility before reuse. The non-union package list is standard and travels unchanged.

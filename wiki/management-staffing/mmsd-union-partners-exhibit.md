@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:11.4-3-succession-planning-a-structured-visible-path-to-advance
-section-order: 1
+section-order: 10
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 4. LONG-TERM RETENTION AND SUCCESSION PLANNING › 4.3. Succession Planning—A Structured, Visible Path to Advancement
+doc-order: 30
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The single quantified proof behind every union-relations claim in the section — eight O&M facilities where Jacobs currently manages unionized workforces, with the states and the union names listed. Cheap to place, hard for a competitor to match.
 reuse-notes: Re-count the facilities and refresh the state and union lists at extraction time; this is a live number that moves with the portfolio. Graphic asset ID 247_007CAM_2 is client-branded and needs re-lettering. The source page renders the locations and unions as two adjacent lists without pairing them — do not assert which union is at which location without checking the project records.

@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05.process-control-system-phased-performance-improvement-plan
-section-order: 2
+section-order: 32
+section-path: Section 1 | Technical Approach › Operations Plan › SCADA/OPERATIONAL TECHNOLOGY (OT)/ CYBERSECURITY › Process Control System Phased Performance Improvement Plan
+doc-order: 67
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A compact three-role OT support roster — field I&C lead plus two named SMEs — that demonstrates depth without adding FTEs and ties one SME directly to the client's existing SCADA architecture.
 reuse-notes: Names, certifications, and the "since 2024" tenure are specific to this pursuit and must be replaced with the actual proposed personnel; the role architecture (on-site I&C field presence, a regional O&M OT/cybersecurity SME, and an on-call SCADA/OT engineering SME) is the reusable device. Graphic 159_009385 is the accompanying team callout panel and is client-specific.

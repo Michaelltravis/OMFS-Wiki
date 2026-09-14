@@ -6,12 +6,12 @@ Sources: fulton-county-2025, hull-wwtf-om-2026, mmsd-om-2028, ocwut-16-26, santa
 
 | Metric | Count |
 | --- | ---: |
-| Raw claims swept | 3391 |
-| Proof-point IDs | 3074 |
+| Raw claims swept | 3395 |
+| Proof-point IDs | 3078 |
 | Conflicts to resolve | 84 |
 | Consistent (multi-observation) | 122 |
-| Single-source | 2868 |
-| Distinct blocks referenced | 606 |
+| Single-source | 2872 |
+| Distinct blocks referenced | 608 |
 
 `owner` is unassigned and `approved_for_external_use` is `pending` for every ID; both are for the proposal team to fill in.
 
@@ -21998,3 +21998,31 @@ Also conflicts with: PP-0827
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
 | 5 minutes (condition assessment video) | 2025-09 | santamonica-swip-om-2025 | p59 ¶3 | `wiki/technical-approach/swip-condition-assessment-risk-scoring.md` |
+
+### PP-3076 — The enforcement and at-fault violation disclosure covers violations across more than 300 facilities operated by Jacobs
+*status:* single-source · *category:* qualifications
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 300 facilities operated | 2026 | ocwut-16-26 | p160 ¶2 | `wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md` |
+
+### PP-3077 — Enforcements and at-fault violation events disclosed cover the past 2 years where Jacobs or the client held the permit
+*status:* single-source · *category:* qualifications
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2 years lookback | 2026 | ocwut-16-26 | p160 ¶2 | `wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md` |
+
+### PP-3078 — Enforcement log discloses 34 enforcement actions across the 2-year lookback period
+*status:* single-source · *category:* qualifications
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 34 enforcement actions | 2026-04-15 | ocwut-16-26 | p160 ¶5 | `wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md` |
+
+### PP-3079 — At-fault violation events log discloses 30 at-fault events, each with root cause and corrective action
+*status:* single-source · *category:* qualifications
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 30 at-fault violation events | 2026-02-02 | ocwut-16-26 | p161 ¶4 | `wiki/qualifications/ocwut-at-fault-violation-events-log-part-1.md` |

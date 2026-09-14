@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.training-plan
-section-order: 1
+section-order: 6
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › TRAINING PLAN
+doc-order: 43
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim plan linking high-technology training, individualized learning, certification, cross-training, and succession planning."
 reuse-notes: "Confirm training hours, value-add investment, certification incentives, platforms, and course availability before reuse."

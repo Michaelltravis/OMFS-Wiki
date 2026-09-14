@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:16.1-building-our-one-water-one-team-one-vision-culture
 section-order: 2
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 1. BUILDING OUR ONE WATER, ONE TEAM, ONE VISION CULTURE
+doc-order: 43
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The single most transferable device in this section — a three-column crosswalk that maps the client's own published values to Jacobs' values and then, critically, to a concrete service action. The third column stops it from being a poster and makes it an answer.
 reuse-notes: Column 1 must be replaced with the pursuit client's actual published values, taken verbatim from their strategic plan or website. Jacobs' values in column 2 are fixed. Column 3 is rewritten per pursuit so each action is something the proposed team will visibly do. Graphic asset ID 345_007CAM_1 is client-specific and must be re-set.

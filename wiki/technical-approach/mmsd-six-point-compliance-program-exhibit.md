@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance
-section-order: 1
+section-order: 32
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance
+doc-order: 159
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: Carries the strongest single line in the compliance section — "99.98% compliance is the result of a disciplined system, not a statistic" — and then earns it by naming the six components of that system with supporting numbers (30,000 training hours in three years, 20+ dedicated O&M compliance and reporting SMEs).
 reuse-notes: The headline sentence is the reusable asset; keep it in identical words wherever the 99.98% figure appears so the win theme recurs. Verify 99.98%, the 30,000 training hours, and the 20+ SME count against the registry before each use. Replace the state regulator name with the pursuit's. Exhibit asset ID 206_007CAM_5.

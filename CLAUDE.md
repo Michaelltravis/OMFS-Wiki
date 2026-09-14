@@ -84,8 +84,10 @@ One modular, reusable block per file. Frontmatter fields (schema v2 — all requ
 | `source-section` | Section title in the original PDF |
 | `source-pages` | List of PDF page numbers the block was drawn from |
 | `verbatim-ref` | Back-pointer(s) into `verbatim/<slug>/pages/pNNNN.md#¶n` for the primary passage |
-| `section-id` | The section in `verbatim/<slug>/sections.json` that contains the first `verbatim-ref` — set by `work/assign_block_sections.py`, never hand-edited |
-| `section-order` | 1-based reading-order ordinal of the block within its `section-id` — set by the same script |
+| `section-id` | The deepest subsection in `verbatim/<slug>/sections.json` that contains the first `verbatim-ref` — set by `work/assign_block_sections.py`, never hand-edited |
+| `section-path` | Breadcrumb of titles from the proposal section down to `section-id` (e.g. `Section 5 - … › OPERATIONAL APPROACH › ASSET MANAGEMENT/MAINTENANCE › CMMS-Driven Asset Visibility`) — same script |
+| `section-order` | 1..N reading-order position of the block within its proposal (PDF-bookmarked) section — Hull "Section 5", MMSD "IV.A.3." — same script |
+| `doc-order` | 1..N reading-order position across every block of the source — same script; sort any subset of a source's blocks by this |
 | `pursuit-type` | `wwtp-om` · `collections` · `stormwater` · `reuse-dpr` · `water-treatment` · `solids` · `multi-facility` · `mbr-membrane` · `jv-delivery` (list) |
 | `client-type` | `municipal` · `county` · `authority` · `trust` · `private` |
 | `geography` values in use | `Northeast / MA / MassDEP` · `West / CA / SWRCB-DDW` · `Southcentral / OK / ODEQ` · `Southeast / GA / GA EPD` |

@@ -24,7 +24,9 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md
 section-id: hull-wwtf-om-2026:05.transition-plan
-section-order: 1
+section-order: 26
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › TRANSITION PLAN
+doc-order: 59
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: complete transition lifecycle in winning prose — governance, due diligence, phased milestones, workforce continuity — carrying two named client testimonials and measured post-transition satisfaction gains
 reuse-notes: regenerate the phase timeline (Days 1-30 / 31-120) and milestone dates against the new contract's commencement date; confirm the West Basin and JXN Water reference quotes are still permissioned before external use; replace named transition leadership with the pursuit's assigned personnel

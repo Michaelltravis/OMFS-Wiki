@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:02
 section-order: 4
+section-path: I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary
+doc-order: 4
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Names the two top leaders in the first sentence and then justifies the org design rather than just asserting it — the Deputy Project Manager role is explicitly elevated so that regional partnership and public outreach get dedicated leadership attention, which frees the Project Manager to stay on daily O&M performance. The paragraph also discloses that the team has already engaged client staff, stakeholders, and union leadership.
 reuse-notes: Replace all names and the leadership roster with the pursuit's own key personnel and verify each against the proposed-team roster in wiki/resumes/. The "Above and Beyond role is a key differentiator" argument only works where the RFP does not already require that role — check before reusing it as a differentiator.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:32.4-1-proposed-pdm-technologies-for-mmsd-s-treatment-facilitie
-section-order: 1
+section-order: 3
+section-path: IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 4. JACOBS’ RECOMMENDED LEVEL 3 PdM PLAN › 4.1. Proposed PdM Technologies for MMSD’s Treatment Facilities
+doc-order: 226
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR. Advanced PdM was bid as an additive scope priced separately from base O&M."
 quality: "Four named condition-monitoring technologies explained at the level an evaluator can judge — what each one measures, which failure modes it catches, and how each feeds the CMMS to produce a work order. This is the technology-explanation pattern that avoids brochure language."
 reuse-notes: "Confirm which platforms are currently offered and contracted (VibeCloud, Augury, Artesis here) before reuse, and re-map which technologies sit in the base fee versus the additive scope for the target contract. The 'we'll work with you to prioritize the most critical assets' commitment should stay — it is what makes the additive scope feel controllable to the client."

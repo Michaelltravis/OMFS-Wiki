@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:13.commitment-to-a-smooth-transition
 section-order: 1
+section-path: 'Section 3: Key Personnel › 3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS › COMMITMENT TO A SMOOTH TRANSITION'
+doc-order: 86
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A tight opening framing for a transition-plan section (understanding + plan + dedicated team + local-team support) paired with two currently-quotable client testimonials that directly address transition risk — exactly the concern an evaluator has when a contract is changing operators.
 reuse-notes: Client name generalized to [CLIENT] per wiki sanitization rules. The two testimonials (Frank Dick, P.E., City of Vancouver – Public Works; Vincent R. Carroccia, Deputy Commissioner, Department of Public Works, City of Wilmington, DE) are real, named reference contacts with phone numbers, kept verbatim per instruction to preserve staff/contact details — reconfirm both individuals are still in role and still willing to be quoted before reusing in a new proposal. The Vancouver quotation runs off the end of the callout in the source page's text layer and is reproduced here exactly as far as the verbatim layer carries it, with an ellipsis marking the truncation — pull the closing clause from the source PDF callout before publishing it. If the new pursuit's prior operator is not Veolia, generalize the "previously operated by Veolia" framing to the actual incumbent.

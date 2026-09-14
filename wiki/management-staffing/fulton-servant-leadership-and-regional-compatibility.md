@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:11.leadership-approach-and-development
-section-order: 1
+section-order: 3
+section-path: Section 2 | Operations & Maintenance Plan › 2.7 | Approach to Providing Qualified and Licensed Personnel › LEADERSHIP APPROACH AND DEVELOPMENT
+doc-order: 37
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Personnel-development language paired with locally rooted, integrated-service positioning.
 reuse-notes: Confirm compensation and certification-incentive practices and replace the regional staffing history with current local facts.

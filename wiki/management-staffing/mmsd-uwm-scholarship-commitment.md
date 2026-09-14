@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:17.1-3-internships-peak-interest-in-careers
-section-order: 3
+section-order: 6
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.3. Internships Peak Interest in Careers
+doc-order: 52
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Money already spent beats money promised. The $2,500 contribution made before award, dated and honoring two long-serving local staff, makes the $50K contract-term commitment read as the continuation of a relationship rather than a bid inducement.
 reuse-notes: The scholarship amounts and the university are pursuit-specific commitments that must be approved by the operations leadership and carried in the price before they appear in a proposal. Keep the honoree names only where those staff are actually on the proposed team or are recognized locally.

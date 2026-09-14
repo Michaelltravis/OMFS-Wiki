@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:14.preparing-for-direct-potable-reuse
-section-order: 1
+section-order: 2
+section-path: 'Section 4: Suggested Modificationsto the Scope of Work › DISCOUNTED ENGINEERING SERVICES › Preparing for Direct Potable Reuse'
+doc-order: 93
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Pairs a forward-looking, value-added monitoring offer made ahead of the anticipated regulatory need with named, credentialed subject-matter experts and the specific DPR/IPR programs each has worked on — a strong differentiator for any potable reuse pursuit.
 reuse-notes: Staff names, titles, and credentials are kept verbatim per wiki policy; confirm each named individual is still available and willing to be cited, and that their project histories are current, before reuse. Facility names are generalized to [FACILITY] (the site in RFP scope) and [SECOND FACILITY] (the interconnected drinking water plant outside scope) — replace with the target pursuit's actual facility names.

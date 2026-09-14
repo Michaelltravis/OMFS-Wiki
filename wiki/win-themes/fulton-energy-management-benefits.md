@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:10.benefits-to-fulton-county
-section-order: 1
+section-order: 7
+section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Benefits to Fulton County
+doc-order: 29
 context: JC Solutions JV energy-management benefits for a county wastewater utility.
 quality: Concise source-derived benefit framing for a strategic energy-management offer.
 reuse-notes: Validate all percentage ranges, demand-response opportunities, utility-rate assumptions, and resilience claims.

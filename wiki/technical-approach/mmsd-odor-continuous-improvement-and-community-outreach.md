@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min
-section-order: 7
+section-order: 11
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors
+doc-order: 138
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Closes the odor loop with governance and visibility rather than more technology — annual odor reviews, dashboard reporting, public-shareable quarterly odor reports, and a named senior leader personally accountable for showing up at neighborhood meetings. Ends by tying odor performance to the client's standing as a steward of public health and neighborhood quality of life, which is the frame an evaluator scoring community impact is looking for.
 reuse-notes: Name the pursuit's own senior leader for the community presence commitment and confirm the reporting cadence (quarterly public odor report, annual review) against the RFP's reporting requirements and the client's own communications practice.

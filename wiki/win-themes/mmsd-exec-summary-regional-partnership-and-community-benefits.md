@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:02.odor-control-prevention-early-warning-and-documented-respons
-section-order: 2
+section-order: 11
+section-path: 'I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Odor Control: Prevention, Early Warning, and Documented Response'
+doc-order: 11
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Community benefits organized as four strategies with a selection test (greatest impact on equity, sustainability, and economic growth, and most value to the client and ratepayers) rather than a list of good intentions — then made concrete with five example ideas, a named DPM-level owner, and named local small-business partners.
 reuse-notes: Replace the example ideas and the local partner firms with ones drawn from the pursuit's own region, and confirm every named small business has agreed to be listed. The four-strategy frame travels; the ideas underneath it must be local or the section reads as generic.

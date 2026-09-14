@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:25.2-6-5-shared-cost-transparency-and-reporting
-section-order: 1
+section-order: 30
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.5. Shared-Cost Transparency and Reporting
+doc-order: 157
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: A complete reporting cadence — daily logs, monthly performance and reconciled shared-cost reports, quarterly and annual summaries to a named committee — plus the commitment that any condition threatening permit compliance triggers immediate notification and a written corrective summary. Backed by the JXN Water dashboard as evidence the framework already exists.
 reuse-notes: Only use the shared-cost language where the contract has a shared-cost, pass-through, or gainshare mechanism; otherwise recast as operating cost reporting. Replace the named review body (Operations and Maintenance Committee) and the RFP exhibit citations with the pursuit's own. The JXN Water and City of Jackson startup narrative is real past performance and stays verbatim.

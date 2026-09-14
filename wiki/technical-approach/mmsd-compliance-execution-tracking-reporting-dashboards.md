@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:25.2-7-1-commitment-to-zero-excursions
-section-order: 2
+section-order: 34
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance › 2.7.1. Commitment to Zero Excursions
+doc-order: 161
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: 'The mechanics behind the compliance claim — Hach WIMS integrated to SCADA and CMMS, daily validation, monthly trending, quarterly joint review, and a 100% on-time reporting commitment in the client''s own report formats. Adds the QA/QC chain: TNI standards, quarterly internal audits, annual third-party review, and joint audits with the client''s certified labs.'
 reuse-notes: Name the client's actual compliance data platform and document management system; SharePoint-based EDMS is a Jacobs default that some clients will replace with their own. The "delivered 100% on time and in compliance" commitment should be checked against the pursuit spec sheet. The joint-audit-with-client-labs offer only applies where the client retains its own certified laboratory. Exhibit asset ID 209_007CAM_1.

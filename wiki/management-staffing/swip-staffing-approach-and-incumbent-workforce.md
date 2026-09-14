@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:10.staffing-plan
-section-order: 1
+section-order: 8
+section-path: 'Section 3: Key Personnel › 3.1 STAFFING PLAN › STAFFING PLAN'
+doc-order: 74
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: The core staffing-philosophy passage of a winning incumbent-displacement bid — it pairs an explicit welcome to qualified incumbent operations and maintenance personnel (defusing the workforce-disruption objection that sinks most displacement bids) with a three-point test the staffing plan must pass, including the memorable "no lone shift operations" safety commitment.
 reuse-notes: The incumbent-staff welcome is the load-bearing sentence for any displacement pursuit and should be kept close to verbatim; confirm the pursuit team is genuinely prepared to extend offers before using it. The three-point delivery test is universal. Tailor the facility-specific framing (unique needs of each facility, current condition of assets, client operational objectives) to the pursuit's actual scope.

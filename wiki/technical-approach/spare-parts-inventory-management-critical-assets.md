@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:06.inventory-management-and-spare-parts
-section-order: 1
+section-order: 14
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Inventory Management and Spare Parts
+doc-order: 100
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Ties the critical-spares strategy directly to a contractual return-to-service requirement rather than describing a generic stockroom — min/max automated reorder, bills of material linked to assets, cycle counts, and a dedicated Stores/Parts Manager.
 reuse-notes: Replace the contract citations (Schedule 20 Critical Assets definition, the CM-3 2-day return-to-service requirement, Minimum Inventory Levels, General Manager approval) with the target agreement's equivalents; confirm whether the client owns the inventory under the target contract before restating that clause; swap the CMMS platform name.

@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:13.tapping-the-value-of-existing-staff
-section-order: 1
+section-order: 2
+section-path: 'Section 3: Key Personnel › 3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS › TAPPING THE VALUE OF EXISTING STAFF'
+doc-order: 87
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A complete, named six-step staff transition process (Exhibit 3-3) plus a quantified retention track record (90% conversion rate across a dozen-plus projects in three years) — strong, specific proof points for the workforce-continuity concern every transition evaluator has.
 reuse-notes: Client name generalized to [CLIENT] per wiki sanitization rules. The 90% conversion-rate statistic and the six-step process are real Jacobs proof points kept verbatim — reconfirm the current figures with the account team before each reuse, since the "last three years" window rolls forward.

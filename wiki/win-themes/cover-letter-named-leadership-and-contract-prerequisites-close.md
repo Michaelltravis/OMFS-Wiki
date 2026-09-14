@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:01
 section-order: 5
+section-path: Cover Letter
+doc-order: 5
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A named-leadership paragraph that gives each of four leaders a distinct reason to be there (site familiarity, multi-facility scale, independent oversight, client relationship), followed by an unusually candid paragraph telling the client that its own modernized contract is necessary but not sufficient — a credibility move that few competitors will make
 reuse-notes: "Replace all four named leaders, their tenures, and the facilities they ran; confirm the addendum number and date, and the bond/letter-of-credit and insurance commitments, against the RFP before submitting. The \"two additional prerequisites\" paragraph must be re-judged per pursuit — it is candid about pricing and client staff culture and should only be used where the client relationship supports it. approved-for-external-use: pending — sourced from a live pursuit."

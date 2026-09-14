@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:26.above-and-beyond-mmsd-specific-ai-assistant
-section-order: 1
+section-order: 19
+section-path: 'IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration › 3.9.1. Integrated Approach to CIP Planning › ABOVE AND BEYOND: MMSD-Specific AI Assistant'
+doc-order: 182
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "A value-add offer with the three things evaluators look for: a security posture (isolated, no internet access, site-specific), a trust mechanism (source citations on every answer), and a stated value (over $50K/year) that is then included at no additional cost."
 reuse-notes: "Confirm the current model list, the two-year deployment claim, and the $50K/year value with the digital team before each use; add the client's own data security review step, which is what makes this offer acceptable to IT."

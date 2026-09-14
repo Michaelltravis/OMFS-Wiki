@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:04.proven-transition-and-mobilization-strategy
-section-order: 1
+section-order: 8
+section-path: Section 4 - Project Staffing and Project Management Plan › CULTURE-DRIVEN LEADERSHIP FOR THE TOWN OF HULL › PLAN TO TRANSITION MANAGEMENT AND OPERATION OF FACILITY › Proven Transition and Mobilization Strategy
+doc-order: 32
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A four-part retention and knowledge-transfer framework (retention-first hiring, license continuity, structured leadership handoff, formalized institutional-knowledge capture) that directly addresses evaluator concerns about service disruption during an O&M contract transition — the core differentiator language for an incumbent-displacement pursuit.
 reuse-notes: Map the role leading early leadership alignment to whatever role is proposed on the pursuit (Project Manager versus Transition Manager); tailor the institutional-knowledge-capture examples to the target facility's actual known pain points where pursuit research reveals them.

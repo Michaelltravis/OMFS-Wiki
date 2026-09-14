@@ -21,7 +21,9 @@ rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add]
 sanitization-loss: low
 section-id: hull-wwtf-om-2026:05.innovation
-section-order: 1
+section-order: 25
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › INNOVATION
+doc-order: 58
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: differentiated, concrete list of no-added-cost value-adds that reads as substance rather than marketing fluff

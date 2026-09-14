@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:24.odor-control
-section-order: 1
+section-order: 6
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL
+doc-order: 106
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A two-column "what we monitor / what we do with it" table that proves operating depth without narrative bulk. Names specific instruments, models, alarm classes, and control strategies — including CSO/SSO trade-off logic for storage tunnel operation — which is exactly the specificity evaluators score.
 reuse-notes: Keep the column structure (Focus Area / Monitoring and Control Practices / Example Control Strategies and Their Benefits) and replace the rows with the pursuit's assets; hydraulic model names and permit program acronyms must match the pursuit's state and tools.

@@ -3173,6 +3173,24 @@
     }
   },
   {
+    "path": "wiki/qualifications/ocwut-at-fault-violation-events-log-part-1.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3079"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3076",
+        "PP-3077",
+        "PP-3078"
+      ]
+    }
+  },
+  {
     "path": "wiki/qualifications/odor-control-capability-and-case-studies.md",
     "set": {
       "proof-point-ids": [

@@ -24,7 +24,9 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: [wiki/technical-approach/annual-innovation-workshop-program.md, wiki/technical-approach/fulton-annual-innovation-workshop.md]
 section-id: mmsd-om-2028:28.5-1-jacobs-annual-innovation-workshop-drives-continuous-impr
-section-order: 1
+section-order: 2
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.1. Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M
+doc-order: 197
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: 'The strongest version of the Annual Innovation Workshop offer in the library — it carries the hard competitive proof (27 WEFTEC papers in 2024 versus none for major O&M competitors, 60+ workshops in 2025) and a dollar outcome from a prior workshop (>$1M in energy savings identified at Wilmington). Note duplicates on this topic: annual-innovation-workshop-program.md, fulton-annual-innovation-workshop.md, swip-annual-innovation-workshop.md — resolve to one preferred at merge.'
 reuse-notes: Update the WEFTEC participation figures and year each proposal cycle. Tailor the SME discipline list to the pursuit's actual processes. Confirm the workshop is genuinely included at no cost in the fee structure being bid before repeating that commitment; the Wilmington energy-savings figure stays as stated and is registered in proof-points.

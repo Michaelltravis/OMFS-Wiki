@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: santamonica-swip-om-2025:10.onsite-o-m-team
-section-order: 1
+section-order: 3
+section-path: 'Section 3: Key Personnel › 3.1 STAFFING PLAN › PROJECT TEAM AND THEIR QUALIFICATIONS › Onsite O&M Team'
+doc-order: 69
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Strong, credential-dense leadership bios (22 and 30+ years respectively, named prior facilities, quantified project figures) paired with a compliance-focused callout that turns the leadership pairing itself into a certification/permit-compliance risk-mitigation argument — a reusable pattern for pursuits with mandatory operator-certification requirements.
 reuse-notes: Named individuals (Howard Brewen, Chris Catlin) and their real credentials/experience are kept verbatim per wiki policy. Swap in the actual proposed leadership pair's real bios for a new pursuit; keep the "integrated, regionally connected leadership" argument structure. The $9.75M PG&E energy partnership, $140M facility upgrade, $3.5M+ O&M budget, and 120-MGD figures are outcome/scale figures, not commercial rates — restate them, but confirm they are current and approved for the individual before reuse.

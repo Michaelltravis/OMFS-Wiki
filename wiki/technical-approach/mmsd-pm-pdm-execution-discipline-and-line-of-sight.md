@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:26.3-1-jacobs-understands-and-supports-mmsd-s-maintenance-objec
 section-order: 2
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.1. Jacobs Understands and Supports MMSD’s Maintenance Objectives and Challenges
+doc-order: 165
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent contract operator; WDNR
 quality: Compact statement of the maintenance operating stance — safety and compliance set the standard, PM is a front-end investment rather than a threshold response, and every work order carries field evidence. Closes the labor-raised parts-availability objection before it is asked.
 reuse-notes: Replace NEXGEN with the client's CMMS of record. The "known execution barrier raised by labor" sentence only lands where the union or staff have actually raised parts availability in the RFP, a pre-proposal meeting, or the incumbent's record; otherwise cut it or substitute the barrier that was raised.

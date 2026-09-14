@@ -23,7 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:05.process-control-doesn-t-operate-in-a-silo
-section-order: 1
+section-order: 11
+section-path: Section 1 | Technical Approach › Operations Plan › PROCESS CONTROL STRATEGY › Process Control Doesn’t Operate in a Silo
+doc-order: 46
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The connective tissue paragraph every long technical approach needs — it names the adjacent programs (odor control, wet weather, solids and residuals, energy, maintenance/reliability), ties the aeration work to the contractual +5% energy variance, and converts process control into concrete standby-equipment care commitments, ending with a pointed, evidence-based contrast to the incumbent's practice.
 reuse-notes: Universal in structure; pursuit-specific in its schedule references and the equipment-rotation requirements quoted from the contract. Keep the closing sentence about preventive maintenance on out-of-service equipment only where the incumbent's lapse is documented and the pursuit strategy is displacement.

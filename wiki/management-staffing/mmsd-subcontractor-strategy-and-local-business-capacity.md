@@ -24,6 +24,8 @@ extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: mmsd-om-2028:13
 section-order: 1
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.D. Use of Subcontractors
+doc-order: 35
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Turns a compliance answer (small business utilization) into a capacity-building commitment with evidence already on the ground — a pre-award outreach event held before the proposal was due, plus a reporting cadence that makes participation auditable.
 reuse-notes: The pre-award outreach event date and the attendee quote are pursuit-specific evidence; hold an equivalent event early enough in the next capture to earn the same sentence. Name the client's actual capacity-development program and procurement contacts.

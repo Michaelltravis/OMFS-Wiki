@@ -23,7 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: ocwut-16-26:04.management-systems
-section-order: 1
+section-order: 12
+section-path: Section 1 | Technical Approach › Management Plan › 6 NEIGHBOR & COMMUNITY CARE › STRUCTURED REPORTING AGAINST SCHEDULE 5 METRICS › Management Systems
+doc-order: 34
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Turns a compliance chore — 24 required plans — into a differentiator by promising them as integrated components of one management system whose SOPs flow into CMMS work orders, operator round sheets, and training curricula, with a named owner tracking the milestones. The ten management-system definitions behind Exhibit 1-9 are reusable boilerplate for almost any O&M proposal.
 reuse-notes: Rebuild both plan lists from the pursuit's own schedule and due dates. The ten management-system definitions are stable house language and can be reused nearly verbatim; the public-education definition should name the actual client. Assign a real owner to plan-milestone tracking.
