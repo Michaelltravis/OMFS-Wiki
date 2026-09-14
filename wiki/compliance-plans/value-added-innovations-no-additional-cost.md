@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [transition, tech-approach]
 win-theme-map: [innovation-value-add, odor-control, collection-system, regional-bench, digital-tools, partner-transparency]
-proof-point-ids: [PP-0153, PP-0154, PP-0155, PP-0156, PP-0157, PP-0158, PP-0159, PP-0160, PP-0161, PP-0162]
+proof-point-ids: [PP-0153, PP-0154, PP-0155, PP-0156, PP-0157, PP-0158, PP-0159, PP-0160, PP-0161, PP-0162, PP-2104, PP-2105, PP-2106, PP-2107, PP-2108, PP-2109, PP-2110, PP-2111, PP-2112, PP-2113]
 testimonial-ids: []
 story-ids: []
 status: preferred

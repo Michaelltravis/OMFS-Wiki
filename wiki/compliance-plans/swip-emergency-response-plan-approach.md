@@ -13,15 +13,16 @@ client-size: "Advanced water treatment / potable reuse facility plus a water tre
 geography: "Southern California / CA / SWRCB Division of Drinking Water"
 rfp-section-type: [compliance]
 win-theme-map: [compliance-leadership, regional-bench, safety-culture, incumbent-displacement]
-proof-point-ids: [PP-0375, PP-0491, PP-0538, PP-0539, PP-0540, PP-0541, PP-0542]
+proof-point-ids: [PP-0375, PP-0491, PP-0538, PP-0539, PP-0540, PP-0541, PP-0542, PP-2852, PP-2853]
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+superseded-by: wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A complete ERP narrative — prevention posture, pre-event preparedness sequence, a 30-minute response commitment, a 24/7 incident reporting hotline, and integration with the client's own planning documents — directly reusable as an emergency-response section skeleton for any O&M proposal.
 reuse-notes: The "three stories underground" access detail is pursuit-specific; the 30-minute notification response commitment and hotline description are firm-wide capabilities and reusable as-is. The 2,400+ regional associates, 12 O&M projects, and 11 offices figures are regional-scale proof points for California — update the counts for the target pursuit's region before reuse. Pair with the ERP event-response matrix table block.

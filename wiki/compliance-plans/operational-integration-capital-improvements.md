@@ -13,7 +13,7 @@ client-size: ">110 MGD / four WWTPs / one major pump station / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [compliance]
 win-theme-map: [compliance-leadership, incumbent-displacement, partner-transparency, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-1415, PP-1417]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -41,6 +41,17 @@ Jacobs will provide a structured, repeatable process for bringing each new facil
 Each planned CIP project will change how [CLIENT]’s facilities are staffed, maintained, and operated. We’ll identify and plan for these changes well before each project reaches commissioning, working through the Schedule 16 design phases to build a complete picture of staffing, resource, and cost impacts. The following analysis addresses each project’s anticipated impacts. For detailed staffing levels and organizational structure, refer to our **Staffing and Training Plan earlier in this section.**
 
 Each CIP project introduces equipment and systems that require new maintenance competencies. **We’ll identify these skill gaps early and address them through a combination of on-site training, manufacturer certification, and support from our national technical resources.**
+
+### Additional detail (merged)
+
+Merged from `cip-operational-integration-approach-and-handover-framework.md` (retired as a fallback) — the four moves that transfer to any O&M contract with an active capital program:
+
+1. Open by crediting the owner's capital investment before describing the operator's role.
+2. Name what a new asset needs in place "before day one of operations" — staffing, training, maintenance systems, risk management.
+3. State explicitly that the owner retains planning, design, construction, and commissioning, and that the integration plan picks up at commissioning and operational handover.
+4. Close with the framework-plus-project-specific-plans construction, which answers the "what if the capital list moves" objection before it is raised.
+
+Pursuit-specific in the same passage: the named process areas being reshaped (disinfection, biosolids processing, solids disposal), the exhibit number, the schedule citation governing construction coordination, and the named construction-management role.
 
 ## Reuse guidance
 

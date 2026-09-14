@@ -13,15 +13,16 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [transition, staffing]
 win-theme-map: [transition-continuity, incumbent-displacement, regional-bench, workforce-development, partner-transparency]
-proof-point-ids: [PP-0135, PP-0333, PP-0334, PP-0335, PP-0336, PP-0337, PP-0338, PP-0339, PP-0340]
+proof-point-ids: [PP-0135, PP-0333, PP-0334, PP-0335, PP-0336, PP-0337, PP-0338, PP-0339, PP-0340, PP-2102]
 testimonial-ids: [TM-0004, TM-0005]
-story-ids: [ST-0013]
+story-ids: [ST-0013, ST-0032, ST-0048]
 status: preferred
 house-favorite: true
 sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: complete transition lifecycle in winning prose — governance, due diligence, phased milestones, workforce continuity — carrying two named client testimonials and measured post-transition satisfaction gains
 reuse-notes: regenerate the phase timeline (Days 1-30 / 31-120) and milestone dates against the new contract's commencement date; confirm the West Basin and JXN Water reference quotes are still permissioned before external use; replace named transition leadership with the pursuit's assigned personnel

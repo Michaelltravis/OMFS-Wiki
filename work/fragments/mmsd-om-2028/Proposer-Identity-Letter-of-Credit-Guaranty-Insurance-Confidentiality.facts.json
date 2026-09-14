@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "Consistent client satisfaction and industry reputation has fueled Jacobs' growth over the last 75 years",
+    "number": "75",
+    "unit": "years in business",
+    "as_of": "2026",
+    "page": 13,
+    "para": 2,
+    "block": "wiki/qualifications/mmsd-proposer-identity-financial-strength-and-contracting-entity.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs has been in the Operations & Maintenance (O&M) business for over 40 years",
+    "number": "40",
+    "unit": "years in O&M",
+    "as_of": "2026",
+    "page": 13,
+    "para": 2,
+    "block": "wiki/qualifications/mmsd-proposer-identity-financial-strength-and-contracting-entity.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Marsh Risk & Insurance Services broker James L. Vogel holds California Insurance License # 0437153",
+    "number": "0437153",
+    "unit": "California insurance license number",
+    "as_of": "2026-01-23",
+    "page": 15,
+    "para": 5,
+    "block": "wiki/qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Jacobs' casualty insurance program, brokered by Marsh, comprises seven named coverage lines: Workers Compensation and Employers Liability, General Liability, Automobile Liability, Umbrella/Excess Liability, Professional Liability, Cyber Liability, and Contractors Pollution Liability",
+    "number": "7",
+    "unit": "insurance coverage lines",
+    "as_of": "2026-01-23",
+    "page": 15,
+    "para": 20,
+    "block": "wiki/qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Confidential designations are claimed under Wisconsin public records law exemptions § 19.36(5) and § 134.90(1)(c), consistent with RFP Section 3.4",
+    "number": "19.36(5); 134.90(1)(c)",
+    "unit": "Wisconsin statute citations",
+    "as_of": "2026",
+    "page": 15,
+    "para": 7,
+    "block": "wiki/qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Six categories of proprietary trade secret are enumerated as the basis for page-specific confidentiality designations",
+    "number": "6",
+    "unit": "trade-secret categories",
+    "as_of": "2026",
+    "page": 15,
+    "para": 7,
+    "block": "wiki/qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md",
+    "category": "compliance"
+  }
+]

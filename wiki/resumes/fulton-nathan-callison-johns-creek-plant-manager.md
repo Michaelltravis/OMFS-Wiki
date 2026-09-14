@@ -13,15 +13,16 @@ client-size: "Three water reclamation facilities / 32 MGD and 15 MGD MBR facilit
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [resume]
 win-theme-map: [regional-bench, compliance-leadership, asset-management, workforce-development]
-proof-point-ids: []
-testimonial-ids: []
+proof-point-ids: [PP-1812, PP-1813]
+testimonial-ids: [TM-0025]
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+superseded-by: wiki/resumes/nathan-callison.md
 context: "Southeast US county wastewater O&M pursuit, 2025, bid as JC Solutions, a Jacobs/CERM JV; verbatim key-personnel resume."
 quality: "Verbatim source resume retaining named experience, certifications, dates, quantified experience, and reference contacts."
 reuse-notes: "VERBATIM resume — retain names, clients, contacts, certifications, dates, numbers, and experience. Before reuse, confirm the individual’s role, availability, employment status, certifications, and licenses with the account team; tailor only the proposed role and client-facing assignment."

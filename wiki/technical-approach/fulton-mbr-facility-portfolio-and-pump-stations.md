@@ -13,7 +13,7 @@ client-size: "32 MGD + 15 MGD + 2.6 MGD MBR facilities / 28 wastewater and 5 pot
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach]
 win-theme-map: [partner-transparency, compliance-leadership, regional-bench, asset-management]
-proof-point-ids: []
+proof-point-ids: [PP-1637, PP-1638, PP-1639, PP-1640, PP-1644]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -1,0 +1,302 @@
+[
+  {
+    "claim": "Jacobs' deep bench of O&M, engineering and consulting SMEs is supported by a global organization of 43,000 professionals, enabling rapid escalation and quick deployment of qualified resources",
+    "number": "43000",
+    "unit": "professionals",
+    "as_of": "unknown",
+    "page": 83,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-corporate-resources-six-pillars-exhibit.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Robust enterprise HR for staffing support is backed by a bench of more than 5,000 in-house water professionals, allowing vacancies to be filled proactively and workforce continuity maintained",
+    "number": "5000",
+    "unit": "in-house water professionals",
+    "as_of": "unknown",
+    "page": 83,
+    "para": 15,
+    "block": "wiki/technical-approach/mmsd-corporate-resources-six-pillars-exhibit.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Analytics of chemical dosing, usage and cost identify opportunities for chemical-use reductions of 10 to 30% without affecting permit compliance",
+    "number": "10-30",
+    "unit": "% chemical-use reduction",
+    "as_of": "unknown",
+    "page": 84,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-chemical-usage-monitoring-and-control.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "The Intelligent O&M performance framework supports fulfillment of the Annual Settlement requirements in Article 61 of the Service Agreement",
+    "number": "61",
+    "unit": "Service Agreement article",
+    "as_of": "unknown",
+    "page": 84,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-integrated-performance-monitoring-framework.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Heat-dried biosolids product temperature trends are monitored and archived to demonstrate EPA 503 compliance",
+    "number": "503",
+    "unit": "EPA Part 503 rule",
+    "as_of": "unknown",
+    "page": 84,
+    "para": 17,
+    "block": "wiki/technical-approach/mmsd-biosolids-heat-dried-product-monitoring.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "JXN Water Power BI reporting dashboard shown as Exhibit IV-36 reflects data as of 05/31/2025",
+    "number": "2025-05-31",
+    "unit": "data-as-of date",
+    "as_of": "2025-05-31",
+    "page": 85,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "category": "other"
+  },
+  {
+    "claim": "JXN Water year-to-date total average water production across three plants was 37.56 MG/day",
+    "number": "37.56",
+    "unit": "MG/day",
+    "as_of": "2025-05-31",
+    "page": 85,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "JXN Water total production target band across the three plants is 43 to 53 MG/day",
+    "number": "43-53",
+    "unit": "MG/day target band",
+    "as_of": "2025-05-31",
+    "page": 85,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "category": "other"
+  },
+  {
+    "claim": "JXN Water May 2025 total production of 34.59 MG/day was an 11.47% decrease year over year from 39.07 MG/day in May 2024",
+    "number": "-11.47",
+    "unit": "% year-over-year change",
+    "as_of": "2025-05-31",
+    "page": 85,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "JXN Water J.H. Fewell plant produced 12.46 MG/day in May 2025, an 8.88% increase over May 2024",
+    "number": "12.46",
+    "unit": "MG/day",
+    "as_of": "2025-05-31",
+    "page": 85,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "JXN Water O.B. Curtis Conventional plant produced 7.90 MG/day in May 2025, a 33.00% decrease from May 2024",
+    "number": "7.90",
+    "unit": "MG/day",
+    "as_of": "2025-05-31",
+    "page": 85,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "JXN Water O.B. Curtis Membrane plant produced 14.23 MG/day in May 2025, a 10.14% decrease from May 2024, against a 23 MG/day target",
+    "number": "14.23",
+    "unit": "MG/day",
+    "as_of": "2025-05-31",
+    "page": 85,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Jacobs maintains a 99.98% environmental compliance record, described as the result of a disciplined system rather than a statistic and one of the best in the industry",
+    "number": "99.98",
+    "unit": "% compliance",
+    "as_of": "unknown",
+    "page": 86,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-six-point-compliance-program-exhibit.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Jacobs provided 30,000 hours of compliance training in the last 3 years alone under its Six-Point Compliance Program",
+    "number": "30000",
+    "unit": "training hours in 3 years",
+    "as_of": "unknown",
+    "page": 86,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-six-point-compliance-program-exhibit.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Jacobs has 20+ dedicated O&M Compliance and Reporting subject matter experts supporting permit interpretation, training, rapid response, and future preparedness",
+    "number": "20",
+    "unit": "+ dedicated compliance and reporting SMEs",
+    "as_of": "unknown",
+    "page": 86,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-six-point-compliance-program-exhibit.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs' 99.98% compliance record spans more than 300 O&M contracts, demonstrating ability to meet a zero violations, zero reporting errors, zero missed monitoring events standard",
+    "number": "300",
+    "unit": "+ O&M contracts",
+    "as_of": "unknown",
+    "page": 87,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Every compliance report, including discharge monitoring reports, compliance maintenance annual reports, pretreatment program summaries, and air-permit documentation, will be delivered 100% on time and in compliance",
+    "number": "100",
+    "unit": "% on-time report delivery",
+    "as_of": "unknown",
+    "page": 87,
+    "para": 11,
+    "block": "wiki/technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2016",
+    "number": "9034",
+    "unit": "training hours",
+    "as_of": "2016",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2017",
+    "number": "10285",
+    "unit": "training hours",
+    "as_of": "2017",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2018",
+    "number": "6502",
+    "unit": "training hours",
+    "as_of": "2018",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2019",
+    "number": "8155",
+    "unit": "training hours",
+    "as_of": "2019",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2020",
+    "number": "9433",
+    "unit": "training hours",
+    "as_of": "2020",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2021",
+    "number": "12641",
+    "unit": "training hours",
+    "as_of": "2021",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2022",
+    "number": "11588",
+    "unit": "training hours",
+    "as_of": "2022",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2023",
+    "number": "9185",
+    "unit": "training hours",
+    "as_of": "2023",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2024",
+    "number": "8963",
+    "unit": "training hours",
+    "as_of": "2024",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Compliance and regulatory training hours provided to O&M staff in 2025",
+    "number": "12039",
+    "unit": "training hours",
+    "as_of": "2025",
+    "page": 87,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "category": "safety"
+  },
+  {
+    "claim": "The QA/QC approach follows The NELAC Institute standards and includes quarterly internal audits and an annual third-party review",
+    "number": "4",
+    "unit": "internal audits per year plus 1 annual third-party review",
+    "as_of": "unknown",
+    "page": 88,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Within the first 90 days, Jacobs will complete a baseline environmental compliance audit covering permit conditions, monitoring requirements, reporting processes, and site-specific environmental risks",
+    "number": "90",
+    "unit": "days from contract start",
+    "as_of": "unknown",
+    "page": 89,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-unified-compliance-oversight-and-stewardship.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "The team will conduct semi-annual compliance reviews with the client to confirm progress and verify compliance with all regulatory commitments",
+    "number": "2",
+    "unit": "compliance reviews per year",
+    "as_of": "unknown",
+    "page": 89,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-unified-compliance-oversight-and-stewardship.md",
+    "category": "schedule"
+  }
+]

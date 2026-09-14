@@ -14,8 +14,8 @@ geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [transition, past-performance]
 win-theme-map: [transition-continuity, incumbent-displacement, partner-transparency, workforce-development]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0004, TM-0021]
+story-ids: [ST-0013, ST-0032, ST-0039]
 status: preferred
 house-favorite: true
 sanitized: true

@@ -13,7 +13,7 @@ client-size: "4 WWTPs / >110 MGD combined design capacity / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [staffing]
 win-theme-map: [regional-bench, compliance-leadership, energy-chemical-efficiency, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-1192, PP-1193, PP-1194, PP-1195, PP-1196, PP-1197, PP-1198, PP-1199, PP-1200, PP-1201, PP-1202, PP-1203]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -13,7 +13,7 @@ client-type: trust
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [compliance, tech-approach, transition]
 win-theme-map: [incumbent-displacement, compliance-leadership, odor-control, transition-continuity, asset-management]
-proof-point-ids: []
+proof-point-ids: [PP-1449, PP-1450, PP-1451, PP-1452, PP-1453, PP-1454]
 testimonial-ids: []
 story-ids: []
 status: preferred

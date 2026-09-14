@@ -1,0 +1,202 @@
+[
+  {
+    "claim": "Jacobs' consulting and technology teams have implemented or managed dozens of large-scale CMMS technology solutions, many using the client's chosen software, NexGen CMMS",
+    "number": "dozens",
+    "unit": "large-scale CMMS implementations",
+    "as_of": "2026",
+    "page": 127,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-cmms-differentiating-strength-and-nexgen-experience.md",
+    "category": "scale"
+  },
+  {
+    "claim": "The NexGen CMMS is required to be online by March 1, 2028",
+    "number": "2028-03-01",
+    "unit": "go-live date",
+    "as_of": "2026",
+    "page": 127,
+    "para": 15,
+    "block": "wiki/technical-approach/mmsd-cmms-differentiating-strength-and-nexgen-experience.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "CMMS Implementation Phase runs April 2026 through February 2028",
+    "number": "April 2026 – February 2028",
+    "unit": "phase date range",
+    "as_of": "2026",
+    "page": 128,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-cmms-collaborative-implementation-process.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "CMMS Operational Phase runs March 2028 through 2038",
+    "number": "March 2028 – 2038",
+    "unit": "phase date range",
+    "as_of": "2026",
+    "page": 128,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-cmms-collaborative-implementation-process.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "The CMMS Implementation Project Manager will attend weekly NexGen project management meetings during implementation",
+    "number": "1",
+    "unit": "meeting per week",
+    "as_of": "2026",
+    "page": 128,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-cmms-collaborative-implementation-process.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs will collaborate with the client each budget cycle in mining the CMMS for updates to the 6-year CIP",
+    "number": "6",
+    "unit": "years (CIP horizon)",
+    "as_of": "2026",
+    "page": 128,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-cmms-collaborative-implementation-process.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Five named Jacobs key personnel will be involved in the client's NexGen implementation",
+    "number": "5",
+    "unit": "key personnel",
+    "as_of": "2026",
+    "page": 129,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Janeane Giarusso, Sr. Asset Management Advisor, has 25+ years of experience with planning and asset management using CMMS systems to help water utilities achieve strategic goals",
+    "number": "25+",
+    "unit": "years of experience",
+    "as_of": "2026",
+    "page": 130,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Paul Miller, Asset Management Data Standards SME, has 33+ years of experience developing and implementing asset management systems, including data migration and database administration",
+    "number": "33+",
+    "unit": "years of experience",
+    "as_of": "2026",
+    "page": 130,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Amy Dembinski, Integration Specialist, has 25 years of experience including CMMS implementation, administration, and optimization",
+    "number": "25",
+    "unit": "years of experience",
+    "as_of": "2026",
+    "page": 130,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Amy Dembinski has implemented, administered, and optimized 100+ CMMS databases",
+    "number": "100+",
+    "unit": "CMMS databases",
+    "as_of": "2026",
+    "page": 130,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Amy Dembinski's CMMS implementation, administration, and optimization work has supported 1,700+ end users",
+    "number": "1,700+",
+    "unit": "end users",
+    "as_of": "2026",
+    "page": 130,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
+    "category": "scale"
+  },
+  {
+    "claim": "The client's existing vibration and oil analyses cover more than 200 assets across multiple vendor platforms",
+    "number": "200+",
+    "unit": "assets under vibration and oil analysis",
+    "as_of": "2026",
+    "page": 132,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-pdm-goals-and-current-fragmented-state.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Jacobs proposes deploying AquaDNA Deraggers at two jointly selected pump stations as a proof of concept, targeting locations with a history of clogging or elevated operational risk",
+    "number": "2",
+    "unit": "pump stations (proof of concept)",
+    "as_of": "2026",
+    "page": 134,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-level3-pdm-conveyance-technologies.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Two Level 3 PdM technologies (InfoSense SL-RAT and Dragonfly/ArgonLite) are included as part of Jacobs' Base Fee as value-added innovations",
+    "number": "2",
+    "unit": "technologies included in base fee",
+    "as_of": "2026",
+    "page": 134,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-level3-pdm-conveyance-technologies.md",
+    "category": "financial"
+  },
+  {
+    "claim": "InfoSense SL-RAT acoustic sewer assessment requires only two operators, minimal setup time, and no confined-space entry",
+    "number": "2",
+    "unit": "operators",
+    "as_of": "2026",
+    "page": 134,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-level3-pdm-conveyance-technologies.md",
+    "category": "safety"
+  },
+  {
+    "claim": "Five named Jacobs SMEs (Monty Sedlak, Matt Crowley, Amy Dembinski, John Rickermann, and John Loucks-Powell) will support the onsite team at each phase of the PdM program",
+    "number": "5",
+    "unit": "subject matter experts",
+    "as_of": "2026",
+    "page": 135,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-pdm-roles-and-responsibilities.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Phase 1 of the Level 3 PdM rollout deploys PdM tools on approximately 50 high-criticality assets at each facility",
+    "number": "~50",
+    "unit": "high-criticality assets per facility",
+    "as_of": "2026",
+    "page": 136,
+    "para": 15,
+    "block": "wiki/technical-approach/mmsd-level3-pdm-phased-rollout.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Level 3 PdM is rolled out in three phases — Foundation, Expansion, and Optimization and Maturity — so the client controls program scaling and investment pace",
+    "number": "3",
+    "unit": "rollout phases",
+    "as_of": "2026",
+    "page": 136,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-level3-pdm-phased-rollout.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "PdM insights will be reviewed routinely with the client through three standing bodies — the Operations Committee, Maintenance Committee, and CMMS Governance Committee",
+    "number": "3",
+    "unit": "governance committees",
+    "as_of": "2026",
+    "page": 136,
+    "para": 3,
+    "block": "wiki/technical-approach/mmsd-pdm-program-approach-integrating-levels-1-3.md",
+    "category": "other"
+  }
+]

@@ -13,9 +13,9 @@ client-size: "28.26 MGD + 16.1 MGD WWTPs / 3.2-MGD industrial lagoon / 8 major l
 geography: "Northwest / WA / Ecology, EPA NPDES, Clean Air Agency Title V"
 rfp-section-type: [past-performance]
 win-theme-map: [incumbent-displacement, transition-continuity, odor-control, asset-management, safety-culture, innovation-value-add, energy-chemical-efficiency, community-engagement]
-proof-point-ids: []
+proof-point-ids: [PP-1393, PP-1394, PP-1395, PP-1396, PP-1397]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0034, ST-0035, ST-0036]
 status: preferred
 house-favorite: true
 sanitized: false

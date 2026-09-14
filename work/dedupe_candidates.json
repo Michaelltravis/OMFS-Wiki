@@ -1,11 +1,115 @@
 [
   {
+    "a": "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md",
+    "b": "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-training.md",
+    "body_sim": 0.6377,
+    "title_sim": 0.4,
+    "a_words": 427,
+    "b_words": 397
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md",
+    "b": "wiki/technical-approach/mmsd-ot-automated-plc-backup-and-version-control.md",
+    "body_sim": 0.6341,
+    "title_sim": 0.8333,
+    "a_words": 315,
+    "b_words": 283
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
+    "b": "wiki/technical-approach/mmsd-digital-twin-benefits-table.md",
+    "body_sim": 0.6307,
+    "title_sim": 0.4,
+    "a_words": 498,
+    "b_words": 541
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-approach.md",
+    "b": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md",
+    "body_sim": 0.6022,
+    "title_sim": 0.8571,
+    "a_words": 582,
+    "b_words": 596
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "b": "wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md",
+    "body_sim": 0.5981,
+    "title_sim": 0.25,
+    "a_words": 493,
+    "b_words": 544
+  },
+  {
     "a": "wiki/compliance-plans/ocwut-stormwater-and-biosolids-legislation.md",
     "b": "wiki/compliance-plans/oklahoma-biosolids-legislation-emerging-risk.md",
     "body_sim": 0.5836,
     "title_sim": 0.2727,
     "a_words": 421,
     "b_words": 441
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
+    "b": "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
+    "body_sim": 0.5822,
+    "title_sim": 0.625,
+    "a_words": 652,
+    "b_words": 662
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md",
+    "b": "wiki/technical-approach/mmsd-odor-early-warning-system-sulfiloggers-aermod.md",
+    "body_sim": 0.5457,
+    "title_sim": 0.4167,
+    "a_words": 548,
+    "b_words": 510
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-pgm-seven-step-initiation-table.md",
+    "b": "wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md",
+    "body_sim": 0.4914,
+    "title_sim": 0.6667,
+    "a_words": 367,
+    "b_words": 338
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-due-diligence-understanding-and-shared-values-alignment.md",
+    "b": "wiki/technical-approach/mmsd-facilities-understanding-shared-values.md",
+    "body_sim": 0.4744,
+    "title_sim": 0.0833,
+    "a_words": 440,
+    "b_words": 445
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md",
+    "b": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+    "body_sim": 0.4688,
+    "title_sim": 0.4,
+    "a_words": 500,
+    "b_words": 450
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-facility-health-check-exhibit.md",
+    "b": "wiki/technical-approach/mmsd-system-health-check-challenges-and-value-add-table.md",
+    "body_sim": 0.451,
+    "title_sim": 0.2143,
+    "a_words": 999,
+    "b_words": 748
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md",
+    "b": "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odors.md",
+    "body_sim": 0.4434,
+    "title_sim": 0.6,
+    "a_words": 250,
+    "b_words": 220
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-base-fee-value-added-investments-and-future-savings.md",
+    "b": "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md",
+    "body_sim": 0.4208,
+    "title_sim": 0.7,
+    "a_words": 371,
+    "b_words": 375
   },
   {
     "a": "wiki/compliance-plans/cip-operational-integration-approach-and-handover-framework.md",
@@ -30,6 +134,46 @@
     "title_sim": 0.5,
     "a_words": 276,
     "b_words": 300
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md",
+    "b": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-reporting.md",
+    "body_sim": 0.301,
+    "title_sim": 0.6667,
+    "a_words": 576,
+    "b_words": 374
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-base-fee-value-added-investments-and-future-savings.md",
+    "b": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+    "body_sim": 0.2842,
+    "title_sim": 0.3846,
+    "a_words": 371,
+    "b_words": 708
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-approach-summary-om-plan-and-shared-priorities.md",
+    "b": "wiki/technical-approach/mmsd-approach-summary-om-plan-shared-priorities.md",
+    "body_sim": 0.2777,
+    "title_sim": 0.5714,
+    "a_words": 392,
+    "b_words": 486
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+    "b": "wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md",
+    "body_sim": 0.2466,
+    "title_sim": 0.7778,
+    "a_words": 708,
+    "b_words": 499
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+    "b": "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md",
+    "body_sim": 0.2395,
+    "title_sim": 0.3636,
+    "a_words": 708,
+    "b_words": 375
   },
   {
     "a": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
@@ -64,6 +208,22 @@
     "b_words": 254
   },
   {
+    "a": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md",
+    "b": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+    "body_sim": 0.2124,
+    "title_sim": 0.2727,
+    "a_words": 670,
+    "b_words": 443
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+    "b": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+    "body_sim": 0.2096,
+    "title_sim": 0.1818,
+    "a_words": 443,
+    "b_words": 658
+  },
+  {
     "a": "wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md",
     "b": "wiki/technical-approach/swip-process-control-system-tools.md",
     "body_sim": 0.1967,
@@ -80,6 +240,14 @@
     "b_words": 586
   },
   {
+    "a": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+    "b": "wiki/technical-approach/work-order-lifecycle-process.md",
+    "body_sim": 0.1762,
+    "title_sim": 0.2143,
+    "a_words": 537,
+    "b_words": 527
+  },
+  {
     "a": "wiki/qualifications/corporate-entity-legal-qualifications.md",
     "b": "wiki/qualifications/swip-financial-transparency-and-litigation-history.md",
     "body_sim": 0.1537,
@@ -88,12 +256,44 @@
     "b_words": 670
   },
   {
+    "a": "wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md",
+    "b": "wiki/technical-approach/mmsd-approach-to-management-of-facilities-pgm-foundation.md",
+    "body_sim": 0.1521,
+    "title_sim": 0.4444,
+    "a_words": 438,
+    "b_words": 588
+  },
+  {
+    "a": "wiki/technical-approach/fulton-biosolids-capability-and-facility-assessment.md",
+    "b": "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
+    "body_sim": 0.1463,
+    "title_sim": 0.0,
+    "a_words": 538,
+    "b_words": 287
+  },
+  {
+    "a": "wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md",
+    "b": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+    "body_sim": 0.1327,
+    "title_sim": 0.1111,
+    "a_words": 901,
+    "b_words": 1073
+  },
+  {
     "a": "wiki/compliance-plans/fulton-environmental-protection-and-reporting-commitment.md",
     "b": "wiki/compliance-plans/fulton-regulatory-compliance-program.md",
     "body_sim": 0.126,
     "title_sim": 0.4286,
     "a_words": 336,
     "b_words": 353
+  },
+  {
+    "a": "wiki/technical-approach/asset-management-system-iso-55001-samp-governance.md",
+    "b": "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+    "body_sim": 0.1208,
+    "title_sim": 0.4,
+    "a_words": 746,
+    "b_words": 416
   },
   {
     "a": "wiki/technical-approach/annual-innovation-workshop-program.md",
@@ -110,6 +310,14 @@
     "title_sim": 0.5,
     "a_words": 143,
     "b_words": 658
+  },
+  {
+    "a": "wiki/technical-approach/annual-innovation-workshop-program.md",
+    "b": "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
+    "body_sim": 0.0401,
+    "title_sim": 0.75,
+    "a_words": 582,
+    "b_words": 523
   },
   {
     "a": "wiki/win-themes/exec-summary-client-readiness-framing.md",
@@ -152,6 +360,14 @@
     "b_words": 657
   },
   {
+    "a": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-pilots-optimization-table.md",
+    "b": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-studies-support-partnership-table.md",
+    "body_sim": 0.0196,
+    "title_sim": 0.5455,
+    "a_words": 1080,
+    "b_words": 891
+  },
+  {
     "a": "wiki/past-performance/project-southbridge-ma.md",
     "b": "wiki/past-performance/project-westerly-ri.md",
     "body_sim": 0.0192,
@@ -176,6 +392,38 @@
     "b_words": 457
   },
   {
+    "a": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-best-practices-improvements-table.md",
+    "b": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-studies-support-partnership-table.md",
+    "body_sim": 0.0143,
+    "title_sim": 0.5,
+    "a_words": 1164,
+    "b_words": 891
+  },
+  {
+    "a": "wiki/technical-approach/fulton-annual-innovation-workshop.md",
+    "b": "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
+    "body_sim": 0.0124,
+    "title_sim": 0.75,
+    "a_words": 143,
+    "b_words": 523
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-best-practices-improvements-table.md",
+    "b": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-pilots-optimization-table.md",
+    "body_sim": 0.0123,
+    "title_sim": 0.5455,
+    "a_words": 1164,
+    "b_words": 1080
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
+    "b": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+    "body_sim": 0.0086,
+    "title_sim": 0.5,
+    "a_words": 662,
+    "b_words": 872
+  },
+  {
     "a": "wiki/past-performance/project-jackson-jxn-water-om.md",
     "b": "wiki/past-performance/project-jackson-jxn-water-turnaround-results.md",
     "body_sim": 0.0077,
@@ -190,6 +438,14 @@
     "title_sim": 0.7143,
     "a_words": 714,
     "b_words": 530
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-exhibit-future-collaboration-intelligent-om-and-ot-security-table.md",
+    "b": "wiki/technical-approach/mmsd-exhibit-future-collaboration-process-improvements-table.md",
+    "body_sim": 0.0072,
+    "title_sim": 0.625,
+    "a_words": 960,
+    "b_words": 1010
   },
   {
     "a": "wiki/past-performance/project-bixby-wrf-lift-stations-om.md",
@@ -216,6 +472,14 @@
     "b_words": 542
   },
   {
+    "a": "wiki/resumes/kelly-irving.md",
+    "b": "wiki/resumes/mmsd-kelly-irving-transition-manager.md",
+    "body_sim": 0.0035,
+    "title_sim": 1.0,
+    "a_words": 989,
+    "b_words": 466
+  },
+  {
     "a": "wiki/win-themes/fulton-maintenance-ai-assistant-palantir.md",
     "b": "wiki/win-themes/fulton-maintenance-planner-scheduler-palantir.md",
     "body_sim": 0.0022,
@@ -224,12 +488,52 @@
     "b_words": 430
   },
   {
+    "a": "wiki/technical-approach/innovation-workshop-sample-agenda-structure.md",
+    "b": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+    "body_sim": 0.0021,
+    "title_sim": 0.5556,
+    "a_words": 509,
+    "b_words": 443
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-value-added-improvements-included-in-base-fee.md",
+    "b": "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md",
+    "body_sim": 0.001,
+    "title_sim": 0.5556,
+    "a_words": 675,
+    "b_words": 375
+  },
+  {
+    "a": "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
+    "b": "wiki/compliance-plans/swip-emergency-response-plan-approach.md",
+    "body_sim": 0.0,
+    "title_sim": 0.6,
+    "a_words": 687,
+    "b_words": 873
+  },
+  {
     "a": "wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md",
     "b": "wiki/technical-approach/fulton-mbr-facility-maintenance-priorities.md",
     "body_sim": 0.0,
     "title_sim": 0.5,
     "a_words": 590,
     "b_words": 813
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-value-added-improvements-included-in-base-fee.md",
+    "b": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md",
+    "body_sim": 0.0,
+    "title_sim": 0.5,
+    "a_words": 675,
+    "b_words": 821
+  },
+  {
+    "a": "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md",
+    "b": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md",
+    "body_sim": 0.0,
+    "title_sim": 0.5,
+    "a_words": 375,
+    "b_words": 821
   },
   {
     "a": "wiki/management-staffing/fulton-cerm-workforce-development-pipeline.md",

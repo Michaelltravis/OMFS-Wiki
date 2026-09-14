@@ -5,15 +5,15 @@ block-type: prose
 tags: [biosolids, key-personnel, resume-bio, regulatory-compliance, callout-box, regional-support, more-than-an-operator]
 source: ocwut-16-26
 source-section: "Required Plan: Solids Management Plan"
-source-pages: [156]
-verbatim-ref: ["verbatim/ocwut-16-26/pages/p0156.md#¶3", "verbatim/ocwut-16-26/pages/p0156.md#¶5", "verbatim/ocwut-16-26/pages/p0156.md#¶6"]
+source-pages: [156, 136]
+verbatim-ref: [verbatim/ocwut-16-26/pages/p0156.md#¶3, verbatim/ocwut-16-26/pages/p0156.md#¶5, verbatim/ocwut-16-26/pages/p0156.md#¶6, verbatim/ocwut-16-26/pages/p0136.md#¶11, verbatim/ocwut-16-26/pages/p0136.md#¶13]
 pursuit-type: [wwtp-om, solids, multi-facility]
 client-type: trust
 client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / ~170 land application sites / ~13,500 acres / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [compliance, staffing]
 win-theme-map: [regional-bench, compliance-leadership, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-1464, PP-1465, PP-1466, PP-1467, PP-1468, PP-1445, PP-1446, PP-1447, PP-1448]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/compliance-plans/ocwut-biosolids-sme-bios.md
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: A sidebar callout that answers "what do we get beyond the operators on site" with two named biosolids SMEs and a specific advisory assignment for each, then adds the legislative-monitoring commitment that turns the bench into forward protection rather than reach-back. Note the market-knowledge argument on the second bio — familiarity with national residuals firms and their pricing is positioned as direct client leverage in procurement.
 reuse-notes: "Confirm both SMEs are available and that their years of experience, patent count, and project count are current before reuse; the drying capacity evaluation assignment is specific to this system's solids hub. Swap the legislative session and state for the pursuit's own. Duplicate check — a companion SME sidebar may exist for the Sludge Management Plan section; keep this one for the Solids Management Plan passage. Approved-for-external-use: pending — sourced from a live pursuit."

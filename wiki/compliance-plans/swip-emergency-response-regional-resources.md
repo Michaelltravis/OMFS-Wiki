@@ -15,7 +15,7 @@ rfp-section-type: [compliance]
 win-theme-map: [regional-bench, compliance-leadership, safety-culture, partner-transparency]
 proof-point-ids: [PP-0545]
 testimonial-ids: [TM-0018]
-story-ids: []
+story-ids: [ST-0061, ST-0062]
 status: preferred
 house-favorite: true
 sanitized: true

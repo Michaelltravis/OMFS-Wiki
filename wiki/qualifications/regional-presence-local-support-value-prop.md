@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1 (also RIDEM, CT DEEP)"
 rfp-section-type: [qualifications]
 win-theme-map: [regional-bench, compliance-leadership, incumbent-displacement]
-proof-point-ids: [PP-0169, PP-0176, PP-0177, PP-0185, PP-0186, PP-0187]
+proof-point-ids: [PP-0169, PP-0176, PP-0177, PP-0185, PP-0186, PP-0187, PP-2017]
 testimonial-ids: []
 story-ids: []
 status: preferred

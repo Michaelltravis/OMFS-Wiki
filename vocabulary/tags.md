@@ -3,7 +3,7 @@
 Canonical tags for `tags:` in content-block frontmatter. Use only tags on this list;
 map anything else through `tag-aliases.yaml`. Maximum 12 tags per block.
 
-Total canonical tags: 128
+Total canonical tags: 130
 
 ## scope (25)
 

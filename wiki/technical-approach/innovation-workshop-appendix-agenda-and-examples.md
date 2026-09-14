@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi collection system / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, partner-transparency, community-engagement, digital-tools, energy-chemical-efficiency]
-proof-point-ids: [PP-0112, PP-0113]
+proof-point-ids: [PP-0112, PP-0113, PP-1981]
 testimonial-ids: [TM-0010]
 story-ids: [ST-0012]
 status: preferred
@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Converts the annual Innovation Workshop promise into evidence — the appendix carries the proposed first-year agenda framing plus a real, dated agenda from a workshop already delivered for another O&M client, closed by a named client quote with a phone number on the record.
 reuse-notes: The delivered-workshop agendas (Traverse City, MI and Wilmington, NC/DE) are reference-client material and stay verbatim; confirm they remain shareable and current before reproducing. Replace the proposed first-workshop topic framing with topics drawn from the target client's own stated priorities, and re-confirm the client quote and attribution with the speaker before any external use.

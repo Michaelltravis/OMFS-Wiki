@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [qualifications]
 win-theme-map: [partner-transparency, regional-bench, incumbent-displacement]
-proof-point-ids: [PP-0167, PP-0211, PP-0212, PP-0213, PP-0214, PP-0215, PP-0216, PP-0217, PP-0218]
+proof-point-ids: [PP-0167, PP-0211, PP-0212, PP-0213, PP-0214, PP-0215, PP-0216, PP-0217, PP-0218, PP-2022]
 testimonial-ids: []
 story-ids: []
 status: preferred

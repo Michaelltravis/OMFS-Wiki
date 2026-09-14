@@ -13,9 +13,9 @@ client-size: "27 MGD WWTP / 38 MGD WFP / 310 mi sewer / 20 pump stations"
 geography: "Northeast / CT / CTDEEP"
 rfp-section-type: [past-performance]
 win-theme-map: [partner-transparency, compliance-leadership, asset-management, workforce-continuity]
-proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+proof-point-ids: [PP-0030, PP-0031, PP-0032, PP-0033, PP-0035, PP-0042, PP-0043, PP-0044, PP-0045, PP-0046, PP-1940, PP-1941, PP-1942, PP-1943, PP-1944, PP-1945, PP-1946, PP-1947, PP-1948, PP-1949]
+testimonial-ids: [TM-0006]
+story-ids: [ST-0005]
 status: preferred
 house-favorite: true
 sanitized: false

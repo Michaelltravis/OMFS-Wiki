@@ -13,9 +13,9 @@ client-size: "2.8 MGD SBR (5.0 MGD ultimate) / 18 lift stations / ~28,609 reside
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [past-performance]
 win-theme-map: [transition-continuity, asset-management, odor-control, regional-bench, partner-transparency, compliance-leadership]
-proof-point-ids: []
+proof-point-ids: [PP-1388]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0044]
 status: preferred
 house-favorite: false
 sanitized: false

@@ -14,8 +14,8 @@ geography: "Southeast / MS / Mississippi State Department of Health, EPA"
 rfp-section-type: [past-performance]
 win-theme-map: [transition-continuity, asset-management, odor-control, partner-transparency]
 proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+testimonial-ids: [TM-0048]
+story-ids: [ST-0032]
 status: preferred
 house-favorite: true
 sanitized: false

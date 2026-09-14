@@ -13,7 +13,7 @@ client-size: "32 MGD + 15 MGD + 2.6 MGD MBR facilities"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach, transition]
 win-theme-map: [compliance-leadership, asset-management, transition-continuity, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-1645, PP-1646, PP-1647]
 testimonial-ids: []
 story-ids: []
 status: preferred

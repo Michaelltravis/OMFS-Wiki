@@ -13,15 +13,16 @@ client-size: "32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach]
 win-theme-map: [asset-management, compliance-leadership, regional-support]
-proof-point-ids: []
+proof-point-ids: [PP-1681]
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+superseded-by: wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for three membrane-treatment facilities."
 quality: "Near-verbatim facility-specific MBR maintenance priorities, generalized for reusable narrative use."
 reuse-notes: "Tailor the facility descriptors, membrane vendor and equipment findings to the pursuit. [FACILITY A] is the larger Kubota MBR facility; [FACILITY B] and [FACILITY C] are Xenon membrane facilities. Retain JC Solutions as the Jacobs/CERM JV."

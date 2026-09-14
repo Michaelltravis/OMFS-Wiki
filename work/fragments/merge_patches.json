@@ -1,18 +1,607 @@
 [
   {
-    "path": "wiki/technical-approach/swip-om-project-execution-framework.md",
-    "set": {"status": "preferred", "supersedes": "wiki/technical-approach/om-management-systems-framework.md"}
+    "path": "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-training.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md",
+      "status": "preferred"
+    }
   },
   {
-    "path": "wiki/technical-approach/om-management-systems-framework.md",
-    "set": {"status": "fallback", "superseded-by": "wiki/technical-approach/swip-om-project-execution-framework.md"}
+    "path": "wiki/technical-approach/mmsd-ot-automated-plc-backup-and-version-control.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-digital-twin-benefits-table.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-approach.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/oklahoma-biosolids-legislation-emerging-risk.md",
+    "set": {
+      "supersedes": "wiki/compliance-plans/ocwut-stormwater-and-biosolids-legislation.md",
+      "status": "preferred"
+    },
+    "append": {
+      "proof-point-ids": [
+        "PP-1520",
+        "PP-1521",
+        "PP-1522",
+        "PP-1523",
+        "PP-1524",
+        "PP-1525",
+        "PP-1526"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-odor-early-warning-system-sulfiloggers-aermod.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-pgm-seven-step-initiation-table.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-facilities-understanding-shared-values.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-due-diligence-understanding-and-shared-values-alignment.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-facility-health-check-exhibit.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-system-health-check-challenges-and-value-add-table.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odors.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-base-fee-value-added-investments-and-future-savings.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/operational-integration-capital-improvements.md",
+    "set": {
+      "supersedes": "wiki/compliance-plans/cip-operational-integration-approach-and-handover-framework.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/management-staffing/swip-workforce-culture-dei-employee-networks.md",
+    "set": {
+      "supersedes": "wiki/management-staffing/fulton-inclusive-culture-and-employee-networks.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-solids-biosolids-sme-bench-and-legislative-monitoring.md",
+    "set": {
+      "supersedes": "wiki/compliance-plans/ocwut-biosolids-sme-bios.md",
+      "status": "preferred"
+    },
+    "append": {
+      "proof-point-ids": [
+        "PP-1445",
+        "PP-1446",
+        "PP-1447",
+        "PP-1448"
+      ],
+      "verbatim-ref": [
+        "verbatim/ocwut-16-26/pages/p0136.md#¶11",
+        "verbatim/ocwut-16-26/pages/p0136.md#¶13"
+      ],
+      "source-pages": [
+        136
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-reporting.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-approach-summary-om-plan-shared-priorities.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-approach-summary-om-plan-and-shared-priorities.md",
+      "status": "preferred"
+    },
+    "append": {
+      "verbatim-ref": [
+        "verbatim/mmsd-om-2028/pages/p0044.md#¶13",
+        "verbatim/mmsd-om-2028/pages/p0044.md#¶15"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/resumes/nathan-callison.md",
+    "set": {
+      "supersedes": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-project-execution-management-systems.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/om-management-systems-framework.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/swip-om-project-execution-framework.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/om-management-systems-framework.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+      "status": "preferred"
+    }
   },
   {
     "path": "wiki/technical-approach/swip-annual-innovation-workshop.md",
-    "set": {"status": "preferred", "supersedes": "wiki/technical-approach/annual-innovation-workshop-program.md"}
+    "set": {
+      "supersedes": [
+        "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+        "wiki/technical-approach/annual-innovation-workshop-program.md",
+        "wiki/technical-approach/fulton-annual-innovation-workshop.md"
+      ],
+      "status": "preferred"
+    },
+    "append": {
+      "proof-point-ids": [
+        "PP-1697"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/swip-process-control-system-tools.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/past-performance/clovis-wwtp-wrf-om.md",
+    "set": {
+      "supersedes": "wiki/past-performance/fulton-clovis-reuse-facility-performance.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/work-order-lifecycle-process.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-approach-to-management-of-facilities-pgm-foundation.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+    "set": {
+      "supersedes": "wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-regulatory-compliance-program.md",
+    "set": {
+      "supersedes": "wiki/compliance-plans/fulton-environmental-protection-and-reporting-commitment.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/asset-management-system-iso-55001-samp-governance.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
+    "set": {
+      "supersedes": [
+        "wiki/technical-approach/annual-innovation-workshop-program.md",
+        "wiki/technical-approach/fulton-annual-innovation-workshop.md"
+      ],
+      "status": "preferred"
+    }
   },
   {
     "path": "wiki/technical-approach/annual-innovation-workshop-program.md",
-    "set": {"status": "fallback", "superseded-by": "wiki/technical-approach/swip-annual-innovation-workshop.md"}
+    "set": {
+      "supersedes": "wiki/technical-approach/fulton-annual-innovation-workshop.md",
+      "superseded-by": [
+        "wiki/technical-approach/swip-annual-innovation-workshop.md",
+        "wiki/technical-approach/mmsd-annual-innovation-workshop.md"
+      ],
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/swip-erp-event-response-matrix.md",
+    "set": {
+      "supersedes": "wiki/compliance-plans/ocwut-emergency-operating-plan-elements-matrix.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/resumes/kelly-irving.md",
+    "set": {
+      "supersedes": "wiki/resumes/mmsd-kelly-irving-transition-manager.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/innovation-workshop-sample-agenda-structure.md",
+      "superseded-by": [
+        "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md",
+        "wiki/technical-approach/swip-annual-innovation-workshop.md"
+      ],
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
+    "set": {
+      "supersedes": "wiki/compliance-plans/swip-emergency-response-plan-approach.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/fulton-mbr-facility-maintenance-priorities.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md",
+    "set": {
+      "supersedes": "wiki/technical-approach/mmsd-value-added-improvements-included-in-base-fee.md",
+      "status": "preferred"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-training.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-ot-automated-plc-backup-and-version-control.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digital-twin-benefits-table.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-approach.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-stormwater-and-biosolids-legislation.md",
+    "set": {
+      "superseded-by": "wiki/compliance-plans/oklahoma-biosolids-legislation-emerging-risk.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-odor-early-warning-system-sulfiloggers-aermod.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pgm-seven-step-initiation-table.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-due-diligence-understanding-and-shared-values-alignment.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-facilities-understanding-shared-values.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-system-health-check-challenges-and-value-add-table.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-facility-health-check-exhibit.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odors.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-base-fee-value-added-investments-and-future-savings.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/cip-operational-integration-approach-and-handover-framework.md",
+    "set": {
+      "superseded-by": "wiki/compliance-plans/operational-integration-capital-improvements.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-inclusive-culture-and-employee-networks.md",
+    "set": {
+      "superseded-by": "wiki/management-staffing/swip-workforce-culture-dei-employee-networks.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-biosolids-sme-bios.md",
+    "set": {
+      "superseded-by": "wiki/compliance-plans/ocwut-solids-biosolids-sme-bench-and-legislative-monitoring.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-reporting.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-approach-summary-om-plan-and-shared-priorities.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-approach-summary-om-plan-shared-priorities.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+    "set": {
+      "superseded-by": "wiki/resumes/nathan-callison.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/om-management-systems-framework.md",
+    "set": {
+      "superseded-by": [
+        "wiki/technical-approach/fulton-project-execution-management-systems.md",
+        "wiki/technical-approach/swip-om-project-execution-framework.md"
+      ],
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/swip-process-control-system-tools.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-clovis-reuse-facility-performance.md",
+    "set": {
+      "superseded-by": "wiki/past-performance/clovis-wwtp-wrf-om.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/work-order-lifecycle-process.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-approach-to-management-of-facilities-pgm-foundation.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md",
+    "set": {
+      "superseded-by": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-environmental-protection-and-reporting-commitment.md",
+    "set": {
+      "superseded-by": "wiki/compliance-plans/fulton-regulatory-compliance-program.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/asset-management-system-iso-55001-samp-governance.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-annual-innovation-workshop.md",
+    "set": {
+      "superseded-by": [
+        "wiki/technical-approach/swip-annual-innovation-workshop.md",
+        "wiki/technical-approach/annual-innovation-workshop-program.md",
+        "wiki/technical-approach/mmsd-annual-innovation-workshop.md"
+      ],
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-emergency-operating-plan-elements-matrix.md",
+    "set": {
+      "superseded-by": "wiki/compliance-plans/swip-erp-event-response-matrix.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-kelly-irving-transition-manager.md",
+    "set": {
+      "superseded-by": "wiki/resumes/kelly-irving.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/innovation-workshop-sample-agenda-structure.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/swip-emergency-response-plan-approach.md",
+    "set": {
+      "superseded-by": "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-mbr-facility-maintenance-priorities.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md",
+      "status": "fallback"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-value-added-improvements-included-in-base-fee.md",
+    "set": {
+      "superseded-by": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md",
+      "status": "fallback"
+    }
   }
 ]

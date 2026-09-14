@@ -1,5 +1,74 @@
 [
   {
+    "path": "wiki/compliance-plans/cip-integration-risk-and-continuity-controls.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1432",
+        "PP-1433",
+        "PP-1434",
+        "PP-1435",
+        "PP-1436",
+        "PP-1437",
+        "PP-1438",
+        "PP-1439",
+        "PP-1440"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/cip-maintenance-program-asset-lifecycle-integration.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1430",
+        "PP-1431"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/cip-maintenance-skills-subcontractors-and-on-call-coverage.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1426"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/cip-operating-and-maintenance-cost-impact-analysis.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1427"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/cip-training-and-knowledge-transfer.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1429"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/compliance-monitoring-data-and-reporting.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1335",
+        "PP-1336",
+        "PP-1337"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/continuous-improvement-compliance-assurance-and-tools.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1344",
+        "PP-1345",
+        "PP-1346"
+      ]
+    }
+  },
+  {
     "path": "wiki/compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md",
     "set": {
       "proof-point-ids": [
@@ -8,7 +77,121 @@
         "PP-0318",
         "PP-0319",
         "PP-0320",
-        "PP-0321"
+        "PP-0321",
+        "PP-2097",
+        "PP-2098"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1743",
+        "PP-1744",
+        "PP-1745",
+        "PP-1746"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-clovis-environmental-compliance-record.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1901",
+        "PP-1902",
+        "PP-1903",
+        "PP-1904",
+        "PP-1905"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-emergency-response-regional-disaster-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1751",
+        "PP-1752",
+        "PP-1753",
+        "PP-1754",
+        "PP-1755"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-environmental-management-and-sampling-strategy.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1740"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1750"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-laboratory-management-and-compliance-plan.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1741",
+        "PP-1742"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-laboratory-qaqc-and-compliance-dashboard.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1735"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-regulatory-governance-and-audits.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1736",
+        "PP-1737",
+        "PP-1738",
+        "PP-1739"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1747",
+        "PP-1748",
+        "PP-1749"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-spokane-environmental-compliance-record.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1894",
+        "PP-1895",
+        "PP-1896",
+        "PP-1897",
+        "PP-1898",
+        "PP-1899",
+        "PP-1900"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/fulton-traverse-city-environmental-compliance-record.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1892",
+        "PP-1893"
       ]
     }
   },
@@ -27,7 +210,18 @@
         "PP-0233",
         "PP-0234",
         "PP-0235",
-        "PP-0236"
+        "PP-0236",
+        "PP-2063",
+        "PP-2064",
+        "PP-2065"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/hypochlorite-transport-operational-integration.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1428"
       ]
     }
   },
@@ -42,7 +236,14 @@
         "PP-0314",
         "PP-0315",
         "PP-0316",
-        "PP-0317"
+        "PP-0317",
+        "PP-2090",
+        "PP-2091",
+        "PP-2092",
+        "PP-2093",
+        "PP-2094",
+        "PP-2095",
+        "PP-2096"
       ]
     }
   },
@@ -56,10 +257,360 @@
     }
   },
   {
+    "path": "wiki/compliance-plans/laboratory-program-and-qaqc-integration-ocwut.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1338",
+        "PP-1339",
+        "PP-1340",
+        "PP-1341",
+        "PP-1342",
+        "PP-1343"
+      ]
+    }
+  },
+  {
     "path": "wiki/compliance-plans/maintenance-workflow-self-performance-mr-fund-governance.md",
     "set": {
       "proof-point-ids": [
         "PP-0332"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-cybersecurity-access-awareness-and-data-protection.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2664",
+        "PP-2665",
+        "PP-2666"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-cybersecurity-governance-and-incident-response.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2662",
+        "PP-2663"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2667",
+        "PP-2668",
+        "PP-2669",
+        "PP-2670",
+        "PP-2671",
+        "PP-2672",
+        "PP-2673",
+        "PP-2674"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-safety-auditing-and-preliminary-site-assessment.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2650",
+        "PP-2651",
+        "PP-2652",
+        "PP-2653"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-safety-culture-beyondzero-and-performance-record.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2090",
+        "PP-2093",
+        "PP-2641",
+        "PP-2642",
+        "PP-2643",
+        "PP-2644"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-safety-leadership-training-and-incident-reporting.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2647",
+        "PP-2648",
+        "PP-2649"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-safety-management-system-required-plans.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2645",
+        "PP-2646"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-security-awareness-and-workplace-violence-preparedness.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2661"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-security-expert-spotlight-gist-waddell.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2654",
+        "PP-2655",
+        "PP-2656",
+        "PP-2657"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-security-program-framework-and-management-structure.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2658",
+        "PP-2659",
+        "PP-2660"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-biosolids-hauling-land-application-disposal-coordination.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1480",
+        "PP-1481"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-biosolids-land-application-testing-communications.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1460",
+        "PP-1461"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-biosolids-program-turnaround-proof-points.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1470",
+        "PP-1471",
+        "PP-1475"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-biosolids-sme-bios.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1445",
+        "PP-1446",
+        "PP-1447",
+        "PP-1448"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-biosolids-storage-and-backlog-management.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1476",
+        "PP-1477",
+        "PP-1478",
+        "PP-1479"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1357",
+        "PP-1358"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-odeq-partnership-and-regulatory-compliance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1508",
+        "PP-1509",
+        "PP-1510",
+        "PP-1511",
+        "PP-1512",
+        "PP-1513",
+        "PP-1514",
+        "PP-1515",
+        "PP-1516"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-risk-management-emergency-programs.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1517",
+        "PP-1518",
+        "PP-1519"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-safety-program-leadership-accountability.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1350",
+        "PP-1351",
+        "PP-1352",
+        "PP-1353",
+        "PP-1354",
+        "PP-1355",
+        "PP-1356"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-safety-site-security-sme-bios.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1348",
+        "PP-1349"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-sludge-contingency-planning-and-performance-tracking.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1414"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-sludge-facility-specific-solids-profiles.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1449",
+        "PP-1450",
+        "PP-1451",
+        "PP-1452",
+        "PP-1453",
+        "PP-1454"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-sludge-management-integrated-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1441",
+        "PP-1442",
+        "PP-1443",
+        "PP-1444",
+        "PP-1455"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-sludge-storage-management-tiered-protocol.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1456",
+        "PP-1457",
+        "PP-1458",
+        "PP-1459"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-solids-biosolids-sme-bench-and-legislative-monitoring.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1464",
+        "PP-1465",
+        "PP-1466",
+        "PP-1467",
+        "PP-1468"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-solids-compliance-assurance-and-related-program-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1482",
+        "PP-1483",
+        "PP-1484"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-solids-facility-by-facility-system-understanding.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1469",
+        "PP-1472"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-solids-management-plan-stakes-and-commitment.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1462",
+        "PP-1463"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-solids-processing-and-dewatering-operations.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1473",
+        "PP-1474"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-staffing-resilience-regional-emergency-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1359",
+        "PP-1360",
+        "PP-1361",
+        "PP-1362",
+        "PP-1363",
+        "PP-1364",
+        "PP-1365",
+        "PP-1366",
+        "PP-1367"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/ocwut-stormwater-and-biosolids-legislation.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1520",
+        "PP-1521",
+        "PP-1522",
+        "PP-1523",
+        "PP-1524",
+        "PP-1525",
+        "PP-1526"
       ]
     }
   },
@@ -77,7 +628,92 @@
         "PP-0351",
         "PP-0352",
         "PP-0353",
-        "PP-0354"
+        "PP-0354",
+        "PP-2103"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/operational-integration-capital-improvements.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1415",
+        "PP-1417"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/planned-capital-improvements-integration-considerations-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1416",
+        "PP-1418",
+        "PP-1419",
+        "PP-1420",
+        "PP-1421",
+        "PP-1422",
+        "PP-1423",
+        "PP-1424",
+        "PP-1425"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/regulatory-compliance-program-leadership-and-governance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1332",
+        "PP-1333",
+        "PP-1334"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/reuse-disinfection-challenge-comparison-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1320",
+        "PP-1321",
+        "PP-1322",
+        "PP-1323"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/reuse-disinfection-facility-by-facility-approach.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1331"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/reuse-portfolio-proof-exhibit-callouts.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1324",
+        "PP-1325",
+        "PP-1326",
+        "PP-1327",
+        "PP-1328",
+        "PP-1329",
+        "PP-1330"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/reuse-water-program-understanding-and-expertise.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1319"
+      ]
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/sampling-compliance-and-process-control.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1347"
       ]
     }
   },
@@ -89,7 +725,9 @@
         "PP-0291",
         "PP-0292",
         "PP-0293",
-        "PP-0294"
+        "PP-0294",
+        "PP-0845",
+        "PP-2080"
       ]
     }
   },
@@ -103,7 +741,9 @@
         "PP-0539",
         "PP-0540",
         "PP-0541",
-        "PP-0542"
+        "PP-0542",
+        "PP-2852",
+        "PP-2853"
       ]
     }
   },
@@ -119,7 +759,8 @@
     "path": "wiki/compliance-plans/swip-environmental-regulatory-compliance-program.md",
     "set": {
       "proof-point-ids": [
-        "PP-0232"
+        "PP-0232",
+        "PP-2830"
       ]
     }
   },
@@ -171,7 +812,8 @@
         "PP-0443",
         "PP-0444",
         "PP-0445",
-        "PP-0446"
+        "PP-0446",
+        "PP-2800"
       ]
     }
   },
@@ -209,7 +851,17 @@
         "PP-0485",
         "PP-0486",
         "PP-0495",
-        "PP-0496"
+        "PP-0496",
+        "PP-2819",
+        "PP-2820",
+        "PP-2821",
+        "PP-2822",
+        "PP-2823",
+        "PP-2824",
+        "PP-2825",
+        "PP-2826",
+        "PP-2827",
+        "PP-2828"
       ]
     }
   },
@@ -227,7 +879,8 @@
       "proof-point-ids": [
         "PP-0491",
         "PP-0492",
-        "PP-0493"
+        "PP-0493",
+        "PP-2829"
       ]
     }
   },
@@ -255,7 +908,139 @@
         "PP-0159",
         "PP-0160",
         "PP-0161",
-        "PP-0162"
+        "PP-0162",
+        "PP-2104",
+        "PP-2105",
+        "PP-2106",
+        "PP-2107",
+        "PP-2108",
+        "PP-2109",
+        "PP-2110",
+        "PP-2111",
+        "PP-2112",
+        "PP-2113"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-cerm-workforce-development-pipeline.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1688",
+        "PP-1689",
+        "PP-1714"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-delivery-qaqc-functional-support-matrix.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1702",
+        "PP-1703",
+        "PP-1704"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-guiding-principles-facilities-plans-and-qaqc-network.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1700",
+        "PP-1701"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-inclusive-culture-and-employee-networks.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1683"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-jv-regional-workforce-and-technical-bench.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1672",
+        "PP-1673",
+        "PP-1674"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-key-personnel-availability-and-commitment.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1906"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-recruiting-retention-and-succession.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1690",
+        "PP-1691"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-servant-leadership-and-regional-compatibility.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1675"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-staffing-plan-and-fte-roster.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1705",
+        "PP-1706",
+        "PP-1707",
+        "PP-1708",
+        "PP-1709"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1710",
+        "PP-1711"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-team-organization-and-key-personnel.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1865",
+        "PP-1866",
+        "PP-1867",
+        "PP-1868",
+        "PP-1869",
+        "PP-1870",
+        "PP-1871",
+        "PP-1872",
+        "PP-1873"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-training-certification-and-career-development.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1684",
+        "PP-1685",
+        "PP-1686",
+        "PP-1687",
+        "PP-1712",
+        "PP-1713"
       ]
     }
   },
@@ -267,7 +1052,853 @@
         "PP-0020",
         "PP-0021",
         "PP-0028",
-        "PP-0041"
+        "PP-0041",
+        "PP-2066",
+        "PP-2067",
+        "PP-2068",
+        "PP-2069",
+        "PP-2070",
+        "PP-2071"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-apprenticeships-and-local-union-partnership.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2623",
+        "PP-2624"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-dual-management-leadership-model.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2678",
+        "PP-2715",
+        "PP-2719"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-employee-satisfaction-and-six-step-transition-process.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2540",
+        "PP-2541",
+        "PP-2542",
+        "PP-2543",
+        "PP-2995",
+        "PP-2996",
+        "PP-2997",
+        "PP-2998",
+        "PP-2999",
+        "PP-3000"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2433",
+        "PP-2434",
+        "PP-2435",
+        "PP-2436"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-high-level-transition-schedule-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2557",
+        "PP-2558",
+        "PP-2559",
+        "PP-2560",
+        "PP-2561",
+        "PP-2562",
+        "PP-2563",
+        "PP-3008",
+        "PP-3009",
+        "PP-3010",
+        "PP-3011",
+        "PP-3012"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-hr-commitment-award-winning-culture-and-integrated-hr-team.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2417"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-integrated-asset-management-and-maintenance-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2506"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-internships-and-career-awareness-outreach.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2625"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-key-leader-philosophy-and-client-testimonials.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2716",
+        "PP-2717",
+        "PP-2718"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-labor-relations-five-step-approach-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2438",
+        "PP-2439"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-leadership-development-cross-training-and-mentoring.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2518",
+        "PP-2519"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-leadership-team-org-chart-roles.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2679",
+        "PP-2680"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-local-subcontractor-partners-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2511"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-long-term-retention-and-succession-planning.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2441",
+        "PP-2442"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-mobilization-governance-and-communications-plan.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2551",
+        "PP-2552",
+        "PP-2553",
+        "PP-2554",
+        "PP-3004",
+        "PP-3005"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-one-water-one-team-culture-and-shared-values.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2609",
+        "PP-2610",
+        "PP-2611",
+        "PP-2612"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-peer-to-peer-culture-coach-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2613",
+        "PP-2614"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-pm-cm-maintenance-staffing-model.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2502",
+        "PP-2503",
+        "PP-2504",
+        "PP-2505",
+        "PP-2507"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-pm-cm-schedule-discipline-and-pdm-integration.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2508",
+        "PP-2509",
+        "PP-2510"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-recognition-teamwork-and-community-giving.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2617",
+        "PP-2618",
+        "PP-2619"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-safe-work-environment-and-healthy-workforce.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2608"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-seamless-workforce-transition-and-union-engagement.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2533",
+        "PP-2534",
+        "PP-2535",
+        "PP-2536",
+        "PP-2537",
+        "PP-2538",
+        "PP-2988",
+        "PP-2989",
+        "PP-2990",
+        "PP-2991",
+        "PP-2992",
+        "PP-2993"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2635",
+        "PP-2636",
+        "PP-2637",
+        "PP-2638",
+        "PP-2639",
+        "PP-2640"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-staffing-certainty-framework-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2432"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2418",
+        "PP-2419",
+        "PP-2420",
+        "PP-2421",
+        "PP-2422",
+        "PP-2423",
+        "PP-2424",
+        "PP-2425",
+        "PP-2426",
+        "PP-2427",
+        "PP-2428",
+        "PP-2429",
+        "PP-2430",
+        "PP-2431"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-staffing-strategy-and-organizational-structure.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2675",
+        "PP-2676",
+        "PP-2677"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-standard-employee-benefits-union-and-nonunion.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2500",
+        "PP-2501"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-step-by-step-employee-transition-and-knowledge-retention.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2532"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-structured-career-pathways-and-advancement-ladder.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2622"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-subcontractor-selection-and-management-process.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2512"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-subcontractor-strategy-and-local-business-capacity.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2513",
+        "PP-2514"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-technical-training-program-and-framework.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2515",
+        "PP-2516",
+        "PP-2517",
+        "PP-2520",
+        "PP-2521"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2522",
+        "PP-2523",
+        "PP-2524",
+        "PP-2525",
+        "PP-2526",
+        "PP-2527",
+        "PP-2528",
+        "PP-2529",
+        "PP-2530",
+        "PP-2531",
+        "PP-2982",
+        "PP-2983",
+        "PP-2984",
+        "PP-2985",
+        "PP-2986",
+        "PP-2987"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transition-leadership-team-and-pmo.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2544",
+        "PP-2545",
+        "PP-2546",
+        "PP-2548",
+        "PP-2549",
+        "PP-3001",
+        "PP-3003"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transition-organization-team-roster.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2547",
+        "PP-3002"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transition-schedule-and-assurance-of-continuity.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2555",
+        "PP-2556",
+        "PP-3006",
+        "PP-3007"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transition-training-period-and-shadowing.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2550"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-transitioning-employee-care-workshops-and-compensation.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2539",
+        "PP-2994"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-union-and-labor-relations-and-employee-transition.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2437",
+        "PP-2440"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-union-partners-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2443",
+        "PP-2444",
+        "PP-2445"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-uwm-scholarship-commitment.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2628",
+        "PP-2629",
+        "PP-2630"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-value-added-staff-positions-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2611",
+        "PP-2681",
+        "PP-2682",
+        "PP-2683",
+        "PP-2684",
+        "PP-2685",
+        "PP-2686",
+        "PP-2687",
+        "PP-2688",
+        "PP-2689",
+        "PP-2690",
+        "PP-2691",
+        "PP-2692",
+        "PP-2693",
+        "PP-2694",
+        "PP-2695",
+        "PP-2696",
+        "PP-2697",
+        "PP-2698",
+        "PP-2699",
+        "PP-2700",
+        "PP-2701",
+        "PP-2702",
+        "PP-2703",
+        "PP-2704",
+        "PP-2705",
+        "PP-2706",
+        "PP-2707",
+        "PP-2708",
+        "PP-2709",
+        "PP-2710",
+        "PP-2711",
+        "PP-2712",
+        "PP-2713",
+        "PP-2714"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-wastewater-career-internship-pipeline-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2626",
+        "PP-2627"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-workforce-development-plan-goals-and-elements.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2620",
+        "PP-2621"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-workforce-development-team-and-transparent-reporting.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2631",
+        "PP-2632",
+        "PP-2633",
+        "PP-2634"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-zero-tolerance-ethics-hotline-and-employee-feedback.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2615",
+        "PP-2616"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-247-coverage-and-oncall-rotation.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1501"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-annual-innovation-workshop-value-add.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1116",
+        "PP-1117",
+        "PP-1118",
+        "PP-1119",
+        "PP-1120"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-asset-laboratory-cip-manager-profiles.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1164",
+        "PP-1165",
+        "PP-1166",
+        "PP-1167",
+        "PP-1168"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-communications-reporting-framework-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1112",
+        "PP-1113",
+        "PP-1114",
+        "PP-1115"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-community-engagement-program-and-local-involvement.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1124",
+        "PP-1125",
+        "PP-1126"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-corporate-support-team-profiles.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1174",
+        "PP-1175",
+        "PP-1176",
+        "PP-1177",
+        "PP-1178",
+        "PP-1179",
+        "PP-1180",
+        "PP-1181"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-high-performing-culture-and-culture-coach-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1502"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-ic-technician-and-transition-manager-profiles.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1169",
+        "PP-1170",
+        "PP-1171",
+        "PP-1172",
+        "PP-1173"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-individualized-training-program-and-cross-training.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1504",
+        "PP-1505"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-integrated-management-approach-and-leadership-team.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1096",
+        "PP-1097"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-integrated-management-systems-and-required-plans.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1122",
+        "PP-1123"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-key-personnel-requirements-matrix-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1487",
+        "PP-1488",
+        "PP-1489",
+        "PP-1490",
+        "PP-1491",
+        "PP-1492",
+        "PP-1493",
+        "PP-1494",
+        "PP-1495",
+        "PP-1496"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-layered-performance-monitoring-and-corrective-action.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1102",
+        "PP-1103"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-leadership-alignment-zippering-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1098"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1506",
+        "PP-1507"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-management-structure-and-team-familiarity.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1127",
+        "PP-1128"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-offsite-sme-support-resources.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1182",
+        "PP-1183",
+        "PP-1184"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1101"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-onsite-delivery-team-fte-roster-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1499"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-operations-and-maintenance-manager-profiles.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1146",
+        "PP-1147",
+        "PP-1148",
+        "PP-1149",
+        "PP-1150",
+        "PP-1151",
+        "PP-1152",
+        "PP-1153",
+        "PP-1154",
+        "PP-1155",
+        "PP-1156",
+        "PP-1157",
+        "PP-1158",
+        "PP-1159",
+        "PP-1160",
+        "PP-1161",
+        "PP-1162",
+        "PP-1163"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-organization-chart-and-reporting-structure.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1497"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-performance-dashboard-and-reporting-tools.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1121"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-performance-management-framework-schedule-5-standards.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1099",
+        "PP-1100"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-project-leadership-triad-profiles.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1129",
+        "PP-1130",
+        "PP-1131",
+        "PP-1132",
+        "PP-1133",
+        "PP-1134",
+        "PP-1135",
+        "PP-1136",
+        "PP-1137",
+        "PP-1138"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-qaqc-and-plant-operations-manager-profiles.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1139",
+        "PP-1140",
+        "PP-1141",
+        "PP-1142",
+        "PP-1143",
+        "PP-1144",
+        "PP-1145"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-qaqc-program-oversight-and-annual-quality-audit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1104",
+        "PP-1105",
+        "PP-1106",
+        "PP-1107",
+        "PP-1108",
+        "PP-1109",
+        "PP-1110",
+        "PP-1111"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-staffing-model-fewer-managers-more-doers.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1498",
+        "PP-1500"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-staffing-training-plan-overview-and-leadership.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1485",
+        "PP-1486"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/ocwut-vacancy-management-retention-and-staffing-resiliency.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1503"
       ]
     }
   },
@@ -281,7 +1912,9 @@
         "PP-0136",
         "PP-0137",
         "PP-0138",
-        "PP-0139"
+        "PP-0139",
+        "PP-1984",
+        "PP-1985"
       ]
     }
   },
@@ -326,7 +1959,8 @@
         "PP-0263",
         "PP-0264",
         "PP-0265",
-        "PP-0266"
+        "PP-0266",
+        "PP-2072"
       ]
     }
   },
@@ -336,7 +1970,9 @@
       "proof-point-ids": [
         "PP-0267",
         "PP-0268",
-        "PP-0269"
+        "PP-0269",
+        "PP-2073",
+        "PP-2074"
       ]
     }
   },
@@ -349,7 +1985,8 @@
         "PP-0272",
         "PP-0273",
         "PP-0274",
-        "PP-0275"
+        "PP-0275",
+        "PP-2075"
       ]
     }
   },
@@ -358,7 +1995,9 @@
     "set": {
       "proof-point-ids": [
         "PP-0174",
-        "PP-0450"
+        "PP-0450",
+        "PP-2879",
+        "PP-2880"
       ]
     }
   },
@@ -371,7 +2010,11 @@
         "PP-0564",
         "PP-0565",
         "PP-0566",
-        "PP-0567"
+        "PP-0567",
+        "PP-2869",
+        "PP-2870",
+        "PP-2871",
+        "PP-2872"
       ]
     }
   },
@@ -381,7 +2024,9 @@
       "proof-point-ids": [
         "PP-0568",
         "PP-0569",
-        "PP-0570"
+        "PP-0570",
+        "PP-2873",
+        "PP-2874"
       ]
     }
   },
@@ -395,7 +2040,14 @@
         "PP-0558",
         "PP-0559",
         "PP-0560",
-        "PP-0561"
+        "PP-0561",
+        "PP-2862",
+        "PP-2863",
+        "PP-2864",
+        "PP-2865",
+        "PP-2866",
+        "PP-2867",
+        "PP-2868"
       ]
     }
   },
@@ -420,7 +2072,10 @@
         "PP-0549",
         "PP-0552",
         "PP-0553",
-        "PP-0554"
+        "PP-0554",
+        "PP-2859",
+        "PP-2860",
+        "PP-2861"
       ]
     }
   },
@@ -428,7 +2083,8 @@
     "path": "wiki/management-staffing/swip-regional-maintenance-shared-technician-model.md",
     "set": {
       "proof-point-ids": [
-        "PP-0552"
+        "PP-0552",
+        "PP-2875"
       ]
     }
   },
@@ -439,7 +2095,9 @@
         "PP-0561",
         "PP-0572",
         "PP-0573",
-        "PP-0574"
+        "PP-0574",
+        "PP-2877",
+        "PP-2878"
       ]
     }
   },
@@ -469,7 +2127,11 @@
         "PP-0549",
         "PP-0550",
         "PP-0551",
-        "PP-0552"
+        "PP-0552",
+        "PP-2856",
+        "PP-2857",
+        "PP-2858",
+        "PP-2876"
       ]
     }
   },
@@ -491,7 +2153,13 @@
         "PP-0455",
         "PP-0456",
         "PP-0457",
-        "PP-0458"
+        "PP-0458",
+        "PP-2801",
+        "PP-2802",
+        "PP-2803",
+        "PP-2804",
+        "PP-2805",
+        "PP-2806"
       ]
     }
   },
@@ -537,7 +2205,8 @@
         "PP-0646",
         "PP-0647",
         "PP-0648",
-        "PP-0649"
+        "PP-0649",
+        "PP-2908"
       ]
     }
   },
@@ -575,7 +2244,8 @@
         "PP-0337",
         "PP-0338",
         "PP-0339",
-        "PP-0340"
+        "PP-0340",
+        "PP-2102"
       ]
     }
   },
@@ -638,7 +2308,43 @@
         "PP-0208",
         "PP-0222",
         "PP-0223",
-        "PP-0224"
+        "PP-0224",
+        "PP-2020",
+        "PP-2028",
+        "PP-2029",
+        "PP-2030",
+        "PP-2031",
+        "PP-2032",
+        "PP-2033",
+        "PP-2034",
+        "PP-2035",
+        "PP-2036",
+        "PP-2037",
+        "PP-2038",
+        "PP-2039",
+        "PP-2040",
+        "PP-2041",
+        "PP-2042",
+        "PP-2043",
+        "PP-2044",
+        "PP-2045",
+        "PP-2046",
+        "PP-2047",
+        "PP-2048",
+        "PP-2049",
+        "PP-2050",
+        "PP-2051",
+        "PP-2052",
+        "PP-2053",
+        "PP-2054",
+        "PP-2055",
+        "PP-2056",
+        "PP-2057",
+        "PP-2058",
+        "PP-2059",
+        "PP-2060",
+        "PP-2061",
+        "PP-2062"
       ]
     }
   },
@@ -653,7 +2359,12 @@
         "PP-0401",
         "PP-0402",
         "PP-0403",
-        "PP-0404"
+        "PP-0404",
+        "PP-2781",
+        "PP-2782",
+        "PP-2783",
+        "PP-2784",
+        "PP-2785"
       ]
     }
   },
@@ -667,7 +2378,130 @@
         "PP-0413",
         "PP-0414",
         "PP-0415",
-        "PP-0416"
+        "PP-0416",
+        "PP-2792",
+        "PP-2793",
+        "PP-2794",
+        "PP-2795"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-clovis-reuse-facility-overview.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1890"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-clovis-reuse-facility-performance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1891"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-mbr-design-and-commissioning-portfolio.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1876"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-mbr-operations-engineering-and-sme-experience.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1877",
+        "PP-1878",
+        "PP-1879"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-spokane-county-dbo-overview.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1886",
+        "PP-1887",
+        "PP-1888"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-spokane-county-dbo-performance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1889"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-traverse-city-dbo-accomplishments.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1883",
+        "PP-1884",
+        "PP-1885"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-traverse-city-dbo-overview.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1880",
+        "PP-1881",
+        "PP-1882"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-us-treatment-facilities-portfolio.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1874",
+        "PP-1875"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1398",
+        "PP-1399",
+        "PP-1400"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-bixby-wrf-lift-stations-om.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1388"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-jackson-jxn-water-om.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1389"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-san-marcos-tx.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1401",
+        "PP-1402",
+        "PP-1403",
+        "PP-1404",
+        "PP-1405"
       ]
     }
   },
@@ -683,7 +2517,14 @@
         "PP-0070",
         "PP-0071",
         "PP-0072",
-        "PP-0073"
+        "PP-0073",
+        "PP-1967",
+        "PP-1968",
+        "PP-1969",
+        "PP-1970",
+        "PP-1971",
+        "PP-1972",
+        "PP-1973"
       ]
     }
   },
@@ -697,7 +2538,15 @@
         "PP-0005",
         "PP-0006",
         "PP-0064",
-        "PP-0065"
+        "PP-0065",
+        "PP-1959",
+        "PP-1960",
+        "PP-1961",
+        "PP-1962",
+        "PP-1963",
+        "PP-1964",
+        "PP-1965",
+        "PP-1966"
       ]
     }
   },
@@ -717,7 +2566,34 @@
         "PP-0083",
         "PP-0084",
         "PP-0085",
-        "PP-0086"
+        "PP-0086",
+        "PP-1974",
+        "PP-1975",
+        "PP-1976",
+        "PP-1977",
+        "PP-1978"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1393",
+        "PP-1394",
+        "PP-1395",
+        "PP-1396",
+        "PP-1397"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/project-waterbury-ct-odor-control-and-results.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1390",
+        "PP-1391",
+        "PP-1392"
       ]
     }
   },
@@ -734,7 +2610,17 @@
         "PP-0043",
         "PP-0044",
         "PP-0045",
-        "PP-0046"
+        "PP-0046",
+        "PP-1940",
+        "PP-1941",
+        "PP-1942",
+        "PP-1943",
+        "PP-1944",
+        "PP-1945",
+        "PP-1946",
+        "PP-1947",
+        "PP-1948",
+        "PP-1949"
       ]
     }
   },
@@ -758,7 +2644,16 @@
         "PP-0060",
         "PP-0061",
         "PP-0062",
-        "PP-0063"
+        "PP-0063",
+        "PP-1950",
+        "PP-1951",
+        "PP-1952",
+        "PP-1953",
+        "PP-1954",
+        "PP-1955",
+        "PP-1956",
+        "PP-1957",
+        "PP-1958"
       ]
     }
   },
@@ -769,7 +2664,10 @@
         "PP-0381",
         "PP-0395",
         "PP-0396",
-        "PP-0397"
+        "PP-0397",
+        "PP-2778",
+        "PP-2779",
+        "PP-2780"
       ]
     }
   },
@@ -811,7 +2709,9 @@
         "PP-0108",
         "PP-0109",
         "PP-0110",
-        "PP-0111"
+        "PP-0111",
+        "PP-1979",
+        "PP-1980"
       ]
     }
   },
@@ -821,7 +2721,9 @@
       "proof-point-ids": [
         "PP-0358",
         "PP-0405",
-        "PP-0406"
+        "PP-0406",
+        "PP-2786",
+        "PP-2787"
       ]
     }
   },
@@ -836,7 +2738,40 @@
         "PP-0408",
         "PP-0409",
         "PP-0410",
-        "PP-0411"
+        "PP-0411",
+        "PP-2788",
+        "PP-2789",
+        "PP-2790",
+        "PP-2791"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/biosolids-land-application-capability-and-case-studies.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0781",
+        "PP-0782",
+        "PP-0783",
+        "PP-0784",
+        "PP-0785",
+        "PP-0786",
+        "PP-0787",
+        "PP-0788",
+        "PP-0789",
+        "PP-0790",
+        "PP-0791",
+        "PP-0792",
+        "PP-0793",
+        "PP-0794",
+        "PP-0795",
+        "PP-0796",
+        "PP-0797",
+        "PP-0798",
+        "PP-0799",
+        "PP-0800",
+        "PP-0801",
+        "PP-0802"
       ]
     }
   },
@@ -847,7 +2782,16 @@
         "PP-0150",
         "PP-0371",
         "PP-0372",
-        "PP-0373"
+        "PP-0373",
+        "PP-2769"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/communications-and-transparency-partnership-record.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0838"
       ]
     }
   },
@@ -865,7 +2809,25 @@
         "PP-0183",
         "PP-0184",
         "PP-0188",
-        "PP-0189"
+        "PP-0189",
+        "PP-2018",
+        "PP-2019"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/contract-compliance-record-and-audit-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0845",
+        "PP-0846",
+        "PP-0847",
+        "PP-0848",
+        "PP-0849",
+        "PP-0850",
+        "PP-0867",
+        "PP-0868",
+        "PP-0869"
       ]
     }
   },
@@ -880,7 +2842,84 @@
         "PP-0171",
         "PP-0219",
         "PP-0220",
-        "PP-0221"
+        "PP-0221",
+        "PP-2004",
+        "PP-2023",
+        "PP-2024",
+        "PP-2025",
+        "PP-2026",
+        "PP-2027"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/corporate-fact-box-and-employer-culture.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0748",
+        "PP-0749",
+        "PP-0750"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/engineering-sme-bench-cmms-biosolids-odor-control-reuse.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1211",
+        "PP-1212",
+        "PP-1213",
+        "PP-1214",
+        "PP-1215",
+        "PP-1216"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/engineering-sme-bench-electrical-process-funding-regulatory-security.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1227",
+        "PP-1228",
+        "PP-1229",
+        "PP-1230",
+        "PP-1231",
+        "PP-1232",
+        "PP-1233",
+        "PP-1234",
+        "PP-1235",
+        "PP-1236",
+        "PP-1237",
+        "PP-1238",
+        "PP-1239",
+        "PP-1240"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/engineering-sme-bench-wet-weather-scada-emergency-response-commissioning.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1217",
+        "PP-1218",
+        "PP-1219",
+        "PP-1220",
+        "PP-1221",
+        "PP-1222",
+        "PP-1223",
+        "PP-1224",
+        "PP-1225",
+        "PP-1226"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/environmental-compliance-record-and-transparency-posture.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0755",
+        "PP-0756",
+        "PP-0757"
       ]
     }
   },
@@ -896,7 +2935,8 @@
         "PP-0215",
         "PP-0216",
         "PP-0217",
-        "PP-0218"
+        "PP-0218",
+        "PP-2022"
       ]
     }
   },
@@ -927,7 +2967,49 @@
         "PP-0367",
         "PP-0368",
         "PP-0369",
-        "PP-0370"
+        "PP-0370",
+        "PP-0534",
+        "PP-0748",
+        "PP-2759",
+        "PP-2760",
+        "PP-2761",
+        "PP-2762",
+        "PP-2763",
+        "PP-2764",
+        "PP-2765",
+        "PP-2766",
+        "PP-2767",
+        "PP-2768"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/firm-qualifications-opener-and-corporate-scale.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0751",
+        "PP-0752",
+        "PP-0753",
+        "PP-0754"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/full-om-service-portfolio-and-integrated-delivery-model.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0758",
+        "PP-0759",
+        "PP-0760",
+        "PP-0761",
+        "PP-0762",
+        "PP-0763",
+        "PP-0764",
+        "PP-0765",
+        "PP-0766",
+        "PP-0767",
+        "PP-0768",
+        "PP-0769"
       ]
     }
   },
@@ -936,6 +3018,234 @@
     "set": {
       "proof-point-ids": [
         "PP-0394"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/fulton-jv-additional-management-and-leadership.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1854",
+        "PP-1855",
+        "PP-1856"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/fulton-jv-consulting-resources-digital-solids-energy-and-commissioning.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1863",
+        "PP-1864"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1862"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/fulton-jv-executive-sponsors-and-senior-supervisors.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1850",
+        "PP-1851",
+        "PP-1852",
+        "PP-1853"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1857",
+        "PP-1858",
+        "PP-1859"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1860",
+        "PP-1861"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/maintenance-and-asset-management-case-studies.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0817",
+        "PP-0818",
+        "PP-0819",
+        "PP-0820",
+        "PP-0826",
+        "PP-0827",
+        "PP-0828",
+        "PP-0829",
+        "PP-0830",
+        "PP-0831",
+        "PP-0832",
+        "PP-0833",
+        "PP-0834",
+        "PP-0835",
+        "PP-0836",
+        "PP-0837"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2568",
+        "PP-2569"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/mmsd-exceptions-and-proposed-contract-alternatives-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2365",
+        "PP-2366"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2566",
+        "PP-2567"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2372",
+        "PP-2373",
+        "PP-2374",
+        "PP-2375",
+        "PP-2376",
+        "PP-2377",
+        "PP-2378"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/mmsd-insurance-exhibit-markups-general-provisions.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2367",
+        "PP-2368",
+        "PP-2369",
+        "PP-2370",
+        "PP-2371"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/mmsd-proposer-identity-financial-strength-and-contracting-entity.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2564",
+        "PP-2565"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/odor-control-capability-and-case-studies.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0803",
+        "PP-0804",
+        "PP-0805",
+        "PP-0806",
+        "PP-0807",
+        "PP-0808",
+        "PP-0809"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/offsite-sme-support-asset-management-maintenance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1185",
+        "PP-1186",
+        "PP-1187",
+        "PP-1188",
+        "PP-1189"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/offsite-sme-support-biosolids-operations.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1190",
+        "PP-1191"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/offsite-sme-support-process-compliance-laboratory-energy-ot.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1192",
+        "PP-1193",
+        "PP-1194",
+        "PP-1195",
+        "PP-1196",
+        "PP-1197",
+        "PP-1198",
+        "PP-1199",
+        "PP-1200",
+        "PP-1201",
+        "PP-1202",
+        "PP-1203"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/offsite-sme-support-safety-communications-hr-procurement-capital.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1204",
+        "PP-1205",
+        "PP-1206",
+        "PP-1207",
+        "PP-1208",
+        "PP-1209",
+        "PP-1210"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/oklahoma-experience-and-regional-resources.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0770",
+        "PP-0771",
+        "PP-0772",
+        "PP-0773",
+        "PP-0774",
+        "PP-0775",
+        "PP-0776",
+        "PP-0777",
+        "PP-0778",
+        "PP-0779",
+        "PP-0780"
       ]
     }
   },
@@ -953,7 +3263,67 @@
         "PP-0171",
         "PP-0172",
         "PP-0173",
-        "PP-0175"
+        "PP-0175",
+        "PP-2005",
+        "PP-2006",
+        "PP-2007",
+        "PP-2008",
+        "PP-2009",
+        "PP-2010",
+        "PP-2011",
+        "PP-2013",
+        "PP-2014",
+        "PP-2015",
+        "PP-2016"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/on-site-sodium-hypochlorite-generation-experience.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0810",
+        "PP-0811",
+        "PP-0812",
+        "PP-0813",
+        "PP-0814",
+        "PP-0815",
+        "PP-0816"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/oshg-experience-examples-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0821",
+        "PP-0822",
+        "PP-0823",
+        "PP-0824",
+        "PP-0825"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/pump-station-om-experience-and-portfolio-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0851",
+        "PP-0852",
+        "PP-0853",
+        "PP-0854",
+        "PP-0855",
+        "PP-0856",
+        "PP-0857",
+        "PP-0858",
+        "PP-0859",
+        "PP-0860",
+        "PP-0861",
+        "PP-0862",
+        "PP-0863",
+        "PP-0864",
+        "PP-0865",
+        "PP-0866"
       ]
     }
   },
@@ -963,7 +3333,9 @@
       "proof-point-ids": [
         "PP-0374",
         "PP-0375",
-        "PP-0376"
+        "PP-0376",
+        "PP-2770",
+        "PP-2771"
       ]
     }
   },
@@ -976,7 +3348,8 @@
         "PP-0177",
         "PP-0185",
         "PP-0186",
-        "PP-0187"
+        "PP-0187",
+        "PP-2017"
       ]
     }
   },
@@ -997,7 +3370,25 @@
         "PP-0388",
         "PP-0389",
         "PP-0390",
-        "PP-0391"
+        "PP-0391",
+        "PP-2773",
+        "PP-2774",
+        "PP-2775",
+        "PP-2776",
+        "PP-2777"
+      ]
+    }
+  },
+  {
+    "path": "wiki/qualifications/septage-receiving-program-experience.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0839",
+        "PP-0840",
+        "PP-0841",
+        "PP-0842",
+        "PP-0843",
+        "PP-0844"
       ]
     }
   },
@@ -1027,7 +3418,16 @@
         "PP-0534",
         "PP-0535",
         "PP-0536",
-        "PP-0537"
+        "PP-0537",
+        "PP-2836",
+        "PP-2837",
+        "PP-2838",
+        "PP-2839",
+        "PP-2840",
+        "PP-2841",
+        "PP-2842",
+        "PP-2843",
+        "PP-2844"
       ]
     }
   },
@@ -1041,7 +3441,14 @@
         "PP-0219",
         "PP-0220",
         "PP-0221",
-        "PP-0360"
+        "PP-0360",
+        "PP-2845",
+        "PP-2846",
+        "PP-2847",
+        "PP-2848",
+        "PP-2849",
+        "PP-2850",
+        "PP-2851"
       ]
     }
   },
@@ -1053,7 +3460,8 @@
         "PP-0377",
         "PP-0378",
         "PP-0379",
-        "PP-0380"
+        "PP-0380",
+        "PP-2772"
       ]
     }
   },
@@ -1061,7 +3469,48 @@
     "path": "wiki/qualifications/workforce-culture-retention-employer-of-choice-value-prop.md",
     "set": {
       "proof-point-ids": [
-        "PP-0174"
+        "PP-0174",
+        "PP-2012"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/alex-rodriguez.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0916",
+        "PP-0917",
+        "PP-0918",
+        "PP-0919",
+        "PP-0920",
+        "PP-0921",
+        "PP-0922",
+        "PP-0923",
+        "PP-0924"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/amy-dembinski.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0998",
+        "PP-0999",
+        "PP-1000",
+        "PP-1001",
+        "PP-1002",
+        "PP-1003"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/anthony-benavidez.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1787",
+        "PP-1788",
+        "PP-1803",
+        "PP-1808"
       ]
     }
   },
@@ -1074,7 +3523,33 @@
         "PP-0004",
         "PP-0005",
         "PP-0006",
-        "PP-0020"
+        "PP-0020",
+        "PP-0827",
+        "PP-1914",
+        "PP-1915",
+        "PP-1916",
+        "PP-1917",
+        "PP-1918"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/brian-daniels.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1004",
+        "PP-1005",
+        "PP-1006",
+        "PP-1007",
+        "PP-1008",
+        "PP-1009",
+        "PP-1010",
+        "PP-1011",
+        "PP-1012",
+        "PP-1013",
+        "PP-1014",
+        "PP-1015",
+        "PP-1016"
       ]
     }
   },
@@ -1093,7 +3568,10 @@
         "PP-0590",
         "PP-0591",
         "PP-0592",
-        "PP-0593"
+        "PP-0593",
+        "PP-2893",
+        "PP-2894",
+        "PP-2895"
       ]
     }
   },
@@ -1109,7 +3587,91 @@
         "PP-0610",
         "PP-0611",
         "PP-0612",
-        "PP-0613"
+        "PP-0613",
+        "PP-2899"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/david-pitocchelli-little-river-plant-manager.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1797",
+        "PP-1798",
+        "PP-1799",
+        "PP-1800",
+        "PP-1801",
+        "PP-1802",
+        "PP-1807",
+        "PP-1811"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/david-pitocchelli.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0870",
+        "PP-0871",
+        "PP-0872",
+        "PP-0873",
+        "PP-0874",
+        "PP-0875",
+        "PP-0876",
+        "PP-0877",
+        "PP-0878",
+        "PP-0879",
+        "PP-0880",
+        "PP-0881",
+        "PP-0882",
+        "PP-0883",
+        "PP-0884"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/devon-trezevant.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1789",
+        "PP-1790",
+        "PP-1791",
+        "PP-1792",
+        "PP-1804",
+        "PP-1809"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1816"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-mark-huggard-big-creek-plant-manager.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1814"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1812",
+        "PP-1813"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/fulton-tim-durham-senior-supervisor.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1815"
       ]
     }
   },
@@ -1133,7 +3695,19 @@
         "PP-0581",
         "PP-0582",
         "PP-0583",
-        "PP-0584"
+        "PP-0584",
+        "PP-2881",
+        "PP-2882",
+        "PP-2883",
+        "PP-2884",
+        "PP-2885",
+        "PP-2886",
+        "PP-2887",
+        "PP-2888",
+        "PP-2889",
+        "PP-2890",
+        "PP-2891",
+        "PP-2892"
       ]
     }
   },
@@ -1149,7 +3723,52 @@
         "PP-0581",
         "PP-0614",
         "PP-0615",
-        "PP-0616"
+        "PP-0616",
+        "PP-2900",
+        "PP-2901",
+        "PP-2902",
+        "PP-2903",
+        "PP-2904",
+        "PP-2905"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/jose-ramos.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0939",
+        "PP-0940",
+        "PP-0941",
+        "PP-0942",
+        "PP-0943",
+        "PP-0944",
+        "PP-0945",
+        "PP-0946",
+        "PP-0947",
+        "PP-0948",
+        "PP-0949",
+        "PP-0950",
+        "PP-0951",
+        "PP-0952",
+        "PP-0953",
+        "PP-0954",
+        "PP-0955"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/josh-alleman.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0908",
+        "PP-0909",
+        "PP-0910",
+        "PP-0911",
+        "PP-0912",
+        "PP-0913",
+        "PP-0914",
+        "PP-0915"
       ]
     }
   },
@@ -1157,7 +3776,24 @@
     "path": "wiki/resumes/joshua-hernandez.md",
     "set": {
       "proof-point-ids": [
-        "PP-0565"
+        "PP-0565",
+        "PP-2898"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/kelly-irving.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0899",
+        "PP-0900",
+        "PP-0901",
+        "PP-0902",
+        "PP-0903",
+        "PP-0904",
+        "PP-0905",
+        "PP-0906",
+        "PP-0907"
       ]
     }
   },
@@ -1177,7 +3813,14 @@
         "PP-0037",
         "PP-0038",
         "PP-0039",
-        "PP-0040"
+        "PP-0040",
+        "PP-1922",
+        "PP-1923",
+        "PP-1924",
+        "PP-1925",
+        "PP-1926",
+        "PP-1927",
+        "PP-1928"
       ]
     }
   },
@@ -1198,7 +3841,9 @@
         "PP-0602",
         "PP-0603",
         "PP-0604",
-        "PP-0605"
+        "PP-0605",
+        "PP-2896",
+        "PP-2897"
       ]
     }
   },
@@ -1207,7 +3852,8 @@
     "set": {
       "proof-point-ids": [
         "PP-0570",
-        "PP-0617"
+        "PP-0617",
+        "PP-2906"
       ]
     }
   },
@@ -1221,7 +3867,197 @@
         "PP-0024",
         "PP-0025",
         "PP-0026",
-        "PP-0027"
+        "PP-0027",
+        "PP-1919",
+        "PP-1920",
+        "PP-1921"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-aleksey-reznik-wrf-operations-manager.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2471",
+        "PP-2474",
+        "PP-2476",
+        "PP-2477"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-bill-desing-chief-engineer.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2480",
+        "PP-2481",
+        "PP-2488"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-brooke-winters-hr.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2490"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-dave-haverly-safety-security-jiwrf.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2496",
+        "PP-2497"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-eric-habermayer-conveyance-manager-cmms.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2482"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-frank-dipietrapaul-maintenance-asset-manager-wrfs.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2467",
+        "PP-2468",
+        "PP-2469"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-jeff-williams-labor-relations.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2489",
+        "PP-2491"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-john-loucks-powell-director-maintenance-asset-management.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2462",
+        "PP-2463",
+        "PP-2464",
+        "PP-2465",
+        "PP-2466",
+        "PP-2470"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-kelly-irving-transition-manager.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2455"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-keoki-sears-program-management-advisor.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2456",
+        "PP-2457",
+        "PP-2458"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-kevin-dahl-project-manager.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2447",
+        "PP-2448",
+        "PP-2452",
+        "PP-2453"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-liie-hill-capital-project-coordinator.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2483",
+        "PP-2484",
+        "PP-2485",
+        "PP-2486",
+        "PP-2487"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-monty-sedlak-maintenance-asset-manager-conveyance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2478",
+        "PP-2479"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-quitterie-cotten-program-management-initiation.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2459",
+        "PP-2460"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-rick-warner-deputy-project-manager.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2446",
+        "PP-2449",
+        "PP-2450",
+        "PP-2451",
+        "PP-2454"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-susan-moisio-wet-weather-conveyance-director.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2472",
+        "PP-2473",
+        "PP-2475"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-toyin-ogunfolaju-public-outreach-coordinator.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2461"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-tracy-james-safety-security-sswrf.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2498",
+        "PP-2499"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/mmsd-travis-leech-security-safety-manager.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2492",
+        "PP-2493",
+        "PP-2494",
+        "PP-2495"
       ]
     }
   },
@@ -1247,7 +4083,58 @@
         "PP-0016",
         "PP-0017",
         "PP-0018",
-        "PP-0019"
+        "PP-0019",
+        "PP-1907",
+        "PP-1908",
+        "PP-1909",
+        "PP-1910",
+        "PP-1911",
+        "PP-1912",
+        "PP-1913"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/nathan-dahl.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1793",
+        "PP-1794",
+        "PP-1795",
+        "PP-1796",
+        "PP-1805",
+        "PP-1806",
+        "PP-1810"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/paul-shropshire.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0956",
+        "PP-0957",
+        "PP-0958",
+        "PP-0959",
+        "PP-0960",
+        "PP-0961",
+        "PP-0962",
+        "PP-0963",
+        "PP-0964",
+        "PP-0965",
+        "PP-0966",
+        "PP-0967",
+        "PP-0968",
+        "PP-0969",
+        "PP-0970",
+        "PP-0971",
+        "PP-0972",
+        "PP-0973",
+        "PP-0974",
+        "PP-0975",
+        "PP-0976",
+        "PP-0977",
+        "PP-0978"
       ]
     }
   },
@@ -1257,7 +4144,81 @@
       "proof-point-ids": [
         "PP-0568",
         "PP-0618",
-        "PP-0619"
+        "PP-0619",
+        "PP-2907"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/robert-coons.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1017",
+        "PP-1018",
+        "PP-1019",
+        "PP-1020",
+        "PP-1021",
+        "PP-1022",
+        "PP-1023",
+        "PP-1024",
+        "PP-1025",
+        "PP-1026"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/roy-aristizabal.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0979",
+        "PP-0980",
+        "PP-0981",
+        "PP-0982",
+        "PP-0983",
+        "PP-0984",
+        "PP-0985",
+        "PP-0986",
+        "PP-0987",
+        "PP-0988",
+        "PP-0989"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/scott-golden.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1027",
+        "PP-1028",
+        "PP-1029",
+        "PP-1030",
+        "PP-1031",
+        "PP-1032",
+        "PP-1033",
+        "PP-1034",
+        "PP-1035",
+        "PP-1036"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/scott-levesque.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1824",
+        "PP-1825",
+        "PP-1826",
+        "PP-1827",
+        "PP-1828",
+        "PP-1829",
+        "PP-1830",
+        "PP-1831",
+        "PP-1832",
+        "PP-1833",
+        "PP-1834",
+        "PP-1835",
+        "PP-1836",
+        "PP-1837"
       ]
     }
   },
@@ -1276,7 +4237,90 @@
         "PP-0033",
         "PP-0034",
         "PP-0035",
-        "PP-0041"
+        "PP-0041",
+        "PP-0827",
+        "PP-1929",
+        "PP-1930",
+        "PP-1931",
+        "PP-1932",
+        "PP-1933",
+        "PP-1934",
+        "PP-1935",
+        "PP-1936",
+        "PP-1937",
+        "PP-1938",
+        "PP-1939"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/steve-carpenter.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0885",
+        "PP-0886",
+        "PP-0887",
+        "PP-0888",
+        "PP-0889",
+        "PP-0890",
+        "PP-0891",
+        "PP-0892",
+        "PP-0893",
+        "PP-0894",
+        "PP-0895",
+        "PP-0896",
+        "PP-0897",
+        "PP-0898"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/tanner-pipher.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0990",
+        "PP-0991",
+        "PP-0992",
+        "PP-0993",
+        "PP-0994",
+        "PP-0995",
+        "PP-0996",
+        "PP-0997"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/terrell-gibbs.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1817",
+        "PP-1818",
+        "PP-1819",
+        "PP-1820",
+        "PP-1821",
+        "PP-1822",
+        "PP-1823"
+      ]
+    }
+  },
+  {
+    "path": "wiki/resumes/tim-durham.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0925",
+        "PP-0926",
+        "PP-0927",
+        "PP-0928",
+        "PP-0929",
+        "PP-0930",
+        "PP-0931",
+        "PP-0932",
+        "PP-0933",
+        "PP-0934",
+        "PP-0935",
+        "PP-0936",
+        "PP-0937",
+        "PP-0938"
       ]
     }
   },
@@ -1286,7 +4330,38 @@
       "proof-point-ids": [
         "PP-0141",
         "PP-0278",
-        "PP-0279"
+        "PP-0279",
+        "PP-2078"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/arm-tool-asset-replacement-modeling-capital-planning.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1087"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/asset-management-system-iso-55001-samp-governance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1053",
+        "PP-1054",
+        "PP-1055"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/baseline-driven-energy-management-multi-facility-portfolio.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1241",
+        "PP-1242",
+        "PP-1243",
+        "PP-1244",
+        "PP-1245"
       ]
     }
   },
@@ -1308,13 +4383,42 @@
     }
   },
   {
+    "path": "wiki/technical-approach/chisholm-creek-process-control-proactive-risk-reduction.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1312"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/cip-implementation-and-construction-coordination.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1088",
+        "PP-1089"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/cip-phase-by-phase-support-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1090",
+        "PP-1091"
+      ]
+    }
+  },
+  {
     "path": "wiki/technical-approach/cmms-driven-asset-management-maintenance-program.md",
     "set": {
       "proof-point-ids": [
         "PP-0145",
         "PP-0146",
         "PP-0148",
-        "PP-0331"
+        "PP-0331",
+        "PP-2099",
+        "PP-2100",
+        "PP-2101"
       ]
     }
   },
@@ -1333,7 +4437,46 @@
         "PP-0305",
         "PP-0306",
         "PP-0307",
-        "PP-0308"
+        "PP-0308",
+        "PP-2081",
+        "PP-2082",
+        "PP-2083",
+        "PP-2084",
+        "PP-2085",
+        "PP-2086",
+        "PP-2087",
+        "PP-2088"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/corrective-maintenance-program-failure-chain.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1066",
+        "PP-1067",
+        "PP-1068",
+        "PP-1069",
+        "PP-1070"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/deer-creek-process-control-breaking-reactive-cycle.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1310",
+        "PP-1311"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/drain-clean-corrosion-control-housekeeping-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1056",
+        "PP-1057",
+        "PP-1058"
       ]
     }
   },
@@ -1346,6 +4489,425 @@
         "PP-0324",
         "PP-0325",
         "PP-0326"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/energy-optimization-proven-results-comparable-facilities.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1246",
+        "PP-1247",
+        "PP-1248",
+        "PP-1249",
+        "PP-1250",
+        "PP-1251"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1045",
+        "PP-1046",
+        "PP-1047",
+        "PP-1048",
+        "PP-1049",
+        "PP-1050",
+        "PP-1051",
+        "PP-1052"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/facility-process-control-priority-matrix.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1302",
+        "PP-1303",
+        "PP-1304"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-annual-innovation-workshop.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1697"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-asset-management-system-and-technical-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1676"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-biosolids-capability-and-facility-assessment.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1756",
+        "PP-1757",
+        "PP-1758",
+        "PP-1759",
+        "PP-1760",
+        "PP-1761"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1763",
+        "PP-1764",
+        "PP-1765"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1762"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1693",
+        "PP-1694"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-community-outreach-team-and-framework.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1695",
+        "PP-1696"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-community-relations-plan-and-stakeholder-directory.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1698",
+        "PP-1699"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-compliance-workforce-reachback.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1649"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-comprehensive-om-approach-and-transition.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1605"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-current-future-challenges-and-commissioning.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1645",
+        "PP-1646",
+        "PP-1647"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-customer-service-plan.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1692"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-deliverables-commitment-annual-and-transition-plans-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1606",
+        "PP-1607",
+        "PP-1608",
+        "PP-1609",
+        "PP-1610",
+        "PP-1611",
+        "PP-1612",
+        "PP-1613",
+        "PP-1614"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-deliverables-commitment-records-safety-and-staffing-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1615",
+        "PP-1616",
+        "PP-1617",
+        "PP-1618",
+        "PP-1619",
+        "PP-1620",
+        "PP-1621",
+        "PP-1622",
+        "PP-1623",
+        "PP-1624",
+        "PP-1625",
+        "PP-1626",
+        "PP-1627",
+        "PP-1628",
+        "PP-1629",
+        "PP-1630",
+        "PP-1631",
+        "PP-1632",
+        "PP-1633",
+        "PP-1634"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1729",
+        "PP-1730"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-equipment-performance-testing-plan.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1682"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-facility-asset-inventory.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1641",
+        "PP-1642",
+        "PP-1643"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-imlr-piping-and-membrane-commissioning.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1719"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1677",
+        "PP-1678"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-lifecycle-maintenance-risk-and-performance-management.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1679",
+        "PP-1680"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-mbr-facility-maintenance-priorities.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1681"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-mbr-facility-portfolio-and-pump-stations.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1637",
+        "PP-1638",
+        "PP-1639",
+        "PP-1640",
+        "PP-1644"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1720",
+        "PP-1721",
+        "PP-1722",
+        "PP-1723"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-membrane-monitoring-and-scada-capability.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1724",
+        "PP-1725",
+        "PP-1726",
+        "PP-1727"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-odor-control-baseline-and-monitoring.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1766",
+        "PP-1767",
+        "PP-1768"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-odor-control-scrubber-optimization.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1728"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-odor-emissions-study-and-housekeeping.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1769",
+        "PP-1770"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1715"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-process-optimization-fermentation-phosphorus.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1716",
+        "PP-1717",
+        "PP-1718"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-project-execution-management-systems.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1635"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-secure-kpi-dashboard-and-transparency.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1636"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-successful-experience-multi-facility-mbr.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1652",
+        "PP-1653",
+        "PP-1654"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-successful-experience-transition-asset-community.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1655",
+        "PP-1656"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-transition-continuity-and-staff-transfer.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1771",
+        "PP-1772",
+        "PP-1773",
+        "PP-1774",
+        "PP-1775",
+        "PP-1776"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1777",
+        "PP-1778",
+        "PP-1779",
+        "PP-1780",
+        "PP-1781",
+        "PP-1782",
+        "PP-1783",
+        "PP-1784",
+        "PP-1785",
+        "PP-1786"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-trusted-partner-and-comprehensive-sme-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1648"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-uv-solids-and-potable-water-protection.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1731"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-workforce-satisfaction-and-industry-recognition.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1650",
+        "PP-1651"
       ]
     }
   },
@@ -1365,7 +4927,16 @@
     "set": {
       "proof-point-ids": [
         "PP-0112",
-        "PP-0113"
+        "PP-0113",
+        "PP-1981"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/integrated-maintenance-asset-management-team-regional-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1074"
       ]
     }
   },
@@ -1374,7 +4945,1357 @@
     "set": {
       "proof-point-ids": [
         "PP-0209",
-        "PP-0210"
+        "PP-0210",
+        "PP-2021"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/maintenance-plan-system-findings-asset-condition.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1037",
+        "PP-1038",
+        "PP-1039",
+        "PP-1040",
+        "PP-1041",
+        "PP-1042",
+        "PP-1043",
+        "PP-1044"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/maintenance-staffing-and-drain-clean-restructuring.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1071"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/maintenance-three-phase-continuous-improvement-reporting.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1084",
+        "PP-1085",
+        "PP-1086"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/major-pump-station-operations-odor-hydraulic-reliability.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1252",
+        "PP-1253",
+        "PP-1254",
+        "PP-1255",
+        "PP-1256",
+        "PP-1257",
+        "PP-1258",
+        "PP-1259",
+        "PP-1260"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2201",
+        "PP-2202",
+        "PP-2203"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2204",
+        "PP-2205",
+        "PP-2206"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-aeration-energy-and-process-optimization.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2159"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2207",
+        "PP-2208",
+        "PP-2209"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2199",
+        "PP-2200"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1117",
+        "PP-2273",
+        "PP-2274",
+        "PP-2276"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-approach-summary-om-plan-shared-priorities.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2114"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-biosolids-heat-dried-product-monitoring.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3029"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2242",
+        "PP-2243",
+        "PP-2244",
+        "PP-2245"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-chemical-usage-monitoring-and-control.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0232"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2228",
+        "PP-2229",
+        "PP-2230",
+        "PP-2231",
+        "PP-2232",
+        "PP-2233",
+        "PP-2234",
+        "PP-2235",
+        "PP-2236",
+        "PP-2237",
+        "PP-2238",
+        "PP-2239",
+        "PP-2240",
+        "PP-2241"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-cmms-collaborative-implementation-process.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2255",
+        "PP-2256",
+        "PP-2257",
+        "PP-2258"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-cmms-differentiating-strength-and-nexgen-experience.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2253",
+        "PP-2254"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2259",
+        "PP-2260",
+        "PP-2261",
+        "PP-2262",
+        "PP-2263",
+        "PP-2264"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2211",
+        "PP-2212",
+        "PP-2213",
+        "PP-2214"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2215",
+        "PP-2216",
+        "PP-2217",
+        "PP-2218"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2150",
+        "PP-2151",
+        "PP-2152",
+        "PP-2971",
+        "PP-2972",
+        "PP-2973"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1265",
+        "PP-1266",
+        "PP-1267",
+        "PP-1268",
+        "PP-1269",
+        "PP-1270",
+        "PP-1271",
+        "PP-1272",
+        "PP-1273",
+        "PP-2591",
+        "PP-2592",
+        "PP-2594",
+        "PP-2595",
+        "PP-2596",
+        "PP-2597",
+        "PP-2598",
+        "PP-2599",
+        "PP-2600",
+        "PP-2601",
+        "PP-2602",
+        "PP-2603",
+        "PP-3040",
+        "PP-3041"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2141",
+        "PP-2142",
+        "PP-2143"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0232",
+        "PP-2593",
+        "PP-2604",
+        "PP-2605",
+        "PP-3042"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-corporate-resources-six-pillars-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2579",
+        "PP-2580",
+        "PP-3026",
+        "PP-3027"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2227"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2181",
+        "PP-2190"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-decision-making-hierarchy-three-tiers.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2145",
+        "PP-2966"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2163",
+        "PP-2164",
+        "PP-2165"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2170",
+        "PP-2171",
+        "PP-2172"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2576",
+        "PP-2577",
+        "PP-3020",
+        "PP-3021",
+        "PP-3024"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3025"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-effective-efficient-wet-weather-operations.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2153",
+        "PP-2154",
+        "PP-2975",
+        "PP-2976"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-energy-demand-management-predictive-advisories.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2173",
+        "PP-2174",
+        "PP-2175"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-energy-optimization-focus-area-and-dynamic-energy-balance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2168"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-future-collaboration-intelligent-om-and-ot-security-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2350",
+        "PP-2351",
+        "PP-2352",
+        "PP-2353",
+        "PP-2354",
+        "PP-2355",
+        "PP-2356",
+        "PP-2357",
+        "PP-2358",
+        "PP-2359",
+        "PP-2360",
+        "PP-2361"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-future-collaboration-process-improvements-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2333",
+        "PP-2334",
+        "PP-2335",
+        "PP-2336",
+        "PP-2337",
+        "PP-2338",
+        "PP-2339",
+        "PP-2340",
+        "PP-2341",
+        "PP-2342",
+        "PP-2343",
+        "PP-2344",
+        "PP-2345",
+        "PP-2346",
+        "PP-2347",
+        "PP-2348",
+        "PP-2349"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2363",
+        "PP-2364"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-best-practices-improvements-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2293",
+        "PP-2294",
+        "PP-2295",
+        "PP-2296",
+        "PP-2297",
+        "PP-2298",
+        "PP-2299",
+        "PP-2300",
+        "PP-2301",
+        "PP-2302",
+        "PP-2303",
+        "PP-2304",
+        "PP-2305",
+        "PP-2306",
+        "PP-2307",
+        "PP-2308",
+        "PP-2309",
+        "PP-2310"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-pilots-optimization-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2311",
+        "PP-2312",
+        "PP-2313",
+        "PP-2314",
+        "PP-2315",
+        "PP-2316",
+        "PP-2317",
+        "PP-2318",
+        "PP-2319",
+        "PP-2320",
+        "PP-2321",
+        "PP-2322",
+        "PP-2323",
+        "PP-2324",
+        "PP-2325",
+        "PP-2326",
+        "PP-2327",
+        "PP-2328",
+        "PP-2329",
+        "PP-2330"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-studies-support-partnership-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2279",
+        "PP-2280",
+        "PP-2281",
+        "PP-2282",
+        "PP-2283",
+        "PP-2284",
+        "PP-2285",
+        "PP-2286",
+        "PP-2287",
+        "PP-2288",
+        "PP-2289",
+        "PP-2290",
+        "PP-2291",
+        "PP-2292"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2120",
+        "PP-2121",
+        "PP-2122",
+        "PP-2123",
+        "PP-2124",
+        "PP-2125",
+        "PP-2126",
+        "PP-2127",
+        "PP-2128",
+        "PP-2129",
+        "PP-2130"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-facilities-understanding-shared-values.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2131",
+        "PP-2132"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-facility-health-check-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2133",
+        "PP-2134",
+        "PP-2135"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2251",
+        "PP-2252"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2192",
+        "PP-2193",
+        "PP-2194"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-five-tenets-culture-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2136"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2220",
+        "PP-2221",
+        "PP-2222"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2176",
+        "PP-2177",
+        "PP-2178",
+        "PP-2179"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-future-improvements-and-innovations-for-additional-savings.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2331",
+        "PP-2332"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2275"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-integrated-performance-monitoring-framework.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3028"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-integrated-reliability-maintenance-program-outcomes.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2210"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-intelligent-dry-weather-management.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2149",
+        "PP-2970",
+        "PP-2974"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-key-operational-focus-areas.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2147",
+        "PP-2968"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-landfill-gas-power-generation-and-waste-heat-strategy.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2169"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-level3-pdm-conveyance-technologies.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2266",
+        "PP-2267",
+        "PP-2268"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-level3-pdm-phased-rollout.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2270",
+        "PP-2271"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-liquid-treatment-optimization-opportunities.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2156",
+        "PP-2157",
+        "PP-2978"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2195",
+        "PP-2196"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2223",
+        "PP-2224",
+        "PP-2225",
+        "PP-2226"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-monitoring-control-practices-solids-energy-chemical-odor-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2148",
+        "PP-2969"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2572",
+        "PP-2573",
+        "PP-2574",
+        "PP-3015",
+        "PP-3016",
+        "PP-3017",
+        "PP-3018"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-odor-continuous-improvement-and-community-outreach.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2575",
+        "PP-3019"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-operations-approach-and-operational-priorities.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2144",
+        "PP-2964",
+        "PP-2965"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-ot-asset-management-modules-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3023"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-ot-automated-backup-benefits-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2578",
+        "PP-3022"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pdm-goals-and-current-fragmented-state.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2265"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pdm-program-approach-integrating-levels-1-3.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2272"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pdm-roles-and-responsibilities.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2269"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pgm-framework-standup-and-leadership.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2138",
+        "PP-2139"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2137",
+        "PP-2140"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pm-optimization-and-work-planning.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2219"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2197",
+        "PP-2198"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-process-monitoring-control-system-wide-insight.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2146",
+        "PP-2967"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-settleability-optimization-strategies-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2158",
+        "PP-2979",
+        "PP-2980"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2581",
+        "PP-2582",
+        "PP-2583",
+        "PP-2584",
+        "PP-2585",
+        "PP-2586",
+        "PP-2587",
+        "PP-3030",
+        "PP-3031",
+        "PP-3032",
+        "PP-3033",
+        "PP-3034",
+        "PP-3035",
+        "PP-3036"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-six-point-compliance-program-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2588",
+        "PP-2589",
+        "PP-2590",
+        "PP-3037",
+        "PP-3038",
+        "PP-3039"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2180",
+        "PP-2182",
+        "PP-2183",
+        "PP-2184",
+        "PP-2185",
+        "PP-2186",
+        "PP-2187",
+        "PP-2188",
+        "PP-2189",
+        "PP-2191"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2166",
+        "PP-2167"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2160",
+        "PP-2161",
+        "PP-2162",
+        "PP-2981"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-sustainable-approach-to-operations.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2362"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-unified-compliance-oversight-and-stewardship.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2606",
+        "PP-2607",
+        "PP-3043",
+        "PP-3044"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-value-added-improvements-included-in-base-fee.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2277",
+        "PP-2278"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2115",
+        "PP-2116",
+        "PP-2117",
+        "PP-2118",
+        "PP-2119"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2570",
+        "PP-2571",
+        "PP-3013",
+        "PP-3014"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2246",
+        "PP-2247",
+        "PP-2248",
+        "PP-2249",
+        "PP-2250"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-wrf-wet-processes-systemwide-integration.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2155",
+        "PP-2977"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mopo-and-integrated-om-engineering-cip-advantage.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1092",
+        "PP-1093",
+        "PP-1094",
+        "PP-1095"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mr-and-rr-fund-management-documentation-discipline.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1076",
+        "PP-1077",
+        "PP-1078",
+        "PP-1079",
+        "PP-1080",
+        "PP-1081"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/north-canadian-process-control-stabilize-first.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1308",
+        "PP-1309"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-advanced-odor-monitoring-and-data-driven-control.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1285",
+        "PP-1286"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-biosolids-and-disinfection-systems-as-odor-drivers.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1287",
+        "PP-1288"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-cip-integration-and-regional-ot-support.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1382",
+        "PP-1383",
+        "PP-1384",
+        "PP-1385"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-collection-system-odor-control-wats-and-wet-weather-basins.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1274",
+        "PP-1275",
+        "PP-1276",
+        "PP-1277",
+        "PP-1278"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-exhibit-1-1-asset-protection-cip-integration-matrix.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1573",
+        "PP-1574",
+        "PP-1575",
+        "PP-1576",
+        "PP-1577",
+        "PP-1578",
+        "PP-1579",
+        "PP-1580",
+        "PP-1581",
+        "PP-1582",
+        "PP-1583",
+        "PP-1584",
+        "PP-1585"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-exhibit-1-1-odor-control-community-protection-matrix.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1546",
+        "PP-1547",
+        "PP-1548",
+        "PP-1549",
+        "PP-1550",
+        "PP-1551",
+        "PP-1552",
+        "PP-1553",
+        "PP-1554",
+        "PP-1555",
+        "PP-1556",
+        "PP-1557",
+        "PP-1558",
+        "PP-1559",
+        "PP-1560",
+        "PP-1561",
+        "PP-1562"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-exhibit-1-1-regulatory-compliance-reuse-matrix.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1540",
+        "PP-1541",
+        "PP-1542",
+        "PP-1543",
+        "PP-1544",
+        "PP-1545"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-exhibit-1-1-staffing-performance-transition-matrix.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1586",
+        "PP-1587",
+        "PP-1588",
+        "PP-1589",
+        "PP-1590",
+        "PP-1591",
+        "PP-1592",
+        "PP-1593",
+        "PP-1594",
+        "PP-1595",
+        "PP-1596",
+        "PP-1597",
+        "PP-1598",
+        "PP-1599",
+        "PP-1600",
+        "PP-1601",
+        "PP-1602",
+        "PP-1603",
+        "PP-1604"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-exhibit-1-1-wet-weather-solids-management-matrix.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1565",
+        "PP-1566",
+        "PP-1567",
+        "PP-1568",
+        "PP-1569",
+        "PP-1570",
+        "PP-1571",
+        "PP-1572"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-facility-understanding-and-proposal-preparation.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1533",
+        "PP-1534",
+        "PP-1535",
+        "PP-1536",
+        "PP-1537",
+        "PP-1538",
+        "PP-1539"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-fence-line-performance-rapid-response-and-integration.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1289",
+        "PP-1290",
+        "PP-1291",
+        "PP-1292",
+        "PP-1293"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-four-facility-process-control-diagnosis.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1296",
+        "PP-1297",
+        "PP-1298",
+        "PP-1299",
+        "PP-1300",
+        "PP-1301"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-four-layer-odor-control-strategy.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1563",
+        "PP-1564"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-oklahoma-regulatory-knowledge-odeq-relationship.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1265",
+        "PP-1266",
+        "PP-1267",
+        "PP-1268",
+        "PP-1269",
+        "PP-1270",
+        "PP-1271",
+        "PP-1272",
+        "PP-1273"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1371",
+        "PP-1372",
+        "PP-1373"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-operational-technology-cybersecurity-its-plan.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1381"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-owner-governed-scada-ot-support-approach.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1368",
+        "PP-1369",
+        "PP-1370"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-phase-3-automation-strategies-and-benefits-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1387"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-process-control-phase-2-scada-you-can-trust.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1376",
+        "PP-1377"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-process-control-phase-3-automation-integration.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1378",
+        "PP-1379",
+        "PP-1380"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-process-control-phased-improvement-plan-phase-1-baseline.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1374",
+        "PP-1375"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-scada-ot-cybersecurity-responsibility-split-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1386"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-transition-communications-training-asset-validation-and-partnership.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1408",
+        "PP-1409",
+        "PP-1410"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1411"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1406",
+        "PP-1407",
+        "PP-1412",
+        "PP-1413"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/ocwut-wwtf-odor-control-dispersion-modeling-and-equipment-restoration.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1279",
+        "PP-1280",
+        "PP-1281",
+        "PP-1282",
+        "PP-1283",
+        "PP-1284",
+        "PP-1294",
+        "PP-1295"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/on-call-and-emergency-maintenance-response.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1082",
+        "PP-1083"
       ]
     }
   },
@@ -1382,7 +6303,8 @@
     "path": "wiki/technical-approach/ot-scada-modernization-roadmap.md",
     "set": {
       "proof-point-ids": [
-        "PP-0137"
+        "PP-0137",
+        "PP-2089"
       ]
     }
   },
@@ -1400,6 +6322,41 @@
     }
   },
   {
+    "path": "wiki/technical-approach/phased-process-control-approach-three-phase-exhibit.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1261",
+        "PP-1262",
+        "PP-1263",
+        "PP-1264"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/phased-process-control-strategy-stabilize-optimize-sustain.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1305",
+        "PP-1306",
+        "PP-1307"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/predictive-maintenance-technology-suite-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1059",
+        "PP-1060",
+        "PP-1061",
+        "PP-1062",
+        "PP-1063",
+        "PP-1064",
+        "PP-1065"
+      ]
+    }
+  },
+  {
     "path": "wiki/technical-approach/process-control-and-compliance-tools.md",
     "set": {
       "proof-point-ids": [
@@ -1410,12 +6367,33 @@
     }
   },
   {
+    "path": "wiki/technical-approach/process-control-interdependencies-energy-equipment-rotation.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1317",
+        "PP-1318"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/process-control-tools-benefits-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1314",
+        "PP-1315",
+        "PP-1316"
+      ]
+    }
+  },
+  {
     "path": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
     "set": {
       "proof-point-ids": [
         "PP-0273",
         "PP-0276",
-        "PP-0277"
+        "PP-0277",
+        "PP-2076",
+        "PP-2077"
       ]
     }
   },
@@ -1445,7 +6423,9 @@
         "PP-0128",
         "PP-0129",
         "PP-0130",
-        "PP-0131"
+        "PP-0131",
+        "PP-1982",
+        "PP-1983"
       ]
     }
   },
@@ -1461,12 +6441,30 @@
     }
   },
   {
+    "path": "wiki/technical-approach/south-canadian-new-plant-process-control-day-one.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1313"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/spare-parts-inventory-management-critical-assets.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1075"
+      ]
+    }
+  },
+  {
     "path": "wiki/technical-approach/swip-annual-innovation-workshop.md",
     "set": {
       "proof-point-ids": [
         "PP-0113",
         "PP-0152",
-        "PP-0528"
+        "PP-0528",
+        "PP-2834",
+        "PP-2835"
       ]
     }
   },
@@ -1489,7 +6487,9 @@
         "PP-0515",
         "PP-0519",
         "PP-0520",
-        "PP-0521"
+        "PP-0521",
+        "PP-2832",
+        "PP-2833"
       ]
     }
   },
@@ -1499,7 +6499,8 @@
       "proof-point-ids": [
         "PP-0468",
         "PP-0512",
-        "PP-0513"
+        "PP-0513",
+        "PP-2831"
       ]
     }
   },
@@ -1538,7 +6539,9 @@
       "proof-point-ids": [
         "PP-0667",
         "PP-0668",
-        "PP-0683"
+        "PP-0683",
+        "PP-2961",
+        "PP-2962"
       ]
     }
   },
@@ -1581,7 +6584,10 @@
         "PP-0427",
         "PP-0428",
         "PP-0429",
-        "PP-0430"
+        "PP-0430",
+        "PP-2796",
+        "PP-2797",
+        "PP-2798"
       ]
     }
   },
@@ -1593,7 +6599,8 @@
         "PP-0691",
         "PP-0692",
         "PP-0693",
-        "PP-0694"
+        "PP-0694",
+        "PP-2963"
       ]
     }
   },
@@ -1612,7 +6619,19 @@
         "PP-0469",
         "PP-0470",
         "PP-0471",
-        "PP-0472"
+        "PP-0472",
+        "PP-2807",
+        "PP-2808",
+        "PP-2809",
+        "PP-2810",
+        "PP-2811",
+        "PP-2812",
+        "PP-2813",
+        "PP-2814",
+        "PP-2815",
+        "PP-2816",
+        "PP-2817",
+        "PP-2818"
       ]
     }
   },
@@ -1669,7 +6688,8 @@
         "PP-0435",
         "PP-0436",
         "PP-0437",
-        "PP-0438"
+        "PP-0438",
+        "PP-2799"
       ]
     }
   },
@@ -1698,7 +6718,9 @@
         "PP-0471",
         "PP-0546",
         "PP-0547",
-        "PP-0548"
+        "PP-0548",
+        "PP-2854",
+        "PP-2855"
       ]
     }
   },
@@ -1716,7 +6738,17 @@
       "proof-point-ids": [
         "PP-0137",
         "PP-0280",
-        "PP-0281"
+        "PP-0281",
+        "PP-2079"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/warranty-management-cmms-warranty-register.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1072",
+        "PP-1073"
       ]
     }
   },
@@ -1729,6 +6761,14 @@
     }
   },
   {
+    "path": "wiki/win-themes/alternative-escalation-index-methodology.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1527"
+      ]
+    }
+  },
+  {
     "path": "wiki/win-themes/cover-letter-coastal-context-and-named-leadership.md",
     "set": {
       "proof-point-ids": [
@@ -1737,11 +6777,55 @@
     }
   },
   {
+    "path": "wiki/win-themes/cover-letter-day-one-priorities-value-bullets.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0700"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/cover-letter-innovation-scale-and-ethics-differentiators.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0704",
+        "PP-0705",
+        "PP-0706",
+        "PP-0707",
+        "PP-0708",
+        "PP-0709",
+        "PP-0710"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/cover-letter-named-leadership-and-contract-prerequisites-close.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0711",
+        "PP-0712",
+        "PP-0713",
+        "PP-0714"
+      ]
+    }
+  },
+  {
     "path": "wiki/win-themes/cover-letter-transition-commitment-and-partnership-close.md",
     "set": {
       "proof-point-ids": [
         "PP-0140",
-        "PP-0141"
+        "PP-0141",
+        "PP-1986"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/cover-letter-utility-partnership-opening-and-system-challenges.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0697",
+        "PP-0698",
+        "PP-0699"
       ]
     }
   },
@@ -1749,7 +6833,82 @@
     "path": "wiki/win-themes/exec-summary-annual-innovation-workshop-partnership-narrative.md",
     "set": {
       "proof-point-ids": [
-        "PP-0152"
+        "PP-0152",
+        "PP-1992"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-comprehensive-jv-solution-benefits.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1845",
+        "PP-1846",
+        "PP-1847",
+        "PP-1848",
+        "PP-1849"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-innovation-benefit-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0741",
+        "PP-0742",
+        "PP-0743",
+        "PP-0744",
+        "PP-0745",
+        "PP-0746",
+        "PP-0747"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-innovation-commitment-and-closing-statement.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0740"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-jv-partnership-value-proposition.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1838",
+        "PP-1839",
+        "PP-1840",
+        "PP-1841",
+        "PP-1842",
+        "PP-1843",
+        "PP-1844"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-leadership-team-roster-and-corporate-bench.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0731"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-national-om-bench-and-workforce-continuity.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0706",
+        "PP-0716",
+        "PP-0717",
+        "PP-0723",
+        "PP-0724",
+        "PP-0725",
+        "PP-0726",
+        "PP-0727",
+        "PP-0728",
+        "PP-0729",
+        "PP-0730"
       ]
     }
   },
@@ -1762,7 +6921,391 @@
         "PP-0145",
         "PP-0146",
         "PP-0147",
-        "PP-0148"
+        "PP-0148",
+        "PP-1987",
+        "PP-1988",
+        "PP-1989"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-required-plans-transition-and-staffing.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0734",
+        "PP-0735",
+        "PP-0736",
+        "PP-0737"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-site-verified-understanding-and-case-for-change.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0715",
+        "PP-0718",
+        "PP-0719",
+        "PP-0720",
+        "PP-0721",
+        "PP-0722"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-sludge-management-plan-commitment.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0738",
+        "PP-0739"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exec-summary-technical-approach-pillars.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0732",
+        "PP-0733"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-0701",
+        "PP-0702",
+        "PP-0703"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-aquadna-smart-system-optimization.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1668",
+        "PP-1669",
+        "PP-1670",
+        "PP-1671"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-community-internship-and-workforce-development-partnerships.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1733"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-community-organization-and-water-stewardship-partnerships.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1734"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-energy-management-investment-value-and-savings.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1657",
+        "PP-1658",
+        "PP-1659",
+        "PP-1660",
+        "PP-1661"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-maintenance-ai-assistant-palantir.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1664",
+        "PP-1665"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-maintenance-planner-scheduler-palantir.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1662",
+        "PP-1663"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-proactive-media-relations-program.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1732"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-replica-digital-twin-optimization-training.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1666",
+        "PP-1667"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/innovative-financing-for-biosolids-management.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1528",
+        "PP-1529"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/intelligent-om-chemical-energy-savings.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-1530",
+        "PP-1531"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-above-and-beyond-investments-and-savings.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2382",
+        "PP-2383",
+        "PP-2384",
+        "PP-2385",
+        "PP-2386",
+        "PP-2387",
+        "PP-2388",
+        "PP-2389",
+        "PP-2390",
+        "PP-2391",
+        "PP-2392",
+        "PP-2393",
+        "PP-2394",
+        "PP-2395",
+        "PP-2396"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-elevated-operations-technical-bench-and-no-surprises-compliance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2406"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-high-caliber-leadership-and-people-first-culture.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2397",
+        "PP-2398"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-iso-55001-asset-management-and-reliability.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2399",
+        "PP-2400"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-regional-partnership-and-community-benefits.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2409",
+        "PP-2415",
+        "PP-2416"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-seamless-transition-and-workforce-continuity.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2407",
+        "PP-2408",
+        "PP-2410",
+        "PP-2411",
+        "PP-2412",
+        "PP-2413"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-trusted-partner-opening-and-six-core-attributes.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2379",
+        "PP-2380",
+        "PP-2381"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-wet-weather-and-optimization-savings.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2401",
+        "PP-2402",
+        "PP-2403",
+        "PP-2404",
+        "PP-2405"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-why-jacobs-close.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2414"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-client-vision-recognition.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2726",
+        "PP-3052"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2732",
+        "PP-2733",
+        "PP-2734",
+        "PP-2735",
+        "PP-2736",
+        "PP-2737",
+        "PP-2738",
+        "PP-3058",
+        "PP-3059",
+        "PP-3060"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-san-marcos.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2739",
+        "PP-2740",
+        "PP-2741",
+        "PP-2742",
+        "PP-3061",
+        "PP-3062",
+        "PP-3063",
+        "PP-3064"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-thames-tideway.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2748",
+        "PP-2749",
+        "PP-2750",
+        "PP-2751",
+        "PP-2752",
+        "PP-2753",
+        "PP-2754",
+        "PP-2755",
+        "PP-2756",
+        "PP-2757",
+        "PP-2758",
+        "PP-3068",
+        "PP-3069",
+        "PP-3070",
+        "PP-3071"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-the-villages.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2743",
+        "PP-2744",
+        "PP-2745",
+        "PP-2746",
+        "PP-2747",
+        "PP-3065",
+        "PP-3066",
+        "PP-3067"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-fishing-pier-river-access-concept.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2727",
+        "PP-3053"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-leadership-team-and-local-partners.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2720",
+        "PP-2721",
+        "PP-3045",
+        "PP-3046"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-local-community-involvement-record.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2722",
+        "PP-2723",
+        "PP-2724",
+        "PP-2725",
+        "PP-3047",
+        "PP-3048",
+        "PP-3049",
+        "PP-3050",
+        "PP-3051"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-strategy-workforce-economic-growth.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2728",
+        "PP-2729",
+        "PP-3054",
+        "PP-3055"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-2730",
+        "PP-2731",
+        "PP-3056",
+        "PP-3057"
       ]
     }
   },
@@ -1779,7 +7322,9 @@
     "set": {
       "proof-point-ids": [
         "PP-0427",
-        "PP-0514"
+        "PP-0514",
+        "PP-2938",
+        "PP-2939"
       ]
     }
   },
@@ -1788,7 +7333,9 @@
     "set": {
       "proof-point-ids": [
         "PP-0232",
-        "PP-0291"
+        "PP-0291",
+        "PP-2940",
+        "PP-2941"
       ]
     }
   },
@@ -1812,7 +7359,23 @@
         "PP-0368",
         "PP-0369",
         "PP-0370",
-        "PP-0663"
+        "PP-0663",
+        "PP-2912",
+        "PP-2913",
+        "PP-2914",
+        "PP-2915",
+        "PP-2916",
+        "PP-2917",
+        "PP-2918",
+        "PP-2919",
+        "PP-2920",
+        "PP-2921",
+        "PP-2922",
+        "PP-2923",
+        "PP-2924",
+        "PP-2925",
+        "PP-2926",
+        "PP-2927"
       ]
     }
   },
@@ -1826,7 +7389,13 @@
         "PP-0573",
         "PP-0664",
         "PP-0665",
-        "PP-0666"
+        "PP-0666",
+        "PP-2928",
+        "PP-2929",
+        "PP-2930",
+        "PP-2931",
+        "PP-2932",
+        "PP-2933"
       ]
     }
   },
@@ -1834,7 +7403,8 @@
     "path": "wiki/win-themes/swip-partner-integration-and-technical-bench.md",
     "set": {
       "proof-point-ids": [
-        "PP-0553"
+        "PP-0553",
+        "PP-2934"
       ]
     }
   },
@@ -1844,7 +7414,8 @@
       "proof-point-ids": [
         "PP-0673",
         "PP-0674",
-        "PP-0675"
+        "PP-0675",
+        "PP-2942"
       ]
     }
   },
@@ -1854,7 +7425,8 @@
       "proof-point-ids": [
         "PP-0437",
         "PP-0671",
-        "PP-0672"
+        "PP-0672",
+        "PP-2937"
       ]
     }
   },
@@ -1875,7 +7447,9 @@
         "PP-0662",
         "PP-0680",
         "PP-0681",
-        "PP-0682"
+        "PP-0682",
+        "PP-2954",
+        "PP-2955"
       ]
     }
   },
@@ -1890,7 +7464,13 @@
         "PP-0665",
         "PP-0673",
         "PP-0678",
-        "PP-0679"
+        "PP-0679",
+        "PP-2930",
+        "PP-2956",
+        "PP-2957",
+        "PP-2958",
+        "PP-2959",
+        "PP-2960"
       ]
     }
   },
@@ -1913,7 +7493,21 @@
         "PP-0667",
         "PP-0668",
         "PP-0676",
-        "PP-0677"
+        "PP-0677",
+        "PP-2807",
+        "PP-2935",
+        "PP-2936",
+        "PP-2943",
+        "PP-2944",
+        "PP-2945",
+        "PP-2946",
+        "PP-2947",
+        "PP-2948",
+        "PP-2949",
+        "PP-2950",
+        "PP-2951",
+        "PP-2952",
+        "PP-2953"
       ]
     }
   },
@@ -1923,7 +7517,10 @@
       "proof-point-ids": [
         "PP-0430",
         "PP-0661",
-        "PP-0662"
+        "PP-0662",
+        "PP-2909",
+        "PP-2910",
+        "PP-2911"
       ]
     }
   },
@@ -1942,7 +7539,18 @@
         "PP-0160",
         "PP-0161",
         "PP-0162",
-        "PP-0163"
+        "PP-0163",
+        "PP-1993",
+        "PP-1994",
+        "PP-1995",
+        "PP-1996",
+        "PP-1997",
+        "PP-1998",
+        "PP-1999",
+        "PP-2000",
+        "PP-2001",
+        "PP-2002",
+        "PP-2003"
       ]
     }
   },
@@ -1951,7 +7559,9 @@
     "set": {
       "proof-point-ids": [
         "PP-0149",
-        "PP-0150"
+        "PP-0150",
+        "PP-1990",
+        "PP-1991"
       ]
     }
   }

@@ -51,8 +51,8 @@ pursuits/<pursuit>/         Per-pursuit content plan (content-plan.md: the Direc
                             preferred references, stories, gap decisions, page/device
                             budgets, win-theme evidence map). Writers obey the spec sheet.
 work/                       Scripts: pdf_to_verbatim.py, coverage.py,
-                            map_blocks_to_pages.py, regen_index.py, build_docx.py,
-                            validate_v2.py.
+                            render_flagged_pages.py, map_blocks_to_pages.py,
+                            regen_index.py, build_docx.py, validate_v2.py.
 templates/content-block.md  Template for new content blocks (schema v2).
 templates/standard-topics.md  The topics Jacobs includes in every cover letter, exec
                             summary, qualifications, staffing and approach section whether
@@ -137,6 +137,7 @@ Content blocks are **starting points, not final text**; the verbatim layer is wh
 | `santamonica-swip-om-2025` | `raw/SantaMonica_SWIP_OM_FINAL 09122025.pdf` | Southern California sustainable water infrastructure O&M, 2025 |
 | `ocwut-16-26` | `raw/RFP-OCWUT-16-26_Proposal_Jacobs.pdf` | Southcentral US water utility trust, four WWTPs >110 MGD + biosolids, 2026 challenger bid; ODEQ |
 | `fulton-county-2025` | `raw/Fulton-County_25RFP146289K-JAJ_Technical-Proposal_JC-Solutions.pdf` | Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD |
+| `mmsd-om-2028` | `raw/007CAM_MMSD-OM_Combined.pdf` | Midwest US regional sewerage district, two large water reclamation facilities + biosolids (Milorganite) production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR |
 
 ## Adding new content (extraction workflow)
 
@@ -144,7 +145,7 @@ Script first, agents only where a script cannot do the job. No model reads propo
 
 1. Drop the source PDF in `raw/` and register it above.
 2. **Convert locally (zero tokens):** run the End Game suite converter (`end-game-sales-suite/scripts/convert.py`, pymupdf4llm page chunks) → `raw/<file>.md`, then `python work/pdf_to_verbatim.py raw/<file>.pdf <slug>` → `verbatim/<slug>/` (per-page files, ¶ numbering, header/footer cleanup, text-layer backfill of blocks the converter dropped, 300-DPI renders of image-only pages).
-3. **Measure:** `python work/coverage.py raw/<file>.pdf <slug>` — gate is word-level recall ≥0.99 per page and no missing run ≥15 words. Flagged pages are repaired (Sonnet, using the render as reference) and re-measured. Image-only pages get two independent Opus vision transcriptions and a Sonnet refuting verifier; unresolved spans are `[illegible]`, never guessed; frontmatter records `method: vision`.
+3. **Measure:** `python work/coverage.py raw/<file>.pdf <slug>` — gate is word-level recall ≥0.99 per page and no missing run ≥15 words. `pdf_to_verbatim.py` only auto-renders image-only pages, so for flagged text pages run `python work/render_flagged_pages.py raw/<file>.pdf <slug> verbatim/<slug>/coverage.json` first to populate `renders/` for them. Flagged pages are repaired (Sonnet, using the render as reference) and re-measured. Image-only pages get two independent Opus vision transcriptions and a Sonnet refuting verifier; unresolved spans are `[illegible]`, never guessed; frontmatter records `method: vision`. A source PDF's own font can drop ligature glyphs (fi/fl/ffi/ffl/ff → replacement char or dropped letter) in its text layer itself — this shows up as pages that stay flagged after repair even though the verbatim page is now more correct than the PDF's own text layer (the coverage gate's ground truth). Confirm with a `fitz` rawdict check before assuming this; when confirmed, correct the affected words against the render and record the explanation in `coverage.md` rather than chasing the score — see `verbatim/mmsd-om-2028/coverage.md` for the documented example.
 4. **Blocks:** Opus writers build/rebuild blocks per source section from the verbatim pages, with `source-pages` and `verbatim-ref` on every block, schema-v2 frontmatter, `block-type: prose` for prose. A Fable judge fails any block that is a paraphrase of its verbatim source. Keep every outcome figure.
 5. **Registries:** harvest every quantified claim into `proof-points/registry.md` (reconcile conflicts explicitly), every quote into `testimonials/inventory.md`, every narrative into `stories/catalog.md`.
 6. **Vocabulary, merge, index:** tags validated against `vocabulary/tags.md`; duplicate topics across sources resolved to one `preferred`; `python work/regen_index.py` rebuilds the faceted index.

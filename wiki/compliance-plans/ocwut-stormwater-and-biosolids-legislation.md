@@ -13,15 +13,16 @@ client-size: ">110 MGD / 4 WWTPs / 170 sites / 13,500 acres"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [compliance]
 win-theme-map: [compliance-leadership, stormwater, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-1520, PP-1521, PP-1522, PP-1523, PP-1524, PP-1525, PP-1526]
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+superseded-by: wiki/compliance-plans/oklahoma-biosolids-legislation-emerging-risk.md
 context: Oklahoma municipal utility with OPDES stormwater obligations and a 170-site, 13,500-acre Class B biosolids land-application program.
 quality: Pairs executable stormwater responsibility with a specific legislative-risk scenario and contingency-planning posture.
 reuse-notes: Validate current legislation, pilot status, land-application footprint, Schedule 12 responsibilities, and alternative disposal pathways before reuse.

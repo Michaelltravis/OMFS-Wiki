@@ -13,9 +13,9 @@ client-size: "8.5 MGD / expandable to 24 MGD"
 geography: "Pacific Northwest / WA / Spokane Regional Clean Air Agency"
 rfp-section-type: [past-performance]
 win-theme-map: [compliance-leadership, sustainability, innovation, partnership]
-proof-point-ids: []
+proof-point-ids: [PP-1886, PP-1887, PP-1888]
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0045]
 status: preferred
 house-favorite: false
 sanitized: false

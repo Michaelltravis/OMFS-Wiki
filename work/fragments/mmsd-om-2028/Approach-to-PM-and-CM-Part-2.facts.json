@@ -1,0 +1,342 @@
+[
+  {
+    "claim": "Formal PM optimization (PMO) cycle run on critical assets at least annually",
+    "number": "1",
+    "unit": "cycle per year (minimum)",
+    "as_of": "unknown",
+    "page": 97,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-pm-optimization-and-work-planning.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "A temporary vehicle is provided whenever a client vehicle requires more than 1 day of service",
+    "number": "1",
+    "unit": "day of service threshold",
+    "as_of": "unknown",
+    "page": 98,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
+    "category": "other"
+  },
+  {
+    "claim": "Annual vehicle condition assessments conducted for the client fleet",
+    "number": "1",
+    "unit": "assessment per year",
+    "as_of": "unknown",
+    "page": 98,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Collaboration with the client each April in the annual fleet maintenance and replacement planning meeting",
+    "number": "April",
+    "unit": "annual meeting month",
+    "as_of": "unknown",
+    "page": 98,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "CBA currently directs maintenance shifts in an 8-hour day, Monday through Friday structure, which the proposed shift schedule follows",
+    "number": "8",
+    "unit": "hours per day, 5 days per week",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
+    "category": "other"
+  },
+  {
+    "claim": "Willingness to explore a 7-days-per-week maintenance shift schedule with the client and the unions",
+    "number": "7",
+    "unit": "days per week",
+    "as_of": "unknown",
+    "page": 99,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
+    "category": "other"
+  },
+  {
+    "claim": "Industry baseline planner-to-craft ratio is roughly one planner per 20 craft",
+    "number": "1:20",
+    "unit": "planner to craft ratio",
+    "as_of": "unknown",
+    "page": 99,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Intent to trend toward a 1:30-1:40 planner-to-craft ratio as the system stabilizes with NEXGEN and disciplined routines",
+    "number": "1:30-1:40",
+    "unit": "planner to craft ratio",
+    "as_of": "unknown",
+    "page": 99,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Client capital improvement program exceeds $2 billion",
+    "number": "2",
+    "unit": "billion USD",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md",
+    "category": "financial"
+  },
+  {
+    "claim": "CIP functional area C - Interceptor Sewer System: number of projects",
+    "number": "39",
+    "unit": "projects",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "CIP functional area C - Interceptor Sewer System: projected budget",
+    "number": "397",
+    "unit": "million USD",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "CIP functional area I - Inline Storage System: number of projects",
+    "number": "6",
+    "unit": "projects",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "CIP functional area I - Inline Storage System: projected budget",
+    "number": "54",
+    "unit": "million USD",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "CIP functional area J - first water reclamation facility: number of projects",
+    "number": "62",
+    "unit": "projects",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "CIP functional area J - first water reclamation facility: projected budget",
+    "number": "635",
+    "unit": "million USD",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "CIP functional area K - Central Control System: number of projects",
+    "number": "3",
+    "unit": "projects",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "CIP functional area K - Central Control System: projected budget",
+    "number": "33",
+    "unit": "million USD",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "CIP functional area M - District Administration: number of projects",
+    "number": "43",
+    "unit": "projects",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "CIP functional area M - District Administration: projected budget",
+    "number": "422",
+    "unit": "million USD",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "CIP functional area P - Interplant Pipeline: number of projects",
+    "number": "3",
+    "unit": "projects",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "CIP functional area P - Interplant Pipeline: projected budget",
+    "number": "46",
+    "unit": "million USD",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "CIP functional area S - second water reclamation facility: number of projects",
+    "number": "25",
+    "unit": "projects",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "scale"
+  },
+  {
+    "claim": "CIP functional area S - second water reclamation facility: projected budget",
+    "number": "904",
+    "unit": "million USD",
+    "as_of": "2028 proposal",
+    "page": 99,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "category": "financial"
+  },
+  {
+    "claim": "New SCADA system installation expected to occur during the next 10-year operating contract",
+    "number": "10",
+    "unit": "year contract term",
+    "as_of": "2028 proposal",
+    "page": 101,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Natalie Lenz, PE, brings 8 years of Jacobs experience supporting the client's watershed, conveyance, and facility planning projects",
+    "number": "8",
+    "unit": "years",
+    "as_of": "2028 proposal",
+    "page": 101,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Management and operations staff available for capital project support 24/7",
+    "number": "24/7",
+    "unit": "availability",
+    "as_of": "unknown",
+    "page": 101,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
+    "category": "other"
+  },
+  {
+    "claim": "Quarterly reports of capital support labor submitted, tracked by client project number",
+    "number": "4",
+    "unit": "reports per year",
+    "as_of": "unknown",
+    "page": 101,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Client's aeration upgrade at its larger water reclamation facility used as the comparison anchor for the Wilmington project",
+    "number": "91",
+    "unit": "million USD",
+    "as_of": "2028 proposal",
+    "page": 101,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
+    "category": "financial"
+  },
+  {
+    "claim": "Wilmington Wastewater Treatment Facility secondary treatment upgrade was a four-phase project",
+    "number": "4",
+    "unit": "phases",
+    "as_of": "unknown",
+    "page": 101,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
+    "category": "other"
+  },
+  {
+    "claim": "Operators proposed compressing the schedule to work on two aeration basins at a time instead of one, at 90% design review",
+    "number": "2",
+    "unit": "aeration basins at a time",
+    "as_of": "unknown",
+    "page": 101,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
+    "category": "other"
+  },
+  {
+    "claim": "Operators' suggestion reduced the Wilmington construction schedule",
+    "number": "40",
+    "unit": "percent reduction",
+    "as_of": "unknown",
+    "page": 101,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Operators' suggestion reduced Wilmington capital upgrade costs",
+    "number": "20",
+    "unit": "percent reduction",
+    "as_of": "unknown",
+    "page": 101,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Facility-specific AI assistant tools have been used successfully at Jacobs facilities for two years",
+    "number": "2",
+    "unit": "years",
+    "as_of": "2028 proposal",
+    "page": 102,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md",
+    "category": "other"
+  },
+  {
+    "claim": "AI maintenance assistant valued at over $50K/year including licensing and setup, included in the maintenance package at no additional cost",
+    "number": "50",
+    "unit": "thousand USD per year (minimum)",
+    "as_of": "2028 proposal",
+    "page": 102,
+    "para": 11,
+    "block": "wiki/technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md",
+    "category": "financial"
+  }
+]

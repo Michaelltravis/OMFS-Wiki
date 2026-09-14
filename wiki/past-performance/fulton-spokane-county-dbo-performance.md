@@ -13,9 +13,9 @@ client-size: "8.5 MGD / 24 MGD expandable"
 geography: "Pacific Northwest / WA / NPDES"
 rfp-section-type: [past-performance]
 win-theme-map: [day-one-readiness, compliance-leadership, regional-support, partnership, safety-culture]
-proof-point-ids: []
+proof-point-ids: [PP-1889]
 testimonial-ids: [TM-0031]
-story-ids: []
+story-ids: [ST-0045]
 status: preferred
 house-favorite: false
 sanitized: false

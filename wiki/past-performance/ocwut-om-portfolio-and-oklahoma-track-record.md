@@ -15,7 +15,7 @@ rfp-section-type: [past-performance]
 win-theme-map: [regional-bench, partner-transparency, compliance-leadership, incumbent-displacement, transition-continuity]
 proof-point-ids: []
 testimonial-ids: []
-story-ids: []
+story-ids: [ST-0053, ST-0060]
 status: preferred
 house-favorite: false
 sanitized: false

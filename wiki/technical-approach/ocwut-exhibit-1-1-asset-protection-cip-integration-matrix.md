@@ -13,7 +13,7 @@ client-size: ">110 MGD combined design capacity across four WWTPs + one major pu
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [tech-approach]
 win-theme-map: [asset-management, incumbent-displacement, regional-bench, compliance-leadership, partner-transparency]
-proof-point-ids: []
+proof-point-ids: [PP-1573, PP-1574, PP-1575, PP-1576, PP-1577, PP-1578, PP-1579, PP-1580, PP-1581, PP-1582, PP-1583, PP-1584, PP-1585]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -1,6 +1,6 @@
 # Tag aliases: legacy/variant tag -> canonical tag.
 # Generated from the pre-normalization tag set in wiki/**/*.md.
-# 671 aliases -> 128 canonical tags.
+# 672 aliases -> 130 canonical tags.
 
 10-box-model: asset-management
 40-cfr-136: sampling-monitoring
@@ -411,6 +411,7 @@ ozonation: advanced-water-treatment
 ozone: advanced-water-treatment
 partner-transparency: transparency
 partnership-framing: partnership
+partnership-model: partnership
 parts-inventory: inventory-management
 past-performance-evidence: past-performance
 peak-flow-testing: wet-weather

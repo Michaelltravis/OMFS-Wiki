@@ -13,8 +13,8 @@ client-size: "3 MBR WRFs / 33 pump stations"
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [resume]
 win-theme-map: [regional-bench, workforce-continuity]
-proof-point-ids: []
-testimonial-ids: []
+proof-point-ids: [PP-1817, PP-1818, PP-1819, PP-1820, PP-1821, PP-1822, PP-1823]
+testimonial-ids: [TM-0029]
 story-ids: []
 status: preferred
 house-favorite: false

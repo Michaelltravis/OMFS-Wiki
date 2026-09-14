@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach, compliance]
 win-theme-map: [safety-culture, compliance-leadership, digital-tools, transition-continuity, partner-transparency]
-proof-point-ids: [PP-0229, PP-0311, PP-0312, PP-0313, PP-0314, PP-0315, PP-0316, PP-0317]
+proof-point-ids: [PP-0229, PP-0311, PP-0312, PP-0313, PP-0314, PP-0315, PP-0316, PP-0317, PP-2090, PP-2091, PP-2092, PP-2093, PP-2094, PP-2095, PP-2096]
 testimonial-ids: []
 story-ids: []
 status: preferred

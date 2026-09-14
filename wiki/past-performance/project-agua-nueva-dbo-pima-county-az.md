@@ -13,9 +13,9 @@ client-size: "32 MGD / 25 MGD Arizona Class A+ reclaimed water"
 geography: "Southwest / AZ / ADEQ"
 rfp-section-type: [past-performance]
 win-theme-map: [innovation-value-add, compliance-leadership, asset-management, safety-culture, cost-savings, partnership]
-proof-point-ids: []
-testimonial-ids: []
-story-ids: []
+proof-point-ids: [PP-1398, PP-1399, PP-1400]
+testimonial-ids: [TM-0050]
+story-ids: [ST-0041]
 status: preferred
 house-favorite: true
 sanitized: false

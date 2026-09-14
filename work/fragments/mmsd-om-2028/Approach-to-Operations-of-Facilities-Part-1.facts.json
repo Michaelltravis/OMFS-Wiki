@@ -1,0 +1,192 @@
+[
+  {
+    "claim": "The operations approach is organized around six operational priorities shown in Exhibit IV-10: compliance and treatment capacity; biosolids and biosolids-product operations; odor and noise control; reliability and maintenance; energy and chemical optimization; sustainability/renewable energy",
+    "number": "6",
+    "unit": "operational priorities",
+    "as_of": "unknown",
+    "page": 52,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-operations-approach-and-operational-priorities.md",
+    "category": "other"
+  },
+  {
+    "claim": "The operations of facilities approach is described in seven subsections listed in Exhibit IV-11",
+    "number": "7",
+    "unit": "subsections",
+    "as_of": "unknown",
+    "page": 52,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-operations-approach-and-operational-priorities.md",
+    "category": "other"
+  },
+  {
+    "claim": "The decision-making hierarchy integrates three complementary tiers aligned with the contract's governance roles and authorities",
+    "number": "3",
+    "unit": "decision tiers",
+    "as_of": "unknown",
+    "page": 53,
+    "para": 11,
+    "block": "wiki/technical-approach/mmsd-decision-making-hierarchy-three-tiers.md",
+    "category": "other"
+  },
+  {
+    "claim": "Operational and maintenance performance metrics are reviewed monthly with the client to confirm alignment, document decision rationale, and evaluate outcomes",
+    "number": "monthly",
+    "unit": "review cadence",
+    "as_of": "unknown",
+    "page": 54,
+    "para": 17,
+    "block": "wiki/technical-approach/mmsd-decision-making-hierarchy-three-tiers.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "The client operates one of the nation's most complex wastewater systems, including a collection network of 4,800 miles, numerous pump stations, interplant sludge pumping, an inline storage system for wet weather flow, and two water reclamation facilities",
+    "number": "4,800",
+    "unit": "miles of collection network",
+    "as_of": "unknown",
+    "page": 55,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-process-monitoring-control-system-wide-insight.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Energy optimization supports the client's 2035 Vision for increased renewable energy while reducing energy costs and demand charges without compromising treatment performance",
+    "number": "2035",
+    "unit": "target year for renewable energy vision",
+    "as_of": "unknown",
+    "page": 55,
+    "para": 19,
+    "block": "wiki/technical-approach/mmsd-key-operational-focus-areas.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Maintain blended sludge total solids (TS) concentration above 3.25%, which will lead to higher TS in dewatered cake",
+    "number": "3.25",
+    "unit": "% blended sludge total solids",
+    "as_of": "unknown",
+    "page": 57,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-monitoring-control-practices-solids-energy-chemical-odor-table.md",
+    "category": "other"
+  },
+  {
+    "claim": "SCADA data from more than 250 real-time flow meters and level sensors will be used to identify inflow and infiltration trends",
+    "number": "250+",
+    "unit": "real-time flow meters and level sensors",
+    "as_of": "unknown",
+    "page": 58,
+    "para": 8,
+    "block": "wiki/technical-approach/mmsd-intelligent-dry-weather-management.md",
+    "category": "scale"
+  },
+  {
+    "claim": "There are nearly 30 entry points from the metropolitan interceptor system (MIS) into the inline storage system (ISS), making pre-, during-, and post-storm ISS operation complex and mission critical",
+    "number": "nearly 30",
+    "unit": "MIS-to-ISS entry points",
+    "as_of": "unknown",
+    "page": 58,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md",
+    "category": "scale"
+  },
+  {
+    "claim": "The client's stated goals are zero overflows by 2035, reduced basement backups, and lower energy use",
+    "number": "zero by 2035",
+    "unit": "overflows",
+    "as_of": "unknown",
+    "page": 58,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Storms are becoming more intense, such as the August 2025 1,000-year event, driving proactive preparation, reliable forecasting, and resilient operations",
+    "number": "1,000-year",
+    "unit": "storm recurrence interval (August 2025 event)",
+    "as_of": "2025-08",
+    "page": 58,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md",
+    "category": "other"
+  },
+  {
+    "claim": "Local technical experts will apply process and hydraulic modeling tools including WATS and PCSWMM, incorporating insights from the August 2025 'Impact of Water Levels on District Conveyance System Assets' study written by Mead & Hunt",
+    "number": "August 2025",
+    "unit": "study date",
+    "as_of": "2025-08",
+    "page": 59,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-intelligent-dry-weather-management.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Susan Moisio, PE, Wet Weather and Conveyance Director, has 37 years of experience and is an expert in wet weather and conveyance",
+    "number": "37",
+    "unit": "years of experience",
+    "as_of": "unknown",
+    "page": 59,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-effective-efficient-wet-weather-operations.md",
+    "category": "other"
+  },
+  {
+    "claim": "Susan Moisio brings a utility owner lens from 16 years as the division lead for the Cincinnati Collection Division, responsible for CSO and SSO O&M",
+    "number": "16",
+    "unit": "years as Cincinnati Collection Division lead",
+    "as_of": "unknown",
+    "page": 59,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-effective-efficient-wet-weather-operations.md",
+    "category": "other"
+  },
+  {
+    "claim": "Flow management in the inline storage system and tunnel will be coordinated with real-time plant hydraulics to maximize throughput, prevent overloads, and achieve zero combined sewer overflows by 2035",
+    "number": "zero by 2035",
+    "unit": "combined sewer overflows",
+    "as_of": "unknown",
+    "page": 60,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-wrf-wet-processes-systemwide-integration.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "A two-pass step feed biological nutrient removal configuration could boost treatment capacity by 10 to 15 percent",
+    "number": "10-15",
+    "unit": "% capacity increase",
+    "as_of": "unknown",
+    "page": 61,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-liquid-treatment-optimization-opportunities.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Mobile Biofilm Activated Sludge (MBAS), developed by Jacobs and Nuvoda, could increase treatment capacity by up to 40% at the secondary-treatment facility",
+    "number": "up to 40",
+    "unit": "% treatment capacity increase",
+    "as_of": "unknown",
+    "page": 61,
+    "para": 7,
+    "block": "wiki/technical-approach/mmsd-liquid-treatment-optimization-opportunities.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Continued assessment of chemically enhanced primary treatment (CEPT) and primary filtration is expected to increase biogas production by 20% with CEPT",
+    "number": "20",
+    "unit": "% biogas production increase",
+    "as_of": "unknown",
+    "page": 61,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-settleability-optimization-strategies-table.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Exhibit IV-17 presents seven targeted improvement areas to address settleability challenges, from primary clarifier operation through Intelligent O&M and the Hybrid Optimizer",
+    "number": "7",
+    "unit": "targeted improvement areas",
+    "as_of": "unknown",
+    "page": 61,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-settleability-optimization-strategies-table.md",
+    "category": "other"
+  }
+]

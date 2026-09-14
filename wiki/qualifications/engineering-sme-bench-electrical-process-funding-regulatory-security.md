@@ -13,7 +13,7 @@ client-size: "4 WWTPs / >110 MGD combined design capacity / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [staffing]
 win-theme-map: [regional-bench, community-engagement, innovation-value-add, compliance-leadership, workforce-development]
-proof-point-ids: []
+proof-point-ids: [PP-1227, PP-1228, PP-1229, PP-1230, PP-1231, PP-1232, PP-1233, PP-1234, PP-1235, PP-1236, PP-1237, PP-1238, PP-1239, PP-1240]
 testimonial-ids: []
 story-ids: []
 status: preferred

@@ -13,7 +13,7 @@ client-size: "3.3 MGD / 9 pump stations"
 geography: "Northeast / RI / RIDEM, EPA New England"
 rfp-section-type: [past-performance]
 win-theme-map: [incumbent-displacement, transition-continuity, compliance-leadership, innovation-value-add, energy-chemical-efficiency, partner-transparency]
-proof-point-ids: [PP-0047, PP-0048, PP-0049, PP-0050, PP-0051, PP-0052, PP-0053, PP-0054, PP-0055, PP-0056, PP-0057, PP-0058, PP-0059, PP-0060, PP-0061, PP-0062, PP-0063]
+proof-point-ids: [PP-0047, PP-0048, PP-0049, PP-0050, PP-0051, PP-0052, PP-0053, PP-0054, PP-0055, PP-0056, PP-0057, PP-0058, PP-0059, PP-0060, PP-0061, PP-0062, PP-0063, PP-1950, PP-1951, PP-1952, PP-1953, PP-1954, PP-1955, PP-1956, PP-1957, PP-1958]
 testimonial-ids: [TM-0007]
 story-ids: [ST-0001, ST-0002, ST-0003]
 status: preferred

@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi gravity sewer / 10k year-round + 5k seasonal pop"
 geography: "Northeast / Coastal New England / MassDEP-equivalent state regulator"
 rfp-section-type: [exec-summary]
 win-theme-map: [incumbent-displacement, partner-transparency, asset-management, compliance-leadership]
-proof-point-ids: [PP-0143, PP-0144, PP-0145, PP-0146, PP-0147, PP-0148]
+proof-point-ids: [PP-0143, PP-0144, PP-0145, PP-0146, PP-0147, PP-0148, PP-1987, PP-1988, PP-1989]
 testimonial-ids: []
 story-ids: []
 status: preferred

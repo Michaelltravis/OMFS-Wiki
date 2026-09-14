@@ -13,7 +13,7 @@ client-size: "4 WWTPs / >110 MGD combined design capacity / 1 major pump station
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [resume]
 win-theme-map: [asset-management, compliance-leadership, regional-bench, workforce-development]
-proof-point-ids: []
+proof-point-ids: [PP-0925, PP-0926, PP-0927, PP-0928, PP-0929, PP-0930, PP-0931, PP-0932, PP-0933, PP-0934, PP-0935, PP-0936, PP-0937, PP-0938]
 testimonial-ids: []
 story-ids: []
 status: preferred

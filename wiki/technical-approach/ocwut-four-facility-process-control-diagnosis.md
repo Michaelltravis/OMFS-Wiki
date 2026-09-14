@@ -13,7 +13,7 @@ client-size: ">110 MGD combined design capacity / 4 WWTPs + 1 major pump station
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [tech-approach]
 win-theme-map: [incumbent-displacement, compliance-leadership, partner-transparency, energy-chemical-efficiency]
-proof-point-ids: []
+proof-point-ids: [PP-1296, PP-1297, PP-1298, PP-1299, PP-1300, PP-1301]
 testimonial-ids: []
 story-ids: []
 status: preferred

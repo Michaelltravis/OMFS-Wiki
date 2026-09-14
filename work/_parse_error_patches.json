@@ -1,0 +1,164 @@
+[
+  {
+    "path": "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
+    "set": {
+      "quality": "The strongest version of the Annual Innovation Workshop offer in the library \u2014 it carries the hard competitive proof (27 WEFTEC papers in 2024 versus none for major O&M competitors, 60+ workshops in 2025) and a dollar outcome from a prior workshop (>$1M in energy savings identified at Wilmington). Note duplicates on this topic: annual-innovation-workshop-program.md, fulton-annual-innovation-workshop.md, swip-annual-innovation-workshop.md \u2014 resolve to one preferred at merge."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md",
+    "set": {
+      "quality": "The mechanics behind the compliance claim \u2014 Hach WIMS integrated to SCADA and CMMS, daily validation, monthly trending, quarterly joint review, and a 100% on-time reporting commitment in the client's own report formats. Adds the QA/QC chain: TNI standards, quarterly internal audits, annual third-party review, and joint audits with the client's certified labs."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md",
+    "set": {
+      "quality": "The framing that makes a digital twin sellable to an operations-minded evaluator \u2014 it states plainly what the twin does NOT do (\"does not automate plant operations,\" \"don't replace operator judgment \u2014 they reinforce it\") before claiming what it does. Pairs the technology with a transparency promise (full client visibility into what we see, decide, and do) and ties it to named outcomes: permit compliance, CSO reduction, energy optimization and generation, biosolids product quality, and lower carbon footprint."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
+    "set": {
+      "quality": "The named-tool inventory an evaluator can score \u2014 seven products, each with how it is implemented and what it returns, and two hard numbers: Intelligent O&M has contributed to a 10-30% reduction in power and chemical consumption at Jacobs-managed facilities, and Dragonfly delivers approximately 30-40% cost savings compared to manual defect coding. This is the table to reach for whenever an RFP asks what technology the operator brings."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-future-collaboration-intelligent-om-and-ot-security-table.md",
+    "set": {
+      "title": "Exhibit IV-53 (Part 2) \u2014 Future Collaboration Table: Intelligent O&M and SCADA/Security/OT Improvements"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-future-collaboration-process-improvements-table.md",
+    "set": {
+      "title": "Exhibit IV-53 (Part 1) \u2014 Future Collaboration Table: Process Improvements"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md",
+    "set": {
+      "quality": "A five-column sustainability exhibit that puts a labeled lead on each column (Drivers, Key Actions, High Value Opportunities, System Resiliency, Resources) and attaches numbers to the first one \u2014 10-20% energy reduction plus 20-30% chemical optimization. The funding column is the differentiator: it ties sustainable O&M initiatives to external funding streams and cites a real Jacobs client where that was done. Graphic asset ID 285_007CAM_5."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-best-practices-improvements-table.md",
+    "set": {
+      "title": "Exhibit IV-52 (Part 2) \u2014 Value-Added Innovations Table: Workforce, Best Practices, and Continued Improvements"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-pilots-optimization-table.md",
+    "set": {
+      "title": "Exhibit IV-52 (Part 3) \u2014 Value-Added Innovations Table: Solids Pilots, O&M Optimization, and Total Value"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-studies-support-partnership-table.md",
+    "set": {
+      "title": "Exhibit IV-52 (Part 1) \u2014 Value-Added Innovations Table: Studies, Offsite and Onsite Support, Regional Partnership"
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-facilities-understanding-shared-values.md",
+    "set": {
+      "quality": "The challenger's answer to \"you don't know our system\": two years of engagement and more than 16,000 hours of due diligence, quantified, followed by an explicit alignment to the client's own strategic objectives. Rare, defensible proof of understanding."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-future-improvements-and-innovations-for-additional-savings.md",
+    "set": {
+      "quality": "A short, high-leverage paragraph for a challenger bid: it converts limited pre-award access into a strength by saying that more than 25 improvement ideas came from only a handful of site visits, and that the flow of ideas accelerates once the team is embedded. Quantifies the second tier at $21M to $53M over ten years."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-key-operational-focus-areas.md",
+    "set": {
+      "quality": "Six tight, parallel focus-area abstracts, each roughly 40 words, each naming the method and the client outcome. An efficient roadmap device: it lets an evaluator see the whole operations story on one page before the detailed subsections."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-monitoring-control-practices-solids-energy-chemical-odor-table.md",
+    "set": {
+      "quality": "Concrete, operator-level control strategies for the four cost-and-complaint drivers: solids/pellet production, energy, chemicals, and odor. Carries a hard operating target (blended sludge total solids above 3.25%) and a demand-charge and energy-purchasing angle that most competitors do not address."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md",
+    "set": {
+      "quality": "The direct answer to an RFP question about responding to public odor complaints \u2014 a named seven-step protocol from intake to resident follow-up, an explicit \"exceeds the Scope of Services requirements\" claim, and two details evaluators remember: staff whose noses are calibrated with industry-standard odor sticks, and a bench of more than 20 odor technologists (3 local) led by the engineer who built the client's own WATS odor and corrosion model. Ends on a stated goal of zero odor complaints."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
+    "set": {
+      "reuse-notes": "The \"almost a century\" tenure, the interplant pumping system, and the named original design staff are pursuit-specific. Keep the framing pattern: credit performance, name the interdependency, then offer an integrated process-and-energy model for what-if scenarios."
+    }
+  },
+  {
+    "path": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+    "set": {
+      "quality": "The incumbent-displacement proof for odor: Jacobs already built the client's systemwide sulfide/corrosion model, backed by a 10-year research collaboration and a two-week emergency dosing deployment at another utility."
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-governance-committees-and-blue-ribbon-panel.md",
+    "set": {
+      "quality": "Converts a contract governance requirement into a partnership offer: three standing joint committees stood up at the chartering session, each staffed by named Jacobs leads alongside client staff, plus an unrequested Blue-Ribbon Panel and annual Innovation Workshop that put global sector expertise at the client's disposal."
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-leadership-development-cross-training-and-mentoring.md",
+    "set": {
+      "quality": "Names the actual programs rather than describing training in the abstract \u2014 Jacobs University, the \"Lead with Purpose\" supervisor program, and Frontline Fundamentals with named 2026 workshops \u2014 and ties cross-training and mentoring directly to the two risks clients worry about: workforce shortages and aging infrastructure."
+    }
+  },
+  {
+    "path": "wiki/management-staffing/mmsd-recognition-teamwork-and-community-giving.md",
+    "set": {
+      "quality": "Names the three corporate recognition programs (BeyondZero\u00ae, Beyond If\u2120, Collectively\u2120), anchors social impact with a hard number \u2014 over $10.9M contributed since 2020 \u2014 and then makes the differentiating promise: community service run with operational discipline as a standing practice, not a one-off event. That last sentence is the reusable idea."
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-above-and-beyond-investments-and-savings.md",
+    "set": {
+      "quality": "The strongest single page of the executive summary \u2014 it converts \"value-added\" from a claim into a quantified, categorized balance sheet: $107M of investments and savings included in the base fee, $21\u201353M of potential future savings, up to $160M over 10 years, with each category carrying its own number and a commitment to deliver within the first 24 months."
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-wet-weather-and-optimization-savings.md",
+    "set": {
+      "quality": "The savings paragraph is the sharpest proof point in the executive summary: 20\u201330% reductions in power and chemical use already identified and already reflected in the price, backed by named client evidence \u2014 15\u201340% chemical reduction at West Basin, CA (the largest reuse facility in North America, taken over from the same incumbent operator) and 23% at Wilmington, DE. Savings that are priced in, not promised, are hard for a competitor to answer."
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-exec-summary-why-jacobs-close.md",
+    "set": {
+      "quality": "A model executive-summary close: first restate the client's own definition of success in their words, then answer it with six numbered commitments that map one-to-one onto the six core attributes opened on the first page, and finish with a signed statement from the firm's Chair and CEO that makes the commitment personal at the top of the company."
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-client-vision-recognition.md",
+    "set": {
+      "quality": "Written entirely in the second person \u2014 every sentence begins with what the client is doing, with specific programs, dollar figures, and named pilots \u2014 before Jacobs asks for anything. As a challenger bid this does double duty: it proves the team studied the district's published strategy, and it positions the proposed ideas as extensions of the client's own plan rather than corrections to it."
+    }
+  },
+  {
+    "path": "wiki/win-themes/mmsd-regional-partnership-local-community-involvement-record.md",
+    "set": {
+      "reuse-notes": "This list is entirely local to one metropolitan area and must be rebuilt from the pursuit region's own record \u2014 regional office staff and the local business unit hold that record. Keep the structure (a two-column list mixing client-run programs, university partnerships, K-12 outreach, and charitable work) and keep the \"home for our team\" opening sentence. Because the local identity is the proof, read the verbatim page before reuse: verbatim/mmsd-om-2028/pages/p0139.md#\u00b625."
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
+    "set": {
+      "quality": "The house emergency-response passage: a 60-day ERP commitment and an annual joint-drill cadence, carried by the Superstorm Sandy testimonial from the North Hudson Sewerage Authority \u2014 an expert team on site in 24 hours, 24 pumps removed, rebuilt, and replaced, primary treatment restored 48 hours later and full secondary within 5 days. Proof that the plan has been executed under the worst conditions the sector has seen."
+    }
+  },
+  {
+    "path": "wiki/compliance-plans/mmsd-innovative-security-enhancements.md",
+    "set": {
+      "quality": "A model of how to add value without criticizing the client's own investment \u2014 it credits the upgrades already underway, then offers three specific, costed-out-in-concept enhancements that build on the platform the client just bought. The shoreline detection offer is site-earned: radar or microwave detection cued to cameras, effective in darkness, fog, and snow, with optional acoustic warnings."
+    }
+  }
+]

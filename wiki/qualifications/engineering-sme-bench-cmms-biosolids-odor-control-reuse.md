@@ -13,7 +13,7 @@ client-size: "4 WWTPs / >110 MGD combined design capacity / Class B biosolids la
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [staffing]
 win-theme-map: [regional-bench, asset-management, odor-control, innovation-value-add]
-proof-point-ids: []
+proof-point-ids: [PP-1211, PP-1212, PP-1213, PP-1214, PP-1215, PP-1216]
 testimonial-ids: []
 story-ids: []
 status: preferred

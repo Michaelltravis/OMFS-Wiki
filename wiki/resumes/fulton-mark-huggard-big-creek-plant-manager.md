@@ -13,8 +13,8 @@ client-size: "Three water reclamation facilities / 32 MGD and 15 MGD MBR facilit
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [resume]
 win-theme-map: [regional-bench, compliance-leadership, asset-management, workforce-development]
-proof-point-ids: []
-testimonial-ids: []
+proof-point-ids: [PP-1814]
+testimonial-ids: [TM-0026]
 story-ids: []
 status: preferred
 house-favorite: false

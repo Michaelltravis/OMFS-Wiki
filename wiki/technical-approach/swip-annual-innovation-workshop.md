@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility (potable reuse) + water recyclin
 geography: "Southern California / CA / Los Angeles RWQCB, SWRCB Division of Drinking Water, SCAQMD"
 rfp-section-type: [tech-approach]
 win-theme-map: [innovation-value-add, partner-transparency, regional-bench, energy-chemical-efficiency]
-proof-point-ids: [PP-0113, PP-0152, PP-0528]
+proof-point-ids: [PP-0113, PP-0152, PP-0528, PP-2834, PP-2835, PP-1697]
 testimonial-ids: [TM-0002, TM-0010]
 story-ids: [ST-0012]
 status: preferred
@@ -22,7 +22,7 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
-supersedes: wiki/technical-approach/annual-innovation-workshop-program.md
+supersedes: [wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md, wiki/technical-approach/annual-innovation-workshop-program.md, wiki/technical-approach/fulton-annual-innovation-workshop.md]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A named, differentiated no-cost annual program with a real sample agenda, two attributed client testimonials (names, titles, phone numbers), and a quantified outcome (energy savings opportunities valued at more than $1 million for the Wilmington WWTP) — strong, credible differentiator content that also answers "what do you do that an O&M-only contractor cannot."
 reuse-notes: The workshop concept and the three "what sets ours apart" points are firm-wide and reusable as-is. The two testimonials and the Wilmington WWTP savings figure belong to other (non-pursuit) reference clients and are kept verbatim — confirm continued permission for the named contacts and their phone numbers before external use, and register the $1 million figure in the proof-point registry. The sample agenda is from the 2024 Wilmington, DE workshop and should be rebuilt around the target client's own technical priorities.
@@ -62,6 +62,17 @@ Jacobs' Annual Innovation Workshop drives continuous improvement and elevates O&
 "Jacobs' Annual Innovation Workshops provide a wealth of knowledge from industry experts who brainstorm ideas for the future direction of our utility that are of great value to the City and our ratepayers." — **Vincent Carroccia, 302.576.2620**, Deputy Commissioner of Public Works
 
 "The Annual Innovation Workshop was very informative and it was amazing how much information was packed in 8 hours. It was like attending a WEFTEC workshop in your own backyard with all the presentations that were custom made for your facility." — **Firooz Fath-Azam, 734-486-2393**, South Huron Valley System Manager
+
+### Additional detail (merged)
+
+Merged from `mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md` (retired as a fallback):
+
+- The exhibit that carries this agenda and these testimonials is graphic asset ID `305_007CAM_1`, headed "Jacobs Annual Innovation Workshop Drives Continuous Improvement and Elevates O&M," with a photo panel captioned *Innovation Workshop 2024, June 5, 2024* and a companion caption *Jacobs sponsored the WEFTEC Annual Operations Challenge*. The graphic is client-specific to the extent it shows workshop photos — re-crop for a new pursuit.
+
+Merged from `fulton-annual-innovation-workshop.md` (retired as a fallback):
+
+- Where the workshop is offered by a joint venture, the offer is written in the JV's voice while utility expertise stays attributed to Jacobs ("JC Solutions' Annual Innovation Workshops ... and Jacobs utility experts").
+- That version sizes the commitment for the evaluator with a callout — **$250,000 worth of investment** by the operating entity (PP-1697). This is source-backed value framing, not a fee or rate; retain only after proposal-team review.
 
 ## Reuse guidance
 

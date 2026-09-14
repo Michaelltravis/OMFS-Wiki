@@ -12,7 +12,7 @@ client-type: municipal
 client-size: "3.07 MGD WWTF / 42 mi collection system / coastal town"
 geography: "Northeast / MA / MassDEP + EPA Region 1"
 rfp-section-type: [resume]
-proof-point-ids: [PP-0001, PP-0002, PP-0003, PP-0004, PP-0005, PP-0006, PP-0007, PP-0008, PP-0009, PP-0010, PP-0011, PP-0012, PP-0013, PP-0014, PP-0015, PP-0016, PP-0017, PP-0018, PP-0019]
+proof-point-ids: [PP-0001, PP-0002, PP-0003, PP-0004, PP-0005, PP-0006, PP-0007, PP-0008, PP-0009, PP-0010, PP-0011, PP-0012, PP-0013, PP-0014, PP-0015, PP-0016, PP-0017, PP-0018, PP-0019, PP-1907, PP-1908, PP-1909, PP-1910, PP-1911, PP-1912, PP-1913]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -22,6 +22,7 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 win-theme-map: [regional-bench, transition-continuity, incumbent-displacement, compliance-leadership, asset-management]
+supersedes: wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md
 context: Proposed as Project Manager. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Project Manager; strong direct-parallel experience (Southbridge, MA 5-year O&M contract transition) and named contact info from the cover letter.
 reuse-notes: "VERBATIM — real name, contact info, licenses, and project history. Before reuse on a new pursuit: (1) confirm Nathan Callison is still employed by Jacobs and still holds this role/title; (2) verify CRL and CMRT certifications and all state operator/plumber/HVAC licenses are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit; (4) reconfirm phone/email from the cover letter are still his current contact details."

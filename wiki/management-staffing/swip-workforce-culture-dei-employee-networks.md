@@ -22,6 +22,7 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+supersedes: wiki/management-staffing/fulton-inclusive-culture-and-employee-networks.md
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Names a corporate strategic framework (TogetherBeyond, four strategic pillars), five professional-society affiliations, and eight named employee resource groups with one-line missions - concrete evidence of an operationalized culture program rather than a generic diversity statement.
 reuse-notes: Fully generic corporate workforce-culture content. Adapt or drop the sentence about the service community being truly diverse to reflect the target community, and confirm current program naming and the list of employee networks before reuse.

@@ -13,7 +13,7 @@ client-size: "Three MBR water-reclamation facilities and associated pump station
 geography: "Southeast / GA / GA EPD"
 rfp-section-type: [tech-approach, transition]
 win-theme-map: [asset-management, innovation-value-add, energy-chemical-efficiency, transition-continuity]
-proof-point-ids: []
+proof-point-ids: [PP-1719]
 testimonial-ids: []
 story-ids: []
 status: preferred

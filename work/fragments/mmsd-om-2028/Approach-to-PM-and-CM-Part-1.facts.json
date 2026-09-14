@@ -1,0 +1,242 @@
+[
+  {
+    "claim": "Jacobs replaced the incumbent operator and implemented CMMS- and PdM-based maintenance programs on two named prior projects (Vancouver, WA and Waterbury, CT)",
+    "number": "2",
+    "unit": "incumbent-displacement reference projects",
+    "as_of": "unknown",
+    "page": 90,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Reporting gap under the incumbent is documented as four missing evidence categories: PM/PdM findings, failure mode/FMEA use, trend and asset-health analysis, and completed corrective actions",
+    "number": "4",
+    "unit": "missing evidence categories",
+    "as_of": "2026",
+    "page": 90,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md",
+    "category": "other"
+  },
+  {
+    "claim": "Every work order is documented with field evidence — photos, parts usage, meter readings — plus supervisor verification and timely closeout",
+    "number": "3",
+    "unit": "required field evidence types per work order",
+    "as_of": "2026",
+    "page": 90,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Real-time dashboards shared with the client show PM compliance, CM backlog, labor, cost, and asset health",
+    "number": "5",
+    "unit": "dashboard measures",
+    "as_of": "2026",
+    "page": 90,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md",
+    "category": "other"
+  },
+  {
+    "claim": "Maintenance program is built on an Asset Management System aligned to ISO 55001",
+    "number": "55001",
+    "unit": "ISO standard",
+    "as_of": "2026",
+    "page": 91,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+    "category": "compliance"
+  },
+  {
+    "claim": "Governance is one Maintenance Committee supported by two subcommittees (CMMS and SCADA)",
+    "number": "2",
+    "unit": "subcommittees",
+    "as_of": "2026",
+    "page": 91,
+    "para": 5,
+    "block": "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+    "category": "other"
+  },
+  {
+    "claim": "Jacobs' AMS framework has 10 elements, based on the IAM 10-Box Excellence Model and consistent with Global Forum on Maintenance and Asset Management guidance",
+    "number": "10",
+    "unit": "framework elements (boxes)",
+    "as_of": "2026",
+    "page": 91,
+    "para": 21,
+    "block": "wiki/technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md",
+    "category": "other"
+  },
+  {
+    "claim": "PM Optimization reviews frequencies, failure modes, and job plans at least annually",
+    "number": "1",
+    "unit": "PMO review per year (minimum)",
+    "as_of": "2026",
+    "page": 92,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Asset registry validation and QR/barcode tagging using a CMMS-aligned data dictionary are completed during mobilization",
+    "number": "mobilization",
+    "unit": "completion window",
+    "as_of": "2026",
+    "page": 92,
+    "para": 6,
+    "block": "wiki/technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Improvement cadence is monthly KPI reviews with the Maintenance Committee, quarterly PMO checkpoints, annual internal audits by dedicated technical experts, and after-action reviews for major events",
+    "number": "4",
+    "unit": "recurring review types (monthly/quarterly/annual/event-driven)",
+    "as_of": "2026",
+    "page": 93,
+    "para": 12,
+    "block": "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Client has live dashboard access to six maintenance KPIs: PM compliance, CM backlog and aging, MTBF/MTTR, asset availability, labor/parts cost, and evidence lag (time to close with proof)",
+    "number": "6",
+    "unit": "live KPIs",
+    "as_of": "2026",
+    "page": 93,
+    "para": 14,
+    "block": "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
+    "category": "other"
+  },
+  {
+    "claim": "A CMMS Champion is provided on each maintenance crew to coach mobile use and data quality, alongside one dedicated Planner/Scheduler",
+    "number": "1",
+    "unit": "CMMS Champion per crew; 1 dedicated Planner/Scheduler",
+    "as_of": "2026",
+    "page": 93,
+    "para": 4,
+    "block": "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
+    "category": "scale"
+  },
+  {
+    "claim": "AMS spans four asset domains — WRF process units, conveyance/tunnels and structures, facilities, and fleet — with NEXGEN EAM as the system of record integrated to SCADA/Historian and GIS",
+    "number": "4",
+    "unit": "asset domains in a single view",
+    "as_of": "2026",
+    "page": 93,
+    "para": 18,
+    "block": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Work order life cycle has five stages: creation, planning and preparation, execution, verification and closure, and chronic issue management",
+    "number": "5",
+    "unit": "work order life cycle stages",
+    "as_of": "2026",
+    "page": 94,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+    "category": "other"
+  },
+  {
+    "claim": "The Planner/Scheduler builds a two-week schedule through work list review",
+    "number": "2",
+    "unit": "weeks (schedule horizon)",
+    "as_of": "2026",
+    "page": 94,
+    "para": 9,
+    "block": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Integrated reliability-focused maintenance program rests on six key items for success, including managing CM/PM backlog as a leading risk indicator",
+    "number": "6",
+    "unit": "key success items",
+    "as_of": "2026",
+    "page": 95,
+    "para": 2,
+    "block": "wiki/technical-approach/mmsd-integrated-reliability-maintenance-program-outcomes.md",
+    "category": "other"
+  },
+  {
+    "claim": "Facility-specific reliability enhancement plans for both water reclamation facilities were already developed before award, from review of the client's O&M manuals and the RFP scope",
+    "number": "2",
+    "unit": "WRF-specific reliability enhancement plans",
+    "as_of": "2026",
+    "page": 95,
+    "para": 10,
+    "block": "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
+    "category": "outcome"
+  },
+  {
+    "claim": "Cogeneration reliability plan focuses on three practical levers: make data actionable, make alarms meaningful, and prevent repeat shutdowns through disciplined root cause analysis and closure",
+    "number": "3",
+    "unit": "reliability levers",
+    "as_of": "2026",
+    "page": 95,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
+    "category": "other"
+  },
+  {
+    "claim": "Cogeneration reliability plan covers five uptime-critical systems: fuel gas conditioning and compression, cooling water, fuel quality, turbine operating envelope, and waste heat",
+    "number": "5",
+    "unit": "uptime-critical systems",
+    "as_of": "2026",
+    "page": 95,
+    "para": 13,
+    "block": "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Alarms are tiered into four levels — information, warning, critical, and safety shutdown — with clear response and escalation expectations",
+    "number": "4",
+    "unit": "alarm tiers",
+    "as_of": "2026",
+    "page": 95,
+    "para": 15,
+    "block": "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
+    "category": "other"
+  },
+  {
+    "claim": "Reliability governance closure cadence is weekly reliability huddles and monthly leadership reviews",
+    "number": "2",
+    "unit": "governance cadences (weekly, monthly)",
+    "as_of": "2026",
+    "page": 96,
+    "para": 3,
+    "block": "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
+    "category": "schedule"
+  },
+  {
+    "claim": "Second WRF cogeneration plan targets four common reliability constraints: digester gas variability and siloxane breakthrough, compressor fuel pressure instability, seasonal cooling water imbalances, and hot water loop interactions affecting jacket water temperature stability",
+    "number": "4",
+    "unit": "reliability constraints",
+    "as_of": "2026",
+    "page": 96,
+    "para": 3,
+    "block": "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
+    "category": "other"
+  },
+  {
+    "claim": "Second WRF cogeneration fleet comprises Caterpillar units plus one White Superior engine",
+    "number": "1",
+    "unit": "White Superior engine (plus multiple Caterpillar units)",
+    "as_of": "2026",
+    "page": 96,
+    "para": 3,
+    "block": "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
+    "category": "scale"
+  },
+  {
+    "claim": "Unified health dashboard provides four indices operators can act on: gas compression, fuel quality, cooling water, and hot water",
+    "number": "4",
+    "unit": "health indices",
+    "as_of": "2026",
+    "page": 96,
+    "para": 3,
+    "block": "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
+    "category": "other"
+  }
+]

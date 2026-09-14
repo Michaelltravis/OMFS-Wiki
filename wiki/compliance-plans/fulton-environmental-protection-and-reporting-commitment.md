@@ -16,12 +16,13 @@ win-theme-map: [compliance-leadership, partner-transparency]
 proof-point-ids: []
 testimonial-ids: []
 story-ids: []
-status: preferred
+status: fallback
 house-favorite: false
 sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+superseded-by: wiki/compliance-plans/fulton-regulatory-compliance-program.md
 context: "Southeast county multi-facility wastewater O&M pursuit, bid by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim program commitment that couples environmental compliance, legally defensible records, regulatory expertise, and transparent reporting."
 reuse-notes: "Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV; attribute environmental-compliance capability to Jacobs and local delivery to CERM where applicable. Tailor applicable laws, permits, regulators, and stakeholder references to the target pursuit."

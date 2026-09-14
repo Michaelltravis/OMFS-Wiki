@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility — MBR / RO / UV-AOP train, gro
 geography: "West / Southern California / State Water Resources Control Board — Los Angeles RWQCB (Title 22 GRRP)"
 rfp-section-type: [cover-letter]
 win-theme-map: [innovation-value-add, compliance-leadership, regional-bench, transition-continuity, incumbent-displacement, partner-transparency, digital-tools]
-proof-point-ids: [PP-0150, PP-0549, PP-0550, PP-0664, PP-0665, PP-0673, PP-0678, PP-0679]
+proof-point-ids: [PP-0150, PP-0549, PP-0550, PP-0664, PP-0665, PP-0673, PP-0678, PP-0679, PP-2930, PP-2956, PP-2957, PP-2958, PP-2959, PP-2960]
 testimonial-ids: []
 story-ids: []
 status: preferred

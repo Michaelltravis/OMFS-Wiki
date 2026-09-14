@@ -13,7 +13,7 @@ client-size: ">110 MGD combined across four WWTPs + one major pump station / 109
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [cover-letter]
 win-theme-map: [incumbent-displacement, odor-control, compliance-leadership, asset-management, workforce-development, partner-transparency, safety-culture]
-proof-point-ids: []
+proof-point-ids: [PP-0700]
 testimonial-ids: []
 story-ids: []
 status: preferred
