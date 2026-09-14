@@ -1,6 +1,6 @@
 # Uncovered paragraphs — hull-wwtf-om-2026
 
-substantive 355 · covered 328 · partial 11 · uncovered 16 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 88)
+substantive 355 · covered 328 · partial 11 · uncovered 16 · writer-skipped 0 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 88)
 
 skipped: caption 35, heading 253, picture-text 111, recovered-tail 52, repeating 65, short 319
 

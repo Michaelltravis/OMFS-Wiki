@@ -1,6 +1,6 @@
 # Uncovered paragraphs — ocwut-16-26
 
-substantive 1000 · covered 946 · partial 20 · uncovered 34 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 226)
+substantive 1000 · covered 946 · partial 22 · uncovered 32 · writer-skipped 0 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 226)
 
 skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating 180, short 542
 
@@ -11,17 +11,17 @@ skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating
 
 ## INNOVATIONS & RECOMMENDED ALTERNATIVES — uncovered 0, partial 1
 
-- p0010¶11 · partial 39% · 92 w · table · best `wiki/win-themes/exec-summary-innovation-benefit-table.md` (39%) — |Alternative EscalationIndex Methodology|An estimated $620,000 in Base Fee savings over the firstcontract…
+- p0010¶11 · partial 41% · 92 w · table · best `wiki/win-themes/exec-summary-innovation-benefit-table.md` (41%) — |Alternative EscalationIndex Methodology|An estimated $620,000 in Base Fee savings over the firstcontract…
 
 ## JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT — uncovered 0, partial 3
 
-- p0013¶2 · partial 32% · 34 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-regulatory-compliance-reuse-matrix.md` (32%) — Meet reuse quality/quantity Reuse customers depend on consistent effluent quality requirements for…
-- p0013¶3 · partial 47% · 86 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-odor-control-community-protection-matrix.md` (47%) — Minimize odors and meet Odor NC: Headworks access is currently limited by…
+- p0013¶2 · partial 34% · 34 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-regulatory-compliance-reuse-matrix.md` (34%) — Meet reuse quality/quantity Reuse customers depend on consistent effluent quality requirements for…
+- p0013¶3 · partial 48% · 86 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-odor-control-community-protection-matrix.md` (48%) — Minimize odors and meet Odor NC: Headworks access is currently limited by…
 - p0016¶2 · partial 48% · 459 w · table · best `wiki/technical-approach/ocwut-exhibit-1-1-staffing-performance-transition-matrix.md` (48%) — |Staffing Stability and Workforce D|evelopment|| |---|---|---| |Staff all facilities per Schedule10, including…
 
 ## INNOVATION & 5 BEST PRACTICES — uncovered 1, partial 0
 
-- p0019¶35 · uncovered 10% · 129 w · prose · best `wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md` (10%) — & PERFORMANCEEMPOWERMENT 3 4 5 BEST PRACTICES ASSET PROTECTION Our people drive…
+- p0019¶35 · uncovered 11% · 129 w · prose · best `wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md` (11%) — & PERFORMANCEEMPOWERMENT 3 4 5 BEST PRACTICES ASSET PROTECTION Our people drive…
 
 ## QA/QC Plan Development and Internal Audit Program — uncovered 0, partial 1
 
@@ -35,21 +35,21 @@ skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating
 
 - p0027¶4 · partial 46% · 378 w · table · best `wiki/technical-approach/facility-process-control-priority-matrix.md` (46%) — ||WHAT WE FOUND|WHAT WE’LL DO| |---|---|---| |TP|Poor air distribution across aeration basins;…
 
-## Three Customers, Three Facilities, One Standard — uncovered 1, partial 0
+## Three Customers, Three Facilities, One Standard — uncovered 0, partial 1
 
-- p0034¶14 · uncovered 19% · 115 w · table · best `wiki/compliance-plans/reuse-disinfection-challenge-comparison-table.md` (19%) — ||NORTH CANADIANOG&E RED BUD|DEER CREEKGAILLARDIA GOLF CLUB|SOUTH CANADIANOG&E MCCLAIN| |---|---|---|---| |CURRENT|Disinfection relies…
+- p0034¶14 · partial 20% · 115 w · table · best `wiki/compliance-plans/reuse-disinfection-challenge-comparison-table.md` (20%) — ||NORTH CANADIANOG&E RED BUD|DEER CREEKGAILLARDIA GOLF CLUB|SOUTH CANADIANOG&E MCCLAIN| |---|---|---|---| |CURRENT|Disinfection relies…
 
 ## Getting Disinfection Right — Facility by Facility — uncovered 0, partial 1
 
-- p0035¶16 · partial 39% · 30 w · prose · best `wiki/compliance-plans/reuse-portfolio-proof-exhibit-callouts.md` (39%) — - • 20+ years of continuous compliance on the SoFi Stadium, and…
+- p0035¶16 · partial 41% · 30 w · prose · best `wiki/compliance-plans/reuse-portfolio-proof-exhibit-callouts.md` (41%) — - • 20+ years of continuous compliance on the SoFi Stadium, and…
 
 ## Operational Continuity and Contingencies So Reuse Stays Online — uncovered 0, partial 1
 
 - p0036¶1 · partial 39% · 94 w · prose · best `wiki/compliance-plans/regulatory-compliance-program-leadership-and-governance.md` (39%) — The QA/QC manager, reporting directly to the project manager as required by…
 
-## Process Control System Phased Performance Improvement Plan — uncovered 1, partial 0
+## Process Control System Phased Performance Improvement Plan — uncovered 0, partial 1
 
-- p0045¶12 · uncovered 19% · 107 w · prose · best `wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md` (19%) — MAYO MILLER YASH TANNA O&M OT/ SCADA/OT CYBERSECURITY SME ENGINEERING SME Mayo…
+- p0045¶12 · partial 20% · 107 w · prose · best `wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md` (20%) — MAYO MILLER YASH TANNA O&M OT/ SCADA/OT CYBERSECURITY SME ENGINEERING SME Mayo…
 
 ## OCWUT-MANAGED — uncovered 1, partial 0
 
@@ -65,7 +65,7 @@ skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating
 
 ## Facility-by-Facility Maintenance Priorities — uncovered 0, partial 1
 
-- p0058¶5 · partial 36% · 270 w · table · best `wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md` (36%) — |NorthCanadianWWTP|Severe H₂S preventing PM access, chronic grit failurescascading to primaries and aeration,…
+- p0058¶5 · partial 37% · 270 w · table · best `wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md` (37%) — |NorthCanadianWWTP|Severe H₂S preventing PM access, chronic grit failurescascading to primaries and aeration,…
 
 ## Asset Management Plans (AMPs) — uncovered 1, partial 0
 
@@ -92,7 +92,7 @@ skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating
 ## OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST — uncovered 2, partial 0
 
 - p0088¶11 · uncovered 9% · 69 w · prose · best `wiki/management-staffing/ocwut-offsite-sme-support-resources.md` (9%) — ASSET MANAGEMENT/CMMS INTELLIGENT O&M Graham Knowles John Rickermann, PE, CMRT REGIONAL MAINTENANCE…
-- p0088¶12 · uncovered 2% · 79 w · prose · best `wiki/management-staffing/ocwut-offsite-sme-support-resources.md` (2%) — CMMS/NEXGEN COMMISSIONING Janeane Giarrusso, IA M Ashley Currey, PE BIOSOLIDS CAPITAL PROJECTS…
+- p0088¶12 · uncovered 3% · 79 w · prose · best `wiki/management-staffing/ocwut-offsite-sme-support-resources.md` (3%) — CMMS/NEXGEN COMMISSIONING Janeane Giarrusso, IA M Ashley Currey, PE BIOSOLIDS CAPITAL PROJECTS…
 
 ## Durham, Tim — uncovered 0, partial 1
 

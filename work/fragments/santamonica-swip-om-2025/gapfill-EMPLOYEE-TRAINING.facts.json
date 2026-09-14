@@ -1,0 +1,22 @@
+[
+  {
+    "claim": "Jacobs University offers 225 online courses on business skills, computer desktop training, and IT topics available to O&M staff",
+    "number": "225",
+    "unit": "online courses",
+    "as_of": "2025",
+    "page": 41,
+    "para": 6,
+    "block": "wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "OSHA 10-hour training is a standard all-staff training topic in the Jacobs O&M curriculum",
+    "number": "10",
+    "unit": "hours (OSHA course)",
+    "as_of": "2025",
+    "page": 41,
+    "para": 6,
+    "block": "wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md",
+    "category": "management-staffing"
+  }
+]

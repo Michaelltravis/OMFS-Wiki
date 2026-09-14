@@ -6,12 +6,12 @@ Sources: fulton-county-2025, hull-wwtf-om-2026, mmsd-om-2028, ocwut-16-26, santa
 
 | Metric | Count |
 | --- | ---: |
-| Raw claims swept | 3387 |
-| Proof-point IDs | 3070 |
+| Raw claims swept | 3391 |
+| Proof-point IDs | 3074 |
 | Conflicts to resolve | 84 |
 | Consistent (multi-observation) | 122 |
-| Single-source | 2864 |
-| Distinct blocks referenced | 604 |
+| Single-source | 2868 |
+| Distinct blocks referenced | 606 |
 
 `owner` is unassigned and `approved_for_external_use` is `pending` for every ID; both are for the proposal team to fill in.
 
@@ -21970,3 +21970,31 @@ Also conflicts with: PP-0827
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
 | 6.95 million USD | unknown | mmsd-om-2028 | p144 ¶23 | `wiki/win-themes/mmsd-regional-partnership-engaged-partner-thames-tideway.md` |
+
+### PP-3072 — Jacobs University offers 225 online courses on business skills, computer desktop training, and IT topics available to O&M staff
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 225 online courses | 2025 | santamonica-swip-om-2025 | p41 ¶6 | `wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md` |
+
+### PP-3073 — OSHA 10-hour training is a standard all-staff training topic in the Jacobs O&M curriculum
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 10 hours (OSHA course) | 2025 | santamonica-swip-om-2025 | p41 ¶6 | `wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md` |
+
+### PP-3074 — Jacobs' field-trained maintenance specialists have completed condition assessments for 1 million water and wastewater plant assets
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 1000000 water and wastewater plant assets condition-assessed | 2025-09 | santamonica-swip-om-2025 | p59 ¶3 | `wiki/technical-approach/swip-condition-assessment-risk-scoring.md` |
+
+### PP-3075 — A 5-minute video shows Jacobs' approach to condition assessment
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 5 minutes (condition assessment video) | 2025-09 | santamonica-swip-om-2025 | p59 ¶3 | `wiki/technical-approach/swip-condition-assessment-risk-scoring.md` |

@@ -10,9 +10,10 @@
  },
  "counts": {
   "substantive": 447,
-  "covered": 405,
-  "partial": 25,
-  "uncovered": 17,
+  "covered": 406,
+  "partial": 24,
+  "uncovered": 2,
+  "writer_skipped": 15,
   "skipped": {
    "heading": 320,
    "short": 333,
@@ -35,12 +36,13 @@
    "best_block": "wiki/win-themes/swip-om-qualifications-proof-points.md",
    "best_fraction": 0.278,
    "first_words": "Jacobs will bring four decades of operations and maintenance Crescent City (O&M)",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶2"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 7,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 27,
    "kind": "prose",
@@ -49,40 +51,43 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "Howard Chris Mack Brewen Catlin Mckenzie WW Grade V AWT5 ™ ,",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶8"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶8",
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 16,
    "para": 4,
    "status": "partial",
-   "covered_fraction": 0.358,
+   "covered_fraction": 0.353,
    "words": 71,
    "kind": "prose",
    "section_id": "santamonica-swip-om-2025:05.corporate-structure-and-organizational-chart",
    "section_title": "CORPORATE STRUCTURE AND ORGANIZATIONAL CHART",
    "best_block": "wiki/qualifications/california-om-track-record-and-governance.md",
-   "best_fraction": 0.358,
+   "best_fraction": 0.353,
    "first_words": "Jacobs’ Operations Management and Chair & Chief Executive Of'icer Facilities Services (OMFS)",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0016.md#¶4"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0016.md#¶4",
+   "writer_reason": null
   },
   {
    "page": 17,
    "para": 9,
-   "status": "uncovered",
-   "covered_fraction": 0.097,
+   "status": "writer-skipped",
+   "covered_fraction": 0.096,
    "words": 93,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:06.exceptional-reach-back-to-regional-and-technical-o-m-resourc",
    "section_title": "Exceptional Reach-back to Regional and Technical O&M Resources",
    "best_block": "wiki/qualifications/reach-back-model-and-regional-support.md",
-   "best_fraction": 0.097,
+   "best_fraction": 0.096,
    "first_words": "|Regional ProcessSpecialists|Regional MaintenanceSpecialists|Compliance& Reporting Group|RegionalManagement| |---|---|---|---| |• Review process data,operator processcontrol logs•",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0017.md#¶9"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0017.md#¶9",
+   "writer_reason": "duplicate-of:wiki/qualifications/reach-back-model-and-regional-support.md"
   },
   {
    "page": 18,
    "para": 9,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.036,
    "words": 48,
    "kind": "prose",
@@ -91,12 +96,13 @@
    "best_block": "wiki/qualifications/full-service-firm-capabilities.md",
    "best_fraction": 0.036,
    "first_words": "- Master Planning • Project Management • Planning & Strategy • Union",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶9"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶9",
+   "writer_reason": "duplicate-of:wiki/qualifications/full-service-firm-capabilities.md (exhibit-internal)"
   },
   {
    "page": 18,
    "para": 10,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 26,
    "kind": "prose",
@@ -105,7 +111,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "- • Environmental Design (FEL 1,2,3) Prequali'ications Installation • Subcontract Management Management",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶10"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶10",
+   "writer_reason": "duplicate-of:wiki/qualifications/full-service-firm-capabilities.md (exhibit-internal)"
   },
   {
    "page": 20,
@@ -119,27 +126,29 @@
    "best_block": "wiki/qualifications/representative-om-experience-comparison-table.md",
    "best_fraction": 0.282,
    "first_words": "|PROJECTLOCATION|MGD|INDI|NON(TIT|MBR|CAR|RO M|UV-A|OZO|CHL|REGISUP|STAF|ASS| |---|---|---|---|---|---|---|---|---|---|---|---|---| |SANTA MONICA|1|||||||–||||| |City of ClovisClovis, CA|2.8|||||||||||| |Soquel Creek WaterSoquel,",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0020.md#¶8"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0020.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 30,
    "para": 9,
-   "status": "uncovered",
-   "covered_fraction": 0.036,
+   "status": "writer-skipped",
+   "covered_fraction": 0.041,
    "words": 93,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:08.jacobs-understands-santa-monica-s-challenges-and-goals-for-i",
    "section_title": "JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES",
    "best_block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
-   "best_fraction": 0.036,
+   "best_fraction": 0.041,
    "first_words": "|O&M ELEMENT|UNDERSTANDING OFCITY’S GOALS|KEY CURRENT/FUTURECHALLENGES|JACOBS’ STRATEGIES TODELIVER RESULTS| |---|---|---|---| |SWIP ADVANCED|WATER TREATMENT",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0030.md#¶9"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0030.md#¶9",
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md"
   },
   {
    "page": 31,
    "para": 1,
-   "status": "uncovered",
-   "covered_fraction": 0.029,
+   "status": "writer-skipped",
+   "covered_fraction": 0.031,
    "words": 370,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:08.jacobs-understands-santa-monica-s-challenges-and-goals-for-i",
@@ -147,7 +156,8 @@
    "best_block": "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
    "best_fraction": 0.027,
    "first_words": "|O&M ELEMENT|UNDERSTANDING OFCITY’S GOALS|KEY CURRENT/FUTURECHALLENGES|JACOBS’ STRATEGIES TODELIVER RESULTS| |---|---|---|---| |Operations &RegulatoryCompliance|Continuously meet",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0031.md#¶1"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0031.md#¶1",
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md"
   },
   {
    "page": 32,
@@ -161,7 +171,8 @@
    "best_block": "wiki/technical-approach/swip-om-project-execution-framework.md",
    "best_fraction": 0.389,
    "first_words": "In Exhibit 2-6 , we outline specific strategies for meeting the City’s",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶2"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 32,
@@ -175,7 +186,8 @@
    "best_block": "wiki/technical-approach/swip-om-project-execution-framework.md",
    "best_fraction": 0.474,
    "first_words": "As Jacobs partners with the City to deliver high-performance operations across the",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶26"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0032.md#¶26",
+   "writer_reason": null
   },
   {
    "page": 33,
@@ -189,12 +201,13 @@
    "best_block": "wiki/technical-approach/swip-om-project-execution-framework.md",
    "best_fraction": 0.422,
    "first_words": "Additionally, Jacobs will provide the City with real-time visibility into SWIP operations",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0033.md#¶1"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0033.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 34,
    "para": 7,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.054,
    "words": 117,
    "kind": "table",
@@ -203,21 +216,23 @@
    "best_block": "wiki/technical-approach/swip-comprehensive-om-plan-list.md",
    "best_fraction": 0.054,
    "first_words": "|»Accident Prevention Plan (APP) »Asset Management (utilizing CMMS)|»Operations and Maintenance (O&M) Manual",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0034.md#¶7"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0034.md#¶7",
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-comprehensive-om-plan-list.md"
   },
   {
    "page": 35,
    "para": 5,
-   "status": "uncovered",
-   "covered_fraction": 0.178,
+   "status": "writer-skipped",
+   "covered_fraction": 0.185,
    "words": 415,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:08.process-control",
    "section_title": "PROCESS CONTROL",
    "best_block": "wiki/technical-approach/swip-process-control-system-tools.md",
-   "best_fraction": 0.178,
+   "best_fraction": 0.185,
    "first_words": "|PROVENOPERATIONS PLANS|PLAN DESCRIPTION|BENEFIT TO SANTA MONICA| |---|---|---| |Unit ProcessControl Procedures(UPCPs)|UPCPs provide our",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0035.md#¶5"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0035.md#¶5",
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-process-control-system-tools.md"
   },
   {
    "page": 36,
@@ -231,21 +246,23 @@
    "best_block": "wiki/technical-approach/swip-process-control-system-tools.md",
    "best_fraction": 0.247,
    "first_words": "|PROVENOPERATIONS PLANS|PLAN DESCRIPTION|BENEFIT TO SANTA MONICA| |---|---|---| |StandardOperatingProcedures(SOPs)|SOPs are developed to ensure",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0036.md#¶1"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0036.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 37,
    "para": 8,
-   "status": "partial",
-   "covered_fraction": 0.22,
+   "status": "uncovered",
+   "covered_fraction": 0.196,
    "words": 54,
    "kind": "prose",
    "section_id": "santamonica-swip-om-2025:08.addressing-other-potential-process-impacts",
    "section_title": "ADDRESSING OTHER POTENTIAL PROCESS IMPACTS",
    "best_block": "wiki/technical-approach/swip-process-optimization-digital-modeling.md",
-   "best_fraction": 0.14,
+   "best_fraction": 0.118,
    "first_words": "To further minimize impacts from lift station operations, Jacobs will deploy our",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0037.md#¶8"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0037.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 38,
@@ -259,7 +276,8 @@
    "best_block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
    "best_fraction": 0.422,
    "first_words": "Jacobs will develop a comprehensive Quality Assurance Plan outlining the processes, metrics,",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0038.md#¶3"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0038.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 38,
@@ -273,7 +291,8 @@
    "best_block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
    "best_fraction": 0.387,
    "first_words": "At SWIP, Jacobs will deploy a dedicated QA/QC team drawn from our",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0038.md#¶5"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0038.md#¶5",
+   "writer_reason": null
   },
   {
    "page": 38,
@@ -287,35 +306,23 @@
    "best_block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
    "best_fraction": 0.429,
    "first_words": "Once audit results are provided to the local SWIP project team’s leadership,",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0038.md#¶16"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0038.md#¶16",
+   "writer_reason": null
   },
   {
    "page": 39,
    "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.093,
+   "status": "writer-skipped",
+   "covered_fraction": 0.092,
    "words": 122,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:08.in-house-procedures-to-provide-accuracy-integrity-and-qualit",
    "section_title": "IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL",
    "best_block": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
-   "best_fraction": 0.093,
+   "best_fraction": 0.092,
    "first_words": "|� Audit team sends information request to CPO� Alerts go to Compliance",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0039.md#¶2"
-  },
-  {
-   "page": 41,
-   "para": 6,
-   "status": "uncovered",
-   "covered_fraction": 0.148,
-   "words": 191,
-   "kind": "table",
-   "section_id": "santamonica-swip-om-2025:08.structured-training-programs-and-compliance-alignment",
-   "section_title": "Structured Training Programs and Compliance Alignment",
-   "best_block": "wiki/management-staffing/swip-training-certification-program.md",
-   "best_fraction": 0.148,
-   "first_words": "|OPERATIONS STAFF|| |---|---| |»Plant-specific Process Control Testing and Monitoring »Weekly Process Control",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0041.md#¶6"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0039.md#¶2",
+   "writer_reason": "duplicate-of:wiki/compliance-plans/swip-qaqc-program-audit-process.md"
   },
   {
    "page": 43,
@@ -329,12 +336,13 @@
    "best_block": "wiki/management-staffing/swip-training-certification-program.md",
    "best_fraction": 0.472,
    "first_words": "Jacobs will submit an Annual Staffing and Training Plan to the City",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶7"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0043.md#¶7",
+   "writer_reason": null
   },
   {
    "page": 44,
    "para": 6,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.121,
    "words": 145,
    "kind": "prose",
@@ -343,7 +351,8 @@
    "best_block": "wiki/management-staffing/swip-workforce-culture-dei-employee-networks.md",
    "best_fraction": 0.121,
    "first_words": "Providing information, resources, and Providing an inclusive environment that networking opportunities regarding",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0044.md#¶6"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0044.md#¶6",
+   "writer_reason": "duplicate-of:wiki/management-staffing/swip-workforce-culture-dei-employee-networks.md"
   },
   {
    "page": 45,
@@ -357,21 +366,23 @@
    "best_block": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md",
    "best_fraction": 0.451,
    "first_words": "Jacobs is committed to bringing Santa Monica not only reliable operations but",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0045.md#¶2"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0045.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 45,
    "para": 3,
    "status": "partial",
-   "covered_fraction": 0.296,
+   "covered_fraction": 0.244,
    "words": 87,
    "kind": "prose",
    "section_id": "santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-operational-efficienc",
    "section_title": "INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY",
    "best_block": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md",
-   "best_fraction": 0.296,
+   "best_fraction": 0.244,
    "first_words": "(see “Communications and Reporting” subsection for details) and Annual Training and Incentives",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0045.md#¶3"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0045.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 49,
@@ -385,7 +396,8 @@
    "best_block": "wiki/compliance-plans/swip-safety-plan-performance-record.md",
    "best_fraction": 0.444,
    "first_words": "Jacobs has a long history of keeping our employees and partners safe,",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶3"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 49,
@@ -399,68 +411,73 @@
    "best_block": "wiki/compliance-plans/swip-safety-plan-performance-record.md",
    "best_fraction": 0.222,
    "first_words": "Safety Statistics for Jacobs’ Operations and Maintenance Organization: Our Experience Rate Modification",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶8"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0049.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 51,
    "para": 1,
    "status": "partial",
-   "covered_fraction": 0.444,
+   "covered_fraction": 0.448,
    "words": 139,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:08.key-elements-of-our-safety-program-and-planning",
    "section_title": "Key Elements of Our Safety Program and Planning",
    "best_block": "wiki/compliance-plans/swip-safety-training-confined-space-programs.md",
-   "best_fraction": 0.444,
+   "best_fraction": 0.448,
    "first_words": "||Assessment of safety training needs for each worker and project site starting",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0051.md#¶1"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0051.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 53,
    "para": 3,
    "status": "partial",
-   "covered_fraction": 0.442,
+   "covered_fraction": 0.447,
    "words": 406,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:08.regulatory-compliance",
    "section_title": "REGULATORY COMPLIANCE",
    "best_block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
-   "best_fraction": 0.442,
+   "best_fraction": 0.447,
    "first_words": "|Project Name |Violation Description|Corrective Action|OccurrenceDate| |---|---|---|---| |City of Clovis|Chlorine, Total Residual InstantaneousMaximum",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0053.md#¶3"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0053.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 54,
    "para": 1,
    "status": "partial",
-   "covered_fraction": 0.387,
+   "covered_fraction": 0.43,
    "words": 157,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:08.regulatory-compliance",
    "section_title": "REGULATORY COMPLIANCE",
    "best_block": "wiki/compliance-plans/swip-permit-compliance-track-record.md",
-   "best_fraction": 0.387,
+   "best_fraction": 0.43,
    "first_words": "|Project Name |Violation Description|Corrective Action|OccurrenceDate| |---|---|---|---| |City ofCrescent City|Once Only One Time",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0054.md#¶1"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0054.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 59,
    "para": 3,
    "status": "uncovered",
-   "covered_fraction": 0.082,
+   "covered_fraction": 0.09,
    "words": 119,
    "kind": "prose",
    "section_id": "santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-program",
    "section_title": "ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM",
-   "best_block": "wiki/technical-approach/swip-asset-management-10-box-model.md",
-   "best_fraction": 0.082,
+   "best_block": "wiki/technical-approach/swip-condition-assessment-risk-scoring.md",
+   "best_fraction": 0.09,
    "first_words": "Following project startup, Jacobs will JACOBS’ INDUSTRY AWARD-WINNING AND HIGHLY conduct regular",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0059.md#¶3"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0059.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 59,
    "para": 10,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 111,
    "kind": "prose",
@@ -469,7 +486,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "ULTRASOUND PRECISION INFRARED LUBRICATION/ VIBRATION ANALYSIS ALIGNMENT THERMOGRAPHY OIL ANALYSIS MEASUREMENT for",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0059.md#¶10"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0059.md#¶10",
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-predictive-maintenance-technologies.md"
   },
   {
    "page": 62,
@@ -483,7 +501,8 @@
    "best_block": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
    "best_fraction": 0.364,
    "first_words": "The dashboard complements our formal written reports, giving the City immediate visibility",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0062.md#¶13"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0062.md#¶13",
+   "writer_reason": null
   },
   {
    "page": 65,
@@ -497,12 +516,13 @@
    "best_block": "wiki/compliance-plans/swip-emergency-response-plan-approach.md",
    "best_fraction": 0.462,
    "first_words": "- µAttention to the unique characteristics of the SWIP facilities that require",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0065.md#¶16"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0065.md#¶16",
+   "writer_reason": null
   },
   {
    "page": 74,
    "para": 20,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.021,
    "words": 52,
    "kind": "prose",
@@ -511,21 +531,23 @@
    "best_block": "wiki/management-staffing/swip-project-team-org-structure.md",
    "best_fraction": 0.021,
    "first_words": "Engineering Support Team Sunshine Smith | LEAD Engineering Lead and Membrane Expert",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0074.md#¶20"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0074.md#¶20",
+   "writer_reason": "duplicate-of:wiki/management-staffing/swip-project-team-org-structure.md"
   },
   {
    "page": 74,
    "para": 23,
-   "status": "uncovered",
-   "covered_fraction": 0.042,
+   "status": "writer-skipped",
+   "covered_fraction": 0.041,
    "words": 51,
    "kind": "prose",
    "section_id": "santamonica-swip-om-2025:10",
    "section_title": "3.1 STAFFING PLAN",
    "best_block": "wiki/management-staffing/swip-project-team-org-structure.md",
-   "best_fraction": 0.042,
+   "best_fraction": 0.041,
    "first_words": "Asset Management Regional Safety Support Graham Knowles Trey Cain, ASP SCADA/Instrumentation HR",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0074.md#¶23"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0074.md#¶23",
+   "writer_reason": "duplicate-of:wiki/management-staffing/swip-project-team-org-structure.md"
   },
   {
    "page": 98,
@@ -539,68 +561,73 @@
    "best_block": "wiki/management-staffing/swip-transitioning-employee-care-and-compensation.md",
    "best_fraction": 0.407,
    "first_words": "Staff members that have joined our �irm after a transition are uniformly",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0098.md#¶7"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0098.md#¶7",
+   "writer_reason": null
   },
   {
    "page": 99,
    "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.021,
+   "status": "writer-skipped",
+   "covered_fraction": 0.02,
    "words": 51,
    "kind": "prose",
    "section_id": "santamonica-swip-om-2025:13.experienced-transition-team",
    "section_title": "EXPERIENCED TRANSITION TEAM",
    "best_block": "wiki/management-staffing/swip-transition-team-and-communications-plan.md",
-   "best_fraction": 0.021,
+   "best_fraction": 0.02,
    "first_words": "Asset Management Compliance & Reporting HR Support Graham Knowles Manager Karl McCormack",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0099.md#¶7"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0099.md#¶7",
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 100,
    "para": 2,
    "status": "partial",
-   "covered_fraction": 0.467,
+   "covered_fraction": 0.499,
    "words": 438,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:13.transition-phasing-and-timeline",
    "section_title": "Transition Phasing and Timeline",
    "best_block": "wiki/management-staffing/swip-transition-phasing-and-schedule-template.md",
-   "best_fraction": 0.467,
+   "best_fraction": 0.499,
    "first_words": "|Transition Phasing and Timeline’Pre-Start Tran|sition|Initial|TransitionFull Transitio|n and Integration|Long|-Term Transition| |---|---|---|---|---|---|---| |Jacobs structured",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0100.md#¶2"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0100.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 101,
    "para": 2,
    "status": "partial",
-   "covered_fraction": 0.392,
+   "covered_fraction": 0.45,
    "words": 364,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:13.transition-phasing-and-timeline",
    "section_title": "Transition Phasing and Timeline",
    "best_block": "wiki/management-staffing/swip-transition-phasing-and-schedule-template.md",
-   "best_fraction": 0.392,
+   "best_fraction": 0.45,
    "first_words": "|Exhibit 3-5.Preliminary Schedule (continued)||||November|December|January|February|March|April|May| |---|---|---|---|---|---|---|---|---|---|---| |||Start||2025|2025|2026|2026|2026|2026|2026| |PROPOSED SANTA MONICA TRANSITION WORK PLAN|Task",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0101.md#¶2"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0101.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 105,
    "para": 7,
    "status": "partial",
-   "covered_fraction": 0.3,
+   "covered_fraction": 0.31,
    "words": 220,
    "kind": "table",
    "section_id": "santamonica-swip-om-2025:14.direct-potable-reuse-operations",
    "section_title": "Direct Potable Reuse Operations",
    "best_block": "wiki/technical-approach/swip-dpr-operations-staffing-model.md",
-   "best_fraction": 0.3,
+   "best_fraction": 0.31,
    "first_words": "|Operator|Responsibility|Assumption| |---|---|---| |T5 Chief Operatorand T3 (minimum)Shift Operator|Entire treatment train|Because the scope",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0105.md#¶7"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0105.md#¶7",
+   "writer_reason": null
   },
   {
    "page": 107,
    "para": 3,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.171,
    "words": 101,
    "kind": "table",
@@ -609,7 +636,8 @@
    "best_block": "wiki/technical-approach/swip-city-staff-training-program.md",
    "best_fraction": 0.171,
    "first_words": "|PROGRAM HIGHLIGHTS|COURSE OFFERINGS| |---|---| |µ Deliver clear, accessible training on water/wastewaterfundamentals in",
-   "ref": "verbatim/santamonica-swip-om-2025/pages/p0107.md#¶3"
+   "ref": "verbatim/santamonica-swip-om-2025/pages/p0107.md#¶3",
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-city-staff-training-program.md"
   }
  ]
 }

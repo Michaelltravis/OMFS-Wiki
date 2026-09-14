@@ -54,8 +54,26 @@ def name_normalizer(cfg: dict | None):
         text = PLACEHOLDER_RE.sub(" cli ", text)
         if rx:
             text = rx.sub(" cli ", text)
+        # verbatim table cells often fuse words ("ProcessSpecialists", "OFCITY'S", "water2025")
+        # where the block's cleaned table has spaces; split at case and letter/digit boundaries
+        text = re.sub(r"([a-z])([A-Z])", r"\1 \2", text)
+        text = re.sub(r"([A-Za-z])(\d)", r"\1 \2", text)
+        text = re.sub(r"(\d)([A-Za-z])", r"\1 \2", text)
+        text = re.sub(r"[»•▪■µ|]", " ", text)
         return normalize(text)
     return norm
+
+
+def load_skips(slug: str) -> dict:
+    """Writer decisions from earlier fill-gaps runs: {(page, para): reason}. A paragraph a writer
+    skipped as duplicate-of / exhibit-internal / commercial is reported as such, not as uncovered."""
+    p = ROOT / "work" / "gaps" / f"{slug}.skips.json"
+    if not p.is_file():
+        return {}
+    out = {}
+    for r in json.loads(p.read_text(encoding="utf-8")):
+        out[(int(r["page"]), int(r["para"]))] = str(r.get("reason", "skipped"))
+    return out
 
 
 def in_scope(page: int, excl: list) -> bool:
@@ -101,8 +119,9 @@ def main():
     for _p, sh in blocks:
         union |= sh
 
+    skips = load_skips(slug)
     rows = []
-    counts = {"substantive": 0, "covered": 0, "partial": 0, "uncovered": 0, "skipped": {}}
+    counts = {"substantive": 0, "covered": 0, "partial": 0, "uncovered": 0, "writer_skipped": 0, "skipped": {}}
     for pno in sorted(pages):
         if not in_scope(pno, excl):
             continue
@@ -118,7 +137,11 @@ def main():
                 counts["covered"] += 1
                 continue
             status = "uncovered" if frac < args.min_covered else "partial"
-            counts[status] += 1
+            if (pno, para.n) in skips:
+                status = "writer-skipped"
+                counts["writer_skipped"] += 1
+            if status in counts:
+                counts[status] += 1
             best, best_f = None, 0.0
             for p, bsh in blocks:
                 f = len(sh & bsh) / len(sh) if sh else 0.0
@@ -133,6 +156,7 @@ def main():
                 "best_block": best, "best_fraction": round(best_f, 3),
                 "first_words": " ".join(words[:12]),
                 "ref": f"verbatim/{slug}/pages/p{pno:04d}.md#¶{para.n}",
+                "writer_reason": skips.get((pno, para.n)),
             })
 
     out_dir = ROOT / "work" / "gaps"
@@ -142,6 +166,7 @@ def main():
     # markdown summary by section
     lines = [f"# Uncovered paragraphs — {slug}", "",
              f"substantive {counts['substantive']} · covered {counts['covered']} · partial {counts['partial']} · uncovered {counts['uncovered']} "
+             f"· writer-skipped {counts['writer_skipped']} "
              f"(thresholds: uncovered < {args.min_covered}, partial < {args.partial}; min words {args.min_words}; blocks {len(blocks)})", "",
              "skipped: " + ", ".join(f"{k} {v}" for k, v in sorted(counts["skipped"].items())), ""]
     by_sec: dict[str, list] = {}
@@ -155,10 +180,11 @@ def main():
         for r in items:
             lines.append(f"- p{r['page']:04d}¶{r['para']} · {r['status']} {int(r['covered_fraction']*100)}% · {r['words']} w · {r['kind']}"
                          + (f" · best `{r['best_block']}` ({int(r['best_fraction']*100)}%)" if r["best_block"] and r["best_fraction"] > 0 else "")
+                         + (f" · writer: {r['writer_reason']}" if r.get("writer_reason") else "")
                          + f" — {r['first_words']}…")
         lines.append("")
     (out_dir / f"{slug}.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
-    print(f"[{slug}] substantive={counts['substantive']} covered={counts['covered']} partial={counts['partial']} uncovered={counts['uncovered']} blocks={len(blocks)}")
+    print(f"[{slug}] substantive={counts['substantive']} covered={counts['covered']} partial={counts['partial']} uncovered={counts['uncovered']} writer-skipped={counts['writer_skipped']} blocks={len(blocks)}")
     print(f"  wrote work/gaps/{slug}.json and .md")
 
 

@@ -64372,5 +64372,85 @@
     "owner": "",
     "approved_for_external_use": "pending",
     "conflicts_with": []
+  },
+  {
+    "id": "PP-3072",
+    "claim": "Jacobs University offers 225 online courses on business skills, computer desktop training, and IT topics available to O&M staff",
+    "values": [
+      {
+        "number": "225",
+        "unit": "online courses",
+        "as_of": "2025",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 41,
+        "para": 6,
+        "block": "wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3073",
+    "claim": "OSHA 10-hour training is a standard all-staff training topic in the Jacobs O&M curriculum",
+    "values": [
+      {
+        "number": "10",
+        "unit": "hours (OSHA course)",
+        "as_of": "2025",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 41,
+        "para": 6,
+        "block": "wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3074",
+    "claim": "Jacobs' field-trained maintenance specialists have completed condition assessments for 1 million water and wastewater plant assets",
+    "values": [
+      {
+        "number": "1000000",
+        "unit": "water and wastewater plant assets condition-assessed",
+        "as_of": "2025-09",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 59,
+        "para": 3,
+        "block": "wiki/technical-approach/swip-condition-assessment-risk-scoring.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "technical-approach",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3075",
+    "claim": "A 5-minute video shows Jacobs' approach to condition assessment",
+    "values": [
+      {
+        "number": "5",
+        "unit": "minutes (condition assessment video)",
+        "as_of": "2025-09",
+        "source_slug": "santamonica-swip-om-2025",
+        "page": 59,
+        "para": 3,
+        "block": "wiki/technical-approach/swip-condition-assessment-risk-scoring.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "technical-approach",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
   }
 ]

@@ -13,6 +13,7 @@
   "covered": 328,
   "partial": 11,
   "uncovered": 16,
+  "writer_skipped": 0,
   "skipped": {
    "short": 319,
    "picture-text": 111,
@@ -35,7 +36,8 @@
    "best_block": "wiki/win-themes/value-proposition-table-approach-impact-value.md",
    "best_fraction": 0.075,
    "first_words": "|THE JACOBS DIFFERENCE FOR THE T Leadership, technical depth, and disciplined operations",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0005.md#¶8"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0005.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 6,
@@ -49,7 +51,8 @@
    "best_block": "wiki/win-themes/differentiator-traditional-vs-enhanced-om-comparison.md",
    "best_fraction": 0.043,
    "first_words": "|FROM OPERATIONS TO OPTIMIZATION || |---|---| |TRADITIONAL O&M APPROACHJACOBS PERFORMANCE APPROA|CH| |Reactive",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0006.md#¶13"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0006.md#¶13",
+   "writer_reason": null
   },
   {
    "page": 10,
@@ -63,35 +66,38 @@
    "best_block": "wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md",
    "best_fraction": 0.44,
    "first_words": "Our project organization chart, provided in Section 4 – Project Staffing and",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶8"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0010.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 20,
    "para": 8,
    "status": "partial",
-   "covered_fraction": 0.28,
+   "covered_fraction": 0.281,
    "words": 149,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:04.key-staff-and-management-team",
    "section_title": "KEY STAFF AND MANAGEMENT TEAM",
    "best_block": "wiki/management-staffing/proposed-team-org-chart-roster.md",
-   "best_fraction": 0.28,
+   "best_fraction": 0.281,
    "first_words": "||TOWN OF HULLDirector of Wastewater Operations/Assistant Director of Public Works|| |---|---|---| |REGIONAL",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶8"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0020.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 25,
    "para": 7,
    "status": "partial",
-   "covered_fraction": 0.28,
+   "covered_fraction": 0.284,
    "words": 209,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:05.project-understanding",
    "section_title": "PROJECT UNDERSTANDING",
    "best_block": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
-   "best_fraction": 0.28,
+   "best_fraction": 0.284,
    "first_words": "|1. CollaborativePartnership andGovernance|Build trust quickly; preserveinstitutional knowledge; defineroles; coordinate across plant,collections,and storm",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0025.md#¶7"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0025.md#¶7",
+   "writer_reason": null
   },
   {
    "page": 26,
@@ -105,21 +111,23 @@
    "best_block": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
    "best_fraction": 0.297,
    "first_words": "|6. CommunityStewardship andQuality of Life|Manage residential proximity;control H₂S risk from long forcemains",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0026.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0026.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 27,
    "para": 9,
    "status": "uncovered",
-   "covered_fraction": 0.151,
+   "covered_fraction": 0.15,
    "words": 115,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:05.annual-innovation-workshops-drive-continuous-improvement-and",
    "section_title": "Annual Innovation Workshops Drive Continuous Improvement and Innovation",
    "best_block": "wiki/technical-approach/tiered-communication-reporting-protocol.md",
-   "best_fraction": 0.151,
+   "best_fraction": 0.15,
    "first_words": "|WHE|N|WHAT|WHO| |---|---|---|---| |Day-to-Day|Meetings andDiscussions|µOpen exchange of information to ensure transparency andcollaboration|µTown/Jacobs ProjectManagement",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0027.md#¶9"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0027.md#¶9",
+   "writer_reason": null
   },
   {
    "page": 28,
@@ -133,21 +141,23 @@
    "best_block": "wiki/technical-approach/process-control-and-compliance-tools.md",
    "best_fraction": 0.291,
    "first_words": "|UPCPs|Develop Hull WWTF‑specific UPCPs by unit process thatdefine operating objectives; target setpoints/ranges;",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0028.md#¶13"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0028.md#¶13",
+   "writer_reason": null
   },
   {
    "page": 30,
    "para": 2,
    "status": "uncovered",
-   "covered_fraction": 0.043,
+   "covered_fraction": 0.047,
    "words": 148,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:05.opportunities-for-stable-and-sustainable-operations",
    "section_title": "Opportunities for Stable and Sustainable Operations",
    "best_block": "wiki/technical-approach/phased-baseline-to-optimization-approach.md",
-   "best_fraction": 0.043,
+   "best_fraction": 0.047,
    "first_words": "|Primary Clarifiers|Odor concerns;inconsistent use;mechanical deficiencies;risk of allowing high BODto secondary|µRehabilitate primary clarifiers(e.g.,",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0030.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0030.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 34,
@@ -161,7 +171,8 @@
    "best_block": "wiki/technical-approach/collection-system-om-program.md",
    "best_fraction": 0.393,
    "first_words": "- µSystematically tracking and investigating I/I by correlating field observations, flow patterns,",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0034.md#¶13"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0034.md#¶13",
+   "writer_reason": null
   },
   {
    "page": 39,
@@ -175,35 +186,38 @@
    "best_block": "wiki/technical-approach/ot-scada-modernization-roadmap.md",
    "best_fraction": 0.019,
    "first_words": "||PHASE 1: FOUNDATIONInventory and Modeling|PHASE 2: OPERATIONAL VISIBILITYMonitoring, Planning, andRefinement|PHASE 3: OPTIMIZATIONProcess",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0039.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0039.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 47,
    "para": 18,
    "status": "uncovered",
-   "covered_fraction": 0.11,
+   "covered_fraction": 0.116,
    "words": 66,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:05.transition-leadership-and-workforce-continuity",
    "section_title": "Transition Leadership and Workforce Continuity",
    "best_block": "wiki/management-staffing/proposed-team-org-chart-roster.md",
-   "best_fraction": 0.11,
+   "best_fraction": 0.116,
    "first_words": "|REGIONAL AND TECHNICALSUPPORT TEAM LEADERJohn Rickermann, PE, CMRTREGIONAL HEALTH &SAFETYDave Haverly, CSPREGIONAL",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0047.md#¶18"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0047.md#¶18",
+   "writer_reason": null
   },
   {
    "page": 51,
    "para": 2,
    "status": "partial",
-   "covered_fraction": 0.242,
+   "covered_fraction": 0.248,
    "words": 338,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:05.innovation",
    "section_title": "INNOVATION",
    "best_block": "wiki/compliance-plans/value-added-innovations-no-additional-cost.md",
-   "best_fraction": 0.242,
+   "best_fraction": 0.248,
    "first_words": "|DiscountedEngineeringRates|Up to 19%savingscomparedto standardrates|Provide out‑of‑scope engineering and consulting at adiscounted 2.6 multiplier",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0051.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0051.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 76,
@@ -217,7 +231,8 @@
    "best_block": "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md",
    "best_fraction": 0.235,
    "first_words": "Capital Improvements. Jacobs provides full contract operations services, consisting of grit and",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶6"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶6",
+   "writer_reason": null
   },
   {
    "page": 76,
@@ -231,7 +246,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "Treatment Systems and Processes. The system uses preliminary screening and grit removal",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶7"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶7",
+   "writer_reason": null
   },
   {
    "page": 76,
@@ -245,7 +261,8 @@
    "best_block": "wiki/past-performance/client-references.md",
    "best_fraction": 0.051,
    "first_words": "Community Involvement. The Waterbury team decided to sponsor a newer program called",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶8"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 76,
@@ -259,7 +276,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "Protection of the Naugatuck River is a key priority for our city.",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶17"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶17",
+   "writer_reason": null
   },
   {
    "page": 82,
@@ -273,7 +291,8 @@
    "best_block": "wiki/past-performance/similar-facilities-table.md",
    "best_fraction": 0.129,
    "first_words": "|City of Twin FallsCity of Twin Falls WWTP|ID|Duration:40 Years, 10 MonthsStart Date:5/1/1985|Anaerobic",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0082.md#¶3"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0082.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 83,
@@ -287,7 +306,8 @@
    "best_block": "wiki/past-performance/similar-facilities-table.md",
    "best_fraction": 0.128,
    "first_words": "|City of VancouverMarine Park WWTP|WA|Duration:10 Years, 7 MonthsStart Date:8/1/2015|Disinfection – UV; effluent",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0083.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0083.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 88,
@@ -301,7 +321,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "[Full-page marketing flier on a dark blue background with a stylized world",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0088.md#¶4"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0088.md#¶4",
+   "writer_reason": null
   },
   {
    "page": 90,
@@ -315,7 +336,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "[Diagram: An integrated SmartCover system flow diagram. On the left, a manhole/wet-well",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0090.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0090.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 91,
@@ -329,35 +351,38 @@
    "best_block": "wiki/technical-approach/smartcover-real-time-sewer-monitoring-capability.md",
    "best_fraction": 0.294,
    "first_words": "| | | | | |---|---|---|---| | [icon: worker in hard hat]",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0091.md#¶9"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0091.md#¶9",
+   "writer_reason": null
   },
   {
    "page": 99,
    "para": 3,
    "status": "partial",
-   "covered_fraction": 0.204,
+   "covered_fraction": 0.203,
    "words": 429,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:18",
    "section_title": "Section 7 - Appendix G - Transition Activity Gantt Chart",
    "best_block": "wiki/management-staffing/om-transition-workplan-phased-schedule.md",
-   "best_fraction": 0.204,
+   "best_fraction": 0.203,
    "first_words": "|PROPOSED TOWN OF HULL TRANSITION WORK PLAN|TASK LEAD|START DATE|COMPLETIODATE| |---|---|---|---| |Pre-Start Transition",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0099.md#¶3"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0099.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 100,
    "para": 2,
    "status": "partial",
-   "covered_fraction": 0.261,
+   "covered_fraction": 0.26,
    "words": 291,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:18",
    "section_title": "Section 7 - Appendix G - Transition Activity Gantt Chart",
    "best_block": "wiki/management-staffing/om-transition-workplan-phased-schedule.md",
-   "best_fraction": 0.261,
+   "best_fraction": 0.26,
    "first_words": "|PROPOSED TOWN OF HULL TRANSITION WORK PLAN|TASK LEAD|START DATE|COMPLETIODATE| |---|---|---|---| |Con'irm spares",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0100.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0100.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 102,
@@ -371,7 +396,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "Jacobs’ proposal pricing is made with the assumption that the following changes",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 102,
@@ -385,7 +411,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "|2.02, Changein Law|While Jacobs agrees that changes in tax lawas applicable to",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶4"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶4",
+   "writer_reason": null
   },
   {
    "page": 103,
@@ -399,7 +426,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "|8.02|Jacobs can provide substantially similarinsurance to that requested in the draftAgreement and",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0103.md#¶2"
+   "ref": "verbatim/hull-wwtf-om-2026/pages/p0103.md#¶2",
+   "writer_reason": null
   }
  ]
 }

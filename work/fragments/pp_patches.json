@@ -2136,6 +2136,15 @@
     }
   },
   {
+    "path": "wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3072",
+        "PP-3073"
+      ]
+    }
+  },
+  {
     "path": "wiki/management-staffing/swip-training-certification-program.md",
     "set": {
       "proof-point-ids": [
@@ -6530,6 +6539,15 @@
       "proof-point-ids": [
         "PP-0433",
         "PP-0434"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/swip-condition-assessment-risk-scoring.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3074",
+        "PP-3075"
       ]
     }
   },

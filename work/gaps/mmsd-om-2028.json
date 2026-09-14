@@ -10,9 +10,10 @@
  },
  "counts": {
   "substantive": 759,
-  "covered": 688,
-  "partial": 13,
+  "covered": 689,
+  "partial": 12,
   "uncovered": 58,
+  "writer_skipped": 0,
   "skipped": {
    "heading": 514,
    "picture-text": 384,
@@ -35,7 +36,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "✓ Resilient, interconnected ✓ One-team culture with operations—built into clear accountability and",
-   "ref": "verbatim/mmsd-om-2028/pages/p0006.md#¶21"
+   "ref": "verbatim/mmsd-om-2028/pages/p0006.md#¶21",
+   "writer_reason": null
   },
   {
    "page": 19,
@@ -49,7 +51,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0019.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0019.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 21,
@@ -63,7 +66,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. HR and C. PM and Corrective D. Use of E. Technical",
-   "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 21,
@@ -77,7 +81,8 @@
    "best_block": "wiki/management-staffing/mmsd-staffing-certainty-framework-exhibit.md",
    "best_fraction": 0.16,
    "first_words": "PROVEN FRAMEWORK To fill all positions and retain and recruit FOR STAFFING",
-   "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶5"
+   "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶5",
+   "writer_reason": null
   },
   {
    "page": 24,
@@ -91,7 +96,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0024.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0024.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 26,
@@ -105,7 +111,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
-   "ref": "verbatim/mmsd-om-2028/pages/p0026.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0026.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 27,
@@ -119,7 +126,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0027.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0027.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 28,
@@ -133,7 +141,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0028.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0028.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 29,
@@ -147,7 +156,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
-   "ref": "verbatim/mmsd-om-2028/pages/p0029.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0029.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 31,
@@ -161,7 +171,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
-   "ref": "verbatim/mmsd-om-2028/pages/p0031.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0031.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 32,
@@ -175,7 +186,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "D. Use of E. Technical F. Safe Work G. Positive H. Workforce",
-   "ref": "verbatim/mmsd-om-2028/pages/p0032.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0032.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 33,
@@ -189,7 +201,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0033.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0033.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 34,
@@ -203,7 +216,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0034.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0034.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 38,
@@ -217,7 +231,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0038.md#¶3"
+   "ref": "verbatim/mmsd-om-2028/pages/p0038.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 39,
@@ -231,7 +246,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0039.md#¶3"
+   "ref": "verbatim/mmsd-om-2028/pages/p0039.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 41,
@@ -245,49 +261,38 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
-   "ref": "verbatim/mmsd-om-2028/pages/p0041.md#¶2"
-  },
-  {
-   "page": 45,
-   "para": 20,
-   "status": "partial",
-   "covered_fraction": 0.462,
-   "words": 32,
-   "kind": "prose",
-   "section_id": "mmsd-om-2028:21.energy-and-chemical-optimization",
-   "section_title": "Energy and Chemical Optimization",
-   "best_block": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
-   "best_fraction": 0.308,
-   "first_words": "- Shims for Interplant Pumping Energy Efficiency Odor Control and Odor Emissions",
-   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶20"
+   "ref": "verbatim/mmsd-om-2028/pages/p0041.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 45,
    "para": 21,
    "status": "uncovered",
-   "covered_fraction": 0.0,
+   "covered_fraction": 0.038,
    "words": 30,
    "kind": "prose",
    "section_id": "mmsd-om-2028:21.energy-and-chemical-optimization",
    "section_title": "Energy and Chemical Optimization",
-   "best_block": null,
-   "best_fraction": 0.0,
+   "best_block": "wiki/technical-approach/mmsd-exhibit-future-collaboration-intelligent-om-and-ot-security-table.md",
+   "best_fraction": 0.038,
    "first_words": "- Belter Press Investment at South Value-Added $21- 53M AquaDNA Smart Technology",
-   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶21"
+   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶21",
+   "writer_reason": null
   },
   {
    "page": 45,
    "para": 26,
    "status": "partial",
-   "covered_fraction": 0.296,
+   "covered_fraction": 0.276,
    "words": 31,
    "kind": "prose",
    "section_id": "mmsd-om-2028:21.energy-and-chemical-optimization",
    "section_title": "Energy and Chemical Optimization",
    "best_block": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
-   "best_fraction": 0.259,
+   "best_fraction": 0.241,
    "first_words": "- OT Asset Management Software Addition of Lube Rings for TWAS Pumping",
-   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶26"
+   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶26",
+   "writer_reason": null
   },
   {
    "page": 45,
@@ -301,7 +306,8 @@
    "best_block": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
    "best_fraction": 0.033,
    "first_words": "- OT Asset Backup & Version Control 9.5 Additional FTEs Beyond Site",
-   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶27"
+   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶27",
+   "writer_reason": null
   },
   {
    "page": 45,
@@ -315,21 +321,23 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "- OMFS Managed Process Control Milwaukee-based Rapid Assessment Anaerobic Digestion / Microbial",
-   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶28"
+   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶28",
+   "writer_reason": null
   },
   {
    "page": 45,
    "para": 29,
    "status": "partial",
-   "covered_fraction": 0.37,
+   "covered_fraction": 0.345,
    "words": 33,
    "kind": "prose",
    "section_id": "mmsd-om-2028:21.energy-and-chemical-optimization",
    "section_title": "Energy and Chemical Optimization",
    "best_block": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
-   "best_fraction": 0.37,
+   "best_fraction": 0.345,
    "first_words": "- Onsite Asset Tag Fabrication MMSD Knowledgeable Strategy Pilot Facility (JIWRF) Staff",
-   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶29"
+   "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶29",
+   "writer_reason": null
   },
   {
    "page": 47,
@@ -343,21 +351,23 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
-   "ref": "verbatim/mmsd-om-2028/pages/p0047.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0047.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 47,
    "para": 8,
    "status": "uncovered",
-   "covered_fraction": 0.021,
+   "covered_fraction": 0.025,
    "words": 605,
    "kind": "table",
    "section_id": "mmsd-om-2028:22",
    "section_title": "IV.A. Approach to Management, Operations, PM, and CM",
    "best_block": "wiki/technical-approach/mmsd-facility-health-check-exhibit.md",
-   "best_fraction": 0.021,
+   "best_fraction": 0.025,
    "first_words": "|CON|VEYANCE & WATER RECOVERY FACI|LITIES||JIWRF & SSWRF||SYST|EM-WIDE| |---|---|---|---|---|---|---|---| |SCADA/OT & Cybersecurity|Odor Management|Emergency",
-   "ref": "verbatim/mmsd-om-2028/pages/p0047.md#¶8"
+   "ref": "verbatim/mmsd-om-2028/pages/p0047.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 48,
@@ -371,7 +381,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0048.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0048.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 48,
@@ -385,7 +396,8 @@
    "best_block": "wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md",
    "best_fraction": 0.041,
    "first_words": "|FIVE INTERCONNECTED PEXHIBIT IV-5.FIVE INTERCON|ILLARS THAT DEFINE HOWNECTED TENETS THAT DEF|WE DELIVER",
-   "ref": "verbatim/mmsd-om-2028/pages/p0048.md#¶14"
+   "ref": "verbatim/mmsd-om-2028/pages/p0048.md#¶14",
+   "writer_reason": null
   },
   {
    "page": 50,
@@ -399,7 +411,8 @@
    "best_block": "wiki/technical-approach/mmsd-pgm-seven-step-initiation-table.md",
    "best_fraction": 0.003,
    "first_words": "|EXHI|BIT IV-8.STEPS TO|SET UP PgM FRAM|EWORK FOR SUCCE|EstablishSS|||| |---|---|---|---|---|---|---|---| |GOAL|Mobilize ProgramManagementTeam|LeadershipAlignment|Developmentof HolisticStrategies|Governancefor",
-   "ref": "verbatim/mmsd-om-2028/pages/p0050.md#¶3"
+   "ref": "verbatim/mmsd-om-2028/pages/p0050.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 51,
@@ -413,21 +426,23 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
-   "ref": "verbatim/mmsd-om-2028/pages/p0051.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0051.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 51,
    "para": 8,
    "status": "partial",
-   "covered_fraction": 0.357,
+   "covered_fraction": 0.358,
    "words": 431,
    "kind": "table",
    "section_id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
    "section_title": "1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
    "best_block": "wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
-   "best_fraction": 0.349,
+   "best_fraction": 0.35,
    "first_words": "||Meetings & Discussions|Open exchange of information to ensure transparency and collaboration|| |---|---|---|---|",
-   "ref": "verbatim/mmsd-om-2028/pages/p0051.md#¶8"
+   "ref": "verbatim/mmsd-om-2028/pages/p0051.md#¶8",
+   "writer_reason": null
   },
   {
    "page": 52,
@@ -441,7 +456,8 @@
    "best_block": "wiki/technical-approach/mmsd-operations-approach-and-operational-priorities.md",
    "best_fraction": 0.284,
    "first_words": "SECTION 2.1 SECTION 2.2 SECTION 2.3 SECTION 2.4 SECTION 2.5 SECTION 2.6",
-   "ref": "verbatim/mmsd-om-2028/pages/p0052.md#¶14"
+   "ref": "verbatim/mmsd-om-2028/pages/p0052.md#¶14",
+   "writer_reason": null
   },
   {
    "page": 57,
@@ -455,7 +471,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.",
-   "ref": "verbatim/mmsd-om-2028/pages/p0057.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0057.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 62,
@@ -469,7 +486,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0062.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0062.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 69,
@@ -483,7 +501,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0069.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0069.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 71,
@@ -497,7 +516,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.",
-   "ref": "verbatim/mmsd-om-2028/pages/p0071.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0071.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 78,
@@ -511,7 +531,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.",
-   "ref": "verbatim/mmsd-om-2028/pages/p0078.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0078.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 80,
@@ -525,7 +546,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0080.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0080.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 81,
@@ -539,7 +561,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
-   "ref": "verbatim/mmsd-om-2028/pages/p0081.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0081.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 82,
@@ -553,7 +576,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "- � Planning � Project Management � Optimization � Technology Selection �",
-   "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶15"
+   "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶15",
+   "writer_reason": null
   },
   {
    "page": 82,
@@ -567,7 +591,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "- � Expediting/Logistics � Mechanical Piping & � Technical Services � Inventory",
-   "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶19"
+   "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶19",
+   "writer_reason": null
   },
   {
    "page": 84,
@@ -581,7 +606,8 @@
    "best_block": "wiki/technical-approach/mmsd-integrated-performance-monitoring-framework.md",
    "best_fraction": 0.282,
    "first_words": "Monitoring, Jacobs will deliver a comprehensive, data-driven tracking and framework for monitoring,",
-   "ref": "verbatim/mmsd-om-2028/pages/p0084.md#¶5"
+   "ref": "verbatim/mmsd-om-2028/pages/p0084.md#¶5",
+   "writer_reason": null
   },
   {
    "page": 85,
@@ -595,7 +621,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0085.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0085.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 89,
@@ -609,7 +636,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0089.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0089.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 91,
@@ -623,7 +651,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 91,
@@ -637,7 +666,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "- Defines what the organization � Identifies and prioritizes intends to achieve",
-   "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶14"
+   "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶14",
+   "writer_reason": null
   },
   {
    "page": 91,
@@ -651,7 +681,8 @@
    "best_block": "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
    "best_fraction": 0.087,
    "first_words": "� Provides approach to � Outlines long term plan for managing the",
-   "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶18"
+   "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶18",
+   "writer_reason": null
   },
   {
    "page": 93,
@@ -665,7 +696,8 @@
    "best_block": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
    "best_fraction": 0.13,
    "first_words": "The AMS will provide the framework for maintenance delivery and drive standards",
-   "ref": "verbatim/mmsd-om-2028/pages/p0093.md#¶21"
+   "ref": "verbatim/mmsd-om-2028/pages/p0093.md#¶21",
+   "writer_reason": null
   },
   {
    "page": 94,
@@ -679,7 +711,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0094.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0094.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 100,
@@ -693,7 +726,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0100.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0100.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 100,
@@ -707,7 +741,8 @@
    "best_block": "wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md",
    "best_fraction": 0.24,
    "first_words": "- � Identifies candidate assets for further net present Tri gg er",
-   "ref": "verbatim/mmsd-om-2028/pages/p0100.md#¶22"
+   "ref": "verbatim/mmsd-om-2028/pages/p0100.md#¶22",
+   "writer_reason": null
   },
   {
    "page": 102,
@@ -721,7 +756,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0102.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0102.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 105,
@@ -735,7 +771,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0105.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0105.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 107,
@@ -749,21 +786,23 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0107.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0107.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 118,
    "para": 13,
    "status": "uncovered",
-   "covered_fraction": 0.182,
+   "covered_fraction": 0.18,
    "words": 150,
    "kind": "table",
    "section_id": "mmsd-om-2028:29.7-2-resource-recovery-and-biosolids-optimization",
    "section_title": "7.2. Resource Recovery and Biosolids Optimization",
    "best_block": "wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md",
-   "best_fraction": 0.182,
+   "best_fraction": 0.18,
    "first_words": "|Energy Efficiencyand Optimization|Decarbonization and CleanEnergy Transition|Resource Recovery andCircular Economy|Resilience andClimate Adaptation|Funding and",
-   "ref": "verbatim/mmsd-om-2028/pages/p0118.md#¶13"
+   "ref": "verbatim/mmsd-om-2028/pages/p0118.md#¶13",
+   "writer_reason": null
   },
   {
    "page": 119,
@@ -777,7 +816,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
-   "ref": "verbatim/mmsd-om-2028/pages/p0119.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0119.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 123,
@@ -791,21 +831,23 @@
    "best_block": "wiki/management-staffing/mmsd-transition-organization-team-roster.md",
    "best_fraction": 0.4,
    "first_words": "Project Manager Kevin Dahl, PE, CRL Transition Team Manager Transition Deputy Manager",
-   "ref": "verbatim/mmsd-om-2028/pages/p0123.md#¶10"
+   "ref": "verbatim/mmsd-om-2028/pages/p0123.md#¶10",
+   "writer_reason": null
   },
   {
    "page": 126,
    "para": 3,
    "status": "partial",
-   "covered_fraction": 0.406,
+   "covered_fraction": 0.404,
    "words": 526,
    "kind": "table",
    "section_id": "mmsd-om-2028:30.1-10-schedule-for-smooth-transition-of-operations-and-relate",
    "section_title": "1.10. Schedule for Smooth Transition of Operations and Related Systems",
    "best_block": "wiki/management-staffing/mmsd-high-level-transition-schedule-table.md",
-   "best_fraction": 0.405,
+   "best_fraction": 0.403,
    "first_words": "|EXHIBIT IV-58.HIGH-LEVEL TRANSITION SCHEDULEIV.APPROACH|Task Lead|Start Date|CompletionDate|A.Approach to Management,Operations, PM, and CMB.Pre-term ActivitiesD.Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0126.md#¶3"
+   "ref": "verbatim/mmsd-om-2028/pages/p0126.md#¶3",
+   "writer_reason": null
   },
   {
    "page": 127,
@@ -819,7 +861,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0127.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0127.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 128,
@@ -833,7 +876,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "B. Pre-term Activities Pre-term Activities C. Computerized Maintenance Computerized Maintenance D. Potential",
-   "ref": "verbatim/mmsd-om-2028/pages/p0128.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0128.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 129,
@@ -847,7 +891,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "A. Approach to Management, Operations, PM, and CM B. Pre-term Activities C.",
-   "ref": "verbatim/mmsd-om-2028/pages/p0129.md#¶2"
+   "ref": "verbatim/mmsd-om-2028/pages/p0129.md#¶2",
+   "writer_reason": null
   },
   {
    "page": 130,
@@ -861,7 +906,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "Resumes for Eric Habermayer and John Loucks-Powell are provided in Section II",
-   "ref": "verbatim/mmsd-om-2028/pages/p0130.md#¶4"
+   "ref": "verbatim/mmsd-om-2028/pages/p0130.md#¶4",
+   "writer_reason": null
   },
   {
    "page": 136,
@@ -875,7 +921,8 @@
    "best_block": null,
    "best_fraction": 0.0,
    "first_words": "- � SCADA routing, systems, pump stations, NEXGEN integration, and conveyance assets.",
-   "ref": "verbatim/mmsd-om-2028/pages/p0136.md#¶16"
+   "ref": "verbatim/mmsd-om-2028/pages/p0136.md#¶16",
+   "writer_reason": null
   },
   {
    "page": 140,
@@ -889,7 +936,8 @@
    "best_block": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
    "best_fraction": 0.241,
    "first_words": "A. Community-Focused Leadership Team to Drive Positive Long-Term Outcomes B. Strategies for",
-   "ref": "verbatim/mmsd-om-2028/pages/p0140.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0140.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 141,
@@ -903,7 +951,8 @@
    "best_block": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
    "best_fraction": 0.045,
    "first_words": "A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for",
-   "ref": "verbatim/mmsd-om-2028/pages/p0141.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0141.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 141,
@@ -917,7 +966,8 @@
    "best_block": "wiki/win-themes/mmsd-regional-partnership-strategy-workforce-economic-growth.md",
    "best_fraction": 0.417,
    "first_words": "- Leverage union relationships to backfill critical positions and � Scale-up MMSD’s",
-   "ref": "verbatim/mmsd-om-2028/pages/p0141.md#¶52"
+   "ref": "verbatim/mmsd-om-2028/pages/p0141.md#¶52",
+   "writer_reason": null
   },
   {
    "page": 141,
@@ -931,7 +981,8 @@
    "best_block": "wiki/win-themes/mmsd-regional-partnership-strategy-workforce-economic-growth.md",
    "best_fraction": 0.241,
    "first_words": "- � Develop apprenticeship program tied to MMSD needs. scheduling, safety, and",
-   "ref": "verbatim/mmsd-om-2028/pages/p0141.md#¶53"
+   "ref": "verbatim/mmsd-om-2028/pages/p0141.md#¶53",
+   "writer_reason": null
   },
   {
    "page": 142,
@@ -945,21 +996,23 @@
    "best_block": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
    "best_fraction": 0.045,
    "first_words": "A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for",
-   "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 142,
    "para": 47,
    "status": "uncovered",
-   "covered_fraction": 0.138,
+   "covered_fraction": 0.136,
    "words": 58,
    "kind": "prose",
    "section_id": "mmsd-om-2028:35.support-business-case-development-p142-31",
    "section_title": "Support Business Case Development",
    "best_block": "wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md",
-   "best_fraction": 0.138,
+   "best_fraction": 0.136,
    "first_words": "GHG Emissions/ESG: Advanced Water Treatment/Water Establishing Industry-Wide Guidance Reuse: for Water Utility",
-   "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶47"
+   "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶47",
+   "writer_reason": null
   },
   {
    "page": 142,
@@ -973,7 +1026,8 @@
    "best_block": "wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md",
    "best_fraction": 0.017,
    "first_words": "Wastewater Treatment: Residuals Processing and Development of Innovative Predictive Resources Recovery: Control",
-   "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶48"
+   "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶48",
+   "writer_reason": null
   },
   {
    "page": 143,
@@ -987,7 +1041,8 @@
    "best_block": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
    "best_fraction": 0.045,
    "first_words": "A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for",
-   "ref": "verbatim/mmsd-om-2028/pages/p0143.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0143.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 144,
@@ -1001,7 +1056,8 @@
    "best_block": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
    "best_fraction": 0.045,
    "first_words": "A. Community-Focused Leadership Team to Community-Focused Leadership Team to B. Strategies for",
-   "ref": "verbatim/mmsd-om-2028/pages/p0144.md#¶1"
+   "ref": "verbatim/mmsd-om-2028/pages/p0144.md#¶1",
+   "writer_reason": null
   },
   {
    "page": 145,
@@ -1015,7 +1071,8 @@
    "best_block": "wiki/qualifications/mmsd-exceptions-and-proposed-contract-alternatives-table.md",
    "best_fraction": 0.448,
    "first_words": "|Topic, Impacted Sections|Proposed Alternative Approach|Benefit to MMSD|Annual PriceReduction| |---|---|---|---| |Exceptions with cost",
-   "ref": "verbatim/mmsd-om-2028/pages/p0145.md#¶5"
+   "ref": "verbatim/mmsd-om-2028/pages/p0145.md#¶5",
+   "writer_reason": null
   }
  ]
 }

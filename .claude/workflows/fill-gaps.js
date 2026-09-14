@@ -56,7 +56,7 @@ Rules:
 8. You may skip a listed paragraph ONLY with a reason: exhibit-internal (figure labels / chart text), form-boilerplate, commercial (fee or rate content), duplicate-of:<existing block path> (its prose is already in that block), continuation-of:<path> (it belongs to that block's passage and adding it would split one thought — do not edit that block; just report). Every listed paragraph must be either in a new block or in skipped.
 9. Do not read any other proposal's pages. Do not edit files outside wiki\\${r.category}\\ and work\\fragments\\.
 ${EXTRA}
-Return: range, files_created, skipped (page, para, reason), the two fragment paths, notes.`
+Return: range, files_created (the NEW BLOCK paths only — never the fragment files, which go in facts_fragment / quotes_fragment), skipped (page, para, reason), the two fragment paths, notes.`
 
 const judgePrompt = (r, files) => `You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.
 Blocks: ${files.join(' ; ')}

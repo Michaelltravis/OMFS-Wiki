@@ -17097,8 +17097,7 @@
       "PP-0152",
       "PP-0528",
       "PP-2834",
-      "PP-2835",
-      "PP-1697"
+      "PP-2835"
     ],
     "testimonial-ids": [
       "TM-0002",
@@ -17597,6 +17596,61 @@
     "quality": "A comprehensive, evaluator-friendly checklist of ~30 named O&M plan/program documents that make an abstract \"we have a plan\" claim concrete and auditable; paired with named leadership accountable for developing and refining the plans.",
     "reuse-notes": "The 30-plan roster is broadly reusable for any water/wastewater O&M pursuit; confirm it against the target RFP's specifically required plan types (add/remove as needed) and update the named leadership team to the actual proposed staff for the new pursuit.",
     "path": "wiki/technical-approach/swip-comprehensive-om-plan-list.md"
+  },
+  {
+    "title": "Risk Management \u2014 Condition Assessments, Risk Scoring, and Risk Profiles That Drive Capital Investment",
+    "category": "technical-approach",
+    "block-type": "prose",
+    "tags": [
+      "asset-management",
+      "capital-planning",
+      "reliability-engineering"
+    ],
+    "source": "santamonica-swip-om-2025",
+    "source-section": "ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM",
+    "source-pages": [
+      59
+    ],
+    "verbatim-ref": [
+      "verbatim/santamonica-swip-om-2025/pages/p0059.md#\u00b63"
+    ],
+    "pursuit-type": [
+      "reuse-dpr",
+      "water-treatment",
+      "stormwater",
+      "multi-facility",
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "Advanced water treatment facility (potable reuse) + water recycling facility + stormwater diversion structures + groundwater injection wells + coastal pump station",
+    "geography": "Southern California / CA / SWRCB-DDW",
+    "rfp-section-type": [
+      "tech-approach"
+    ],
+    "win-theme-map": [
+      "asset-management",
+      "partner-transparency",
+      "innovation-value-add"
+    ],
+    "proof-point-ids": [
+      "PP-3074",
+      "PP-3075"
+    ],
+    "testimonial-ids": [],
+    "story-ids": [],
+    "status": "preferred",
+    "house-favorite": false,
+    "sanitized": true,
+    "sanitization-loss": "none",
+    "extracted": "2026-09-14",
+    "last-verified": "2026-09-14",
+    "section-id": "santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-program",
+    "section-order": 2,
+    "context": "Southern California sustainable water infrastructure O&M, 2025; SWRCB-DDW",
+    "quality": "Element 7 (Risk Management) of the 10-Box asset management model, carrying the firm-scale condition-assessment proof point \u2014 1 million water and wastewater plant assets assessed \u2014 alongside the risk-scoring-to-capital-investment logic evaluators look for.",
+    "reuse-notes": "The condition-assessment volume (1 million plant assets) is a firm-wide proof point and travels to any pursuit; confirm the as-of date before external use. The risk-scoring methodology and risk-profile language are facility-agnostic; name the client's actual criticality/risk scoring framework and capital planning cycle, and confirm the condition-assessment video and QR code are still live before including the callout.",
+    "path": "wiki/technical-approach/swip-condition-assessment-risk-scoring.md"
   },
   {
     "title": "Customized Web-Based KPI Reporting Dashboard (Digital Reporting Platform)",
@@ -18568,7 +18622,7 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-program",
-    "section-order": 2,
+    "section-order": 3,
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "A compact, concrete five-technology predictive-maintenance toolkit in which each technology carries the specific failure mode it catches \u2014 the kind of specificity that separates a real PdM program from a claim of one, and a direct answer to \"how will you move us off reactive maintenance.\"",
     "reuse-notes": "SYNTHESIS, NOT SOURCE PROSE: this body restructures the source rather than reproducing its sentences (measured verbatim overlap ~1%). Read the passage at the cited verbatim-ref before reusing, and prefer the source wording. Entirely facility-agnostic and reusable verbatim in any O&M pursuit that asks about predictive or reliability-centered maintenance. Add or drop technologies to match what the pursuit team will actually field on site (e.g., motor current signature analysis, partial discharge testing) and confirm which are delivered in-house versus by regional specialists.",
@@ -26683,6 +26737,67 @@
     "quality": "A four-point staffing value proposition (certified onsite team, dedicated regional add-on hires, 100+-person SME bench, innovation culture) with a quantified bench size and a named nearby backup facility \u2014 strong, concrete staffing differentiation that goes explicitly beyond RFP minimums.",
     "reuse-notes": "The certifications (AWTO, AWT3\u2122/AWT5\u2122, California WW Grade V), technologies named (MBR, RO, UV-AOP), and the 100+ SME bench figure must be matched to the pursuit's actual facility type, state certification scheme, and current bench size. Named individuals are kept per wiki policy.",
     "path": "wiki/management-staffing/swip-staffing-plan-philosophy-and-regional-bench.md"
+  },
+  {
+    "title": "Typical Jacobs O&M Training Topics by Staff Category",
+    "category": "management-staffing",
+    "block-type": "table",
+    "tags": [
+      "training-certification",
+      "safety-program",
+      "workforce-development",
+      "maintenance-program",
+      "process-control",
+      "predictive-maintenance",
+      "staffing-plan",
+      "table-layout",
+      "transition-plan"
+    ],
+    "source": "santamonica-swip-om-2025",
+    "source-section": "EMPLOYEE TRAINING",
+    "source-pages": [
+      41
+    ],
+    "verbatim-ref": [
+      "verbatim/santamonica-swip-om-2025/pages/p0041.md#\u00b66"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "water-treatment",
+      "reuse-dpr",
+      "membrane-treatment",
+      "multi-facility"
+    ],
+    "client-type": "municipal",
+    "client-size": "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff water recycling facility + lift stations + stormwater diversion/storage; coastal municipal potable-reuse program",
+    "geography": "Southern California / CA / SWRCB-DDW",
+    "rfp-section-type": [
+      "transition"
+    ],
+    "win-theme-map": [
+      "workforce-development",
+      "safety-culture",
+      "transition-continuity",
+      "compliance-leadership"
+    ],
+    "proof-point-ids": [
+      "PP-3072",
+      "PP-3073"
+    ],
+    "testimonial-ids": [],
+    "story-ids": [],
+    "status": "preferred",
+    "house-favorite": false,
+    "sanitized": true,
+    "sanitization-loss": "none",
+    "extracted": "2026-09-14",
+    "last-verified": "2026-09-14",
+    "section-id": "santamonica-swip-om-2025:08.structured-training-programs-and-compliance-alignment",
+    "section-order": 1,
+    "context": "Southern California sustainable water infrastructure O&M, 2025; SWRCB-DDW. Advanced water treatment and recycled-water facility O&M with lift stations and stormwater assets, bid against an incumbent operator.",
+    "quality": "A complete, paste-ready training curriculum matrix broken out by staff category (operations, maintenance, all staff, selected staff, and the corporate university), naming specific courses rather than describing a training philosophy. Answers \"what will you actually train our staff on\" in one exhibit and pairs directly with the narrative training-program block.",
+    "reuse-notes": "Rows are generic Jacobs O&M curriculum and reuse as-is. Tailor the site-specific rows (plant-specific process control testing, solids handling, site-specific odor control, NPDES permit training) to the target facility's processes and permit type - swap NPDES for the WDR, Title 22, or drinking-water permit that governs the pursuit. Confirm the Jacobs University course count and the current list of leadership offerings before restating them, and confirm which safety courses are currently mandatory. Exhibit number (2-13) must be renumbered to the new proposal's sequence.",
+    "path": "wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md"
   },
   {
     "title": "Training and Certification Program for O&M Personnel (AWTO-Focused, Incentive-Driven)",
@@ -42264,11 +42379,7 @@
       "PP-1465",
       "PP-1466",
       "PP-1467",
-      "PP-1468",
-      "PP-1445",
-      "PP-1446",
-      "PP-1447",
-      "PP-1448"
+      "PP-1468"
     ],
     "testimonial-ids": [],
     "story-ids": [],
