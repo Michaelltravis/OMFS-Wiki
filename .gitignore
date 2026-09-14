@@ -1,3 +1,5 @@
 # Source and rendered PDFs remain local and are not published to GitHub.
 *.pdf
+# Generated section pulls (python work/assemble_section.py) — regenerate, don't commit.
+work/pulls/
 
