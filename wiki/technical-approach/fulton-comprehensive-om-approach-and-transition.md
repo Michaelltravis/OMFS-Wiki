@@ -25,7 +25,7 @@ last-verified: 2026-09-07
 section-id: fulton-county-2025:05
 section-order: 1
 section-path: Section 2 | Operations & Maintenance Plan › 2.1 | JC Solutions' Comprehensive Approach to Operations & Maintenance
-doc-order: 8
+doc-order: 9
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM joint venture; multi-facility MBR operations under GA EPD oversight."
 quality: "Near-verbatim opening and component language that pairs a JV operating posture with a concise, full-spectrum O&M framework."
 reuse-notes: "Tailor the client descriptor, facility configuration, transition duration, and offered tools. Retain the JC Solutions/Jacobs/CERM attribution where the joint-venture delivery model is proposed."

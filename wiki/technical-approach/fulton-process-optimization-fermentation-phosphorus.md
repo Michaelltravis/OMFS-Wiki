@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.process-optimization
-section-order: 10
+section-order: 12
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Process Optimization
-doc-order: 47
+doc-order: 55
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim process-optimization narrative connecting EBPR, simulation, full-scale testing, and chemical reduction.
 reuse-notes: Confirm all plant-specific operating conditions and chemical commitments. The source-stated $150,000 value-add investment requires external verification before reuse.

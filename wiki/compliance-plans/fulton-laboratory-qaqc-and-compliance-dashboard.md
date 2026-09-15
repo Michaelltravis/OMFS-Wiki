@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.training
-section-order: 20
+section-order: 26
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Training
-doc-order: 57
+doc-order: 69
 context: County wastewater O&M pursuit supported by JC Solutions, a Jacobs/CERM joint venture.
 quality: Near-verbatim lab data-integrity and dashboard language paired with secure, view-only access controls.
 reuse-notes: Verify the QA/QC manual, QC-Stats, dashboard functions, security controls, and client-facing data roles before reuse. Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV.

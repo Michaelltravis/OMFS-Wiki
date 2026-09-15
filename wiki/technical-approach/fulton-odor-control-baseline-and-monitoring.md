@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.odor-and-noise-mitigation
-section-order: 28
+section-order: 34
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ODOR AND NOISE MITIGATION
-doc-order: 65
+doc-order: 77
 context: JC Solutions (a Jacobs/CERM JV) odor-control monitoring approach for a Southeast county multi-facility wastewater system.
 quality: Near-verbatim baseline assessment and patrol-based monitoring protocol.
 reuse-notes: Confirm the receiving community, existing odor-control assets, patrol locations, high-odor season, permit obligations, and log requirements before reuse.

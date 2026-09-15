@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.recruiting-retention-and-succession-planning
-section-order: 8
+section-order: 9
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › TRAINING PLAN › Recruiting, Retention, and Succession Planning
-doc-order: 45
+doc-order: 52
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim recruiting and succession structure combining internal mobility, targeted external recruitment, retention, and an education-partnership recognition."
 reuse-notes: "Confirm current recruiting results, veteran-hiring programs, relocation assistance, and the named award before reuse."

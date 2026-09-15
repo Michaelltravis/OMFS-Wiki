@@ -25,7 +25,7 @@ last-verified: 2026-09-07
 section-id: fulton-county-2025:16.reference-project-1-traverse-city-regional-wwtp-city-of-trav
 section-order: 3
 section-path: 'Section 5 | Environmental Compliance Record › ENVIRONMENTAL COMPLIANCE RECORD › Reference Project #1: Traverse City Regional WWTP, City of Traverse, Michigan'
-doc-order: 127
+doc-order: 160
 context: "Southeast county multi-facility wastewater O&M pursuit, bid by JC Solutions, a Jacobs/CERM JV; disclosed reference-project compliance record."
 quality: "Near-verbatim disclosure preserves dated exceptions and stated root causes alongside the source’s zero-result categories."
 reuse-notes: "Spokane County Utilities is an unrelated reference client and is retained as source proof. Use only as a labeled historical disclosure after confirming reference authorization; retain both the exceptions and the zero-result categories rather than selectively claiming a clean record."

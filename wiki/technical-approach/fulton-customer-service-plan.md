@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.customer-service-plan
-section-order: 42
+section-order: 52
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › CUSTOMER SERVICE PLAN
-doc-order: 79
+doc-order: 95
 context: "JC Solutions (a Jacobs/CERM JV) customer-service approach for a Southeast county multi-facility wastewater system."
 quality: "Near-verbatim customer-service plan with accountable response, public access, and reporting commitments."
 reuse-notes: "Tailor contract citations, named transition roles, response standards, contact channels, and report timing. Retain JC Solutions as the Jacobs/CERM JV; attribute national practices to Jacobs."

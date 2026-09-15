@@ -25,7 +25,7 @@ last-verified: 2026-09-07
 section-id: fulton-county-2025:15.jacobs-experience-operating-us-treatment-facilities
 section-order: 1
 section-path: Section 4 | Relevant Project Experience › JACOBS’ EXPERIENCE OPERATING US TREATMENT FACILITIES
-doc-order: 113
+doc-order: 145
 context: National treatment-facility and collection-system O&M portfolio presented in a Southeast county wastewater O&M pursuit.
 quality: Concise, source-verbatim portfolio statement connecting national O&M scale, service breadth, renewal rate, and environmental compliance to a treatment-facility pursuit.
 reuse-notes: "VERBATIM past-performance content. Retain the stated revenue, operating-history, contract-renewal, and compliance figures exactly as sourced; confirm current corporate metrics before external reuse."

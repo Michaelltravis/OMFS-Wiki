@@ -1,0 +1,236 @@
+{
+ "summary": "run wf_c9884085-d94 (interrupted by rate limit)",
+ "result": {
+  "slug": "fulton-county-2025",
+  "ranges": [
+   {
+    "range": "fulton-county-2025 \u00b7 SLUDGE/BIOSOLIDS MANAGEMENT \u00b7 p0077 \u00b616",
+    "created": 0,
+    "skipped": 1,
+    "skipped_reasons": [
+     {
+      "page": 77,
+      "para": 16,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 / LITTLE RIVER PLANT / p0020 \u00b64",
+    "created": 0,
+    "skipped": 1,
+    "skipped_reasons": [
+     {
+      "page": 20,
+      "para": 4,
+      "reason": "continuation-of:wiki/technical-approach/fulton-current-future-challenges-and-commissioning.md"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 pages 102-104, section \"COMMUNICATIONS AND REPORTING + ANNUAL INNOVATION WORKSHOP\" (section-id fulton-county-2025:12.communications-and-reporting)",
+    "created": 0,
+    "skipped": 6,
+    "skipped_reasons": [
+     {
+      "page": 102,
+      "para": 5,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
+     },
+     {
+      "page": 103,
+      "para": 8,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
+     },
+     {
+      "page": 103,
+      "para": 10,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
+     },
+     {
+      "page": 104,
+      "para": 2,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
+     },
+     {
+      "page": 104,
+      "para": 3,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
+     },
+     {
+      "page": 104,
+      "para": 5,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 \u00b7 \"Leadership from JC Solutions Staff\" \u00b7 p0118 \u00b67",
+    "created": 1,
+    "skipped": 0,
+    "skipped_reasons": []
+   },
+   {
+    "range": "fulton-county-2025 / \"Tapping the Value of Existing Staff\" / pages 116-116",
+    "created": 1,
+    "skipped": 0,
+    "skipped_reasons": []
+   },
+   {
+    "range": "fulton-county-2025 \u00b7 section \"1. Meaningful partnership built on transparency, accountability, and investment in community\" \u00b7 pages 21-22 (listed paragraphs p0021 \u00b610, p0022 \u00b612)",
+    "created": 1,
+    "skipped": 1,
+    "skipped_reasons": [
+     {
+      "page": 22,
+      "para": 12,
+      "reason": "continuation-of:wiki/technical-approach/fulton-compliance-workforce-reachback.md"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+    "created": 0,
+    "skipped": 13,
+    "skipped_reasons": [
+     {
+      "page": 105,
+      "para": 2,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md"
+     },
+     {
+      "page": 106,
+      "para": 1,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md"
+     },
+     {
+      "page": 106,
+      "para": 10,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md"
+     },
+     {
+      "page": 106,
+      "para": 25,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 107,
+      "para": 7,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 107,
+      "para": 8,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 107,
+      "para": 9,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 107,
+      "para": 10,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 107,
+      "para": 15,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 107,
+      "para": 17,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 107,
+      "para": 19,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 107,
+      "para": 21,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
+     },
+     {
+      "page": 108,
+      "para": 12,
+      "reason": "duplicate-of:wiki/technical-approach/fulton-community-relations-plan-and-stakeholder-directory.md"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 \u00b7 STAFFING PLAN (section-id fulton-county-2025:12.staffing-plan) \u00b7 p. 47, \u00b65\u2013\u00b67",
+    "created": 1,
+    "skipped": 0,
+    "skipped_reasons": []
+   },
+   {
+    "range": "fulton-county-2025 \u00b7 Section 3 | Project Team Qualifications, Qualifications of Key Personnel (section-id fulton-county-2025:14), p. 127",
+    "created": 0,
+    "skipped": 1,
+    "skipped_reasons": [
+     {
+      "page": 127,
+      "para": 5,
+      "reason": "continuation-of:wiki/management-staffing/fulton-team-organization-and-key-personnel.md"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 p0032 \u00b62, \u00b64 (section \"DISCOUNTED RATE FOR ENGINEERING SERVICES PROVIDED UNDER THE NORTH FULTON O&M CONTRACT\")",
+    "created": 1,
+    "skipped": 1,
+    "skipped_reasons": [
+     {
+      "page": 32,
+      "para": 4,
+      "reason": "commercial"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 / ENERGY MANAGEMENT STRATEGY / pages 34-36",
+    "created": 1,
+    "skipped": 1,
+    "skipped_reasons": [
+     {
+      "page": 34,
+      "para": 26,
+      "reason": "duplicate-of:wiki/win-themes/fulton-maintenance-planner-scheduler-palantir.md"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 \u00b7 Section 1 | Executive Summary (section-id fulton-county-2025:03) \u00b7 pages 9-10",
+    "created": 1,
+    "skipped": 2,
+    "skipped_reasons": [
+     {
+      "page": 9,
+      "para": 6,
+      "reason": "exhibit-internal"
+     },
+     {
+      "page": 9,
+      "para": 10,
+      "reason": "form-boilerplate"
+     }
+    ]
+   },
+   {
+    "range": "fulton-county-2025 \u00b7 \"ENVIRONMENTAL COMPLIANCE RECORD\" \u00b7 p. 181 \u00b611",
+    "created": 0,
+    "skipped": 1,
+    "skipped_reasons": [
+     {
+      "page": 181,
+      "para": 11,
+      "reason": "duplicate-of:wiki/compliance-plans/fulton-traverse-city-environmental-compliance-record.md"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -23,9 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:14.subcontractors
-section-order: 6
+section-order: 8
 section-path: Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors
-doc-order: 100
+doc-order: 132
 context: "Fulton County wastewater-facilities and pump-stations O&M pursuit, 2025."
 quality: "Verbatim proposed Little River Plant Manager resume with large-facility, multi-facility, CMMS, compliance-restoration, biosolids, and maintenance-management experience."
 reuse-notes: "Verbatim resume; names, clients, contacts, certifications, dates, numbers, and experience are retained. Confirm current availability, role, licenses, and reference contacts before external reuse."

@@ -10,10 +10,10 @@
  },
  "counts": {
   "substantive": 690,
-  "covered": 498,
-  "partial": 74,
-  "uncovered": 118,
-  "writer_skipped": 0,
+  "covered": 574,
+  "partial": 75,
+  "uncovered": 0,
+  "writer_skipped": 41,
   "skipped": {
    "heading": 429,
    "repeating": 41,
@@ -27,7 +27,7 @@
   {
    "page": 9,
    "para": 6,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 58,
    "kind": "prose",
@@ -37,12 +37,12 @@
    "best_fraction": 0.0,
    "first_words": "Asset Management Community Investment Unmatched Partnership Enhanced Maintenance Efficiency Resources Maximum Efficiency",
    "ref": "verbatim/fulton-county-2025/pages/p0009.md#¶6",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 9,
    "para": 10,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 48,
    "kind": "prose",
@@ -52,22 +52,7 @@
    "best_fraction": 0.0,
    "first_words": "Operations Management International, Inc. (OMI), a subsidiary of Jacobs Engineering Group Inc.",
    "ref": "verbatim/fulton-county-2025/pages/p0009.md#¶10",
-   "writer_reason": null
-  },
-  {
-   "page": 10,
-   "para": 12,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 66,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:03",
-   "section_title": "Section 1 | Executive Summary",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Exclusive Consulting Discount Adds Immediate Value. As part of our commitment to",
-   "ref": "verbatim/fulton-county-2025/pages/p0010.md#¶12",
-   "writer_reason": null
+   "writer_reason": "form-boilerplate"
   },
   {
    "page": 11,
@@ -147,7 +132,7 @@
   {
    "page": 20,
    "para": 4,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 39,
    "kind": "prose",
@@ -157,27 +142,12 @@
    "best_fraction": 0.0,
    "first_words": "Our understanding includes insights into critical challenges faced by the facilities, which",
    "ref": "verbatim/fulton-county-2025/pages/p0020.md#¶4",
-   "writer_reason": null
-  },
-  {
-   "page": 21,
-   "para": 10,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 64,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:09.1-meaningful-partnership-built-on-transparency-accountabilit",
-   "section_title": "1. Meaningful partnership built on transparency, accountability, and investment in community",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Providing high-quality, compliant O&M services is part of our company’s DNA—not a",
-   "ref": "verbatim/fulton-county-2025/pages/p0021.md#¶10",
-   "writer_reason": null
+   "writer_reason": "continuation-of:wiki/technical-approach/fulton-current-future-challenges-and-commissioning.md"
   },
   {
    "page": 22,
    "para": 12,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 26,
    "kind": "prose",
@@ -187,7 +157,7 @@
    "best_fraction": 0.0,
    "first_words": "- µAnnual Project Manager Summit to ensure cohesion with our outstanding company",
    "ref": "verbatim/fulton-county-2025/pages/p0022.md#¶12",
-   "writer_reason": null
+   "writer_reason": "continuation-of:wiki/technical-approach/fulton-compliance-workforce-reachback.md"
   },
   {
    "page": 26,
@@ -206,30 +176,15 @@
   },
   {
    "page": 27,
-   "para": 6,
-   "status": "partial",
-   "covered_fraction": 0.346,
-   "words": 79,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
-   "section_title": "VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
-   "best_block": "wiki/win-themes/fulton-value-added-innovation-program.md",
-   "best_fraction": 0.346,
-   "first_words": "The Value-added offering we highlight in Exhibit 2-4 are included in our",
-   "ref": "verbatim/fulton-county-2025/pages/p0027.md#¶6",
-   "writer_reason": null
-  },
-  {
-   "page": 27,
    "para": 9,
-   "status": "uncovered",
-   "covered_fraction": 0.148,
+   "status": "partial",
+   "covered_fraction": 0.258,
    "words": 153,
    "kind": "table",
    "section_id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
    "section_title": "VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
-   "best_block": "wiki/win-themes/fulton-value-added-innovation-program.md",
-   "best_fraction": 0.148,
+   "best_block": "wiki/win-themes/fulton-value-added-investments-exhibit-studies-support.md",
+   "best_fraction": 0.258,
    "first_words": "|VALUE-ADDED INNOVATION|||| |---|---|---|---| |VALUE OF INVESTMENTSINCORPORATED IN OURPROPOSAL OVER 5 YEARS|WHAT WE’LL",
    "ref": "verbatim/fulton-county-2025/pages/p0027.md#¶9",
    "writer_reason": null
@@ -237,14 +192,14 @@
   {
    "page": 28,
    "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.157,
+   "status": "partial",
+   "covered_fraction": 0.234,
    "words": 347,
    "kind": "table",
    "section_id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
    "section_title": "VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
-   "best_block": "wiki/win-themes/fulton-regional-training-maintenance-intelligence.md",
-   "best_fraction": 0.13,
+   "best_block": "wiki/win-themes/fulton-value-added-investments-exhibit-studies-support.md",
+   "best_fraction": 0.234,
    "first_words": "|VALUE OF INVESTMENTSINCORPORATED IN OURPROPOSAL OVER 5 YEARS|WHAT WE’LL DO FOR THE",
    "ref": "verbatim/fulton-county-2025/pages/p0028.md#¶2",
    "writer_reason": null
@@ -252,14 +207,14 @@
   {
    "page": 29,
    "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.139,
+   "status": "partial",
+   "covered_fraction": 0.231,
    "words": 325,
    "kind": "table",
    "section_id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
    "section_title": "VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
-   "best_block": "wiki/win-themes/fulton-process-security-asset-management-benefits.md",
-   "best_fraction": 0.139,
+   "best_block": "wiki/win-themes/fulton-value-added-investments-exhibit-optimization-digital.md",
+   "best_fraction": 0.231,
    "first_words": "|VALUE-ADDED INNOVATIONVALUE OF INVESTMENTSINCORPORATED IN OURPROPOSAL OVER 5 YEARS|WHAT WE’LL DO FOR",
    "ref": "verbatim/fulton-county-2025/pages/p0029.md#¶2",
    "writer_reason": null
@@ -267,31 +222,16 @@
   {
    "page": 30,
    "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.164,
+   "status": "partial",
+   "covered_fraction": 0.229,
    "words": 311,
    "kind": "table",
    "section_id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
    "section_title": "VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
-   "best_block": "wiki/win-themes/fulton-workforce-digital-twin-collections-benefits.md",
-   "best_fraction": 0.159,
+   "best_block": "wiki/win-themes/fulton-value-added-investments-exhibit-optimization-digital.md",
+   "best_fraction": 0.229,
    "first_words": "|VALUE-ADDED INNOVATIONVALUE OF INVESTMENTSINCORPORATED IN OURPROPOSAL OVER 5 YEARS|WHAT WE’LL DO FOR",
    "ref": "verbatim/fulton-county-2025/pages/p0030.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 30,
-   "para": 4,
-   "status": "partial",
-   "covered_fraction": 0.257,
-   "words": 39,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
-   "section_title": "VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
-   "best_block": "wiki/win-themes/fulton-workforce-digital-twin-collections-benefits.md",
-   "best_fraction": 0.257,
-   "first_words": "We will complete the investments outlined above in Exhibit 2-4 within the",
-   "ref": "verbatim/fulton-county-2025/pages/p0030.md#¶4",
    "writer_reason": null
   },
   {
@@ -327,8 +267,8 @@
   {
    "page": 31,
    "para": 6,
-   "status": "uncovered",
-   "covered_fraction": 0.144,
+   "status": "writer-skipped",
+   "covered_fraction": 0.146,
    "words": 262,
    "kind": "table",
    "section_id": "fulton-county-2025:10.available-additional-digital-tools-for-next-level-optimizati",
@@ -337,27 +277,12 @@
    "best_fraction": 0.144,
    "first_words": "|VALUE-ADDED INNOVATIONPOTENTIAL SAVINGS TOFULTON COUNTY|WHAT WE OFFER TO DO FOR THE NORTH",
    "ref": "verbatim/fulton-county-2025/pages/p0031.md#¶6",
-   "writer_reason": null
-  },
-  {
-   "page": 32,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 148,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:10.discounted-rate-for-engineering-services-provided-under-the",
-   "section_title": "DISCOUNTED RATE FOR ENGINEERING SERVICES PROVIDED UNDER THE NORTH FULTON O&M CONTRACT",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "We are proud to offer a discounted rate structure for Jacobs consulting",
-   "ref": "verbatim/fulton-county-2025/pages/p0032.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/win-themes/fulton-additional-digital-tools.md"
   },
   {
    "page": 32,
    "para": 4,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 40,
    "kind": "table",
@@ -367,12 +292,12 @@
    "best_fraction": 0.0,
    "first_words": "|DWR #|TYPE|TITLE|CURRENT FULTONCOUNTY RATES|PROPOSED O&MSUPPORT RATES| |---|---|---|---|---| |1|PM|Engineer Principal|$250.00|$240.00| |2|PM|Project Manager|$230.00|$220.00| |3|ENG|Project",
    "ref": "verbatim/fulton-county-2025/pages/p0032.md#¶4",
-   "writer_reason": null
+   "writer_reason": "commercial"
   },
   {
    "page": 34,
    "para": 26,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.154,
    "words": 31,
    "kind": "prose",
@@ -382,37 +307,7 @@
    "best_fraction": 0.154,
    "first_words": "- scheduling guided by ISO55000 principles and Jacobs expertise. (See the discussion",
    "ref": "verbatim/fulton-county-2025/pages/p0034.md#¶26",
-   "writer_reason": null
-  },
-  {
-   "page": 35,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 87,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:10.maintenance-planner-scheduler-powered-by-palantir",
-   "section_title": "Maintenance Planner/Scheduler Powered by Palantir",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Based on our success with this approach, we have integrated this toolset",
-   "ref": "verbatim/fulton-county-2025/pages/p0035.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 36,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 50,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:10.maintenance-ai-assistant-powered-by-palantir",
-   "section_title": "Maintenance AI Assistant Powered by Palantir",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Like the planner/scheduler module discussed above, this module is worth over $100,000",
-   "ref": "verbatim/fulton-county-2025/pages/p0036.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/win-themes/fulton-maintenance-planner-scheduler-palantir.md"
   },
   {
    "page": 36,
@@ -461,66 +356,6 @@
   },
   {
    "page": 47,
-   "para": 5,
-   "status": "uncovered",
-   "covered_fraction": 0.042,
-   "words": 73,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.summary-of-delivery-staffing-approach",
-   "section_title": "Summary Of Delivery Staffing Approach",
-   "best_block": "wiki/management-staffing/fulton-staffing-plan-and-fte-roster.md",
-   "best_fraction": 0.042,
-   "first_words": "- µBig Creek WRF operations staffwill be overseen day-to-day by the Plant",
-   "ref": "verbatim/fulton-county-2025/pages/p0047.md#¶5",
-   "writer_reason": null
-  },
-  {
-   "page": 47,
-   "para": 6,
-   "status": "uncovered",
-   "covered_fraction": 0.163,
-   "words": 95,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.summary-of-delivery-staffing-approach",
-   "section_title": "Summary Of Delivery Staffing Approach",
-   "best_block": "wiki/management-staffing/fulton-staffing-plan-and-fte-roster.md",
-   "best_fraction": 0.163,
-   "first_words": "Lead Operator and two Operators will also work shifts across two weeks,",
-   "ref": "verbatim/fulton-county-2025/pages/p0047.md#¶6",
-   "writer_reason": null
-  },
-  {
-   "page": 47,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.046,
-   "words": 66,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.summary-of-delivery-staffing-approach",
-   "section_title": "Summary Of Delivery Staffing Approach",
-   "best_block": "wiki/management-staffing/fulton-staffing-plan-and-fte-roster.md",
-   "best_fraction": 0.046,
-   "first_words": "- µJCEC operations staffwill be overseen day-to-day by the Plant Manager, who",
-   "ref": "verbatim/fulton-county-2025/pages/p0047.md#¶7",
-   "writer_reason": null
-  },
-  {
-   "page": 47,
-   "para": 8,
-   "status": "partial",
-   "covered_fraction": 0.462,
-   "words": 125,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.summary-of-delivery-staffing-approach",
-   "section_title": "Summary Of Delivery Staffing Approach",
-   "best_block": "wiki/management-staffing/fulton-staffing-plan-and-fte-roster.md",
-   "best_fraction": 0.462,
-   "first_words": "µLittle River WRF operations staffwill be overseen day-to-day by the Plant Manager,",
-   "ref": "verbatim/fulton-county-2025/pages/p0047.md#¶8",
-   "writer_reason": null
-  },
-  {
-   "page": 47,
    "para": 9,
    "status": "partial",
    "covered_fraction": 0.2,
@@ -565,186 +400,6 @@
    "writer_reason": null
   },
   {
-   "page": 58,
-   "para": 5,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 30,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.process-control",
-   "section_title": "Process Control",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Supporting CPCS is a robust suite of tools built on our extensive",
-   "ref": "verbatim/fulton-county-2025/pages/p0058.md#¶5",
-   "writer_reason": null
-  },
-  {
-   "page": 58,
-   "para": 8,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 284,
-   "kind": "table",
-   "section_id": "fulton-county-2025:12.process-control",
-   "section_title": "Process Control",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "|Unit ProcessControl Procedures(UPCPs)|UPCPs provide our “operations road map”, establish key performanceindicators (KPIs)",
-   "ref": "verbatim/fulton-county-2025/pages/p0058.md#¶8",
-   "writer_reason": null
-  },
-  {
-   "page": 60,
-   "para": 10,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 73,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.fermentation-zones",
-   "section_title": "Fermentation Zones",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "At Big Creek WRF, the fermentation process is affected by several interrelated",
-   "ref": "verbatim/fulton-county-2025/pages/p0060.md#¶10",
-   "writer_reason": null
-  },
-  {
-   "page": 60,
-   "para": 13,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 25,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.fermentation-zones",
-   "section_title": "Fermentation Zones",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "With respect to testing, JC Solutions will pick up where our predecessor",
-   "ref": "verbatim/fulton-county-2025/pages/p0060.md#¶13",
-   "writer_reason": null
-  },
-  {
-   "page": 60,
-   "para": 16,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 39,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.fermentation-zones",
-   "section_title": "Fermentation Zones",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "The strategy of starting and stopping mixers could also be used at",
-   "ref": "verbatim/fulton-county-2025/pages/p0060.md#¶16",
-   "writer_reason": null
-  },
-  {
-   "page": 61,
-   "para": 4,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 45,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add",
-   "section_title": "Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- µPhos-Zorb feed at Big Creek WRF at 15 gallons per million",
-   "ref": "verbatim/fulton-county-2025/pages/p0061.md#¶4",
-   "writer_reason": null
-  },
-  {
-   "page": 61,
-   "para": 6,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 37,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add",
-   "section_title": "Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- µPhos-Zorb costs 60% more than alum based on aluminum content. Alum",
-   "ref": "verbatim/fulton-county-2025/pages/p0061.md#¶6",
-   "writer_reason": null
-  },
-  {
-   "page": 61,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 39,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add",
-   "section_title": "Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "The proposed operations contract requires Phos-Zorb, so this is the basis of",
-   "ref": "verbatim/fulton-county-2025/pages/p0061.md#¶7",
-   "writer_reason": null
-  },
-  {
-   "page": 61,
-   "para": 15,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 27,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add",
-   "section_title": "Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "polymer are used. Alum is not typically used because of its impact",
-   "ref": "verbatim/fulton-county-2025/pages/p0061.md#¶15",
-   "writer_reason": null
-  },
-  {
-   "page": 61,
-   "para": 16,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 86,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add",
-   "section_title": "Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "The Big Creek WRF design included ferric chloride feed upstream of the",
-   "ref": "verbatim/fulton-county-2025/pages/p0061.md#¶16",
-   "writer_reason": null
-  },
-  {
-   "page": 61,
-   "para": 20,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 25,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add",
-   "section_title": "Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "How It Benefits Fulton County: Potentially reduces chemical requirements and associated costs,",
-   "ref": "verbatim/fulton-county-2025/pages/p0061.md#¶20",
-   "writer_reason": null
-  },
-  {
-   "page": 62,
-   "para": 3,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 32,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.swing-zones",
-   "section_title": "Swing Zones",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- µWhen a swing zone is aerated, it operates as an aerobic",
-   "ref": "verbatim/fulton-county-2025/pages/p0062.md#¶3",
-   "writer_reason": null
-  },
-  {
    "page": 62,
    "para": 5,
    "status": "partial",
@@ -757,36 +412,6 @@
    "best_fraction": 0.4,
    "first_words": "- µHowever, allowing nitrate to reach zero in an anoxic zone works",
    "ref": "verbatim/fulton-county-2025/pages/p0062.md#¶5",
-   "writer_reason": null
-  },
-  {
-   "page": 62,
-   "para": 6,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 35,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.swing-zones",
-   "section_title": "Swing Zones",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "If insufficient pumping capacity exists, it would be necessary to aerate the",
-   "ref": "verbatim/fulton-county-2025/pages/p0062.md#¶6",
-   "writer_reason": null
-  },
-  {
-   "page": 62,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 45,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.swing-zones",
-   "section_title": "Swing Zones",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "At Big Creek WRF, there is a nitrate probe in the anoxic",
-   "ref": "verbatim/fulton-county-2025/pages/p0062.md#¶7",
    "writer_reason": null
   },
   {
@@ -927,7 +552,7 @@
   {
    "page": 77,
    "para": 16,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 26,
    "kind": "prose",
@@ -937,7 +562,7 @@
    "best_fraction": 0.0,
    "first_words": "The JC Solutions team observed issues in the Little River WRF loading",
    "ref": "verbatim/fulton-county-2025/pages/p0077.md#¶16",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md"
   },
   {
    "page": 82,
@@ -952,66 +577,6 @@
    "best_fraction": 0.365,
    "first_words": "so, our team can also help your facilities achieve ISO 55001 certification.",
    "ref": "verbatim/fulton-county-2025/pages/p0082.md#¶17",
-   "writer_reason": null
-  },
-  {
-   "page": 91,
-   "para": 5,
-   "status": "uncovered",
-   "covered_fraction": 0.022,
-   "words": 99,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.leadership-engagement-and-accountability",
-   "section_title": "Leadership Engagement and Accountability",
-   "best_block": "wiki/management-staffing/fulton-team-organization-and-key-personnel.md",
-   "best_fraction": 0.022,
-   "first_words": "Our commitment to safety starts at the top, with leaders like Senior",
-   "ref": "verbatim/fulton-county-2025/pages/p0091.md#¶5",
-   "writer_reason": null
-  },
-  {
-   "page": 91,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 75,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.key-elements-of-our-safety-program-and-planning",
-   "section_title": "Key Elements of Our Safety Program and Planning",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Our comprehensive safety program and plan to improve the safety environment at",
-   "ref": "verbatim/fulton-county-2025/pages/p0091.md#¶7",
-   "writer_reason": null
-  },
-  {
-   "page": 91,
-   "para": 8,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 73,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.key-elements-of-our-safety-program-and-planning",
-   "section_title": "Key Elements of Our Safety Program and Planning",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Jacobs has a proven safety record, as evidenced by industry-low incident rates",
-   "ref": "verbatim/fulton-county-2025/pages/p0091.md#¶8",
-   "writer_reason": null
-  },
-  {
-   "page": 92,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.06,
-   "words": 233,
-   "kind": "table",
-   "section_id": "fulton-county-2025:12.key-elements-of-our-safety-program-and-planning",
-   "section_title": "Key Elements of Our Safety Program and Planning",
-   "best_block": "wiki/compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md",
-   "best_fraction": 0.06,
-   "first_words": "|H&S WORK CONTROL PLAN|Used to direct, conduct, and document work relative to",
-   "ref": "verbatim/fulton-county-2025/pages/p0092.md#¶2",
    "writer_reason": null
   },
   {
@@ -1031,75 +596,15 @@
   },
   {
    "page": 94,
-   "para": 5,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 35,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-plan",
-   "section_title": "SECURITY PLAN",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- µAccess Control and Surveillance.Continuous oversight of all entry points and secure",
-   "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶5",
-   "writer_reason": null
-  },
-  {
-   "page": 94,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 38,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-plan",
-   "section_title": "SECURITY PLAN",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- µIncident Reporting and Response.All incidents involving theft, vandalism, unauthorized access, property",
-   "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶7",
-   "writer_reason": null
-  },
-  {
-   "page": 94,
-   "para": 8,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 26,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-plan",
-   "section_title": "SECURITY PLAN",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- µAnnual Security Assessments.The Project Manager will lead annual physical security and",
-   "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶8",
-   "writer_reason": null
-  },
-  {
-   "page": 94,
-   "para": 10,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 28,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-plan",
-   "section_title": "SECURITY PLAN",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- µInformation Protection.SCADA/IT system access and data protection protocols will be implemented",
-   "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶10",
-   "writer_reason": null
-  },
-  {
-   "page": 94,
    "para": 11,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
+   "status": "partial",
+   "covered_fraction": 0.435,
    "words": 25,
    "kind": "prose",
    "section_id": "fulton-county-2025:12.security-plan",
    "section_title": "SECURITY PLAN",
-   "best_block": null,
-   "best_fraction": 0.0,
+   "best_block": "wiki/compliance-plans/fulton-security-plan-components-access-control-and-incident-reporting.md",
+   "best_fraction": 0.435,
    "first_words": "- µConstruction Coordination.Security will be maintained during capital improvement or construction activities,",
    "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶11",
    "writer_reason": null
@@ -1137,7 +642,7 @@
   {
    "page": 94,
    "para": 17,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 25,
    "kind": "prose",
@@ -1147,12 +652,12 @@
    "best_fraction": 0.0,
    "first_words": "- To better understand the external risk environment, we conducted a preliminary",
    "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶17",
-   "writer_reason": null
+   "writer_reason": "continuation-of:wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md"
   },
   {
    "page": 94,
    "para": 18,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.042,
    "words": 28,
    "kind": "prose",
@@ -1162,7 +667,7 @@
    "best_fraction": 0.042,
    "first_words": "- One such area, zip code 30349, received a “D+” safety rating,",
    "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶18",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md"
   },
   {
    "page": 94,
@@ -1181,36 +686,6 @@
   },
   {
    "page": 95,
-   "para": 1,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 46,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-plan",
-   "section_title": "SECURITY PLAN",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "We recognize that utility infrastructure requires a balanced security approach—one that protects",
-   "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶1",
-   "writer_reason": null
-  },
-  {
-   "page": 95,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 33,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-plan",
-   "section_title": "SECURITY PLAN",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "By embedding a culture of safety and security into every aspect of",
-   "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 95,
    "para": 4,
    "status": "partial",
    "covered_fraction": 0.317,
@@ -1222,51 +697,6 @@
    "best_fraction": 0.317,
    "first_words": "Security monitoring plays a critical role in early detection and response to",
    "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶4",
-   "writer_reason": null
-  },
-  {
-   "page": 95,
-   "para": 6,
-   "status": "uncovered",
-   "covered_fraction": 0.094,
-   "words": 99,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-governance",
-   "section_title": "Security Governance",
-   "best_block": "wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md",
-   "best_fraction": 0.094,
-   "first_words": "Security governance provides the organizational framework for implementing and maintaining a successful",
-   "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶6",
-   "writer_reason": null
-  },
-  {
-   "page": 95,
-   "para": 8,
-   "status": "uncovered",
-   "covered_fraction": 0.099,
-   "words": 96,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-technology",
-   "section_title": "Security Technology",
-   "best_block": "wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md",
-   "best_fraction": 0.099,
-   "first_words": "Technology supports both the monitoring and governance components of a security program",
-   "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶8",
-   "writer_reason": null
-  },
-  {
-   "page": 95,
-   "para": 9,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 26,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:12.security-technology",
-   "section_title": "Security Technology",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "These technologies will be selected and applied to support the unique needs",
-   "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶9",
    "writer_reason": null
   },
   {
@@ -1287,7 +717,7 @@
   {
    "page": 96,
    "para": 26,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.069,
    "words": 32,
    "kind": "prose",
@@ -1297,12 +727,12 @@
    "best_fraction": 0.069,
    "first_words": "- µDevelopment of a site-specific cybersecurity and SCADA Security Plan as part",
    "ref": "verbatim/fulton-county-2025/pages/p0096.md#¶26",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md"
   },
   {
    "page": 97,
    "para": 4,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 25,
    "kind": "prose",
@@ -1312,7 +742,7 @@
    "best_fraction": 0.0,
    "first_words": "- µCompliance with all applicable regulations, including the American Water Infrastructure Act",
    "ref": "verbatim/fulton-county-2025/pages/p0097.md#¶4",
-   "writer_reason": null
+   "writer_reason": "continuation-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md"
   },
   {
    "page": 97,
@@ -1332,7 +762,7 @@
   {
    "page": 97,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 29,
    "kind": "prose",
@@ -1342,7 +772,7 @@
    "best_fraction": 0.0,
    "first_words": "This cybersecurity framework, combined with Jacobs’ history of successfully defending client assets",
    "ref": "verbatim/fulton-county-2025/pages/p0097.md#¶8",
-   "writer_reason": null
+   "writer_reason": "continuation-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md"
   },
   {
    "page": 101,
@@ -1437,7 +867,7 @@
   {
    "page": 102,
    "para": 5,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.008,
    "words": 143,
    "kind": "table",
@@ -1447,7 +877,7 @@
    "best_fraction": 0.008,
    "first_words": "|Meetings &DiscussionsDailyReports|• Open exchange of information toensure transparency and collaboration• Daily O&M",
    "ref": "verbatim/fulton-county-2025/pages/p0102.md#¶5",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
   },
   {
    "page": 102,
@@ -1482,7 +912,7 @@
   {
    "page": 103,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.152,
    "words": 39,
    "kind": "prose",
@@ -1492,12 +922,12 @@
    "best_fraction": 0.152,
    "first_words": "We will also deliver a comprehensive suite of reports to ensure transparency",
    "ref": "verbatim/fulton-county-2025/pages/p0103.md#¶8",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
   },
   {
    "page": 103,
    "para": 10,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.167,
    "words": 52,
    "kind": "prose",
@@ -1507,7 +937,7 @@
    "best_fraction": 0.167,
    "first_words": "- µMonthly Operating Report.By the fifth day of each month, we’ll deliver",
    "ref": "verbatim/fulton-county-2025/pages/p0103.md#¶10",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
   },
   {
    "page": 103,
@@ -1527,7 +957,7 @@
   {
    "page": 104,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.196,
    "words": 54,
    "kind": "prose",
@@ -1537,12 +967,12 @@
    "best_fraction": 0.196,
    "first_words": "- µAnnual Report.Our annual report will be a comprehensive review of the",
    "ref": "verbatim/fulton-county-2025/pages/p0104.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
   },
   {
    "page": 104,
    "para": 3,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.118,
    "words": 55,
    "kind": "prose",
@@ -1552,7 +982,7 @@
    "best_fraction": 0.118,
    "first_words": "- µAdditional Reports.We’ll also prepare and provide additional reports as needed, including",
    "ref": "verbatim/fulton-county-2025/pages/p0104.md#¶3",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
   },
   {
    "page": 104,
@@ -1572,7 +1002,7 @@
   {
    "page": 104,
    "para": 5,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 28,
    "kind": "prose",
@@ -1582,12 +1012,12 @@
    "best_fraction": 0.0,
    "first_words": "Our reporting approach underscores our commitment to maintaining a transparent, collaborative partnership",
    "ref": "verbatim/fulton-county-2025/pages/p0104.md#¶5",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md"
   },
   {
    "page": 105,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.14,
    "words": 61,
    "kind": "prose",
@@ -1597,7 +1027,7 @@
    "best_fraction": 0.123,
    "first_words": "JC Solutions is committed to fostering a transparent, responsive, and proactive relationship",
    "ref": "verbatim/fulton-county-2025/pages/p0105.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md"
   },
   {
    "page": 105,
@@ -1647,7 +1077,7 @@
   {
    "page": 106,
    "para": 1,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.035,
    "words": 61,
    "kind": "prose",
@@ -1657,12 +1087,12 @@
    "best_fraction": 0.035,
    "first_words": "environmental service and stewardship in the northern part of the County. This",
    "ref": "verbatim/fulton-county-2025/pages/p0106.md#¶1",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md"
   },
   {
    "page": 106,
    "para": 10,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 27,
    "kind": "prose",
@@ -1672,7 +1102,7 @@
    "best_fraction": 0.0,
    "first_words": "The following pages summarize our comprehensive plan and approach for public education",
    "ref": "verbatim/fulton-county-2025/pages/p0106.md#¶10",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md"
   },
   {
    "page": 106,
@@ -1707,7 +1137,7 @@
   {
    "page": 106,
    "para": 25,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.048,
    "words": 46,
    "kind": "prose",
@@ -1717,12 +1147,12 @@
    "best_fraction": 0.048,
    "first_words": "Complaint Intake and Tracking. We will provide a system for 24/7 odor",
    "ref": "verbatim/fulton-county-2025/pages/p0106.md#¶25",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 107,
    "para": 7,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.12,
    "words": 30,
    "kind": "prose",
@@ -1732,12 +1162,12 @@
    "best_fraction": 0.12,
    "first_words": "The system will include, at a minimum, a dedicated phone line; we’ll",
    "ref": "verbatim/fulton-county-2025/pages/p0107.md#¶7",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 107,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.148,
    "words": 86,
    "kind": "prose",
@@ -1747,12 +1177,12 @@
    "best_fraction": 0.148,
    "first_words": "Response Protocol. We will receive and acknowledge complaints as required. We will",
    "ref": "verbatim/fulton-county-2025/pages/p0107.md#¶8",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 107,
    "para": 9,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 34,
    "kind": "prose",
@@ -1762,12 +1192,12 @@
    "best_fraction": 0.0,
    "first_words": "Reporting and Follow-Up. Monthly summaries of all public complaints, including response actions",
    "ref": "verbatim/fulton-county-2025/pages/p0107.md#¶9",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 107,
    "para": 10,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.062,
    "words": 36,
    "kind": "prose",
@@ -1777,7 +1207,7 @@
    "best_fraction": 0.062,
    "first_words": "To support facility operations, odor complaint data and locations could be analyzed",
    "ref": "verbatim/fulton-county-2025/pages/p0107.md#¶10",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 107,
@@ -1812,7 +1242,7 @@
   {
    "page": 107,
    "para": 15,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.179,
    "words": 33,
    "kind": "prose",
@@ -1822,12 +1252,12 @@
    "best_fraction": 0.179,
    "first_words": "We are committed to maintaining strong relationships with County personnel, Georgia EPD,",
    "ref": "verbatim/fulton-county-2025/pages/p0107.md#¶15",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 107,
    "para": 17,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.167,
    "words": 42,
    "kind": "prose",
@@ -1837,12 +1267,12 @@
    "best_fraction": 0.167,
    "first_words": "We will participate in all public meetings as required by the County,",
    "ref": "verbatim/fulton-county-2025/pages/p0107.md#¶17",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 107,
    "para": 19,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.111,
    "words": 49,
    "kind": "prose",
@@ -1852,12 +1282,12 @@
    "best_fraction": 0.111,
    "first_words": "As a long-standing and active Corporate Member of the Georgia Association of",
    "ref": "verbatim/fulton-county-2025/pages/p0107.md#¶19",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 107,
    "para": 21,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.029,
    "words": 38,
    "kind": "prose",
@@ -1867,7 +1297,7 @@
    "best_fraction": 0.029,
    "first_words": "Odor Complaints. We will utilize real-time monitoring equipment and conduct regular odor",
    "ref": "verbatim/fulton-county-2025/pages/p0107.md#¶21",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md"
   },
   {
    "page": 108,
@@ -1902,7 +1332,7 @@
   {
    "page": 108,
    "para": 12,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.046,
    "words": 158,
    "kind": "prose",
@@ -1912,7 +1342,7 @@
    "best_fraction": 0.046,
    "first_words": "As most of the adjacent neighborhoods and even those farther out have",
    "ref": "verbatim/fulton-county-2025/pages/p0108.md#¶12",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-community-relations-plan-and-stakeholder-directory.md"
   },
   {
    "page": 109,
@@ -1927,21 +1357,6 @@
    "best_fraction": 0.405,
    "first_words": "- µLocal Media:Leverage local radio, TV, and newspapers to promote events and",
    "ref": "verbatim/fulton-county-2025/pages/p0109.md#¶6",
-   "writer_reason": null
-  },
-  {
-   "page": 116,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.197,
-   "words": 132,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.tapping-the-value-of-existing-staff",
-   "section_title": "Tapping the Value of Existing Staff",
-   "best_block": "wiki/technical-approach/fulton-transition-continuity-and-staff-transfer.md",
-   "best_fraction": 0.197,
-   "first_words": "Our approach to building a strong team focuses on a blend of",
-   "ref": "verbatim/fulton-county-2025/pages/p0116.md#¶7",
    "writer_reason": null
   },
   {
@@ -1975,286 +1390,16 @@
    "writer_reason": null
   },
   {
-   "page": 117,
-   "para": 3,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 49,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.proven-approach-to-supporting-existing-employees-and-transit",
-   "section_title": "Proven Approach to Supporting Existing Employees and Transition Success",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "In the first days of the transition, we will refine job descriptions",
-   "ref": "verbatim/fulton-county-2025/pages/p0117.md#¶3",
-   "writer_reason": null
-  },
-  {
-   "page": 117,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 30,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.compensation-package",
-   "section_title": "Compensation Package",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "JC Solutions will offer employment to all interested and qualified current employees",
-   "ref": "verbatim/fulton-county-2025/pages/p0117.md#¶7",
-   "writer_reason": null
-  },
-  {
-   "page": 117,
-   "para": 8,
-   "status": "uncovered",
-   "covered_fraction": 0.01,
-   "words": 105,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.compensation-package",
-   "section_title": "Compensation Package",
-   "best_block": "wiki/technical-approach/fulton-odor-complaint-response-and-source-evaluation.md",
-   "best_fraction": 0.01,
-   "first_words": "- 1Retain and Recruit Local Talent:Our top priority is to retain the",
-   "ref": "verbatim/fulton-county-2025/pages/p0117.md#¶8",
-   "writer_reason": null
-  },
-  {
-   "page": 117,
-   "para": 9,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 80,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.compensation-package",
-   "section_title": "Compensation Package",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- 2Host Introduction Workshops:After identifying the key members of the existing local",
-   "ref": "verbatim/fulton-county-2025/pages/p0117.md#¶9",
-   "writer_reason": null
-  },
-  {
-   "page": 117,
-   "para": 10,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 77,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.compensation-package",
-   "section_title": "Compensation Package",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- 3Assess and Interview Remaining Candidates:We will conduct structured assessments and interviews",
-   "ref": "verbatim/fulton-county-2025/pages/p0117.md#¶10",
-   "writer_reason": null
-  },
-  {
-   "page": 117,
-   "para": 11,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 73,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.compensation-package",
-   "section_title": "Compensation Package",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- 4Make Employment Offers:For both the retained local staff and any new",
-   "ref": "verbatim/fulton-county-2025/pages/p0117.md#¶11",
-   "writer_reason": null
-  },
-  {
-   "page": 117,
-   "para": 12,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 62,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.compensation-package",
-   "section_title": "Compensation Package",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "- 5Implement Contract Startup and Operation:Once employment offers are accepted, we will",
-   "ref": "verbatim/fulton-county-2025/pages/p0117.md#¶12",
-   "writer_reason": null
-  },
-  {
-   "page": 117,
-   "para": 13,
-   "status": "uncovered",
-   "covered_fraction": 0.015,
-   "words": 67,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.compensation-package",
-   "section_title": "Compensation Package",
-   "best_block": "wiki/technical-approach/fulton-transition-continuity-and-staff-transfer.md",
-   "best_fraction": 0.015,
-   "first_words": "- 6Initiate Continuous Training and Development Program:To ensure ongoing success, we will",
-   "ref": "verbatim/fulton-county-2025/pages/p0117.md#¶13",
-   "writer_reason": null
-  },
-  {
-   "page": 118,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 32,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.compensation-package",
-   "section_title": "Compensation Package",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "pay rate scale for positions. We intend to provide a comprehensive compensation",
-   "ref": "verbatim/fulton-county-2025/pages/p0118.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 118,
-   "para": 4,
-   "status": "partial",
-   "covered_fraction": 0.241,
-   "words": 34,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.employee-satisfaction",
-   "section_title": "Employee Satisfaction",
-   "best_block": "wiki/technical-approach/fulton-workforce-satisfaction-and-industry-recognition.md",
-   "best_fraction": 0.241,
-   "first_words": "Jacobs regularly surveys staff members who have joined our firm after a",
-   "ref": "verbatim/fulton-county-2025/pages/p0118.md#¶4",
-   "writer_reason": null
-  },
-  {
-   "page": 118,
-   "para": 5,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 35,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.employee-satisfaction",
-   "section_title": "Employee Satisfaction",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "We firmly believe that our commitment to our people and our intentional",
-   "ref": "verbatim/fulton-county-2025/pages/p0118.md#¶5",
-   "writer_reason": null
-  },
-  {
-   "page": 118,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 50,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.leadership-from-jc-solutions-staff",
-   "section_title": "Leadership from JC Solutions Staff",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "A few key staff positions will be filled by JC Solutions employees",
-   "ref": "verbatim/fulton-county-2025/pages/p0118.md#¶7",
-   "writer_reason": null
-  },
-  {
-   "page": 118,
-   "para": 11,
-   "status": "partial",
-   "covered_fraction": 0.247,
-   "words": 90,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.transition-team",
-   "section_title": "Transition Team",
-   "best_block": "wiki/technical-approach/fulton-transition-continuity-and-staff-transfer.md",
-   "best_fraction": 0.235,
-   "first_words": "To ensure the success of this important partnership, we offer an onsite",
-   "ref": "verbatim/fulton-county-2025/pages/p0118.md#¶11",
-   "writer_reason": null
-  },
-  {
-   "page": 118,
-   "para": 12,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 60,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.transition-team",
-   "section_title": "Transition Team",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "The transition team is comprised of seasoned experts who have successfully transitioned",
-   "ref": "verbatim/fulton-county-2025/pages/p0118.md#¶12",
-   "writer_reason": null
-  },
-  {
-   "page": 120,
-   "para": 1,
-   "status": "uncovered",
-   "covered_fraction": 0.184,
-   "words": 54,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.transition-training-period",
-   "section_title": "Transition Training Period",
-   "best_block": "wiki/technical-approach/fulton-transition-continuity-and-staff-transfer.md",
-   "best_fraction": 0.184,
-   "first_words": "safety and operations training to ensure they all have the knowledge necessary",
-   "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶1",
-   "writer_reason": null
-  },
-  {
-   "page": 120,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 29,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.transition-training-period",
-   "section_title": "Transition Training Period",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Additionally, we will identify other needed training at onboarding, as well as",
-   "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 120,
-   "para": 13,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 62,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-operations-and-rela",
-   "section_title": "45-Day Schedule for Smooth Transition of Operations and Related Systems",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "JC Solutions is fully confident in our ability to deliver a comprehensive",
-   "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶13",
-   "writer_reason": null
-  },
-  {
-   "page": 120,
-   "para": 14,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 71,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-operations-and-rela",
-   "section_title": "45-Day Schedule for Smooth Transition of Operations and Related Systems",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "While the RFP does not specify a required transition duration, we have",
-   "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶14",
-   "writer_reason": null
-  },
-  {
    "page": 120,
    "para": 17,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
+   "status": "partial",
+   "covered_fraction": 0.449,
    "words": 128,
    "kind": "prose",
    "section_id": "fulton-county-2025:13.pre-start-transition-15-days-prior-to-june-6",
    "section_title": "Pre-Start Transition (15 Days Prior to June 6)",
-   "best_block": null,
-   "best_fraction": 0.0,
+   "best_block": "wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md",
+   "best_fraction": 0.449,
    "first_words": "During this initial phase, we will focus on essential HR and administrative",
    "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶17",
    "writer_reason": null
@@ -2262,7 +1407,7 @@
   {
    "page": 120,
    "para": 21,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 109,
    "kind": "prose",
@@ -2272,27 +1417,12 @@
    "best_fraction": 0.0,
    "first_words": "The initial transition California, and Southbridge, Massachusetts, phase will involve close both",
    "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶21",
-   "writer_reason": null
-  },
-  {
-   "page": 121,
-   "para": 1,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 25,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.initial-transition-30-days-starting-july-1st",
-   "section_title": "Initial Transition (30 Days Starting July 1st)",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "will officially transition to the new team under JC Solutions. This gradual",
-   "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶1",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md (recovered text-layer tail with two columns interleaved; not usable prose)"
   },
   {
    "page": 121,
    "para": 5,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.119,
    "words": 106,
    "kind": "prose",
@@ -2302,7 +1432,7 @@
    "best_fraction": 0.119,
    "first_words": "The final phase spans 12 months and is dedicated to finalizing all",
    "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶5",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md"
   },
   {
    "page": 121,
@@ -2317,111 +1447,6 @@
    "best_fraction": 0.273,
    "first_words": "Prior to implementation, our transition leadership will review the proposed transition schedule",
    "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶6",
-   "writer_reason": null
-  },
-  {
-   "page": 121,
-   "para": 9,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 30,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Building a strong culture is Step 1. Effectively recruiting and proactively growing",
-   "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶9",
-   "writer_reason": null
-  },
-  {
-   "page": 121,
-   "para": 11,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 39,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "doubled the number of new Jacobs’ O&M employees over the past year,",
-   "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶11",
-   "writer_reason": null
-  },
-  {
-   "page": 121,
-   "para": 13,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 39,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Internally we promote these opportunities via a range of internal communications, including",
-   "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶13",
-   "writer_reason": null
-  },
-  {
-   "page": 121,
-   "para": 14,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 51,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Partnering with local high schools, community colleges, and technical schools such as",
-   "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶14",
-   "writer_reason": null
-  },
-  {
-   "page": 121,
-   "para": 15,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 81,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "At Ease, Jacobs’ Military Recruitment Program. The Jacobs’ at Ease program partners",
-   "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶15",
-   "writer_reason": null
-  },
-  {
-   "page": 121,
-   "para": 16,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 26,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Recruiting tools best suited to O&M-focused candidates. We focus on platforms such",
-   "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶16",
-   "writer_reason": null
-  },
-  {
-   "page": 121,
-   "para": 17,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 115,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Incentive and Recognition Programs. Jacobs provides a wide range of incentive and",
-   "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶17",
    "writer_reason": null
   },
   {
@@ -2440,66 +1465,6 @@
    "writer_reason": null
   },
   {
-   "page": 123,
-   "para": 1,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 27,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Additionally, we strive to maintain competitive wages and benefits, recognizing it is",
-   "ref": "verbatim/fulton-county-2025/pages/p0123.md#¶1",
-   "writer_reason": null
-  },
-  {
-   "page": 123,
-   "para": 2,
-   "status": "partial",
-   "covered_fraction": 0.409,
-   "words": 47,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": "wiki/management-staffing/fulton-training-certification-and-career-development.md",
-   "best_fraction": 0.409,
-   "first_words": "in Exhibit 2-48 for our O&M staff to grow in their jobs",
-   "ref": "verbatim/fulton-county-2025/pages/p0123.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 123,
-   "para": 3,
-   "status": "uncovered",
-   "covered_fraction": 0.016,
-   "words": 296,
-   "kind": "table",
-   "section_id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
-   "section_title": "Long-Term Staffing/Succession Planning Practices",
-   "best_block": "wiki/management-staffing/fulton-training-certification-and-career-development.md",
-   "best_fraction": 0.016,
-   "first_words": "|TechnicalTraining andCertifications|Staff keep up to date with our online electronic bookshelf of",
-   "ref": "verbatim/fulton-county-2025/pages/p0123.md#¶3",
-   "writer_reason": null
-  },
-  {
-   "page": 124,
-   "para": 4,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 62,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.jc-solutions-approach-to-the-exit-transition-process",
-   "section_title": "JC Solutions’ Approach to the Exit Transition Process",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "JC Solutions’ approach to the exit transition process at the County emphasizes",
-   "ref": "verbatim/fulton-county-2025/pages/p0124.md#¶4",
-   "writer_reason": null
-  },
-  {
    "page": 124,
    "para": 8,
    "status": "partial",
@@ -2512,36 +1477,6 @@
    "best_fraction": 0.267,
    "first_words": "1. Documentation and Data Handover. JC Solutions will provide the County with",
    "ref": "verbatim/fulton-county-2025/pages/p0124.md#¶8",
-   "writer_reason": null
-  },
-  {
-   "page": 124,
-   "para": 12,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 30,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.key-elements-of-the-exit-transition-plan",
-   "section_title": "Key Elements of the Exit Transition Plan",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "2. Asset Condition and Inventory Management. In accordance with Article 53.2, JC",
-   "ref": "verbatim/fulton-county-2025/pages/p0124.md#¶12",
-   "writer_reason": null
-  },
-  {
-   "page": 124,
-   "para": 16,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 33,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.key-elements-of-the-exit-transition-plan",
-   "section_title": "Key Elements of the Exit Transition Plan",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "3. Staffing and Knowledge Transfer. JC Solutions will provide comprehensive staffing data",
-   "ref": "verbatim/fulton-county-2025/pages/p0124.md#¶16",
    "writer_reason": null
   },
   {
@@ -2561,30 +1496,15 @@
   },
   {
    "page": 125,
-   "para": 22,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 54,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:13.lessons-learned",
-   "section_title": "Lessons Learned",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "JC Solutions’ experience with exit transitions, such as Coos Bay, has highlighted",
-   "ref": "verbatim/fulton-county-2025/pages/p0125.md#¶22",
-   "writer_reason": null
-  },
-  {
-   "page": 125,
    "para": 24,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
+   "status": "partial",
+   "covered_fraction": 0.354,
    "words": 85,
    "kind": "prose",
    "section_id": "fulton-county-2025:13.additional-support",
    "section_title": "Additional Support",
-   "best_block": null,
-   "best_fraction": 0.0,
+   "best_block": "wiki/management-staffing/fulton-exit-transition-lessons-learned-and-digital-support.md",
+   "best_fraction": 0.354,
    "first_words": "Jacobs offers digital tools to support the Exit Transition Plan, including asset",
    "ref": "verbatim/fulton-county-2025/pages/p0125.md#¶24",
    "writer_reason": null
@@ -2607,7 +1527,7 @@
   {
    "page": 127,
    "para": 5,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.08,
    "words": 29,
    "kind": "prose",
@@ -2617,42 +1537,12 @@
    "best_fraction": 0.08,
    "first_words": "Resumes for our key personnel and short biographies for the rest of",
    "ref": "verbatim/fulton-county-2025/pages/p0127.md#¶5",
-   "writer_reason": null
-  },
-  {
-   "page": 128,
-   "para": 2,
-   "status": "partial",
-   "covered_fraction": 0.333,
-   "words": 74,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:14.team-organization-optimizes-and-elevates-o-m",
-   "section_title": "TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M",
-   "best_block": "wiki/management-staffing/fulton-team-organization-and-key-personnel.md",
-   "best_fraction": 0.333,
-   "first_words": "Our organizational structure, shown in Exhibit 3-1 , outlines a comprehensive staffing",
-   "ref": "verbatim/fulton-county-2025/pages/p0128.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 128,
-   "para": 3,
-   "status": "uncovered",
-   "covered_fraction": 0.127,
-   "words": 70,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:14.team-organization-optimizes-and-elevates-o-m",
-   "section_title": "TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M",
-   "best_block": "wiki/management-staffing/fulton-team-organization-and-key-personnel.md",
-   "best_fraction": 0.127,
-   "first_words": "Solutions team or that the County does not wish to retain, we",
-   "ref": "verbatim/fulton-county-2025/pages/p0128.md#¶3",
-   "writer_reason": null
+   "writer_reason": "continuation-of:wiki/management-staffing/fulton-team-organization-and-key-personnel.md"
   },
   {
    "page": 128,
    "para": 4,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 25,
    "kind": "prose",
@@ -2662,19 +1552,19 @@
    "best_fraction": 0.0,
    "first_words": "The JC Solutions team attending the site visits at the North Fulton",
    "ref": "verbatim/fulton-county-2025/pages/p0128.md#¶4",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 129,
    "para": 3,
-   "status": "uncovered",
-   "covered_fraction": 0.117,
+   "status": "partial",
+   "covered_fraction": 0.208,
    "words": 264,
    "kind": "prose",
    "section_id": "fulton-county-2025:14.fulton-county-department-of-public-works",
    "section_title": "Fulton County Department of Public Works",
-   "best_block": "wiki/management-staffing/fulton-team-organization-and-key-personnel.md",
-   "best_fraction": 0.117,
+   "best_block": "wiki/resumes/fulton-proposed-team-organization-roster.md",
+   "best_fraction": 0.192,
    "first_words": "Senior Sponsors Executive Sponsors Project Manager Executive Director of Operations | Kevin",
    "ref": "verbatim/fulton-county-2025/pages/p0129.md#¶3",
    "writer_reason": null
@@ -2712,7 +1602,7 @@
   {
    "page": 161,
    "para": 3,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.173,
    "words": 83,
    "kind": "prose",
@@ -2722,12 +1612,12 @@
    "best_fraction": 0.099,
    "first_words": "Our O&M resources, led by John Rickermann, will be fully accessible to",
    "ref": "verbatim/fulton-county-2025/pages/p0161.md#¶3",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md"
   },
   {
    "page": 163,
    "para": 7,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.174,
    "words": 27,
    "kind": "prose",
@@ -2737,12 +1627,12 @@
    "best_fraction": 0.174,
    "first_words": "- µA Certified Control Systems Technician (CCST) Level 1 that specializes in",
    "ref": "verbatim/fulton-county-2025/pages/p0163.md#¶7",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md"
   },
   {
    "page": 165,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.061,
    "words": 71,
    "kind": "prose",
@@ -2752,7 +1642,7 @@
    "best_fraction": 0.061,
    "first_words": "Our consulting resources, led by Rocco Koekemoer, will also be fully accessible",
    "ref": "verbatim/fulton-county-2025/pages/p0165.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md"
   },
   {
    "page": 165,
@@ -2802,7 +1692,7 @@
   {
    "page": 165,
    "para": 13,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 29,
    "kind": "table",
@@ -2812,37 +1702,7 @@
    "best_fraction": 0.0,
    "first_words": "|Youngchul Choi, PE30 Years of ExperienceMembrane Technologist| |---| |Adrian Romero-Flores,PhD10 Years of",
    "ref": "verbatim/fulton-county-2025/pages/p0165.md#¶13",
-   "writer_reason": null
-  },
-  {
-   "page": 172,
-   "para": 1,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 45,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
-   "section_title": "JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Jacobs operates more than 700 lift stations at 75 plants, which includes",
-   "ref": "verbatim/fulton-county-2025/pages/p0172.md#¶1",
-   "writer_reason": null
-  },
-  {
-   "page": 172,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 66,
-   "kind": "prose",
-   "section_id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
-   "section_title": "JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Each pump station presents its own set of unique characteristics and challenges.",
-   "ref": "verbatim/fulton-county-2025/pages/p0172.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md"
   },
   {
    "page": 173,
@@ -2877,7 +1737,7 @@
   {
    "page": 181,
    "para": 11,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.105,
    "words": 25,
    "kind": "prose",
@@ -2887,7 +1747,7 @@
    "best_fraction": 0.105,
    "first_words": "Below is our Environmental Compliance Record for each of our reference projects",
    "ref": "verbatim/fulton-county-2025/pages/p0181.md#¶11",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/compliance-plans/fulton-traverse-city-environmental-compliance-record.md"
   },
   {
    "page": 184,

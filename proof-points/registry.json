@@ -64532,5 +64532,705 @@
     "owner": "",
     "approved_for_external_use": "pending",
     "conflicts_with": []
+  },
+  {
+    "id": "PP-3080",
+    "claim": "Discounted consulting rate structure lasts until the end of the O&M contract term",
+    "values": [
+      {
+        "number": "5",
+        "unit": "year contract term",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 32,
+        "para": 2,
+        "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "technical-approach",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3081",
+    "claim": "Discounted consulting rate structure is escalated each fiscal year",
+    "values": [
+      {
+        "number": "2",
+        "unit": "percent per fiscal year",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 32,
+        "para": 2,
+        "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "technical-approach",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3082",
+    "claim": "Illustrative engineering services project value used to demonstrate the discount",
+    "values": [
+      {
+        "number": "500000",
+        "unit": "USD project value",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 32,
+        "para": 2,
+        "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "technical-approach",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3083",
+    "claim": "Average savings to the client from applying the discounted consulting rate structure",
+    "values": [
+      {
+        "number": "7.4",
+        "unit": "percent average savings",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 32,
+        "para": 2,
+        "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "technical-approach",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3084",
+    "claim": "Savings on a $500,000 engineering services project under the discounted rate structure",
+    "values": [
+      {
+        "number": "37000",
+        "unit": "USD savings",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 32,
+        "para": 2,
+        "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "technical-approach",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3085",
+    "claim": "Integrating the Intelligent O&M planner/scheduler toolset into the base fee targets improving maintenance metrics by approximately 10 (unit symbol dropped in source text layer), reducing maintenance overtime and the Maintenance Manager's weekly planning effort",
+    "values": [
+      {
+        "number": "10",
+        "unit": "percent (as printed: \"approximately 10—\"; unit glyph missing in source)",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 35,
+        "para": 2,
+        "block": "wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "win-themes",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3086",
+    "claim": "The Intelligent O&M maintenance planner/scheduler toolset is typically worth over $100,000 per year for consulting clients in setup, annual licensing, and support fees, and is included at no additional cost to the client",
+    "values": [
+      {
+        "number": "100000",
+        "unit": "USD per year",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 35,
+        "para": 2,
+        "block": "wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "win-themes",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3087",
+    "claim": "The Maintenance AI Assistant module is worth over $100,000 per year or more when deployed for consulting clients, and is included in the base bid at no additional cost to the client",
+    "values": [
+      {
+        "number": "100000",
+        "unit": "USD per year",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 36,
+        "para": 2,
+        "block": "wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "win-themes",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3088",
+    "claim": "Jacobs operates more than 700 lift stations",
+    "values": [
+      {
+        "number": "700",
+        "unit": "lift stations",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 172,
+        "para": 1,
+        "block": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "past-performance",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3089",
+    "claim": "Jacobs operates lift stations at 75 plants",
+    "values": [
+      {
+        "number": "75",
+        "unit": "plants",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 172,
+        "para": 1,
+        "block": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "past-performance",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3090",
+    "claim": "Jacobs' operated lift stations include 2,490 pumps",
+    "values": [
+      {
+        "number": "2490",
+        "unit": "pumps",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 172,
+        "para": 1,
+        "block": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "past-performance",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3091",
+    "claim": "Operated pumps range from 0.5 to 200 hp",
+    "values": [
+      {
+        "number": "0.5-200",
+        "unit": "hp",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 172,
+        "para": 1,
+        "block": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "past-performance",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3092",
+    "claim": "At the first plant, the Plant Manager oversees operations staff day-to-day working eight-hour shifts, Monday through Friday",
+    "values": [
+      {
+        "number": "8",
+        "unit": "hours per shift, Mon-Fri",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 5,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3093",
+    "claim": "Two groups of day-shift operators at the first plant all work 12-hour shifts",
+    "values": [
+      {
+        "number": "12",
+        "unit": "hours per shift",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 5,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3094",
+    "claim": "A Main Lead Operator plus two Operators work a total of seven days across two weeks - three days in the first week and four in the next",
+    "values": [
+      {
+        "number": "7",
+        "unit": "days worked per two weeks (3 + 4)",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 5,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3095",
+    "claim": "A Secondary Lead Operator and two Operators cover the four days in the first week and the three days in the second week not covered by the Main Lead Operator group",
+    "values": [
+      {
+        "number": "7",
+        "unit": "days worked per two weeks (4 + 3)",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 6,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3096",
+    "claim": "The alternating day-shift rotation ensures three day-shift Operators onsite every day of the week",
+    "values": [
+      {
+        "number": "3",
+        "unit": "day-shift operators onsite, 7 days/week",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 6,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3097",
+    "claim": "Night shifts are covered by two groups, each consisting of one Lead Operator and one Operator, following the same two-week pattern as the day-shift groups",
+    "values": [
+      {
+        "number": "2",
+        "unit": "night-shift groups of 1 Lead + 1 Operator",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 6,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3098",
+    "claim": "The night-shift rotation ensures two Operators are onsite every night shift of the week",
+    "values": [
+      {
+        "number": "2",
+        "unit": "night-shift operators onsite, 7 nights/week",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 6,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3099",
+    "claim": "At the second plant, the Plant Manager oversees operations staff day-to-day working eight-hour shifts, Monday through Friday",
+    "values": [
+      {
+        "number": "8",
+        "unit": "hours per shift, Mon-Fri",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 7,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3100",
+    "claim": "Lead Operators and Operators at the second plant work 12-hour shifts on the same pattern as the first plant",
+    "values": [
+      {
+        "number": "12",
+        "unit": "hours per shift",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 7,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3101",
+    "claim": "The second plant's pattern meets the required minimum staffing of three Operators during day shifts and two Operators during night shifts every day of the week",
+    "values": [
+      {
+        "number": "3 day / 2 night",
+        "unit": "operators onsite per shift, 7 days/week",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 47,
+        "para": 7,
+        "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "management-staffing",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3102",
+    "claim": "Jacobs' leadership training program provided to appropriate management and administrative staff during transition onboarding runs 40 hours",
+    "values": [
+      {
+        "number": "40",
+        "unit": "hours",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 120,
+        "para": 11,
+        "block": "wiki/management-staffing/fulton-transition-training-period-onboarding-curriculum.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "training-certification",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3103",
+    "claim": "JC Solutions committed to deliver a comprehensive transition within a 45-day period",
+    "values": [
+      {
+        "number": "45",
+        "unit": "days",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 120,
+        "para": 13,
+        "block": "wiki/management-staffing/fulton-45-day-transition-confidence-and-phasing.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "transition-management",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3104",
+    "claim": "Focused 45-day transition plan beginning May 22nd, developed although the RFP did not specify a required transition duration",
+    "values": [
+      {
+        "number": "45",
+        "unit": "days",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 120,
+        "para": 14,
+        "block": "wiki/management-staffing/fulton-45-day-transition-confidence-and-phasing.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "transition-management",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3105",
+    "claim": "Pre-start transition phase covering HR and administrative preparation runs 15 days prior to the formal transition",
+    "values": [
+      {
+        "number": "15",
+        "unit": "days",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 120,
+        "para": 17,
+        "block": "wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "transition-management",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3106",
+    "claim": "Initial transition phase, including shadowing of existing staff and the badge-flip process, runs 30 days starting July 1st",
+    "values": [
+      {
+        "number": "30",
+        "unit": "days",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 120,
+        "para": 21,
+        "block": "wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "transition-management",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3107",
+    "claim": "Jacobs' Resource Planning Group doubled the number of new Jacobs O&M employees over the past year while lowering turnover",
+    "values": [
+      {
+        "number": "2",
+        "unit": "x (doubled) new O&M hires year over year",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 121,
+        "para": 11,
+        "block": "wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "recruiting-retention",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3108",
+    "claim": "Jacobs' at Ease military recruitment program gives transitioning service members, veterans, and spouses on-the-job experience over a 90-180 day period",
+    "values": [
+      {
+        "number": "90-180",
+        "unit": "days",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 121,
+        "para": 15,
+        "block": "wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "recruiting-retention",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3109",
+    "claim": "Jacobs provides promotions and cash bonuses up to $1,000 for employees who pass certifications or earn an advanced degree in a related field",
+    "values": [
+      {
+        "number": "1000",
+        "unit": "USD per employee (maximum bonus)",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 121,
+        "para": 17,
+        "block": "wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "training-certification",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3110",
+    "claim": "Future Leadership Development is an internal two-year training program in project manager fundamentals, management, and leadership skills",
+    "values": [
+      {
+        "number": "2",
+        "unit": "years",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 123,
+        "para": 3,
+        "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "workforce-development",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3111",
+    "claim": "Jacobs' Global Future Talent Team comprises 20+ talent development staff managing graduate, intern, co-op, and apprentice strategies",
+    "values": [
+      {
+        "number": "20",
+        "unit": "staff (20+)",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 123,
+        "para": 3,
+        "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "workforce-development",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3112",
+    "claim": "The Project Manager Intern Program gives high-potential staff a three-month immersion on each of two different O&M project sites",
+    "values": [
+      {
+        "number": "3",
+        "unit": "months per site (two sites)",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 123,
+        "para": 3,
+        "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "workforce-development",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3113",
+    "claim": "The Project Manager Intern Program is a six-month endeavor spanning two O&M project sites",
+    "values": [
+      {
+        "number": "6",
+        "unit": "months",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 123,
+        "para": 3,
+        "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "workforce-development",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3114",
+    "claim": "The Leadership Team Mentor Program pairs a selected group of 35 staff with global leaders for a year-long program culminating in a capstone event",
+    "values": [
+      {
+        "number": "35",
+        "unit": "staff per cohort",
+        "as_of": "2025",
+        "source_slug": "fulton-county-2025",
+        "page": 123,
+        "para": 3,
+        "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "workforce-development",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
   }
 ]

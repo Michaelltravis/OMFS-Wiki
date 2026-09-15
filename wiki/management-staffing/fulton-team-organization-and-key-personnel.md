@@ -25,7 +25,7 @@ last-verified: 2026-09-07
 section-id: fulton-county-2025:14
 section-order: 1
 section-path: Section 3 | Project Team Qualifications, Qualifications of Key Personnel
-doc-order: 95
+doc-order: 125
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Named leadership, regional specialists, onsite roles, and JV organization structure.
 reuse-notes: Rebuild names, assignments, reporting lines, and staffing levels for each pursuit. Retain the JV attribution, but this source does not allocate a CERM-specific local-workforce role.

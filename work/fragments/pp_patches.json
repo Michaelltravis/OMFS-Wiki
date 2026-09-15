@@ -923,6 +923,15 @@
     }
   },
   {
+    "path": "wiki/management-staffing/fulton-45-day-transition-confidence-and-phasing.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3103",
+        "PP-3104"
+      ]
+    }
+  },
+  {
     "path": "wiki/management-staffing/fulton-cerm-workforce-development-pipeline.md",
     "set": {
       "proof-point-ids": [
@@ -974,6 +983,42 @@
     "set": {
       "proof-point-ids": [
         "PP-1906"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3107",
+        "PP-3108",
+        "PP-3109"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3092",
+        "PP-3093",
+        "PP-3094",
+        "PP-3095",
+        "PP-3096",
+        "PP-3097",
+        "PP-3098",
+        "PP-3099",
+        "PP-3100",
+        "PP-3101"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3105",
+        "PP-3106"
       ]
     }
   },
@@ -1032,6 +1077,18 @@
     }
   },
   {
+    "path": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3110",
+        "PP-3111",
+        "PP-3112",
+        "PP-3113",
+        "PP-3114"
+      ]
+    }
+  },
+  {
     "path": "wiki/management-staffing/fulton-training-certification-and-career-development.md",
     "set": {
       "proof-point-ids": [
@@ -1041,6 +1098,14 @@
         "PP-1687",
         "PP-1712",
         "PP-1713"
+      ]
+    }
+  },
+  {
+    "path": "wiki/management-staffing/fulton-transition-training-period-onboarding-curriculum.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3102"
       ]
     }
   },
@@ -2426,6 +2491,17 @@
         "PP-1877",
         "PP-1878",
         "PP-1879"
+      ]
+    }
+  },
+  {
+    "path": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3088",
+        "PP-3089",
+        "PP-3090",
+        "PP-3091"
       ]
     }
   },
@@ -4705,6 +4781,18 @@
         "PP-1632",
         "PP-1633",
         "PP-1634"
+      ]
+    }
+  },
+  {
+    "path": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3080",
+        "PP-3081",
+        "PP-3082",
+        "PP-3083",
+        "PP-3084"
       ]
     }
   },
@@ -7052,6 +7140,16 @@
         "PP-1659",
         "PP-1660",
         "PP-1661"
+      ]
+    }
+  },
+  {
+    "path": "wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md",
+    "set": {
+      "proof-point-ids": [
+        "PP-3085",
+        "PP-3086",
+        "PP-3087"
       ]
     }
   },

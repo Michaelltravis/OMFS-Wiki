@@ -23,9 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:14.subcontractors
-section-order: 5
+section-order: 7
 section-path: Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors
-doc-order: 99
+doc-order: 131
 context: "Fulton County wastewater-facilities and pump-stations O&M pursuit, 2025."
 quality: "Verbatim proposed Maintenance Manager resume with MBR maintenance, maintenance-supervision, preventive-maintenance, and military vehicle-maintenance experience."
 reuse-notes: "Verbatim resume; names, clients, contacts, certifications, dates, numbers, and experience are retained. Confirm current availability, role, licenses, and reference contacts before external reuse."

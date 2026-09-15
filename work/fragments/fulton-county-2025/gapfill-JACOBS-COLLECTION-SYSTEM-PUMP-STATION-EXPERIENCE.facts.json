@@ -1,0 +1,42 @@
+[
+  {
+    "claim": "Jacobs operates more than 700 lift stations",
+    "number": "700",
+    "unit": "lift stations",
+    "as_of": "2025",
+    "page": 172,
+    "para": 1,
+    "block": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md",
+    "category": "past-performance"
+  },
+  {
+    "claim": "Jacobs operates lift stations at 75 plants",
+    "number": "75",
+    "unit": "plants",
+    "as_of": "2025",
+    "page": 172,
+    "para": 1,
+    "block": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md",
+    "category": "past-performance"
+  },
+  {
+    "claim": "Jacobs' operated lift stations include 2,490 pumps",
+    "number": "2490",
+    "unit": "pumps",
+    "as_of": "2025",
+    "page": 172,
+    "para": 1,
+    "block": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md",
+    "category": "past-performance"
+  },
+  {
+    "claim": "Operated pumps range from 0.5 to 200 hp",
+    "number": "0.5-200",
+    "unit": "hp",
+    "as_of": "2025",
+    "page": 172,
+    "para": 1,
+    "block": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md",
+    "category": "past-performance"
+  }
+]

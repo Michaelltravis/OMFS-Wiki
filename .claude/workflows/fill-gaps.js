@@ -13,7 +13,7 @@ export const meta = {
 //     existingBlocks:[paths], uncovered:[{page, para, words, kind, first_words, ref}]}] }
 // — or the compact form { wiki, slug, rangesFile: "<absolute path to that json>" }, in which case a small Sonnet
 //   agent reads the file and returns its fields (kept tiny so launches and resumes stay cheap).
-// Optional: builderAddendum, judgeModel, filePrefix.
+// Optional: builderAddendum, judgeModel, filePrefix, orphanFiles (blocks an interrupted run wrote but never judged).
 const W = args.wiki
 const LOADED = { type:'object', properties:{
   slug:{type:'string'}, clientNames:{type:'array', items:{type:'string'}}, context:{type:'string'}, today:{type:'string'},
@@ -102,6 +102,28 @@ const perRange = await pipeline(cfg.ranges,
 const done = perRange.filter(Boolean)
 log(`Blocks: ${done.length}/${cfg.ranges.length} ranges; created ${done.reduce((n,d)=>n+d.created,0)}; skipped ${done.reduce((n,d)=>n+d.skipped,0)}; residual paraphrase failures: ${done.reduce((n,d)=>n+d.residual_fails.length,0)}`)
 
+// Blocks written by a writer whose result was lost (an interrupted run): judge them here instead of re-running
+// the writer, which would create duplicates. args.orphanFiles = [absolute block paths].
+let orphanFails = []
+const orphan = args.orphanFiles || []
+if (orphan.length) {
+  const chunks = []
+  for (let i = 0; i < orphan.length; i += 6) chunks.push(orphan.slice(i, i + 6))
+  const judgedChunks = await parallel(chunks.map((files, i) => async () => {
+    const r = { name: `orphaned blocks ${i + 1}` }
+    let judged = await agent(judgePrompt(r, files), {model:JUDGE_MODEL, effort:'medium', phase:'Prose judge', label:`judge ${r.name}`, schema:JUDGE})
+    let fails = (judged?.results||[]).filter(x => x.verdict==='paraphrase' || x.verdict==='missing-ref')
+    for (let round=0; round<2 && fails.length; round++) {
+      await agent(rewritePrompt(r, fails), {model:'opus', effort:'medium', phase:'Prose judge', label:`rewrite ${r.name} r${round+1}`, schema:REWRITE})
+      judged = await agent(judgePrompt(r, fails.map(f=>f.path)), {model:JUDGE_MODEL, effort:'medium', phase:'Prose judge', label:`rejudge ${r.name} r${round+1}`, schema:JUDGE})
+      fails = (judged?.results||[]).filter(x => x.verdict==='paraphrase' || x.verdict==='missing-ref')
+    }
+    return fails
+  }))
+  orphanFails = judgedChunks.flat()
+  log(`Orphaned blocks judged: ${orphan.length}; residual paraphrase failures: ${orphanFails.length}`)
+}
+
 phase('Finalize')
 const quoteFrags = done.map(d => d.quotes_fragment).filter(Boolean)
 const fin = await agent(`Finalize the content bank after a gap-fill run for source ${slug}. Run these in order from ${W} and capture outputs:
@@ -119,4 +141,4 @@ if (quoteFrags.length) {
   log(`Testimonials: ${testimonials?.summary||'-'}`)
 }
 
-return { slug, ranges: done, fin, testimonials }
+return { slug, ranges: done, orphan_fails: orphanFails, fin, testimonials }

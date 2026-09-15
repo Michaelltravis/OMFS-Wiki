@@ -25,7 +25,7 @@ last-verified: 2026-09-07
 section-id: fulton-county-2025:07
 section-order: 2
 section-path: Section 2 | Operations & Maintenance Plan › 2.3 | Understanding of and Commitment to Project Deliverables Including Facilities Plans
-doc-order: 10
+doc-order: 11
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM joint venture; multi-facility MBR operations under GA EPD oversight."
 quality: "Near-verbatim continuation of the plan-deliverables crosswalk, covering operational records, safety, public outreach, and staffing."
 reuse-notes: "Use with the companion annual-and-transition-plans table. Replace every due date and contract-page trace with the receiving RFP's requirements."

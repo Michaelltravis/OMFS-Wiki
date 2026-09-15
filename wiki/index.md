@@ -35,6 +35,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Biosolids Capability and Facility Assessment](technical-approach/fulton-biosolids-capability-and-facility-assessment.md) | prose | preferred | False | tech-approach | wwtp-om, solids, multi-facility, jv-delivery | Three WRFs / 28 wastewater and 5 potable-water pump stations | 6 | biosolids, wastewater-treatment, operations-management, regulatory-compliance, key-personnel, jv-structure |
 | [Biosolids Resilience, Emerging Contaminants, and Dryer Support](technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md) | prose | preferred | False | tech-approach | wwtp-om, solids, multi-facility, jv-delivery | Three WRFs / 28 wastewater and 5 potable-water pump stations | 3 | biosolids, emergency-response, regulatory-compliance, design-build, capital-planning, innovation, jv-structure |
 | [Biosolids Transfer, Beneficial Reuse, and Dewatering Optimization](technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md) | prose | preferred | False | tech-approach | wwtp-om, solids, multi-facility, jv-delivery | Three WRFs / 28 wastewater and 5 potable-water pump stations | 1 | biosolids, wastewater-treatment, process-optimization, capital-planning, value-added-services, jv-structure |
+| [Chemically Enhanced Primary Treatment — Metal Salt Selection and Jar Testing](technical-approach/fulton-chemically-enhanced-primary-treatment.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus 33 pump stations | — | chemical-management, process-optimization, membrane-treatment, wastewater-treatment, value-added-services, benefit-framing, no-cost-value-add |
 | [JV Communications Cadence, Reporting, and Dashboard Transparency](technical-approach/fulton-communications-cadence-and-reporting.md) | prose | fallback | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | 2 | performance-reporting, compliance-reporting, data-analytics, operations-management, partnership, transparency, jv-structure |
 | [JV Community Concerns, Complaint Response, and Regulatory Engagement](technical-approach/fulton-community-concerns-and-regulatory-engagement.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | — | community-engagement, odor-control, emergency-response, environmental-compliance, regulatory-compliance, performance-reporting, jv-structure |
 | [JV Community Outreach Team and Public Relations Framework](technical-approach/fulton-community-outreach-team-and-framework.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | 2 | community-engagement, local-presence, partnership, technical-approach, jv-structure |
@@ -45,10 +46,12 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [JV Customer Service Plan and Accountability](technical-approach/fulton-customer-service-plan.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | 1 | community-engagement, performance-reporting, operations-management, transparency, partnership, jv-structure |
 | [Deliverables Commitment: Annual, Transition, and Asset-Management Plans](technical-approach/fulton-deliverables-commitment-annual-and-transition-plans-table.md) | table | preferred | False | tech-approach, transition, compliance | wwtp-om, multi-facility, jv-delivery | Three water reclamation facilities and 33 pump stations | 9 | technical-approach, project-management, transition-management, asset-management, cmms, maintenance-program, financial-qualifications, table-layout, jv-structure |
 | [Deliverables Commitment: Records, Safety, Outreach, and Staffing Plans](technical-approach/fulton-deliverables-commitment-records-safety-and-staffing-table.md) | table | preferred | False | tech-approach, staffing, compliance | wwtp-om, multi-facility, jv-delivery | Three water reclamation facilities and 33 pump stations | 20 | technical-approach, maintenance-program, transition-management, inventory-management, safety-program, sampling-monitoring, staffing-model, training-certification, community-engagement, table-layout, jv-structure |
+| [Discounted Rate for Engineering Services Provided Under the O&M Contract](technical-approach/fulton-discounted-consulting-rate-value-add.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | 5 | value-added-services, no-cost-value-add, cost-savings, benefit-framing, proof-point, innovation, technical-approach, more-than-an-operator |
 | [Energy Management, Equipment Availability, and Ammonia-Based Aeration](technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities and associated pump stations | 2 | energy-management, preventive-maintenance, reliability-engineering, process-control, membrane-treatment, resilience-planning, jv-structure |
 | [Equipment Performance Testing Plan](technical-approach/fulton-equipment-performance-testing-plan.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | 1 | asset-management, maintenance-program, quality-assurance, reliability-engineering, membrane-treatment, wastewater-treatment, technical-approach, jv-structure |
 | [Facility Appearance Standard and MBR Maintenance Experience](technical-approach/fulton-facility-appearance-and-mbr-maintenance-experience.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | — | facility-management, maintenance-program, membrane-treatment, inventory-management, preventive-maintenance, technical-approach, jv-structure |
 | [MBR Facility Asset Inventory Pattern](technical-approach/fulton-facility-asset-inventory.md) | table | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR facilities / 28 wastewater and 5 potable-water pump stations | 3 | project-understanding, membrane-treatment, wastewater-treatment, lift-stations, biosolids, odor-control, asset-management, jv-structure |
+| [Fermentation Zone Operating Variables and Full-Scale Testing](technical-approach/fulton-fermentation-zone-operating-variables.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus 33 pump stations | — | process-optimization, process-control, process-modeling, chemical-management, wastewater-treatment, continuous-improvement |
 | [IMLR Piping Evaluation and Membrane Commissioning Support](technical-approach/fulton-imlr-piping-and-membrane-commissioning.md) | prose | preferred | False | tech-approach, transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities and associated pump stations | 1 | process-optimization, process-control, membrane-treatment, chemical-management, construction-support, cost-savings, jv-structure |
 | [ISO 55001-Aligned AMS, CMMS, and Risk Workshop](technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | 2 | asset-management, cmms, capital-planning, data-analytics, maintenance-program, reliability-engineering, technical-approach, jv-structure |
 | [Lifecycle Maintenance, Risk, and Performance Management](technical-approach/fulton-lifecycle-maintenance-risk-and-performance-management.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | 2 | asset-management, maintenance-program, predictive-maintenance, preventive-maintenance, reliability-engineering, performance-reporting, technical-approach, jv-structure |
@@ -61,6 +64,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Odor Control Baseline and Routine Monitoring](technical-approach/fulton-odor-control-baseline-and-monitoring.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | Three WRFs / 28 wastewater and 5 potable-water pump stations | 3 | odor-control, sampling-monitoring, operations-management, process-control, community-stewardship, jv-structure |
 | [Scrubber Optimization for Offsite Odor Control](technical-approach/fulton-odor-control-scrubber-optimization.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities and associated pump stations | 1 | odor-control, chemical-management, process-optimization, community-engagement, predictive-maintenance, jv-structure |
 | [Odor Emissions Study and Routine Housekeeping](technical-approach/fulton-odor-emissions-study-and-housekeeping.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | Three WRFs / 28 wastewater and 5 potable-water pump stations | 2 | odor-control, sampling-monitoring, process-modeling, facility-management, process-control, jv-structure |
+| [Proven Operations Plans Toolkit — UPCPs, Sampling Plan, and Sample Tracking Tool](technical-approach/fulton-operations-plans-toolkit-table.md) | table | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus 33 pump stations | — | process-control, sampling-monitoring, quality-assurance, operations-management, permit-compliance, table-layout, exhibit, transparency |
+| [Phos-Zorb Versus Alum — Aluminum, Alkalinity Credit, and Delivery Trade-Offs](technical-approach/fulton-phos-zorb-versus-alum-evaluation.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus 33 pump stations | — | chemical-management, process-optimization, procurement, wastewater-treatment, benefit-framing, partnership |
 | [Process Control, Data Management, and Operator Rounds](technical-approach/fulton-process-control-data-management-and-operator-rounds.md) | prose | fallback | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 1 | process-control, data-analytics, scada, sampling-monitoring, quality-assurance, preventive-maintenance, asset-management, jv-structure |
 | [Process Optimization, Fermentation, and Phosphorus Removal](technical-approach/fulton-process-optimization-fermentation-phosphorus.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 3 | process-optimization, process-control, membrane-treatment, chemical-management, energy-management, asset-management, jv-structure |
 | [Project Execution Through Integrated Management Systems](technical-approach/fulton-project-execution-management-systems.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three water reclamation facilities and 33 pump stations | 1 | technical-approach, operations-management, process-control, maintenance-program, asset-management, laboratory-services, safety-program, compliance-reporting, project-management, community-engagement, jv-structure |
@@ -68,6 +73,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Secure KPI Dashboard and Transparency Framework](technical-approach/fulton-secure-kpi-dashboard-and-transparency.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, jv-delivery | Three water reclamation facilities and 33 pump stations | 1 | technical-approach, digital-tools, data-analytics, scada, cybersecurity, performance-reporting, project-management, transparency, jv-structure |
 | [Successful Experience at Other Locations: Multi-Facility and MBR Operations](technical-approach/fulton-successful-experience-multi-facility-mbr.md) | prose | preferred | False | tech-approach, past-performance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities and pump stations | 3 | past-performance, multi-facility-operations, membrane-treatment, energy-management, chemical-management, capital-planning, project-understanding, jv-structure |
 | [Successful Experience at Other Locations: Transition, Asset Management, and Community Partnership](technical-approach/fulton-successful-experience-transition-asset-community.md) | prose | preferred | False | tech-approach, past-performance | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities and pump stations | 2 | past-performance, transition-management, asset-management, scada, community-engagement, workforce-development, multi-facility-operations, jv-structure |
+| [Swing-Zone Aeration Decisions and Nitrate Probe Placement](technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water reclamation facilities / 33 pump stations | — | process-optimization, process-control, instrumentation-controls, energy-management, permit-compliance, membrane-treatment |
 | [Swing Zones and Internal Mixed Liquor Recycle Optimization](technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations | — | process-optimization, process-control, membrane-treatment, energy-management, chemical-management, jv-structure |
 | [Transition Continuity and Staff Transfer](technical-approach/fulton-transition-continuity-and-staff-transfer.md) | prose | preferred | False | transition, staffing | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities and pump stations | 6 | transition-management, transition-plan, staffing-model, workforce-development, knowledge-transfer, jv-structure |
 | [Transition Schedule and Exit Transition Plan](technical-approach/fulton-transition-schedule-and-exit-plan.md) | table | preferred | False | transition, compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities and pump stations | 10 | transition-management, transition-plan, workforce-continuity, compliance-leadership, jv-structure |
@@ -320,20 +326,36 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | Title | block-type | status | house-favorite | rfp-section-type | pursuit-type | client-size | proof-point-ids | tags |
 |---|---|---|---|---|---|---|---|---|
 | [Blended On-Site/Off-Site Organizational Structure for O&M Contracts](management-staffing/blended-onsite-offsite-org-structure.md) | prose | preferred | False | staffing | wwtp-om, collections | 3.07 MGD / 42 mi collection system | 3 | org-chart, staffing-model, management-plan, regional-support, workforce-development, benefit-framing |
+| [45-Day Transition Commitment and Phased Approach](management-staffing/fulton-45-day-transition-confidence-and-phasing.md) | prose | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | 2 | transition-management, transition-plan, mobilization, staffing-model, knowledge-transfer, day-one-readiness, jv-structure |
+| [Blended Team Build — Transitioning Staff, Internal Resources, and Targeted Recruiting](management-staffing/fulton-blended-team-build-and-recruiting-backstop.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | three MBR WRFs + 33 pump stations | — | staffing-model, recruiting-retention, transition-management, succession-planning, workforce-continuity, staffing-plan, regional-support, local-presence |
 | [CERM-Led Workforce Development and Technical-College Pipeline](management-staffing/fulton-cerm-workforce-development-pipeline.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities and associated pump stations | 3 | workforce-development, knowledge-transfer, training-certification, recruiting-retention, community-engagement, jv-structure |
+| [Compensation Package and Employee Satisfaction after Transition](management-staffing/fulton-compensation-package-employee-satisfaction.md) | prose | preferred | False | transition | wwtp-om, mbr-membrane, multi-facility, jv-delivery | three MBR WRFs + 33 pump stations | — | recruiting-retention, transition-management, staffing-model, workforce-development, transition-plan, workforce-continuity |
 | [Internal Delivery and QA/QC Functional Support Matrix](management-staffing/fulton-delivery-qaqc-functional-support-matrix.md) | table | preferred | False | staffing, compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 3 | quality-assurance, process-control, maintenance-program, compliance-reporting, scada, asset-management, training-certification, jv-structure |
+| [Exit Transition Approach — Priorities Shaped by a Real Handback](management-staffing/fulton-exit-transition-approach-and-priorities.md) | prose | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | — | transition-management, transition-plan, knowledge-transfer, asset-management, quality-assurance, jv-structure |
+| [Exit Transition Plan — Asset Condition, Inventory, and Staffing Knowledge Transfer](management-staffing/fulton-exit-transition-asset-condition-and-staffing-knowledge-transfer.md) | prose | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | — | transition-management, asset-management, inventory-management, knowledge-transfer, staffing-model, transition-plan, workforce-continuity, training-certification |
+| [Exit Transition Lessons Learned and Digital Handover Support](management-staffing/fulton-exit-transition-lessons-learned-and-digital-support.md) | prose | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | — | transition-management, knowledge-transfer, digital-tools, asset-management, compliance-reporting, transition-plan, testimonial, training-certification |
 | [O&M Guiding Principles, Facilities Plans, and Networked QA/QC Support](management-staffing/fulton-guiding-principles-facilities-plans-and-qaqc-network.md) | prose | preferred | False | staffing, tech-approach, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 2 | operations-management, quality-assurance, regulatory-compliance, asset-management, performance-reporting, safety-program, workforce-development, jv-structure |
 | [Inclusive Culture and Employee-Network Development](management-staffing/fulton-inclusive-culture-and-employee-networks.md) | prose | fallback | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities and associated pump stations | 1 | workforce-development, recruiting-retention, knowledge-transfer, community-engagement, jv-structure |
+| [Refining Job Descriptions in the First Days of Transition](management-staffing/fulton-job-description-refinement-first-days.md) | prose | preferred | False | transition | wwtp-om, mbr-membrane, multi-facility, jv-delivery | three MBR WRFs + 33 pump stations | — | transition-management, staffing-model, recruiting-retention, workforce-development, transition-plan, knowledge-transfer |
 | [Jacobs Technical Bench and CERM-Led Local Workforce Development](management-staffing/fulton-jv-regional-workforce-and-technical-bench.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 3 | staffing-model, workforce-development, regional-support, local-presence, training-certification, jv-structure |
 | [Key Personnel Availability and Commitment Plan](management-staffing/fulton-key-personnel-availability-and-commitment.md) | roster | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 1 | key-personnel, staffing-model, workforce-development, membrane-treatment, transition-management, jv-structure |
+| [Leadership from JC Solutions Staff — Key Positions and Regional Backfill](management-staffing/fulton-key-positions-filled-by-jv-staff.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | three MBR WRFs + 33 pump stations | — | staffing-model, transition-management, key-personnel, regional-support, workforce-continuity, day-one-readiness, jv-structure, staffing-plan |
 | [Licensed and Certified Personnel Roster](management-staffing/fulton-licensed-personnel-roster.md) | roster | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations | — | staffing-model, key-personnel, training-certification, maintenance-program, membrane-treatment, scada, jv-structure |
+| [Long-Term Staffing and Succession Practices — Pipeline, Military Recruiting, and Incentives](management-staffing/fulton-long-term-staffing-and-succession-practices.md) | prose | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | 3 | recruiting-retention, succession-planning, workforce-development, training-certification, community-engagement, staffing-model, knowledge-transfer, jv-structure |
+| [Two-Week Day/Night Operator Shift Rotations at the Two Larger Plants](management-staffing/fulton-plant-operator-shift-rotations.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations / 61 FTE | 10 | staffing-model, operations-management, multi-facility-operations, wastewater-treatment, staffing-plan |
+| [Pre-Start and Initial Transition Phases — HR Groundwork and the Badge Flip](management-staffing/fulton-pre-start-and-initial-transition-phases.md) | prose | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | 2 | transition-management, transition-plan, mobilization, staffing-model, knowledge-transfer, workforce-continuity, day-one-readiness |
 | [Recruiting, Retention, and Succession Planning](management-staffing/fulton-recruiting-retention-and-succession.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities and associated pump stations | 2 | recruiting-retention, workforce-development, succession-planning, knowledge-transfer, jv-structure |
+| [Retaining Existing Staff, Named Key Positions, and Backfill Resources](management-staffing/fulton-retaining-existing-staff-and-backfill-resources.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, jv-delivery, mbr-membrane | Three MBR water reclamation facilities / 33 pump stations | — | staffing-model, workforce-continuity, key-personnel, recruiting-retention, staffing-plan, transition-management |
 | [Servant Leadership, Certification Advancement, and Regional Compatibility](management-staffing/fulton-servant-leadership-and-regional-compatibility.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 1 | staffing-model, workforce-development, training-certification, local-presence, regional-support, jv-structure |
+| [Six-Step Approach to Retaining Local Talent and Staffing the Contract](management-staffing/fulton-six-step-staff-retention-transition-process.md) | prose | preferred | False | transition | wwtp-om, mbr-membrane, multi-facility, jv-delivery | three MBR WRFs + 33 pump stations | — | transition-management, recruiting-retention, staffing-model, workforce-development, training-certification, mobilization, transition-plan, local-presence |
 | [Three-Facility Staffing Plan and FTE Roster](management-staffing/fulton-staffing-plan-and-fte-roster.md) | roster | preferred | False | staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities plus pump stations / 61 FTE | 5 | staffing-model, safety-program, maintenance-program, scada, multi-facility-operations, jv-structure |
 | [Subcontractor Scopes and Jacobs/CERM O&M Support Bench](management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md) | table | preferred | False | staffing | wwtp-om, multi-facility, solids, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 2 | staffing-model, procurement, workforce-development, odor-control, community-engagement, maintenance-program, regional-support, jv-structure |
 | [JC Solutions JV Team Organization and Key Personnel](management-staffing/fulton-team-organization-and-key-personnel.md) | roster | preferred | False | staffing, qualifications | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities and pump stations / 61 FTE | 9 | key-personnel, staffing-model, regional-support, jv-structure |
 | [Team Organization Subcontractors and Consulting Bench](management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md) | table | preferred | False | staffing, qualifications | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities and pump stations | — | procurement, regional-support, community-engagement, jv-structure |
+| [Train to Retain — Training and Development Programs for O&M Staff (Exhibit 2-48)](management-staffing/fulton-train-to-retain-development-programs-table.md) | table | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | 5 | training-certification, workforce-development, succession-planning, recruiting-retention, knowledge-transfer, maintenance-program, reliability-engineering, table-layout, exhibit |
 | [Training, Certification, and Career-Development Program](management-staffing/fulton-training-certification-and-career-development.md) | prose | preferred | False | staffing, compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities and associated pump stations | 6 | training-certification, workforce-development, knowledge-transfer, predictive-maintenance, regulatory-compliance, membrane-treatment, jv-structure |
+| [Transition Team Composition and Continued SME Support](management-staffing/fulton-transition-team-composition-and-continued-support.md) | prose | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | — | transition-management, transition-plan, key-personnel, knowledge-transfer, staffing-model, regional-support, jv-structure |
+| [Transition Training Period — Onboarding and Ongoing Training Curriculum](management-staffing/fulton-transition-training-period-onboarding-curriculum.md) | prose | preferred | False | transition | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 MBR WRFs / 33 pump stations | 1 | transition-management, training-certification, knowledge-transfer, laboratory-services, safety-program, sampling-monitoring, quality-assurance, workforce-development |
 | [Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)](management-staffing/key-personnel-role-descriptions.md) | prose | preferred | False | staffing | wwtp-om, collections | 3.07 MGD / 42 mi collection system | 11 | key-personnel, corporate-qualifications, org-chart, staffing-plan |
 | [O&M Apprenticeships and Local Union Partnership](management-staffing/mmsd-apprenticeships-and-local-union-partnership.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, solids | Two large water reclamation facilities + biosolids production | 2 | workforce-development, recruiting-retention, training-certification, succession-planning, local-presence, partnership, differentiator |
 | [Building the Labor Pipeline with Apprenticeships and Union Partnerships](management-staffing/mmsd-apprenticeships-and-union-labor-pipeline.md) | prose | preferred | False | staffing | wwtp-om, multi-facility, solids | 2 water reclamation facilities / 236-position minimum staffing plan / regional sewerage district | — | workforce-development, training-certification, community-engagement, recruiting-retention, local-presence, partnership, community-stewardship |
@@ -492,6 +514,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Energy Management Benefits and Strategic Value](win-themes/fulton-energy-management-benefits.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | Multi-facility wastewater system | — | energy-management, resilience-planning, sustainability, scada, benefit-framing, cost-savings, continuous-improvement, jv-structure |
 | [Energy Management Investment Value and Cost Savings](win-themes/fulton-energy-management-investment-value-and-savings.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | Three MBR wastewater facilities and associated pump stations | 5 | energy-management, cost-savings, benefit-framing, sustainability, resilience-planning, win-theme, jv-structure |
 | [Energy Management Strategy and Operating Actions](win-themes/fulton-energy-management-strategy.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | Three WRFs and 28 pump stations | — | energy-management, resilience-planning, scada, process-optimization, operations-management, sustainability, benefit-framing, cost-savings, jv-structure |
+| [Executive Summary — Exclusive Consulting Discount as Immediate Added Value](win-themes/fulton-exclusive-consulting-discount-value.md) | prose | preferred | False | exec-summary | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water reclamation facilities + 33 pump stations | — | executive-summary, value-added-services, cost-savings, partnership, transparency, innovation, benefit-framing, differentiator, more-than-an-operator |
+| [Intelligent O&M Toolset Included in the Base Fee at No Additional Cost](win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | Three MBR wastewater facilities and associated pump stations | 3 | digital-tools, cmms, maintenance-program, no-cost-value-add, value-added-services, benefit-framing, cost-savings, jv-structure |
 | [Interactive Community Education and Wellness Partnerships](win-themes/fulton-interactive-community-education-and-wellness-partnerships.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | — | community-engagement, sustainability, digital-tools, technical-approach, jv-structure |
 | [Maintenance AI Assistant Powered by Palantir](win-themes/fulton-maintenance-ai-assistant-palantir.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | Three MBR wastewater facilities and associated pump stations | 2 | maintenance-program, cmms, data-analytics, digital-tools, knowledge-transfer, asset-management, jv-structure |
 | [Maintenance Planner/Scheduler Powered by Palantir](win-themes/fulton-maintenance-planner-scheduler-palantir.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, jv-delivery | Three MBR wastewater facilities and associated pump stations | 2 | maintenance-program, cmms, data-analytics, preventive-maintenance, asset-management, digital-tools, no-cost-value-add, jv-structure |
@@ -501,7 +525,10 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [JV Regional Support, Training, and Maintenance Intelligence Benefits](win-themes/fulton-regional-training-maintenance-intelligence.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 28 pump stations | — | regional-support, training-certification, maintenance-program, cmms, data-analytics, membrane-treatment, benefit-framing, no-cost-value-add, jv-structure |
 | [Replica Digital Twin for Process Optimization and Operator Training](win-themes/fulton-replica-digital-twin-optimization-training.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR wastewater facilities and associated pump stations | 2 | process-modeling, process-optimization, digital-tools, training-certification, membrane-treatment, asset-management, no-cost-value-add, jv-structure |
 | [School STEM and Career Exploration Program](win-themes/fulton-school-stem-and-career-exploration-program.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 32 MGD MBR / 15 MGD MBR / 2.6 MGD / 33 pump stations | — | community-engagement, workforce-development, membrane-treatment, technical-approach, jv-structure |
+| [Stable Ownership and Enduring Commitment — O&M Is Our DNA, Not a Trend](win-themes/fulton-stable-ownership-enduring-commitment.md) | prose | preferred | False | exec-summary | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three MBR water-reclamation facilities + 33 pump stations | — | corporate-scale, trusted-partner, partnership, client-retention, differentiator, win-theme, executive-summary |
 | [JV Value-Added Innovation Program Opening](win-themes/fulton-value-added-innovation-program.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and associated pump stations | — | value-added-services, benefit-framing, partnership, innovation, continuous-improvement, no-cost-value-add, jv-structure |
+| [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md) | table | preferred | False | tech-approach | wwtp-om, collections, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 28 pump stations | — | value-added-services, table-layout, exhibit, proof-point, process-optimization, membrane-treatment, cybersecurity, asset-management, workforce-development, process-modeling, lift-stations, jv-structure |
+| [Value-Added Investments Exhibit, Part 1: Studies, Regional Support, Training, Energy, and Security](win-themes/fulton-value-added-investments-exhibit-studies-support.md) | table | preferred | False | tech-approach | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 28 pump stations | — | value-added-services, table-layout, exhibit, proof-point, odor-control, biosolids, energy-management, cybersecurity, training-certification, maintenance-program, no-cost-value-add, jv-structure |
 | [Local Workforce, Digital Twin, and Smart Collections Benefits](win-themes/fulton-workforce-digital-twin-collections-benefits.md) | prose | preferred | False | tech-approach | wwtp-om, collections, multi-facility, mbr-membrane, jv-delivery | Three WRFs and associated pump stations | — | workforce-development, training-certification, community-engagement, digital-tools, process-modeling, collection-systems, data-analytics, wet-weather, benefit-framing, jv-structure |
 | ["More Than an Operator" Innovation Section Opening](win-themes/innovation-more-than-an-operator-framing.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, solids, collections | >110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE | — | innovation, more-than-an-operator, value-added-services, opening-hook, benefit-framing, win-theme, continuous-improvement, cost-savings |
 | [Innovative Financing for Biosolids Management](win-themes/innovative-financing-for-biosolids-management.md) | prose | preferred | False | tech-approach | wwtp-om, multi-facility, solids | >110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE | 2 | biosolids, capital-planning, value-added-services, innovation, benefit-framing, partnership, cost-savings |
@@ -642,6 +669,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Compliance Monitoring, Data, Reporting, and Excursion Notification](compliance-plans/compliance-monitoring-data-and-reporting.md) | prose | preferred | False | compliance, tech-approach | wwtp-om, multi-facility, solids | 4 WWTPs + 1 major pump station / >110 MGD combined design capacity / 109 FTE | 3 | compliance-reporting, permit-compliance, data-analytics, digital-tools, performance-reporting, transparency, scada |
 | [Continuous Improvement, Baseline Compliance Audit, and Laboratory Compliance Tools](compliance-plans/continuous-improvement-compliance-assurance-and-tools.md) | prose | preferred | False | compliance, tech-approach, transition | wwtp-om, multi-facility, solids | 4 WWTPs + 1 major pump station / >110 MGD combined design capacity / 109 FTE | 3 | quality-assurance, regulatory-compliance, continuous-improvement, training-certification, digital-tools, compliance-reporting, transparency |
 | [Emergency Response and Storm Preparedness Program for Coastal Wastewater Systems](compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md) | prose | preferred | False | tech-approach, compliance | wwtp-om, collections, stormwater | 3.07 MGD / 42 mi / ~10k pop | 8 | emergency-response, wet-weather, resilience-planning, energy-management, coastal, collection-systems |
+| [Balanced Utility Security: Governance and Technology Components](compliance-plans/fulton-balanced-security-governance-and-technology.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water reclamation facilities + 33 pump stations | — | cybersecurity, safety-program, resilience-planning, training-certification, scada, jv-structure |
 | [BeyondZero Safety Culture, Work Controls, and Safety Scorecard](compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 4 | safety-program, training-certification, quality-assurance, digital-tools, jv-structure |
 | [Clovis Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-clovis-environmental-compliance-record.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | 5 | environmental-compliance, permit-compliance, compliance-reporting, proof-point, reference-projects, jv-structure |
 | [JV Compliance Training and Oversight Tools](compliance-plans/fulton-compliance-training-and-tools.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | — | regulatory-compliance, training-certification, sampling-monitoring, compliance-reporting, digital-tools, quality-assurance, jv-structure |
@@ -653,8 +681,11 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Laboratory QA/QC and Compliance Dashboard](compliance-plans/fulton-laboratory-qaqc-and-compliance-dashboard.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | 1 | laboratory-services, quality-assurance, compliance-reporting, sampling-monitoring, data-analytics, digital-tools, jv-structure |
 | [JV Regulatory Compliance Program and Transparent Reporting](compliance-plans/fulton-regulatory-compliance-program.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | — | regulatory-compliance, environmental-compliance, compliance-reporting, quality-assurance, transparency, partnership, jv-structure |
 | [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | 4 | regulatory-compliance, compliance-reporting, quality-assurance, project-management, resilience-planning, digital-tools, jv-structure |
+| [Safety Leadership Engagement, Accountability, and Proactive Safety Management](compliance-plans/fulton-safety-leadership-engagement-and-proactive-record.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus 33 pump stations | — | safety-program, key-personnel, digital-tools, training-certification, proof-point, jv-structure |
+| [Key Elements of the Safety Program and Planning (Exhibit 2-41)](compliance-plans/fulton-safety-program-key-elements-table.md) | table | preferred | False | compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus 33 pump stations | — | safety-program, table-layout, quality-assurance, procurement, exhibit, jv-structure |
 | [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | — | sampling-monitoring, laboratory-services, data-analytics, compliance-reporting, quality-assurance, training-certification, jv-structure |
 | [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus pump stations | 3 | cybersecurity, resilience-planning, regulatory-compliance, safety-program, scada, jv-structure |
+| [Security Plan Components: Access Control, Incident Reporting, and Information Protection](compliance-plans/fulton-security-plan-components-access-control-and-incident-reporting.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, jv-delivery | Three MBR water reclamation facilities + 33 pump stations | — | cybersecurity, safety-program, regulatory-compliance, scada, emergency-response, jv-structure |
 | [Spokane County Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-spokane-environmental-compliance-record.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | 7 | environmental-compliance, permit-compliance, compliance-reporting, proof-point, reference-projects, jv-structure |
 | [Traverse City Environmental Compliance Record — Five-Year Reference Disclosure](compliance-plans/fulton-traverse-city-environmental-compliance-record.md) | prose | preferred | False | compliance | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three WRFs and 33 pump stations | 2 | environmental-compliance, permit-compliance, compliance-reporting, proof-point, reference-projects, jv-structure |
 | [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md) | prose | preferred | True | qualifications, compliance | wwtp-om, collections, multi-facility | 3.07 MGD / 42 mi / ~10k pop | 15 | safety-program, permit-compliance, environmental-compliance |
@@ -754,6 +785,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Resume — Benjamin Bagwell (Senior Strategic Supervisor)](resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md) | prose | preferred | False | resume | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three water reclamation facilities / 32 MGD and 15 MGD MBR facilities plus 2.6 MGD facility / 33 pump stations | 1 | resume-bio, key-personnel, wastewater-treatment, operations-management, membrane-treatment, jv-structure |
 | [Resume — Mark Huggard, CMRT (Big Creek Plant Manager)](resumes/fulton-mark-huggard-big-creek-plant-manager.md) | prose | preferred | False | resume | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three water reclamation facilities / 32 MGD and 15 MGD MBR facilities plus 2.6 MGD facility / 33 pump stations | 1 | resume-bio, key-personnel, wastewater-treatment, operations-management, reliability-engineering, membrane-treatment, jv-structure |
 | [Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)](resumes/fulton-nathan-callison-johns-creek-plant-manager.md) | prose | fallback | False | resume | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three water reclamation facilities / 32 MGD and 15 MGD MBR facilities plus 2.6 MGD facility / 33 pump stations | 2 | resume-bio, key-personnel, wastewater-treatment, operations-management, reliability-engineering, membrane-treatment, jv-structure |
+| [JC Solutions Proposed Team Organization Roster (Exhibit 3-1)](resumes/fulton-proposed-team-organization-roster.md) | roster | preferred | False | resume | wwtp-om, multi-facility, mbr-membrane, jv-delivery | three MBR WRFs + 33 pump stations | — | staffing-model, key-personnel, org-chart, staffing-plan, project-management, jv-structure, regional-support, maintenance-program, table-layout |
 | [Resume — Tim Durham (Senior Supervisor | Operations Management Director)](resumes/fulton-tim-durham-senior-supervisor.md) | prose | preferred | False | resume | wwtp-om, multi-facility, mbr-membrane, jv-delivery | Three water reclamation facilities / 32 MGD and 15 MGD MBR facilities plus 2.6 MGD facility / 33 pump stations | 1 | resume-bio, key-personnel, wastewater-treatment, water-treatment, operations-management, asset-management, jv-structure |
 | [Howard Brewen - Director of Operations (WW Grade V)](resumes/howard-brewen.md) | prose | preferred | False | resume | wwtp-om, water-treatment, reuse-dpr, multi-facility | Advanced water treatment facility (AWTF) for groundwater replenishment; municipal potable-reuse program | 29 | key-personnel, training-certification, california, water-reuse, capital-planning, transition-management, energy-management, workforce-development |
 | [Jason Holst - Operator (T3, AWT3)](resumes/jason-holst.md) | prose | preferred | False | resume | water-treatment, reuse-dpr, multi-facility | Advanced water treatment facility (AWTF) for groundwater replenishment; municipal potable-reuse program | 15 | key-personnel, water-treatment, scada, laboratory-services, desalination, california, multi-facility-operations |
@@ -813,6 +845,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Exhibit 4-1 — Jacobs MBR Experience Highlights: Additional Experience](past-performance/fulton-mbr-experience-highlights-additional-table.md) | table | preferred | False | past-performance | wwtp-om, mbr-membrane, multi-facility | 19 additional MBR facilities; annual-average flows from 1.0 to 52.8 MGD | — | past-performance, membrane-treatment, wastewater-treatment, reference-projects, exhibit, table-layout |
 | [Exhibit 4-1 — Jacobs MBR Experience Highlights: Operations Experience](past-performance/fulton-mbr-experience-highlights-operations-table.md) | table | preferred | False | past-performance | wwtp-om, mbr-membrane, multi-facility | 8 operating MBR facilities; annual-average flows from <0.1 to 8.0 MGD | — | past-performance, membrane-treatment, wastewater-treatment, reference-projects, exhibit, table-layout |
 | [MBR Operations, Engineering Depth, and Named SME Experience](past-performance/fulton-mbr-operations-engineering-and-sme-experience.md) | prose | preferred | False | past-performance | wwtp-om, mbr-membrane, multi-facility | MBR operations portfolio plus Atlanta design center with more than 250 Georgia water staff | 3 | past-performance, membrane-treatment, wastewater-treatment, design-build, regional-support, key-personnel |
+| [Pump Station Fleet Scale and Station-Specific Maintenance](past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md) | prose | preferred | False | past-performance | collections, wwtp-om, multi-facility | National portfolio: 700+ lift stations at 75 plants, 2,490 pumps | 4 | lift-stations, collection-systems, past-performance, maintenance-program, multi-facility-operations, corporate-scale, proof-point |
 | [Jacobs Collection System Pump Station Experience](past-performance/fulton-pump-station-operations-experience.md) | prose | preferred | False | past-performance | collections, wwtp-om, multi-facility | National pump-station O&M portfolio for cities, counties, service jurisdictions, and industrial facilities | — | past-performance, lift-stations, collection-systems, asset-management, preventive-maintenance, sustainability |
 | [Spokane County Regional Water Reclamation Facility DBO — Reference Overview](past-performance/fulton-spokane-county-dbo-overview.md) | prose | preferred | False | past-performance | wwtp-om, mbr-membrane, design-build, reuse-dpr, solids | 8.5 MGD / expandable to 24 MGD | 3 | past-performance, reference-projects, project-description, design-build, membrane-treatment, biosolids, energy-management, regulatory-compliance, proof-point |
 | [Spokane County Regional Water Reclamation Facility DBO — Delivery and Performance](past-performance/fulton-spokane-county-dbo-performance.md) | prose | preferred | False | past-performance | wwtp-om, mbr-membrane, design-build, reuse-dpr | 8.5 MGD / 24 MGD expandable | 1 | past-performance, reference-projects, project-description, design-build, membrane-treatment, energy-management, regulatory-compliance, staffing-model, safety-program, testimonial |
@@ -844,15 +877,20 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 ### compliance
 
 - [Biosolids Hauling, Disposal, and Regional Market-Risk Management](technical-approach/biosolids-hauling-disposal-and-market-risk-management.md)
+- [Chemically Enhanced Primary Treatment — Metal Salt Selection and Jar Testing](technical-approach/fulton-chemically-enhanced-primary-treatment.md)
 - [Compliance Accountability, Jacobs Reach-Back, and CERM Workforce Development](technical-approach/fulton-compliance-workforce-reachback.md)
 - [Deliverables Commitment: Annual, Transition, and Asset-Management Plans](technical-approach/fulton-deliverables-commitment-annual-and-transition-plans-table.md)
 - [Deliverables Commitment: Records, Safety, Outreach, and Staffing Plans](technical-approach/fulton-deliverables-commitment-records-safety-and-staffing-table.md)
 - [Energy Management, Equipment Availability, and Ammonia-Based Aeration](technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md)
+- [Fermentation Zone Operating Variables and Full-Scale Testing](technical-approach/fulton-fermentation-zone-operating-variables.md)
 - [Membrane Cleaning, Alkalinity Addition, and Mixed-Liquor Filterability](technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md)
 - [Membrane Monitoring, SCADA Capability, and Peak-Flow Testing](technical-approach/fulton-membrane-monitoring-and-scada-capability.md)
 - [Scrubber Optimization for Offsite Odor Control](technical-approach/fulton-odor-control-scrubber-optimization.md)
+- [Proven Operations Plans Toolkit — UPCPs, Sampling Plan, and Sample Tracking Tool](technical-approach/fulton-operations-plans-toolkit-table.md)
+- [Phos-Zorb Versus Alum — Aluminum, Alkalinity Credit, and Delivery Trade-Offs](technical-approach/fulton-phos-zorb-versus-alum-evaluation.md)
 - [Project Execution Through Integrated Management Systems](technical-approach/fulton-project-execution-management-systems.md)
 - [Secure KPI Dashboard and Transparency Framework](technical-approach/fulton-secure-kpi-dashboard-and-transparency.md)
+- [Swing-Zone Aeration Decisions and Nitrate Probe Placement](technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md)
 - [Transition Schedule and Exit Transition Plan](technical-approach/fulton-transition-schedule-and-exit-plan.md)
 - [UV Disinfection, Solids Dewatering, and Potable-Water Protection](technical-approach/fulton-uv-solids-and-potable-water-protection.md)
 - [Commitment to Zero Excursions and Compliance Governance](technical-approach/mmsd-commitment-to-zero-excursions.md)
@@ -893,6 +931,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Compliance Monitoring, Data, Reporting, and Excursion Notification](compliance-plans/compliance-monitoring-data-and-reporting.md)
 - [Continuous Improvement, Baseline Compliance Audit, and Laboratory Compliance Tools](compliance-plans/continuous-improvement-compliance-assurance-and-tools.md)
 - [Emergency Response and Storm Preparedness Program for Coastal Wastewater Systems](compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md)
+- [Balanced Utility Security: Governance and Technology Components](compliance-plans/fulton-balanced-security-governance-and-technology.md)
 - [BeyondZero Safety Culture, Work Controls, and Safety Scorecard](compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md)
 - [Clovis Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-clovis-environmental-compliance-record.md)
 - [JV Compliance Training and Oversight Tools](compliance-plans/fulton-compliance-training-and-tools.md)
@@ -904,8 +943,11 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Laboratory QA/QC and Compliance Dashboard](compliance-plans/fulton-laboratory-qaqc-and-compliance-dashboard.md)
 - [JV Regulatory Compliance Program and Transparent Reporting](compliance-plans/fulton-regulatory-compliance-program.md)
 - [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md)
+- [Safety Leadership Engagement, Accountability, and Proactive Safety Management](compliance-plans/fulton-safety-leadership-engagement-and-proactive-record.md)
+- [Key Elements of the Safety Program and Planning (Exhibit 2-41)](compliance-plans/fulton-safety-program-key-elements-table.md)
 - [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md)
 - [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md)
+- [Security Plan Components: Access Control, Incident Reporting, and Information Protection](compliance-plans/fulton-security-plan-components-access-control-and-incident-reporting.md)
 - [Spokane County Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-spokane-environmental-compliance-record.md)
 - [Traverse City Environmental Compliance Record — Five-Year Reference Disclosure](compliance-plans/fulton-traverse-city-environmental-compliance-record.md)
 - [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md)
@@ -1056,6 +1098,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Executive Summary Required Plan — Sludge Management Plan, Generation Through Disposal](win-themes/exec-summary-sludge-management-plan-commitment.md)
 - [Executive Summary Required Plan — Solids Management Plan as One Coordinated System](win-themes/exec-summary-solids-management-plan-commitment.md)
 - [Executive Summary Technical Approach — Five Pillars from Compliance to Performance Transparency](win-themes/exec-summary-technical-approach-pillars.md)
+- [Executive Summary — Exclusive Consulting Discount as Immediate Added Value](win-themes/fulton-exclusive-consulting-discount-value.md)
+- [Stable Ownership and Enduring Commitment — O&M Is Our DNA, Not a Trend](win-themes/fulton-stable-ownership-enduring-commitment.md)
 - [Leadership Team Introduction and "Extension of Client Staff" Coordinated-Operations Narrative](win-themes/leadership-team-and-coordinated-operations-narrative.md)
 - [Above and Beyond — Value-Added Investments and Savings Included in the Base Fee](win-themes/mmsd-exec-summary-above-and-beyond-investments-and-savings.md)
 - [Biosolids Product Continuity, Brand Protection, and Proactive Odor Control](win-themes/mmsd-exec-summary-biosolids-continuity-and-odor-control.md)
@@ -1158,6 +1202,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Exhibit 4-1 — Jacobs MBR Experience Highlights: Additional Experience](past-performance/fulton-mbr-experience-highlights-additional-table.md)
 - [Exhibit 4-1 — Jacobs MBR Experience Highlights: Operations Experience](past-performance/fulton-mbr-experience-highlights-operations-table.md)
 - [MBR Operations, Engineering Depth, and Named SME Experience](past-performance/fulton-mbr-operations-engineering-and-sme-experience.md)
+- [Pump Station Fleet Scale and Station-Specific Maintenance](past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md)
 - [Jacobs Collection System Pump Station Experience](past-performance/fulton-pump-station-operations-experience.md)
 - [Spokane County Regional Water Reclamation Facility DBO — Reference Overview](past-performance/fulton-spokane-county-dbo-overview.md)
 - [Spokane County Regional Water Reclamation Facility DBO — Delivery and Performance](past-performance/fulton-spokane-county-dbo-performance.md)
@@ -1272,6 +1317,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Resume — Benjamin Bagwell (Senior Strategic Supervisor)](resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md)
 - [Resume — Mark Huggard, CMRT (Big Creek Plant Manager)](resumes/fulton-mark-huggard-big-creek-plant-manager.md)
 - [Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)](resumes/fulton-nathan-callison-johns-creek-plant-manager.md)
+- [JC Solutions Proposed Team Organization Roster (Exhibit 3-1)](resumes/fulton-proposed-team-organization-roster.md)
 - [Resume — Tim Durham (Senior Supervisor | Operations Management Director)](resumes/fulton-tim-durham-senior-supervisor.md)
 - [Howard Brewen - Director of Operations (WW Grade V)](resumes/howard-brewen.md)
 - [Jason Holst - Operator (T3, AWT3)](resumes/jason-holst.md)
@@ -1352,14 +1398,18 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [On-Call Rotation and Emergency Maintenance Response](technical-approach/on-call-and-emergency-maintenance-response.md)
 - [Regional Maintenance Team Capability — Proof-Point Case Studies](technical-approach/swip-regional-maintenance-team-capability-proof-points.md)
 - [Blended On-Site/Off-Site Organizational Structure for O&M Contracts](management-staffing/blended-onsite-offsite-org-structure.md)
+- [Blended Team Build — Transitioning Staff, Internal Resources, and Targeted Recruiting](management-staffing/fulton-blended-team-build-and-recruiting-backstop.md)
 - [CERM-Led Workforce Development and Technical-College Pipeline](management-staffing/fulton-cerm-workforce-development-pipeline.md)
 - [Internal Delivery and QA/QC Functional Support Matrix](management-staffing/fulton-delivery-qaqc-functional-support-matrix.md)
 - [O&M Guiding Principles, Facilities Plans, and Networked QA/QC Support](management-staffing/fulton-guiding-principles-facilities-plans-and-qaqc-network.md)
 - [Inclusive Culture and Employee-Network Development](management-staffing/fulton-inclusive-culture-and-employee-networks.md)
 - [Jacobs Technical Bench and CERM-Led Local Workforce Development](management-staffing/fulton-jv-regional-workforce-and-technical-bench.md)
 - [Key Personnel Availability and Commitment Plan](management-staffing/fulton-key-personnel-availability-and-commitment.md)
+- [Leadership from JC Solutions Staff — Key Positions and Regional Backfill](management-staffing/fulton-key-positions-filled-by-jv-staff.md)
 - [Licensed and Certified Personnel Roster](management-staffing/fulton-licensed-personnel-roster.md)
+- [Two-Week Day/Night Operator Shift Rotations at the Two Larger Plants](management-staffing/fulton-plant-operator-shift-rotations.md)
 - [Recruiting, Retention, and Succession Planning](management-staffing/fulton-recruiting-retention-and-succession.md)
+- [Retaining Existing Staff, Named Key Positions, and Backfill Resources](management-staffing/fulton-retaining-existing-staff-and-backfill-resources.md)
 - [Servant Leadership, Certification Advancement, and Regional Compatibility](management-staffing/fulton-servant-leadership-and-regional-compatibility.md)
 - [Three-Facility Staffing Plan and FTE Roster](management-staffing/fulton-staffing-plan-and-fte-roster.md)
 - [Subcontractor Scopes and Jacobs/CERM O&M Support Bench](management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md)
@@ -1530,6 +1580,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Biosolids Capability and Facility Assessment](technical-approach/fulton-biosolids-capability-and-facility-assessment.md)
 - [Biosolids Resilience, Emerging Contaminants, and Dryer Support](technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md)
 - [Biosolids Transfer, Beneficial Reuse, and Dewatering Optimization](technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md)
+- [Chemically Enhanced Primary Treatment — Metal Salt Selection and Jar Testing](technical-approach/fulton-chemically-enhanced-primary-treatment.md)
 - [JV Communications Cadence, Reporting, and Dashboard Transparency](technical-approach/fulton-communications-cadence-and-reporting.md)
 - [JV Community Concerns, Complaint Response, and Regulatory Engagement](technical-approach/fulton-community-concerns-and-regulatory-engagement.md)
 - [JV Community Outreach Team and Public Relations Framework](technical-approach/fulton-community-outreach-team-and-framework.md)
@@ -1540,10 +1591,12 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [JV Customer Service Plan and Accountability](technical-approach/fulton-customer-service-plan.md)
 - [Deliverables Commitment: Annual, Transition, and Asset-Management Plans](technical-approach/fulton-deliverables-commitment-annual-and-transition-plans-table.md)
 - [Deliverables Commitment: Records, Safety, Outreach, and Staffing Plans](technical-approach/fulton-deliverables-commitment-records-safety-and-staffing-table.md)
+- [Discounted Rate for Engineering Services Provided Under the O&M Contract](technical-approach/fulton-discounted-consulting-rate-value-add.md)
 - [Energy Management, Equipment Availability, and Ammonia-Based Aeration](technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md)
 - [Equipment Performance Testing Plan](technical-approach/fulton-equipment-performance-testing-plan.md)
 - [Facility Appearance Standard and MBR Maintenance Experience](technical-approach/fulton-facility-appearance-and-mbr-maintenance-experience.md)
 - [MBR Facility Asset Inventory Pattern](technical-approach/fulton-facility-asset-inventory.md)
+- [Fermentation Zone Operating Variables and Full-Scale Testing](technical-approach/fulton-fermentation-zone-operating-variables.md)
 - [IMLR Piping Evaluation and Membrane Commissioning Support](technical-approach/fulton-imlr-piping-and-membrane-commissioning.md)
 - [ISO 55001-Aligned AMS, CMMS, and Risk Workshop](technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md)
 - [Lifecycle Maintenance, Risk, and Performance Management](technical-approach/fulton-lifecycle-maintenance-risk-and-performance-management.md)
@@ -1556,6 +1609,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Odor Control Baseline and Routine Monitoring](technical-approach/fulton-odor-control-baseline-and-monitoring.md)
 - [Scrubber Optimization for Offsite Odor Control](technical-approach/fulton-odor-control-scrubber-optimization.md)
 - [Odor Emissions Study and Routine Housekeeping](technical-approach/fulton-odor-emissions-study-and-housekeeping.md)
+- [Proven Operations Plans Toolkit — UPCPs, Sampling Plan, and Sample Tracking Tool](technical-approach/fulton-operations-plans-toolkit-table.md)
+- [Phos-Zorb Versus Alum — Aluminum, Alkalinity Credit, and Delivery Trade-Offs](technical-approach/fulton-phos-zorb-versus-alum-evaluation.md)
 - [Process Control, Data Management, and Operator Rounds](technical-approach/fulton-process-control-data-management-and-operator-rounds.md)
 - [Process Optimization, Fermentation, and Phosphorus Removal](technical-approach/fulton-process-optimization-fermentation-phosphorus.md)
 - [Project Execution Through Integrated Management Systems](technical-approach/fulton-project-execution-management-systems.md)
@@ -1563,6 +1618,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Secure KPI Dashboard and Transparency Framework](technical-approach/fulton-secure-kpi-dashboard-and-transparency.md)
 - [Successful Experience at Other Locations: Multi-Facility and MBR Operations](technical-approach/fulton-successful-experience-multi-facility-mbr.md)
 - [Successful Experience at Other Locations: Transition, Asset Management, and Community Partnership](technical-approach/fulton-successful-experience-transition-asset-community.md)
+- [Swing-Zone Aeration Decisions and Nitrate Probe Placement](technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md)
 - [Swing Zones and Internal Mixed Liquor Recycle Optimization](technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md)
 - [Transparent Partnership, Community Stewardship, and Facility Appearance](technical-approach/fulton-transparent-community-partnership.md)
 - [Trusted-Partner Experience and Comprehensive SME Support](technical-approach/fulton-trusted-partner-and-comprehensive-sme-support.md)
@@ -1812,6 +1868,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Energy Management Benefits and Strategic Value](win-themes/fulton-energy-management-benefits.md)
 - [Energy Management Investment Value and Cost Savings](win-themes/fulton-energy-management-investment-value-and-savings.md)
 - [Energy Management Strategy and Operating Actions](win-themes/fulton-energy-management-strategy.md)
+- [Intelligent O&M Toolset Included in the Base Fee at No Additional Cost](win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md)
 - [Interactive Community Education and Wellness Partnerships](win-themes/fulton-interactive-community-education-and-wellness-partnerships.md)
 - [Maintenance AI Assistant Powered by Palantir](win-themes/fulton-maintenance-ai-assistant-palantir.md)
 - [Maintenance Planner/Scheduler Powered by Palantir](win-themes/fulton-maintenance-planner-scheduler-palantir.md)
@@ -1822,6 +1879,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Replica Digital Twin for Process Optimization and Operator Training](win-themes/fulton-replica-digital-twin-optimization-training.md)
 - [School STEM and Career Exploration Program](win-themes/fulton-school-stem-and-career-exploration-program.md)
 - [JV Value-Added Innovation Program Opening](win-themes/fulton-value-added-innovation-program.md)
+- [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md)
+- [Value-Added Investments Exhibit, Part 1: Studies, Regional Support, Training, Energy, and Security](win-themes/fulton-value-added-investments-exhibit-studies-support.md)
 - [Local Workforce, Digital Twin, and Smart Collections Benefits](win-themes/fulton-workforce-digital-twin-collections-benefits.md)
 - ["More Than an Operator" Innovation Section Opening](win-themes/innovation-more-than-an-operator-framing.md)
 - [Innovative Financing for Biosolids Management](win-themes/innovative-financing-for-biosolids-management.md)
@@ -1926,6 +1985,18 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Communications and Reporting Plan — Structure, Cadence, and Deliverables](technical-approach/swip-communications-and-reporting-plan.md)
 - [Proactive Inventory Management Program (CMMS-Integrated, ISO 55001-Aligned)](technical-approach/swip-inventory-management-asset-tracking.md)
 - [Tiered Communication and Reporting Protocol (Day-to-Day through Annual)](technical-approach/tiered-communication-reporting-protocol.md)
+- [45-Day Transition Commitment and Phased Approach](management-staffing/fulton-45-day-transition-confidence-and-phasing.md)
+- [Compensation Package and Employee Satisfaction after Transition](management-staffing/fulton-compensation-package-employee-satisfaction.md)
+- [Exit Transition Approach — Priorities Shaped by a Real Handback](management-staffing/fulton-exit-transition-approach-and-priorities.md)
+- [Exit Transition Plan — Asset Condition, Inventory, and Staffing Knowledge Transfer](management-staffing/fulton-exit-transition-asset-condition-and-staffing-knowledge-transfer.md)
+- [Exit Transition Lessons Learned and Digital Handover Support](management-staffing/fulton-exit-transition-lessons-learned-and-digital-support.md)
+- [Refining Job Descriptions in the First Days of Transition](management-staffing/fulton-job-description-refinement-first-days.md)
+- [Long-Term Staffing and Succession Practices — Pipeline, Military Recruiting, and Incentives](management-staffing/fulton-long-term-staffing-and-succession-practices.md)
+- [Pre-Start and Initial Transition Phases — HR Groundwork and the Badge Flip](management-staffing/fulton-pre-start-and-initial-transition-phases.md)
+- [Six-Step Approach to Retaining Local Talent and Staffing the Contract](management-staffing/fulton-six-step-staff-retention-transition-process.md)
+- [Train to Retain — Training and Development Programs for O&M Staff (Exhibit 2-48)](management-staffing/fulton-train-to-retain-development-programs-table.md)
+- [Transition Team Composition and Continued SME Support](management-staffing/fulton-transition-team-composition-and-continued-support.md)
+- [Transition Training Period — Onboarding and Ongoing Training Curriculum](management-staffing/fulton-transition-training-period-onboarding-curriculum.md)
 - [Comprehensive Transition Support — Specialist Team Working Side-by-Side with Client Staff](management-staffing/mmsd-comprehensive-transition-support.md)
 - [Employee Satisfaction After Transition and the Six-Step Workforce Transition Process](management-staffing/mmsd-employee-satisfaction-and-six-step-transition-process.md)
 - [High-Level Transition Schedule (Exhibit IV-58)](management-staffing/mmsd-high-level-transition-schedule-table.md)
@@ -1997,6 +2068,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Biosolids Capability and Facility Assessment](technical-approach/fulton-biosolids-capability-and-facility-assessment.md)
 - [Biosolids Resilience, Emerging Contaminants, and Dryer Support](technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md)
 - [Biosolids Transfer, Beneficial Reuse, and Dewatering Optimization](technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md)
+- [Chemically Enhanced Primary Treatment — Metal Salt Selection and Jar Testing](technical-approach/fulton-chemically-enhanced-primary-treatment.md)
 - [Comprehensive O&M Approach and Transition Commitments](technical-approach/fulton-comprehensive-om-approach-and-transition.md)
 - [Current and Future MBR Challenges with Coordinated Commissioning Need](technical-approach/fulton-current-future-challenges-and-commissioning.md)
 - [Deliverables Commitment: Annual, Transition, and Asset-Management Plans](technical-approach/fulton-deliverables-commitment-annual-and-transition-plans-table.md)
@@ -2012,12 +2084,14 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [MBR Optimization, Predictive Maintenance, Odor, Biosolids, and Purposeful Innovation](technical-approach/fulton-mbr-maintenance-odor-biosolids-innovation.md)
 - [Membrane Cleaning, Alkalinity Addition, and Mixed-Liquor Filterability](technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md)
 - [Membrane Monitoring, SCADA Capability, and Peak-Flow Testing](technical-approach/fulton-membrane-monitoring-and-scada-capability.md)
+- [Proven Operations Plans Toolkit — UPCPs, Sampling Plan, and Sample Tracking Tool](technical-approach/fulton-operations-plans-toolkit-table.md)
 - [Process Control, Data Management, and Operator Rounds](technical-approach/fulton-process-control-data-management-and-operator-rounds.md)
 - [Process Optimization, Fermentation, and Phosphorus Removal](technical-approach/fulton-process-optimization-fermentation-phosphorus.md)
 - [Project Execution Through Integrated Management Systems](technical-approach/fulton-project-execution-management-systems.md)
 - [Pump Station Predictive Maintenance and Condition Monitoring](technical-approach/fulton-pump-station-predictive-maintenance.md)
 - [Successful Experience at Other Locations: Multi-Facility and MBR Operations](technical-approach/fulton-successful-experience-multi-facility-mbr.md)
 - [Successful Experience at Other Locations: Transition, Asset Management, and Community Partnership](technical-approach/fulton-successful-experience-transition-asset-community.md)
+- [Swing-Zone Aeration Decisions and Nitrate Probe Placement](technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md)
 - [Swing Zones and Internal Mixed Liquor Recycle Optimization](technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md)
 - [Trusted-Partner Experience and Comprehensive SME Support](technical-approach/fulton-trusted-partner-and-comprehensive-sme-support.md)
 - [UV Disinfection, Solids Dewatering, and Potable-Water Protection](technical-approach/fulton-uv-solids-and-potable-water-protection.md)
@@ -2154,6 +2228,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [WATS Collection-System Odor and Corrosion Modeling Approach](technical-approach/wats-collection-system-odor-corrosion-modeling.md)
 - [Lifecycle Delivery and the Work Order Lifecycle Process (Exhibit 1-31)](technical-approach/work-order-lifecycle-process.md)
 - [Internal Delivery and QA/QC Functional Support Matrix](management-staffing/fulton-delivery-qaqc-functional-support-matrix.md)
+- [Exit Transition Approach — Priorities Shaped by a Real Handback](management-staffing/fulton-exit-transition-approach-and-priorities.md)
+- [Exit Transition Plan — Asset Condition, Inventory, and Staffing Knowledge Transfer](management-staffing/fulton-exit-transition-asset-condition-and-staffing-knowledge-transfer.md)
 - [O&M Guiding Principles, Facilities Plans, and Networked QA/QC Support](management-staffing/fulton-guiding-principles-facilities-plans-and-qaqc-network.md)
 - [Integrated Asset Management and Maintenance Support Bench (Exhibit II-9)](management-staffing/mmsd-integrated-asset-management-and-maintenance-support.md)
 - [Leadership Team Organization Chart — Named Roles and Role Benefit Statements](management-staffing/mmsd-leadership-team-org-chart-roles.md)
@@ -2196,9 +2272,12 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Executive Summary Technical Approach — Five Pillars from Compliance to Performance Transparency](win-themes/exec-summary-technical-approach-pillars.md)
 - [Exhibit — "A Trusted Partnership Built Over Two Decades" Relationship Timeline](win-themes/exhibit-trusted-partnership-relationship-timeline.md)
 - [AquaDNA Smart System Optimization and Pump-Station Deragging](win-themes/fulton-aquadna-smart-system-optimization.md)
+- [Intelligent O&M Toolset Included in the Base Fee at No Additional Cost](win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md)
 - [Maintenance AI Assistant Powered by Palantir](win-themes/fulton-maintenance-ai-assistant-palantir.md)
 - [Maintenance Planner/Scheduler Powered by Palantir](win-themes/fulton-maintenance-planner-scheduler-palantir.md)
 - [Replica Digital Twin for Process Optimization and Operator Training](win-themes/fulton-replica-digital-twin-optimization-training.md)
+- [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md)
+- [Value-Added Investments Exhibit, Part 1: Studies, Regional Support, Training, Energy, and Security](win-themes/fulton-value-added-investments-exhibit-studies-support.md)
 - [Innovative Financing for Biosolids Management](win-themes/innovative-financing-for-biosolids-management.md)
 - [Intelligent O&M Chemical and Energy Savings](win-themes/intelligent-om-chemical-energy-savings.md)
 - [Leadership Team Introduction and "Extension of Client Staff" Coordinated-Operations Narrative](win-themes/leadership-team-and-coordinated-operations-narrative.md)
@@ -2264,6 +2343,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Resume — Benjamin Bagwell (Senior Strategic Supervisor)](resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md)
 - [Resume — Mark Huggard, CMRT (Big Creek Plant Manager)](resumes/fulton-mark-huggard-big-creek-plant-manager.md)
 - [Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)](resumes/fulton-nathan-callison-johns-creek-plant-manager.md)
+- [JC Solutions Proposed Team Organization Roster (Exhibit 3-1)](resumes/fulton-proposed-team-organization-roster.md)
 - [Resume — Tim Durham (Senior Supervisor | Operations Management Director)](resumes/fulton-tim-durham-senior-supervisor.md)
 - [Resume — Josh Alleman (QA/QC Manager)](resumes/josh-alleman.md)
 - [Resume — Kevin Dahl, PE, CRL, CMRT (Regional Director of Operations)](resumes/kevin-dahl.md)
@@ -2286,6 +2366,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Resume — Tim Durham (Operations Manager, North Canadian/Witcher)](resumes/tim-durham.md)
 - [Clovis WWTP/WRF O&M — Reference Project (City of Clovis, CA)](past-performance/clovis-wwtp-wrf-om.md)
 - [Edward C. Little Water Recycling Facility O&M — Reference Project (West Basin Municipal Water District, El Segundo, CA)](past-performance/edward-c-little-water-recycling-facility-om.md)
+- [Pump Station Fleet Scale and Station-Specific Maintenance](past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md)
 - [Jacobs Collection System Pump Station Experience](past-performance/fulton-pump-station-operations-experience.md)
 - [Traverse City Regional WWTP DBO — Accomplishments and Performance](past-performance/fulton-traverse-city-dbo-accomplishments.md)
 - [Project Description — Agua Nueva Water Reclamation Facility DBO (Pima County, AZ)](past-performance/project-agua-nueva-dbo-pima-county-az.md)
@@ -2326,6 +2407,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Mobilization Overview, Transition Governance, and Communications Plan](management-staffing/mmsd-mobilization-governance-and-communications-plan.md)
 - [Staffing Coverage, Shift, and On-Call Structure for Small WWTF/Collection O&M Contracts](management-staffing/staffing-coverage-shift-oncall-plan.md)
 - [Embedding a Client Testimonial Pull-Quote Inside a Technical Narrative Section](win-themes/embedded-client-testimonial-technical-narrative.md)
+- [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md)
 - [Wet Weather Flow Management for Zero Overflows and Optimization That Delivers Budget Value](win-themes/mmsd-exec-summary-wet-weather-and-optimization-savings.md)
 - [Project Narrative — Holistic Utility Partnership Drives Multi-Million-Dollar Cost Savings (Large Coastal WWTP)](win-themes/project-narrative-utility-partnership-cost-savings.md)
 - [Proof-Point Examples — Track Record in Coastal and Complex Wastewater Systems](win-themes/proof-point-examples-coastal-complex-systems.md)
@@ -2340,6 +2422,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Resume — Eric Habermayer, IAM (Conveyance Manager and CMMS Implementation Project Manager)](resumes/mmsd-eric-habermayer-conveyance-manager-cmms.md)
 - [Resume — Monty Sedlak, PMP, PgMP, CSP (Maintenance & Asset Manager, Conveyance)](resumes/mmsd-monty-sedlak-maintenance-asset-manager-conveyance.md)
 - [Resume — Susan Moisio, PE (Wet Weather and Conveyance Director)](resumes/mmsd-susan-moisio-wet-weather-conveyance-director.md)
+- [Pump Station Fleet Scale and Station-Specific Maintenance](past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md)
 
 ### community-engagement
 
@@ -2386,6 +2469,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Community Involvement and Outreach Program — Advanced Water Reuse Facility](technical-approach/swip-community-involvement-outreach-program.md)
 - [O&M Project Execution Framework — 9-Element Delivery Model with KPI Dashboard and Deliverables Tracking](technical-approach/swip-om-project-execution-framework.md)
 - [CERM-Led Workforce Development and Technical-College Pipeline](management-staffing/fulton-cerm-workforce-development-pipeline.md)
+- [Long-Term Staffing and Succession Practices — Pipeline, Military Recruiting, and Incentives](management-staffing/fulton-long-term-staffing-and-succession-practices.md)
 - [Subcontractor Scopes and Jacobs/CERM O&M Support Bench](management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md)
 - [Building the Labor Pipeline with Apprenticeships and Union Partnerships](management-staffing/mmsd-apprenticeships-and-union-labor-pipeline.md)
 - [Dual-Management Model — Project Manager and Deputy Project Manager](management-staffing/mmsd-dual-management-leadership-model.md)
@@ -2497,10 +2581,12 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Membrane Monitoring, SCADA Capability, and Peak-Flow Testing](technical-approach/fulton-membrane-monitoring-and-scada-capability.md)
 - [Odor and Noise Complaint Response and Source Evaluation](technical-approach/fulton-odor-complaint-response-and-source-evaluation.md)
 - [Scrubber Optimization for Offsite Odor Control](technical-approach/fulton-odor-control-scrubber-optimization.md)
+- [Proven Operations Plans Toolkit — UPCPs, Sampling Plan, and Sample Tracking Tool](technical-approach/fulton-operations-plans-toolkit-table.md)
 - [Process Control, Data Management, and Operator Rounds](technical-approach/fulton-process-control-data-management-and-operator-rounds.md)
 - [Project Execution Through Integrated Management Systems](technical-approach/fulton-project-execution-management-systems.md)
 - [Pump Station Predictive Maintenance and Condition Monitoring](technical-approach/fulton-pump-station-predictive-maintenance.md)
 - [Successful Experience at Other Locations: Multi-Facility and MBR Operations](technical-approach/fulton-successful-experience-multi-facility-mbr.md)
+- [Swing-Zone Aeration Decisions and Nitrate Probe Placement](technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md)
 - [Transition Schedule and Exit Transition Plan](technical-approach/fulton-transition-schedule-and-exit-plan.md)
 - [UV Disinfection, Solids Dewatering, and Potable-Water Protection](technical-approach/fulton-uv-solids-and-potable-water-protection.md)
 - [Operating Under Low-Flow and Minimum-Load Conditions](technical-approach/low-flow-minimum-load-operating-strategy.md)
@@ -2631,8 +2717,10 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [O&M Guiding Principles, Facilities Plans, and Networked QA/QC Support](management-staffing/fulton-guiding-principles-facilities-plans-and-qaqc-network.md)
 - [Jacobs Technical Bench and CERM-Led Local Workforce Development](management-staffing/fulton-jv-regional-workforce-and-technical-bench.md)
 - [Licensed and Certified Personnel Roster](management-staffing/fulton-licensed-personnel-roster.md)
+- [Two-Week Day/Night Operator Shift Rotations at the Two Larger Plants](management-staffing/fulton-plant-operator-shift-rotations.md)
 - [Three-Facility Staffing Plan and FTE Roster](management-staffing/fulton-staffing-plan-and-fte-roster.md)
 - [Training, Certification, and Career-Development Program](management-staffing/fulton-training-certification-and-career-development.md)
+- [Transition Training Period — Onboarding and Ongoing Training Curriculum](management-staffing/fulton-transition-training-period-onboarding-curriculum.md)
 - [Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)](management-staffing/key-personnel-role-descriptions.md)
 - [Governance Committees and the Blue-Ribbon Panel](management-staffing/mmsd-governance-committees-and-blue-ribbon-panel.md)
 - [High-Level Transition Schedule (Exhibit IV-58)](management-staffing/mmsd-high-level-transition-schedule-table.md)
@@ -2758,6 +2846,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Compliance Monitoring, Data, Reporting, and Excursion Notification](compliance-plans/compliance-monitoring-data-and-reporting.md)
 - [Continuous Improvement, Baseline Compliance Audit, and Laboratory Compliance Tools](compliance-plans/continuous-improvement-compliance-assurance-and-tools.md)
 - [Emergency Response and Storm Preparedness Program for Coastal Wastewater Systems](compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md)
+- [Balanced Utility Security: Governance and Technology Components](compliance-plans/fulton-balanced-security-governance-and-technology.md)
 - [BeyondZero Safety Culture, Work Controls, and Safety Scorecard](compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md)
 - [Clovis Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-clovis-environmental-compliance-record.md)
 - [JV Compliance Training and Oversight Tools](compliance-plans/fulton-compliance-training-and-tools.md)
@@ -2769,8 +2858,11 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Laboratory QA/QC and Compliance Dashboard](compliance-plans/fulton-laboratory-qaqc-and-compliance-dashboard.md)
 - [JV Regulatory Compliance Program and Transparent Reporting](compliance-plans/fulton-regulatory-compliance-program.md)
 - [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md)
+- [Safety Leadership Engagement, Accountability, and Proactive Safety Management](compliance-plans/fulton-safety-leadership-engagement-and-proactive-record.md)
+- [Key Elements of the Safety Program and Planning (Exhibit 2-41)](compliance-plans/fulton-safety-program-key-elements-table.md)
 - [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md)
 - [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md)
+- [Security Plan Components: Access Control, Incident Reporting, and Information Protection](compliance-plans/fulton-security-plan-components-access-control-and-incident-reporting.md)
 - [Spokane County Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-spokane-environmental-compliance-record.md)
 - [Traverse City Environmental Compliance Record — Five-Year Reference Disclosure](compliance-plans/fulton-traverse-city-environmental-compliance-record.md)
 - [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md)
@@ -3070,6 +3162,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Tiered Communication and Reporting Protocol (Day-to-Day through Annual)](technical-approach/tiered-communication-reporting-protocol.md)
 - [WATS Collection-System Odor and Corrosion Modeling Approach](technical-approach/wats-collection-system-odor-corrosion-modeling.md)
 - [Lifecycle Delivery and the Work Order Lifecycle Process (Exhibit 1-31)](technical-approach/work-order-lifecycle-process.md)
+- [Exit Transition Lessons Learned and Digital Handover Support](management-staffing/fulton-exit-transition-lessons-learned-and-digital-support.md)
 - [Comprehensive Transition Support — Specialist Team Working Side-by-Side with Client Staff](management-staffing/mmsd-comprehensive-transition-support.md)
 - [Digital Twin Operations as a Training Value-Add](management-staffing/mmsd-digital-twin-training-value-add.md)
 - [Mobilization Overview, Transition Governance, and Communications Plan](management-staffing/mmsd-mobilization-governance-and-communications-plan.md)
@@ -3085,6 +3178,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Differentiator Device — Traditional vs. Jacobs Performance O&M Comparison (Exhibit 2-3)](win-themes/differentiator-traditional-vs-enhanced-om-comparison.md)
 - [Executive Summary Technical Approach — Five Pillars from Compliance to Performance Transparency](win-themes/exec-summary-technical-approach-pillars.md)
 - [Exhibit — "A Trusted Partnership Built Over Two Decades" Relationship Timeline](win-themes/exhibit-trusted-partnership-relationship-timeline.md)
+- [Intelligent O&M Toolset Included in the Base Fee at No Additional Cost](win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md)
+- [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md)
 - [Intelligent O&M Chemical and Energy Savings](win-themes/intelligent-om-chemical-energy-savings.md)
 - [Leadership Team Introduction and "Extension of Client Staff" Coordinated-Operations Narrative](win-themes/leadership-team-and-coordinated-operations-narrative.md)
 - [Above and Beyond — Value-Added Investments and Savings Included in the Base Fee](win-themes/mmsd-exec-summary-above-and-beyond-investments-and-savings.md)
@@ -3109,6 +3204,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Maintenance and Asset Management Capability with Case Studies](qualifications/maintenance-and-asset-management-case-studies.md)
 - [Compliance Monitoring, Data, Reporting, and Excursion Notification](compliance-plans/compliance-monitoring-data-and-reporting.md)
 - [Continuous Improvement, Baseline Compliance Audit, and Laboratory Compliance Tools](compliance-plans/continuous-improvement-compliance-assurance-and-tools.md)
+- [Safety Leadership Engagement, Accountability, and Proactive Safety Management](compliance-plans/fulton-safety-leadership-engagement-and-proactive-record.md)
 - [Integrated Safety, Security, and Cybersecurity Program for Wastewater Facilities](compliance-plans/integrated-safety-security-cybersecurity-program.md)
 - [Laboratory Management and Data Integrity Program](compliance-plans/laboratory-management-data-integrity-program.md)
 - [Cybersecurity Access Control, Workforce Awareness, Data Protection, and Field Security](compliance-plans/mmsd-cybersecurity-access-awareness-and-data-protection.md)
@@ -3124,6 +3220,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Value-Added Innovations Delivered at No Additional Cost (Exhibit Table)](compliance-plans/value-added-innovations-no-additional-cost.md)
 - [Resume — Alex Rodriguez (Assistant Project Manager)](resumes/alex-rodriguez.md)
 - [Resume — Amy Dembinski, CRL (Asset Manager)](resumes/amy-dembinski.md)
+- [JC Solutions Proposed Team Organization Roster (Exhibit 3-1)](resumes/fulton-proposed-team-organization-roster.md)
 - [Jason Holst - Operator (T3, AWT3)](resumes/jason-holst.md)
 - [Joshua Hernandez - Operator (WW Operator Grade V, AWT3)](resumes/joshua-hernandez.md)
 - [Mayo Miller - I&C Technician](resumes/mayo-miller.md)
@@ -3146,13 +3243,17 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Energy Management Program for Wastewater O&M](technical-approach/energy-management-program-wastewater-om.md)
 - [Proven Energy Optimization Results at Comparable Facilities](technical-approach/energy-optimization-proven-results-comparable-facilities.md)
 - [Facility Process Control Priority Matrix (What We Found / What We'll Do)](technical-approach/facility-process-control-priority-matrix.md)
+- [Chemically Enhanced Primary Treatment — Metal Salt Selection and Jar Testing](technical-approach/fulton-chemically-enhanced-primary-treatment.md)
 - [Energy Management, Equipment Availability, and Ammonia-Based Aeration](technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md)
+- [Fermentation Zone Operating Variables and Full-Scale Testing](technical-approach/fulton-fermentation-zone-operating-variables.md)
 - [IMLR Piping Evaluation and Membrane Commissioning Support](technical-approach/fulton-imlr-piping-and-membrane-commissioning.md)
 - [MBR Optimization, Predictive Maintenance, Odor, Biosolids, and Purposeful Innovation](technical-approach/fulton-mbr-maintenance-odor-biosolids-innovation.md)
 - [Membrane Cleaning, Alkalinity Addition, and Mixed-Liquor Filterability](technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md)
 - [Scrubber Optimization for Offsite Odor Control](technical-approach/fulton-odor-control-scrubber-optimization.md)
+- [Phos-Zorb Versus Alum — Aluminum, Alkalinity Credit, and Delivery Trade-Offs](technical-approach/fulton-phos-zorb-versus-alum-evaluation.md)
 - [Process Optimization, Fermentation, and Phosphorus Removal](technical-approach/fulton-process-optimization-fermentation-phosphorus.md)
 - [Successful Experience at Other Locations: Multi-Facility and MBR Operations](technical-approach/fulton-successful-experience-multi-facility-mbr.md)
+- [Swing-Zone Aeration Decisions and Nitrate Probe Placement](technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md)
 - [Swing Zones and Internal Mixed Liquor Recycle Optimization](technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md)
 - [UV Disinfection, Solids Dewatering, and Potable-Water Protection](technical-approach/fulton-uv-solids-and-potable-water-protection.md)
 - [Innovation Workshop Appendix — Proposed Agenda and Delivered-Workshop Examples](technical-approach/innovation-workshop-appendix-agenda-and-examples.md)
@@ -3245,6 +3346,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Cover Letter Differentiators — Innovation, Large-Utility Scale, and a Culture of Doing Things Right](win-themes/cover-letter-innovation-scale-and-ethics-differentiators.md)
 - [Executive Summary Innovation Table — Three Named Innovations With Quantified Client Benefit](win-themes/exec-summary-innovation-benefit-table.md)
 - [Executive Summary — Operational Benefits and Future Readiness Table](win-themes/exec-summary-operational-benefits-and-future-readiness.md)
+- [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md)
+- [Value-Added Investments Exhibit, Part 1: Studies, Regional Support, Training, Energy, and Security](win-themes/fulton-value-added-investments-exhibit-studies-support.md)
 - [Above and Beyond — Value-Added Investments and Savings Included in the Base Fee](win-themes/mmsd-exec-summary-above-and-beyond-investments-and-savings.md)
 - [Wet Weather Flow Management for Zero Overflows and Optimization That Delivers Budget Value](win-themes/mmsd-exec-summary-wet-weather-and-optimization-savings.md)
 - [Project Narrative — Incumbent Turnaround Plus Progressive Design-Build (Small Coastal WWTP)](win-themes/project-narrative-contract-transition-turnaround.md)
@@ -3277,6 +3380,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Breaking the Cycle of Reactive Operations — Solids Handling, Filtration Automation, and H₂S Relief at a Loaded Plant](technical-approach/deer-creek-process-control-breaking-reactive-cycle.md)
 - [Facility-by-Facility Maintenance Priorities Table (Exhibit 1-28)](technical-approach/facility-by-facility-maintenance-priorities-table.md)
 - [Facility Process Control Priority Matrix (What We Found / What We'll Do)](technical-approach/facility-process-control-priority-matrix.md)
+- [Fermentation Zone Operating Variables and Full-Scale Testing](technical-approach/fulton-fermentation-zone-operating-variables.md)
 - [Successful Experience at Other Locations: Transition, Asset Management, and Community Partnership](technical-approach/fulton-successful-experience-transition-asset-community.md)
 - [Integrated Maintenance and Asset Management Team with Regional Maintenance Support](technical-approach/integrated-maintenance-asset-management-team-regional-support.md)
 - [Low-Pressure Sewer and Grinder Pump System O&M Experience](technical-approach/low-pressure-sewer-grinder-pump-om-experience.md)
@@ -3340,6 +3444,9 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [SCADA, Instrumentation & Controls, and Cybersecurity Approach](technical-approach/swip-scada-ic-cybersecurity-approach.md)
 - [Tiered Communication and Reporting Protocol (Day-to-Day through Annual)](technical-approach/tiered-communication-reporting-protocol.md)
 - [Blended On-Site/Off-Site Organizational Structure for O&M Contracts](management-staffing/blended-onsite-offsite-org-structure.md)
+- [45-Day Transition Commitment and Phased Approach](management-staffing/fulton-45-day-transition-confidence-and-phasing.md)
+- [Leadership from JC Solutions Staff — Key Positions and Regional Backfill](management-staffing/fulton-key-positions-filled-by-jv-staff.md)
+- [Pre-Start and Initial Transition Phases — HR Groundwork and the Badge Flip](management-staffing/fulton-pre-start-and-initial-transition-phases.md)
 - [Employee Satisfaction After Transition and the Six-Step Workforce Transition Process](management-staffing/mmsd-employee-satisfaction-and-six-step-transition-process.md)
 - [Plan to Fulfill and Sustain the Minimum Staffing Plan](management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md)
 - [HR Commitment — Award-Winning Culture and an Integrated Local + National HR Team](management-staffing/mmsd-hr-commitment-award-winning-culture-and-integrated-hr-team.md)
@@ -3396,6 +3503,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Executive Summary Required Plans — Draft Transition Plan and Staffing & Training Plan](win-themes/exec-summary-required-plans-transition-and-staffing.md)
 - [Executive Summary Opening — Site-Verified Understanding and the Case for Change](win-themes/exec-summary-site-verified-understanding-and-case-for-change.md)
 - [Exhibit — "A Trusted Partnership Built Over Two Decades" Relationship Timeline](win-themes/exhibit-trusted-partnership-relationship-timeline.md)
+- [Stable Ownership and Enduring Commitment — O&M Is Our DNA, Not a Trend](win-themes/fulton-stable-ownership-enduring-commitment.md)
 - ["More Than an Operator" Innovation Section Opening](win-themes/innovation-more-than-an-operator-framing.md)
 - [Leadership Team Introduction and "Extension of Client Staff" Coordinated-Operations Narrative](win-themes/leadership-team-and-coordinated-operations-narrative.md)
 - [Seamless Transition — 18-Month Pre-Term Runway, Union Workforce Continuity, and Day 1 Readiness](win-themes/mmsd-exec-summary-seamless-transition-and-workforce-continuity.md)
@@ -3503,14 +3611,19 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [JV Annual Innovation Workshop](technical-approach/fulton-annual-innovation-workshop.md)
 - [Biosolids Resilience, Emerging Contaminants, and Dryer Support](technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md)
 - [Biosolids Transfer, Beneficial Reuse, and Dewatering Optimization](technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md)
+- [Chemically Enhanced Primary Treatment — Metal Salt Selection and Jar Testing](technical-approach/fulton-chemically-enhanced-primary-treatment.md)
 - [Comprehensive O&M Approach and Transition Commitments](technical-approach/fulton-comprehensive-om-approach-and-transition.md)
 - [Current and Future MBR Challenges with Coordinated Commissioning Need](technical-approach/fulton-current-future-challenges-and-commissioning.md)
+- [Discounted Rate for Engineering Services Provided Under the O&M Contract](technical-approach/fulton-discounted-consulting-rate-value-add.md)
+- [Fermentation Zone Operating Variables and Full-Scale Testing](technical-approach/fulton-fermentation-zone-operating-variables.md)
 - [IMLR Piping Evaluation and Membrane Commissioning Support](technical-approach/fulton-imlr-piping-and-membrane-commissioning.md)
 - [ISO 55001-Aligned AMS, CMMS, and Risk Workshop](technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md)
 - [MBR Optimization, Predictive Maintenance, Odor, Biosolids, and Purposeful Innovation](technical-approach/fulton-mbr-maintenance-odor-biosolids-innovation.md)
 - [Odor Emissions Study and Routine Housekeeping](technical-approach/fulton-odor-emissions-study-and-housekeeping.md)
+- [Phos-Zorb Versus Alum — Aluminum, Alkalinity Credit, and Delivery Trade-Offs](technical-approach/fulton-phos-zorb-versus-alum-evaluation.md)
 - [Process Optimization, Fermentation, and Phosphorus Removal](technical-approach/fulton-process-optimization-fermentation-phosphorus.md)
 - [Secure KPI Dashboard and Transparency Framework](technical-approach/fulton-secure-kpi-dashboard-and-transparency.md)
+- [Swing-Zone Aeration Decisions and Nitrate Probe Placement](technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md)
 - [Swing Zones and Internal Mixed Liquor Recycle Optimization](technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md)
 - [Trusted-Partner Experience and Comprehensive SME Support](technical-approach/fulton-trusted-partner-and-comprehensive-sme-support.md)
 - [Grant, Loan, and Capital Funding Strategy Support Services](technical-approach/grant-loan-funding-support-capital-planning.md)
@@ -3675,9 +3788,13 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Executive Summary Required Plan — Solids Management Plan as One Coordinated System](win-themes/exec-summary-solids-management-plan-commitment.md)
 - [AquaDNA Smart System Optimization and Pump-Station Deragging](win-themes/fulton-aquadna-smart-system-optimization.md)
 - [Energy Management Investment Value and Cost Savings](win-themes/fulton-energy-management-investment-value-and-savings.md)
+- [Executive Summary — Exclusive Consulting Discount as Immediate Added Value](win-themes/fulton-exclusive-consulting-discount-value.md)
+- [Intelligent O&M Toolset Included in the Base Fee at No Additional Cost](win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md)
 - [Maintenance AI Assistant Powered by Palantir](win-themes/fulton-maintenance-ai-assistant-palantir.md)
 - [Maintenance Planner/Scheduler Powered by Palantir](win-themes/fulton-maintenance-planner-scheduler-palantir.md)
 - [Replica Digital Twin for Process Optimization and Operator Training](win-themes/fulton-replica-digital-twin-optimization-training.md)
+- [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md)
+- [Value-Added Investments Exhibit, Part 1: Studies, Regional Support, Training, Energy, and Security](win-themes/fulton-value-added-investments-exhibit-studies-support.md)
 - ["More Than an Operator" Innovation Section Opening](win-themes/innovation-more-than-an-operator-framing.md)
 - [Innovative Financing for Biosolids Management](win-themes/innovative-financing-for-biosolids-management.md)
 - [Intelligent O&M Chemical and Energy Savings](win-themes/intelligent-om-chemical-energy-savings.md)
@@ -3736,6 +3853,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Southern California Reuse Expertise — Named SME Bench and Regulatory Relationships](qualifications/southern-california-reuse-expertise-and-sme-bench.md)
 - [Water Reuse Industry Leadership — 60+ Year Innovation Timeline](qualifications/water-reuse-leadership-and-timeline.md)
 - [Capital Planning, Construction Support, and Targeted Maintenance Innovation Studies](compliance-plans/capital-planning-construction-support-innovation-studies.md)
+- [Balanced Utility Security: Governance and Technology Components](compliance-plans/fulton-balanced-security-governance-and-technology.md)
 - [ICS Cybersecurity, 3-2-1-1 Backups, and Disaster Recovery](compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md)
 - [Enterprise Cybersecurity — Governance, Incident Response, and Network Protection](compliance-plans/mmsd-cybersecurity-governance-and-incident-response.md)
 - [Innovative Security Enhancements — Shoreline Detection, Mobile Video, Automated Workflows](compliance-plans/mmsd-innovative-security-enhancements.md)
@@ -3856,6 +3974,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Executive Summary Required Plan — Sludge Management Plan, Generation Through Disposal](win-themes/exec-summary-sludge-management-plan-commitment.md)
 - [Executive Summary Required Plan — Solids Management Plan as One Coordinated System](win-themes/exec-summary-solids-management-plan-commitment.md)
 - [Executive Summary Technical Approach — Five Pillars from Compliance to Performance Transparency](win-themes/exec-summary-technical-approach-pillars.md)
+- [Value-Added Investments Exhibit, Part 1: Studies, Regional Support, Training, Energy, and Security](win-themes/fulton-value-added-investments-exhibit-studies-support.md)
 - [Biosolids Product Continuity, Brand Protection, and Proactive Odor Control](win-themes/mmsd-exec-summary-biosolids-continuity-and-odor-control.md)
 - [Odor Study Gap Analysis and Updated Odor Control Report Offer](win-themes/odor-study-gap-analysis-and-updated-report.md)
 - [Project Narrative — Newly Mobilized Contract Framed Around Investment and Innovation (Small New England WWTP)](win-themes/project-narrative-new-contract-mobilization-innovation.md)
@@ -3914,10 +4033,13 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [JV Customer Service Plan and Accountability](technical-approach/fulton-customer-service-plan.md)
 - [Deliverables Commitment: Annual, Transition, and Asset-Management Plans](technical-approach/fulton-deliverables-commitment-annual-and-transition-plans-table.md)
 - [Deliverables Commitment: Records, Safety, Outreach, and Staffing Plans](technical-approach/fulton-deliverables-commitment-records-safety-and-staffing-table.md)
+- [Discounted Rate for Engineering Services Provided Under the O&M Contract](technical-approach/fulton-discounted-consulting-rate-value-add.md)
 - [Equipment Performance Testing Plan](technical-approach/fulton-equipment-performance-testing-plan.md)
 - [ISO 55001-Aligned AMS, CMMS, and Risk Workshop](technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md)
 - [Lifecycle Maintenance, Risk, and Performance Management](technical-approach/fulton-lifecycle-maintenance-risk-and-performance-management.md)
 - [Three-Facility MBR Portfolio and Pump-Station Operating Context](technical-approach/fulton-mbr-facility-portfolio-and-pump-stations.md)
+- [Proven Operations Plans Toolkit — UPCPs, Sampling Plan, and Sample Tracking Tool](technical-approach/fulton-operations-plans-toolkit-table.md)
+- [Phos-Zorb Versus Alum — Aluminum, Alkalinity Credit, and Delivery Trade-Offs](technical-approach/fulton-phos-zorb-versus-alum-evaluation.md)
 - [Process Control, Data Management, and Operator Rounds](technical-approach/fulton-process-control-data-management-and-operator-rounds.md)
 - [Project Execution Through Integrated Management Systems](technical-approach/fulton-project-execution-management-systems.md)
 - [Secure KPI Dashboard and Transparency Framework](technical-approach/fulton-secure-kpi-dashboard-and-transparency.md)
@@ -4061,10 +4183,18 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Warranty Management Through a CMMS Warranty Register](technical-approach/warranty-management-cmms-warranty-register.md)
 - [Lifecycle Delivery and the Work Order Lifecycle Process (Exhibit 1-31)](technical-approach/work-order-lifecycle-process.md)
 - [Blended On-Site/Off-Site Organizational Structure for O&M Contracts](management-staffing/blended-onsite-offsite-org-structure.md)
+- [45-Day Transition Commitment and Phased Approach](management-staffing/fulton-45-day-transition-confidence-and-phasing.md)
+- [Compensation Package and Employee Satisfaction after Transition](management-staffing/fulton-compensation-package-employee-satisfaction.md)
+- [Exit Transition Approach — Priorities Shaped by a Real Handback](management-staffing/fulton-exit-transition-approach-and-priorities.md)
+- [Exit Transition Plan — Asset Condition, Inventory, and Staffing Knowledge Transfer](management-staffing/fulton-exit-transition-asset-condition-and-staffing-knowledge-transfer.md)
+- [Exit Transition Lessons Learned and Digital Handover Support](management-staffing/fulton-exit-transition-lessons-learned-and-digital-support.md)
 - [Inclusive Culture and Employee-Network Development](management-staffing/fulton-inclusive-culture-and-employee-networks.md)
 - [Jacobs Technical Bench and CERM-Led Local Workforce Development](management-staffing/fulton-jv-regional-workforce-and-technical-bench.md)
+- [Pre-Start and Initial Transition Phases — HR Groundwork and the Badge Flip](management-staffing/fulton-pre-start-and-initial-transition-phases.md)
+- [Retaining Existing Staff, Named Key Positions, and Backfill Resources](management-staffing/fulton-retaining-existing-staff-and-backfill-resources.md)
 - [JC Solutions JV Team Organization and Key Personnel](management-staffing/fulton-team-organization-and-key-personnel.md)
 - [Team Organization Subcontractors and Consulting Bench](management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md)
+- [Transition Team Composition and Continued SME Support](management-staffing/fulton-transition-team-composition-and-continued-support.md)
 - [O&M Apprenticeships and Local Union Partnership](management-staffing/mmsd-apprenticeships-and-local-union-partnership.md)
 - [Building the Labor Pipeline with Apprenticeships and Union Partnerships](management-staffing/mmsd-apprenticeships-and-union-labor-pipeline.md)
 - [Comprehensive Transition Support — Specialist Team Working Side-by-Side with Client Staff](management-staffing/mmsd-comprehensive-transition-support.md)
@@ -4152,6 +4282,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Executive Summary Opening — Site-Verified Understanding and the Case for Change](win-themes/exec-summary-site-verified-understanding-and-case-for-change.md)
 - [Executive Summary Technical Approach — Five Pillars from Compliance to Performance Transparency](win-themes/exec-summary-technical-approach-pillars.md)
 - [Exhibit — "A Trusted Partnership Built Over Two Decades" Relationship Timeline](win-themes/exhibit-trusted-partnership-relationship-timeline.md)
+- [Executive Summary — Exclusive Consulting Discount as Immediate Added Value](win-themes/fulton-exclusive-consulting-discount-value.md)
+- [Stable Ownership and Enduring Commitment — O&M Is Our DNA, Not a Trend](win-themes/fulton-stable-ownership-enduring-commitment.md)
 - ["More Than an Operator" Innovation Section Opening](win-themes/innovation-more-than-an-operator-framing.md)
 - [Innovative Financing for Biosolids Management](win-themes/innovative-financing-for-biosolids-management.md)
 - [Intelligent O&M Chemical and Energy Savings](win-themes/intelligent-om-chemical-energy-savings.md)
@@ -4230,6 +4362,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Emergency Response and Storm Preparedness Program for Coastal Wastewater Systems](compliance-plans/emergency-response-storm-preparedness-coastal-wwtf.md)
 - [Clovis Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-clovis-environmental-compliance-record.md)
 - [JV Environmental Protection and Transparent Compliance Reporting Commitment](compliance-plans/fulton-environmental-protection-and-reporting-commitment.md)
+- [Security Plan Components: Access Control, Incident Reporting, and Information Protection](compliance-plans/fulton-security-plan-components-access-control-and-incident-reporting.md)
 - [Spokane County Environmental Compliance Record — Permit-Exception Disclosure](compliance-plans/fulton-spokane-environmental-compliance-record.md)
 - [Traverse City Environmental Compliance Record — Five-Year Reference Disclosure](compliance-plans/fulton-traverse-city-environmental-compliance-record.md)
 - [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md)
@@ -4391,16 +4524,22 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Regional Maintenance Team Capability — Proof-Point Case Studies](technical-approach/swip-regional-maintenance-team-capability-proof-points.md)
 - [SCADA, Instrumentation & Controls, and Cybersecurity Approach](technical-approach/swip-scada-ic-cybersecurity-approach.md)
 - [Blended On-Site/Off-Site Organizational Structure for O&M Contracts](management-staffing/blended-onsite-offsite-org-structure.md)
+- [Blended Team Build — Transitioning Staff, Internal Resources, and Targeted Recruiting](management-staffing/fulton-blended-team-build-and-recruiting-backstop.md)
 - [CERM-Led Workforce Development and Technical-College Pipeline](management-staffing/fulton-cerm-workforce-development-pipeline.md)
 - [Internal Delivery and QA/QC Functional Support Matrix](management-staffing/fulton-delivery-qaqc-functional-support-matrix.md)
 - [Jacobs Technical Bench and CERM-Led Local Workforce Development](management-staffing/fulton-jv-regional-workforce-and-technical-bench.md)
 - [Key Personnel Availability and Commitment Plan](management-staffing/fulton-key-personnel-availability-and-commitment.md)
+- [Leadership from JC Solutions Staff — Key Positions and Regional Backfill](management-staffing/fulton-key-positions-filled-by-jv-staff.md)
 - [Licensed and Certified Personnel Roster](management-staffing/fulton-licensed-personnel-roster.md)
+- [Long-Term Staffing and Succession Practices — Pipeline, Military Recruiting, and Incentives](management-staffing/fulton-long-term-staffing-and-succession-practices.md)
 - [Recruiting, Retention, and Succession Planning](management-staffing/fulton-recruiting-retention-and-succession.md)
 - [Servant Leadership, Certification Advancement, and Regional Compatibility](management-staffing/fulton-servant-leadership-and-regional-compatibility.md)
+- [Six-Step Approach to Retaining Local Talent and Staffing the Contract](management-staffing/fulton-six-step-staff-retention-transition-process.md)
 - [Subcontractor Scopes and Jacobs/CERM O&M Support Bench](management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md)
 - [JC Solutions JV Team Organization and Key Personnel](management-staffing/fulton-team-organization-and-key-personnel.md)
 - [Team Organization Subcontractors and Consulting Bench](management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md)
+- [Train to Retain — Training and Development Programs for O&M Staff (Exhibit 2-48)](management-staffing/fulton-train-to-retain-development-programs-table.md)
+- [Transition Team Composition and Continued SME Support](management-staffing/fulton-transition-team-composition-and-continued-support.md)
 - [Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)](management-staffing/key-personnel-role-descriptions.md)
 - [O&M Apprenticeships and Local Union Partnership](management-staffing/mmsd-apprenticeships-and-local-union-partnership.md)
 - [Building the Labor Pipeline with Apprenticeships and Union Partnerships](management-staffing/mmsd-apprenticeships-and-union-labor-pipeline.md)
@@ -4574,6 +4713,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Resume — Benjamin Bagwell (Senior Strategic Supervisor)](resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md)
 - [Resume — Mark Huggard, CMRT (Big Creek Plant Manager)](resumes/fulton-mark-huggard-big-creek-plant-manager.md)
 - [Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)](resumes/fulton-nathan-callison-johns-creek-plant-manager.md)
+- [JC Solutions Proposed Team Organization Roster (Exhibit 3-1)](resumes/fulton-proposed-team-organization-roster.md)
 - [Resume — Tim Durham (Senior Supervisor | Operations Management Director)](resumes/fulton-tim-durham-senior-supervisor.md)
 - [Howard Brewen - Director of Operations (WW Grade V)](resumes/howard-brewen.md)
 - [Jason Holst - Operator (T3, AWT3)](resumes/jason-holst.md)
@@ -4612,6 +4752,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Exhibit 4-1 — Jacobs MBR Experience Highlights: Additional Experience](past-performance/fulton-mbr-experience-highlights-additional-table.md)
 - [Exhibit 4-1 — Jacobs MBR Experience Highlights: Operations Experience](past-performance/fulton-mbr-experience-highlights-operations-table.md)
 - [MBR Operations, Engineering Depth, and Named SME Experience](past-performance/fulton-mbr-operations-engineering-and-sme-experience.md)
+- [Pump Station Fleet Scale and Station-Specific Maintenance](past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md)
 - [Jacobs Collection System Pump Station Experience](past-performance/fulton-pump-station-operations-experience.md)
 - [Jacobs US Treatment Facilities O&M Portfolio](past-performance/fulton-us-treatment-facilities-portfolio.md)
 - [Section 7 Opener — O&M Portfolio Scale, Oklahoma Track Record, and Reference Project Framing (OCWUT)](past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md)
@@ -4681,6 +4822,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Inclusive Culture and Employee-Network Development](management-staffing/fulton-inclusive-culture-and-employee-networks.md)
 - [Three-Facility Staffing Plan and FTE Roster](management-staffing/fulton-staffing-plan-and-fte-roster.md)
 - [Training, Certification, and Career-Development Program](management-staffing/fulton-training-certification-and-career-development.md)
+- [Transition Training Period — Onboarding and Ongoing Training Curriculum](management-staffing/fulton-transition-training-period-onboarding-curriculum.md)
 - [Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)](management-staffing/key-personnel-role-descriptions.md)
 - [High-Level Transition Schedule (Exhibit IV-58)](management-staffing/mmsd-high-level-transition-schedule-table.md)
 - [Long-Term Retention and Succession Planning — Keep People, Grow People, Honor Knowledge](management-staffing/mmsd-long-term-retention-and-succession-planning.md)
@@ -4718,8 +4860,12 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Off-Site SME Support — Safety, Communications and Outreach, HR, Procurement, and Capital Projects](qualifications/offsite-sme-support-safety-communications-hr-procurement-capital.md)
 - [Workforce Culture, Retention, and Employer-of-Choice Positioning](qualifications/workforce-culture-retention-employer-of-choice-value-prop.md)
 - [CIP Integration — Specialized Maintenance Skills, Subcontracted Services, and Emergency Coverage](compliance-plans/cip-maintenance-skills-subcontractors-and-on-call-coverage.md)
+- [Balanced Utility Security: Governance and Technology Components](compliance-plans/fulton-balanced-security-governance-and-technology.md)
 - [BeyondZero Safety Culture, Work Controls, and Safety Scorecard](compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md)
+- [Safety Leadership Engagement, Accountability, and Proactive Safety Management](compliance-plans/fulton-safety-leadership-engagement-and-proactive-record.md)
+- [Key Elements of the Safety Program and Planning (Exhibit 2-41)](compliance-plans/fulton-safety-program-key-elements-table.md)
 - [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md)
+- [Security Plan Components: Access Control, Incident Reporting, and Information Protection](compliance-plans/fulton-security-plan-components-access-control-and-incident-reporting.md)
 - [Health, Safety, and Environmental Compliance Performance Record](compliance-plans/health-safety-environmental-compliance-performance-record.md)
 - [Integrated Safety, Security, and Cybersecurity Program for Wastewater Facilities](compliance-plans/integrated-safety-security-cybersecurity-program.md)
 - [Maintenance Workflow, Self-Performance, and M&R Fund Governance](compliance-plans/maintenance-workflow-self-performance-mr-fund-governance.md)
@@ -4749,6 +4895,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Resume — Anthony Benavidez (Project Manager)](resumes/anthony-benavidez.md)
 - [Resume — Brian Daniels (Maintenance Manager)](resumes/brian-daniels.md)
 - [Resume — David Pitocchelli (Little River Plant Manager)](resumes/david-pitocchelli-little-river-plant-manager.md)
+- [JC Solutions Proposed Team Organization Roster (Exhibit 3-1)](resumes/fulton-proposed-team-organization-roster.md)
 - [Joshua Hernandez - Operator (WW Operator Grade V, AWT3)](resumes/joshua-hernandez.md)
 - [Mack Mckenzie - Chief Plant Operator (WW Grade V, AWT3)](resumes/mack-mckenzie.md)
 - [Mayo Miller - I&C Technician](resumes/mayo-miller.md)
@@ -4831,8 +4978,24 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Proactive Inventory Management Program (CMMS-Integrated, ISO 55001-Aligned)](technical-approach/swip-inventory-management-asset-tracking.md)
 - [Tiered Communication and Reporting Protocol (Day-to-Day through Annual)](technical-approach/tiered-communication-reporting-protocol.md)
 - [Warranty Management Through a CMMS Warranty Register](technical-approach/warranty-management-cmms-warranty-register.md)
+- [45-Day Transition Commitment and Phased Approach](management-staffing/fulton-45-day-transition-confidence-and-phasing.md)
+- [Blended Team Build — Transitioning Staff, Internal Resources, and Targeted Recruiting](management-staffing/fulton-blended-team-build-and-recruiting-backstop.md)
+- [Compensation Package and Employee Satisfaction after Transition](management-staffing/fulton-compensation-package-employee-satisfaction.md)
+- [Exit Transition Approach — Priorities Shaped by a Real Handback](management-staffing/fulton-exit-transition-approach-and-priorities.md)
+- [Exit Transition Plan — Asset Condition, Inventory, and Staffing Knowledge Transfer](management-staffing/fulton-exit-transition-asset-condition-and-staffing-knowledge-transfer.md)
+- [Exit Transition Lessons Learned and Digital Handover Support](management-staffing/fulton-exit-transition-lessons-learned-and-digital-support.md)
+- [Refining Job Descriptions in the First Days of Transition](management-staffing/fulton-job-description-refinement-first-days.md)
+- [Leadership from JC Solutions Staff — Key Positions and Regional Backfill](management-staffing/fulton-key-positions-filled-by-jv-staff.md)
+- [Long-Term Staffing and Succession Practices — Pipeline, Military Recruiting, and Incentives](management-staffing/fulton-long-term-staffing-and-succession-practices.md)
+- [Two-Week Day/Night Operator Shift Rotations at the Two Larger Plants](management-staffing/fulton-plant-operator-shift-rotations.md)
+- [Pre-Start and Initial Transition Phases — HR Groundwork and the Badge Flip](management-staffing/fulton-pre-start-and-initial-transition-phases.md)
 - [Recruiting, Retention, and Succession Planning](management-staffing/fulton-recruiting-retention-and-succession.md)
+- [Retaining Existing Staff, Named Key Positions, and Backfill Resources](management-staffing/fulton-retaining-existing-staff-and-backfill-resources.md)
+- [Six-Step Approach to Retaining Local Talent and Staffing the Contract](management-staffing/fulton-six-step-staff-retention-transition-process.md)
+- [Train to Retain — Training and Development Programs for O&M Staff (Exhibit 2-48)](management-staffing/fulton-train-to-retain-development-programs-table.md)
 - [Training, Certification, and Career-Development Program](management-staffing/fulton-training-certification-and-career-development.md)
+- [Transition Team Composition and Continued SME Support](management-staffing/fulton-transition-team-composition-and-continued-support.md)
+- [Transition Training Period — Onboarding and Ongoing Training Curriculum](management-staffing/fulton-transition-training-period-onboarding-curriculum.md)
 - [Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)](management-staffing/key-personnel-role-descriptions.md)
 - [Comprehensive Transition Support — Specialist Team Working Side-by-Side with Client Staff](management-staffing/mmsd-comprehensive-transition-support.md)
 - [Dual-Management Model — Project Manager and Deputy Project Manager](management-staffing/mmsd-dual-management-leadership-model.md)
@@ -4952,6 +5115,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Chris Catlin, PE - Manager of Operations (T3/AWT5)](resumes/chris-catlin.md)
 - [Christen Wood - Operator (WW Operator Grade V, AWT3)](resumes/christen-wood.md)
 - [Resume — David Pitocchelli (Project Manager)](resumes/david-pitocchelli.md)
+- [JC Solutions Proposed Team Organization Roster (Exhibit 3-1)](resumes/fulton-proposed-team-organization-roster.md)
 - [Howard Brewen - Director of Operations (WW Grade V)](resumes/howard-brewen.md)
 - [Resume — Jose "Joe" Ramos (Operations Manager, Chisholm Creek)](resumes/jose-ramos.md)
 - [Resume — Kelly Irving (Transition Manager)](resumes/kelly-irving.md)
@@ -5038,18 +5202,27 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Project Understanding Narrative and Goals/Challenges/Response Crosswalk Matrix](technical-approach/project-understanding-goals-challenges-response-matrix.md)
 - [Operator Training and Development Program for Client Water/Wastewater Staff](technical-approach/swip-city-staff-training-program.md)
 - [Community Involvement and Outreach Program — Advanced Water Reuse Facility](technical-approach/swip-community-involvement-outreach-program.md)
+- [Blended Team Build — Transitioning Staff, Internal Resources, and Targeted Recruiting](management-staffing/fulton-blended-team-build-and-recruiting-backstop.md)
 - [CERM-Led Workforce Development and Technical-College Pipeline](management-staffing/fulton-cerm-workforce-development-pipeline.md)
+- [Compensation Package and Employee Satisfaction after Transition](management-staffing/fulton-compensation-package-employee-satisfaction.md)
 - [Internal Delivery and QA/QC Functional Support Matrix](management-staffing/fulton-delivery-qaqc-functional-support-matrix.md)
+- [Exit Transition Plan — Asset Condition, Inventory, and Staffing Knowledge Transfer](management-staffing/fulton-exit-transition-asset-condition-and-staffing-knowledge-transfer.md)
 - [O&M Guiding Principles, Facilities Plans, and Networked QA/QC Support](management-staffing/fulton-guiding-principles-facilities-plans-and-qaqc-network.md)
 - [Inclusive Culture and Employee-Network Development](management-staffing/fulton-inclusive-culture-and-employee-networks.md)
+- [Refining Job Descriptions in the First Days of Transition](management-staffing/fulton-job-description-refinement-first-days.md)
 - [Jacobs Technical Bench and CERM-Led Local Workforce Development](management-staffing/fulton-jv-regional-workforce-and-technical-bench.md)
 - [Key Personnel Availability and Commitment Plan](management-staffing/fulton-key-personnel-availability-and-commitment.md)
 - [Licensed and Certified Personnel Roster](management-staffing/fulton-licensed-personnel-roster.md)
+- [Long-Term Staffing and Succession Practices — Pipeline, Military Recruiting, and Incentives](management-staffing/fulton-long-term-staffing-and-succession-practices.md)
 - [Recruiting, Retention, and Succession Planning](management-staffing/fulton-recruiting-retention-and-succession.md)
+- [Retaining Existing Staff, Named Key Positions, and Backfill Resources](management-staffing/fulton-retaining-existing-staff-and-backfill-resources.md)
 - [Servant Leadership, Certification Advancement, and Regional Compatibility](management-staffing/fulton-servant-leadership-and-regional-compatibility.md)
+- [Six-Step Approach to Retaining Local Talent and Staffing the Contract](management-staffing/fulton-six-step-staff-retention-transition-process.md)
 - [Subcontractor Scopes and Jacobs/CERM O&M Support Bench](management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md)
 - [Team Organization Subcontractors and Consulting Bench](management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md)
+- [Train to Retain — Training and Development Programs for O&M Staff (Exhibit 2-48)](management-staffing/fulton-train-to-retain-development-programs-table.md)
 - [Training, Certification, and Career-Development Program](management-staffing/fulton-training-certification-and-career-development.md)
+- [Transition Training Period — Onboarding and Ongoing Training Curriculum](management-staffing/fulton-transition-training-period-onboarding-curriculum.md)
 - [Key Staff and Management Team — Role Descriptions and Bios (PM, Assistant PM, Regional Operations Manager, Regional Director of Operations, Transition Manager)](management-staffing/key-personnel-role-descriptions.md)
 - [O&M Apprenticeships and Local Union Partnership](management-staffing/mmsd-apprenticeships-and-local-union-partnership.md)
 - [Building the Labor Pipeline with Apprenticeships and Union Partnerships](management-staffing/mmsd-apprenticeships-and-union-labor-pipeline.md)
@@ -5125,6 +5298,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [JV Regional Support, Training, and Maintenance Intelligence Benefits](win-themes/fulton-regional-training-maintenance-intelligence.md)
 - [Replica Digital Twin for Process Optimization and Operator Training](win-themes/fulton-replica-digital-twin-optimization-training.md)
 - [School STEM and Career Exploration Program](win-themes/fulton-school-stem-and-career-exploration-program.md)
+- [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md)
+- [Value-Added Investments Exhibit, Part 1: Studies, Regional Support, Training, Energy, and Security](win-themes/fulton-value-added-investments-exhibit-studies-support.md)
 - [Local Workforce, Digital Twin, and Smart Collections Benefits](win-themes/fulton-workforce-digital-twin-collections-benefits.md)
 - [High-Caliber Leadership Will Create a People-First, High-Performance Team](win-themes/mmsd-exec-summary-high-caliber-leadership-and-people-first-culture.md)
 - [Regional Partnerships and Public Outreach for Community Benefits — Four Strategies and Example Ideas](win-themes/mmsd-exec-summary-regional-partnership-and-community-benefits.md)
@@ -5155,6 +5330,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [CIP Integration — Staffing Levels, Classifications, and Resource Impacts by Project](compliance-plans/cip-staffing-levels-and-classification-impacts.md)
 - [BeyondZero Safety Culture, Work Controls, and Safety Scorecard](compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md)
 - [JV Compliance Training and Oversight Tools](compliance-plans/fulton-compliance-training-and-tools.md)
+- [Safety Leadership Engagement, Accountability, and Proactive Safety Management](compliance-plans/fulton-safety-leadership-engagement-and-proactive-record.md)
+- [Key Elements of the Safety Program and Planning (Exhibit 2-41)](compliance-plans/fulton-safety-program-key-elements-table.md)
 - [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md)
 - [Maintenance Workflow, Self-Performance, and M&R Fund Governance](compliance-plans/maintenance-workflow-self-performance-mr-fund-governance.md)
 - [How Do We Do It — Safety Culture Practices and Typical Training Curriculum](compliance-plans/mmsd-safety-how-we-do-it-and-training-curriculum.md)
@@ -5192,10 +5369,11 @@ _Every block in its source proposal's reading order, under the subsection it was
 - **Section 1 | Executive Summary** (`fulton-county-2025:03`, pp. 8–12)
   - 1. [Executive Summary Opening — JV Partnership Value Proposition and Combined Strengths](win-themes/exec-summary-jv-partnership-value-proposition.md) — p0009¶4 · prose · preferred
   - 2. [Executive Summary — Comprehensive JV Solution and Client Benefits](win-themes/exec-summary-comprehensive-jv-solution-benefits.md) — p0010¶2 · prose · preferred
-  - 3. [Executive Summary — JV Project Understanding and Proactive Response](win-themes/exec-summary-jv-project-understanding-and-response.md) — p0011¶4 · prose · preferred
-  - 4. [Executive Summary — Maintenance Challenges and Targeted Solutions Table](win-themes/exec-summary-maintenance-challenges-and-targeted-solutions.md) — p0011¶9 · table · preferred
-  - 5. [Executive Summary — Operational Benefits and Future Readiness Table](win-themes/exec-summary-operational-benefits-and-future-readiness.md) — p0011¶10 · table · preferred
-  - 6. [Executive Summary — JV Strategic Partner Close](win-themes/exec-summary-jv-strategic-partner-close.md) — p0011¶14 · prose · preferred
+  - 3. [Executive Summary — Exclusive Consulting Discount as Immediate Added Value](win-themes/fulton-exclusive-consulting-discount-value.md) — p0010¶12 · prose · preferred
+  - 4. [Executive Summary — JV Project Understanding and Proactive Response](win-themes/exec-summary-jv-project-understanding-and-response.md) — p0011¶4 · prose · preferred
+  - 5. [Executive Summary — Maintenance Challenges and Targeted Solutions Table](win-themes/exec-summary-maintenance-challenges-and-targeted-solutions.md) — p0011¶9 · table · preferred
+  - 6. [Executive Summary — Operational Benefits and Future Readiness Table](win-themes/exec-summary-operational-benefits-and-future-readiness.md) — p0011¶10 · table · preferred
+  - 7. [Executive Summary — JV Strategic Partner Close](win-themes/exec-summary-jv-strategic-partner-close.md) — p0011¶14 · prose · preferred
 - **Section 2 | Operations & Maintenance Plan** (`fulton-county-2025:04`, pp. 12–126)
   - **2.1 | JC Solutions' Comprehensive Approach to Operations & Maintenance** (`fulton-county-2025:05`, p. 13)
     - 1. [Comprehensive O&M Approach and Transition Commitments](technical-approach/fulton-comprehensive-om-approach-and-transition.md) — p0013¶3 · prose · preferred
@@ -5218,32 +5396,38 @@ _Every block in its source proposal's reading order, under the subsection it was
     - **APPROACH TO ACHIEVING THE COUNTY’S GOALS** (`fulton-county-2025:09.approach-to-achieving-the-county-s-goals`, p. 21)
       - 5. [Transparent Partnership, Community Stewardship, and Facility Appearance](technical-approach/fulton-transparent-community-partnership.md) — p0021¶6 · prose · preferred
     - **1. Meaningful partnership built on transparency, accountability, and investment in community** (`fulton-county-2025:09.1-meaningful-partnership-built-on-transparency-accountabilit`, pp. 21–22)
-      - 6. [Compliance Accountability, Jacobs Reach-Back, and CERM Workforce Development](technical-approach/fulton-compliance-workforce-reachback.md) — p0022¶2 · prose · preferred
+      - 6. [Stable Ownership and Enduring Commitment — O&M Is Our DNA, Not a Trend](win-themes/fulton-stable-ownership-enduring-commitment.md) — p0021¶10 · prose · preferred
+      - 7. [Compliance Accountability, Jacobs Reach-Back, and CERM Workforce Development](technical-approach/fulton-compliance-workforce-reachback.md) — p0022¶2 · prose · preferred
     - **4. Comprehensive support for every aspect of wastewater operations** (`fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera`, pp. 22–26)
-      - 7. [MBR Optimization, Predictive Maintenance, Odor, Biosolids, and Purposeful Innovation](technical-approach/fulton-mbr-maintenance-odor-biosolids-innovation.md) — p0023¶1 · prose · preferred
-      - 8. [Transitioned-Staff Satisfaction and Industry Recognition](technical-approach/fulton-workforce-satisfaction-and-industry-recognition.md) — p0023¶5 · prose · preferred
-      - 9. [Successful Experience at Other Locations: Multi-Facility and MBR Operations](technical-approach/fulton-successful-experience-multi-facility-mbr.md) — p0024¶1 · prose · preferred
-      - 10. [Successful Experience at Other Locations: Transition, Asset Management, and Community Partnership](technical-approach/fulton-successful-experience-transition-asset-community.md) — p0026¶2 · prose · preferred
+      - 8. [MBR Optimization, Predictive Maintenance, Odor, Biosolids, and Purposeful Innovation](technical-approach/fulton-mbr-maintenance-odor-biosolids-innovation.md) — p0023¶1 · prose · preferred
+      - 9. [Transitioned-Staff Satisfaction and Industry Recognition](technical-approach/fulton-workforce-satisfaction-and-industry-recognition.md) — p0023¶5 · prose · preferred
+      - 10. [Successful Experience at Other Locations: Multi-Facility and MBR Operations](technical-approach/fulton-successful-experience-multi-facility-mbr.md) — p0024¶1 · prose · preferred
+      - 11. [Successful Experience at Other Locations: Transition, Asset Management, and Community Partnership](technical-approach/fulton-successful-experience-transition-asset-community.md) — p0026¶2 · prose · preferred
   - **2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance** (`fulton-county-2025:10`, pp. 27–40)
     - 1. [JV Value-Added Innovation Program Opening](win-themes/fulton-value-added-innovation-program.md) — p0027¶2 · prose · preferred
     - **VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE** (`fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee`, pp. 27–30)
-      - 2. [Energy Management Strategy and Operating Actions](win-themes/fulton-energy-management-strategy.md) — p0028¶2 · prose · preferred
-      - 3. [JV Regional Support, Training, and Maintenance Intelligence Benefits](win-themes/fulton-regional-training-maintenance-intelligence.md) — p0028¶2 · prose · preferred
-      - 4. [Process Optimization, Cybersecurity, and Asset-Management Benefits](win-themes/fulton-process-security-asset-management-benefits.md) — p0029¶2 · prose · preferred
-      - 5. [Local Workforce, Digital Twin, and Smart Collections Benefits](win-themes/fulton-workforce-digital-twin-collections-benefits.md) — p0030¶2 · prose · preferred
+      - 2. [Value-Added Investments Exhibit, Part 1: Studies, Regional Support, Training, Energy, and Security](win-themes/fulton-value-added-investments-exhibit-studies-support.md) — p0027¶9 · table · preferred
+      - 3. [Energy Management Strategy and Operating Actions](win-themes/fulton-energy-management-strategy.md) — p0028¶2 · prose · preferred
+      - 4. [JV Regional Support, Training, and Maintenance Intelligence Benefits](win-themes/fulton-regional-training-maintenance-intelligence.md) — p0028¶2 · prose · preferred
+      - 5. [Process Optimization, Cybersecurity, and Asset-Management Benefits](win-themes/fulton-process-security-asset-management-benefits.md) — p0029¶2 · prose · preferred
+      - 6. [Value-Added Investments Exhibit, Part 2: Process Optimization, Cyber, Asset Management, Workforce, and Digital Twin](win-themes/fulton-value-added-investments-exhibit-optimization-digital.md) — p0029¶2 · table · preferred
+      - 7. [Local Workforce, Digital Twin, and Smart Collections Benefits](win-themes/fulton-workforce-digital-twin-collections-benefits.md) — p0030¶2 · prose · preferred
     - **AVAILABLE ADDITIONAL DIGITAL TOOLS FOR NEXT LEVEL OPTIMIZATION OFFERINGS** (`fulton-county-2025:10.available-additional-digital-tools-for-next-level-optimizati`, p. 31)
-      - 6. [Additional Digital Tools for Next-Level Optimization](win-themes/fulton-additional-digital-tools.md) — p0031¶2 · prose · preferred
+      - 8. [Additional Digital Tools for Next-Level Optimization](win-themes/fulton-additional-digital-tools.md) — p0031¶2 · prose · preferred
+    - **DISCOUNTED RATE FOR ENGINEERING SERVICES PROVIDED UNDER THE NORTH FULTON O&M CONTRACT** (`fulton-county-2025:10.discounted-rate-for-engineering-services-provided-under-the`, p. 32)
+      - 9. [Discounted Rate for Engineering Services Provided Under the O&M Contract](technical-approach/fulton-discounted-consulting-rate-value-add.md) — p0032¶2 · prose · preferred
     - **ENERGY MANAGEMENT STRATEGY** (`fulton-county-2025:10.energy-management-strategy`, pp. 32–40)
       - **Benefits to Fulton County** (`fulton-county-2025:10.benefits-to-fulton-county`, pp. 33–34)
-        - 7. [Energy Management Benefits and Strategic Value](win-themes/fulton-energy-management-benefits.md) — p0033¶11 · prose · preferred
+        - 10. [Energy Management Benefits and Strategic Value](win-themes/fulton-energy-management-benefits.md) — p0033¶11 · prose · preferred
       - **Investment Value and Cost Savings** (`fulton-county-2025:10.investment-value-and-cost-savings`, p. 34)
-        - 8. [Energy Management Investment Value and Cost Savings](win-themes/fulton-energy-management-investment-value-and-savings.md) — p0034¶3 · prose · preferred
+        - 11. [Energy Management Investment Value and Cost Savings](win-themes/fulton-energy-management-investment-value-and-savings.md) — p0034¶3 · prose · preferred
       - **Maintenance Planner/Scheduler Powered by Palantir** (`fulton-county-2025:10.maintenance-planner-scheduler-powered-by-palantir`, pp. 34–35)
-        - 9. [Maintenance Planner/Scheduler Powered by Palantir](win-themes/fulton-maintenance-planner-scheduler-palantir.md) — p0034¶16 · prose · preferred
-        - 10. [Maintenance AI Assistant Powered by Palantir](win-themes/fulton-maintenance-ai-assistant-palantir.md) — p0035¶4 · prose · preferred
+        - 12. [Maintenance Planner/Scheduler Powered by Palantir](win-themes/fulton-maintenance-planner-scheduler-palantir.md) — p0034¶16 · prose · preferred
+        - 13. [Intelligent O&M Toolset Included in the Base Fee at No Additional Cost](win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md) — p0035¶2 · prose · preferred
+        - 14. [Maintenance AI Assistant Powered by Palantir](win-themes/fulton-maintenance-ai-assistant-palantir.md) — p0035¶4 · prose · preferred
       - **Replica Digital Twin: Modeling for Process Optimization and Employee Training** (`fulton-county-2025:10.replica-digital-twin-modeling-for-process-optimization-and-e`, pp. 36–39)
-        - 11. [Replica Digital Twin for Process Optimization and Operator Training](win-themes/fulton-replica-digital-twin-optimization-training.md) — p0036¶5 · prose · preferred
-        - 12. [AquaDNA Smart System Optimization and Pump-Station Deragging](win-themes/fulton-aquadna-smart-system-optimization.md) — p0038¶1 · prose · preferred
+        - 15. [Replica Digital Twin for Process Optimization and Operator Training](win-themes/fulton-replica-digital-twin-optimization-training.md) — p0036¶5 · prose · preferred
+        - 16. [AquaDNA Smart System Optimization and Pump-Station Deragging](win-themes/fulton-aquadna-smart-system-optimization.md) — p0038¶1 · prose · preferred
   - **2.7 | Approach to Providing Qualified and Licensed Personnel** (`fulton-county-2025:11`, pp. 40–43)
     - **LONG HISTORY OF SERVICE IN ATLANTA AND THE COUNTY** (`fulton-county-2025:11.long-history-of-service-in-atlanta-and-the-county`, p. 40)
       - 1. [Jacobs Technical Bench and CERM-Led Local Workforce Development](management-staffing/fulton-jv-regional-workforce-and-technical-bench.md) — p0040¶4 · prose · preferred
@@ -5258,141 +5442,186 @@ _Every block in its source proposal's reading order, under the subsection it was
       - 2. [Internal Delivery and QA/QC Functional Support Matrix](management-staffing/fulton-delivery-qaqc-functional-support-matrix.md) — p0046¶4 · table · preferred
     - **STAFFING PLAN** (`fulton-county-2025:12.staffing-plan`, pp. 47–53)
       - 3. [Three-Facility Staffing Plan and FTE Roster](management-staffing/fulton-staffing-plan-and-fte-roster.md) — p0047¶2 · roster · preferred
+      - **Summary Of Delivery Staffing Approach** (`fulton-county-2025:12.summary-of-delivery-staffing-approach`, pp. 47–48)
+        - 4. [Two-Week Day/Night Operator Shift Rotations at the Two Larger Plants](management-staffing/fulton-plant-operator-shift-rotations.md) — p0047¶5 · prose · preferred
       - **Subcontractors** (`fulton-county-2025:12.subcontractors`, p. 50)
-        - 4. [Subcontractor Scopes and Jacobs/CERM O&M Support Bench](management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md) — p0050¶3 · table · preferred
+        - 5. [Subcontractor Scopes and Jacobs/CERM O&M Support Bench](management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md) — p0050¶3 · table · preferred
       - **Building Employee Culture: True Belonging with Diversity, Equality, and Inclusion** (`fulton-county-2025:12.building-employee-culture-true-belonging-with-diversity-equa`, pp. 52–53)
-        - 5. [Inclusive Culture and Employee-Network Development](management-staffing/fulton-inclusive-culture-and-employee-networks.md) — p0052¶2 · prose · fallback
+        - 6. [Inclusive Culture and Employee-Network Development](management-staffing/fulton-inclusive-culture-and-employee-networks.md) — p0052¶2 · prose · fallback
     - **TRAINING PLAN** (`fulton-county-2025:12.training-plan`, pp. 54–57)
-      - 6. [Training, Certification, and Career-Development Program](management-staffing/fulton-training-certification-and-career-development.md) — p0054¶4 · prose · preferred
+      - 7. [Training, Certification, and Career-Development Program](management-staffing/fulton-training-certification-and-career-development.md) — p0054¶4 · prose · preferred
       - **Workforce Development and Staffing Strategy** (`fulton-county-2025:12.workforce-development-and-staffing-strategy`, p. 55)
-        - 7. [CERM-Led Workforce Development and Technical-College Pipeline](management-staffing/fulton-cerm-workforce-development-pipeline.md) — p0055¶12 · prose · preferred
+        - 8. [CERM-Led Workforce Development and Technical-College Pipeline](management-staffing/fulton-cerm-workforce-development-pipeline.md) — p0055¶12 · prose · preferred
       - **Recruiting, Retention, and Succession Planning** (`fulton-county-2025:12.recruiting-retention-and-succession-planning`, p. 57)
-        - 8. [Recruiting, Retention, and Succession Planning](management-staffing/fulton-recruiting-retention-and-succession.md) — p0057¶2 · prose · preferred
+        - 9. [Recruiting, Retention, and Succession Planning](management-staffing/fulton-recruiting-retention-and-succession.md) — p0057¶2 · prose · preferred
     - **OPERATION & MAINTENANCE PLANS** (`fulton-county-2025:12.operation-maintenance-plans`, pp. 58–69)
-      - 9. [Process Control, Data Management, and Operator Rounds](technical-approach/fulton-process-control-data-management-and-operator-rounds.md) — p0058¶2 · prose · fallback
+      - 10. [Process Control, Data Management, and Operator Rounds](technical-approach/fulton-process-control-data-management-and-operator-rounds.md) — p0058¶2 · prose · fallback
+      - **Process Control** (`fulton-county-2025:12.process-control`, pp. 58–59)
+        - 11. [Proven Operations Plans Toolkit — UPCPs, Sampling Plan, and Sample Tracking Tool](technical-approach/fulton-operations-plans-toolkit-table.md) — p0058¶8 · table · preferred
       - **Process Optimization** (`fulton-county-2025:12.process-optimization`, p. 60)
-        - 10. [Process Optimization, Fermentation, and Phosphorus Removal](technical-approach/fulton-process-optimization-fermentation-phosphorus.md) — p0060¶2 · prose · preferred
+        - 12. [Process Optimization, Fermentation, and Phosphorus Removal](technical-approach/fulton-process-optimization-fermentation-phosphorus.md) — p0060¶2 · prose · preferred
+      - **Fermentation Zones** (`fulton-county-2025:12.fermentation-zones`, p. 60)
+        - 13. [Fermentation Zone Operating Variables and Full-Scale Testing](technical-approach/fulton-fermentation-zone-operating-variables.md) — p0060¶10 · prose · preferred
+      - **Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition** (`fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add`, pp. 60–61)
+        - 14. [Phos-Zorb Versus Alum — Aluminum, Alkalinity Credit, and Delivery Trade-Offs](technical-approach/fulton-phos-zorb-versus-alum-evaluation.md) — p0061¶4 · prose · preferred
+        - 15. [Chemically Enhanced Primary Treatment — Metal Salt Selection and Jar Testing](technical-approach/fulton-chemically-enhanced-primary-treatment.md) — p0061¶16 · prose · preferred
       - **Swing Zones** (`fulton-county-2025:12.swing-zones`, p. 62)
-        - 11. [Swing Zones and Internal Mixed Liquor Recycle Optimization](technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md) — p0062¶2 · prose · preferred
+        - 16. [Swing Zones and Internal Mixed Liquor Recycle Optimization](technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md) — p0062¶2 · prose · preferred
+        - 17. [Swing-Zone Aeration Decisions and Nitrate Probe Placement](technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md) — p0062¶3 · prose · preferred
       - **Little River WRF Internal Mixed Liquor Recycle** (`fulton-county-2025:12.little-river-wrf-internal-mixed-liquor-recycle`, pp. 62–63)
-        - 12. [IMLR Piping Evaluation and Membrane Commissioning Support](technical-approach/fulton-imlr-piping-and-membrane-commissioning.md) — p0063¶1 · prose · preferred
+        - 18. [IMLR Piping Evaluation and Membrane Commissioning Support](technical-approach/fulton-imlr-piping-and-membrane-commissioning.md) — p0063¶1 · prose · preferred
       - **Chemical Cleaning to Maintain Membrane Performance** (`fulton-county-2025:12.chemical-cleaning-to-maintain-membrane-performance`, pp. 63–64)
-        - 13. [Membrane Cleaning, Alkalinity Addition, and Mixed-Liquor Filterability](technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md) — p0063¶14 · prose · preferred
+        - 19. [Membrane Cleaning, Alkalinity Addition, and Mixed-Liquor Filterability](technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md) — p0063¶14 · prose · preferred
       - **Tracking Membrane Performance** (`fulton-county-2025:12.tracking-membrane-performance`, pp. 65–67)
-        - 14. [Membrane Monitoring, SCADA Capability, and Peak-Flow Testing](technical-approach/fulton-membrane-monitoring-and-scada-capability.md) — p0065¶3 · prose · preferred
+        - 20. [Membrane Monitoring, SCADA Capability, and Peak-Flow Testing](technical-approach/fulton-membrane-monitoring-and-scada-capability.md) — p0065¶3 · prose · preferred
       - **Properly Operating Scrubbers to Avoid Offsite Odor** (`fulton-county-2025:12.properly-operating-scrubbers-to-avoid-offsite-odor`, pp. 67–68)
-        - 15. [Scrubber Optimization for Offsite Odor Control](technical-approach/fulton-odor-control-scrubber-optimization.md) — p0067¶8 · prose · preferred
+        - 21. [Scrubber Optimization for Offsite Odor Control](technical-approach/fulton-odor-control-scrubber-optimization.md) — p0067¶8 · prose · preferred
       - **Reducing Real-Time/Peak Power Consumption** (`fulton-county-2025:12.reducing-real-time-peak-power-consumption`, p. 68)
-        - 16. [Energy Management, Equipment Availability, and Ammonia-Based Aeration](technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md) — p0068¶3 · prose · preferred
+        - 22. [Energy Management, Equipment Availability, and Ammonia-Based Aeration](technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md) — p0068¶3 · prose · preferred
       - **Ultraviolet Disinfection** (`fulton-county-2025:12.ultraviolet-disinfection`, p. 69)
-        - 17. [UV Disinfection, Solids Dewatering, and Potable-Water Protection](technical-approach/fulton-uv-solids-and-potable-water-protection.md) — p0069¶6 · prose · preferred
+        - 23. [UV Disinfection, Solids Dewatering, and Potable-Water Protection](technical-approach/fulton-uv-solids-and-potable-water-protection.md) — p0069¶6 · prose · preferred
     - **REGULATORY COMPLIANCE** (`fulton-county-2025:12.regulatory-compliance`, pp. 70–73)
       - **Corporate Capability and Approach** (`fulton-county-2025:12.corporate-capability-and-approach`, p. 70)
-        - 18. [JV Regulatory Compliance Program and Transparent Reporting](compliance-plans/fulton-regulatory-compliance-program.md) — p0070¶3 · prose · preferred
+        - 24. [JV Regulatory Compliance Program and Transparent Reporting](compliance-plans/fulton-regulatory-compliance-program.md) — p0070¶3 · prose · preferred
       - **Training** (`fulton-county-2025:12.training`, pp. 70–71)
-        - 19. [JV Compliance Training and Oversight Tools](compliance-plans/fulton-compliance-training-and-tools.md) — p0070¶14 · prose · preferred
-        - 20. [Laboratory QA/QC and Compliance Dashboard](compliance-plans/fulton-laboratory-qaqc-and-compliance-dashboard.md) — p0071¶1 · prose · preferred
+        - 25. [JV Compliance Training and Oversight Tools](compliance-plans/fulton-compliance-training-and-tools.md) — p0070¶14 · prose · preferred
+        - 26. [Laboratory QA/QC and Compliance Dashboard](compliance-plans/fulton-laboratory-qaqc-and-compliance-dashboard.md) — p0071¶1 · prose · preferred
       - **Electronic Document Management System** (`fulton-county-2025:12.electronic-document-management-system`, p. 72)
-        - 21. [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md) — p0072¶3 · prose · preferred
+        - 27. [Regulatory Governance, Document Control, and Audits](compliance-plans/fulton-regulatory-governance-and-audits.md) — p0072¶3 · prose · preferred
       - **Environmental Management Plan** (`fulton-county-2025:12.environmental-management-plan`, p. 73)
-        - 22. [Environmental Management, Transparent Reporting, and Sampling Strategy](compliance-plans/fulton-environmental-management-and-sampling-strategy.md) — p0073¶2 · prose · preferred
+        - 28. [Environmental Management, Transparent Reporting, and Sampling Strategy](compliance-plans/fulton-environmental-management-and-sampling-strategy.md) — p0073¶2 · prose · preferred
     - **LABORATORY MANAGEMENT AND SAMPLING PLAN** (`fulton-county-2025:12.laboratory-management-and-sampling-plan`, pp. 73–75)
       - **Overview and Compliance Strategy** (`fulton-county-2025:12.overview-and-compliance-strategy`, pp. 73–74)
-        - 23. [Laboratory Management and Compliance Plan](compliance-plans/fulton-laboratory-management-and-compliance-plan.md) — p0073¶8 · prose · preferred
+        - 29. [Laboratory Management and Compliance Plan](compliance-plans/fulton-laboratory-management-and-compliance-plan.md) — p0073¶8 · prose · preferred
       - **Sampling Program** (`fulton-county-2025:12.sampling-program`, p. 74)
-        - 24. [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md) — p0074¶5 · prose · preferred
+        - 30. [Sampling Information Management, Audits, and Training](compliance-plans/fulton-sampling-information-audits-and-training.md) — p0074¶5 · prose · preferred
     - **SLUDGE/BIOSOLIDS MANAGEMENT** (`fulton-county-2025:12.sludge-biosolids-management`, pp. 76–78)
       - **Industry-Leading Expertise in Comprehensive Biosolids Management Solutions** (`fulton-county-2025:12.industry-leading-expertise-in-comprehensive-biosolids-manage`, p. 76)
-        - 25. [Biosolids Capability and Facility Assessment](technical-approach/fulton-biosolids-capability-and-facility-assessment.md) — p0076¶3 · prose · preferred
+        - 31. [Biosolids Capability and Facility Assessment](technical-approach/fulton-biosolids-capability-and-facility-assessment.md) — p0076¶3 · prose · preferred
       - **Little River WRF** (`fulton-county-2025:12.little-river-wrf`, p. 77)
-        - 26. [Biosolids Transfer, Beneficial Reuse, and Dewatering Optimization](technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md) — p0077¶3 · prose · preferred
+        - 32. [Biosolids Transfer, Beneficial Reuse, and Dewatering Optimization](technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md) — p0077¶3 · prose · preferred
       - **Temporary and/or Emergency Dewatering** (`fulton-county-2025:12.temporary-and-or-emergency-dewatering`, p. 78)
-        - 27. [Biosolids Resilience, Emerging Contaminants, and Dryer Support](technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md) — p0078¶3 · prose · preferred
+        - 33. [Biosolids Resilience, Emerging Contaminants, and Dryer Support](technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md) — p0078¶3 · prose · preferred
     - **ODOR AND NOISE MITIGATION** (`fulton-county-2025:12.odor-and-noise-mitigation`, pp. 79–80)
-      - 28. [Odor Control Baseline and Routine Monitoring](technical-approach/fulton-odor-control-baseline-and-monitoring.md) — p0079¶2 · prose · preferred
+      - 34. [Odor Control Baseline and Routine Monitoring](technical-approach/fulton-odor-control-baseline-and-monitoring.md) — p0079¶2 · prose · preferred
       - **Odor and Noise Control Program** (`fulton-county-2025:12.odor-and-noise-control-program`, p. 79)
-        - 29. [Odor and Noise Complaint Response and Source Evaluation](technical-approach/fulton-odor-complaint-response-and-source-evaluation.md) — p0079¶6 · prose · preferred
+        - 35. [Odor and Noise Complaint Response and Source Evaluation](technical-approach/fulton-odor-complaint-response-and-source-evaluation.md) — p0079¶6 · prose · preferred
       - **Addressing Odor or Noise Complaints** (`fulton-county-2025:12.addressing-odor-or-noise-complaints`, pp. 79–80)
-        - 30. [Odor Emissions Study and Routine Housekeeping](technical-approach/fulton-odor-emissions-study-and-housekeeping.md) — p0079¶12 · prose · preferred
+        - 36. [Odor Emissions Study and Routine Housekeeping](technical-approach/fulton-odor-emissions-study-and-housekeeping.md) — p0079¶12 · prose · preferred
     - **ASSET MANAGEMENT AND MAINTENANCE** (`fulton-county-2025:12.asset-management-and-maintenance`, pp. 81–87)
-      - 31. [JV Asset Management System and Technical Support](technical-approach/fulton-asset-management-system-and-technical-support.md) — p0081¶2 · prose · preferred
+      - 37. [JV Asset Management System and Technical Support](technical-approach/fulton-asset-management-system-and-technical-support.md) — p0081¶2 · prose · preferred
       - **Asset Management-centered Maintenance Approach** (`fulton-county-2025:12.asset-management-centered-maintenance-approach`, pp. 82–83)
-        - 32. [ISO 55001-Aligned AMS, CMMS, and Risk Workshop](technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md) — p0082¶8 · prose · preferred
+        - 38. [ISO 55001-Aligned AMS, CMMS, and Risk Workshop](technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md) — p0082¶8 · prose · preferred
       - **JC Solutions’ AMS Elements Built on the 10-Box Model** (`fulton-county-2025:12.jc-solutions-ams-elements-built-on-the-10-box-model`, pp. 83–86)
-        - 33. [Lifecycle Maintenance, Risk, and Performance Management](technical-approach/fulton-lifecycle-maintenance-risk-and-performance-management.md) — p0084¶1 · prose · preferred
+        - 39. [Lifecycle Maintenance, Risk, and Performance Management](technical-approach/fulton-lifecycle-maintenance-risk-and-performance-management.md) — p0084¶1 · prose · preferred
       - **Key Focus Areas for Asset Management and Maintenance** (`fulton-county-2025:12.key-focus-areas-for-asset-management-and-maintenance`, pp. 86–87)
-        - 34. [MBR Facility Maintenance Priorities](technical-approach/fulton-mbr-facility-maintenance-priorities.md) — p0086¶4 · prose · fallback
+        - 40. [MBR Facility Maintenance Priorities](technical-approach/fulton-mbr-facility-maintenance-priorities.md) — p0086¶4 · prose · fallback
     - **JCEC** (`fulton-county-2025:12.jcec`, pp. 87–90)
       - **Key Findings of Our Initial Facilities Assessments** (`fulton-county-2025:12.key-findings-of-our-initial-facilities-assessments`, p. 88)
-        - 35. [Pump Station Predictive Maintenance and Condition Monitoring](technical-approach/fulton-pump-station-predictive-maintenance.md) — p0088¶4 · prose · preferred
+        - 41. [Pump Station Predictive Maintenance and Condition Monitoring](technical-approach/fulton-pump-station-predictive-maintenance.md) — p0088¶4 · prose · preferred
       - **Site Housekeeping and Facility Appearance** (`fulton-county-2025:12.site-housekeeping-and-facility-appearance`, pp. 89–90)
-        - 36. [Facility Appearance Standard and MBR Maintenance Experience](technical-approach/fulton-facility-appearance-and-mbr-maintenance-experience.md) — p0089¶8 · prose · preferred
+        - 42. [Facility Appearance Standard and MBR Maintenance Experience](technical-approach/fulton-facility-appearance-and-mbr-maintenance-experience.md) — p0089¶8 · prose · preferred
       - **Equipment Performance Testing Plan** (`fulton-county-2025:12.equipment-performance-testing-plan`, p. 90)
-        - 37. [Equipment Performance Testing Plan](technical-approach/fulton-equipment-performance-testing-plan.md) — p0090¶3 · prose · preferred
+        - 43. [Equipment Performance Testing Plan](technical-approach/fulton-equipment-performance-testing-plan.md) — p0090¶3 · prose · preferred
     - **SAFETY PLAN AND MANAGEMENT** (`fulton-county-2025:12.safety-plan-and-management`, pp. 91–93)
-      - 38. [BeyondZero Safety Culture, Work Controls, and Safety Scorecard](compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md) — p0091¶2 · prose · preferred
+      - 44. [BeyondZero Safety Culture, Work Controls, and Safety Scorecard](compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md) — p0091¶2 · prose · preferred
+      - **Leadership Engagement and Accountability** (`fulton-county-2025:12.leadership-engagement-and-accountability`, p. 91)
+        - 45. [Safety Leadership Engagement, Accountability, and Proactive Safety Management](compliance-plans/fulton-safety-leadership-engagement-and-proactive-record.md) — p0091¶5 · prose · preferred
+      - **Key Elements of Our Safety Program and Planning** (`fulton-county-2025:12.key-elements-of-our-safety-program-and-planning`, pp. 91–93)
+        - 46. [Key Elements of the Safety Program and Planning (Exhibit 2-41)](compliance-plans/fulton-safety-program-key-elements-table.md) — p0092¶2 · table · preferred
     - **SECURITY PLAN** (`fulton-county-2025:12.security-plan`, pp. 94–96)
-      - 39. [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md) — p0094¶2 · prose · preferred
+      - 47. [Site Security Plan and SSA Framework: Monitoring, Governance, and Technology](compliance-plans/fulton-security-assessment-monitoring-governance-technology.md) — p0094¶2 · prose · preferred
+      - 48. [Security Plan Components: Access Control, Incident Reporting, and Information Protection](compliance-plans/fulton-security-plan-components-access-control-and-incident-reporting.md) — p0094¶5 · prose · preferred
+      - **Security Governance** (`fulton-county-2025:12.security-governance`, p. 95)
+        - 49. [Balanced Utility Security: Governance and Technology Components](compliance-plans/fulton-balanced-security-governance-and-technology.md) — p0095¶6 · prose · preferred
     - **CYBERSECURITY** (`fulton-county-2025:12.cybersecurity`, pp. 96–97)
-      - 40. [ICS Cybersecurity, 3-2-1-1 Backups, and Disaster Recovery](compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md) — p0096¶22 · prose · preferred
+      - 50. [ICS Cybersecurity, 3-2-1-1 Backups, and Disaster Recovery](compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md) — p0096¶22 · prose · preferred
     - **EMERGENCY RESPONSE AND DISASTER PREPAREDNESS PLAN** (`fulton-county-2025:12.emergency-response-and-disaster-preparedness-plan`, pp. 98–100)
-      - 41. [Emergency Response, 24/7 Reporting, and Regional Disaster Support](compliance-plans/fulton-emergency-response-regional-disaster-support.md) — p0098¶2 · prose · preferred
+      - 51. [Emergency Response, 24/7 Reporting, and Regional Disaster Support](compliance-plans/fulton-emergency-response-regional-disaster-support.md) — p0098¶2 · prose · preferred
     - **CUSTOMER SERVICE PLAN** (`fulton-county-2025:12.customer-service-plan`, pp. 101–102)
-      - 42. [JV Customer Service Plan and Accountability](technical-approach/fulton-customer-service-plan.md) — p0101¶2 · prose · preferred
+      - 52. [JV Customer Service Plan and Accountability](technical-approach/fulton-customer-service-plan.md) — p0101¶2 · prose · preferred
     - **COMMUNICATIONS AND REPORTING** (`fulton-county-2025:12.communications-and-reporting`, pp. 102–103)
-      - 43. [JV Communications Cadence, Reporting, and Dashboard Transparency](technical-approach/fulton-communications-cadence-and-reporting.md) — p0102¶4 · prose · fallback
+      - 53. [JV Communications Cadence, Reporting, and Dashboard Transparency](technical-approach/fulton-communications-cadence-and-reporting.md) — p0102¶4 · prose · fallback
     - **ANNUAL INNOVATION WORKSHOP** (`fulton-county-2025:12.annual-innovation-workshop`, pp. 103–104)
-      - 44. [JV Annual Innovation Workshop](technical-approach/fulton-annual-innovation-workshop.md) — p0103¶4 · prose · fallback
+      - 54. [JV Annual Innovation Workshop](technical-approach/fulton-annual-innovation-workshop.md) — p0103¶4 · prose · fallback
     - **PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN** (`fulton-county-2025:12.public-education-and-community-outreach-plan`, pp. 105–106)
-      - 45. [JV Community Outreach Team and Public Relations Framework](technical-approach/fulton-community-outreach-team-and-framework.md) — p0105¶2 · prose · preferred
+      - 55. [JV Community Outreach Team and Public Relations Framework](technical-approach/fulton-community-outreach-team-and-framework.md) — p0105¶2 · prose · preferred
     - **3. Strategic partnerships** (`fulton-county-2025:12.3-strategic-partnerships`, pp. 106–115)
       - **Public Relations Plan** (`fulton-county-2025:12.public-relations-plan`, p. 106)
-        - 46. [JV Community Concerns, Complaint Response, and Regulatory Engagement](technical-approach/fulton-community-concerns-and-regulatory-engagement.md) — p0106¶17 · prose · preferred
+        - 56. [JV Community Concerns, Complaint Response, and Regulatory Engagement](technical-approach/fulton-community-concerns-and-regulatory-engagement.md) — p0106¶17 · prose · preferred
       - **Community Outreach Plan** (`fulton-county-2025:12.community-outreach-plan`, p. 108)
-        - 47. [JV Community Relations Plan and Stakeholder Directory](technical-approach/fulton-community-relations-plan-and-stakeholder-directory.md) — p0108¶3 · prose · preferred
+        - 57. [JV Community Relations Plan and Stakeholder Directory](technical-approach/fulton-community-relations-plan-and-stakeholder-directory.md) — p0108¶3 · prose · preferred
       - **Stakeholders Directory** (`fulton-county-2025:12.stakeholders-directory`, pp. 108–109)
-        - 48. [Community Outreach Leadership and Communication Tools](win-themes/fulton-community-outreach-leadership-and-communication-tools.md) — p0109¶1 · prose · preferred
+        - 58. [Community Outreach Leadership and Communication Tools](win-themes/fulton-community-outreach-leadership-and-communication-tools.md) — p0109¶1 · prose · preferred
       - **School Program** (`fulton-county-2025:12.school-program`, pp. 109–110)
-        - 49. [School STEM and Career Exploration Program](win-themes/fulton-school-stem-and-career-exploration-program.md) — p0109¶11 · prose · preferred
+        - 59. [School STEM and Career Exploration Program](win-themes/fulton-school-stem-and-career-exploration-program.md) — p0109¶11 · prose · preferred
       - **Public Information Display** (`fulton-county-2025:12.public-information-display`, p. 110)
-        - 50. [Public Information Displays, Tours, and Speakers Bureau](win-themes/fulton-public-information-displays-tours-and-speakers-bureau.md) — p0110¶3 · prose · preferred
+        - 60. [Public Information Displays, Tours, and Speakers Bureau](win-themes/fulton-public-information-displays-tours-and-speakers-bureau.md) — p0110¶3 · prose · preferred
       - **Media Relations Program** (`fulton-county-2025:12.media-relations-program`, pp. 110–114)
-        - 51. [Proactive Media Relations Program](win-themes/fulton-proactive-media-relations-program.md) — p0110¶20 · prose · preferred
-        - 52. [Community Internship and Workforce Development Partnerships](win-themes/fulton-community-internship-and-workforce-development-partnerships.md) — p0111¶1 · prose · preferred
-        - 53. [Community Organization and Water Stewardship Partnerships](win-themes/fulton-community-organization-and-water-stewardship-partnerships.md) — p0112¶1 · prose · preferred
-        - 54. [Interactive Community Education and Wellness Partnerships](win-themes/fulton-interactive-community-education-and-wellness-partnerships.md) — p0113¶1 · prose · preferred
+        - 61. [Proactive Media Relations Program](win-themes/fulton-proactive-media-relations-program.md) — p0110¶20 · prose · preferred
+        - 62. [Community Internship and Workforce Development Partnerships](win-themes/fulton-community-internship-and-workforce-development-partnerships.md) — p0111¶1 · prose · preferred
+        - 63. [Community Organization and Water Stewardship Partnerships](win-themes/fulton-community-organization-and-water-stewardship-partnerships.md) — p0112¶1 · prose · preferred
+        - 64. [Interactive Community Education and Wellness Partnerships](win-themes/fulton-interactive-community-education-and-wellness-partnerships.md) — p0113¶1 · prose · preferred
         - **Office)** (`fulton-county-2025:12.office`, p. 114)
-          - 55. [Community Engagement Accountability and Relief Support](win-themes/fulton-community-engagement-accountability-and-relief-support.md) — p0114¶3 · prose · preferred
+          - 65. [Community Engagement Accountability and Relief Support](win-themes/fulton-community-engagement-accountability-and-relief-support.md) — p0114¶3 · prose · preferred
   - **2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date** (`fulton-county-2025:13`, pp. 115–126)
     - **Fluid Continuity: Enabling Uninterrupted Excellence in Water Services** (`fulton-county-2025:13.fluid-continuity-enabling-uninterrupted-excellence-in-water`, pp. 115–116)
       - 1. [Transition Continuity and Staff Transfer](technical-approach/fulton-transition-continuity-and-staff-transfer.md) — p0115¶4 · prose · preferred
+    - **Tapping the Value of Existing Staff** (`fulton-county-2025:13.tapping-the-value-of-existing-staff`, p. 116)
+      - 2. [Blended Team Build — Transitioning Staff, Internal Resources, and Targeted Recruiting](management-staffing/fulton-blended-team-build-and-recruiting-backstop.md) — p0116¶7 · prose · preferred
+    - **Proven Approach to Supporting Existing Employees and Transition Success** (`fulton-county-2025:13.proven-approach-to-supporting-existing-employees-and-transit`, p. 117)
+      - 3. [Refining Job Descriptions in the First Days of Transition](management-staffing/fulton-job-description-refinement-first-days.md) — p0117¶3 · prose · preferred
+    - **Compensation Package** (`fulton-county-2025:13.compensation-package`, pp. 117–118)
+      - 4. [Compensation Package and Employee Satisfaction after Transition](management-staffing/fulton-compensation-package-employee-satisfaction.md) — p0117¶7 · prose · preferred
+      - 5. [Six-Step Approach to Retaining Local Talent and Staffing the Contract](management-staffing/fulton-six-step-staff-retention-transition-process.md) — p0117¶8 · prose · preferred
+    - **Leadership from JC Solutions Staff** (`fulton-county-2025:13.leadership-from-jc-solutions-staff`, p. 118)
+      - 6. [Leadership from JC Solutions Staff — Key Positions and Regional Backfill](management-staffing/fulton-key-positions-filled-by-jv-staff.md) — p0118¶7 · prose · preferred
+    - **Transition Team** (`fulton-county-2025:13.transition-team`, pp. 118–119)
+      - 7. [Transition Team Composition and Continued SME Support](management-staffing/fulton-transition-team-composition-and-continued-support.md) — p0118¶12 · prose · preferred
+    - **Transition Training Period** (`fulton-county-2025:13.transition-training-period`, pp. 119–120)
+      - 8. [Transition Training Period — Onboarding and Ongoing Training Curriculum](management-staffing/fulton-transition-training-period-onboarding-curriculum.md) — p0120¶1 · prose · preferred
     - **45-Day Schedule for Smooth Transition of Operations and Related Systems** (`fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-operations-and-rela`, p. 120)
-      - 2. [Transition Schedule and Exit Transition Plan](technical-approach/fulton-transition-schedule-and-exit-plan.md) — p0120¶12 · table · preferred
+      - 9. [Transition Schedule and Exit Transition Plan](technical-approach/fulton-transition-schedule-and-exit-plan.md) — p0120¶12 · table · preferred
+      - 10. [45-Day Transition Commitment and Phased Approach](management-staffing/fulton-45-day-transition-confidence-and-phasing.md) — p0120¶13 · prose · preferred
+    - **Pre-Start Transition (15 Days Prior to June 6)** (`fulton-county-2025:13.pre-start-transition-15-days-prior-to-june-6`, p. 120)
+      - 11. [Pre-Start and Initial Transition Phases — HR Groundwork and the Badge Flip](management-staffing/fulton-pre-start-and-initial-transition-phases.md) — p0120¶17 · prose · preferred
+    - **Long-Term Staffing/Succession Planning Practices** (`fulton-county-2025:13.long-term-staffing-succession-planning-practices`, pp. 121–123)
+      - 12. [Long-Term Staffing and Succession Practices — Pipeline, Military Recruiting, and Incentives](management-staffing/fulton-long-term-staffing-and-succession-practices.md) — p0121¶9 · prose · preferred
+      - 13. [Train to Retain — Training and Development Programs for O&M Staff (Exhibit 2-48)](management-staffing/fulton-train-to-retain-development-programs-table.md) — p0123¶3 · table · preferred
+    - **JC Solutions’ Approach to the Exit Transition Process** (`fulton-county-2025:13.jc-solutions-approach-to-the-exit-transition-process`, p. 124)
+      - 14. [Exit Transition Approach — Priorities Shaped by a Real Handback](management-staffing/fulton-exit-transition-approach-and-priorities.md) — p0124¶4 · prose · preferred
+    - **Key Elements of the Exit Transition Plan** (`fulton-county-2025:13.key-elements-of-the-exit-transition-plan`, pp. 124–125)
+      - 15. [Exit Transition Plan — Asset Condition, Inventory, and Staffing Knowledge Transfer](management-staffing/fulton-exit-transition-asset-condition-and-staffing-knowledge-transfer.md) — p0124¶12 · prose · preferred
+    - **Lessons Learned** (`fulton-county-2025:13.lessons-learned`, p. 125)
+      - 16. [Exit Transition Lessons Learned and Digital Handover Support](management-staffing/fulton-exit-transition-lessons-learned-and-digital-support.md) — p0125¶22 · prose · preferred
 - **Section 3 | Project Team Qualifications, Qualifications of Key Personnel** (`fulton-county-2025:14`, pp. 126–167)
   - 1. [JC Solutions JV Team Organization and Key Personnel](management-staffing/fulton-team-organization-and-key-personnel.md) — p0127¶2 · roster · preferred
   - **TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M** (`fulton-county-2025:14.team-organization-optimizes-and-elevates-o-m`, pp. 128–158)
+    - 2. [Retaining Existing Staff, Named Key Positions, and Backfill Resources](management-staffing/fulton-retaining-existing-staff-and-backfill-resources.md) — p0128¶3 · prose · preferred
+    - **Fulton County Department of Public Works** (`fulton-county-2025:14.fulton-county-department-of-public-works`, p. 129)
+      - 3. [JC Solutions Proposed Team Organization Roster (Exhibit 3-1)](resumes/fulton-proposed-team-organization-roster.md) — p0129¶3 · roster · preferred
     - **Subcontractors** (`fulton-county-2025:14.subcontractors`, pp. 129–158)
-      - 2. [Team Organization Subcontractors and Consulting Bench](management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md) — p0129¶9 · table · preferred
-      - 3. [Resume — Anthony Benavidez (Project Manager)](resumes/anthony-benavidez.md) — p0130¶2 · prose · preferred
-      - 4. [Resume — Devon Trezevant (Operations and Compliance Manager)](resumes/devon-trezevant.md) — p0133¶3 · prose · preferred
-      - 5. [Resume — Nathan Dahl (Maintenance Manager)](resumes/nathan-dahl.md) — p0136¶3 · prose · preferred
-      - 6. [Resume — David Pitocchelli (Little River Plant Manager)](resumes/david-pitocchelli-little-river-plant-manager.md) — p0139¶3 · prose · preferred
-      - 7. [Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)](resumes/fulton-nathan-callison-johns-creek-plant-manager.md) — p0142¶1 · prose · fallback
-      - 8. [Resume — Mark Huggard, CMRT (Big Creek Plant Manager)](resumes/fulton-mark-huggard-big-creek-plant-manager.md) — p0145¶1 · prose · preferred
-      - 9. [Resume — Tim Durham (Senior Supervisor | Operations Management Director)](resumes/fulton-tim-durham-senior-supervisor.md) — p0148¶2 · prose · preferred
-      - 10. [Resume — Benjamin Bagwell (Senior Strategic Supervisor)](resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md) — p0151¶2 · prose · preferred
-      - 11. [Resume — Terrell Gibbs, PhD, PE (Workforce Development and Training)](resumes/terrell-gibbs.md) — p0153¶1 · prose · preferred
-      - 12. [Resume — Scott Levesque, PE (MBR Specialist and Wastewater Process)](resumes/scott-levesque.md) — p0156¶2 · prose · preferred
+      - 4. [Team Organization Subcontractors and Consulting Bench](management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md) — p0129¶9 · table · preferred
+      - 5. [Resume — Anthony Benavidez (Project Manager)](resumes/anthony-benavidez.md) — p0130¶2 · prose · preferred
+      - 6. [Resume — Devon Trezevant (Operations and Compliance Manager)](resumes/devon-trezevant.md) — p0133¶3 · prose · preferred
+      - 7. [Resume — Nathan Dahl (Maintenance Manager)](resumes/nathan-dahl.md) — p0136¶3 · prose · preferred
+      - 8. [Resume — David Pitocchelli (Little River Plant Manager)](resumes/david-pitocchelli-little-river-plant-manager.md) — p0139¶3 · prose · preferred
+      - 9. [Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)](resumes/fulton-nathan-callison-johns-creek-plant-manager.md) — p0142¶1 · prose · fallback
+      - 10. [Resume — Mark Huggard, CMRT (Big Creek Plant Manager)](resumes/fulton-mark-huggard-big-creek-plant-manager.md) — p0145¶1 · prose · preferred
+      - 11. [Resume — Tim Durham (Senior Supervisor | Operations Management Director)](resumes/fulton-tim-durham-senior-supervisor.md) — p0148¶2 · prose · preferred
+      - 12. [Resume — Benjamin Bagwell (Senior Strategic Supervisor)](resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md) — p0151¶2 · prose · preferred
+      - 13. [Resume — Terrell Gibbs, PhD, PE (Workforce Development and Training)](resumes/terrell-gibbs.md) — p0153¶1 · prose · preferred
+      - 14. [Resume — Scott Levesque, PE (MBR Specialist and Wastewater Process)](resumes/scott-levesque.md) — p0156¶2 · prose · preferred
   - **EXECUTIVE SPONSORS AND SENIOR SUPERVISORS** (`fulton-county-2025:14.executive-sponsors-and-senior-supervisors`, p. 159)
-    - 13. [JC Solutions JV Executive Sponsors and Senior Supervisors](qualifications/fulton-jv-executive-sponsors-and-senior-supervisors.md) — p0159¶2 · roster · preferred
+    - 15. [JC Solutions JV Executive Sponsors and Senior Supervisors](qualifications/fulton-jv-executive-sponsors-and-senior-supervisors.md) — p0159¶2 · roster · preferred
   - **ADDITIONAL MANAGEMENT AND LEADERSHIP** (`fulton-county-2025:14.additional-management-and-leadership`, pp. 160–161)
-    - 14. [JC Solutions JV Additional Management and Leadership](qualifications/fulton-jv-additional-management-and-leadership.md) — p0160¶2 · roster · preferred
+    - 16. [JC Solutions JV Additional Management and Leadership](qualifications/fulton-jv-additional-management-and-leadership.md) — p0160¶2 · roster · preferred
   - **O&M RESOURCES** (`fulton-county-2025:14.o-m-resources`, pp. 161–167)
-    - 15. [JC Solutions JV O&M Resources — Maintenance, Compliance, Digital, Laboratory, and Energy](qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md) — p0161¶3 · roster · preferred
-    - 16. [JC Solutions JV O&M Resources — Operations, Safety, Biosolids, Workforce, Procurement, and Administration](qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md) — p0163¶1 · roster · preferred
+    - 17. [JC Solutions JV O&M Resources — Maintenance, Compliance, Digital, Laboratory, and Energy](qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md) — p0161¶3 · roster · preferred
+    - 18. [JC Solutions JV O&M Resources — Operations, Safety, Biosolids, Workforce, Procurement, and Administration](qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md) — p0163¶1 · roster · preferred
     - **Jorge Bermudez** (`fulton-county-2025:14.jorge-bermudez`, pp. 163–167)
-      - 17. [JC Solutions JV Consulting Resources — Membrane, Process, and Wet-Weather Support](qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md) — p0165¶2 · roster · preferred
-      - 18. [JC Solutions JV Consulting Resources — Digital, Solids, Energy, and Commissioning](qualifications/fulton-jv-consulting-resources-digital-solids-energy-and-commissioning.md) — p0166¶1 · roster · preferred
+      - 19. [JC Solutions JV Consulting Resources — Membrane, Process, and Wet-Weather Support](qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md) — p0165¶2 · roster · preferred
+      - 20. [JC Solutions JV Consulting Resources — Digital, Solids, Energy, and Commissioning](qualifications/fulton-jv-consulting-resources-digital-solids-energy-and-commissioning.md) — p0166¶1 · roster · preferred
 - **Section 4 | Relevant Project Experience** (`fulton-county-2025:15`, pp. 167–180)
   - **JACOBS’ EXPERIENCE OPERATING US TREATMENT FACILITIES** (`fulton-county-2025:15.jacobs-experience-operating-us-treatment-facilities`, p. 168)
     - 1. [Jacobs US Treatment Facilities O&M Portfolio](past-performance/fulton-us-treatment-facilities-portfolio.md) — p0168¶4 · prose · preferred
@@ -5403,12 +5632,13 @@ _Every block in its source proposal's reading order, under the subsection it was
     - 5. [Exhibit 4-1 — Jacobs MBR Experience Highlights: Operations Experience](past-performance/fulton-mbr-experience-highlights-operations-table.md) — p0170¶2 · table · preferred
   - **JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE** (`fulton-county-2025:15.jacobs-collection-system-pump-station-experience`, pp. 171–180)
     - 6. [Jacobs Collection System Pump Station Experience](past-performance/fulton-pump-station-operations-experience.md) — p0171¶5 · prose · preferred
-    - 7. [Traverse City Regional WWTP DBO — Reference Overview](past-performance/fulton-traverse-city-dbo-overview.md) — p0174¶2 · prose · preferred
-    - 8. [Traverse City Regional WWTP DBO — Accomplishments and Performance](past-performance/fulton-traverse-city-dbo-accomplishments.md) — p0175¶2 · prose · preferred
-    - 9. [Spokane County Regional Water Reclamation Facility DBO — Reference Overview](past-performance/fulton-spokane-county-dbo-overview.md) — p0176¶2 · prose · preferred
-    - 10. [Spokane County Regional Water Reclamation Facility DBO — Delivery and Performance](past-performance/fulton-spokane-county-dbo-performance.md) — p0177¶2 · prose · preferred
-    - 11. [Clovis WWTP Reuse Facility — Reference Overview](past-performance/fulton-clovis-reuse-facility-overview.md) — p0178¶2 · prose · preferred
-    - 12. [Clovis WWTP Reuse Facility — Operating Performance and Safety](past-performance/fulton-clovis-reuse-facility-performance.md) — p0179¶1 · prose · fallback
+    - 7. [Pump Station Fleet Scale and Station-Specific Maintenance](past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md) — p0172¶1 · prose · preferred
+    - 8. [Traverse City Regional WWTP DBO — Reference Overview](past-performance/fulton-traverse-city-dbo-overview.md) — p0174¶2 · prose · preferred
+    - 9. [Traverse City Regional WWTP DBO — Accomplishments and Performance](past-performance/fulton-traverse-city-dbo-accomplishments.md) — p0175¶2 · prose · preferred
+    - 10. [Spokane County Regional Water Reclamation Facility DBO — Reference Overview](past-performance/fulton-spokane-county-dbo-overview.md) — p0176¶2 · prose · preferred
+    - 11. [Spokane County Regional Water Reclamation Facility DBO — Delivery and Performance](past-performance/fulton-spokane-county-dbo-performance.md) — p0177¶2 · prose · preferred
+    - 12. [Clovis WWTP Reuse Facility — Reference Overview](past-performance/fulton-clovis-reuse-facility-overview.md) — p0178¶2 · prose · preferred
+    - 13. [Clovis WWTP Reuse Facility — Operating Performance and Safety](past-performance/fulton-clovis-reuse-facility-performance.md) — p0179¶1 · prose · fallback
 - **Section 5 | Environmental Compliance Record** (`fulton-county-2025:16`, pp. 180–182)
   - **ENVIRONMENTAL PROTECTION AND MITIGATION** (`fulton-county-2025:16.environmental-protection-and-mitigation`, p. 181)
     - 1. [JV Environmental Protection and Transparent Compliance Reporting Commitment](compliance-plans/fulton-environmental-protection-and-reporting-commitment.md) — p0181¶3 · prose · fallback

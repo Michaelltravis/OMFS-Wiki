@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee
-section-order: 3
+section-order: 4
 section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE
-doc-order: 25
+doc-order: 28
 context: JC Solutions JV O&M value-added offering for a multi-facility membrane wastewater system.
 quality: Preserves the specific operating benefits of regional reach-back, specialized training, and analytics-supported maintenance planning.
 reuse-notes: Confirm support-hour and training-hour commitments before reuse. Attribute the technical bench to Jacobs and the locally rooted workforce-development role to CERM when JC Solutions is the proposer.

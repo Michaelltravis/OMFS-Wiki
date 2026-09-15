@@ -25,7 +25,7 @@ last-verified: 2026-09-07
 section-id: fulton-county-2025:16.environmental-compliance-record
 section-order: 2
 section-path: Section 5 | Environmental Compliance Record › ENVIRONMENTAL COMPLIANCE RECORD
-doc-order: 126
+doc-order: 159
 context: "Southeast county multi-facility wastewater O&M pursuit, bid by JC Solutions, a Jacobs/CERM JV; disclosed reference-project compliance record."
 quality: "A compact, five-category, five-year disclosure that states the compliance record rather than making an unsupported general claim."
 reuse-notes: "Traverse City is an unrelated reference client and is retained as source proof. Verify the reporting period and current reference authorization before reuse. Do not convert the zero results into a blanket guarantee for another facility or contract."

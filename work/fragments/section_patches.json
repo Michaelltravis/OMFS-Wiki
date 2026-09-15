@@ -1,2252 +1,1469 @@
 [
  {
-  "path": "wiki/technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md",
+  "path": "wiki/technical-approach/fulton-annual-innovation-workshop.md",
   "set": {
-   "section-id": "mmsd-om-2028:26.3-2-1-our-iso-aligned-10-box-ams-is-tailored-to-mmsd",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution › 3.2.1. Our ISO-aligned, 10-Box AMS is tailored to MMSD",
-   "section-order": 4,
-   "doc-order": 167
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-2-1-our-iso-aligned-10-box-ams-is-tailored-to-mmsd",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution › 3.2.1. Our ISO-aligned, 10-Box AMS is tailored to MMSD",
-   "section-order": 5,
-   "doc-order": 168
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-aeration-energy-and-process-optimization.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 14,
-   "doc-order": 114
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-2-2-ams-drives-maintenance-delivery",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution › 3.2.2. AMS Drives Maintenance Delivery",
-   "section-order": 6,
-   "doc-order": 169
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution",
-   "section-order": 3,
-   "doc-order": 166
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-1-jacobs-annual-innovation-workshop-drives-continuous-impr",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.1. Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M",
-   "section-order": 2,
-   "doc-order": 197
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-approach-summary-om-plan-and-shared-priorities.md",
-  "set": {
-   "section-id": "mmsd-om-2028:21",
-   "section-path": "IV. Approach Summary",
-   "section-order": 1,
-   "doc-order": 75
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-approach-summary-om-plan-shared-priorities.md",
-  "set": {
-   "section-id": "mmsd-om-2028:21",
-   "section-path": "IV. Approach Summary",
-   "section-order": 2,
-   "doc-order": 76
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities",
-   "section-order": 1,
-   "doc-order": 88
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-approach-to-management-of-facilities-pgm-foundation.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities",
-   "section-order": 2,
-   "doc-order": 89
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-base-fee-value-added-investments-and-future-savings.md",
-  "set": {
-   "section-id": "mmsd-om-2028:21.energy-and-chemical-optimization",
-   "section-path": "IV. Approach Summary › Energy and Chemical Optimization",
-   "section-order": 5,
-   "doc-order": 79
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-biosolids-heat-dried-product-monitoring.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-6-4-milorganite-production-and-biosolids-operations",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.4. Milorganite Production and Biosolids Operations",
-   "section-order": 29,
-   "doc-order": 156
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-9-1-integrated-approach-to-cip-planning",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration › 3.9.1. Integrated Approach to CIP Planning",
-   "section-order": 17,
-   "doc-order": 180
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-chemical-usage-monitoring-and-control.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-6-2-chemical-usage-monitoring-and-control",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.2. Chemical Usage Monitoring and Control",
-   "section-order": 27,
-   "doc-order": 154
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-cip-program-scale-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration",
-   "section-order": 16,
-   "doc-order": 179
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-cmms-collaborative-implementation-process.md",
-  "set": {
-   "section-id": "mmsd-om-2028:31.2-current-context-and-partnership-framework",
-   "section-path": "IV. Approach Summary › IV.C. Computerized Maintenance Management System Approach › 2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK",
-   "section-order": 2,
-   "doc-order": 221
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-cmms-differentiating-strength-and-nexgen-experience.md",
-  "set": {
-   "section-id": "mmsd-om-2028:31.1-jacobs-differentiating-strength-in-cmms-implementation",
-   "section-path": "IV. Approach Summary › IV.C. Computerized Maintenance Management System Approach › 1. JACOBS’ DIFFERENTIATING STRENGTH IN CMMS IMPLEMENTATION",
-   "section-order": 1,
-   "doc-order": 220
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
-  "set": {
-   "section-id": "mmsd-om-2028:31.3-3-key-personnel-for-cmms-implementation",
-   "section-path": "IV. Approach Summary › IV.C. Computerized Maintenance Management System Approach › 2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK › 3.3. Key Personnel for CMMS Implementation",
-   "section-order": 3,
-   "doc-order": 222
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-cmms-nexgen-integrations-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:31.3-4-integrations-required-by-jacobs",
-   "section-path": "IV. Approach Summary › IV.C. Computerized Maintenance Management System Approach › 2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK › 3.4. Integrations Required by Jacobs",
-   "section-order": 4,
-   "doc-order": 223
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-3-reliability-enhancement-plans-improving-equipment-uptime",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.3. Reliability Enhancement Plans: Improving Equipment Uptime at JIWRF and SSWRF",
-   "section-order": 8,
-   "doc-order": 171
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-3-reliability-enhancement-plans-improving-equipment-uptime",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.3. Reliability Enhancement Plans: Improving Equipment Uptime at JIWRF and SSWRF",
-   "section-order": 9,
-   "doc-order": 172
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-collaborative-decision-making-governance.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.2-1-collaborative-decision-making-for-safe-compliant-and-rel",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 2.1. Collaborative Decision-Making for Safe, Compliant, and Reliable Operations",
-   "section-order": 1,
-   "doc-order": 101
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.odor-control",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL",
-   "section-order": 8,
-   "doc-order": 108
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-7-1-commitment-to-zero-excursions",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance › 2.7.1. Commitment to Zero Excursions",
-   "section-order": 33,
-   "doc-order": 160
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 11,
-   "doc-order": 98
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-7-1-commitment-to-zero-excursions",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance › 2.7.1. Commitment to Zero Excursions",
-   "section-order": 34,
-   "doc-order": 161
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-continuous-improvement-corrective-action-tracking.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-6-6-continuous-improvement",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.6. Continuous Improvement",
-   "section-order": 31,
-   "doc-order": 158
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-continuous-improvement-innovation-partnership-rationale.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation",
-   "section-order": 1,
-   "doc-order": 196
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-corporate-resources-six-pillars-exhibit.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-5-leveraging-corporate-resources-for-operational-excellenc",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.5. Leveraging Corporate Resources for Operational Excellence",
-   "section-order": 25,
-   "doc-order": 152
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-corrective-maintenance-and-failure-analysis.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-5-cm-and-work-order-management",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.5. CM and Work Order Management",
-   "section-order": 11,
-   "doc-order": 174
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration",
-   "section-order": 15,
-   "doc-order": 178
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-day-to-day-communication-and-governance.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 10,
+   "section-id": "fulton-county-2025:12.annual-innovation-workshop",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ANNUAL INNOVATION WORKSHOP",
+   "section-order": 54,
    "doc-order": 97
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
+  "path": "wiki/technical-approach/fulton-asset-management-system-and-technical-support.md",
   "set": {
-   "section-id": "mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs",
-   "section-order": 25,
-   "doc-order": 125
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-decision-making-hierarchy-three-tiers.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.01-onsite-process-control-and-operational-and-maintenance-de",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 01 ONSITE PROCESS CONTROL AND OPERATIONAL AND MAINTENANCE DECISIONS",
-   "section-order": 3,
-   "doc-order": 103
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 16,
-   "doc-order": 116
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 22,
-   "doc-order": 122
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-approach.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-3-1-digital-twin-enabling-system-wide-optimization",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.3. Deep Domain Expertise Powered by Advanced Digital Tools › 2.3.1. Digital Twin: Enabling System-Wide Optimization",
-   "section-order": 12,
-   "doc-order": 139
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-3-1-digital-twin-enabling-system-wide-optimization",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.3. Deep Domain Expertise Powered by Advanced Digital Tools › 2.3.1. Digital Twin: Enabling System-Wide Optimization",
-   "section-order": 13,
-   "doc-order": 140
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.our-digital-one-water-connects-data-across-the-full-wastewat",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.3. Deep Domain Expertise Powered by Advanced Digital Tools › 2.3.1. Digital Twin: Enabling System-Wide Optimization › Our Digital One Water connects data across the full wastewater",
-   "section-order": 16,
-   "doc-order": 143
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.our-digital-one-water-connects-data-across-the-full-wastewat",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.3. Deep Domain Expertise Powered by Advanced Digital Tools › 2.3.1. Digital Twin: Enabling System-Wide Optimization › Our Digital One Water connects data across the full wastewater",
-   "section-order": 15,
-   "doc-order": 142
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-digital-twin-benefits-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.our-digital-one-water-connects-data-across-the-full-wastewat",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.3. Deep Domain Expertise Powered by Advanced Digital Tools › 2.3.1. Digital Twin: Enabling System-Wide Optimization › Our Digital One Water connects data across the full wastewater",
-   "section-order": 14,
-   "doc-order": 141
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors",
-   "section-order": 7,
-   "doc-order": 134
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odors.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors",
-   "section-order": 8,
-   "doc-order": 135
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-due-diligence-understanding-and-shared-values-alignment.md",
-  "set": {
-   "section-id": "mmsd-om-2028:22",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM",
-   "section-order": 1,
-   "doc-order": 83
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-effective-efficient-wet-weather-operations.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.effective-and-efficient-wet-weather-operations",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL › Effective and Efficient Wet Weather Operations",
-   "section-order": 10,
-   "doc-order": 110
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-energy-demand-management-predictive-advisories.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs",
-   "section-order": 23,
-   "doc-order": 123
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-energy-optimization-focus-area-and-dynamic-energy-balance.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 20,
-   "doc-order": 120
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 12,
-   "doc-order": 99
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-future-collaboration-intelligent-om-and-ot-security-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-4-additional-improvements-and-innovations-for-future-savin",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.4 Additional Improvements and Innovations for Future Savings",
-   "section-order": 10,
-   "doc-order": 205
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-future-collaboration-process-improvements-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-4-additional-improvements-and-innovations-for-future-savin",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.4 Additional Improvements and Innovations for Future Savings",
-   "section-order": 9,
-   "doc-order": 204
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-priorities-and-om-plan-elements.md",
-  "set": {
-   "section-id": "mmsd-om-2028:21.energy-and-chemical-optimization",
-   "section-path": "IV. Approach Summary › Energy and Chemical Optimization",
-   "section-order": 3,
-   "doc-order": 77
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-shared-priorities-and-om-plan-grid.md",
-  "set": {
-   "section-id": "mmsd-om-2028:21.energy-and-chemical-optimization",
-   "section-path": "IV. Approach Summary › Energy and Chemical Optimization",
-   "section-order": 4,
-   "doc-order": 78
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:29.7-2-resource-recovery-and-biosolids-optimization",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.7. Sustainable Approach to Operations › 7.2. Resource Recovery and Biosolids Optimization",
-   "section-order": 2,
-   "doc-order": 207
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-best-practices-improvements-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee",
-   "section-order": 6,
-   "doc-order": 201
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-pilots-optimization-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee",
-   "section-order": 7,
-   "doc-order": 202
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-value-added-innovations-studies-support-partnership-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee",
-   "section-order": 5,
-   "doc-order": 200
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
-  "set": {
-   "section-id": "mmsd-om-2028:21.energy-and-chemical-optimization",
-   "section-path": "IV. Approach Summary › Energy and Chemical Optimization",
-   "section-order": 6,
+   "section-id": "fulton-county-2025:12.asset-management-and-maintenance",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ASSET MANAGEMENT AND MAINTENANCE",
+   "section-order": 37,
    "doc-order": 80
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md",
+  "path": "wiki/technical-approach/fulton-biosolids-capability-and-facility-assessment.md",
   "set": {
-   "section-id": "mmsd-om-2028:21.energy-and-chemical-optimization",
-   "section-path": "IV. Approach Summary › Energy and Chemical Optimization",
-   "section-order": 8,
-   "doc-order": 82
+   "section-id": "fulton-county-2025:12.industry-leading-expertise-in-comprehensive-biosolids-manage",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SLUDGE/BIOSOLIDS MANAGEMENT › Industry-Leading Expertise in Comprehensive Biosolids Management Solutions",
+   "section-order": 31,
+   "doc-order": 74
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-facilities-understanding-shared-values.md",
+  "path": "wiki/technical-approach/fulton-biosolids-resilience-emerging-contaminants-and-dryer-support.md",
   "set": {
-   "section-id": "mmsd-om-2028:22",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM",
-   "section-order": 2,
-   "doc-order": 84
+   "section-id": "fulton-county-2025:12.temporary-and-or-emergency-dewatering",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SLUDGE/BIOSOLIDS MANAGEMENT › Temporary and/or Emergency Dewatering",
+   "section-order": 33,
+   "doc-order": 76
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-facility-health-check-exhibit.md",
+  "path": "wiki/technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md",
   "set": {
-   "section-id": "mmsd-om-2028:22",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM",
-   "section-order": 4,
-   "doc-order": 86
+   "section-id": "fulton-county-2025:12.little-river-wrf",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SLUDGE/BIOSOLIDS MANAGEMENT › Little River WRF",
+   "section-order": 32,
+   "doc-order": 75
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md",
+  "path": "wiki/technical-approach/fulton-chemically-enhanced-primary-treatment.md",
   "set": {
-   "section-id": "mmsd-om-2028:26.above-and-beyond-mmsd-specific-ai-assistant",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration › 3.9.1. Integrated Approach to CIP Planning › ABOVE AND BEYOND: MMSD-Specific AI Assistant",
-   "section-order": 19,
-   "doc-order": 182
+   "section-id": "fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition",
+   "section-order": 15,
+   "doc-order": 58
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
+  "path": "wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
   "set": {
-   "section-id": "mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs",
-   "section-order": 27,
-   "doc-order": 127
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-five-tenets-culture-exhibit.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-pgm-framework-is-the-foundation-of-our-shared-success",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success",
-   "section-order": 4,
-   "doc-order": 91
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-6-fleet-maintenance",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.6. Fleet Maintenance",
-   "section-order": 12,
-   "doc-order": 175
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs",
-   "section-order": 24,
-   "doc-order": 124
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-future-improvements-and-innovations-for-additional-savings.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-4-additional-improvements-and-innovations-for-future-savin",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.4 Additional Improvements and Innovations for Future Savings",
-   "section-order": 8,
-   "doc-order": 203
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-holistic-systems-based-one-water-one-team.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-7-5-holistic-systems-based-approach",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance › 2.7.5. Holistic, Systems-Based Approach",
-   "section-order": 35,
-   "doc-order": 162
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-1-jacobs-annual-innovation-workshop-drives-continuous-impr",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.1. Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M",
-   "section-order": 3,
-   "doc-order": 198
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-integrated-performance-monitoring-framework.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-6-1-integrated-performance-management-framework",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.1. Integrated Performance Management Framework",
-   "section-order": 26,
-   "doc-order": 153
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-integrated-reliability-maintenance-program-outcomes.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-2-3-how-our-samp-looks-day-to-day",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution › 3.2.3. How our SAMP looks day-to-day",
-   "section-order": 7,
-   "doc-order": 170
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-intelligent-dry-weather-management.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.intelligent-dry-weather-management",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL › Intelligent Dry Weather Management",
-   "section-order": 9,
-   "doc-order": 109
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-key-operational-focus-areas.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.collection-system-wet-weather-flow-management",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › COLLECTION SYSTEM & WET-WEATHER FLOW MANAGEMENT",
-   "section-order": 5,
-   "doc-order": 105
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-landfill-gas-power-generation-and-waste-heat-strategy.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 21,
-   "doc-order": 121
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-level3-pdm-conveyance-technologies.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.4-3-additional-pdm-technologies-included-in-our-base-fee",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 4. JACOBS’ RECOMMENDED LEVEL 3 PdM PLAN › 4.3. Additional PdM Technologies Included in Our Base Fee",
-   "section-order": 5,
-   "doc-order": 228
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-level3-pdm-integration-scada-cmms-and-considerations.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.8-integration-with-scada-and-nexgen-cmms",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 8. INTEGRATION WITH SCADA AND NEXGEN CMMS",
-   "section-order": 9,
-   "doc-order": 232
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-level3-pdm-phased-rollout.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.7-phased-rollout",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 7. PHASED ROLLOUT",
-   "section-order": 8,
-   "doc-order": 231
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-level3-pdm-prioritized-asset-tiers-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.4-1-proposed-pdm-technologies-for-mmsd-s-treatment-facilitie",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 4. JACOBS’ RECOMMENDED LEVEL 3 PdM PLAN › 4.1. Proposed PdM Technologies for MMSD’s Treatment Facilities",
-   "section-order": 4,
-   "doc-order": 227
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-level3-pdm-technologies-treatment-facilities.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.4-1-proposed-pdm-technologies-for-mmsd-s-treatment-facilitie",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 4. JACOBS’ RECOMMENDED LEVEL 3 PdM PLAN › 4.1. Proposed PdM Technologies for MMSD’s Treatment Facilities",
-   "section-order": 3,
-   "doc-order": 226
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-leveraging-corporate-resources-operational-excellence.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-5-leveraging-corporate-resources-for-operational-excellenc",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.5. Leveraging Corporate Resources for Operational Excellence",
-   "section-order": 24,
-   "doc-order": 151
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-liquid-treatment-optimization-opportunities.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 12,
-   "doc-order": 112
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-1-jacobs-understands-and-supports-mmsd-s-maintenance-objec",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.1. Jacobs Understands and Supports MMSD’s Maintenance Objectives and Challenges",
-   "section-order": 1,
-   "doc-order": 164
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration",
-   "section-order": 14,
-   "doc-order": 177
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-maintenance-transparency-reporting-governance.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-7-transparency-reporting-and-governance",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.7. Transparency, Reporting, and Governance",
-   "section-order": 13,
-   "doc-order": 176
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-monitoring-control-practices-conveyance-liquid-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.odor-control",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL",
-   "section-order": 6,
-   "doc-order": 106
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-monitoring-control-practices-solids-energy-chemical-odor-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.odor-control",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL",
-   "section-order": 7,
-   "doc-order": 107
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-odor-challenge-and-proactive-odor-management-strategy.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints",
-   "section-order": 1,
-   "doc-order": 128
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors",
-   "section-order": 9,
-   "doc-order": 136
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors",
-   "section-order": 10,
-   "doc-order": 137
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-odor-continuous-improvement-and-community-outreach.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors",
-   "section-order": 11,
-   "doc-order": 138
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-odor-control-focus-area-and-program-commitment.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints",
-   "section-order": 2,
-   "doc-order": 129
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors",
-   "section-order": 5,
-   "doc-order": 132
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-odor-early-warning-system-sulfiloggers-aermod.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors",
-   "section-order": 6,
-   "doc-order": 133
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise",
-   "section-order": 17,
-   "doc-order": 144
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-training.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise",
-   "section-order": 18,
-   "doc-order": 145
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-operations-approach-and-operational-priorities.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 13,
-   "doc-order": 100
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-ot-asset-management-modules-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise",
-   "section-order": 19,
-   "doc-order": 146
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-control",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise › 2.4.2. Jacobs OT Asset Automated Backup and Version Control",
-   "section-order": 20,
-   "doc-order": 147
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-ot-automated-backup-benefits-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-control",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise › 2.4.2. Jacobs OT Asset Automated Backup and Version Control",
-   "section-order": 22,
-   "doc-order": 149
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-ot-automated-plc-backup-and-version-control.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-control",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise › 2.4.2. Jacobs OT Asset Automated Backup and Version Control",
-   "section-order": 21,
-   "doc-order": 148
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-ot-privileged-access-management-service.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-4-3-jacobs-managed-ot-privileged-access-management-pam-ser",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise › 2.4.3. Jacobs Managed OT Privileged Access Management (PAM) Service",
-   "section-order": 23,
-   "doc-order": 150
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pdm-goals-and-current-fragmented-state.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.1-jacobs-understands-and-agrees-with-mmsd-s-goals-for-pdm",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 1. JACOBS UNDERSTANDS AND AGREES WITH MMSD’S GOALS FOR PdM",
-   "section-order": 1,
-   "doc-order": 224
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pdm-levels-1-3-framework.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.2-summary-of-levels-1-3-pdm",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 2. SUMMARY OF LEVELS 1–3 PdM",
-   "section-order": 2,
-   "doc-order": 225
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pdm-program-approach-integrating-levels-1-3.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.5-roles-and-responsibilities-for-success",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 5. ROLES AND RESPONSIBILITIES FOR SUCCESS",
-   "section-order": 7,
-   "doc-order": 230
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pdm-roles-and-responsibilities.md",
-  "set": {
-   "section-id": "mmsd-om-2028:32.5-roles-and-responsibilities-for-success",
-   "section-path": "IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 5. ROLES AND RESPONSIBILITIES FOR SUCCESS",
-   "section-order": 6,
-   "doc-order": 229
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 6,
-   "doc-order": 93
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-reporting.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 7,
-   "doc-order": 94
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pgm-framework-foundation-of-shared-success.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-pgm-framework-is-the-foundation-of-our-shared-success",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success",
-   "section-order": 3,
-   "doc-order": 90
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pgm-framework-standup-and-leadership.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 5,
-   "doc-order": 92
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pgm-seven-step-initiation-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 8,
-   "doc-order": 95
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md",
-  "set": {
-   "section-id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
-   "section-order": 9,
+   "section-id": "fulton-county-2025:12.communications-and-reporting",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › COMMUNICATIONS AND REPORTING",
+   "section-order": 53,
    "doc-order": 96
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-pm-optimization-and-work-planning.md",
+  "path": "wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
   "set": {
-   "section-id": "mmsd-om-2028:26.3-5-cm-and-work-order-management",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.5. CM and Work Order Management",
-   "section-order": 10,
-   "doc-order": 173
+   "section-id": "fulton-county-2025:12.public-relations-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Public Relations Plan",
+   "section-order": 56,
+   "doc-order": 99
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md",
+  "path": "wiki/technical-approach/fulton-community-outreach-team-and-framework.md",
   "set": {
-   "section-id": "mmsd-om-2028:26.3-1-jacobs-understands-and-supports-mmsd-s-maintenance-objec",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.1. Jacobs Understands and Supports MMSD’s Maintenance Objectives and Challenges",
-   "section-order": 2,
-   "doc-order": 165
+   "section-id": "fulton-county-2025:12.public-education-and-community-outreach-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN",
+   "section-order": 55,
+   "doc-order": 98
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-process-monitoring-control-system-wide-insight.md",
+  "path": "wiki/technical-approach/fulton-community-relations-plan-and-stakeholder-directory.md",
   "set": {
-   "section-id": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT",
-   "section-order": 4,
-   "doc-order": 104
+   "section-id": "fulton-county-2025:12.community-outreach-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Community Outreach Plan",
+   "section-order": 57,
+   "doc-order": 100
   }
  },
  {
-  "path": "wiki/technical-approach/mmsd-project-manager-leadership-decision-philosophy.md",
+  "path": "wiki/technical-approach/fulton-compliance-workforce-reachback.md",
   "set": {
-   "section-id": "mmsd-om-2028:24.2-1-collaborative-decision-making-for-safe-compliant-and-rel",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 2.1. Collaborative Decision-Making for Safe, Compliant, and Reliable Operations",
-   "section-order": 2,
-   "doc-order": 102
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-reliable-biosolids-product-risk-management-and-housekeeping.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 19,
-   "doc-order": 119
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-renewable-gas-turbine-uptime-and-high-strength-waste.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 17,
-   "doc-order": 117
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-settleability-optimization-strategies-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 13,
-   "doc-order": 113
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-6-5-shared-cost-transparency-and-reporting",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.5. Shared-Cost Transparency and Reporting",
-   "section-order": 30,
-   "doc-order": 157
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-six-point-compliance-program-exhibit.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance",
-   "section-order": 32,
-   "doc-order": 159
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs",
-   "section-order": 26,
-   "doc-order": 126
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 18,
-   "doc-order": 118
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF",
-   "section-order": 15,
-   "doc-order": 115
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-sustainable-approach-to-operations.md",
-  "set": {
-   "section-id": "mmsd-om-2028:29",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.7. Sustainable Approach to Operations",
-   "section-order": 1,
-   "doc-order": 206
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-system-health-check-challenges-and-value-add-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:22",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM",
-   "section-order": 3,
-   "doc-order": 85
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-system-health-check-conveyance-collection-and-solids-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:22",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM",
-   "section-order": 5,
-   "doc-order": 87
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-tunnel-operations-wet-weather-monitoring.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-6-3-tunnel-system-operations",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.3. Tunnel System Operations",
-   "section-order": 28,
-   "doc-order": 155
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-unified-compliance-oversight-and-stewardship.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25.2-7-9-unified-compliance-oversight-and-continuous-improvemen",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance › 2.7.9. Unified Compliance Oversight and Continuous Improvement",
-   "section-order": 36,
-   "doc-order": 163
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-value-added-improvements-included-in-base-fee.md",
-  "set": {
-   "section-id": "mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee",
-   "section-order": 4,
-   "doc-order": 199
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md",
-  "set": {
-   "section-id": "mmsd-om-2028:21.energy-and-chemical-optimization",
-   "section-path": "IV. Approach Summary › Energy and Chemical Optimization",
+   "section-id": "fulton-county-2025:09.1-meaningful-partnership-built-on-transparency-accountabilit",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 1. Meaningful partnership built on transparency, accountability, and investment in community",
    "section-order": 7,
-   "doc-order": 81
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints",
-   "section-order": 4,
-   "doc-order": 131
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
-  "set": {
-   "section-id": "mmsd-om-2028:25",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints",
-   "section-order": 3,
-   "doc-order": 130
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
-  "set": {
-   "section-id": "mmsd-om-2028:26.3-9-1-integrated-approach-to-cip-planning",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration › 3.9.1. Integrated Approach to CIP Planning",
-   "section-order": 18,
-   "doc-order": 181
-  }
- },
- {
-  "path": "wiki/technical-approach/mmsd-wrf-wet-processes-systemwide-integration.md",
-  "set": {
-   "section-id": "mmsd-om-2028:24.systemwide-integration-for-optimized-operations",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Systemwide Integration for Optimized Operations",
-   "section-order": 11,
-   "doc-order": 111
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-apprenticeships-and-local-union-partnership.md",
-  "set": {
-   "section-id": "mmsd-om-2028:17.1-1-structured-career-pathways-promote-advancement-opportuni",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.1. Structured Career Pathways Promote Advancement Opportunities",
-   "section-order": 3,
-   "doc-order": 49
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-apprenticeships-and-union-labor-pipeline.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.3-3-building-the-pipeline-with-apprenticeships-and-union-par",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 3. UNION AND LABOR RELATIONS › 3.3. Building the Pipeline with Apprenticeships and Union Partnerships",
-   "section-order": 8,
-   "doc-order": 28
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-comprehensive-transition-support.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-3-5-comprehensive-transition-support",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.3. Transition Leadership Team › 1.3.5. Comprehensive Transition Support",
-   "section-order": 8,
-   "doc-order": 215
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-corporate-values-alignment-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:16.1-building-our-one-water-one-team-one-vision-culture",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 1. BUILDING OUR ONE WATER, ONE TEAM, ONE VISION CULTURE",
-   "section-order": 2,
-   "doc-order": 43
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-digital-twin-training-value-add.md",
-  "set": {
-   "section-id": "mmsd-om-2028:14.4-value-add-digital-innovation-in-training-digital-twin-oper",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.E. Technical Training Program › 4. VALUE-ADD: DIGITAL INNOVATION IN TRAINING – DIGITAL TWIN OPERATIONS",
-   "section-order": 3,
-   "doc-order": 40
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-dual-management-leadership-model.md",
-  "set": {
-   "section-id": "mmsd-om-2028:10.1-1-leadership-team",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions › 1. ORGANIZATIONAL STRUCTURE › 1.1. Leadership Team",
-   "section-order": 2,
-   "doc-order": 17
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-employee-satisfaction-and-six-step-transition-process.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-2-3-employee-satisfaction-and-engagement",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees › 1.2.3. Employee Satisfaction and Engagement",
-   "section-order": 5,
-   "doc-order": 212
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.2-our-plan-to-fulfill-and-sustain-the-minimum-staffing-plan",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 2. OUR PLAN TO FULFILL AND SUSTAIN THE MINIMUM STAFFING PLAN",
-   "section-order": 5,
-   "doc-order": 25
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-governance-committees-and-blue-ribbon-panel.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.1-3-mmsd-committees",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 1. OUR HR AND STAFFING COMMITMENT TO MMSD › 1.3. MMSD Committees",
-   "section-order": 3,
-   "doc-order": 23
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-high-level-transition-schedule-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-10-schedule-for-smooth-transition-of-operations-and-relate",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.10. Schedule for Smooth Transition of Operations and Related Systems",
-   "section-order": 12,
-   "doc-order": 219
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-hr-commitment-award-winning-culture-and-integrated-hr-team.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.1-1-we-bring-an-award-winning-culture-aligned-with-mmsd-s-va",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 1. OUR HR AND STAFFING COMMITMENT TO MMSD › 1.1. We Bring an Award-Winning Culture Aligned with MMSD’s Values",
-   "section-order": 2,
-   "doc-order": 22
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-integrated-asset-management-and-maintenance-support.md",
-  "set": {
-   "section-id": "mmsd-om-2028:12.asset-management-team",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.C. PM and CM Staffing › 1. MAINTENANCE STAFFING THAT MEETS AND EXCEEDS MMSD’S GOALS › Asset Management Team",
-   "section-order": 2,
-   "doc-order": 33
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-internships-and-career-awareness-outreach.md",
-  "set": {
-   "section-id": "mmsd-om-2028:17.1-3-internships-peak-interest-in-careers",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.3. Internships Peak Interest in Careers",
-   "section-order": 4,
-   "doc-order": 50
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-key-leader-philosophy-and-client-testimonials.md",
-  "set": {
-   "section-id": "mmsd-om-2028:10.1-1-leadership-team",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions › 1. ORGANIZATIONAL STRUCTURE › 1.1. Leadership Team",
-   "section-order": 5,
    "doc-order": 20
   }
  },
  {
-  "path": "wiki/management-staffing/mmsd-labor-relations-five-step-approach-exhibit.md",
+  "path": "wiki/technical-approach/fulton-comprehensive-om-approach-and-transition.md",
   "set": {
-   "section-id": "mmsd-om-2028:11.3-union-and-labor-relations",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 3. UNION AND LABOR RELATIONS",
-   "section-order": 7,
-   "doc-order": 27
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-leadership-development-cross-training-and-mentoring.md",
-  "set": {
-   "section-id": "mmsd-om-2028:14.3-operations-management-staff-training-programs",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.E. Technical Training Program › 3. OPERATIONS MANAGEMENT STAFF TRAINING PROGRAMS",
-   "section-order": 2,
-   "doc-order": 39
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-leadership-team-org-chart-roles.md",
-  "set": {
-   "section-id": "mmsd-om-2028:10.1-1-leadership-team",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions › 1. ORGANIZATIONAL STRUCTURE › 1.1. Leadership Team",
-   "section-order": 3,
-   "doc-order": 18
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-local-subcontractor-partners-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:13",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.D. Use of Subcontractors",
-   "section-order": 2,
-   "doc-order": 36
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-long-term-retention-and-succession-planning.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.4-long-term-retention-and-succession-planning",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 4. LONG-TERM RETENTION AND SUCCESSION PLANNING",
-   "section-order": 9,
-   "doc-order": 29
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-mobilization-governance-and-communications-plan.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-5-mobilization-overview",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.5. Mobilization Overview",
-   "section-order": 10,
-   "doc-order": 217
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-one-water-one-team-culture-and-shared-values.md",
-  "set": {
-   "section-id": "mmsd-om-2028:16.1-building-our-one-water-one-team-one-vision-culture",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 1. BUILDING OUR ONE WATER, ONE TEAM, ONE VISION CULTURE",
+   "section-id": "fulton-county-2025:05",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.1 | JC Solutions' Comprehensive Approach to Operations & Maintenance",
    "section-order": 1,
-   "doc-order": 42
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-peer-to-peer-culture-coach-program.md",
-  "set": {
-   "section-id": "mmsd-om-2028:16.2-maintaining-a-respectful-workplace-of-inclusion-and-belong",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING",
-   "section-order": 3,
-   "doc-order": 44
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-pm-cm-maintenance-staffing-model.md",
-  "set": {
-   "section-id": "mmsd-om-2028:12",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.C. PM and CM Staffing",
-   "section-order": 1,
-   "doc-order": 32
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-pm-cm-schedule-discipline-and-pdm-integration.md",
-  "set": {
-   "section-id": "mmsd-om-2028:12.3-pm-staffing-and-schedule-discipline",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.C. PM and CM Staffing › 3. PM STAFFING AND SCHEDULE DISCIPLINE",
-   "section-order": 3,
-   "doc-order": 34
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-recognition-teamwork-and-community-giving.md",
-  "set": {
-   "section-id": "mmsd-om-2028:16.5-a-culture-that-celebrates-teamwork-and-achievement",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 5. A CULTURE THAT CELEBRATES TEAMWORK AND ACHIEVEMENT",
-   "section-order": 5,
-   "doc-order": 46
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-safe-work-environment-and-healthy-workforce.md",
-  "set": {
-   "section-id": "mmsd-om-2028:15",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.F. Safe Work Environment",
-   "section-order": 1,
-   "doc-order": 41
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-seamless-workforce-transition-and-union-engagement.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees",
-   "section-order": 2,
-   "doc-order": 209
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-small-business-outreach-and-mentor-protege-program.md",
-  "set": {
-   "section-id": "mmsd-om-2028:17.2-dedicated-workforce-development-team-and-reporting",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 2. DEDICATED WORKFORCE DEVELOPMENT TEAM AND REPORTING",
-   "section-order": 8,
-   "doc-order": 54
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-staffing-certainty-framework-exhibit.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.maintenance-committee",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 1. OUR HR AND STAFFING COMMITMENT TO MMSD › 1.4. Blue Ribbon Panel › Maintenance Committee",
-   "section-order": 4,
-   "doc-order": 24
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-staffing-plan-above-and-beyond-table.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.1-2-staffing-plan",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 1.2. Staffing Plan",
-   "section-order": 1,
-   "doc-order": 21
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-staffing-strategy-and-organizational-structure.md",
-  "set": {
-   "section-id": "mmsd-om-2028:10",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions",
-   "section-order": 1,
-   "doc-order": 16
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-standard-employee-benefits-union-and-nonunion.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.5-1-union-employees-providing-affordable-benefits-respect-fo",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 5. STANDARD EMPLOYEE BENEFITS › 5.1. Union Employees—Providing Affordable Benefits, Respect for the Agreement, Clear Communications Commitment",
-   "section-order": 11,
-   "doc-order": 31
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-step-by-step-employee-transition-and-knowledge-retention.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees",
-   "section-order": 3,
-   "doc-order": 210
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-structured-career-pathways-and-advancement-ladder.md",
-  "set": {
-   "section-id": "mmsd-om-2028:17.1-1-structured-career-pathways-promote-advancement-opportuni",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.1. Structured Career Pathways Promote Advancement Opportunities",
-   "section-order": 2,
-   "doc-order": 48
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-subcontractor-selection-and-management-process.md",
-  "set": {
-   "section-id": "mmsd-om-2028:13.1-identifying-selecting-and-managing-subcontractors",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.D. Use of Subcontractors › 1. IDENTIFYING, SELECTING, AND MANAGING SUBCONTRACTORS",
-   "section-order": 3,
-   "doc-order": 37
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-subcontractor-strategy-and-local-business-capacity.md",
-  "set": {
-   "section-id": "mmsd-om-2028:13",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.D. Use of Subcontractors",
-   "section-order": 1,
-   "doc-order": 35
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-technical-training-program-and-framework.md",
-  "set": {
-   "section-id": "mmsd-om-2028:14",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.E. Technical Training Program",
-   "section-order": 1,
-   "doc-order": 38
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities",
-   "section-order": 1,
-   "doc-order": 208
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-transition-leadership-team-and-pmo.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-3-1-kelly-irving-transition-manager",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.3. Transition Leadership Team › 1.3.1. Kelly Irving – Transition Manager",
-   "section-order": 6,
-   "doc-order": 213
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-transition-organization-team-roster.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.project-management-office",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.3. Transition Leadership Team › 1.3.2. Mike Boven – Transition Deputy Manager › Project Management Office",
-   "section-order": 7,
-   "doc-order": 214
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-transition-schedule-and-assurance-of-continuity.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-9-assurance-of-continuity",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.9. Assurance of Continuity",
-   "section-order": 11,
-   "doc-order": 218
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-transition-training-period-and-shadowing.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-4-transition-training-period",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.4. Transition Training Period",
-   "section-order": 9,
-   "doc-order": 216
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-transitioning-employee-care-workshops-and-compensation.md",
-  "set": {
-   "section-id": "mmsd-om-2028:30.1-2-1-care-and-sensitivity-toward-transitioning-employees",
-   "section-path": "IV. Approach Summary › IV.B. Pre-term Activities › 1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees › 1.2.1. Care and Sensitivity Toward Transitioning Employees",
-   "section-order": 4,
-   "doc-order": 211
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-union-and-labor-relations-and-employee-transition.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.3-union-and-labor-relations",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 3. UNION AND LABOR RELATIONS",
-   "section-order": 6,
-   "doc-order": 26
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-union-partners-exhibit.md",
-  "set": {
-   "section-id": "mmsd-om-2028:11.4-3-succession-planning-a-structured-visible-path-to-advance",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 4. LONG-TERM RETENTION AND SUCCESSION PLANNING › 4.3. Succession Planning—A Structured, Visible Path to Advancement",
-   "section-order": 10,
-   "doc-order": 30
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-uwm-scholarship-commitment.md",
-  "set": {
-   "section-id": "mmsd-om-2028:17.1-3-internships-peak-interest-in-careers",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.3. Internships Peak Interest in Careers",
-   "section-order": 6,
-   "doc-order": 52
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-value-added-staff-positions-exhibit.md",
-  "set": {
-   "section-id": "mmsd-om-2028:10.1-1-leadership-team",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions › 1. ORGANIZATIONAL STRUCTURE › 1.1. Leadership Team",
-   "section-order": 4,
-   "doc-order": 19
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-wastewater-career-internship-pipeline-program.md",
-  "set": {
-   "section-id": "mmsd-om-2028:17.1-3-internships-peak-interest-in-careers",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.3. Internships Peak Interest in Careers",
-   "section-order": 5,
-   "doc-order": 51
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-workforce-development-plan-goals-and-elements.md",
-  "set": {
-   "section-id": "mmsd-om-2028:17",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development",
-   "section-order": 1,
-   "doc-order": 47
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-workforce-development-team-and-transparent-reporting.md",
-  "set": {
-   "section-id": "mmsd-om-2028:17.2-dedicated-workforce-development-team-and-reporting",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 2. DEDICATED WORKFORCE DEVELOPMENT TEAM AND REPORTING",
-   "section-order": 7,
-   "doc-order": 53
-  }
- },
- {
-  "path": "wiki/management-staffing/mmsd-zero-tolerance-ethics-hotline-and-employee-feedback.md",
-  "set": {
-   "section-id": "mmsd-om-2028:16.3-zero-tolerance-for-harassment-discrimination-or-bullying",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 3. ZERO TOLERANCE FOR HARASSMENT, DISCRIMINATION, OR BULLYING",
-   "section-order": 4,
-   "doc-order": 45
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-above-and-beyond-investments-and-savings.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary",
-   "section-order": 3,
-   "doc-order": 3
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-biosolids-continuity-and-odor-control.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02.milorganite-production-precision-continuity-and-brand-protec",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Milorganite Production: Precision, Continuity, and Brand Protection",
-   "section-order": 8,
-   "doc-order": 8
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-comprehensive-om-with-consulting-bench.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary",
-   "section-order": 2,
-   "doc-order": 2
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-elevated-operations-technical-bench-and-no-surprises-compliance.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary",
-   "section-order": 7,
-   "doc-order": 7
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-high-caliber-leadership-and-people-first-culture.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary",
-   "section-order": 4,
-   "doc-order": 4
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-iso-55001-asset-management-and-reliability.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary",
-   "section-order": 6,
-   "doc-order": 6
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-programmatic-framework-and-auditable-cost-transparency.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary",
-   "section-order": 5,
-   "doc-order": 5
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-regional-partnership-and-community-benefits.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02.odor-control-prevention-early-warning-and-documented-respons",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Odor Control: Prevention, Early Warning, and Documented Response",
-   "section-order": 11,
-   "doc-order": 11
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-seamless-transition-and-workforce-continuity.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02.odor-control-prevention-early-warning-and-documented-respons",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Odor Control: Prevention, Early Warning, and Documented Response",
-   "section-order": 10,
-   "doc-order": 10
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-trusted-partner-opening-and-six-core-attributes.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary",
-   "section-order": 1,
-   "doc-order": 1
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-exec-summary-wet-weather-and-optimization-savings.md",
-  "set": {
-   "section-id": "mmsd-om-2028:02.optimization-that-delivers-value-for-mmsd-s-budget",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Optimization that Delivers Value for MMSD’s Budget",
-   "section-order": 9,
    "doc-order": 9
   }
  },
  {
-  "path": "wiki/win-themes/mmsd-exec-summary-why-jacobs-close.md",
+  "path": "wiki/technical-approach/fulton-current-future-challenges-and-commissioning.md",
   "set": {
-   "section-id": "mmsd-om-2028:02.regional-partnership-ideas-to-enhance-the-community",
-   "section-path": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Regional Partnership Ideas to Enhance the Community",
-   "section-order": 12,
-   "doc-order": 12
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-client-vision-recognition.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "section-id": "fulton-county-2025:09.planned-improvements-to-meet-future-needs",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › LITTLE RIVER PLANT › Planned Improvements to Meet Future Needs",
    "section-order": 3,
-   "doc-order": 237
+   "doc-order": 16
   }
  },
  {
-  "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-jxn-water-jackson.md",
+  "path": "wiki/technical-approach/fulton-customer-service-plan.md",
   "set": {
-   "section-id": "mmsd-om-2028:36.1-jxn-water-jackson-mississippi",
-   "section-path": "V. Statement on Regional Partnership › V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts › 1. JXN Water, Jackson, Mississippi",
+   "section-id": "fulton-county-2025:12.customer-service-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › CUSTOMER SERVICE PLAN",
+   "section-order": 52,
+   "doc-order": 95
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-deliverables-commitment-annual-and-transition-plans-table.md",
+  "set": {
+   "section-id": "fulton-county-2025:07",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.3 | Understanding of and Commitment to Project Deliverables Including Facilities Plans",
    "section-order": 1,
-   "doc-order": 244
+   "doc-order": 10
   }
  },
  {
-  "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-san-marcos.md",
+  "path": "wiki/technical-approach/fulton-deliverables-commitment-records-safety-and-staffing-table.md",
   "set": {
-   "section-id": "mmsd-om-2028:36.1-jxn-water-jackson-mississippi",
-   "section-path": "V. Statement on Regional Partnership › V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts › 1. JXN Water, Jackson, Mississippi",
+   "section-id": "fulton-county-2025:07",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.3 | Understanding of and Commitment to Project Deliverables Including Facilities Plans",
    "section-order": 2,
-   "doc-order": 245
+   "doc-order": 11
   }
  },
  {
-  "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-thames-tideway.md",
+  "path": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md",
   "set": {
-   "section-id": "mmsd-om-2028:36.4-thames-tideway-program-london-uk",
-   "section-path": "V. Statement on Regional Partnership › V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts › 4. Thames Tideway Program, London, UK",
-   "section-order": 4,
-   "doc-order": 247
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-engaged-partner-the-villages.md",
-  "set": {
-   "section-id": "mmsd-om-2028:36.4-thames-tideway-program-london-uk",
-   "section-path": "V. Statement on Regional Partnership › V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts › 4. Thames Tideway Program, London, UK",
-   "section-order": 3,
-   "doc-order": 246
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-fishing-pier-river-access-concept.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35.leveraging-an-ongoing-riverfront-estuary-renewal-to-enhance",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › Leveraging an Ongoing Riverfront Estuary Renewal to Enhance Regional Benefits",
-   "section-order": 4,
-   "doc-order": 238
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-leadership-team-and-local-partners.md",
-  "set": {
-   "section-id": "mmsd-om-2028:34",
-   "section-path": "V. Statement on Regional Partnership › V.A. Community-Focused Leadership Team to Drive Positive Long-Term Outcomes",
-   "section-order": 1,
-   "doc-order": 234
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-local-community-involvement-record.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
-   "section-order": 2,
-   "doc-order": 236
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-opening-commitment.md",
-  "set": {
-   "section-id": "mmsd-om-2028:33",
-   "section-path": "V. Statement on Regional Partnership",
-   "section-order": 1,
-   "doc-order": 233
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-partnering-plan-steps.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
-   "section-order": 1,
-   "doc-order": 235
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-strategy-community-health-environment.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS",
-   "section-order": 5,
-   "doc-order": 239
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-strategy-research-development.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35.support-business-case-development-p142",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS › Support Business Case Development",
-   "section-order": 8,
-   "doc-order": 242
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-strategy-sustainability-resilience.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35.academic-and-research-partnerships",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS › Academic and Research Partnerships",
-   "section-order": 7,
-   "doc-order": 241
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-strategy-workforce-economic-growth.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35.support-business-case-development",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS › Support Business Case Development",
-   "section-order": 6,
-   "doc-order": 240
-  }
- },
- {
-  "path": "wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md",
-  "set": {
-   "section-id": "mmsd-om-2028:35.support-business-case-development-p142-31",
-   "section-path": "V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS › Support Business Case Development",
+   "section-id": "fulton-county-2025:10.discounted-rate-for-engineering-services-provided-under-the",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › DISCOUNTED RATE FOR ENGINEERING SERVICES PROVIDED UNDER THE NORTH FULTON O&M CONTRACT",
    "section-order": 9,
-   "doc-order": 243
+   "doc-order": 33
   }
  },
  {
-  "path": "wiki/qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md",
+  "path": "wiki/technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md",
   "set": {
-   "section-id": "mmsd-om-2028:08",
-   "section-path": "I. Identity of the Proposer and Guarantor; Financial Assurances Requirements › I.E. Confidentiality Statement",
-   "section-order": 1,
+   "section-id": "fulton-county-2025:12.reducing-real-time-peak-power-consumption",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Reducing Real-Time/Peak Power Consumption",
+   "section-order": 22,
+   "doc-order": 65
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-equipment-performance-testing-plan.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.equipment-performance-testing-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › JCEC › Equipment Performance Testing Plan",
+   "section-order": 43,
+   "doc-order": 86
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-facility-appearance-and-mbr-maintenance-experience.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.site-housekeeping-and-facility-appearance",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › JCEC › Site Housekeeping and Facility Appearance",
+   "section-order": 42,
+   "doc-order": 85
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-facility-asset-inventory.md",
+  "set": {
+   "section-id": "fulton-county-2025:09.little-river-plant",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › LITTLE RIVER PLANT",
+   "section-order": 2,
    "doc-order": 15
   }
  },
  {
-  "path": "wiki/qualifications/mmsd-exceptions-and-proposed-contract-alternatives-table.md",
+  "path": "wiki/technical-approach/fulton-fermentation-zone-operating-variables.md",
   "set": {
-   "section-id": "mmsd-om-2028:38",
-   "section-path": "VI. Exceptions and Requests › VI.A. Exceptions",
-   "section-order": 1,
-   "doc-order": 248
+   "section-id": "fulton-county-2025:12.fermentation-zones",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Fermentation Zones",
+   "section-order": 13,
+   "doc-order": 56
   }
  },
  {
-  "path": "wiki/qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md",
+  "path": "wiki/technical-approach/fulton-imlr-piping-and-membrane-commissioning.md",
   "set": {
-   "section-id": "mmsd-om-2028:06",
-   "section-path": "I. Identity of the Proposer and Guarantor; Financial Assurances Requirements › I.B. Letter of Credit › I.C. Guaranty",
+   "section-id": "fulton-county-2025:12.little-river-wrf-internal-mixed-liquor-recycle",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Little River WRF Internal Mixed Liquor Recycle",
+   "section-order": 18,
+   "doc-order": 61
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-iso-55001-ams-cmms-and-risk-workshop.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.asset-management-centered-maintenance-approach",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ASSET MANAGEMENT AND MAINTENANCE › Asset Management-centered Maintenance Approach",
+   "section-order": 38,
+   "doc-order": 81
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-lifecycle-maintenance-risk-and-performance-management.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.jc-solutions-ams-elements-built-on-the-10-box-model",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ASSET MANAGEMENT AND MAINTENANCE › JC Solutions’ AMS Elements Built on the 10-Box Model",
+   "section-order": 39,
+   "doc-order": 82
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-mbr-facility-maintenance-priorities.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.key-focus-areas-for-asset-management-and-maintenance",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ASSET MANAGEMENT AND MAINTENANCE › Key Focus Areas for Asset Management and Maintenance",
+   "section-order": 40,
+   "doc-order": 83
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-mbr-facility-portfolio-and-pump-stations.md",
+  "set": {
+   "section-id": "fulton-county-2025:09.project-understanding",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › PROJECT UNDERSTANDING",
    "section-order": 1,
    "doc-order": 14
   }
  },
  {
-  "path": "wiki/qualifications/mmsd-insurance-exhibit-markups-coverage-limits.md",
+  "path": "wiki/technical-approach/fulton-mbr-maintenance-odor-biosolids-innovation.md",
   "set": {
-   "section-id": "mmsd-om-2028:39.7-make-the-following-changes-to-paragraph-9-subsection-c",
-   "section-path": "VI. Exceptions and Requests › VI.B. Markups to Exhibit J - Insurance › 7. Make the following changes to Paragraph 9, subsection (c)",
-   "section-order": 2,
-   "doc-order": 250
-  }
- },
- {
-  "path": "wiki/qualifications/mmsd-insurance-exhibit-markups-general-provisions.md",
-  "set": {
-   "section-id": "mmsd-om-2028:39",
-   "section-path": "VI. Exceptions and Requests › VI.B. Markups to Exhibit J - Insurance",
-   "section-order": 1,
-   "doc-order": 249
-  }
- },
- {
-  "path": "wiki/qualifications/mmsd-proposer-identity-financial-strength-and-contracting-entity.md",
-  "set": {
-   "section-id": "mmsd-om-2028:04",
-   "section-path": "I. Identity of the Proposer and Guarantor; Financial Assurances Requirements › I.A. Proposer Identity",
-   "section-order": 1,
-   "doc-order": 13
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-cybersecurity-access-awareness-and-data-protection.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.access-control-and-account-management",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness › Enhanced Cybersecurity Controls › Access Control and Account Management",
-   "section-order": 12,
-   "doc-order": 194
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-cybersecurity-governance-and-incident-response.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-2-7-jacobs-business-networks-infrastructure-cybersecurity",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness",
-   "section-order": 11,
-   "doc-order": 193
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.field-and-collection-system-security",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness › Enhanced Cybersecurity Controls › Field and Collection System Security",
-   "section-order": 13,
-   "doc-order": 195
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-innovative-security-enhancements.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-2-6-innovative-security-enhancements",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.6. Innovative Security Enhancements",
-   "section-order": 10,
-   "doc-order": 192
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-safety-auditing-and-preliminary-site-assessment.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-1-6-auditing-inspections-and-continuous-improvement",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.6. Auditing, Inspections, and Continuous Improvement",
-   "section-order": 5,
-   "doc-order": 187
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-safety-culture-beyondzero-and-performance-record.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-1-1-safety-first-a-culture-of-accountability-and-preventio",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.1. Safety First: A Culture of Accountability and Prevention",
-   "section-order": 1,
-   "doc-order": 183
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-safety-how-we-do-it-and-training-curriculum.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-1-5-incident-reporting-and-investigation",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.5. Incident Reporting and Investigation",
-   "section-order": 4,
-   "doc-order": 186
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-safety-leadership-training-and-incident-reporting.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-1-3-leadership-roles-and-integration",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.3. Leadership, Roles, and Integration",
-   "section-order": 3,
-   "doc-order": 185
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-safety-management-system-required-plans.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-1-2-sms-and-required-plans",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.2. SMS and Required Plans",
-   "section-order": 2,
-   "doc-order": 184
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-security-access-control-surveillance-and-incident-response.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-2-2-security-management-structure",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.2. Security Management Structure",
+   "section-id": "fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 4. Comprehensive support for every aspect of wastewater operations",
    "section-order": 8,
-   "doc-order": 190
+   "doc-order": 21
   }
  },
  {
-  "path": "wiki/compliance-plans/mmsd-security-awareness-and-workplace-violence-preparedness.md",
+  "path": "wiki/technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md",
   "set": {
-   "section-id": "mmsd-om-2028:27.4-2-3-integrated-prevention-and-awareness",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.3. Integrated Prevention and Awareness",
-   "section-order": 9,
-   "doc-order": 191
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-security-expert-spotlight-gist-waddell.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-1-8-commitment-to-a-safe-operation",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.8. Commitment to a Safe Operation",
-   "section-order": 6,
-   "doc-order": 188
-  }
- },
- {
-  "path": "wiki/compliance-plans/mmsd-security-program-framework-and-management-structure.md",
-  "set": {
-   "section-id": "mmsd-om-2028:27.4-2-1-security-integration-prevention-and-rapid-response",
-   "section-path": "IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.1. Security, Integration, Prevention, and Rapid Response",
-   "section-order": 7,
-   "doc-order": 189
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-aleksey-reznik-wrf-operations-manager.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › WRF Operations Manager – Aleksey Reznik",
-   "section-order": 10,
-   "doc-order": 64
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-bill-desing-chief-engineer.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
-   "section-order": 12,
-   "doc-order": 66
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-brooke-winters-hr.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
-   "section-order": 15,
-   "doc-order": 69
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-dave-haverly-safety-security-jiwrf.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
+   "section-id": "fulton-county-2025:12.chemical-cleaning-to-maintain-membrane-performance",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Chemical Cleaning to Maintain Membrane Performance",
    "section-order": 19,
-   "doc-order": 73
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-eric-habermayer-conveyance-manager-cmms.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
-   "section-order": 13,
-   "doc-order": 67
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-frank-dipietrapaul-maintenance-asset-manager-wrfs.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Public Outreach Coordinator – Toyin Ogunfolaju",
-   "section-order": 8,
    "doc-order": 62
   }
  },
  {
-  "path": "wiki/resumes/mmsd-jeff-williams-labor-relations.md",
+  "path": "wiki/technical-approach/fulton-membrane-monitoring-and-scada-capability.md",
   "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
-   "section-order": 16,
-   "doc-order": 70
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-john-loucks-powell-director-maintenance-asset-management.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Public Outreach Coordinator – Toyin Ogunfolaju",
-   "section-order": 7,
-   "doc-order": 61
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-kelly-irving-transition-manager.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes",
-   "section-order": 3,
-   "doc-order": 57
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-keoki-sears-program-management-advisor.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes",
-   "section-order": 4,
-   "doc-order": 58
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-kevin-dahl-project-manager.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes",
-   "section-order": 1,
-   "doc-order": 55
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-liie-hill-capital-project-coordinator.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
-   "section-order": 14,
-   "doc-order": 68
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-monty-sedlak-maintenance-asset-manager-conveyance.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › WRF Operations Manager – Aleksey Reznik",
-   "section-order": 11,
-   "doc-order": 65
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-natalie-lenz-capital-project-coordinator.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
-   "section-order": 17,
-   "doc-order": 71
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-quitterie-cotten-program-management-initiation.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes",
-   "section-order": 5,
-   "doc-order": 59
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-rick-warner-deputy-project-manager.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes",
-   "section-order": 2,
-   "doc-order": 56
-  }
- },
- {
-  "path": "wiki/resumes/mmsd-susan-moisio-wet-weather-conveyance-director.md",
-  "set": {
-   "section-id": "mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › WRF Operations Manager – Aleksey Reznik",
-   "section-order": 9,
+   "section-id": "fulton-county-2025:12.tracking-membrane-performance",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Tracking Membrane Performance",
+   "section-order": 20,
    "doc-order": 63
   }
  },
  {
-  "path": "wiki/resumes/mmsd-toyin-ogunfolaju-public-outreach-coordinator.md",
+  "path": "wiki/technical-approach/fulton-odor-complaint-response-and-source-evaluation.md",
   "set": {
-   "section-id": "mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Public Outreach Coordinator – Toyin Ogunfolaju",
-   "section-order": 6,
+   "section-id": "fulton-county-2025:12.odor-and-noise-control-program",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ODOR AND NOISE MITIGATION › Odor and Noise Control Program",
+   "section-order": 35,
+   "doc-order": 78
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-odor-control-baseline-and-monitoring.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.odor-and-noise-mitigation",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ODOR AND NOISE MITIGATION",
+   "section-order": 34,
+   "doc-order": 77
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-odor-control-scrubber-optimization.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.properly-operating-scrubbers-to-avoid-offsite-odor",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Properly Operating Scrubbers to Avoid Offsite Odor",
+   "section-order": 21,
+   "doc-order": 64
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-odor-emissions-study-and-housekeeping.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.addressing-odor-or-noise-complaints",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ODOR AND NOISE MITIGATION › Addressing Odor or Noise Complaints",
+   "section-order": 36,
+   "doc-order": 79
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-operations-plans-toolkit-table.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.process-control",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Process Control",
+   "section-order": 11,
+   "doc-order": 54
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-phos-zorb-versus-alum-evaluation.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-alkalinity-add",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition",
+   "section-order": 14,
+   "doc-order": 57
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.operation-maintenance-plans",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS",
+   "section-order": 10,
+   "doc-order": 53
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-process-optimization-fermentation-phosphorus.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.process-optimization",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Process Optimization",
+   "section-order": 12,
+   "doc-order": 55
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-project-execution-management-systems.md",
+  "set": {
+   "section-id": "fulton-county-2025:08",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.4 | Approach to Project Execution and Administration",
+   "section-order": 1,
+   "doc-order": 12
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-pump-station-predictive-maintenance.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.key-findings-of-our-initial-facilities-assessments",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › JCEC › Key Findings of Our Initial Facilities Assessments",
+   "section-order": 41,
+   "doc-order": 84
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-secure-kpi-dashboard-and-transparency.md",
+  "set": {
+   "section-id": "fulton-county-2025:08.customer-service",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.4 | Approach to Project Execution and Administration › Customer Service",
+   "section-order": 2,
+   "doc-order": 13
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-successful-experience-multi-facility-mbr.md",
+  "set": {
+   "section-id": "fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 4. Comprehensive support for every aspect of wastewater operations",
+   "section-order": 10,
+   "doc-order": 23
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-successful-experience-transition-asset-community.md",
+  "set": {
+   "section-id": "fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 4. Comprehensive support for every aspect of wastewater operations",
+   "section-order": 11,
+   "doc-order": 24
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.swing-zones",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Swing Zones",
+   "section-order": 17,
    "doc-order": 60
   }
  },
  {
-  "path": "wiki/resumes/mmsd-tracy-james-safety-security-sswrf.md",
+  "path": "wiki/technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md",
   "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
-   "section-order": 20,
-   "doc-order": 74
+   "section-id": "fulton-county-2025:12.swing-zones",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Swing Zones",
+   "section-order": 16,
+   "doc-order": 59
   }
  },
  {
-  "path": "wiki/resumes/mmsd-travis-leech-security-safety-manager.md",
+  "path": "wiki/technical-approach/fulton-transition-continuity-and-staff-transfer.md",
   "set": {
-   "section-id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
-   "section-path": "II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE",
+   "section-id": "fulton-county-2025:13.fluid-continuity-enabling-uninterrupted-excellence-in-water",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Fluid Continuity: Enabling Uninterrupted Excellence in Water Services",
+   "section-order": 1,
+   "doc-order": 109
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-operations-and-rela",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › 45-Day Schedule for Smooth Transition of Operations and Related Systems",
+   "section-order": 9,
+   "doc-order": 117
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-transparent-community-partnership.md",
+  "set": {
+   "section-id": "fulton-county-2025:09.approach-to-achieving-the-county-s-goals",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › APPROACH TO ACHIEVING THE COUNTY’S GOALS",
+   "section-order": 5,
+   "doc-order": 18
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-trusted-partner-and-comprehensive-sme-support.md",
+  "set": {
+   "section-id": "fulton-county-2025:09.key-current-and-future-challenges",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › LITTLE RIVER PLANT › Key Current and Future Challenges",
+   "section-order": 4,
+   "doc-order": 17
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-uv-solids-and-potable-water-protection.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.ultraviolet-disinfection",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Ultraviolet Disinfection",
+   "section-order": 23,
+   "doc-order": 66
+  }
+ },
+ {
+  "path": "wiki/technical-approach/fulton-workforce-satisfaction-and-industry-recognition.md",
+  "set": {
+   "section-id": "fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 4. Comprehensive support for every aspect of wastewater operations",
+   "section-order": 9,
+   "doc-order": 22
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-45-day-transition-confidence-and-phasing.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-operations-and-rela",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › 45-Day Schedule for Smooth Transition of Operations and Related Systems",
+   "section-order": 10,
+   "doc-order": 118
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-blended-team-build-and-recruiting-backstop.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.tapping-the-value-of-existing-staff",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Tapping the Value of Existing Staff",
+   "section-order": 2,
+   "doc-order": 110
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-cerm-workforce-development-pipeline.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.workforce-development-and-staffing-strategy",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › TRAINING PLAN › Workforce Development and Staffing Strategy",
+   "section-order": 8,
+   "doc-order": 51
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-compensation-package-employee-satisfaction.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.compensation-package",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Compensation Package",
+   "section-order": 4,
+   "doc-order": 112
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-delivery-qaqc-functional-support-matrix.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.extensive-system-of-qa-qc-measures-and-technical-support",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › EXTENSIVE SYSTEM OF QA/QC MEASURES AND TECHNICAL SUPPORT",
+   "section-order": 2,
+   "doc-order": 45
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-exit-transition-approach-and-priorities.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.jc-solutions-approach-to-the-exit-transition-process",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › JC Solutions’ Approach to the Exit Transition Process",
+   "section-order": 14,
+   "doc-order": 122
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-exit-transition-asset-condition-and-staffing-knowledge-transfer.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.key-elements-of-the-exit-transition-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Key Elements of the Exit Transition Plan",
+   "section-order": 15,
+   "doc-order": 123
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-exit-transition-lessons-learned-and-digital-support.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.lessons-learned",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Lessons Learned",
+   "section-order": 16,
+   "doc-order": 124
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-guiding-principles-facilities-plans-and-qaqc-network.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.guiding-principles",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › GUIDING PRINCIPLES",
+   "section-order": 1,
+   "doc-order": 44
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-inclusive-culture-and-employee-networks.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.building-employee-culture-true-belonging-with-diversity-equa",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › STAFFING PLAN › Building Employee Culture: True Belonging with Diversity, Equality, and Inclusion",
+   "section-order": 6,
+   "doc-order": 49
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-job-description-refinement-first-days.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.proven-approach-to-supporting-existing-employees-and-transit",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Proven Approach to Supporting Existing Employees and Transition Success",
+   "section-order": 3,
+   "doc-order": 111
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-jv-regional-workforce-and-technical-bench.md",
+  "set": {
+   "section-id": "fulton-county-2025:11.long-history-of-service-in-atlanta-and-the-county",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.7 | Approach to Providing Qualified and Licensed Personnel › LONG HISTORY OF SERVICE IN ATLANTA AND THE COUNTY",
+   "section-order": 1,
+   "doc-order": 41
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-key-personnel-availability-and-commitment.md",
+  "set": {
+   "section-id": "fulton-county-2025:17.key-personnel-and-plan-for-commitment",
+   "section-path": "Section 6 | Availability of Key Staff › KEY PERSONNEL AND PLAN FOR COMMITMENT",
+   "section-order": 1,
+   "doc-order": 162
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-key-positions-filled-by-jv-staff.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.leadership-from-jc-solutions-staff",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Leadership from JC Solutions Staff",
+   "section-order": 6,
+   "doc-order": 114
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-licensed-personnel-roster.md",
+  "set": {
+   "section-id": "fulton-county-2025:11.qualified-and-licensed-personnel",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.7 | Approach to Providing Qualified and Licensed Personnel › QUALIFIED AND LICENSED PERSONNEL",
+   "section-order": 2,
+   "doc-order": 42
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Long-Term Staffing/Succession Planning Practices",
+   "section-order": 12,
+   "doc-order": 120
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.summary-of-delivery-staffing-approach",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › STAFFING PLAN › Summary Of Delivery Staffing Approach",
+   "section-order": 4,
+   "doc-order": 47
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.pre-start-transition-15-days-prior-to-june-6",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Pre-Start Transition (15 Days Prior to June 6)",
+   "section-order": 11,
+   "doc-order": 119
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-recruiting-retention-and-succession.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.recruiting-retention-and-succession-planning",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › TRAINING PLAN › Recruiting, Retention, and Succession Planning",
+   "section-order": 9,
+   "doc-order": 52
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-retaining-existing-staff-and-backfill-resources.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.team-organization-optimizes-and-elevates-o-m",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M",
+   "section-order": 2,
+   "doc-order": 126
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-servant-leadership-and-regional-compatibility.md",
+  "set": {
+   "section-id": "fulton-county-2025:11.leadership-approach-and-development",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.7 | Approach to Providing Qualified and Licensed Personnel › LEADERSHIP APPROACH AND DEVELOPMENT",
+   "section-order": 3,
+   "doc-order": 43
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-six-step-staff-retention-transition-process.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.compensation-package",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Compensation Package",
+   "section-order": 5,
+   "doc-order": 113
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-staffing-plan-and-fte-roster.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.staffing-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › STAFFING PLAN",
+   "section-order": 3,
+   "doc-order": 46
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-subcontractor-scopes-and-jv-support-bench.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.subcontractors",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › STAFFING PLAN › Subcontractors",
+   "section-order": 5,
+   "doc-order": 48
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-team-organization-and-key-personnel.md",
+  "set": {
+   "section-id": "fulton-county-2025:14",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel",
+   "section-order": 1,
+   "doc-order": 125
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 4,
+   "doc-order": 128
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Long-Term Staffing/Succession Planning Practices",
+   "section-order": 13,
+   "doc-order": 121
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-training-certification-and-career-development.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.training-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › TRAINING PLAN",
+   "section-order": 7,
+   "doc-order": 50
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-transition-team-composition-and-continued-support.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.transition-team",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Transition Team",
+   "section-order": 7,
+   "doc-order": 115
+  }
+ },
+ {
+  "path": "wiki/management-staffing/fulton-transition-training-period-onboarding-curriculum.md",
+  "set": {
+   "section-id": "fulton-county-2025:13.transition-training-period",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Transition Training Period",
+   "section-order": 8,
+   "doc-order": 116
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-comprehensive-jv-solution-benefits.md",
+  "set": {
+   "section-id": "fulton-county-2025:03",
+   "section-path": "Section 1 | Executive Summary",
+   "section-order": 2,
+   "doc-order": 3
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-jv-partnership-value-proposition.md",
+  "set": {
+   "section-id": "fulton-county-2025:03",
+   "section-path": "Section 1 | Executive Summary",
+   "section-order": 1,
+   "doc-order": 2
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-jv-project-understanding-and-response.md",
+  "set": {
+   "section-id": "fulton-county-2025:03",
+   "section-path": "Section 1 | Executive Summary",
+   "section-order": 4,
+   "doc-order": 5
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-jv-strategic-partner-close.md",
+  "set": {
+   "section-id": "fulton-county-2025:03",
+   "section-path": "Section 1 | Executive Summary",
+   "section-order": 7,
+   "doc-order": 8
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-maintenance-challenges-and-targeted-solutions.md",
+  "set": {
+   "section-id": "fulton-county-2025:03",
+   "section-path": "Section 1 | Executive Summary",
+   "section-order": 5,
+   "doc-order": 6
+  }
+ },
+ {
+  "path": "wiki/win-themes/exec-summary-operational-benefits-and-future-readiness.md",
+  "set": {
+   "section-id": "fulton-county-2025:03",
+   "section-path": "Section 1 | Executive Summary",
+   "section-order": 6,
+   "doc-order": 7
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-additional-digital-tools.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.available-additional-digital-tools-for-next-level-optimizati",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › AVAILABLE ADDITIONAL DIGITAL TOOLS FOR NEXT LEVEL OPTIMIZATION OFFERINGS",
+   "section-order": 8,
+   "doc-order": 32
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-aquadna-smart-system-optimization.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.replica-digital-twin-modeling-for-process-optimization-and-e",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Replica Digital Twin: Modeling for Process Optimization and Employee Training",
+   "section-order": 16,
+   "doc-order": 40
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-community-engagement-accountability-and-relief-support.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.office",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Media Relations Program › Office)",
+   "section-order": 65,
+   "doc-order": 108
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-community-internship-and-workforce-development-partnerships.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.media-relations-program",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Media Relations Program",
+   "section-order": 62,
+   "doc-order": 105
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-community-organization-and-water-stewardship-partnerships.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.media-relations-program",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Media Relations Program",
+   "section-order": 63,
+   "doc-order": 106
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-community-outreach-leadership-and-communication-tools.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.stakeholders-directory",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Stakeholders Directory",
+   "section-order": 58,
+   "doc-order": 101
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-energy-management-benefits.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.benefits-to-fulton-county",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Benefits to Fulton County",
+   "section-order": 10,
+   "doc-order": 34
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-energy-management-investment-value-and-savings.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.investment-value-and-cost-savings",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Investment Value and Cost Savings",
+   "section-order": 11,
+   "doc-order": 35
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-energy-management-strategy.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
+   "section-order": 3,
+   "doc-order": 27
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-exclusive-consulting-discount-value.md",
+  "set": {
+   "section-id": "fulton-county-2025:03",
+   "section-path": "Section 1 | Executive Summary",
+   "section-order": 3,
+   "doc-order": 4
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.maintenance-planner-scheduler-powered-by-palantir",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Maintenance Planner/Scheduler Powered by Palantir",
+   "section-order": 13,
+   "doc-order": 37
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-interactive-community-education-and-wellness-partnerships.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.media-relations-program",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Media Relations Program",
+   "section-order": 64,
+   "doc-order": 107
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-maintenance-ai-assistant-palantir.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.maintenance-planner-scheduler-powered-by-palantir",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Maintenance Planner/Scheduler Powered by Palantir",
+   "section-order": 14,
+   "doc-order": 38
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-maintenance-planner-scheduler-palantir.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.maintenance-planner-scheduler-powered-by-palantir",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Maintenance Planner/Scheduler Powered by Palantir",
+   "section-order": 12,
+   "doc-order": 36
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-proactive-media-relations-program.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.media-relations-program",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Media Relations Program",
+   "section-order": 61,
+   "doc-order": 104
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-process-security-asset-management-benefits.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
+   "section-order": 5,
+   "doc-order": 29
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-public-information-displays-tours-and-speakers-bureau.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.public-information-display",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Public Information Display",
+   "section-order": 60,
+   "doc-order": 103
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-regional-training-maintenance-intelligence.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
+   "section-order": 4,
+   "doc-order": 28
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-replica-digital-twin-optimization-training.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.replica-digital-twin-modeling-for-process-optimization-and-e",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Replica Digital Twin: Modeling for Process Optimization and Employee Training",
+   "section-order": 15,
+   "doc-order": 39
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-school-stem-and-career-exploration-program.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.school-program",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › School Program",
+   "section-order": 59,
+   "doc-order": 102
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-stable-ownership-enduring-commitment.md",
+  "set": {
+   "section-id": "fulton-county-2025:09.1-meaningful-partnership-built-on-transparency-accountabilit",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 1. Meaningful partnership built on transparency, accountability, and investment in community",
+   "section-order": 6,
+   "doc-order": 19
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-value-added-innovation-program.md",
+  "set": {
+   "section-id": "fulton-county-2025:10",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance",
+   "section-order": 1,
+   "doc-order": 25
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-value-added-investments-exhibit-optimization-digital.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
+   "section-order": 6,
+   "doc-order": 30
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-value-added-investments-exhibit-studies-support.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
+   "section-order": 2,
+   "doc-order": 26
+  }
+ },
+ {
+  "path": "wiki/win-themes/fulton-workforce-digital-twin-collections-benefits.md",
+  "set": {
+   "section-id": "fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE",
+   "section-order": 7,
+   "doc-order": 31
+  }
+ },
+ {
+  "path": "wiki/win-themes/rfp-wayfinding-crosswalk-pattern.md",
+  "set": {
+   "section-id": "fulton-county-2025:02",
+   "section-path": "Wayfinding Table",
+   "section-order": 1,
+   "doc-order": 1
+  }
+ },
+ {
+  "path": "wiki/qualifications/fulton-jv-additional-management-and-leadership.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.additional-management-and-leadership",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › ADDITIONAL MANAGEMENT AND LEADERSHIP",
+   "section-order": 16,
+   "doc-order": 140
+  }
+ },
+ {
+  "path": "wiki/qualifications/fulton-jv-consulting-resources-digital-solids-energy-and-commissioning.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.jorge-bermudez",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › O&M RESOURCES › Jorge Bermudez",
+   "section-order": 20,
+   "doc-order": 144
+  }
+ },
+ {
+  "path": "wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.jorge-bermudez",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › O&M RESOURCES › Jorge Bermudez",
+   "section-order": 19,
+   "doc-order": 143
+  }
+ },
+ {
+  "path": "wiki/qualifications/fulton-jv-executive-sponsors-and-senior-supervisors.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.executive-sponsors-and-senior-supervisors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › EXECUTIVE SPONSORS AND SENIOR SUPERVISORS",
+   "section-order": 15,
+   "doc-order": 139
+  }
+ },
+ {
+  "path": "wiki/qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.o-m-resources",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › O&M RESOURCES",
+   "section-order": 17,
+   "doc-order": 141
+  }
+ },
+ {
+  "path": "wiki/qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.o-m-resources",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › O&M RESOURCES",
    "section-order": 18,
+   "doc-order": 142
+  }
+ },
+ {
+  "path": "wiki/qualifications/fulton-local-preference-supporting-documentation.md",
+  "set": {
+   "section-id": "fulton-county-2025:18",
+   "section-path": "Section 7 | Local Preference",
+   "section-order": 1,
+   "doc-order": 163
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-balanced-security-governance-and-technology.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.security-governance",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SECURITY PLAN › Security Governance",
+   "section-order": 49,
+   "doc-order": 92
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-beyondzero-safety-program-and-scorecard.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.safety-plan-and-management",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SAFETY PLAN AND MANAGEMENT",
+   "section-order": 44,
+   "doc-order": 87
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-clovis-environmental-compliance-record.md",
+  "set": {
+   "section-id": "fulton-county-2025:16.reference-project-3-clovis-wwtp-reuse-facility-city-of-clovi",
+   "section-path": "Section 5 | Environmental Compliance Record › ENVIRONMENTAL COMPLIANCE RECORD › Reference Project #3: Clovis WWTP Reuse Facility, City of Clovis, California",
+   "section-order": 4,
+   "doc-order": 161
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-compliance-training-and-tools.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.training",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Training",
+   "section-order": 25,
+   "doc-order": 68
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-emergency-response-regional-disaster-support.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.emergency-response-and-disaster-preparedness-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › EMERGENCY RESPONSE AND DISASTER PREPAREDNESS PLAN",
+   "section-order": 51,
+   "doc-order": 94
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-environmental-management-and-sampling-strategy.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.environmental-management-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Environmental Management Plan",
+   "section-order": 28,
+   "doc-order": 71
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-environmental-protection-and-reporting-commitment.md",
+  "set": {
+   "section-id": "fulton-county-2025:16.environmental-protection-and-mitigation",
+   "section-path": "Section 5 | Environmental Compliance Record › ENVIRONMENTAL PROTECTION AND MITIGATION",
+   "section-order": 1,
+   "doc-order": 158
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.cybersecurity",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › CYBERSECURITY",
+   "section-order": 50,
+   "doc-order": 93
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-laboratory-management-and-compliance-plan.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.overview-and-compliance-strategy",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › LABORATORY MANAGEMENT AND SAMPLING PLAN › Overview and Compliance Strategy",
+   "section-order": 29,
    "doc-order": 72
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-laboratory-qaqc-and-compliance-dashboard.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.training",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Training",
+   "section-order": 26,
+   "doc-order": 69
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-regulatory-compliance-program.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.corporate-capability-and-approach",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Corporate Capability and Approach",
+   "section-order": 24,
+   "doc-order": 67
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-regulatory-governance-and-audits.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.electronic-document-management-system",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Electronic Document Management System",
+   "section-order": 27,
+   "doc-order": 70
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-safety-leadership-engagement-and-proactive-record.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.leadership-engagement-and-accountability",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SAFETY PLAN AND MANAGEMENT › Leadership Engagement and Accountability",
+   "section-order": 45,
+   "doc-order": 88
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-safety-program-key-elements-table.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.key-elements-of-our-safety-program-and-planning",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SAFETY PLAN AND MANAGEMENT › Key Elements of Our Safety Program and Planning",
+   "section-order": 46,
+   "doc-order": 89
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-sampling-information-audits-and-training.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.sampling-program",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › LABORATORY MANAGEMENT AND SAMPLING PLAN › Sampling Program",
+   "section-order": 30,
+   "doc-order": 73
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.security-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SECURITY PLAN",
+   "section-order": 47,
+   "doc-order": 90
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-security-plan-components-access-control-and-incident-reporting.md",
+  "set": {
+   "section-id": "fulton-county-2025:12.security-plan",
+   "section-path": "Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SECURITY PLAN",
+   "section-order": 48,
+   "doc-order": 91
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-spokane-environmental-compliance-record.md",
+  "set": {
+   "section-id": "fulton-county-2025:16.reference-project-1-traverse-city-regional-wwtp-city-of-trav",
+   "section-path": "Section 5 | Environmental Compliance Record › ENVIRONMENTAL COMPLIANCE RECORD › Reference Project #1: Traverse City Regional WWTP, City of Traverse, Michigan",
+   "section-order": 3,
+   "doc-order": 160
+  }
+ },
+ {
+  "path": "wiki/compliance-plans/fulton-traverse-city-environmental-compliance-record.md",
+  "set": {
+   "section-id": "fulton-county-2025:16.environmental-compliance-record",
+   "section-path": "Section 5 | Environmental Compliance Record › ENVIRONMENTAL COMPLIANCE RECORD",
+   "section-order": 2,
+   "doc-order": 159
+  }
+ },
+ {
+  "path": "wiki/resumes/anthony-benavidez.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 5,
+   "doc-order": 129
+  }
+ },
+ {
+  "path": "wiki/resumes/david-pitocchelli-little-river-plant-manager.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 8,
+   "doc-order": 132
+  }
+ },
+ {
+  "path": "wiki/resumes/devon-trezevant.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 6,
+   "doc-order": 130
+  }
+ },
+ {
+  "path": "wiki/resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 12,
+   "doc-order": 136
+  }
+ },
+ {
+  "path": "wiki/resumes/fulton-mark-huggard-big-creek-plant-manager.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 10,
+   "doc-order": 134
+  }
+ },
+ {
+  "path": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 9,
+   "doc-order": 133
+  }
+ },
+ {
+  "path": "wiki/resumes/fulton-proposed-team-organization-roster.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.fulton-county-department-of-public-works",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Fulton County Department of Public Works",
+   "section-order": 3,
+   "doc-order": 127
+  }
+ },
+ {
+  "path": "wiki/resumes/fulton-tim-durham-senior-supervisor.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 11,
+   "doc-order": 135
+  }
+ },
+ {
+  "path": "wiki/resumes/nathan-dahl.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 7,
+   "doc-order": 131
+  }
+ },
+ {
+  "path": "wiki/resumes/scott-levesque.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 14,
+   "doc-order": 138
+  }
+ },
+ {
+  "path": "wiki/resumes/terrell-gibbs.md",
+  "set": {
+   "section-id": "fulton-county-2025:14.subcontractors",
+   "section-path": "Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors",
+   "section-order": 13,
+   "doc-order": 137
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-clovis-reuse-facility-overview.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
+   "section-order": 12,
+   "doc-order": 156
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-clovis-reuse-facility-performance.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
+   "section-order": 13,
+   "doc-order": 157
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-mbr-design-and-commissioning-portfolio.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-wastewater-engineering-and-mbr-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS WASTEWATER ENGINEERING AND MBR EXPERIENCE",
+   "section-order": 2,
+   "doc-order": 146
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-mbr-experience-highlights-additional-table.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-wastewater-engineering-and-mbr-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS WASTEWATER ENGINEERING AND MBR EXPERIENCE",
+   "section-order": 4,
+   "doc-order": 148
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-mbr-experience-highlights-operations-table.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-wastewater-engineering-and-mbr-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS WASTEWATER ENGINEERING AND MBR EXPERIENCE",
+   "section-order": 5,
+   "doc-order": 149
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-mbr-operations-engineering-and-sme-experience.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-wastewater-engineering-and-mbr-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS WASTEWATER ENGINEERING AND MBR EXPERIENCE",
+   "section-order": 3,
+   "doc-order": 147
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
+   "section-order": 7,
+   "doc-order": 151
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-pump-station-operations-experience.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
+   "section-order": 6,
+   "doc-order": 150
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-spokane-county-dbo-overview.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
+   "section-order": 10,
+   "doc-order": 154
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-spokane-county-dbo-performance.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
+   "section-order": 11,
+   "doc-order": 155
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-traverse-city-dbo-accomplishments.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
+   "section-order": 9,
+   "doc-order": 153
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-traverse-city-dbo-overview.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-collection-system-pump-station-experience",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE",
+   "section-order": 8,
+   "doc-order": 152
+  }
+ },
+ {
+  "path": "wiki/past-performance/fulton-us-treatment-facilities-portfolio.md",
+  "set": {
+   "section-id": "fulton-county-2025:15.jacobs-experience-operating-us-treatment-facilities",
+   "section-path": "Section 4 | Relevant Project Experience › JACOBS’ EXPERIENCE OPERATING US TREATMENT FACILITIES",
+   "section-order": 1,
+   "doc-order": 145
   }
  }
 ]

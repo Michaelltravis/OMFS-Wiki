@@ -23,9 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:14.subcontractors
-section-order: 8
+section-order: 10
 section-path: Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Subcontractors
-doc-order: 102
+doc-order: 134
 context: "Southeast US county wastewater O&M pursuit, 2025, bid as JC Solutions, a Jacobs/CERM JV; verbatim key-personnel resume."
 quality: "Verbatim source resume retaining named experience, certifications, dates, quantified experience, and reference contacts."
 reuse-notes: "VERBATIM resume — retain names, clients, contacts, certifications, dates, numbers, and experience. Before reuse, confirm the individual’s role, availability, employment status, certifications, and licenses with the account team; tailor only the proposed role and client-facing assignment."

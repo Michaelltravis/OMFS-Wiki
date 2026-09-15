@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:10.replica-digital-twin-modeling-for-process-optimization-and-e
-section-order: 12
+section-order: 16
 section-path: 'Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions'' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Replica Digital Twin: Modeling for Process Optimization and Employee Training'
-doc-order: 34
+doc-order: 40
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for three MBR wastewater facilities and associated pump stations under Georgia EPD oversight.
 quality: Near-verbatim collection-system and pump-station optimization offer linking integrated data, predictive alarms, automatic deragging, and operating outcomes.
 reuse-notes: Confirm collection-system scope, platform availability, data rights, installation locations, and value-add investment before reuse. Named reference projects are past-performance evidence and require current approval.

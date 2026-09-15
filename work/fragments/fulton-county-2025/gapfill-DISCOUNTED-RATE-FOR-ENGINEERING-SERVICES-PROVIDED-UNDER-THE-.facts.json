@@ -1,0 +1,52 @@
+[
+  {
+    "claim": "Discounted consulting rate structure lasts until the end of the O&M contract term",
+    "number": 5,
+    "unit": "year contract term",
+    "as_of": "2025",
+    "page": 32,
+    "para": 2,
+    "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md",
+    "category": "technical-approach"
+  },
+  {
+    "claim": "Discounted consulting rate structure is escalated each fiscal year",
+    "number": 2,
+    "unit": "percent per fiscal year",
+    "as_of": "2025",
+    "page": 32,
+    "para": 2,
+    "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md",
+    "category": "technical-approach"
+  },
+  {
+    "claim": "Illustrative engineering services project value used to demonstrate the discount",
+    "number": 500000,
+    "unit": "USD project value",
+    "as_of": "2025",
+    "page": 32,
+    "para": 2,
+    "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md",
+    "category": "technical-approach"
+  },
+  {
+    "claim": "Average savings to the client from applying the discounted consulting rate structure",
+    "number": 7.4,
+    "unit": "percent average savings",
+    "as_of": "2025",
+    "page": 32,
+    "para": 2,
+    "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md",
+    "category": "technical-approach"
+  },
+  {
+    "claim": "Savings on a $500,000 engineering services project under the discounted rate structure",
+    "number": 37000,
+    "unit": "USD savings",
+    "as_of": "2025",
+    "page": 32,
+    "para": 2,
+    "block": "wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md",
+    "category": "technical-approach"
+  }
+]

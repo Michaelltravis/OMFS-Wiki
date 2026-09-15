@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.office
-section-order: 55
+section-order: 65
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Media Relations Program › Office)
-doc-order: 92
+doc-order: 108
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim community-accountability, relief-support, and annual-reporting passage."
 reuse-notes: "Confirm summit participation, relief partners, measurement methods, report recipients, and annual reporting commitments before reuse."

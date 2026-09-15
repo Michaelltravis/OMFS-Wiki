@@ -23,9 +23,9 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 section-id: fulton-county-2025:12.asset-management-centered-maintenance-approach
-section-order: 32
+section-order: 38
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ASSET MANAGEMENT AND MAINTENANCE › Asset Management-centered Maintenance Approach
-doc-order: 69
+doc-order: 81
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for MBR facilities and pump stations."
 quality: "Near-verbatim ISO 55001, CMMS, condition assessment, and risk-planning framework."
 reuse-notes: "Tailor the client’s scope, CMMS platform, risk workshop, and governance roles. Retain JC Solutions as the Jacobs/CERM JV; attribute the asset-management capability to Jacobs. Proposal-team review required before reusing the $300,000 value-added investment framing."

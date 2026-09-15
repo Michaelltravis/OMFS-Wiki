@@ -1,0 +1,132 @@
+[
+  {
+    "claim": "Jacobs' leadership training program provided to appropriate management and administrative staff during transition onboarding runs 40 hours",
+    "number": 40,
+    "unit": "hours",
+    "as_of": "2025",
+    "page": 120,
+    "para": 11,
+    "block": "wiki/management-staffing/fulton-transition-training-period-onboarding-curriculum.md",
+    "category": "training-certification"
+  },
+  {
+    "claim": "JC Solutions committed to deliver a comprehensive transition within a 45-day period",
+    "number": 45,
+    "unit": "days",
+    "as_of": "2025",
+    "page": 120,
+    "para": 13,
+    "block": "wiki/management-staffing/fulton-45-day-transition-confidence-and-phasing.md",
+    "category": "transition-management"
+  },
+  {
+    "claim": "Focused 45-day transition plan beginning May 22nd, developed although the RFP did not specify a required transition duration",
+    "number": 45,
+    "unit": "days",
+    "as_of": "2025",
+    "page": 120,
+    "para": 14,
+    "block": "wiki/management-staffing/fulton-45-day-transition-confidence-and-phasing.md",
+    "category": "transition-management"
+  },
+  {
+    "claim": "Pre-start transition phase covering HR and administrative preparation runs 15 days prior to the formal transition",
+    "number": 15,
+    "unit": "days",
+    "as_of": "2025",
+    "page": 120,
+    "para": 17,
+    "block": "wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md",
+    "category": "transition-management"
+  },
+  {
+    "claim": "Initial transition phase, including shadowing of existing staff and the badge-flip process, runs 30 days starting July 1st",
+    "number": 30,
+    "unit": "days",
+    "as_of": "2025",
+    "page": 120,
+    "para": 21,
+    "block": "wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md",
+    "category": "transition-management"
+  },
+  {
+    "claim": "Jacobs' Resource Planning Group doubled the number of new Jacobs O&M employees over the past year while lowering turnover",
+    "number": 2,
+    "unit": "x (doubled) new O&M hires year over year",
+    "as_of": "2025",
+    "page": 121,
+    "para": 11,
+    "block": "wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md",
+    "category": "recruiting-retention"
+  },
+  {
+    "claim": "Jacobs' at Ease military recruitment program gives transitioning service members, veterans, and spouses on-the-job experience over a 90-180 day period",
+    "number": "90-180",
+    "unit": "days",
+    "as_of": "2025",
+    "page": 121,
+    "para": 15,
+    "block": "wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md",
+    "category": "recruiting-retention"
+  },
+  {
+    "claim": "Jacobs provides promotions and cash bonuses up to $1,000 for employees who pass certifications or earn an advanced degree in a related field",
+    "number": 1000,
+    "unit": "USD per employee (maximum bonus)",
+    "as_of": "2025",
+    "page": 121,
+    "para": 17,
+    "block": "wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md",
+    "category": "training-certification"
+  },
+  {
+    "claim": "Future Leadership Development is an internal two-year training program in project manager fundamentals, management, and leadership skills",
+    "number": 2,
+    "unit": "years",
+    "as_of": "2025",
+    "page": 123,
+    "para": 3,
+    "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md",
+    "category": "workforce-development"
+  },
+  {
+    "claim": "Jacobs' Global Future Talent Team comprises 20+ talent development staff managing graduate, intern, co-op, and apprentice strategies",
+    "number": 20,
+    "unit": "staff (20+)",
+    "as_of": "2025",
+    "page": 123,
+    "para": 3,
+    "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md",
+    "category": "workforce-development"
+  },
+  {
+    "claim": "The Project Manager Intern Program gives high-potential staff a three-month immersion on each of two different O&M project sites",
+    "number": 3,
+    "unit": "months per site (two sites)",
+    "as_of": "2025",
+    "page": 123,
+    "para": 3,
+    "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md",
+    "category": "workforce-development"
+  },
+  {
+    "claim": "The Project Manager Intern Program is a six-month endeavor spanning two O&M project sites",
+    "number": 6,
+    "unit": "months",
+    "as_of": "2025",
+    "page": 123,
+    "para": 3,
+    "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md",
+    "category": "workforce-development"
+  },
+  {
+    "claim": "The Leadership Team Mentor Program pairs a selected group of 35 staff with global leaders for a year-long program culminating in a capstone event",
+    "number": 35,
+    "unit": "staff per cohort",
+    "as_of": "2025",
+    "page": 123,
+    "para": 3,
+    "block": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md",
+    "category": "workforce-development"
+  }
+]

@@ -25,7 +25,7 @@ last-verified: 2026-09-07
 section-id: fulton-county-2025:12.staffing-plan
 section-order: 3
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › STAFFING PLAN
-doc-order: 40
+doc-order: 46
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV; three MBR water-reclamation facilities and pump stations.
 quality: Source staffing model pairs a 61-FTE roster with specified day/night coverage and centralized maintenance support.
 reuse-notes: Rebuild all FTEs, shifts, current-staff offers, facility assignments, and job classifications from the target RFP and workforce plan.
