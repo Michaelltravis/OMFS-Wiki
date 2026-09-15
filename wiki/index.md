@@ -621,6 +621,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [JC Solutions JV O&M Resources — Maintenance, Compliance, Digital, Laboratory, and Energy](qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md) | roster | preferred | False | qualifications, staffing | wwtp-om, multi-facility, mbr-membrane, jv-delivery | 3 water reclamation facilities / 32 MGD MBR + 15 MGD MBR + 2.6 MGD / 28 wastewater + 5 potable-water pump stations | 3 | key-personnel, asset-management, maintenance-program, regulatory-compliance, cybersecurity, laboratory-services, energy-management, regional-support, jv-structure, table-layout |
 | [JC Solutions JV O&M Resources — Operations, Safety, Biosolids, Workforce, Procurement, and Administration](qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md) | roster | preferred | False | qualifications, staffing | wwtp-om, multi-facility, mbr-membrane, solids, jv-delivery | 3 water reclamation facilities / 32 MGD MBR + 15 MGD MBR + 2.6 MGD / 28 wastewater + 5 potable-water pump stations | 2 | key-personnel, operations-management, process-optimization, safety-program, instrumentation-controls, biosolids, recruiting-retention, succession-planning, procurement, regional-support, jv-structure, table-layout |
 | [Local Preference Supporting Documentation](qualifications/fulton-local-preference-supporting-documentation.md) | prose | preferred | False | qualifications, forms | wwtp-om, multi-facility, jv-delivery | Three MBR water-reclamation facilities plus pump stations | — | corporate-qualifications, local-presence, jv-structure, appendix |
+| [Contract Exceptions - Change in Law, Uncontrollable Circumstances and Indemnification](qualifications/hull-contract-exceptions-change-in-law-and-indemnification.md) | table | preferred | False | qualifications | wwtp-om, collections | 3.07 MGD / collection system / coastal town | — | scope-assumptions, legal-disclosures, appendix, table-layout, regulatory-compliance, transparency, partnership, massachusetts, new-england |
+| [Contract Exceptions - Insurance, Events of Default and Renewal Term](qualifications/hull-contract-exceptions-insurance-default-and-term.md) | table | preferred | False | qualifications | wwtp-om, collections | 3.07 MGD / collection system / coastal town | 4 | scope-assumptions, legal-disclosures, financial-qualifications, appendix, table-layout, regulatory-compliance, partnership, massachusetts, new-england |
 | [Maintenance and Asset Management Capability with Case Studies](qualifications/maintenance-and-asset-management-case-studies.md) | prose | preferred | True | qualifications, tech-approach | wwtp-om, multi-facility, solids | >110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE | 16 | maintenance-program, asset-management, predictive-maintenance, cmms, case-study, proof-point, capital-planning, scada, corporate-qualifications, nexgen-eam |
 | [Confidentiality Designation and Trade-Secret Legal Basis](qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md) | prose | preferred | False | qualifications, forms | wwtp-om, multi-facility, solids | Two large water reclamation facilities + biosolids production / regional sewerage district | 2 | legal-disclosures, corporate-qualifications, scope-assumptions, transparency, regulatory-compliance, regional-authority |
 | [Exceptions and Proposed Contract Alternatives Table](qualifications/mmsd-exceptions-and-proposed-contract-alternatives-table.md) | table | preferred | False | forms | wwtp-om, multi-facility, solids | 2 water reclamation facilities + biosolids production / regional sewerage district | 2 | scope-assumptions, financial-qualifications, table-layout, partnership, transparency, biosolids, regional-authority |
@@ -852,6 +854,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 | [Traverse City Regional WWTP DBO — Accomplishments and Performance](past-performance/fulton-traverse-city-dbo-accomplishments.md) | prose | preferred | False | past-performance | wwtp-om, mbr-membrane, design-build, solids | 8.5 MGD / 17 MGD peak | 3 | past-performance, reference-projects, project-description, michigan, design-build, membrane-treatment, energy-management, asset-management, regulatory-compliance, proof-point, testimonial |
 | [Traverse City Regional WWTP DBO — Reference Overview](past-performance/fulton-traverse-city-dbo-overview.md) | prose | preferred | False | past-performance | wwtp-om, mbr-membrane, design-build, multi-facility | 8.5 MGD / 17 MGD peak / 50,000 residents / nine lift stations | 3 | past-performance, reference-projects, project-description, michigan, design-build, membrane-treatment, lift-stations, industrial-pretreatment |
 | [Jacobs US Treatment Facilities O&M Portfolio](past-performance/fulton-us-treatment-facilities-portfolio.md) | prose | preferred | False | past-performance | wwtp-om, collections, solids, multi-facility, mbr-membrane | National O&M portfolio; 4,000+ US O&M staff | 2 | past-performance, corporate-scale, wastewater-treatment, collection-systems, scada, regulatory-compliance |
+| [Waterbury Owner Testimonial — Mike LeBlanc, Director of Finance, City of Waterbury, CT](past-performance/hull-waterbury-owner-testimonial.md) | prose | preferred | False | past-performance | wwtp-om, collections | 27 MGD design / <54 MGD wet weather / 310 mi sewer / 20 pump stations | 1 | past-performance, project-description, testimonial, partnership, callout-box, connecticut |
+| [Waterbury Wastewater System O&M — Treatment Systems, Processes, and Community Involvement (City of Waterbury, CT)](past-performance/hull-waterbury-treatment-process-and-community-involvement.md) | prose | preferred | False | past-performance | wwtp-om, collections | 27 MGD design / <54 MGD wet weather / 310 mi sewer / 20 pump stations | 2 | past-performance, project-description, wastewater-treatment, process-control, wet-weather, community-engagement, community-stewardship, connecticut |
 | [Section 7 Opener — O&M Portfolio Scale, Oklahoma Track Record, and Reference Project Framing (OCWUT)](past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md) | prose | preferred | False | past-performance | wwtp-om, multi-facility, solids | >110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE | — | past-performance, project-understanding, multi-facility-operations, corporate-scale, client-retention, local-presence, regional-support, biosolids, wastewater-treatment, reference-projects, proof-point, multi-state |
 | [Project Description — Agua Nueva Water Reclamation Facility DBO (Pima County, AZ)](past-performance/project-agua-nueva-dbo-pima-county-az.md) | prose | preferred | True | past-performance | wwtp-om, reuse-dpr, multi-facility | 32 MGD / 25 MGD Arizona Class A+ reclaimed water | 3 | past-performance, project-description, wastewater-treatment, design-build, water-reuse, odor-control, asset-management, predictive-maintenance, data-analytics, construction-support, safety-program, cost-savings |
 | [Project Description — Bixby Water Reclamation Facility and Lift Stations O&M (City of Bixby, OK)](past-performance/project-bixby-wrf-lift-stations-om.md) | prose | preferred | False | past-performance | wwtp-om, collections | 2.8 MGD SBR (5.0 MGD ultimate) / 18 lift stations / ~28,609 residents | 1 | past-performance, project-description, wastewater-treatment, lift-stations, construction-support, industrial-pretreatment, odor-control, cmms, asset-management, regulatory-compliance, local-presence, day-one-readiness |
@@ -1209,6 +1213,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Traverse City Regional WWTP DBO — Accomplishments and Performance](past-performance/fulton-traverse-city-dbo-accomplishments.md)
 - [Traverse City Regional WWTP DBO — Reference Overview](past-performance/fulton-traverse-city-dbo-overview.md)
 - [Jacobs US Treatment Facilities O&M Portfolio](past-performance/fulton-us-treatment-facilities-portfolio.md)
+- [Waterbury Owner Testimonial — Mike LeBlanc, Director of Finance, City of Waterbury, CT](past-performance/hull-waterbury-owner-testimonial.md)
+- [Waterbury Wastewater System O&M — Treatment Systems, Processes, and Community Involvement (City of Waterbury, CT)](past-performance/hull-waterbury-treatment-process-and-community-involvement.md)
 - [Section 7 Opener — O&M Portfolio Scale, Oklahoma Track Record, and Reference Project Framing (OCWUT)](past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md)
 - [Project Description — Agua Nueva Water Reclamation Facility DBO (Pima County, AZ)](past-performance/project-agua-nueva-dbo-pima-county-az.md)
 - [Project Description — Bixby Water Reclamation Facility and Lift Stations O&M (City of Bixby, OK)](past-performance/project-bixby-wrf-lift-stations-om.md)
@@ -1269,6 +1275,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [JC Solutions JV O&M Resources — Maintenance, Compliance, Digital, Laboratory, and Energy](qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md)
 - [JC Solutions JV O&M Resources — Operations, Safety, Biosolids, Workforce, Procurement, and Administration](qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md)
 - [Local Preference Supporting Documentation](qualifications/fulton-local-preference-supporting-documentation.md)
+- [Contract Exceptions - Change in Law, Uncontrollable Circumstances and Indemnification](qualifications/hull-contract-exceptions-change-in-law-and-indemnification.md)
+- [Contract Exceptions - Insurance, Events of Default and Renewal Term](qualifications/hull-contract-exceptions-insurance-default-and-term.md)
 - [Maintenance and Asset Management Capability with Case Studies](qualifications/maintenance-and-asset-management-case-studies.md)
 - [Confidentiality Designation and Trade-Secret Legal Basis](qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md)
 - [Financial Assurances: Letter of Credit, Guaranty, and Insurance (with Broker Letter of Insurability)](qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md)
@@ -2530,6 +2538,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Resume — Rick Warner, PE (Deputy Project Manager / Director of Regional Partnership)](resumes/mmsd-rick-warner-deputy-project-manager.md)
 - [Resume — Toyin Ogunfolaju (Public Outreach Coordinator)](resumes/mmsd-toyin-ogunfolaju-public-outreach-coordinator.md)
 - [Resume — Paul Shropshire (Operations Manager, Deer Creek)](resumes/paul-shropshire.md)
+- [Waterbury Wastewater System O&M — Treatment Systems, Processes, and Community Involvement (City of Waterbury, CT)](past-performance/hull-waterbury-treatment-process-and-community-involvement.md)
 - [Project Description — Southbridge Wastewater Treatment Plant O&M (Town of Southbridge, MA)](past-performance/project-southbridge-ma.md)
 - [Project Description — Traverse City Regional Wastewater Treatment Plant DBO (City of Traverse City, MI)](past-performance/project-traverse-city-mi.md)
 - [Project Description — Westside and Marine Park WWTPs O&M (City of Vancouver, WA)](past-performance/project-vancouver-wa-westside-marine-park.md)
@@ -2821,6 +2830,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Firm Qualifications Opener and Corporate Scale](qualifications/firm-qualifications-opener-and-corporate-scale.md)
 - [Full O&M Service Portfolio and Integrated Delivery Model](qualifications/full-om-service-portfolio-and-integrated-delivery-model.md)
 - [JC Solutions JV O&M Resources — Maintenance, Compliance, Digital, Laboratory, and Energy](qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md)
+- [Contract Exceptions - Change in Law, Uncontrollable Circumstances and Indemnification](qualifications/hull-contract-exceptions-change-in-law-and-indemnification.md)
+- [Contract Exceptions - Insurance, Events of Default and Renewal Term](qualifications/hull-contract-exceptions-insurance-default-and-term.md)
 - [Confidentiality Designation and Trade-Secret Legal Basis](qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md)
 - [At-Fault Violation Events Log with Root Cause and Corrective Action, Part 1](qualifications/ocwut-at-fault-violation-events-log-part-1.md)
 - [At-Fault Violation Events Log with Root Cause and Corrective Action, Part 2](qualifications/ocwut-at-fault-violation-events-log-part-2.md)
@@ -2986,6 +2997,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Traverse City Regional WWTP DBO — Accomplishments and Performance](past-performance/fulton-traverse-city-dbo-accomplishments.md)
 - [Traverse City Regional WWTP DBO — Reference Overview](past-performance/fulton-traverse-city-dbo-overview.md)
 - [Jacobs US Treatment Facilities O&M Portfolio](past-performance/fulton-us-treatment-facilities-portfolio.md)
+- [Waterbury Owner Testimonial — Mike LeBlanc, Director of Finance, City of Waterbury, CT](past-performance/hull-waterbury-owner-testimonial.md)
+- [Waterbury Wastewater System O&M — Treatment Systems, Processes, and Community Involvement (City of Waterbury, CT)](past-performance/hull-waterbury-treatment-process-and-community-involvement.md)
 - [Section 7 Opener — O&M Portfolio Scale, Oklahoma Track Record, and Reference Project Framing (OCWUT)](past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md)
 - [Project Description — Agua Nueva Water Reclamation Facility DBO (Pima County, AZ)](past-performance/project-agua-nueva-dbo-pima-county-az.md)
 - [Project Description — Bixby Water Reclamation Facility and Lift Stations O&M (City of Bixby, OK)](past-performance/project-bixby-wrf-lift-stations-om.md)
@@ -4338,6 +4351,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [JC Solutions JV Additional Management and Leadership](qualifications/fulton-jv-additional-management-and-leadership.md)
 - [JC Solutions JV Executive Sponsors and Senior Supervisors](qualifications/fulton-jv-executive-sponsors-and-senior-supervisors.md)
 - [Local Preference Supporting Documentation](qualifications/fulton-local-preference-supporting-documentation.md)
+- [Contract Exceptions - Change in Law, Uncontrollable Circumstances and Indemnification](qualifications/hull-contract-exceptions-change-in-law-and-indemnification.md)
+- [Contract Exceptions - Insurance, Events of Default and Renewal Term](qualifications/hull-contract-exceptions-insurance-default-and-term.md)
 - [Confidentiality Designation and Trade-Secret Legal Basis](qualifications/mmsd-confidentiality-designation-and-trade-secret-basis.md)
 - [Exceptions and Proposed Contract Alternatives Table](qualifications/mmsd-exceptions-and-proposed-contract-alternatives-table.md)
 - [Financial Assurances: Letter of Credit, Guaranty, and Insurance (with Broker Letter of Insurability)](qualifications/mmsd-financial-assurances-letter-of-credit-guaranty-and-insurance.md)
@@ -4433,6 +4448,8 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Jacobs MBR Design and Commissioning Portfolio](past-performance/fulton-mbr-design-and-commissioning-portfolio.md)
 - [MBR Operations, Engineering Depth, and Named SME Experience](past-performance/fulton-mbr-operations-engineering-and-sme-experience.md)
 - [Jacobs US Treatment Facilities O&M Portfolio](past-performance/fulton-us-treatment-facilities-portfolio.md)
+- [Waterbury Owner Testimonial — Mike LeBlanc, Director of Finance, City of Waterbury, CT](past-performance/hull-waterbury-owner-testimonial.md)
+- [Waterbury Wastewater System O&M — Treatment Systems, Processes, and Community Involvement (City of Waterbury, CT)](past-performance/hull-waterbury-treatment-process-and-community-involvement.md)
 - [Section 7 Opener — O&M Portfolio Scale, Oklahoma Track Record, and Reference Project Framing (OCWUT)](past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md)
 - [Project Description — Bixby Water Reclamation Facility and Lift Stations O&M (City of Bixby, OK)](past-performance/project-bixby-wrf-lift-stations-om.md)
 - [Project Results — Bixby Water Reclamation Facility and Lift Stations O&M (City of Bixby, OK)](past-performance/project-bixby-wrf-lift-stations-results-and-partnership.md)
@@ -4755,6 +4772,7 @@ Master index of all content blocks, regenerated from block frontmatter (`python 
 - [Pump Station Fleet Scale and Station-Specific Maintenance](past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md)
 - [Jacobs Collection System Pump Station Experience](past-performance/fulton-pump-station-operations-experience.md)
 - [Jacobs US Treatment Facilities O&M Portfolio](past-performance/fulton-us-treatment-facilities-portfolio.md)
+- [Waterbury Owner Testimonial — Mike LeBlanc, Director of Finance, City of Waterbury, CT](past-performance/hull-waterbury-owner-testimonial.md)
 - [Section 7 Opener — O&M Portfolio Scale, Oklahoma Track Record, and Reference Project Framing (OCWUT)](past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md)
 - [Project Description — Bixby Water Reclamation Facility and Lift Stations O&M (City of Bixby, OK)](past-performance/project-bixby-wrf-lift-stations-om.md)
 - [Project Description — Jackson Public Drinking Water and Wastewater Facilities O&M (JXN Water, Jackson, MS)](past-performance/project-jackson-jxn-water-om.md)
@@ -5804,15 +5822,17 @@ _Every block in its source proposal's reading order, under the subsection it was
       - 5. [Resume — Scott Mangold, CRL (Regional Operations Manager)](resumes/scott-mangold.md) — p0074¶4 · prose · preferred
 - **Section 7 - Appendix B - Project Descriptions** (`hull-wwtf-om-2026:13`, pp. 76–81)
   - 1. [Project Narrative — Holistic Utility Partnership Drives Multi-Million-Dollar Cost Savings (Large Coastal WWTP)](win-themes/project-narrative-utility-partnership-cost-savings.md) — p0076¶4 · prose · preferred
-  - 2. [Project Description — Westerly Wastewater Treatment Plant O&M and DBO Services (Town of Westerly, RI)](past-performance/project-westerly-ri.md) — p0077¶5 · prose · preferred
-  - 3. [Project Narrative — Incumbent Turnaround Plus Progressive Design-Build (Small Coastal WWTP)](win-themes/project-narrative-contract-transition-turnaround.md) — p0077¶5 · prose · preferred
+  - 2. [Waterbury Wastewater System O&M — Treatment Systems, Processes, and Community Involvement (City of Waterbury, CT)](past-performance/hull-waterbury-treatment-process-and-community-involvement.md) — p0076¶7 · prose · preferred
+  - 3. [Waterbury Owner Testimonial — Mike LeBlanc, Director of Finance, City of Waterbury, CT](past-performance/hull-waterbury-owner-testimonial.md) — p0076¶17 · prose · preferred
+  - 4. [Project Description — Westerly Wastewater Treatment Plant O&M and DBO Services (Town of Westerly, RI)](past-performance/project-westerly-ri.md) — p0077¶5 · prose · preferred
+  - 5. [Project Narrative — Incumbent Turnaround Plus Progressive Design-Build (Small Coastal WWTP)](win-themes/project-narrative-contract-transition-turnaround.md) — p0077¶5 · prose · preferred
   - **3.3 MGD** (`hull-wwtf-om-2026:13.3-3-mgd`, pp. 77–81)
-    - 4. [Project Description — Southbridge Wastewater Treatment Plant O&M (Town of Southbridge, MA)](past-performance/project-southbridge-ma.md) — p0078¶3 · prose · preferred
-    - 5. [Project Narrative — Newly Mobilized Contract Framed Around Investment and Innovation (Small New England WWTP)](win-themes/project-narrative-new-contract-mobilization-innovation.md) — p0078¶3 · prose · preferred
-    - 6. [Project Description — South Huron Wastewater Treatment Plant O&M (South Huron Valley Utility Authority, Rockwood, MI)](past-performance/project-south-huron-mi.md) — p0079¶3 · prose · preferred
-    - 7. [Project Narrative — Workforce Transition Success Paired With Biosolids Modernization (Regional Utility Authority)](win-themes/project-narrative-workforce-transition-biosolids-modernization.md) — p0079¶3 · prose · preferred
-    - 8. [Project Description — Traverse City Regional Wastewater Treatment Plant DBO (City of Traverse City, MI)](past-performance/project-traverse-city-mi.md) — p0080¶3 · prose · preferred
-    - 9. [Project Narrative — Multi-Decade DBO Partnership With Sustained Award Recognition (Regional WWTP)](win-themes/project-narrative-long-term-dbo-performance-excellence.md) — p0080¶3 · prose · preferred
+    - 6. [Project Description — Southbridge Wastewater Treatment Plant O&M (Town of Southbridge, MA)](past-performance/project-southbridge-ma.md) — p0078¶3 · prose · preferred
+    - 7. [Project Narrative — Newly Mobilized Contract Framed Around Investment and Innovation (Small New England WWTP)](win-themes/project-narrative-new-contract-mobilization-innovation.md) — p0078¶3 · prose · preferred
+    - 8. [Project Description — South Huron Wastewater Treatment Plant O&M (South Huron Valley Utility Authority, Rockwood, MI)](past-performance/project-south-huron-mi.md) — p0079¶3 · prose · preferred
+    - 9. [Project Narrative — Workforce Transition Success Paired With Biosolids Modernization (Regional Utility Authority)](win-themes/project-narrative-workforce-transition-biosolids-modernization.md) — p0079¶3 · prose · preferred
+    - 10. [Project Description — Traverse City Regional Wastewater Treatment Plant DBO (City of Traverse City, MI)](past-performance/project-traverse-city-mi.md) — p0080¶3 · prose · preferred
+    - 11. [Project Narrative — Multi-Decade DBO Partnership With Sustained Award Recognition (Regional WWTP)](win-themes/project-narrative-long-term-dbo-performance-excellence.md) — p0080¶3 · prose · preferred
 - **Section 7 - Appendix C - Facilities Similar to the Town** (`hull-wwtf-om-2026:14`, pp. 82–84)
   - 1. [Appendix C — Facilities Similar to the Town (Full Reference Table)](past-performance/similar-facilities-table.md) — p0082¶3 · table · preferred
   - 2. [Similar-Facilities Comparison Table — Framing & Format](win-themes/similar-facilities-comparison-table-framing.md) — p0082¶3 · table · preferred
@@ -5830,6 +5850,9 @@ _Every block in its source proposal's reading order, under the subsection it was
     - 2. [Sensor-to-Dispersion-Model Early Warning System for Proactive Odor Mitigation](technical-approach/sensor-dispersion-model-odor-early-warning-system.md) — p0096¶1 · prose · preferred
 - **Section 7 - Appendix G - Transition Activity Gantt Chart** (`hull-wwtf-om-2026:18`, pp. 99–101)
   - 1. [O&M Contract Transition Work Plan — Phased Schedule Structure](management-staffing/om-transition-workplan-phased-schedule.md) — p0099¶3 · table · preferred
+- **Section 7 - Appendix H - Contract Exceptions** (`hull-wwtf-om-2026:19`, pp. 102–104)
+  - 1. [Contract Exceptions - Change in Law, Uncontrollable Circumstances and Indemnification](qualifications/hull-contract-exceptions-change-in-law-and-indemnification.md) — p0102¶2 · table · preferred
+  - 2. [Contract Exceptions - Insurance, Events of Default and Renewal Term](qualifications/hull-contract-exceptions-insurance-default-and-term.md) — p0103¶2 · table · preferred
 
 ### mmsd-om-2028
 

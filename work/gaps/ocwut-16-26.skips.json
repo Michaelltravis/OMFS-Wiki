@@ -180,5 +180,12 @@
   "reason": "form-boilerplate",
   "range": "Statutory Clauses",
   "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 19,
+  "para": 35,
+  "reason": "exhibit-internal (critical-success-factor graphic with three columns interleaved; prose is in wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md)",
+  "range": "manual review of residual uncovered paragraphs",
+  "run": "manual"
  }
 ]

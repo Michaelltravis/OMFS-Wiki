@@ -12,8 +12,8 @@
   "substantive": 1000,
   "covered": 951,
   "partial": 22,
-  "uncovered": 1,
-  "writer_skipped": 26,
+  "uncovered": 0,
+  "writer_skipped": 27,
   "skipped": {
    "short": 542,
    "heading": 517,
@@ -117,7 +117,7 @@
   {
    "page": 19,
    "para": 35,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.115,
    "words": 129,
    "kind": "prose",
@@ -127,7 +127,7 @@
    "best_fraction": 0.115,
    "first_words": "& PERFORMANCEEMPOWERMENT 3 4 5 BEST PRACTICES ASSET PROTECTION Our people drive",
    "ref": "verbatim/ocwut-16-26/pages/p0019.md#¶35",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal (critical-success-factor graphic with three columns interleaved; prose is in wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md)"
   },
   {
    "page": 21,

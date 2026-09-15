@@ -12,8 +12,8 @@
   "substantive": 447,
   "covered": 406,
   "partial": 24,
-  "uncovered": 2,
-  "writer_skipped": 15,
+  "uncovered": 0,
+  "writer_skipped": 17,
   "skipped": {
    "heading": 320,
    "short": 333,
@@ -252,7 +252,7 @@
   {
    "page": 37,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.196,
    "words": 54,
    "kind": "prose",
@@ -262,7 +262,7 @@
    "best_fraction": 0.118,
    "first_words": "To further minimize impacts from lift station operations, Jacobs will deploy our",
    "ref": "verbatim/santamonica-swip-om-2025/pages/p0037.md#¶8",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-aquadna-deragger-technology.md (cross-reference paragraph pointing to the AquaDNA DERAGGER subsection)"
   },
   {
    "page": 38,
@@ -462,7 +462,7 @@
   {
    "page": 59,
    "para": 3,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.09,
    "words": 119,
    "kind": "prose",
@@ -472,7 +472,7 @@
    "best_fraction": 0.09,
    "first_words": "Following project startup, Jacobs will JACOBS’ INDUSTRY AWARD-WINNING AND HIGHLY conduct regular",
    "ref": "verbatim/santamonica-swip-om-2025/pages/p0059.md#¶3",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/swip-condition-assessment-risk-scoring.md (paragraph interleaved with a sidebar heading in the text layer; the block carries the de-interleaved prose)"
   },
   {
    "page": 59,

@@ -4871,7 +4871,7 @@
     "section-id": "hull-wwtf-om-2026:15",
     "section-order": 1,
     "section-path": "Section 7 - Appendix D - Innovation Workshop Agenda and Examples",
-    "doc-order": 82,
+    "doc-order": 84,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Converts the annual Innovation Workshop promise into evidence \u2014 the appendix carries the proposed first-year agenda framing plus a real, dated agenda from a workshop already delivered for another O&M client, closed by a named client quote with a phone number on the record.",
     "reuse-notes": "The delivered-workshop agendas (Traverse City, MI and Wilmington, NC/DE) are reference-client material and stay verbatim; confirm they remain shareable and current before reproducing. Replace the proposed first-workshop topic framing with topics drawn from the target client's own stated priorities, and re-confirm the client quote and attribution with the speaker before any external use.",
@@ -4930,7 +4930,7 @@
     "section-id": "hull-wwtf-om-2026:15",
     "section-order": 2,
     "section-path": "Section 7 - Appendix D - Innovation Workshop Agenda and Examples",
-    "doc-order": 83,
+    "doc-order": 85,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Turns the innovation-workshop concept from a promise into a demonstrated practice by showing two real prior agendas \u2014 strong proof-of-execution to pair with the concept description",
     "reuse-notes": "This block is a recipe \u2014 it describes how the appendix is assembled, not the appendix prose. Use it alongside the prose block named in pairs-with. Only include real prior agendas when they exist and are shareable; otherwise present the proposed first-workshop agenda alone.",
@@ -17528,7 +17528,7 @@
     "section-id": "hull-wwtf-om-2026:17.wastewater-aerobic-anaerobic-transformations-in-sewers-wats",
     "section-order": 2,
     "section-path": "Section 7 - Appendix F - WATS Modeling \u203a WASTEWATER AEROBIC/ANAEROBIC TRANSFORMATIONS IN SEWERS (WATS) MODELING",
-    "doc-order": 87,
+    "doc-order": 89,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents",
     "sanitized": true,
     "quality": "Compact, visual, easily-understood differentiator chaining real-time sensing to predictive dispersion modeling; strong for win-theme and technical-approach sections addressing community odor complaints near sensitive receptors.",
@@ -17735,7 +17735,7 @@
     "section-id": "hull-wwtf-om-2026:16.pinpointed-hotspots-leads-to-immediate-roi",
     "section-order": 2,
     "section-path": "Section 7 - Appendix E - SmartCover Information \u203a New Jersey American Water (NJAW) Bound Brook \u203a Pinpointed Hotspots Leads to Immediate ROI",
-    "doc-order": 85,
+    "doc-order": 87,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement \u2014 vendor case study carried as a proposal appendix to substantiate a smart-sewer value-add",
     "quality": "The strongest proof in the SmartCover appendix \u2014 a named utility, a dated acquisition, hard before/after numbers (12 annual SSOs to 0; 16 SSOs prevented in four months; 40 units grown to 196 in under two years), and a credible time-savings mechanism (12 months faster than 18-to-24-month traditional I&I methods).",
     "reuse-notes": "This is a SmartCover/Hazen-authored case study about New Jersey American Water, not a Jacobs project \u2014 attribute it as a technology case study, never as Jacobs past performance. Client and partner names (NJAW, Hazen and Sawyer) are reference names and stay verbatim. Confirm the vendor's permission and current numbers before reproducing in a live proposal.",
@@ -17810,7 +17810,7 @@
     "section-id": "hull-wwtf-om-2026:16",
     "section-order": 1,
     "section-path": "Section 7 - Appendix E - SmartCover Information",
-    "doc-order": 84,
+    "doc-order": 86,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement \u2014 vendor capability literature carried as a proposal appendix",
     "quality": "Vendor-supplied capability sheet with hard, quotable performance numbers (40,000 overflows prevented; 75\u201395% cleaning reduction at high-frequency locations) plus three named-utility testimonials \u2014 an efficient way to make a smart-sewer value-add credible without spending proposal pages on Jacobs-authored claims.",
     "reuse-notes": "This is third-party (SmartCover, a Badger Meter brand) marketing content included as an appendix, not Jacobs-authored prose. Confirm the vendor's current numbers and permission to reproduce before reuse, and keep the vendor attribution visible so the numbers are not read as Jacobs claims. Pair with the Jacobs-authored collection-system O&M narrative that proposes the deployment.",
@@ -20192,7 +20192,7 @@
     "section-id": "hull-wwtf-om-2026:17.wastewater-aerobic-anaerobic-transformations-in-sewers-wats",
     "section-order": 1,
     "section-path": "Section 7 - Appendix F - WATS Modeling \u203a WASTEWATER AEROBIC/ANAEROBIC TRANSFORMATIONS IN SEWERS (WATS) MODELING",
-    "doc-order": 86,
+    "doc-order": 88,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Differentiated, science-based technical methodology with clear value framing versus traditional field-sampling/pilot-testing approaches; strong proof-point language for technical narrative sections.",
     "reuse-notes": "Model name (WATS) and the Aalborg University partnership are generic Jacobs capabilities, reusable as-is. Tailor the \"select portion of the collection system\" scoping language and the bulleted outcomes to the specific pursuit's odor/corrosion pain points. Pair with the sensor-to-dispersion-model early warning block for pursuits where odor complaints from nearby residents or businesses are a stated concern.",
@@ -27797,7 +27797,7 @@
     "section-id": "hull-wwtf-om-2026:18",
     "section-order": 1,
     "section-path": "Section 7 - Appendix G - Transition Activity Gantt Chart",
-    "doc-order": 88,
+    "doc-order": 90,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Comprehensive, realistic three-phase transition schedule with named task-lead roles and durations for every activity category (contractual, staffing, compliance, asset/SCADA, safety, training) \u2014 a strong reusable skeleton for any O&M transition/mobilization work plan.",
     "reuse-notes": "Original chart used absolute 2026 calendar dates tied to this specific award; this block converts every activity to relative day-offsets from two anchor points (Award Date and Contract Start Date) so the structure, sequencing, and durations can be re-dated to any pursuit's actual award/start dates. Task-lead titles are generic role names, already reusable as-is.",
@@ -35659,9 +35659,9 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "hull-wwtf-om-2026:13",
-    "section-order": 3,
+    "section-order": 5,
     "section-path": "Section 7 - Appendix B - Project Descriptions",
-    "doc-order": 73,
+    "doc-order": 75,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The strongest differentiator for pursuits where Jacobs is displacing a large incumbent operator \u2014 a quantified early-win list, savings against two forecasts, three years of permit-compliance awards, and a regulatory-driven design-build follow-on that shows both immediate operational lift and long-term technical partnership.",
     "reuse-notes": "Best used when the target facility is currently operated by a large national competitor or is facing a nutrient (nitrogen/phosphorus) consent order. Keep the savings figures \u2014 they are outcome figures, not commercial pricing \u2014 and register each in proof-points/registry.md before it appears in a draft. Replace the callout and debris-container counts with real, verifiable numbers from whichever reference project is actually being cited. The reference client, its awards, and the named incumbent are stated verbatim in past-performance/project-westerly-ri.md.",
@@ -35737,9 +35737,9 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "hull-wwtf-om-2026:13.3-3-mgd",
-    "section-order": 9,
+    "section-order": 11,
     "section-path": "Section 7 - Appendix B - Project Descriptions \u203a 3.3 MGD",
-    "doc-order": 79,
+    "doc-order": 81,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The strongest trust-and-durability proof point in the set \u2014 a relationship running since 1990, a noncompliant-facility turnaround that resolved enforcement actions, a greater-than-30% electrical consumption reduction after MBR optimization, and five third-party awards spanning 2004 to 2019.",
     "reuse-notes": "Use when the pursuit values long-term partnership stability and technical depth over rapid turnaround; less effective for pursuits driven primarily by dissatisfaction with a long-tenured incumbent, where the decades-of-continuity framing can read as ironic \u2014 lead with the noncompliance turnaround instead. Replace the technology (MBR) and the efficiency percentage with whatever is actually true of the project being cited. The reference client, contact, award names/years, and testimonial are stated verbatim in past-performance/project-traverse-city-mi.md.",
@@ -35809,9 +35809,9 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "hull-wwtf-om-2026:13.3-3-mgd",
-    "section-order": 5,
+    "section-order": 7,
     "section-path": "Section 7 - Appendix B - Project Descriptions \u203a 3.3 MGD",
-    "doc-order": 75,
+    "doc-order": 77,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The template for referencing a very recent contract award where there is not yet a multi-year performance record \u2014 it reframes 'new' as 'actively investing' rather than 'unproven', anchored by a unanimous selection, a dated February 1, 2025 takeover, and a named technology commitment.",
     "reuse-notes": "Use this pattern only for genuinely recent contract starts; do not stretch it to cover a contract with years of history that would support a stronger outcomes-based narrative. Swap in whatever technology or process investments are actually planned or funded for the project being cited \u2014 do not invent commitments that were not made. The reference client, contact, and testimonial are stated verbatim in past-performance/project-southbridge-ma.md, which also carries the $85 million nitrogen reduction upgrade figure from the proposal's Section 3 exhibit.",
@@ -35958,9 +35958,9 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "hull-wwtf-om-2026:13.3-3-mgd",
-    "section-order": 7,
+    "section-order": 9,
     "section-path": "Section 7 - Appendix B - Project Descriptions \u203a 3.3 MGD",
-    "doc-order": 77,
+    "doc-order": 79,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "One of the few reference narratives that leads with people and workforce outcomes rather than facility or cost outcomes \u2014 valuable wherever labor continuity and staff-transition risk is an evaluation concern, and paired with a concrete Class A biosolids modernization path.",
     "reuse-notes": "Pair with any management-staffing transition-plan content; strongest when the incumbent workforce is unionized or long-tenured and the client has expressed transition-risk concerns. Only use the workforce-transition framing if there is a real transition story to tell, and replace the capacity, flow, and collection-system figures with the cited project's own data. The reference client and contact are stated verbatim in past-performance/project-south-huron-mi.md, which also documents two source-document errors on the original page (a placeholder annual fee and a testimonial copied from another project).",
@@ -36210,7 +36210,7 @@
     "section-id": "hull-wwtf-om-2026:14",
     "section-order": 2,
     "section-path": "Section 7 - Appendix C - Facilities Similar to the Town",
-    "doc-order": 81,
+    "doc-order": 83,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents",
     "sanitized": true,
     "quality": "A simple, high-density evidence exhibit that directly answers the RFP evaluation question \"has this firm run facilities like ours\" with a scannable table rather than more narrative \u2014 efficient use of appendix space",
@@ -39157,6 +39157,121 @@
     "quality": "Near-verbatim Section 7 response that identifies the requested local-preference substantiation without asserting eligibility.",
     "reuse-notes": "Retain the JC Solutions (Jacobs/CERM JV) attribution, but confirm the target RFP's local-preference criteria and supporting-document requirements. This source identifies Exhibit 1 as documentation; it does not establish eligibility.",
     "path": "wiki/qualifications/fulton-local-preference-supporting-documentation.md"
+  },
+  {
+    "title": "Contract Exceptions - Change in Law, Uncontrollable Circumstances and Indemnification",
+    "category": "qualifications",
+    "block-type": "table",
+    "tags": [
+      "scope-assumptions",
+      "legal-disclosures",
+      "appendix",
+      "table-layout",
+      "regulatory-compliance",
+      "transparency",
+      "partnership",
+      "massachusetts",
+      "new-england"
+    ],
+    "source": "hull-wwtf-om-2026",
+    "source-section": "Section 7 - Appendix H - Contract Exceptions",
+    "source-pages": [
+      102
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0102.md#\u00b62"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "3.07 MGD / collection system / coastal town",
+    "geography": "Northeast / MA / MassDEP",
+    "rfp-section-type": [
+      "qualifications"
+    ],
+    "win-theme-map": [
+      "partner-transparency",
+      "compliance-leadership"
+    ],
+    "proof-point-ids": [],
+    "testimonial-ids": [],
+    "story-ids": [],
+    "status": "preferred",
+    "house-favorite": false,
+    "sanitized": true,
+    "sanitization-loss": "low",
+    "extracted": "2026-09-14",
+    "last-verified": "2026-09-14",
+    "section-id": "hull-wwtf-om-2026:19",
+    "section-path": "Section 7 - Appendix H - Contract Exceptions",
+    "section-order": 1,
+    "doc-order": 91,
+    "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP",
+    "quality": "Model exceptions table that states each requested contract revision as an issue plus a clean proposed redline, opening with a partnership framing rather than a refusal - the risk-allocation positions (tax-law Change in Law, prevailing wage, negligence-based indemnification) are Jacobs' standard municipal O&M positions and reusable across pursuits.",
+    "reuse-notes": "Re-verify every section number against the draft agreement of the new pursuit - the article references (2.02, 7.01) are specific to this client's draft contract. Confirm state/regulator references (Commonwealth of Massachusetts) and the citizen-suit citation. Legal must approve the indemnification redline before it is submitted; the wording here is the starting position, not a final commitment.",
+    "path": "wiki/qualifications/hull-contract-exceptions-change-in-law-and-indemnification.md"
+  },
+  {
+    "title": "Contract Exceptions - Insurance, Events of Default and Renewal Term",
+    "category": "qualifications",
+    "block-type": "table",
+    "tags": [
+      "scope-assumptions",
+      "legal-disclosures",
+      "financial-qualifications",
+      "appendix",
+      "table-layout",
+      "regulatory-compliance",
+      "partnership",
+      "massachusetts",
+      "new-england"
+    ],
+    "source": "hull-wwtf-om-2026",
+    "source-section": "Section 7 - Appendix H - Contract Exceptions",
+    "source-pages": [
+      103
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0103.md#\u00b62"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "3.07 MGD / collection system / coastal town",
+    "geography": "Northeast / MA / MassDEP",
+    "rfp-section-type": [
+      "qualifications"
+    ],
+    "win-theme-map": [
+      "partner-transparency",
+      "compliance-leadership"
+    ],
+    "proof-point-ids": [
+      "PP-3118",
+      "PP-3119",
+      "PP-3120",
+      "PP-3121"
+    ],
+    "testimonial-ids": [],
+    "story-ids": [],
+    "status": "preferred",
+    "house-favorite": false,
+    "sanitized": true,
+    "sanitization-loss": "low",
+    "extracted": "2026-09-14",
+    "last-verified": "2026-09-14",
+    "section-id": "hull-wwtf-om-2026:19",
+    "section-path": "Section 7 - Appendix H - Contract Exceptions",
+    "section-order": 2,
+    "doc-order": 92,
+    "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP",
+    "quality": "Second half of the exceptions table, covering the four positions that recur in municipal O&M contracts - substantially similar insurance aligned to the corporate program, default limited to failures within the contractor's control, reciprocal default when the client withholds approval of maintenance or capital spending, and renewal by mutual agreement rather than unilateral option.",
+    "reuse-notes": "Re-verify each article number against the new pursuit's draft agreement, and the term structure (initial term and number of one-year extensions) and the maintenance and repair approval threshold against that client's RFP. Confirm the insurance sentence with the corporate insurance program before submitting, and check whether the RFP's property coverage requirement was in fact excluded from the price.",
+    "path": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md"
   },
   {
     "title": "Maintenance and Asset Management Capability with Case Studies",
@@ -53630,6 +53745,122 @@
     "path": "wiki/past-performance/fulton-us-treatment-facilities-portfolio.md"
   },
   {
+    "title": "Waterbury Owner Testimonial \u2014 Mike LeBlanc, Director of Finance, City of Waterbury, CT",
+    "category": "past-performance",
+    "block-type": "prose",
+    "tags": [
+      "past-performance",
+      "project-description",
+      "testimonial",
+      "partnership",
+      "callout-box",
+      "connecticut"
+    ],
+    "source": "hull-wwtf-om-2026",
+    "source-section": "Section 7 - Appendix B - Project Descriptions",
+    "source-pages": [
+      76
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0076.md#\u00b617"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "27 MGD design / <54 MGD wet weather / 310 mi sewer / 20 pump stations",
+    "geography": "Northeast / CT / CTDEEP",
+    "rfp-section-type": [
+      "past-performance"
+    ],
+    "win-theme-map": [
+      "partner-transparency",
+      "compliance-leadership",
+      "regional-bench"
+    ],
+    "proof-point-ids": [
+      "PP-3117"
+    ],
+    "testimonial-ids": [
+      "TM-0006"
+    ],
+    "story-ids": [],
+    "status": "preferred",
+    "house-favorite": false,
+    "sanitized": true,
+    "sanitization-loss": "none",
+    "extracted": "2026-09-14",
+    "last-verified": "2026-09-14",
+    "section-id": "hull-wwtf-om-2026:13",
+    "section-path": "Section 7 - Appendix B - Project Descriptions",
+    "section-order": 3,
+    "doc-order": 73,
+    "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP",
+    "quality": "A named owner quote that does three things at once: states the client's own priority (protection of the receiving water), validates a competitive selection process, and names the Jacobs manager by name \u2014 the strongest form of client endorsement for a competitively procured O&M contract.",
+    "reuse-notes": "Past-performance content is verbatim; the speaker, title, organization and the manager named in the quote stay as written. ATTRIBUTION CONFLICT: the same quotation appears in the OCWUT source attributed to Mayor Neil O'Leary with slightly different wording ('our City', 'very pleased') \u2014 see wiki/past-performance/project-waterbury-ct-odor-control-and-results.md. Confirm the correct speaker with the account team before either version is used externally. Permission status for this quote must be confirmed in testimonials/inventory.md before reuse.",
+    "path": "wiki/past-performance/hull-waterbury-owner-testimonial.md"
+  },
+  {
+    "title": "Waterbury Wastewater System O&M \u2014 Treatment Systems, Processes, and Community Involvement (City of Waterbury, CT)",
+    "category": "past-performance",
+    "block-type": "prose",
+    "tags": [
+      "past-performance",
+      "project-description",
+      "wastewater-treatment",
+      "process-control",
+      "wet-weather",
+      "community-engagement",
+      "community-stewardship",
+      "connecticut"
+    ],
+    "source": "hull-wwtf-om-2026",
+    "source-section": "Section 7 - Appendix B - Project Descriptions",
+    "source-pages": [
+      76
+    ],
+    "verbatim-ref": [
+      "verbatim/hull-wwtf-om-2026/pages/p0076.md#\u00b67",
+      "verbatim/hull-wwtf-om-2026/pages/p0076.md#\u00b68"
+    ],
+    "pursuit-type": [
+      "wwtp-om",
+      "collections"
+    ],
+    "client-type": "municipal",
+    "client-size": "27 MGD design / <54 MGD wet weather / 310 mi sewer / 20 pump stations",
+    "geography": "Northeast / CT / CTDEEP",
+    "rfp-section-type": [
+      "past-performance"
+    ],
+    "win-theme-map": [
+      "compliance-leadership",
+      "community-engagement",
+      "partner-transparency"
+    ],
+    "proof-point-ids": [
+      "PP-3115",
+      "PP-3116"
+    ],
+    "testimonial-ids": [],
+    "story-ids": [],
+    "status": "preferred",
+    "house-favorite": false,
+    "sanitized": true,
+    "sanitization-loss": "none",
+    "extracted": "2026-09-14",
+    "last-verified": "2026-09-14",
+    "section-id": "hull-wwtf-om-2026:13",
+    "section-path": "Section 7 - Appendix B - Project Descriptions",
+    "section-order": 2,
+    "doc-order": 72,
+    "context": "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP",
+    "quality": "Compact, specific unit-process description of a 27-MGD activated sludge plant with wet weather capacity and chemical phosphorus removal, paired with a community-stewardship proof point that shows the operator investing in the receiving water beyond permit obligations.",
+    "reuse-notes": "Past-performance content is verbatim and exempt from the client-name generalization rule \u2014 Waterbury, the Naugatuck River, and the Naugatuck River Brigade stay as written. Confirm before external use that tertiary filters are still 'under construction' and that the Naugatuck River Brigade sponsorship and volunteer riverbank cleanups have continued; both statements were current as of the 2026 proposal. Pairs with the fuller Waterbury project description and results blocks (project-waterbury-ct.md, project-waterbury-ct-odor-control-and-results.md) and with the owner testimonial in hull-waterbury-owner-testimonial.md.",
+    "path": "wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md"
+  },
+  {
     "title": "Section 7 Opener \u2014 O&M Portfolio Scale, Oklahoma Track Record, and Reference Project Framing (OCWUT)",
     "category": "past-performance",
     "block-type": "prose",
@@ -54230,9 +54461,9 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "hull-wwtf-om-2026:13.3-3-mgd",
-    "section-order": 6,
+    "section-order": 8,
     "section-path": "Section 7 - Appendix B - Project Descriptions \u203a 3.3 MGD",
-    "doc-order": 76,
+    "doc-order": 78,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The one reference in the set that leads with people rather than plant \u2014 a credited staff transition plus targeted training and retention outcomes \u2014 paired with a Class A biosolids/thermal hydrolysis modernization story and SCADA/VFD automation upgrades.",
     "reuse-notes": "VERBATIM \u2014 real client name and contact; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Tim Neighbors is still Chairman and the phone/email are current. SOURCE DATA ISSUES on this page, reproduced here exactly for provenance: (1) the Annual Project Fee reads as the literal placeholder \"$xxM\", not a real figure; (2) the testimonial and the award line (\"Jacobs Significant Milestone\") are identical to the Southbridge, MA page and are attributed to Rich Benoit, Director of Public Works, referencing Southbridge \u2014 a copy/paste artifact in the original proposal, not a genuine SHVUA quote. Obtain the real annual fee and an actual SHVUA client quote from the account team before using this project in a live proposal.",
@@ -54317,9 +54548,9 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "hull-wwtf-om-2026:13.3-3-mgd",
-    "section-order": 4,
+    "section-order": 6,
     "section-path": "Section 7 - Appendix B - Project Descriptions \u203a 3.3 MGD",
-    "doc-order": 74,
+    "doc-order": 76,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The only in-state (Massachusetts) reference and the most recent mobilization in the set \u2014 unanimous selection, a dated takeover from the previous contractor (February 1, 2025), a named technology commitment (Dragonfly AI enhanced CCTV), and a client testimonial from the Director of Public Works.",
     "reuse-notes": "VERBATIM \u2014 real client name, contact, and quote; past-performance blocks are exempt from client-name generalization. QC before external use: confirm John Jovan, Jr. is still Town Manager and Rich Benoit still Director of Public Works, and that phone/email are current; reconfirm the $1.7M annual project fee and the $85 million nitrogen reduction upgrade value (the latter is drawn from the proposal's Section 3 Exhibit 3-5, p. 11, not from the Appendix B page) with the account team. Register each figure in proof-points/registry.md before it appears in a live draft.",
@@ -54410,9 +54641,9 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "hull-wwtf-om-2026:13.3-3-mgd",
-    "section-order": 8,
+    "section-order": 10,
     "section-path": "Section 7 - Appendix B - Project Descriptions \u203a 3.3 MGD",
-    "doc-order": 78,
+    "doc-order": 80,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The durability proof point \u2014 a DBO relationship running since 1990, a noncompliant-facility turnaround that resolved enforcement actions, a quantified >30% electrical consumption reduction after MBR optimization, five named third-party awards spanning 2004-2019, and a Council Commissioner testimonial crediting the maintenance program.",
     "reuse-notes": "VERBATIM \u2014 real client name, contact, quote, and award names/years; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Art Krueger is still Director of Municipal Facilities and the phone/email are current; verify award names/years against MWEA, USEPA Region 5, ACEC, and Michigan Water Environment Association records; reconfirm the >30% electrical reduction, the 17 MGD peak flow, the 13-staff team size, and the $3.5M annual project fee with the account team. Register each figure in proof-points/registry.md before it appears in a live draft.",
@@ -54778,9 +55009,9 @@
     "extracted": "2026-09-05",
     "last-verified": "2026-09-05",
     "section-id": "hull-wwtf-om-2026:13",
-    "section-order": 2,
+    "section-order": 4,
     "section-path": "Section 7 - Appendix B - Project Descriptions",
-    "doc-order": 72,
+    "doc-order": 74,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The closest size-and-region analog to a small coastal New England WWTF pursuit (3.3 MGD, RI) and the strongest incumbent-displacement proof point in the set \u2014 Jacobs took the contract from SUEZ Group, delivered a dated first-18-months win list, quantified savings, three named third-party awards, and a client quote naming a net-savings outcome.",
     "reuse-notes": "VERBATIM \u2014 real client name, contact, quote, and award names/years; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Max Sposato is still Utilities Director and the phone/email are current; verify the RICWA and USEPA New England award names/years against those organizations' records; reconfirm the $500,000 / $250,000 savings figures, the $100,000 budget-increase / $100,000 annual-savings figures in the client quote, and the $2.4M annual project fee with the account team. Register each figure in proof-points/registry.md before it appears in a live draft.",
@@ -55005,7 +55236,7 @@
     "section-id": "hull-wwtf-om-2026:14",
     "section-order": 1,
     "section-path": "Section 7 - Appendix C - Facilities Similar to the Town",
-    "doc-order": 80,
+    "doc-order": 82,
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Full verbatim Appendix C table \u2014 13 real client/facility rows with relationship duration/start date, processes utilized, and capacity (MGD); demonstrates portfolio breadth and contract longevity well beyond the five Appendix B narrative projects, including four relationships of 28 years or more.",
     "reuse-notes": "VERBATIM \u2014 real client and facility names, states, contract durations/start dates, and capacities. Durations were computed as of the source proposal's writing (2025/2026 pursuit); recompute every 'Duration' relative to the new proposal's due date before reuse \u2014 Start Date is fixed and verbatim, Duration is derived and goes stale. QC facility and process details with the account team for any facility cited in a live proposal. The source pages are marked Confidential/Proprietary in the original.",

@@ -103,5 +103,19 @@
   "reason": "duplicate-of:wiki/technical-approach/swip-city-staff-training-program.md",
   "range": "Training and Development of City Staff for Water/Wastewater/Advanced Water",
   "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 59,
+  "para": 3,
+  "reason": "duplicate-of:wiki/technical-approach/swip-condition-assessment-risk-scoring.md (paragraph interleaved with a sidebar heading in the text layer; the block carries the de-interleaved prose)",
+  "range": "manual review of residual uncovered paragraphs",
+  "run": "manual"
+ },
+ {
+  "page": 37,
+  "para": 8,
+  "reason": "duplicate-of:wiki/technical-approach/swip-aquadna-deragger-technology.md (cross-reference paragraph pointing to the AquaDNA DERAGGER subsection)",
+  "range": "manual review of residual uncovered paragraphs",
+  "run": "manual"
  }
 ]

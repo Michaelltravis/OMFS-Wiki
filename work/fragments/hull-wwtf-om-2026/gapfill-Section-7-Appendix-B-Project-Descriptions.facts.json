@@ -1,0 +1,5 @@
+[
+  {"claim": "Waterbury WWTP design flow", "number": "27", "unit": "MGD", "as_of": "2026", "page": 76, "para": 7, "block": "wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md", "category": "capacity"},
+  {"claim": "Waterbury WWTP wet weather flow", "number": "<54", "unit": "MGD", "as_of": "2026", "page": 76, "para": 7, "block": "wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md", "category": "capacity"},
+  {"claim": "Waterbury: year the Jacobs partnership began, as stated by the owner", "number": "2018", "unit": "year", "as_of": "2018", "page": 76, "para": 17, "block": "wiki/past-performance/hull-waterbury-owner-testimonial.md", "category": "schedule"}
+]

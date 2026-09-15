@@ -6,12 +6,12 @@ Sources: fulton-county-2025, hull-wwtf-om-2026, mmsd-om-2028, ocwut-16-26, santa
 
 | Metric | Count |
 | --- | ---: |
-| Raw claims swept | 3430 |
-| Proof-point IDs | 3113 |
+| Raw claims swept | 3437 |
+| Proof-point IDs | 3120 |
 | Conflicts to resolve | 84 |
 | Consistent (multi-observation) | 122 |
-| Single-source | 2907 |
-| Distinct blocks referenced | 617 |
+| Single-source | 2914 |
+| Distinct blocks referenced | 620 |
 
 `owner` is unassigned and `approved_for_external_use` is `pending` for every ID; both are for the proposal team to fill in.
 
@@ -22271,3 +22271,52 @@ Also conflicts with: PP-0827
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
 | 35 staff per cohort | 2025 | fulton-county-2025 | p123 ¶3 | `wiki/management-staffing/fulton-train-to-retain-development-programs-table.md` |
+
+### PP-3115 — Waterbury WWTP design flow
+*status:* single-source · *category:* capacity
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 27 MGD | 2026 | hull-wwtf-om-2026 | p76 ¶7 | `wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md` |
+
+### PP-3116 — Waterbury WWTP wet weather flow
+*status:* single-source · *category:* capacity
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| <54 MGD | 2026 | hull-wwtf-om-2026 | p76 ¶7 | `wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md` |
+
+### PP-3117 — Waterbury: year the Jacobs partnership began, as stated by the owner
+*status:* single-source · *category:* schedule
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2018 year | 2018 | hull-wwtf-om-2026 | p76 ¶17 | `wiki/past-performance/hull-waterbury-owner-testimonial.md` |
+
+### PP-3118 — Proposed default provision: failure to operate the wastewater facility in accordance with Applicable Law for more than ten cumulative days in any Contract Year constitutes persistent and repeated failure or refusal
+*status:* single-source · *category:* contract-terms
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 10 cumulative days per Contract Year | 2026 | hull-wwtf-om-2026 | p103 ¶2 | `wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md` |
+
+### PP-3119 — Proposed default provision carve-out where the client fails to approve Maintenance and Repair expenditures in excess of $3,000
+*status:* single-source · *category:* contract-terms
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 3000 USD maintenance and repair approval threshold | 2026 | hull-wwtf-om-2026 | p103 ¶2 | `wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md` |
+
+### PP-3120 — Proposed term: initial term of ten years from the Commencement Date
+*status:* single-source · *category:* contract-terms
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 10 years initial term | 2026 | hull-wwtf-om-2026 | p103 ¶2 | `wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md` |
+
+### PP-3121 — Proposed term: client right to extend for an additional five one-year periods, by mutual agreement and if authorized by Town Meeting
+*status:* single-source · *category:* contract-terms
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 5 one-year extension periods | 2026 | hull-wwtf-om-2026 | p103 ¶2 | `wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md` |

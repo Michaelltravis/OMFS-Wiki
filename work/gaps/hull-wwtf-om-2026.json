@@ -10,10 +10,10 @@
  },
  "counts": {
   "substantive": 355,
-  "covered": 328,
-  "partial": 11,
-  "uncovered": 16,
-  "writer_skipped": 0,
+  "covered": 332,
+  "partial": 13,
+  "uncovered": 0,
+  "writer_skipped": 10,
   "skipped": {
    "short": 319,
    "picture-text": 111,
@@ -27,7 +27,7 @@
   {
    "page": 5,
    "para": 8,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.075,
    "words": 166,
    "kind": "table",
@@ -37,12 +37,12 @@
    "best_fraction": 0.075,
    "first_words": "|THE JACOBS DIFFERENCE FOR THE T Leadership, technical depth, and disciplined operations",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0005.md#¶8",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/win-themes/value-proposition-table-approach-impact-value.md"
   },
   {
    "page": 6,
    "para": 13,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.043,
    "words": 32,
    "kind": "table",
@@ -52,7 +52,7 @@
    "best_fraction": 0.043,
    "first_words": "|FROM OPERATIONS TO OPTIMIZATION || |---|---| |TRADITIONAL O&M APPROACHJACOBS PERFORMANCE APPROA|CH| |Reactive",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0006.md#¶13",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/win-themes/differentiator-traditional-vs-enhanced-om-comparison.md"
   },
   {
    "page": 10,
@@ -117,7 +117,7 @@
   {
    "page": 27,
    "para": 9,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.15,
    "words": 115,
    "kind": "table",
@@ -127,7 +127,7 @@
    "best_fraction": 0.15,
    "first_words": "|WHE|N|WHAT|WHO| |---|---|---|---| |Day-to-Day|Meetings andDiscussions|µOpen exchange of information to ensure transparency andcollaboration|µTown/Jacobs ProjectManagement",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0027.md#¶9",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/tiered-communication-reporting-protocol.md"
   },
   {
    "page": 28,
@@ -147,7 +147,7 @@
   {
    "page": 30,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.047,
    "words": 148,
    "kind": "table",
@@ -157,7 +157,7 @@
    "best_fraction": 0.047,
    "first_words": "|Primary Clarifiers|Odor concerns;inconsistent use;mechanical deficiencies;risk of allowing high BODto secondary|µRehabilitate primary clarifiers(e.g.,",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0030.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/phased-baseline-to-optimization-approach.md"
   },
   {
    "page": 34,
@@ -177,7 +177,7 @@
   {
    "page": 39,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.019,
    "words": 273,
    "kind": "table",
@@ -187,12 +187,12 @@
    "best_fraction": 0.019,
    "first_words": "||PHASE 1: FOUNDATIONInventory and Modeling|PHASE 2: OPERATIONAL VISIBILITYMonitoring, Planning, andRefinement|PHASE 3: OPTIMIZATIONProcess",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0039.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/technical-approach/ot-scada-modernization-roadmap.md"
   },
   {
    "page": 47,
    "para": 18,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.116,
    "words": 66,
    "kind": "table",
@@ -202,7 +202,7 @@
    "best_fraction": 0.116,
    "first_words": "|REGIONAL AND TECHNICALSUPPORT TEAM LEADERJohn Rickermann, PE, CMRTREGIONAL HEALTH &SAFETYDave Haverly, CSPREGIONAL",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0047.md#¶18",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/compliance-plans/transition-team-organization-roster.md"
   },
   {
    "page": 51,
@@ -235,54 +235,9 @@
    "writer_reason": null
   },
   {
-   "page": 76,
-   "para": 7,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 55,
-   "kind": "prose",
-   "section_id": "hull-wwtf-om-2026:13",
-   "section_title": "Section 7 - Appendix B - Project Descriptions",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Treatment Systems and Processes. The system uses preliminary screening and grit removal",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶7",
-   "writer_reason": null
-  },
-  {
-   "page": 76,
-   "para": 8,
-   "status": "uncovered",
-   "covered_fraction": 0.051,
-   "words": 44,
-   "kind": "prose",
-   "section_id": "hull-wwtf-om-2026:13",
-   "section_title": "Section 7 - Appendix B - Project Descriptions",
-   "best_block": "wiki/past-performance/client-references.md",
-   "best_fraction": 0.051,
-   "first_words": "Community Involvement. The Waterbury team decided to sponsor a newer program called",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶8",
-   "writer_reason": null
-  },
-  {
-   "page": 76,
-   "para": 17,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 61,
-   "kind": "prose",
-   "section_id": "hull-wwtf-om-2026:13",
-   "section_title": "Section 7 - Appendix B - Project Descriptions",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Protection of the Naugatuck River is a key priority for our city.",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0076.md#¶17",
-   "writer_reason": null
-  },
-  {
    "page": 82,
    "para": 3,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.129,
    "words": 296,
    "kind": "table",
@@ -292,12 +247,12 @@
    "best_fraction": 0.129,
    "first_words": "|City of Twin FallsCity of Twin Falls WWTP|ID|Duration:40 Years, 10 MonthsStart Date:5/1/1985|Anaerobic",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0082.md#¶3",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/past-performance/similar-facilities-table.md"
   },
   {
    "page": 83,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.128,
    "words": 209,
    "kind": "table",
@@ -307,12 +262,12 @@
    "best_fraction": 0.128,
    "first_words": "|City of VancouverMarine Park WWTP|WA|Duration:10 Years, 7 MonthsStart Date:8/1/2015|Disinfection – UV; effluent",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0083.md#¶2",
-   "writer_reason": null
+   "writer_reason": "duplicate-of:wiki/past-performance/similar-facilities-table.md"
   },
   {
    "page": 88,
    "para": 4,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 103,
    "kind": "prose",
@@ -322,12 +277,12 @@
    "best_fraction": 0.0,
    "first_words": "[Full-page marketing flier on a dark blue background with a stylized world",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0088.md#¶4",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 90,
    "para": 2,
-   "status": "uncovered",
+   "status": "writer-skipped",
    "covered_fraction": 0.0,
    "words": 89,
    "kind": "prose",
@@ -337,7 +292,7 @@
    "best_fraction": 0.0,
    "first_words": "[Diagram: An integrated SmartCover system flow diagram. On the left, a manhole/wet-well",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0090.md#¶2",
-   "writer_reason": null
+   "writer_reason": "exhibit-internal"
   },
   {
    "page": 91,
@@ -386,30 +341,15 @@
   },
   {
    "page": 102,
-   "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
-   "words": 29,
-   "kind": "prose",
-   "section_id": "hull-wwtf-om-2026:19",
-   "section_title": "Section 7 - Appendix H - Contract Exceptions",
-   "best_block": null,
-   "best_fraction": 0.0,
-   "first_words": "Jacobs’ proposal pricing is made with the assumption that the following changes",
-   "ref": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶2",
-   "writer_reason": null
-  },
-  {
-   "page": 102,
    "para": 4,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
+   "status": "partial",
+   "covered_fraction": 0.427,
    "words": 455,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:19",
    "section_title": "Section 7 - Appendix H - Contract Exceptions",
-   "best_block": null,
-   "best_fraction": 0.0,
+   "best_block": "wiki/qualifications/hull-contract-exceptions-change-in-law-and-indemnification.md",
+   "best_fraction": 0.427,
    "first_words": "|2.02, Changein Law|While Jacobs agrees that changes in tax lawas applicable to",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0102.md#¶4",
    "writer_reason": null
@@ -417,14 +357,14 @@
   {
    "page": 103,
    "para": 2,
-   "status": "uncovered",
-   "covered_fraction": 0.0,
+   "status": "partial",
+   "covered_fraction": 0.412,
    "words": 350,
    "kind": "table",
    "section_id": "hull-wwtf-om-2026:19",
    "section_title": "Section 7 - Appendix H - Contract Exceptions",
-   "best_block": null,
-   "best_fraction": 0.0,
+   "best_block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md",
+   "best_fraction": 0.412,
    "first_words": "|8.02|Jacobs can provide substantially similarinsurance to that requested in the draftAgreement and",
    "ref": "verbatim/hull-wwtf-om-2026/pages/p0103.md#¶2",
    "writer_reason": null

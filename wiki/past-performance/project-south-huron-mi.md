@@ -23,9 +23,9 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 section-id: hull-wwtf-om-2026:13.3-3-mgd
-section-order: 6
+section-order: 8
 section-path: Section 7 - Appendix B - Project Descriptions › 3.3 MGD
-doc-order: 76
+doc-order: 78
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The one reference in the set that leads with people rather than plant — a credited staff transition plus targeted training and retention outcomes — paired with a Class A biosolids/thermal hydrolysis modernization story and SCADA/VFD automation upgrades.
 reuse-notes: "VERBATIM — real client name and contact; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Tim Neighbors is still Chairman and the phone/email are current. SOURCE DATA ISSUES on this page, reproduced here exactly for provenance: (1) the Annual Project Fee reads as the literal placeholder \"$xxM\", not a real figure; (2) the testimonial and the award line (\"Jacobs Significant Milestone\") are identical to the Southbridge, MA page and are attributed to Rich Benoit, Director of Public Works, referencing Southbridge — a copy/paste artifact in the original proposal, not a genuine SHVUA quote. Obtain the real annual fee and an actual SHVUA client quote from the account team before using this project in a live proposal."

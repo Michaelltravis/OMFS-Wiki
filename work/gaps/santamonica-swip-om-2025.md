@@ -1,6 +1,6 @@
 # Uncovered paragraphs — santamonica-swip-om-2025
 
-substantive 447 · covered 406 · partial 24 · uncovered 2 · writer-skipped 15 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 100)
+substantive 447 · covered 406 · partial 24 · uncovered 0 · writer-skipped 17 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 100)
 
 skipped: caption 37, heading 320, picture-text 113, recovered-tail 53, repeating 37, short 333
 
@@ -49,9 +49,9 @@ skipped: caption 37, heading 320, picture-text 113, recovered-tail 53, repeating
 - p0035¶5 · writer-skipped 18% · 415 w · table · best `wiki/technical-approach/swip-process-control-system-tools.md` (18%) · writer: duplicate-of:wiki/technical-approach/swip-process-control-system-tools.md — |PROVENOPERATIONS PLANS|PLAN DESCRIPTION|BENEFIT TO SANTA MONICA| |---|---|---| |Unit ProcessControl Procedures(UPCPs)|UPCPs provide our…
 - p0036¶1 · partial 24% · 259 w · table · best `wiki/technical-approach/swip-process-control-system-tools.md` (24%) — |PROVENOPERATIONS PLANS|PLAN DESCRIPTION|BENEFIT TO SANTA MONICA| |---|---|---| |StandardOperatingProcedures(SOPs)|SOPs are developed to ensure…
 
-## ADDRESSING OTHER POTENTIAL PROCESS IMPACTS — uncovered 1, partial 0
+## ADDRESSING OTHER POTENTIAL PROCESS IMPACTS — uncovered 0, partial 0
 
-- p0037¶8 · uncovered 19% · 54 w · prose · best `wiki/technical-approach/swip-process-optimization-digital-modeling.md` (11%) — To further minimize impacts from lift station operations, Jacobs will deploy our…
+- p0037¶8 · writer-skipped 19% · 54 w · prose · best `wiki/technical-approach/swip-process-optimization-digital-modeling.md` (11%) · writer: duplicate-of:wiki/technical-approach/swip-aquadna-deragger-technology.md (cross-reference paragraph pointing to the AquaDNA DERAGGER subsection) — To further minimize impacts from lift station operations, Jacobs will deploy our…
 
 ## IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL — uncovered 0, partial 3
 
@@ -90,9 +90,9 @@ skipped: caption 37, heading 320, picture-text 113, recovered-tail 53, repeating
 - p0053¶3 · partial 44% · 406 w · table · best `wiki/compliance-plans/swip-permit-compliance-track-record.md` (44%) — |Project Name |Violation Description|Corrective Action|OccurrenceDate| |---|---|---|---| |City of Clovis|Chlorine, Total Residual InstantaneousMaximum…
 - p0054¶1 · partial 43% · 157 w · table · best `wiki/compliance-plans/swip-permit-compliance-track-record.md` (43%) — |Project Name |Violation Description|Corrective Action|OccurrenceDate| |---|---|---|---| |City ofCrescent City|Once Only One Time…
 
-## ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM — uncovered 1, partial 0
+## ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM — uncovered 0, partial 0
 
-- p0059¶3 · uncovered 9% · 119 w · prose · best `wiki/technical-approach/swip-condition-assessment-risk-scoring.md` (9%) — Following project startup, Jacobs will JACOBS’ INDUSTRY AWARD-WINNING AND HIGHLY conduct regular…
+- p0059¶3 · writer-skipped 9% · 119 w · prose · best `wiki/technical-approach/swip-condition-assessment-risk-scoring.md` (9%) · writer: duplicate-of:wiki/technical-approach/swip-condition-assessment-risk-scoring.md (paragraph interleaved with a sidebar heading in the text layer; the block carries the de-interleaved prose) — Following project startup, Jacobs will JACOBS’ INDUSTRY AWARD-WINNING AND HIGHLY conduct regular…
 - p0059¶10 · writer-skipped 0% · 111 w · prose · writer: duplicate-of:wiki/technical-approach/swip-predictive-maintenance-technologies.md — that block already lists p0059.md#¶10 as its primary verbatim-ref and reproduces all five technology descriptions (ultrasound, precision alignment, infrared thermography, lubrication/oil analysis, vibration measurement) plus graphic asset ID 124_008A26 — ULTRASOUND PRECISION INFRARED LUBRICATION/ VIBRATION ANALYSIS ALIGNMENT THERMOGRAPHY OIL ANALYSIS MEASUREMENT for…
 
 ## Reporting and Transparency — uncovered 0, partial 1

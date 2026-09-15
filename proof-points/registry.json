@@ -65232,5 +65232,145 @@
     "owner": "",
     "approved_for_external_use": "pending",
     "conflicts_with": []
+  },
+  {
+    "id": "PP-3115",
+    "claim": "Waterbury WWTP design flow",
+    "values": [
+      {
+        "number": "27",
+        "unit": "MGD",
+        "as_of": "2026",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 76,
+        "para": 7,
+        "block": "wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "capacity",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3116",
+    "claim": "Waterbury WWTP wet weather flow",
+    "values": [
+      {
+        "number": "<54",
+        "unit": "MGD",
+        "as_of": "2026",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 76,
+        "para": 7,
+        "block": "wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "capacity",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3117",
+    "claim": "Waterbury: year the Jacobs partnership began, as stated by the owner",
+    "values": [
+      {
+        "number": "2018",
+        "unit": "year",
+        "as_of": "2018",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 76,
+        "para": 17,
+        "block": "wiki/past-performance/hull-waterbury-owner-testimonial.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "schedule",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3118",
+    "claim": "Proposed default provision: failure to operate the wastewater facility in accordance with Applicable Law for more than ten cumulative days in any Contract Year constitutes persistent and repeated failure or refusal",
+    "values": [
+      {
+        "number": "10",
+        "unit": "cumulative days per Contract Year",
+        "as_of": "2026",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 103,
+        "para": 2,
+        "block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "contract-terms",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3119",
+    "claim": "Proposed default provision carve-out where the client fails to approve Maintenance and Repair expenditures in excess of $3,000",
+    "values": [
+      {
+        "number": "3000",
+        "unit": "USD maintenance and repair approval threshold",
+        "as_of": "2026",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 103,
+        "para": 2,
+        "block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "contract-terms",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3120",
+    "claim": "Proposed term: initial term of ten years from the Commencement Date",
+    "values": [
+      {
+        "number": "10",
+        "unit": "years initial term",
+        "as_of": "2026",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 103,
+        "para": 2,
+        "block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "contract-terms",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
+  },
+  {
+    "id": "PP-3121",
+    "claim": "Proposed term: client right to extend for an additional five one-year periods, by mutual agreement and if authorized by Town Meeting",
+    "values": [
+      {
+        "number": "5",
+        "unit": "one-year extension periods",
+        "as_of": "2026",
+        "source_slug": "hull-wwtf-om-2026",
+        "page": 103,
+        "para": 2,
+        "block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md"
+      }
+    ],
+    "status": "single-source",
+    "category": "contract-terms",
+    "owner": "",
+    "approved_for_external_use": "pending",
+    "conflicts_with": []
   }
 ]

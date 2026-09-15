@@ -1,6 +1,6 @@
 # Uncovered paragraphs — ocwut-16-26
 
-substantive 1000 · covered 951 · partial 22 · uncovered 1 · writer-skipped 26 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 230)
+substantive 1000 · covered 951 · partial 22 · uncovered 0 · writer-skipped 27 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 230)
 
 skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating 180, short 542
 
@@ -19,9 +19,9 @@ skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating
 - p0013¶3 · partial 48% · 86 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-odor-control-community-protection-matrix.md` (48%) — Minimize odors and meet Odor NC: Headworks access is currently limited by…
 - p0016¶2 · partial 48% · 459 w · table · best `wiki/technical-approach/ocwut-exhibit-1-1-staffing-performance-transition-matrix.md` (48%) — |Staffing Stability and Workforce D|evelopment|| |---|---|---| |Staff all facilities per Schedule10, including…
 
-## INNOVATION & 5 BEST PRACTICES — uncovered 1, partial 0
+## INNOVATION & 5 BEST PRACTICES — uncovered 0, partial 0
 
-- p0019¶35 · uncovered 11% · 129 w · prose · best `wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md` (11%) — & PERFORMANCEEMPOWERMENT 3 4 5 BEST PRACTICES ASSET PROTECTION Our people drive…
+- p0019¶35 · writer-skipped 11% · 129 w · prose · best `wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md` (11%) · writer: exhibit-internal (critical-success-factor graphic with three columns interleaved; prose is in wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md) — & PERFORMANCEEMPOWERMENT 3 4 5 BEST PRACTICES ASSET PROTECTION Our people drive…
 
 ## QA/QC Plan Development and Internal Audit Program — uncovered 0, partial 1
 
