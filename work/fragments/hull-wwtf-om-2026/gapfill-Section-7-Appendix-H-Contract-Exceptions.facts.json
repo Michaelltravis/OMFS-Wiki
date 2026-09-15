@@ -1,0 +1,42 @@
+[
+  {
+    "claim": "Proposed default provision: failure to operate the wastewater facility in accordance with Applicable Law for more than ten cumulative days in any Contract Year constitutes persistent and repeated failure or refusal",
+    "number": 10,
+    "unit": "cumulative days per Contract Year",
+    "as_of": "2026",
+    "page": 103,
+    "para": 2,
+    "block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md",
+    "category": "contract-terms"
+  },
+  {
+    "claim": "Proposed default provision carve-out where the client fails to approve Maintenance and Repair expenditures in excess of $3,000",
+    "number": 3000,
+    "unit": "USD maintenance and repair approval threshold",
+    "as_of": "2026",
+    "page": 103,
+    "para": 2,
+    "block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md",
+    "category": "contract-terms"
+  },
+  {
+    "claim": "Proposed term: initial term of ten years from the Commencement Date",
+    "number": 10,
+    "unit": "years initial term",
+    "as_of": "2026",
+    "page": 103,
+    "para": 2,
+    "block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md",
+    "category": "contract-terms"
+  },
+  {
+    "claim": "Proposed term: client right to extend for an additional five one-year periods, by mutual agreement and if authorized by Town Meeting",
+    "number": 5,
+    "unit": "one-year extension periods",
+    "as_of": "2026",
+    "page": 103,
+    "para": 2,
+    "block": "wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md",
+    "category": "contract-terms"
+  }
+]

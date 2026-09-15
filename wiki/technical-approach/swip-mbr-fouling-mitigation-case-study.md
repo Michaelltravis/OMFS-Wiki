@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:14.preparing-for-direct-potable-reuse
+section-order: 3
+section-path: 'Section 4: Suggested Modificationsto the Scope of Work › DISCOUNTED ENGINEERING SERVICES › Preparing for Direct Potable Reuse'
+doc-order: 94
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A real, named third-party case study (not the pursuit client) demonstrating hands-on MBR biofouling troubleshooting depth — strong proof point for potable reuse and MBR technical credibility, and the evidence behind the "leech management" study topic offered in the discounted-engineering hours bank.
 reuse-notes: This case study is about a different, real project — it names Metropolitan, the Los Angeles County Sanitation Districts, the Pure Water Southern California (PWSC) Demonstration Plant, and Hazen. Only the pursuit client's name is generalized in narrative blocks, so these third-party names stay verbatim; confirm current permission and appropriateness to cite the project in a competitive proposal for an unrelated client, and verify the mitigation measures are still accurately described as under evaluation rather than proven.

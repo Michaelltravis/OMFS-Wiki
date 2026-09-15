@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par
+section-order: 6
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee
+doc-order: 201
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The middle third of the value-add exhibit — ISO 55001-aligned asset management without certification cost, four OT/cybersecurity platform commitments with paired savings, safety investments (Safety360, vehicle telematics), and the sulfide-monitor odor early-warning system. Several rows pair an investment with a named savings figure, which is what makes the table survive a cost evaluator.
 reuse-notes: The OT rows (asset platform, backup and version control, privileged access management) are the most transferable to any utility O&M pursuit and carry their own savings figures. The workforce development and advocacy row must be rewritten around the new pursuit's local colleges and community advocates. The odor early-warning row pairs with the WATS/dispersion-modeling blocks; confirm the ferric dosing description matches the pursuit's actual odor chemistry.

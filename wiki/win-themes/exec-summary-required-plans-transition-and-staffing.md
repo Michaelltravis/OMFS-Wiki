@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:02.required-plans-built-for-ocwut-ready-on-day-one
+section-order: 5
+section-path: 'Executive Summary of Technical Approach › REQUIRED PLANS: BUILT FOR OCWUT, READY ON DAY ONE'
+doc-order: 10
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The executive-summary précis of two required plans, each reduced to the commitments an evaluator can score — a named transition manager, a risk-based approach with a stated number of risks, a jointly signed baseline condition assessment, an exact FTE count split between prime and subcontractor, and a retention mechanism aimed directly at the incumbent's turnover problem.
 reuse-notes: FTE counts, the subcontractor split, the schedule numbers, and the count of top risks must match the staffing and transition plans in the same proposal exactly — an evaluator will check. The jointly signed baseline condition assessment before the commencement date is a real contractual commitment; confirm the pursuit team will make it. BeyondZero is the firm's safety brand and stays as written.

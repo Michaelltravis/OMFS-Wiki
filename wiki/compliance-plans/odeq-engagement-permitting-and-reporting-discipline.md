@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:24
+section-order: 3
+section-path: Section 4 | Oklahoma Law
+doc-order: 155
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The "what this means for you" turn — an ex-regulator on the team named with her agency tenure, four concrete forward commitments including a DMR delivered three business days ahead of the regulatory due date, and a closing line that converts a track record into a claim no challenger can copy.
 reuse-notes: Arya Simon's ODEQ and EPA tenure is person-specific — confirm the years and role before restating, and swap in the equivalent ex-regulator when reusing in another state. The 3-business-day DMR lead time is a contract commitment; confirm it is offered before it appears in a draft. The closing couplet ("That is not the framework we're proposing to build. It is how we already operate...") reuses well anywhere the team already operates in the client's state.

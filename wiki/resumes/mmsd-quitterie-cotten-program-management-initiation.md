@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18
+section-order: 5
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes
+doc-order: 59
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The continuity card — the engineer who ran the procurement phase stays on into chartering and transition, so the relationships built during the pursuit do not reset at award.
 reuse-notes: Only usable where the named person genuinely led the procurement phase; the whole value of the card is that claim. Refresh the western-US capital figure and the Oregon/Washington project list per pursuit.

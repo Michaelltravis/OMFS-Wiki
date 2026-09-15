@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:04.coverage-shifts-and-on-call-structure
+section-order: 7
+section-path: Section 4 - Project Staffing and Project Management Plan › CULTURE-DRIVEN LEADERSHIP FOR THE TOWN OF HULL › STAFFING PLAN › Coverage, Shifts, and On‑Call Structure
+doc-order: 31
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Compact, concrete coverage plan — weekday base hours, two-person weekend rounds, 24/7 on-call with ≤20-minute phone and ≤60-minute site response commitments, and pre-staged storm teams with sleeping provisions — that directly answers the evaluator question of how the facility is covered nights, weekends, and emergencies.
 reuse-notes: Response-time commitments, coverage hours, and storm-event provisions must be checked against the specific RFP's stated requirements and adjusted to meet or beat them; base coverage hours should reflect the facility's actual operating pattern and the named pump stations replaced with the pursuit's critical assets.

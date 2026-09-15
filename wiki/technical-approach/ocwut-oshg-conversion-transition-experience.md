@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+section-id: ocwut-16-26:28.experience-with-oshg
+section-order: 12
+section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Experience with OSHG
+doc-order: 193
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Rare, specific treatment of a gas-chlorine-to-OSHG conversion as an O&M transition issue rather than a design issue — names the six operating considerations that actually govern OSHG lifecycle cost and safety, and converts the PSM/RMP elimination into a client benefit. Strong for any pursuit where the client is mid-conversion away from gaseous chlorine.
 reuse-notes: Facility names (North Canadian, Deer Creek, South Canadian) and the PSI/Microclor cartridge cost are pursuit-specific — confirm the client's selected OSHG vendor and current cartridge pricing before restating. The six operating considerations and the PSM/RMP elimination argument are universal to any gas-to-OSHG conversion.

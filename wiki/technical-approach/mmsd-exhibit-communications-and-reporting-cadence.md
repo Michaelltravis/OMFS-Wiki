@@ -23,6 +23,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for
+section-order: 12
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD
+doc-order: 99
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The most complete communications-cadence table in the library: daily through annual, each row naming the meeting or report, its content, and who attends. Includes the joint committee structure (operations, maintenance, asset management, CMMS governance, IT governance, energy cost sharing) that makes an open-book claim operational."
 reuse-notes: "Keep the when/what/who column structure and the committee architecture. Delete rows tied to scope the pursuit does not have (biosolids reporting, CMMS implementation governance, stormwater inspections) and align every due date and report name to the pursuit's draft agreement."

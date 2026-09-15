@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:07.clovis-wwtp-wrf-o-m
+section-order: 3
+section-path: 'Section 2: Qualifications › 2.3 REFERENCES › OPERATIONAL EXCELLENCE BACKED BY DIVERSE PROJECT EXPERIENCE › Clovis WWTP/WRF O&M'
+doc-order: 26
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Demonstrates full project-lifecycle involvement (design-phase review through a 15-year O&M term) under an innovative Operations Management At Risk (OMAR) contracting approach, with a named General Manager quote — strong reference for pursuits involving early O&M contractor engagement during design and construction, or groundwater replenishment / seawater intrusion scope.
 reuse-notes: Verbatim past-performance content. Confirm reference contact (Cameron Kostigen Mumper) is still current before reuse; verify "2020 – Ongoing" contract status and remaining term of the 15-year initial term.

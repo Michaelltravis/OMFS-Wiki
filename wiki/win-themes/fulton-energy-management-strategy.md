@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee
+section-order: 3
+section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE
+doc-order: 27
 context: JC Solutions JV energy-management offering for a multi-facility county wastewater system.
 quality: Near-verbatim operating strategy that links rate analysis, demand management, utility coordination, and day-to-day optimization.
 reuse-notes: Rebuild this around the client's utility, rate structures, facilities, and applicable incentives. Do not carry a savings figure, utility relationship, or energy-asset recommendation without current validation.

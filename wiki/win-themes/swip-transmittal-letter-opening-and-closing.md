@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:02
+section-order: 1
+section-path: 'Section 1: Letter of Transmittal'
+doc-order: 1
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: The framing of a winning transmittal letter. The opening paragraph credits the client's own vision before Jacobs says a word about itself, then names the two horizons the client actually cares about — reliable operation today and readiness for the next regulatory step. The positioning paragraph compresses the entire value proposition into one sentence and commits to specific permit orders by number. The close returns to partnership language and explicitly reframes the role from operator to collaborator. Also carries the signature, authorized-signatory, addenda-acknowledgment, and point-of-contact boilerplate a compliant transmittal letter must include.
 reuse-notes: Replace [CLIENT] and the generalized program descriptor with the target client and its actual program name, and swap the permit order numbers (State Board Orders R4-2021-0044 and R4-2023-0366) for the target facility's governing permits — naming them by number in the cover letter is the move that signals the team has already read the regulatory record. The DPR-readiness horizon in the opening is specific to a groundwater replenishment client moving toward direct potable reuse; substitute the target client's own next step (nutrient limits, capacity expansion, PFAS, energy neutrality) and keep the today/tomorrow structure. The signature block, authorized signatory, addenda list, and clarification contact are pursuit-specific — update names, titles, addresses, phone, email, and the addenda numbers and dates from the actual solicitation record.

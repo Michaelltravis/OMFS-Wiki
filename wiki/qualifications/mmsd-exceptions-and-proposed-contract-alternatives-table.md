@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:38
+section-order: 1
+section-path: VI. Exceptions and Requests › VI.A. Exceptions
+doc-order: 248
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR regulatory regime. Section VI of the technical proposal, where the bidder lists its exceptions to the draft service agreement.
 quality: A disciplined, client-framed exceptions table — each exception states the proposed alternative language, the benefit to the client in the client's own terms, and the annual price reduction it unlocks, separated into exceptions with a cost component and clarifications without price impact. It converts what is usually a defensive compliance artifact into a transparency and partnership proof point.
 reuse-notes: Re-derive every exception against the specific draft agreement and its section numbers; the price-reduction figures are pursuit-specific and must be recomputed with the risk and insurance teams for each pursuit. Confirm with legal and risk which exceptions are genuinely required versus preferred before listing them. The indemnity-clarification row is specific to a client-owned branded biosolids product and applies only where the client markets a product manufactured by the operator.

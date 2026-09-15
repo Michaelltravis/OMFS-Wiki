@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.community-stewardship
+section-order: 31
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › COMMUNITY STEWARDSHIP
+doc-order: 64
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: frames community engagement as an operating responsibility rather than occasional outreach, then backs it with an eight-item activity menu and two named Northeast reference projects that already do this work
 reuse-notes: select only the activities that fit the target community's character (dense urban vs. close-knit small town vs. rural); swap the Waterbury and Westerly proof points for permissioned, pursuit-appropriate reference projects if they appear elsewhere in the same proposal

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:03.bottom-line
+section-order: 14
+section-path: Executive Summary › BOTTOM LINE
+doc-order: 16
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A two-device close — a short "Bottom Line" paragraph that restates the three things the whole section argued, followed by a boxed one-sentence positioning statement that an evaluator can copy straight into a scoring narrative. The sequence is the cleanest available model for ending a persuasive section on an assertion rather than a summary.
 reuse-notes: The three claims in the close must be the same three the section actually proved — rebuild them from the target proposal's own win themes rather than reusing the O&M rigor / expert access / measurable value triad by default. The boxed statement should name the client's stated ambition, whatever that is.

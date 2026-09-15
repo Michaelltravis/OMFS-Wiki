@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:11
+section-order: 1
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › Key Team Member Resumes › Carpenter, Steve
+doc-order: 140
 context: Proposed Project Director providing senior independent oversight. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "Best example of positioning a Project Director as independent oversight rather than a second operations manager, with a hard local proof point (96% base load capacity for two consecutive years at a 75-MGD WTP in the same community and regulatory environment as the pursuit client)."
 reuse-notes: "VERBATIM resume — real name, licenses, and two client reference contacts retained. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Steve Carpenter's current role, availability, and years of experience (29 total, 15 with Jacobs at time of writing); (2) re-verify both client references (Ted Henfin, JXN Water; Gary Turley, City of Pampa) before listing; (3) the 96% base load capacity figure and the JXN Water federal-oversight description should be re-confirmed with the account team before external use."

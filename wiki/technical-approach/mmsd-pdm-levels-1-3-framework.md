@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:32.2-summary-of-levels-1-3-pdm
+section-order: 2
+section-path: IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 2. SUMMARY OF LEVELS 1–3 PdM
+doc-order: 225
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR. The RFP asked bidders to price advanced PdM as an additive scope separate from base O&M."
 quality: "A clean three-level taxonomy that separates what the client already owns, what is included in the base fee, and what is genuinely additive — the structure that lets a proposal offer advanced PdM without any appearance of double counting. The benefits callout converts the taxonomy into client outcomes."
 reuse-notes: "The Level 1/2/3 split is the reusable framework; re-map which technologies fall in each level for the target contract's base scope. Named tools (VibeCloud, Artesis, SL-RAT) should be confirmed as currently offered before reuse."

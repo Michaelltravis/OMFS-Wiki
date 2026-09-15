@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: '2026-09-05'
 last-verified: '2026-09-07'
+section-id: ocwut-16-26:29.structured-phased-transition-with-clear-accountability
+section-order: 2
+section-path: Section 5 | Required Plans Submitted with the Proposal › Draft Transition Plan › Structured, Phased Transition with Clear Accountability
+doc-order: 195
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Three attributable client quotes that speak specifically to transition execution — displacement of a 20-year incumbent (West Basin), crisis-entry partnership and promised operational savings (JXN Water), and the mechanics of a safe, private employee onboarding process (Wilmington). Contacts and phone numbers are on the record in the source proposal, which makes these usable as reference callouts, not just pull quotes.
 reuse-notes: Verbatim client quotes with named speakers, titles, and phone numbers — confirm permission status in testimonials/inventory.md and re-verify contact details before external use. Attribution must stay attached to the quote; never paraphrase a quote into narrative voice.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:02.positioning-hull-s-wastewater-program-for-its-next-phase
+section-order: 2
+section-path: Section 2 - Executive Summary › POSITIONING HULL’S WASTEWATER PROGRAM FOR ITS NEXT PHASE
+doc-order: 5
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The opening and closing bookends of a winning incumbent-displacement executive summary — credits the client's own investment, reframes the real gap as leadership, communication, and proactivity rather than technical failure, grounds the pitch in hard system statistics, and closes on what selecting the firm lets the client do next
 reuse-notes: The acknowledged investments and the named gap must come from actual RFP language, site-visit notes, or published client data — a "gap" the client never expressed reads as presumption to the evaluators who wrote the RFP. Replace every system statistic with the target facility's real figures and the named on-site leader with the actual proposed project manager. Pairs with the recipe block `exec-summary-client-readiness-framing.md`, which explains the beat structure behind this prose.

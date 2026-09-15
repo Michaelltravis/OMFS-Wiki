@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:17
+section-order: 1
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development
+doc-order: 47
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Opens the workforce development answer by positioning Jacobs as a supporter and strengthener of the client's existing program rather than a replacement for it — the right posture when the client has invested in workforce equity — then states five goals that map one-to-one to scope-of-services requirements, and names the three-tier plan structure with subconsultant roles.
 reuse-notes: The five goals must be rewritten against the pursuit's own scope of services language so each one traces to a requirement. Subcontractor names (PRISM, P3 Development Group) are pursuit-specific. The three-tier plan structure — career awareness and exploration, internships and co-ops, apprenticeship program — is the reusable skeleton.

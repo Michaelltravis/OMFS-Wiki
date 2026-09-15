@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:11.1-2-staffing-plan
+section-order: 1
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 1.2. Staffing Plan
+doc-order: 21
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A single table that answers the RFP's minimum staffing requirement and monetizes the offer at the same time — the client's required FTE by category beside the onsite and offsite FTE Jacobs adds at no additional charge, with footnotes that quantify interns and SME hours.
 reuse-notes: Rebuild the "Required Onsite Staff" column from the new RFP's minimum staffing exhibit and re-verify every above-and-beyond count with the operations lead before it becomes a commitment. The footnote structure (exclusions, interns converted to FTE, annual SME hours) transfers as-is.

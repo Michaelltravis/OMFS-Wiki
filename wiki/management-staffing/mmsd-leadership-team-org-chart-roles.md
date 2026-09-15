@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:10.1-1-leadership-team
+section-order: 3
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions › 1. ORGANIZATIONAL STRUCTURE › 1.1. Leadership Team
+doc-order: 18
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A leadership org chart where every box carries a one-sentence benefit statement instead of a job description — the evaluator reads what the role buys the utility, not what the person does. The seven-group numbering (1 Project Manager through 7 Engineering and Off-Site Support) makes the chart navigable and ties directly to the value-added positions exhibit.
 reuse-notes: This is the role-and-benefit skeleton, not a roster to reuse verbatim — swap names, credentials, and the contract assumption date. Keep the pattern of one bolded benefit sentence per leadership box and the committee layer above the Project Manager. Graphic asset ID 200_007CAM_15; client-specific, re-brand before reuse.

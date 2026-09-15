@@ -23,6 +23,10 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:22
+section-order: 5
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM
+doc-order: 87
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The conveyance half of the health check: deep tunnel storage, pump stations, interplant pumping, solids and digestion, safety and security, and fleet — each with named findings and a specific technology or modeling remedy, including wet-weather SME reach-back cited to Tideway and Wilmington."
 reuse-notes: "Rebuild the findings from the pursuit's own due diligence. The remedy column is the portable part: deragging plus condition-based pump optimization, storm-model integration and pre-storm drawdown, CFD clarifier modeling, codigestion expansion, telematics-driven fleet lifecycle. Verify every named product is still current before reuse."

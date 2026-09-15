@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:13.experienced-transition-team
+section-order: 4
+section-path: 'Section 3: Key Personnel › 3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS › EXPERIENCED TRANSITION TEAM'
+doc-order: 89
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A named transition-leadership pairing (executive Transition Manager plus administrative Transition Administrator) with credible, checkable track records, backed by a full named regional support roster (Exhibit 3-4) and a concrete Communications Plan (response-time commitments, meeting cadence, report contents, dashboard access) — a complete governance package for a transition-plan section.
 reuse-notes: Client name generalized to [CLIENT] per wiki sanitization rules. Named Jacobs personnel (Kelly Irving, Cheryl Reeves, and the full regional support roster) and the named reference projects (JXN Water / Jackson, MS; West Basin in El Segundo, CA; Baton Rouge, Baltimore, Waterbury, Lincoln, Southbridge, Pasadena) are kept verbatim — reconfirm each individual is still available and assigned before naming them in a new pursuit, and refresh the recent-transition list as newer transitions close. The 45-minute remote and 60-minute onsite response times and the Ignition v8.1 SCADA platform are pursuit commitments and must be re-set for each new contract.

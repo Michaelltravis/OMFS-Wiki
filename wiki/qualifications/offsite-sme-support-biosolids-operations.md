@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.oklahoma-city-the-oklahoma-city-water-utilities-trust
+section-order: 26
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST
+doc-order: 133
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Two biosolids operators — not designers — presented as off-site support, with the second bullet tying each directly to the client's Solids Management Plan and to findings from the team's own due diligence of the existing operation. That due-diligence bullet is the incumbent-displacement move.
 reuse-notes: Names and hands-on credentials are pursuit-specific. The "insight from recent due diligence" bullet only works where the team has actually walked the client's solids facilities — replace it rather than reuse it blind. PFAS, storage limits, H2S risk, debris, and liquid sludge hauling are the recurring solids pain points worth naming.

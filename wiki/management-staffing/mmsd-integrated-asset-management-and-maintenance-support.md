@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:12.asset-management-team
+section-order: 2
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.C. PM and CM Staffing › 1. MAINTENANCE STAFFING THAT MEETS AND EXCEEDS MMSD’S GOALS › Asset Management Team
+doc-order: 33
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The cleanest statement in the bank of why offsite support is a staffing answer, not an org-chart decoration — every support layer is followed by a "benefit to client" line naming what it prevents (disruption, downtime, data decay) rather than what it is.
 reuse-notes: Substitute the named support leaders and the CMMS platform. The part-time Director of Maintenance & Asset Management construct — offloading governance, KPI management, PM optimization, RCA, and data standards so onsite managers stay on execution — is the transferable idea and should be re-argued against each RFP's minimum staffing table.

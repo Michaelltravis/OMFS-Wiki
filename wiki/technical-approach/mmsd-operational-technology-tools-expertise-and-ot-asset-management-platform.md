@@ -23,6 +23,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a
+section-order: 17
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise
+doc-order: 144
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Names a real gap most operators gloss over — traditional CMMS platforms were not built to manage PLCs, HMIs, networked motor controls, firmware, and configuration files — and offers a purpose-built platform to close it. The training commitment is stated as a deliverable, not an add-on, and is scoped to real operational needs (wet-weather performance, network resiliency, cybersecurity hardening), which is what distinguishes it from generic training language.
 reuse-notes: Confirm the pursuit's OT inventory and CMMS platform so the integration claim is accurate. The "traditional CMMS isn't designed for OT assets" framing travels to any pursuit with significant automation; scale the bench claim (software engineering, network architecture, cybersecurity, life-cycle asset management) to the resources actually committed.

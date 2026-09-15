@@ -1,0 +1,731 @@
+{
+ "wiki": "C:\\Users\\micha\\Desktop\\Wiki",
+ "slug": "mmsd-om-2028",
+ "clientNames": [
+  "Milwaukee Metropolitan Sewerage District",
+  "MMSD",
+  "the District",
+  "Jones Island Water Reclamation Facility",
+  "Jones Island WRF",
+  "Jones Island",
+  "JIWRF",
+  "South Shore Water Reclamation Facility",
+  "South Shore WRF",
+  "South Shore",
+  "SSWRF",
+  "Milorganite"
+ ],
+ "context": "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR",
+ "today": "2026-09-14",
+ "ranges": [
+  {
+   "slug": "mmsd-om-2028",
+   "name": "Executive Summary",
+   "sectionId": "mmsd-om-2028:02",
+   "pages": [
+    6,
+    6
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/win-themes/mmsd-exec-summary-above-and-beyond-investments-and-savings.md",
+    "wiki/win-themes/mmsd-exec-summary-biosolids-continuity-and-odor-control.md",
+    "wiki/win-themes/mmsd-exec-summary-comprehensive-om-with-consulting-bench.md",
+    "wiki/win-themes/mmsd-exec-summary-elevated-operations-technical-bench-and-no-surprises-compliance.md",
+    "wiki/win-themes/mmsd-exec-summary-high-caliber-leadership-and-people-first-culture.md",
+    "wiki/win-themes/mmsd-exec-summary-iso-55001-asset-management-and-reliability.md",
+    "wiki/win-themes/mmsd-exec-summary-programmatic-framework-and-auditable-cost-transparency.md",
+    "wiki/win-themes/mmsd-exec-summary-regional-partnership-and-community-benefits.md",
+    "wiki/win-themes/mmsd-exec-summary-seamless-transition-and-workforce-continuity.md",
+    "wiki/win-themes/mmsd-exec-summary-trusted-partner-opening-and-six-core-attributes.md",
+    "wiki/win-themes/mmsd-exec-summary-wet-weather-and-optimization-savings.md",
+    "wiki/win-themes/mmsd-exec-summary-why-jacobs-close.md"
+   ],
+   "uncovered": [
+    {
+     "page": 6,
+     "para": 21,
+     "words": 51,
+     "kind": "prose",
+     "first_words": "✓ Resilient, interconnected ✓ One-team culture with operations—built into clear accountability and",
+     "ref": "verbatim/mmsd-om-2028/pages/p0006.md#¶21"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:02"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "1. ORGANIZATIONAL STRUCTURE + 1. OUR HR AND STAFFING COMMITMENT TO MMSD + 2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES",
+   "sectionId": "mmsd-om-2028:10.1-organizational-structure",
+   "pages": [
+    19,
+    26
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "staffing"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/mmsd-dual-management-leadership-model.md",
+    "wiki/management-staffing/mmsd-governance-committees-and-blue-ribbon-panel.md",
+    "wiki/management-staffing/mmsd-hr-commitment-award-winning-culture-and-integrated-hr-team.md",
+    "wiki/management-staffing/mmsd-key-leader-philosophy-and-client-testimonials.md",
+    "wiki/management-staffing/mmsd-leadership-team-org-chart-roles.md",
+    "wiki/management-staffing/mmsd-staffing-certainty-framework-exhibit.md",
+    "wiki/management-staffing/mmsd-value-added-staff-positions-exhibit.md"
+   ],
+   "uncovered": [
+    {
+     "page": 19,
+     "para": 1,
+     "words": 40,
+     "kind": "prose",
+     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
+     "ref": "verbatim/mmsd-om-2028/pages/p0019.md#¶1"
+    },
+    {
+     "page": 21,
+     "para": 1,
+     "words": 35,
+     "kind": "prose",
+     "first_words": "B. HR and C. PM and Corrective D. Use of E. Technical",
+     "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶1"
+    },
+    {
+     "page": 21,
+     "para": 5,
+     "words": 75,
+     "kind": "prose",
+     "first_words": "PROVEN FRAMEWORK To fill all positions and retain and recruit FOR STAFFING",
+     "ref": "verbatim/mmsd-om-2028/pages/p0021.md#¶5"
+    },
+    {
+     "page": 26,
+     "para": 1,
+     "words": 31,
+     "kind": "prose",
+     "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
+     "ref": "verbatim/mmsd-om-2028/pages/p0026.md#¶1"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:10.1-organizational-structure",
+    "mmsd-om-2028:11.1-our-hr-and-staffing-commitment-to-mmsd",
+    "mmsd-om-2028:12.2-integrated-asset-management-maintenance-staff-focused-on-o"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "1. COMMITMENT TO LEARNING, SAFETY, AND CONTINUOUS IMPROVEMENT",
+   "sectionId": "mmsd-om-2028:14.1-commitment-to-learning-safety-and-continuous-improvement",
+   "pages": [
+    28,
+    28
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": [
+    "compliance"
+   ],
+   "existingBlocks": [],
+   "uncovered": [
+    {
+     "page": 28,
+     "para": 1,
+     "words": 40,
+     "kind": "prose",
+     "first_words": "A. Staffing Strategy B. HR and C. PM and Corrective D. Use",
+     "ref": "verbatim/mmsd-om-2028/pages/p0028.md#¶1"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:14.1-commitment-to-learning-safety-and-continuous-improvement"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "3. OPERATIONS MANAGEMENT STAFF TRAINING PROGRAMS + 2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING + 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES",
+   "sectionId": "mmsd-om-2028:14.3-operations-management-staff-training-programs",
+   "pages": [
+    29,
+    32
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "staffing"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/mmsd-apprenticeships-and-local-union-partnership.md",
+    "wiki/management-staffing/mmsd-internships-and-career-awareness-outreach.md",
+    "wiki/management-staffing/mmsd-leadership-development-cross-training-and-mentoring.md",
+    "wiki/management-staffing/mmsd-peer-to-peer-culture-coach-program.md",
+    "wiki/management-staffing/mmsd-structured-career-pathways-and-advancement-ladder.md",
+    "wiki/management-staffing/mmsd-uwm-scholarship-commitment.md",
+    "wiki/management-staffing/mmsd-wastewater-career-internship-pipeline-program.md"
+   ],
+   "uncovered": [
+    {
+     "page": 29,
+     "para": 1,
+     "words": 31,
+     "kind": "prose",
+     "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
+     "ref": "verbatim/mmsd-om-2028/pages/p0029.md#¶1"
+    },
+    {
+     "page": 31,
+     "para": 1,
+     "words": 29,
+     "kind": "prose",
+     "first_words": "C. PM and Corrective D. Use of E. Technical F. Safe Work",
+     "ref": "verbatim/mmsd-om-2028/pages/p0031.md#¶1"
+    },
+    {
+     "page": 32,
+     "para": 1,
+     "words": 25,
+     "kind": "prose",
+     "first_words": "D. Use of E. Technical F. Safe Work G. Positive H. Workforce",
+     "ref": "verbatim/mmsd-om-2028/pages/p0032.md#¶1"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:14.3-operations-management-staff-training-programs",
+    "mmsd-om-2028:16.2-maintaining-a-respectful-workplace-of-inclusion-and-belong",
+    "mmsd-om-2028:17.1-elements-of-the-plan-and-implementation-strategies"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "Energy and Chemical Optimization",
+   "sectionId": "mmsd-om-2028:21.energy-and-chemical-optimization",
+   "pages": [
+    45,
+    45
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach",
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/mmsd-base-fee-value-added-investments-and-future-savings.md",
+    "wiki/technical-approach/mmsd-exhibit-priorities-and-om-plan-elements.md",
+    "wiki/technical-approach/mmsd-exhibit-shared-priorities-and-om-plan-grid.md",
+    "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+    "wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md",
+    "wiki/technical-approach/mmsd-value-added-investments-and-future-savings.md"
+   ],
+   "uncovered": [
+    {
+     "page": 45,
+     "para": 21,
+     "words": 30,
+     "kind": "prose",
+     "first_words": "- Belter Press Investment at South Value-Added $21- 53M AquaDNA Smart Technology",
+     "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶21"
+    },
+    {
+     "page": 45,
+     "para": 27,
+     "words": 37,
+     "kind": "prose",
+     "first_words": "- OT Asset Backup & Version Control 9.5 Additional FTEs Beyond Site",
+     "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶27"
+    },
+    {
+     "page": 45,
+     "para": 28,
+     "words": 30,
+     "kind": "prose",
+     "first_words": "- OMFS Managed Process Control Milwaukee-based Rapid Assessment Anaerobic Digestion / Microbial",
+     "ref": "verbatim/mmsd-om-2028/pages/p0045.md#¶28"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:21.energy-and-chemical-optimization"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "IV.A. Approach to Management, Operations, PM, and CM",
+   "sectionId": "mmsd-om-2028:22",
+   "pages": [
+    47,
+    47
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/compliance-plans/mmsd-cybersecurity-access-awareness-and-data-protection.md",
+    "wiki/compliance-plans/mmsd-cybersecurity-governance-and-incident-response.md",
+    "wiki/compliance-plans/mmsd-emergency-preparedness-and-response-program.md",
+    "wiki/compliance-plans/mmsd-innovative-security-enhancements.md",
+    "wiki/compliance-plans/mmsd-safety-auditing-and-preliminary-site-assessment.md",
+    "wiki/compliance-plans/mmsd-safety-culture-beyondzero-and-performance-record.md",
+    "wiki/compliance-plans/mmsd-safety-how-we-do-it-and-training-curriculum.md",
+    "wiki/compliance-plans/mmsd-safety-leadership-training-and-incident-reporting.md",
+    "wiki/compliance-plans/mmsd-safety-management-system-required-plans.md",
+    "wiki/compliance-plans/mmsd-security-access-control-surveillance-and-incident-response.md",
+    "wiki/compliance-plans/mmsd-security-awareness-and-workplace-violence-preparedness.md",
+    "wiki/compliance-plans/mmsd-security-expert-spotlight-gist-waddell.md",
+    "wiki/compliance-plans/mmsd-security-program-framework-and-management-structure.md",
+    "wiki/technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md",
+    "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
+    "wiki/technical-approach/mmsd-aeration-energy-and-process-optimization.md",
+    "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+    "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+    "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
+    "wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md",
+    "wiki/technical-approach/mmsd-approach-to-management-of-facilities-pgm-foundation.md",
+    "wiki/technical-approach/mmsd-biosolids-heat-dried-product-monitoring.md",
+    "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
+    "wiki/technical-approach/mmsd-chemical-usage-monitoring-and-control.md",
+    "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
+    "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
+    "wiki/technical-approach/mmsd-collaborative-decision-making-governance.md",
+    "wiki/technical-approach/mmsd-collection-system-tunnels-wet-weather-focus-area.md",
+    "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
+    "wiki/technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md",
+    "wiki/technical-approach/mmsd-continuous-improvement-corrective-action-tracking.md",
+    "wiki/technical-approach/mmsd-continuous-improvement-innovation-partnership-rationale.md",
+    "wiki/technical-approach/mmsd-corporate-resources-six-pillars-exhibit.md",
+    "wiki/technical-approach/mmsd-corrective-maintenance-and-failure-analysis.md",
+    "wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md",
+    "wiki/technical-approach/mmsd-day-to-day-communication-and-governance.md",
+    "wiki/technical-approach/mmsd-dechlorination-and-ras-filament-control-optimization.md",
+    "wiki/technical-approach/mmsd-decision-making-hierarchy-three-tiers.md",
+    "wiki/technical-approach/mmsd-dewatering-drying-cake-solids-optimization.md",
+    "wiki/technical-approach/mmsd-digester-gas-generation-and-energy-monitoring-analytics.md",
+    "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-approach.md",
+    "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md",
+    "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
+    "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
+    "wiki/technical-approach/mmsd-digital-twin-benefits-table.md",
+    "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md",
+    "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odors.md",
+    "wiki/technical-approach/mmsd-due-diligence-understanding-and-shared-values-alignment.md",
+    "wiki/technical-approach/mmsd-effective-efficient-wet-weather-operations.md",
+    "wiki/technical-approach/mmsd-energy-demand-management-predictive-advisories.md",
+    "wiki/technical-approach/mmsd-energy-optimization-focus-area-and-dynamic-energy-balance.md",
+    "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
+    "wiki/technical-approach/mmsd-exhibit-future-collaboration-intelligent-om-and-ot-security-table.md",
+    "wiki/technical-approach/mmsd-exhibit-future-collaboration-process-improvements-table.md",
+    "wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md",
+    "wiki/technical-approach/mmsd-exhibit-value-added-innovations-best-practices-improvements-table.md",
+    "wiki/technical-approach/mmsd-exhibit-value-added-innovations-pilots-optimization-table.md",
+    "wiki/technical-approach/mmsd-exhibit-value-added-innovations-studies-support-partnership-table.md",
+    "wiki/technical-approach/mmsd-facilities-understanding-shared-values.md",
+    "wiki/technical-approach/mmsd-facility-health-check-exhibit.md",
+    "wiki/technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md",
+    "wiki/technical-approach/mmsd-ferric-chloride-phosphorus-optimization-and-future-use-cases.md",
+    "wiki/technical-approach/mmsd-five-tenets-culture-exhibit.md",
+    "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
+    "wiki/technical-approach/mmsd-four-pillars-of-chemical-optimization.md",
+    "wiki/technical-approach/mmsd-future-improvements-and-innovations-for-additional-savings.md",
+    "wiki/technical-approach/mmsd-holistic-systems-based-one-water-one-team.md",
+    "wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md",
+    "wiki/technical-approach/mmsd-integrated-performance-monitoring-framework.md",
+    "wiki/technical-approach/mmsd-integrated-reliability-maintenance-program-outcomes.md",
+    "wiki/technical-approach/mmsd-intelligent-dry-weather-management.md",
+    "wiki/technical-approach/mmsd-key-operational-focus-areas.md",
+    "wiki/technical-approach/mmsd-landfill-gas-power-generation-and-waste-heat-strategy.md",
+    "wiki/technical-approach/mmsd-leveraging-corporate-resources-operational-excellence.md",
+    "wiki/technical-approach/mmsd-liquid-treatment-optimization-opportunities.md",
+    "wiki/technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md",
+    "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
+    "wiki/technical-approach/mmsd-maintenance-transparency-reporting-governance.md",
+    "wiki/technical-approach/mmsd-monitoring-control-practices-conveyance-liquid-table.md",
+    "wiki/technical-approach/mmsd-monitoring-control-practices-solids-energy-chemical-odor-table.md",
+    "wiki/technical-approach/mmsd-odor-challenge-and-proactive-odor-management-strategy.md",
+    "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md",
+    "wiki/technical-approach/mmsd-odor-continuous-improvement-and-community-outreach.md",
+    "wiki/technical-approach/mmsd-odor-control-focus-area-and-program-commitment.md",
+    "wiki/technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md",
+    "wiki/technical-approach/mmsd-odor-early-warning-system-sulfiloggers-aermod.md",
+    "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md",
+    "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-training.md",
+    "wiki/technical-approach/mmsd-operations-approach-and-operational-priorities.md",
+    "wiki/technical-approach/mmsd-ot-asset-management-modules-table.md",
+    "wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md",
+    "wiki/technical-approach/mmsd-ot-automated-backup-benefits-table.md",
+    "wiki/technical-approach/mmsd-ot-automated-plc-backup-and-version-control.md",
+    "wiki/technical-approach/mmsd-ot-privileged-access-management-service.md",
+    "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md",
+    "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-reporting.md",
+    "wiki/technical-approach/mmsd-pgm-framework-foundation-of-shared-success.md",
+    "wiki/technical-approach/mmsd-pgm-framework-standup-and-leadership.md",
+    "wiki/technical-approach/mmsd-pgm-seven-step-initiation-table.md",
+    "wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md",
+    "wiki/technical-approach/mmsd-pm-optimization-and-work-planning.md",
+    "wiki/technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md",
+    "wiki/technical-approach/mmsd-process-monitoring-control-system-wide-insight.md",
+    "wiki/technical-approach/mmsd-project-manager-leadership-decision-philosophy.md",
+    "wiki/technical-approach/mmsd-reliable-biosolids-product-risk-management-and-housekeeping.md",
+    "wiki/technical-approach/mmsd-renewable-gas-turbine-uptime-and-high-strength-waste.md",
+    "wiki/technical-approach/mmsd-settleability-optimization-strategies-table.md",
+    "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "wiki/technical-approach/mmsd-six-point-compliance-program-exhibit.md",
+    "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+    "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
+    "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
+    "wiki/technical-approach/mmsd-sustainable-approach-to-operations.md",
+    "wiki/technical-approach/mmsd-system-health-check-challenges-and-value-add-table.md",
+    "wiki/technical-approach/mmsd-system-health-check-conveyance-collection-and-solids-table.md",
+    "wiki/technical-approach/mmsd-tunnel-operations-wet-weather-monitoring.md",
+    "wiki/technical-approach/mmsd-unified-compliance-oversight-and-stewardship.md",
+    "wiki/technical-approach/mmsd-value-added-improvements-included-in-base-fee.md",
+    "wiki/technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md",
+    "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md",
+    "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md",
+    "wiki/technical-approach/mmsd-wrf-wet-processes-systemwide-integration.md"
+   ],
+   "uncovered": [
+    {
+     "page": 47,
+     "para": 8,
+     "words": 605,
+     "kind": "table",
+     "first_words": "|CON|VEYANCE & WATER RECOVERY FACI|LITIES||JIWRF & SSWRF||SYST|EM-WIDE| |---|---|---|---|---|---|---|---| |SCADA/OT & Cybersecurity|Odor Management|Emergency",
+     "ref": "verbatim/mmsd-om-2028/pages/p0047.md#¶8"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:22"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "IV.A.1. Approach to Management of Facilities",
+   "sectionId": "mmsd-om-2028:23",
+   "pages": [
+    48,
+    51
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach",
+    "staffing"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md",
+    "wiki/technical-approach/mmsd-approach-to-management-of-facilities-pgm-foundation.md",
+    "wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
+    "wiki/technical-approach/mmsd-day-to-day-communication-and-governance.md",
+    "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
+    "wiki/technical-approach/mmsd-five-tenets-culture-exhibit.md",
+    "wiki/technical-approach/mmsd-operations-approach-and-operational-priorities.md",
+    "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md",
+    "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-reporting.md",
+    "wiki/technical-approach/mmsd-pgm-framework-foundation-of-shared-success.md",
+    "wiki/technical-approach/mmsd-pgm-framework-standup-and-leadership.md",
+    "wiki/technical-approach/mmsd-pgm-seven-step-initiation-table.md",
+    "wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md"
+   ],
+   "uncovered": [
+    {
+     "page": 48,
+     "para": 14,
+     "words": 155,
+     "kind": "table",
+     "first_words": "|FIVE INTERCONNECTED PEXHIBIT IV-5.FIVE INTERCON|ILLARS THAT DEFINE HOWNECTED TENETS THAT DEF|WE DELIVER",
+     "ref": "verbatim/mmsd-om-2028/pages/p0048.md#¶14"
+    },
+    {
+     "page": 50,
+     "para": 3,
+     "words": 142,
+     "kind": "table",
+     "first_words": "|EXHI|BIT IV-8.STEPS TO|SET UP PgM FRAM|EWORK FOR SUCCE|EstablishSS|||| |---|---|---|---|---|---|---|---| |GOAL|Mobilize ProgramManagementTeam|LeadershipAlignment|Developmentof HolisticStrategies|Governancefor",
+     "ref": "verbatim/mmsd-om-2028/pages/p0050.md#¶3"
+    },
+    {
+     "page": 51,
+     "para": 1,
+     "words": 25,
+     "kind": "prose",
+     "first_words": "A. Approach to Management, Approach to Management, B. Pre-term Activities Pre-term Activities",
+     "ref": "verbatim/mmsd-om-2028/pages/p0051.md#¶1"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:23"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "IV.A.6. Responding to Public Odor Complaints",
+   "sectionId": "mmsd-om-2028:25",
+   "pages": [
+    82,
+    82
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/mmsd-biosolids-heat-dried-product-monitoring.md",
+    "wiki/technical-approach/mmsd-chemical-usage-monitoring-and-control.md",
+    "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+    "wiki/technical-approach/mmsd-compliance-execution-tracking-reporting-dashboards.md",
+    "wiki/technical-approach/mmsd-continuous-improvement-corrective-action-tracking.md",
+    "wiki/technical-approach/mmsd-corporate-resources-six-pillars-exhibit.md",
+    "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-approach.md",
+    "wiki/technical-approach/mmsd-digital-one-water-and-digital-twin-systemwide-optimization.md",
+    "wiki/technical-approach/mmsd-digital-tools-for-sustainable-cost-efficient-operations-table.md",
+    "wiki/technical-approach/mmsd-digital-twin-benefits-exhibit-table.md",
+    "wiki/technical-approach/mmsd-digital-twin-benefits-table.md",
+    "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md",
+    "wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odors.md",
+    "wiki/technical-approach/mmsd-holistic-systems-based-one-water-one-team.md",
+    "wiki/technical-approach/mmsd-integrated-performance-monitoring-framework.md",
+    "wiki/technical-approach/mmsd-leveraging-corporate-resources-operational-excellence.md",
+    "wiki/technical-approach/mmsd-odor-challenge-and-proactive-odor-management-strategy.md",
+    "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
+    "wiki/technical-approach/mmsd-odor-complaint-response-protocol-and-odor-technologist-bench.md",
+    "wiki/technical-approach/mmsd-odor-continuous-improvement-and-community-outreach.md",
+    "wiki/technical-approach/mmsd-odor-control-focus-area-and-program-commitment.md",
+    "wiki/technical-approach/mmsd-odor-early-warning-system-at-the-water-reclamation-facilities.md",
+    "wiki/technical-approach/mmsd-odor-early-warning-system-sulfiloggers-aermod.md",
+    "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-ot-asset-management-platform.md",
+    "wiki/technical-approach/mmsd-operational-technology-tools-expertise-and-training.md",
+    "wiki/technical-approach/mmsd-ot-asset-management-modules-table.md",
+    "wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md",
+    "wiki/technical-approach/mmsd-ot-automated-backup-benefits-table.md",
+    "wiki/technical-approach/mmsd-ot-automated-plc-backup-and-version-control.md",
+    "wiki/technical-approach/mmsd-ot-privileged-access-management-service.md",
+    "wiki/technical-approach/mmsd-shared-cost-transparency-and-reporting.md",
+    "wiki/technical-approach/mmsd-six-point-compliance-program-exhibit.md",
+    "wiki/technical-approach/mmsd-tunnel-operations-wet-weather-monitoring.md",
+    "wiki/technical-approach/mmsd-unified-compliance-oversight-and-stewardship.md",
+    "wiki/technical-approach/mmsd-wats-collection-system-sulfide-model-predictive-odor-management.md",
+    "wiki/technical-approach/mmsd-wats-model-systemwide-sulfide-and-corrosion-prediction.md"
+   ],
+   "uncovered": [
+    {
+     "page": 82,
+     "para": 15,
+     "words": 43,
+     "kind": "prose",
+     "first_words": "- � Planning � Project Management � Optimization � Technology Selection �",
+     "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶15"
+    },
+    {
+     "page": 82,
+     "para": 19,
+     "words": 34,
+     "kind": "prose",
+     "first_words": "- � Expediting/Logistics � Mechanical Piping & � Technical Services � Inventory",
+     "ref": "verbatim/mmsd-om-2028/pages/p0082.md#¶19"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:25"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "IV.A.3. Approach to PM and CM",
+   "sectionId": "mmsd-om-2028:26",
+   "pages": [
+    91,
+    93
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/mmsd-10-box-ams-elements-1-5-governance-through-information.md",
+    "wiki/technical-approach/mmsd-10-box-ams-elements-6-10-people-through-outcomes.md",
+    "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+    "wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+    "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
+    "wiki/technical-approach/mmsd-cip-program-scale-table.md",
+    "wiki/technical-approach/mmsd-cogeneration-reliability-enhancement-plan-data-and-alarms.md",
+    "wiki/technical-approach/mmsd-cogeneration-reliability-levers-and-second-wrf-plan.md",
+    "wiki/technical-approach/mmsd-corrective-maintenance-and-failure-analysis.md",
+    "wiki/technical-approach/mmsd-data-driven-cip-and-asset-replacement-model.md",
+    "wiki/technical-approach/mmsd-facility-specific-ai-maintenance-assistant.md",
+    "wiki/technical-approach/mmsd-fleet-maintenance-program.md",
+    "wiki/technical-approach/mmsd-integrated-reliability-maintenance-program-outcomes.md",
+    "wiki/technical-approach/mmsd-maintenance-objectives-and-visibility-gap.md",
+    "wiki/technical-approach/mmsd-maintenance-staffing-coverage-special-functions.md",
+    "wiki/technical-approach/mmsd-maintenance-transparency-reporting-governance.md",
+    "wiki/technical-approach/mmsd-pm-optimization-and-work-planning.md",
+    "wiki/technical-approach/mmsd-pm-pdm-execution-discipline-and-line-of-sight.md",
+    "wiki/technical-approach/mmsd-wilmington-capital-upgrade-om-informed-savings.md"
+   ],
+   "uncovered": [
+    {
+     "page": 91,
+     "para": 14,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "- Defines what the organization � Identifies and prioritizes intends to achieve",
+     "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶14"
+    },
+    {
+     "page": 91,
+     "para": 18,
+     "words": 31,
+     "kind": "prose",
+     "first_words": "� Provides approach to � Outlines long term plan for managing the",
+     "ref": "verbatim/mmsd-om-2028/pages/p0091.md#¶18"
+    },
+    {
+     "page": 93,
+     "para": 21,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "The AMS will provide the framework for maintenance delivery and drive standards",
+     "ref": "verbatim/mmsd-om-2028/pages/p0093.md#¶21"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:26"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "IV.A.7. Sustainable Approach to Operations",
+   "sectionId": "mmsd-om-2028:29",
+   "pages": [
+    118,
+    118
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md",
+    "wiki/technical-approach/mmsd-sustainable-approach-to-operations.md"
+   ],
+   "uncovered": [
+    {
+     "page": 118,
+     "para": 13,
+     "words": 150,
+     "kind": "table",
+     "first_words": "|Energy Efficiencyand Optimization|Decarbonization and CleanEnergy Transition|Resource Recovery andCircular Economy|Resilience andClimate Adaptation|Funding and",
+     "ref": "verbatim/mmsd-om-2028/pages/p0118.md#¶13"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:29"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK",
+   "sectionId": "mmsd-om-2028:31.2-current-context-and-partnership-framework",
+   "pages": [
+    130,
+    130
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/mmsd-cmms-collaborative-implementation-process.md",
+    "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
+    "wiki/technical-approach/mmsd-cmms-nexgen-integrations-table.md"
+   ],
+   "uncovered": [
+    {
+     "page": 130,
+     "para": 4,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "Resumes for Eric Habermayer and John Loucks-Powell are provided in Section II",
+     "ref": "verbatim/mmsd-om-2028/pages/p0130.md#¶4"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:31.2-current-context-and-partnership-framework"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "7. PHASED ROLLOUT",
+   "sectionId": "mmsd-om-2028:32.7-phased-rollout",
+   "pages": [
+    136,
+    136
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/mmsd-level3-pdm-phased-rollout.md"
+   ],
+   "uncovered": [
+    {
+     "page": 136,
+     "para": 16,
+     "words": 28,
+     "kind": "prose",
+     "first_words": "- � SCADA routing, systems, pump stations, NEXGEN integration, and conveyance assets.",
+     "ref": "verbatim/mmsd-om-2028/pages/p0136.md#¶16"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:32.7-phased-rollout"
+   ]
+  },
+  {
+   "slug": "mmsd-om-2028",
+   "name": "1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS",
+   "sectionId": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "pages": [
+    142,
+    142
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/win-themes/mmsd-regional-partnership-strategy-community-health-environment.md",
+    "wiki/win-themes/mmsd-regional-partnership-strategy-research-development.md",
+    "wiki/win-themes/mmsd-regional-partnership-strategy-sustainability-resilience.md",
+    "wiki/win-themes/mmsd-regional-partnership-strategy-workforce-economic-growth.md",
+    "wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md"
+   ],
+   "uncovered": [
+    {
+     "page": 142,
+     "para": 47,
+     "words": 58,
+     "kind": "prose",
+     "first_words": "GHG Emissions/ESG: Advanced Water Treatment/Water Establishing Industry-Wide Guidance Reuse: for Water Utility",
+     "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶47"
+    },
+    {
+     "page": 142,
+     "para": 48,
+     "words": 64,
+     "kind": "prose",
+     "first_words": "Wastewater Treatment: Residuals Processing and Development of Innovative Predictive Resources Recovery: Control",
+     "ref": "verbatim/mmsd-om-2028/pages/p0142.md#¶48"
+    }
+   ],
+   "sectionIds": [
+    "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon"
+   ]
+  }
+ ]
+}

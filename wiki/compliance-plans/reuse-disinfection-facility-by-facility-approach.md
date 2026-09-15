@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.getting-disinfection-right-facility-by-facility
+section-order: 15
+section-path: 'Section 1 | Technical Approach › Operations Plan › REUSE WATER › Our Approach: Reliable Reuse, Every Delivery › Getting Disinfection Right — Facility by Facility'
+doc-order: 50
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Answers each named facility deficiency with a specific corrective action, and backs the new-technology risk with named plants where Jacobs already runs the same manufacturer's equipment — the credibility move that separates a plan from a promise.
 reuse-notes: Keep the structure — one bullet per facility gap, each tied to a measurable residual target — and the "we already operate this manufacturer's units at X and Y" proof. Substitute the reference plants (Pampa, Texas and Ontario, Oregon) with current Jacobs sites running the target equipment.

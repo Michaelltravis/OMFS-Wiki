@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.oklahoma-experience-and-resources
+section-order: 6
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › OKLAHOMA EXPERIENCE AND RESOURCES
+doc-order: 113
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest in-state credibility passage in this library — a 30-year continuously renewed in-state O&M contract, a current-year state association Plant of the Year award, a named IPP under the same state regulator, a second active in-state contract, and a decade of prior consulting work inside the client's own department, all stacked before the local-resource numbers land.
 reuse-notes: Every in-state proof point here is Oklahoma-specific; when reusing in another state, swap the whole evidence stack rather than the state name. The 44-years-of-service and 3,500-regional-professionals figures are region-scoped and must be recomputed for a new geography. The prior-consulting-relationship paragraph is the incumbent-displacement lever and only works where the firm genuinely has that history — do not carry it forward on faith.

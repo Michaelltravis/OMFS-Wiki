@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:31.2-current-context-and-partnership-framework
+section-order: 2
+section-path: IV. Approach Summary › IV.C. Computerized Maintenance Management System Approach › 2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK
+doc-order: 221
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR. Client was implementing a new CMMS with a vendor-led deployment running in parallel with contract start."
 quality: "A complete, role-by-role account of what the operator does during a vendor-led CMMS deployment and what it keeps doing for the ten-year operating life — governance committee, weekly vendor meetings, configuration SMEs, user acceptance, training, onsite administrators, and budget-cycle CIP mining."
 reuse-notes: "Update both phase date ranges and the CIP horizon (6-year here) to the target pursuit. Confirm the client's committee names (Steering Committee, Implementation Governance Committee) and the implementation-plan document title. Keep the onsite-system-administrator and audit-participation commitments — they are the transparency proof."

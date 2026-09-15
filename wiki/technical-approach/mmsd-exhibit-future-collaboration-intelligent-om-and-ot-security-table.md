@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:28.5-4-additional-improvements-and-innovations-for-future-savin
+section-order: 10
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.4 Additional Improvements and Innovations for Future Savings
+doc-order: 205
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The OT security rows are the strongest cost-avoidance argument in the section — a managed OT SOC that avoids $1.5M–$4M CAPEX plus $800K–$1.5M annual OPEX of building and staffing an in-house SOC, with typical clients seeing 20–40% cyber insurance premium reduction and payback in under 18 months. Closes the exhibit with the $21.3M–$53.55M total future savings range.
 reuse-notes: The managed OT SOC and IDS rows are the most portable content in the whole section and reuse cleanly at any utility — refresh the CAPEX/OPEX avoidance bands and the insurance-reduction figure with the current OT security practice numbers before reuse. AquaDNA de-ragger and smart-technology rows depend on a pump station network; the security camera rows assume a Genetec estate.

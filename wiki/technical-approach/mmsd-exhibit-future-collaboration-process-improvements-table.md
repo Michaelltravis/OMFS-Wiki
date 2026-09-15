@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:28.5-4-additional-improvements-and-innovations-for-future-savin
+section-order: 9
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.4 Additional Improvements and Innovations for Future Savings
+doc-order: 204
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Fourteen specific, engineer-grade process improvement ideas each with a savings range — aeration control at both plants ($4.5M–$9M), anaerobic digestion/MHP pilot with a 30–45% digestion improvement claim, landfill gas connection, sludge bulking control with selectors. Demonstrates depth of process thinking better than any narrative claim could, and several rows cite confirmed results at other Jacobs-operated plants (Wilmington, Green Bay).
 reuse-notes: These are anaerobic-digestion, thermal-drying, and landfill-gas ideas — reuse the row pattern (idea / what we will do / expected benefit / savings range) rather than the specific measures unless the pursuit has similar assets. Rows with non-dollar entries ("Health and Environmental Benefits", "Optimization of Process") show how to keep a good idea in the table when a number cannot be defended; keep that convention. Wilmington and Green Bay are other Jacobs-operated facilities and stay verbatim.

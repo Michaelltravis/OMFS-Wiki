@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:13.transition-phasing-and-timeline
+section-order: 5
+section-path: 'Section 3: Key Personnel › 3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS › TRANSPARENT COMMUNICATIONS › Transition Phasing and Timeline'
+doc-order: 90
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "A complete, task-level transition schedule (Exhibit 3-5) spanning contract negotiation through 12 months of long-term monitoring, with named task leads and specific start/completion dates for every activity — an unusually granular, ready-to-adapt schedule template rather than a high-level phase summary."
 reuse-notes: "Client name generalized to [CLIENT]. Task-lead role titles (Transition Manager, Regional Director of Operations, Regional Support Leads, Project Manager, Health and Safety Manager, Training Manager) are generic role titles in the source (not named individuals) and are kept as-is. All calendar dates are specific to this pursuit's Nov 2025 award / Jan 2026 commencement timeline — these are illustrative only and must be regenerated against the new pursuit's actual award and commencement dates."

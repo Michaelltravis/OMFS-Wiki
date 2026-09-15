@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:14.mechanical-and-i-c-support-at-other-city-facilities
+section-order: 4
+section-path: 'Section 4: Suggested Modificationsto the Scope of Work › MECHANICAL AND I&C SUPPORT AT OTHER CITY FACILITIES'
+doc-order: 95
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A compact, concrete value-add offering — a defined regional maintenance and I&C hours bank, a weekly on-site I&C day, and access to the firm's full IT/OT teams — aimed at clients that operate more facilities than the contract covers.
 reuse-notes: The 800-hour commitment and the one-day-a-week I&C cadence are scope commitments and travel well. The $78,144 year-one value is this pursuit's Schedule B figure — reprice it with the commercial lead for any new pursuit rather than carrying it forward.

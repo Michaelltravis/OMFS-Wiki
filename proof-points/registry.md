@@ -6,12 +6,12 @@ Sources: fulton-county-2025, hull-wwtf-om-2026, mmsd-om-2028, ocwut-16-26, santa
 
 | Metric | Count |
 | --- | ---: |
-| Raw claims swept | 3387 |
-| Proof-point IDs | 3070 |
+| Raw claims swept | 3437 |
+| Proof-point IDs | 3120 |
 | Conflicts to resolve | 84 |
 | Consistent (multi-observation) | 122 |
-| Single-source | 2864 |
-| Distinct blocks referenced | 604 |
+| Single-source | 2914 |
+| Distinct blocks referenced | 620 |
 
 `owner` is unassigned and `approved_for_external_use` is `pending` for every ID; both are for the proposal team to fill in.
 
@@ -21970,3 +21970,353 @@ Also conflicts with: PP-0827
 | Value | As of | Source | Page/Para | Block |
 | --- | --- | --- | --- | --- |
 | 6.95 million USD | unknown | mmsd-om-2028 | p144 ¶23 | `wiki/win-themes/mmsd-regional-partnership-engaged-partner-thames-tideway.md` |
+
+### PP-3072 — Jacobs University offers 225 online courses on business skills, computer desktop training, and IT topics available to O&M staff
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 225 online courses | 2025 | santamonica-swip-om-2025 | p41 ¶6 | `wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md` |
+
+### PP-3073 — OSHA 10-hour training is a standard all-staff training topic in the Jacobs O&M curriculum
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 10 hours (OSHA course) | 2025 | santamonica-swip-om-2025 | p41 ¶6 | `wiki/management-staffing/swip-standard-om-training-topics-by-role-table.md` |
+
+### PP-3074 — Jacobs' field-trained maintenance specialists have completed condition assessments for 1 million water and wastewater plant assets
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 1000000 water and wastewater plant assets condition-assessed | 2025-09 | santamonica-swip-om-2025 | p59 ¶3 | `wiki/technical-approach/swip-condition-assessment-risk-scoring.md` |
+
+### PP-3075 — A 5-minute video shows Jacobs' approach to condition assessment
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 5 minutes (condition assessment video) | 2025-09 | santamonica-swip-om-2025 | p59 ¶3 | `wiki/technical-approach/swip-condition-assessment-risk-scoring.md` |
+
+### PP-3076 — The enforcement and at-fault violation disclosure covers violations across more than 300 facilities operated by Jacobs
+*status:* single-source · *category:* qualifications
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 300 facilities operated | 2026 | ocwut-16-26 | p160 ¶2 | `wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md` |
+
+### PP-3077 — Enforcements and at-fault violation events disclosed cover the past 2 years where Jacobs or the client held the permit
+*status:* single-source · *category:* qualifications
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2 years lookback | 2026 | ocwut-16-26 | p160 ¶2 | `wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md` |
+
+### PP-3078 — Enforcement log discloses 34 enforcement actions across the 2-year lookback period
+*status:* single-source · *category:* qualifications
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 34 enforcement actions | 2026-04-15 | ocwut-16-26 | p160 ¶5 | `wiki/qualifications/ocwut-enforcements-disclosure-and-two-year-log.md` |
+
+### PP-3079 — At-fault violation events log discloses 30 at-fault events, each with root cause and corrective action
+*status:* single-source · *category:* qualifications
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 30 at-fault violation events | 2026-02-02 | ocwut-16-26 | p161 ¶4 | `wiki/qualifications/ocwut-at-fault-violation-events-log-part-1.md` |
+
+### PP-3080 — Discounted consulting rate structure lasts until the end of the O&M contract term
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 5 year contract term | 2025 | fulton-county-2025 | p32 ¶2 | `wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md` |
+
+### PP-3081 — Discounted consulting rate structure is escalated each fiscal year
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2 percent per fiscal year | 2025 | fulton-county-2025 | p32 ¶2 | `wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md` |
+
+### PP-3082 — Illustrative engineering services project value used to demonstrate the discount
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 500000 USD project value | 2025 | fulton-county-2025 | p32 ¶2 | `wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md` |
+
+### PP-3083 — Average savings to the client from applying the discounted consulting rate structure
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 7.4 percent average savings | 2025 | fulton-county-2025 | p32 ¶2 | `wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md` |
+
+### PP-3084 — Savings on a $500,000 engineering services project under the discounted rate structure
+*status:* single-source · *category:* technical-approach
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 37000 USD savings | 2025 | fulton-county-2025 | p32 ¶2 | `wiki/technical-approach/fulton-discounted-consulting-rate-value-add.md` |
+
+### PP-3085 — Integrating the Intelligent O&M planner/scheduler toolset into the base fee targets improving maintenance metrics by approximately 10 (unit symbol dropped in source text layer), reducing maintenance overtime and the Maintenance Manager's weekly planning effort
+*status:* single-source · *category:* win-themes
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 10 percent (as printed: "approximately 10—"; unit glyph missing in source) | 2025 | fulton-county-2025 | p35 ¶2 | `wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md` |
+
+### PP-3086 — The Intelligent O&M maintenance planner/scheduler toolset is typically worth over $100,000 per year for consulting clients in setup, annual licensing, and support fees, and is included at no additional cost to the client
+*status:* single-source · *category:* win-themes
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 100000 USD per year | 2025 | fulton-county-2025 | p35 ¶2 | `wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md` |
+
+### PP-3087 — The Maintenance AI Assistant module is worth over $100,000 per year or more when deployed for consulting clients, and is included in the base bid at no additional cost to the client
+*status:* single-source · *category:* win-themes
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 100000 USD per year | 2025 | fulton-county-2025 | p36 ¶2 | `wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md` |
+
+### PP-3088 — Jacobs operates more than 700 lift stations
+*status:* single-source · *category:* past-performance
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 700 lift stations | 2025 | fulton-county-2025 | p172 ¶1 | `wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md` |
+
+### PP-3089 — Jacobs operates lift stations at 75 plants
+*status:* single-source · *category:* past-performance
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 75 plants | 2025 | fulton-county-2025 | p172 ¶1 | `wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md` |
+
+### PP-3090 — Jacobs' operated lift stations include 2,490 pumps
+*status:* single-source · *category:* past-performance
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2490 pumps | 2025 | fulton-county-2025 | p172 ¶1 | `wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md` |
+
+### PP-3091 — Operated pumps range from 0.5 to 200 hp
+*status:* single-source · *category:* past-performance
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 0.5-200 hp | 2025 | fulton-county-2025 | p172 ¶1 | `wiki/past-performance/fulton-pump-station-fleet-scale-and-station-specific-maintenance.md` |
+
+### PP-3092 — At the first plant, the Plant Manager oversees operations staff day-to-day working eight-hour shifts, Monday through Friday
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 8 hours per shift, Mon-Fri | 2025 | fulton-county-2025 | p47 ¶5 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3093 — Two groups of day-shift operators at the first plant all work 12-hour shifts
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 12 hours per shift | 2025 | fulton-county-2025 | p47 ¶5 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3094 — A Main Lead Operator plus two Operators work a total of seven days across two weeks - three days in the first week and four in the next
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 7 days worked per two weeks (3 + 4) | 2025 | fulton-county-2025 | p47 ¶5 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3095 — A Secondary Lead Operator and two Operators cover the four days in the first week and the three days in the second week not covered by the Main Lead Operator group
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 7 days worked per two weeks (4 + 3) | 2025 | fulton-county-2025 | p47 ¶6 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3096 — The alternating day-shift rotation ensures three day-shift Operators onsite every day of the week
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 3 day-shift operators onsite, 7 days/week | 2025 | fulton-county-2025 | p47 ¶6 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3097 — Night shifts are covered by two groups, each consisting of one Lead Operator and one Operator, following the same two-week pattern as the day-shift groups
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2 night-shift groups of 1 Lead + 1 Operator | 2025 | fulton-county-2025 | p47 ¶6 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3098 — The night-shift rotation ensures two Operators are onsite every night shift of the week
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2 night-shift operators onsite, 7 nights/week | 2025 | fulton-county-2025 | p47 ¶6 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3099 — At the second plant, the Plant Manager oversees operations staff day-to-day working eight-hour shifts, Monday through Friday
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 8 hours per shift, Mon-Fri | 2025 | fulton-county-2025 | p47 ¶7 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3100 — Lead Operators and Operators at the second plant work 12-hour shifts on the same pattern as the first plant
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 12 hours per shift | 2025 | fulton-county-2025 | p47 ¶7 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3101 — The second plant's pattern meets the required minimum staffing of three Operators during day shifts and two Operators during night shifts every day of the week
+*status:* single-source · *category:* management-staffing
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 3 day / 2 night operators onsite per shift, 7 days/week | 2025 | fulton-county-2025 | p47 ¶7 | `wiki/management-staffing/fulton-plant-operator-shift-rotations.md` |
+
+### PP-3102 — Jacobs' leadership training program provided to appropriate management and administrative staff during transition onboarding runs 40 hours
+*status:* single-source · *category:* training-certification
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 40 hours | 2025 | fulton-county-2025 | p120 ¶11 | `wiki/management-staffing/fulton-transition-training-period-onboarding-curriculum.md` |
+
+### PP-3103 — JC Solutions committed to deliver a comprehensive transition within a 45-day period
+*status:* single-source · *category:* transition-management
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 45 days | 2025 | fulton-county-2025 | p120 ¶13 | `wiki/management-staffing/fulton-45-day-transition-confidence-and-phasing.md` |
+
+### PP-3104 — Focused 45-day transition plan beginning May 22nd, developed although the RFP did not specify a required transition duration
+*status:* single-source · *category:* transition-management
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 45 days | 2025 | fulton-county-2025 | p120 ¶14 | `wiki/management-staffing/fulton-45-day-transition-confidence-and-phasing.md` |
+
+### PP-3105 — Pre-start transition phase covering HR and administrative preparation runs 15 days prior to the formal transition
+*status:* single-source · *category:* transition-management
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 15 days | 2025 | fulton-county-2025 | p120 ¶17 | `wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md` |
+
+### PP-3106 — Initial transition phase, including shadowing of existing staff and the badge-flip process, runs 30 days starting July 1st
+*status:* single-source · *category:* transition-management
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 30 days | 2025 | fulton-county-2025 | p120 ¶21 | `wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md` |
+
+### PP-3107 — Jacobs' Resource Planning Group doubled the number of new Jacobs O&M employees over the past year while lowering turnover
+*status:* single-source · *category:* recruiting-retention
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2 x (doubled) new O&M hires year over year | 2025 | fulton-county-2025 | p121 ¶11 | `wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md` |
+
+### PP-3108 — Jacobs' at Ease military recruitment program gives transitioning service members, veterans, and spouses on-the-job experience over a 90-180 day period
+*status:* single-source · *category:* recruiting-retention
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 90-180 days | 2025 | fulton-county-2025 | p121 ¶15 | `wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md` |
+
+### PP-3109 — Jacobs provides promotions and cash bonuses up to $1,000 for employees who pass certifications or earn an advanced degree in a related field
+*status:* single-source · *category:* training-certification
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 1000 USD per employee (maximum bonus) | 2025 | fulton-county-2025 | p121 ¶17 | `wiki/management-staffing/fulton-long-term-staffing-and-succession-practices.md` |
+
+### PP-3110 — Future Leadership Development is an internal two-year training program in project manager fundamentals, management, and leadership skills
+*status:* single-source · *category:* workforce-development
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2 years | 2025 | fulton-county-2025 | p123 ¶3 | `wiki/management-staffing/fulton-train-to-retain-development-programs-table.md` |
+
+### PP-3111 — Jacobs' Global Future Talent Team comprises 20+ talent development staff managing graduate, intern, co-op, and apprentice strategies
+*status:* single-source · *category:* workforce-development
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 20 staff (20+) | 2025 | fulton-county-2025 | p123 ¶3 | `wiki/management-staffing/fulton-train-to-retain-development-programs-table.md` |
+
+### PP-3112 — The Project Manager Intern Program gives high-potential staff a three-month immersion on each of two different O&M project sites
+*status:* single-source · *category:* workforce-development
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 3 months per site (two sites) | 2025 | fulton-county-2025 | p123 ¶3 | `wiki/management-staffing/fulton-train-to-retain-development-programs-table.md` |
+
+### PP-3113 — The Project Manager Intern Program is a six-month endeavor spanning two O&M project sites
+*status:* single-source · *category:* workforce-development
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 6 months | 2025 | fulton-county-2025 | p123 ¶3 | `wiki/management-staffing/fulton-train-to-retain-development-programs-table.md` |
+
+### PP-3114 — The Leadership Team Mentor Program pairs a selected group of 35 staff with global leaders for a year-long program culminating in a capstone event
+*status:* single-source · *category:* workforce-development
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 35 staff per cohort | 2025 | fulton-county-2025 | p123 ¶3 | `wiki/management-staffing/fulton-train-to-retain-development-programs-table.md` |
+
+### PP-3115 — Waterbury WWTP design flow
+*status:* single-source · *category:* capacity
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 27 MGD | 2026 | hull-wwtf-om-2026 | p76 ¶7 | `wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md` |
+
+### PP-3116 — Waterbury WWTP wet weather flow
+*status:* single-source · *category:* capacity
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| <54 MGD | 2026 | hull-wwtf-om-2026 | p76 ¶7 | `wiki/past-performance/hull-waterbury-treatment-process-and-community-involvement.md` |
+
+### PP-3117 — Waterbury: year the Jacobs partnership began, as stated by the owner
+*status:* single-source · *category:* schedule
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 2018 year | 2018 | hull-wwtf-om-2026 | p76 ¶17 | `wiki/past-performance/hull-waterbury-owner-testimonial.md` |
+
+### PP-3118 — Proposed default provision: failure to operate the wastewater facility in accordance with Applicable Law for more than ten cumulative days in any Contract Year constitutes persistent and repeated failure or refusal
+*status:* single-source · *category:* contract-terms
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 10 cumulative days per Contract Year | 2026 | hull-wwtf-om-2026 | p103 ¶2 | `wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md` |
+
+### PP-3119 — Proposed default provision carve-out where the client fails to approve Maintenance and Repair expenditures in excess of $3,000
+*status:* single-source · *category:* contract-terms
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 3000 USD maintenance and repair approval threshold | 2026 | hull-wwtf-om-2026 | p103 ¶2 | `wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md` |
+
+### PP-3120 — Proposed term: initial term of ten years from the Commencement Date
+*status:* single-source · *category:* contract-terms
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 10 years initial term | 2026 | hull-wwtf-om-2026 | p103 ¶2 | `wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md` |
+
+### PP-3121 — Proposed term: client right to extend for an additional five one-year periods, by mutual agreement and if authorized by Town Meeting
+*status:* single-source · *category:* contract-terms
+
+| Value | As of | Source | Page/Para | Block |
+| --- | --- | --- | --- | --- |
+| 5 one-year extension periods | 2026 | hull-wwtf-om-2026 | p103 ¶2 | `wiki/qualifications/hull-contract-exceptions-insurance-default-and-term.md` |

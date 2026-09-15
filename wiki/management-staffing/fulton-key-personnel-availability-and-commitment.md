@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:17.key-personnel-and-plan-for-commitment
+section-order: 1
+section-path: Section 6 | Availability of Key Staff › KEY PERSONNEL AND PLAN FOR COMMITMENT
+doc-order: 162
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Complete source roster tying each proposed key person to time commitment and current workload.
 reuse-notes: Verify every assignment, availability percentage, workload, certification, and client approval before reuse. Personnel names are source-preserved; facility titles are sanitized.

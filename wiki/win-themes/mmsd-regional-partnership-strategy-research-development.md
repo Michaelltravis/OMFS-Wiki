@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:35.support-business-case-development-p142
+section-order: 8
+section-path: V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS › Support Business Case Development
+doc-order: 242
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Offers money and staff, not enthusiasm — funding common staff or lab equipment, writing grant applications on the client's behalf, and building a business plan so the client's new research center stays financially sustainable, with a named precedent (the Nevada Water Innovation Institute) for that exact deliverable.
 reuse-notes: This strategy only works where the client has its own research facility or ambition; otherwise recast the funding and grant-writing offers around the client's innovation program. Verify that the equipment-funding and joint-research commitments are priced and approved before restating them.

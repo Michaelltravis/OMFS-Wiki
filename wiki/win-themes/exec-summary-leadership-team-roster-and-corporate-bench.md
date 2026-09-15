@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:02.your-leadership-team
+section-order: 3
+section-path: Executive Summary of Technical Approach › YOUR LEADERSHIP TEAM
+doc-order: 8
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A two-column leadership table whose second column is not a bio but an answer to "why this matters to you" — every named leader is justified by a specific tie to the client's system, and the paragraph beneath converts the off-site corporate bench into a named, no-extra-cost resource rather than an org-chart abstraction.
 reuse-notes: Names, roles, and the personal ties in column two are pursuit-specific and must be re-verified with each named individual before reuse. The "all included in our base fee" commitment is a real commercial promise — confirm the pricing basis supports it before repeating it. Keep the table to six leaders or fewer; the device loses force when it becomes a full org chart.

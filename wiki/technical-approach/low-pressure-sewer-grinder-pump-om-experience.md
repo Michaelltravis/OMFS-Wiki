@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:03.experience-with-low-pressure-sewer-systems
+section-order: 7
+section-path: Section 3 - Firm Qualifications and Experience › TECHNICAL QUALIFICATIONS › EXPERIENCE WITH LOW-PRESSURE SEWER SYSTEMS
+doc-order: 18
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement; client system includes approximately 175 grinder pumps and associated low-pressure piping
 quality: 'A genuine niche-experience differentiator — most O&M competitors lead with gravity-collection experience only. The block names the specific technical considerations of low-pressure systems rather than asserting familiarity, then backs the claim twice: an unprompted out-of-scope evaluation for an existing client, and the proposed project manager''s hands-on dual-pressure system experience with a countable installed base.'
 reuse-notes: Use only where the pursuit's collection system genuinely includes grinder pumps, STEP units, or other low-pressure infrastructure. Swap the client-system descriptor (approximately 175 grinder pumps) for the new system's actual configuration, and re-confirm the named project manager and the Northport–Leelanau grinder-pump count with the account team; if a different individual is proposed, the dual-pressure claim must move or be dropped. The Westerly out-of-scope evaluation is real and current — confirm it is still authorized for reference use.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:06.phase-by-phase-cip-support
+section-order: 20
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › CIP Project Implementation and Construction Coordination › Phase-by-Phase CIP Support
+doc-order: 106
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A three-column phase / activities / why-this-matters table that carries the benefit argument in the table itself rather than in surrounding prose — the strongest reusable device in this section for any pursuit where the operator must support an active CIP.
 reuse-notes: The phase names (Preliminary Report 35%, Interim Plan 60%, Final Plan 100%, Bid Services, Construction, Startup, Operate & Maintain) follow this contract's Schedule 16 nomenclature — re-map them to the target contract's design milestones. The "why this matters" column is the part to preserve; rewrite the activities column against the target scope. MOPO, Sequence of Construction, the 2-year maintenance bond, and the CMMS platform name are all contract-specific terms.

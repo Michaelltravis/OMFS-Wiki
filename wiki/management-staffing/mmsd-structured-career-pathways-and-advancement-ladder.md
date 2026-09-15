@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:17.1-1-structured-career-pathways-promote-advancement-opportuni
+section-order: 2
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.1. Structured Career Pathways Promote Advancement Opportunities
+doc-order: 48
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The advancement ladder makes an abstract promise concrete — four named levels with the competencies that define each and certification requirements attached — and the surrounding prose ties the ladder to retention, institutional knowledge, and regulatory readiness, which is what the client is actually buying.
 reuse-notes: Replace the named academic partners with institutions near the pursuit's facilities. Confirm that the four ladder levels match the client's own job classifications and state licensing grades; if the client is unionized, the ladder must be consistent with the bargaining agreement's classification structure before it is proposed.

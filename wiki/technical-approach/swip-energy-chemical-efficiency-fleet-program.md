@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.energy-optimization
+section-order: 15
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY › Energy Optimization'
+doc-order: 43
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Pairs a sustainability commitment (two hybrid vehicles, greenhouse-gas reduction) with two hard, quantified proof points from named Jacobs-operated California potable-reuse facilities - more than 10 percent energy reduction at Soquel Creek and a 35 percent reduction in RO CIP frequency at Pure Water Monterey - converting an efficiency claim into verifiable evidence.
 reuse-notes: The energy and chemical efficiency methodologies are generic and reusable for any advanced treatment facility. Soquel Creek and Pure Water Monterey are real, named Jacobs facilities - confirm currency and permission to reference, and never reattribute those results to a different facility. Tailor the hybrid-vehicle count to the pursuit's actual proposed fleet.

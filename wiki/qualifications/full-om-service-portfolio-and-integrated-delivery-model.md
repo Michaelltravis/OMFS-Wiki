@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.jacobs-experience-providing-full-o-m-services-for-water-and
+section-order: 5
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › JACOBS’ EXPERIENCE PROVIDING FULL O&M SERVICES FOR WATER AND WASTEWATER TREATMENT FACILITIES
+doc-order: 112
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The large-plant roster with capacities in one bolded sentence — Jackson, Baltimore, Seattle, San Diego, Tucson, Baton Rouge, Wilmington — followed by a closing paragraph that maps the client's own operating profile onto that portfolio rather than leaving the evaluator to make the connection.
 reuse-notes: "The plant list and capacities are the load-bearing content and must be re-verified against active contracts before reuse (plants leave the portfolio). The final paragraph is a template: state the client's operating profile in their own terms — number of plants, process type, ancillary programs, active CIP — and close with the \"mirrors the kind of complexity we manage\" claim. Re-pick the named plants so the list skews toward the new client's size band."

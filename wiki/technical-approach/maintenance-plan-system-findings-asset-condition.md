@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:06.what-we-found-across-the-system
+section-order: 1
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › What We Found Across the System
+doc-order: 87
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest incumbent-displacement device in the maintenance section — an evidence-based, four-theme diagnosis drawn from site visits and operating data that names specific failure chains (grit downtime to clarifier bypass to aeration wear), prices a preventable failure ($200,000), credits what the incumbent got right (parts inventory), and sets up every downstream element of the plan.
 reuse-notes: The four-theme structure (pervasive degradation driver, reactive-mode evidence, one genuine strength to build on, upcoming CIP that reshapes the landscape) is universal and transfers to any incumbent-displacement maintenance section. Facility names, H2S observations, the $200,000 bar screen figure, and the CIP dates/capacities are pursuit-specific and must be replaced with the target system's own due diligence findings. Pair with the facility priorities table and the corrective maintenance block, which reuse the same grit-cascade failure chain.

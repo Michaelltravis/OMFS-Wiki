@@ -22,6 +22,10 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:32.bixby-water-reclamation-facility-and-lift-stations-o-m
+section-order: 3
+section-path: Section 7 | Projects and References › RELEVANT PROJECT EXPERIENCE › Bixby Water Reclamation Facility and Lift Stations O&M
+doc-order: 214
 context: "Verbatim Oklahoma municipal wastewater O&M reference."
 quality: "Source-faithful maintenance, results, and partnership continuation for the Bixby project."
 reuse-notes: "Past-performance content is verbatim and client-exempt. Confirm operational outcomes before external use."

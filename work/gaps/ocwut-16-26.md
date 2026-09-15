@@ -1,0 +1,165 @@
+# Uncovered paragraphs — ocwut-16-26
+
+substantive 1000 · covered 951 · partial 22 · uncovered 0 · writer-skipped 27 (thresholds: uncovered < 0.2, partial < 0.5; min words 25; blocks 230)
+
+skipped: caption 58, heading 517, picture-text 177, recovered-tail 94, repeating 180, short 542
+
+## Cover Letter — uncovered 0, partial 0
+
+- p0004¶2 · writer-skipped 0% · 28 w · prose · writer: form-boilerplate — May 6, 2026 Tasha DeWitt, Management Specialist – Procurement Services Oklahoma City…
+- p0005¶9 · writer-skipped 2% · 241 w · prose · best `wiki/management-staffing/ocwut-management-structure-and-team-familiarity.md` (2%) · writer: duplicate-of:wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md — 2011 2019 • Phased Security & 2025 2009 Business Process Response Planning…
+
+## INNOVATIONS & RECOMMENDED ALTERNATIVES — uncovered 0, partial 1
+
+- p0010¶11 · partial 41% · 92 w · table · best `wiki/win-themes/exec-summary-innovation-benefit-table.md` (41%) — |Alternative EscalationIndex Methodology|An estimated $620,000 in Base Fee savings over the firstcontract…
+
+## JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT — uncovered 0, partial 3
+
+- p0013¶2 · partial 34% · 34 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-regulatory-compliance-reuse-matrix.md` (34%) — Meet reuse quality/quantity Reuse customers depend on consistent effluent quality requirements for…
+- p0013¶3 · partial 48% · 86 w · prose · best `wiki/technical-approach/ocwut-exhibit-1-1-odor-control-community-protection-matrix.md` (48%) — Minimize odors and meet Odor NC: Headworks access is currently limited by…
+- p0016¶2 · partial 48% · 459 w · table · best `wiki/technical-approach/ocwut-exhibit-1-1-staffing-performance-transition-matrix.md` (48%) — |Staffing Stability and Workforce D|evelopment|| |---|---|---| |Staff all facilities per Schedule10, including…
+
+## INNOVATION & 5 BEST PRACTICES — uncovered 0, partial 0
+
+- p0019¶35 · writer-skipped 11% · 129 w · prose · best `wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md` (11%) · writer: exhibit-internal (critical-success-factor graphic with three columns interleaved; prose is in wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md) — & PERFORMANCEEMPOWERMENT 3 4 5 BEST PRACTICES ASSET PROTECTION Our people drive…
+
+## QA/QC Plan Development and Internal Audit Program — uncovered 0, partial 1
+
+- p0021¶6 · partial 21% · 26 w · prose · best `wiki/management-staffing/ocwut-qaqc-program-oversight-and-annual-quality-audit.md` (21%) — - STEP 1 • Audit team sends information request to Project Manager…
+
+## Community Engagement — uncovered 0, partial 1
+
+- p0025¶6 · partial 46% · 29 w · prose · best `wiki/management-staffing/ocwut-community-engagement-program-and-local-involvement.md` (46%) — - Championing environmental stewardship.We’ll join local environmental cleanup and stewardship efforts that…
+
+## PROCESS CONTROL STRATEGY — uncovered 0, partial 1
+
+- p0027¶4 · partial 46% · 378 w · table · best `wiki/technical-approach/facility-process-control-priority-matrix.md` (46%) — ||WHAT WE FOUND|WHAT WE’LL DO| |---|---|---| |TP|Poor air distribution across aeration basins;…
+
+## Three Customers, Three Facilities, One Standard — uncovered 0, partial 1
+
+- p0034¶14 · partial 20% · 115 w · table · best `wiki/compliance-plans/reuse-disinfection-challenge-comparison-table.md` (20%) — ||NORTH CANADIANOG&E RED BUD|DEER CREEKGAILLARDIA GOLF CLUB|SOUTH CANADIANOG&E MCCLAIN| |---|---|---|---| |CURRENT|Disinfection relies…
+
+## Getting Disinfection Right — Facility by Facility — uncovered 0, partial 1
+
+- p0035¶16 · partial 41% · 30 w · prose · best `wiki/compliance-plans/reuse-portfolio-proof-exhibit-callouts.md` (41%) — - • 20+ years of continuous compliance on the SoFi Stadium, and…
+
+## Operational Continuity and Contingencies So Reuse Stays Online — uncovered 0, partial 1
+
+- p0036¶1 · partial 39% · 94 w · prose · best `wiki/compliance-plans/regulatory-compliance-program-leadership-and-governance.md` (39%) — The QA/QC manager, reporting directly to the project manager as required by…
+
+## Process Control System Phased Performance Improvement Plan — uncovered 0, partial 1
+
+- p0045¶12 · partial 20% · 107 w · prose · best `wiki/technical-approach/ocwut-on-site-ic-and-regional-ot-support-team.md` (20%) — MAYO MILLER YASH TANNA O&M OT/ SCADA/OT CYBERSECURITY SME ENGINEERING SME Mayo…
+
+## OCWUT-MANAGED — uncovered 0, partial 0
+
+- p0046¶8 · writer-skipped 0% · 74 w · prose · writer: exhibit-internal — WONDERWARE/AVEVA SOFTWARE PLC PROGRAMMING & CODING FIREWALLS & ACCESS CONTROLS FIELD INSTRUMENTATION,…
+
+## Rapid, Structured Response When It Matters Most — uncovered 0, partial 0
+
+- p0050¶9 · writer-skipped 14% · 53 w · prose · best `wiki/compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md` (14%) · writer: duplicate-of:wiki/compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md — We’ll prioritize JACOBS EMERGENCY REPORTING HOTLINE the safety of staff and the…
+
+## Collaboration on Opportunities for Phased Energy Optimization — uncovered 0, partial 1
+
+- p0053¶22 · partial 45% · 27 w · prose · best `wiki/technical-approach/phased-no-cost-low-cost-energy-optimization-opportunities.md` (45%) — µAeration system optimization— focusing on air delivery, distribution, and control strategies to…
+
+## Facility-by-Facility Maintenance Priorities — uncovered 0, partial 1
+
+- p0058¶5 · partial 37% · 270 w · table · best `wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md` (37%) — |NorthCanadianWWTP|Severe H₂S preventing PM access, chronic grit failurescascading to primaries and aeration,…
+
+## Asset Management Plans (AMPs) — uncovered 0, partial 0
+
+- p0059¶19 · writer-skipped 13% · 30 w · prose · best `wiki/technical-approach/asset-management-system-iso-55001-samp-governance.md` (13%) · writer: exhibit-internal — - Provides approach to managing  Outlines long-term plan for the assets…
+
+## Section 3 | Experience and Qualifications of the Firm and Management Team — uncovered 0, partial 0
+
+- p0073¶5 · writer-skipped 17% · 129 w · prose · best `wiki/qualifications/corporate-fact-box-and-employer-culture.md` (17%) · writer: duplicate-of:wiki/qualifications/corporate-fact-box-and-employer-culture.md — More than 98% of our Technical Facilities, Cybersecurity work is repeat business.…
+
+## PUMP STATIONS — uncovered 0, partial 0
+
+- p0080¶10 · writer-skipped 3% · 157 w · table · best `wiki/qualifications/pump-station-om-experience-and-portfolio-table.md` (3%) · writer: duplicate-of:wiki/qualifications/pump-station-om-experience-and-portfolio-table.md — |Our team has extensiveexperience maintaining complexwastewater and potable wateri k lik h|Treatment…
+- p0080¶16 · writer-skipped 0% · 27 w · prose · writer: duplicate-of:wiki/qualifications/contract-compliance-record-and-audit-program.md — 6+ YEARS 0 Kansas Water Environment DEFICIENCIES Association Without a Recordable Deficiencies…
+
+## EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM — uncovered 0, partial 0
+
+- p0081¶7 · writer-skipped 8% · 28 w · prose · best `wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md` (8%) · writer: duplicate-of:wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md — Independent oversight between Your single point of accountability. OCWUT and the PM,…
+- p0081¶9 · writer-skipped 0% · 153 w · prose · writer: duplicate-of:wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md — KEVIN DAHL, RICK WARNER, LUKE LENARD, RYAN JACOB CMRT, CRL PE, WEF…
+
+## CORPORATE SUPPORT TEAM — uncovered 0, partial 1
+
+- p0087¶15 · partial 48% · 78 w · prose · best `wiki/management-staffing/ocwut-corporate-support-team-profiles.md` (48%) — - Education: BS, Biology maintenance coordination, and capital work alongside daily plant…
+
+## OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST — uncovered 0, partial 0
+
+- p0088¶11 · writer-skipped 9% · 69 w · prose · best `wiki/management-staffing/ocwut-offsite-sme-support-resources.md` (9%) · writer: duplicate-of:wiki/management-staffing/ocwut-offsite-sme-support-resources.md — ASSET MANAGEMENT/CMMS INTELLIGENT O&M Graham Knowles John Rickermann, PE, CMRT REGIONAL MAINTENANCE…
+- p0088¶12 · writer-skipped 3% · 79 w · prose · best `wiki/management-staffing/ocwut-offsite-sme-support-resources.md` (3%) · writer: duplicate-of:wiki/management-staffing/ocwut-offsite-sme-support-resources.md — CMMS/NEXGEN COMMISSIONING Janeane Giarrusso, IA M Ashley Currey, PE BIOSOLIDS CAPITAL PROJECTS…
+
+## Durham, Tim — uncovered 0, partial 1
+
+- p0105¶3 · partial 45% · 34 w · prose · best `wiki/resumes/tim-durham.md` (45%) — - ☑ Deep wastewater operations and utility leadership experience. Tim brings 31…
+
+## Organization Structure and Leadership Team — uncovered 0, partial 1
+
+- p0129¶3 · partial 28% · 296 w · table · best `wiki/management-staffing/ocwut-key-personnel-requirements-matrix-table.md` (28%) — |Project DirectorSteve Carpenter|Executive oversight; direct access to Jacobs corporateresources; rapid obstacle removal…
+- p0130¶1 · writer-skipped 17% · 283 w · prose · best `wiki/management-staffing/ocwut-organization-chart-and-reporting-structure.md` (15%) · writer: duplicate-of:wiki/management-staffing/ocwut-organization-chart-and-reporting-structure.md — LEAD OPERATOR 1 FTE EQUIPMENT OPERATORS 2 FTE CDL DRIVERS 8 FTE…
+
+## Fewer Managers, More Doers — uncovered 0, partial 1
+
+- p0131¶8 · partial 47% · 64 w · table · best `wiki/management-staffing/ocwut-staffing-model-fewer-managers-more-doers.md` (47%) — |Salaried(Management)|19 FTE|13 FTE|Leaner leadership layer with six fewermid-level and above managers for…
+
+## Preventing Vacancies: Train to Retain — uncovered 0, partial 1
+
+- p0133¶15 · partial 27% · 26 w · prose · best `wiki/management-staffing/ocwut-vacancy-management-retention-and-staffing-resiliency.md` (27%) — - Certification incentives that cover exam fees and preparation costs and provide…
+- p0133¶20 · writer-skipped 0% · 27 w · prose · writer: duplicate-of:wiki/management-staffing/ocwut-vacancy-management-retention-and-staffing-resiliency.md — - Internal mobility including offering open positions first to qualified Jacobs O&M…
+
+## Cross-Training Program — uncovered 0, partial 0
+
+- p0134¶22 · writer-skipped 4% · 27 w · prose · best `wiki/management-staffing/ocwut-individualized-training-program-and-cross-training.md` (4%) · writer: duplicate-of:wiki/management-staffing/ocwut-individualized-training-program-and-cross-training.md — - Facility familiarizationacross North Canadian, Deer Creek, Chisholm Creek, and South Canadian…
+
+## Licensing, Certification, & Professional Development — uncovered 0, partial 0
+
+- p0135¶10 · writer-skipped 18% · 56 w · prose · best `wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md` (18%) · writer: duplicate-of:wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md — - Covering the cost of training, preparation, and exam fees - Potential…
+
+## Regional & SME Support — uncovered 0, partial 0
+
+- p0135¶17 · writer-skipped 15% · 88 w · prose · best `wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md` (15%) · writer: duplicate-of:wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md — - Regional operations support able to deploy on short notice for temporary…
+
+## Risk Management and Continuity of Operations — uncovered 0, partial 1
+
+- p0143¶7 · partial 39% · 239 w · table · best `wiki/compliance-plans/cip-integration-risk-and-continuity-controls.md` (39%) — ||Process disruption during tie-ins andsystem cutover|All CIP projects|MOPO planning developed jointly with…
+
+## Structured, Phased Transition with Clear Accountability — uncovered 0, partial 1
+
+- p0146¶7 · partial 35% · 46 w · prose · best `wiki/technical-approach/ocwut-transition-milestone-framework-and-checklist-exhibit.md` (26%) — - PRE-START ACTIVITIES — AWARD, AUG 18, 2026 - Activate Transition Leadership…
+
+## Risk-Based Transition Management — uncovered 0, partial 1
+
+- p0147¶3 · partial 34% · 371 w · table · best `wiki/technical-approach/ocwut-risk-based-transition-management.md` (34%) — |StaffingContinuity|Loss of institutional knowledge,certification gaps, orinsufficient coverage|Offer positions to qualified incumbent personnel,…
+
+## Workforce Transition, Staffing Readiness, and Retention — uncovered 0, partial 0
+
+- p0148¶3 · writer-skipped 0% · 33 w · prose · writer: continuation-of:wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md — That approach has measurable results. As shown in Exhibit 5-14 , employees…
+
+## Continuity, Compliance, and Long-Term Partnership — uncovered 0, partial 0
+
+- p0151¶8 · writer-skipped 15% · 139 w · table · best `wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md` (15%) · writer: duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md — |Proposed Oklahoma City|TASK|START|COMPLETION|AUG 2026|SEP 2026|OCT 2026|NOV 2026|DEC 2026|JAN 2027|FEB 2027| |---|---|---|---|---|---|---|---|---|---|---| |Transition…
+- p0153¶1 · writer-skipped 18% · 175 w · table · best `wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md` (18%) · writer: duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md — |Proposed Oklahoma CityTransition Work Plan|TASKLEAD|STARTDATE|COMPLETIONDATE|AUG 20261234|SEP 20261234|OCT 2026NOV 2026DEC 2026123412341234|JAN 20271234|FEB 20271234|…
+- p0154¶1 · writer-skipped 13% · 181 w · table · best `wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md` (13%) · writer: duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md — |Proposed Oklahoma CityTransition Work Plan|TASKLEAD|STARTDATE|COMPLETIONDATE|AUG 2026SEP 2026OCT 2026123412341234|NOV 20261234|DEC 20261234|JAN 20271234|FEB 20271234|…
+- p0155¶1 · writer-skipped 0% · 93 w · table · writer: continuation-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md — |Proposed Oklahoma City|TASK|START|COMPLETION|AUG 2026|SEP 2026|OCT 2026NOV 2026|DEC 2026JAN 2027|FEB 2027| |---|---|---|---|---|---|---|---|---| |������������������������������������������������������������������and…
+
+## Bixby Water Reclamation Facility and Lift Stations O&M — uncovered 0, partial 0
+
+- p0165¶21 · writer-skipped 15% · 82 w · prose · best `wiki/past-performance/project-bixby-wrf-lift-stations-om.md` (11%) · writer: duplicate-of:wiki/past-performance/project-bixby-wrf-lift-stations-om.md — 2.8 MGD (ultimate design: 5.0 MGD); 18 lift stations ###### OWNER INFORMATION…
+
+## Jackson Public Drinking Water and Wastewater Facilities O&M — uncovered 0, partial 1
+
+- p0167¶9 · partial 45% · 157 w · prose · best `wiki/past-performance/project-jackson-jxn-water-om.md` (45%) — Using our One Jacobs model, we deploy specialists across water treatment, infrastructure…
+
+## Additional Ideas for Discounted Engineering — uncovered 0, partial 0
+
+- p0179¶12 · writer-skipped 0% · 50 w · table · writer: commercial — Exhibit 8-1 is a fee/rate table (multiplier, average raw rate, billable rate, projected budget per work category). CLAUDE.md sanitization rule 2 removes commercial pricing (fee tables, rates) from the wiki, so the table cannot be carried into a reusable block. The existing block wiki/win-themes/discounted-engineering-savings-example-table.md already records this exclusion for the same verbatim-ref (p0179 ¶10, ¶12). — |EXAMPLESWORK DESCRIPTION|MULTIPLIER|AVERAGERAW RATE|BILLABLERATE|PROJECTEDWORK HOURS|PROJECTEDBUDGET|%SAVINGS|$SAVED| |---|---|---|---|---|---|---|---| |CIP Desin|2.6|$65.00|$169.00|2750|$464,750.00|13%|$71,500.00| |g|3|$65.00|$195.00|2750|$536,250.00||| |Wastewater Studies, AM Data…
+
+## Statutory Clauses — uncovered 0, partial 0
+
+- p0182¶2 · writer-skipped 0% · 35 w · prose · writer: form-boilerplate — The following provisions are required and apply when public funds are expended…
+- p0183¶2 · writer-skipped 0% · 36 w · prose · writer: form-boilerplate — Note: An authorized officer or agent of the Services Provider must sign…

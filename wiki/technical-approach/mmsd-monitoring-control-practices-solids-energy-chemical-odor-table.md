@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.odor-control
+section-order: 7
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL
+doc-order: 107
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'Concrete, operator-level control strategies for the four cost-and-complaint drivers: solids/pellet production, energy, chemicals, and odor. Carries a hard operating target (blended sludge total solids above 3.25%) and a demand-charge and energy-purchasing angle that most competitors do not address.'
 reuse-notes: Retain rows only for processes the pursuit actually has (thermal drying, turbines, digester gas, carbon scrubbers); the 3.25% blended sludge total solids target is specific to this facility's dewatering and drying train and must be re-derived for another plant.

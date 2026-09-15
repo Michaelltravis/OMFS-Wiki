@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik
+section-order: 10
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › WRF Operations Manager – Aleksey Reznik
+doc-order: 64
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Operator-to-operations-manager career at a 168-MGD facility, with state certification reciprocity already filed before award — the strongest available answer to "will your operations manager be licensed here on day one?"
 reuse-notes: The certification reciprocity line is dated and must be restated with the current filing date and state, or removed. The Wilmington progression is the reusable proof of an internal career ladder.

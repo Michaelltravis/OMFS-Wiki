@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:06.continuous-improvement-and-performance-reporting
+section-order: 17
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Continuous Improvement and Performance Reporting
+doc-order: 103
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A clean Year 1 / Years 2–3 / Years 4+ maturity arc for a maintenance program, with the regional-support taper written into the middle phase and a reporting cadence (monthly, quarterly, annual audit) that closes the loop. Strong incumbent-displacement framing because Year 1 starts with a deferred-maintenance backlog.
 reuse-notes: Re-anchor Year 1 to whatever baseline the target facilities actually present (backlog, missing asset register, no PdM) and re-cite the KPI schedule; the phase names, the PdM cost-benefit gate, the quarterly PMO checkpoints, and the annual portfolio benchmarking commitment are portable.

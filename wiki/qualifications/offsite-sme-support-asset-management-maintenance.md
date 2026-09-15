@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.oklahoma-city-the-oklahoma-city-water-utilities-trust
+section-order: 25
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST
+doc-order: 132
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Compact off-site SME table that converts corporate bench depth into named, credentialed people with explicit "what they will do for you" bullets — the standard way this pursuit answered off-site support requirements without adding priced FTEs.
 reuse-notes: Swap in the SMEs actually committed to the pursuit and re-verify years of experience, licenses, and certifications at proposal time. The fourth bullet under each name is the pursuit-specific hook and must be rewritten for the new client's assets and pain points.

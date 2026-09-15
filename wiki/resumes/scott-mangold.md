@@ -22,6 +22,10 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 win-theme-map: [transition-continuity, incumbent-displacement, energy-chemical-efficiency, regional-bench]
+section-id: hull-wwtf-om-2026:12.why-scott
+section-order: 5
+section-path: 'Section 7 - Appendix A - Resumes › PROFESSIONAL BACKGROUND µ Total Experience: 31 years EDUCATION › WHY SCOTT?'
+doc-order: 70
 context: Proposed as Regional Operations Manager. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Regional Operations Manager; direct-parallel Southbridge, MA transition experience (same engagement as the Project Manager and Assistant Project Manager resumes) plus a broad multi-site transition ("badge flip") track record and named contact info from the cover letter.
 reuse-notes: "VERBATIM — real name, contact info, and license/certification info. Before reuse on a new pursuit: (1) confirm Scott Mangold is still employed by Jacobs and still holds this role/title; (2) verify CRL, US Compost Council, CompTIA A+, RI Class I WWTP license, and MWEA/NCAWWA-NCWEA training certifications are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit; (4) reconfirm phone/email from the cover letter are still his current contact details."

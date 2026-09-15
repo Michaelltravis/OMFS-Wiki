@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.laboratory-management-and-sampling-plan
+section-order: 23
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › LABORATORY MANAGEMENT AND SAMPLING PLAN'
+doc-order: 51
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Detailed, defensible lab-management framework (startup, QA/QC audits, HACH WIMS document control, training, compliance tools) plus a written benefits statement — directly answers typical RFP laboratory/sampling requirements.
 reuse-notes: Software names (HACH WIMS, QC-Stats) and permit types (Title 22) are reusable as concrete proof of tooling; confirm current tool names before reuse. Confirm whether the target facility runs a fully certified in-house lab or, as here, in-house process control plus a client-held third-party certified lab for regulatory analyses — the framing changes accordingly.

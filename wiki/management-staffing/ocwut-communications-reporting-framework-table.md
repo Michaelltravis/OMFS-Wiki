@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:04.structured-communication-and-reporting-framework
+section-order: 9
+section-path: Section 1 | Technical Approach › Management Plan › 6 NEIGHBOR & COMMUNITY CARE › STRUCTURED REPORTING AGAINST SCHEDULE 5 METRICS › Reporting and Communication › Structured Communication and Reporting Framework
+doc-order: 31
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The complete daily-through-annual reporting calendar in one table, with an owner named for every deliverable and a star marking the two commitments that exceed the RFP. It makes transparency auditable instead of rhetorical, and it is the cleanest template in the library for building a reporting-commitment exhibit from a client's schedules.
 reuse-notes: Rebuild every row from the pursuit's own schedules — the frequencies here are contract-specific (12-hour fence-line H2S readings, DMR delivered 3 business days early, October 1 annual due dates). Keep the ★ convention only for commitments the team will actually honor at no cost, and re-check owner roles against the proposed org chart.

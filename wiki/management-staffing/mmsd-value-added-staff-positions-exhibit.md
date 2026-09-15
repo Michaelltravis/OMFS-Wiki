@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:10.1-1-leadership-team
+section-order: 4
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions › 1. ORGANIZATIONAL STRUCTURE › 1.1. Leadership Team
+doc-order: 19
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The full FTE roster organized into seven functional groups, each closing with a "Benefit to [CLIENT]" statement that converts headcount into outcomes — a 90-day fill commitment, 85% PM/15% CM completion, one accountable maintenance-and-asset-management leader, an SME bench named person by person. This is the exhibit that proves a challenger bid is not just meeting minimum staffing but beating it.
 reuse-notes: FTE counts, names, and the SME bench are pursuit-specific and must be rebuilt from the new staffing plan; the seven-group architecture and the benefit statement per group are the reusable part. The asterisk convention marks as-needed support rather than dedicated FTEs — keep it, since evaluators score dedicated versus shared staff differently. Graphic asset ID 281_007CAM_10; client-specific, re-brand before reuse.

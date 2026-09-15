@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.pump-stations
+section-order: 15
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › PUMP STATIONS
+doc-order: 122
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A 15-client roster with pump station counts alongside a single hard portfolio number — more than 700 pump stations at 75 plants, including 2,490 pumps — and a manufacturer/horsepower range that shows breadth without listing projects one by one.
 reuse-notes: Re-verify the portfolio totals and the client roster against current contracts; counts change with contract wins and losses. The manufacturer list ("from ABBA to Zoeller") is a rhetorical device rather than a complete inventory. Subset the roster to clients in the new pursuit's size band and region so the table reads as comparable rather than exhaustive.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+section-id: ocwut-16-26:05.fence-line-performance-and-compliance
+section-order: 29
+section-path: Section 1 | Technical Approach › Operations Plan › ODOR CONTROL STRATEGY › Fence-Line Performance and Compliance
+doc-order: 64
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Converts odor from a qualitative promise into contract-measurable performance — named numeric thresholds at defined locations, 12-hour documentation intervals, a 1-hour complaint response commitment, and monthly trend reporting. Closes with the "we do not just log complaints. We resolve them." line.
 reuse-notes: The numeric thresholds (0.5 mg/L dissolved sulfide at influent; 10 ppm H2S at bar screens and belt presses; 4 ppb at the fence line) and the 12-hour documentation interval come from this contract's Schedule 3 — replace them with the new contract's performance requirements. The 1-hour complaint response is a commitment the operations lead must confirm before restating.

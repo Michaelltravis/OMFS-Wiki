@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:33.additional-ideas-for-discounted-engineering
+section-order: 8
+section-path: 'Section 8 | Innovative and/or Alternative Recommendations › MORE THAN AN OPERATOR: OUR INNOVATIVE APPROACH TO O&M › Additional Ideas for Discounted Engineering'
+doc-order: 229
 context: "Southcentral US municipal water utility trust wastewater O&M competitive procurement; four WWTPs plus one major pump station; ODEQ regulatory regime."
 quality: "Near-verbatim financing narrative that supports biosolids alternatives with two named funding precedents and an implementable delivery path."
 reuse-notes: "Confirm current funding eligibility, project economics, technology-provider terms, and the client's procurement authority. Keep the named cities and public funding precedents only after current verification."

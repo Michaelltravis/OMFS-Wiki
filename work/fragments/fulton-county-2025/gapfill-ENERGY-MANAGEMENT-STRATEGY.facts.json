@@ -1,0 +1,32 @@
+[
+  {
+    "claim": "Integrating the Intelligent O&M planner/scheduler toolset into the base fee targets improving maintenance metrics by approximately 10 (unit symbol dropped in source text layer), reducing maintenance overtime and the Maintenance Manager's weekly planning effort",
+    "number": 10,
+    "unit": "percent (as printed: \"approximately 10—\"; unit glyph missing in source)",
+    "as_of": "2025",
+    "page": 35,
+    "para": 2,
+    "block": "wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md",
+    "category": "win-themes"
+  },
+  {
+    "claim": "The Intelligent O&M maintenance planner/scheduler toolset is typically worth over $100,000 per year for consulting clients in setup, annual licensing, and support fees, and is included at no additional cost to the client",
+    "number": 100000,
+    "unit": "USD per year",
+    "as_of": "2025",
+    "page": 35,
+    "para": 2,
+    "block": "wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md",
+    "category": "win-themes"
+  },
+  {
+    "claim": "The Maintenance AI Assistant module is worth over $100,000 per year or more when deployed for consulting clients, and is included in the base bid at no additional cost to the client",
+    "number": 100000,
+    "unit": "USD per year",
+    "as_of": "2025",
+    "page": 36,
+    "para": 2,
+    "block": "wiki/win-themes/fulton-intelligent-om-toolset-included-in-base-fee.md",
+    "category": "win-themes"
+  }
+]

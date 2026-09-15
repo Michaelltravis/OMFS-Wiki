@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:09.little-river-plant
+section-order: 2
+section-path: Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › LITTLE RIVER PLANT
+doc-order: 15
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV; three MBR water-reclamation facilities.
 quality: Source asset inventory that demonstrates facility-level operational understanding before proposing solutions.
 reuse-notes: Rebuild from the target asset register; the three-column inventory device is reusable, but no asset count or vendor-specific equipment should be carried forward without confirmation.

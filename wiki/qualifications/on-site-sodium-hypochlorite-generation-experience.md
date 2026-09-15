@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.on-site-sodium-hypochlorite-generation
+section-order: 9
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › ON-SITE SODIUM HYPOCHLORITE GENERATION
+doc-order: 116
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A capability argument built around a specific proprietary platform the client is mid-way through installing — it names the client's own construction schedule, then proves both operating and design/commissioning experience with that exact equipment, which is the strongest form of "we already know your plant" claim available to a challenger.
 reuse-notes: The whole passage is anchored to PSI MicroClor® and to the client's OSHG construction sequence; when reusing, substitute the platform the new client actually has and rebuild the installation list from current project records with capacities, ppd ratings, and commissioning years. The proprietary-equipment argument — that a sole-source platform makes short-cycle preventive maintenance the only responsible strategy — is the transferable idea.

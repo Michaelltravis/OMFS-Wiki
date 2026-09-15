@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+section-id: ocwut-16-26:05.oklahoma-regulatory-knowledge-and-odeq-relationship
+section-order: 22
+section-path: Section 1 | Technical Approach › Operations Plan › REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS › Oklahoma Regulatory Knowledge and ODEQ Relationship
+doc-order: 57
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Compact, high-credibility statement of state-specific regulatory fluency plus a stated posture toward the regulator (early, proactive notification as protection of the client's standing) — the pattern that converts "we know the rules" into "we protect your regulatory standing."
 reuse-notes: Swap ODEQ/OPDES and Oklahoma operator-certification language for the state agency, permit program, and certification structure of the new pursuit. The compliance and regulatory training-hours series is a corporate figure — re-pull current-year values before reuse.

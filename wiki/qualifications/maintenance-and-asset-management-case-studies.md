@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.on-site-sodium-hypochlorite-generation
+section-order: 10
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › ON-SITE SODIUM HYPOCHLORITE GENERATION
+doc-order: 117
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: States the maintenance maturity progression as a sequence with commitments attached (work orders open within 24 hours, closure targeted within 30 days) rather than as a philosophy, then proves it with three different failure modes — a deferred-maintenance backlog inherited at transition, a 37-year incumbent replaced, and a facility redesigned around maintainability after a structural failure.
 reuse-notes: "The NexGen EAM statement describes a deployment the firm's consulting arm was executing for this client at proposal time and is carried verbatim here — re-verify implementation status before restating it, and never claim NexGen visibility for a client that does not have it. approved-for-external-use: pending — sourced from a live pursuit. Waterbury's $12.7M savings figure is stated as the City's own estimate; keep that attribution. Verify the 100-asset-management-programs count and Vancouver's zero-lost-time record before external use."

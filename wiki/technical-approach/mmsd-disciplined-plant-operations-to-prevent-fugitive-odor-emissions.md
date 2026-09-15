@@ -23,6 +23,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min
+section-order: 7
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors
+doc-order: 134
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The operations half of an odor program — short, concrete, and free of hedging. Names the specific operating levers that control sulfide generation (blanket depth, sludge storage duration, warm-weather monitoring), concedes the real-world case where high blankets are unavoidable and pairs the concession with an operator-training commitment, and covers containment (negative pressure, covers, gaskets, ventilation) and ISO-aligned PM on the odor control units themselves.
 reuse-notes: Substitute the pursuit's actual odor control unit types (carbon, chemical scrubbers, biofilters, blowers) and its covered process inventory. The high-blanket concession is a strong trust-building move where the client knows it operates that way; verify before including.

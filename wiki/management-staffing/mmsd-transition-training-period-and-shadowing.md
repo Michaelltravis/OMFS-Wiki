@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:30.1-4-transition-training-period
+section-order: 9
+section-path: IV. Approach Summary › IV.B. Pre-term Activities › 1.4. Transition Training Period
+doc-order: 216
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Makes the shadowing period concrete by listing exactly what incoming staff are there to capture — process operations, data and reporting protocols, performance metrics, CMMS workflows, asset management practices, and the specialty product line — so "knowledge transfer" stops being a slogan and becomes a checklist.
 reuse-notes: Substitute the asset classes shadowed and the specialty process (here, a proprietary biosolids product); name the subconsultant providing collection-system depth only where one is on the team. Confirm the operational start date and any credentialing requirements specific to the state.

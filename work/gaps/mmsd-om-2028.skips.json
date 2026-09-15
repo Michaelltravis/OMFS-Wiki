@@ -1,0 +1,184 @@
+[
+ {
+  "page": 6,
+  "para": 21,
+  "reason": "duplicate-of:wiki/win-themes/mmsd-exec-summary-comprehensive-om-with-consulting-bench.md",
+  "range": "Executive Summary",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 19,
+  "para": 1,
+  "reason": "exhibit-internal — this is the page-margin subsection tab-navigation strip (\"A. Staffing Strategy and Key Positions / B. HR and Staffing Capability / C. PM and Corrective Maintenance Staffing / D. Use of Subcontractors / E. Technical Training / F. Safe Work Program / G. Positive Work Environment / H. Workforce Development / I. Key Staff Resumes\") captured as interleaved picture text, not prose. No reusable sentences.",
+  "range": "1. ORGANIZATIONAL STRUCTURE + 1. OUR HR AND STAFFING COMMITMENT TO MMSD + 2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 21,
+  "para": 1,
+  "reason": "exhibit-internal — same page-margin subsection tab-navigation strip, interleaved picture text with no prose content.",
+  "range": "1. ORGANIZATIONAL STRUCTURE + 1. OUR HR AND STAFFING COMMITMENT TO MMSD + 2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 21,
+  "para": 5,
+  "reason": "duplicate-of:wiki/management-staffing/mmsd-staffing-certainty-framework-exhibit.md — that block's verbatim-ref is exactly verbatim/mmsd-om-2028/pages/p0021.md#¶5 and its body already reconstructs Exhibit II-6's four labeled elements and the full caption narrative (20+ national HR staff, O&M Resource Planning Group, regional bench, transparent metrics).",
+  "range": "1. ORGANIZATIONAL STRUCTURE + 1. OUR HR AND STAFFING COMMITMENT TO MMSD + 2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 26,
+  "para": 1,
+  "reason": "exhibit-internal — same page-margin subsection tab-navigation strip, interleaved picture text with no prose content.",
+  "range": "1. ORGANIZATIONAL STRUCTURE + 1. OUR HR AND STAFFING COMMITMENT TO MMSD + 2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 28,
+  "para": 1,
+  "reason": "exhibit-internal",
+  "range": "1. COMMITMENT TO LEARNING, SAFETY, AND CONTINUOUS IMPROVEMENT",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 29,
+  "para": 1,
+  "reason": "exhibit-internal",
+  "range": "3. OPERATIONS MANAGEMENT STAFF TRAINING PROGRAMS + 2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING + 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 31,
+  "para": 1,
+  "reason": "exhibit-internal",
+  "range": "3. OPERATIONS MANAGEMENT STAFF TRAINING PROGRAMS + 2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING + 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 32,
+  "para": 1,
+  "reason": "exhibit-internal",
+  "range": "3. OPERATIONS MANAGEMENT STAFF TRAINING PROGRAMS + 2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING + 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 45,
+  "para": 21,
+  "reason": "exhibit-internal (figure labels / chart text) — interleaved column fragments from the Exhibit IV-2 graphic text layer (\"Belter Press Investment at South ... Value-Added $21-53M AquaDNA Smart Technology...\"); no sentence-level prose. Already reconstructed into wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md (verbatim-ref includes #¶21).",
+  "range": "Energy and Chemical Optimization",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 45,
+  "para": 27,
+  "reason": "exhibit-internal (figure labels / chart text) — interleaved Exhibit IV-2 column fragments (\"OT Asset Backup & Version Control 9.5 Additional FTEs Beyond Site Security New Source Belt Filter Presses at JIWRF...\"); already reconstructed into wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md (verbatim-ref includes #¶27).",
+  "range": "Energy and Chemical Optimization",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 45,
+  "para": 28,
+  "reason": "exhibit-internal (figure labels / chart text) — interleaved Exhibit IV-2 column fragments (\"OMFS Managed Process Control Milwaukee-based Rapid Assessment Anaerobic Digestion / Microbial...\"); already reconstructed into wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md (verbatim-ref includes #¶28).",
+  "range": "Energy and Chemical Optimization",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 47,
+  "para": 8,
+  "reason": "duplicate-of:wiki/technical-approach/mmsd-facility-health-check-exhibit.md",
+  "range": "IV.A. Approach to Management, Operations, PM, and CM",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 48,
+  "para": 14,
+  "reason": "duplicate-of:wiki/technical-approach/mmsd-five-tenets-culture-exhibit.md",
+  "range": "IV.A.1. Approach to Management of Facilities",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 50,
+  "para": 3,
+  "reason": "duplicate-of:wiki/technical-approach/mmsd-pgm-seven-step-setup-exhibit.md",
+  "range": "IV.A.1. Approach to Management of Facilities",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 51,
+  "para": 1,
+  "reason": "exhibit-internal",
+  "range": "IV.A.1. Approach to Management of Facilities",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 82,
+  "para": 15,
+  "reason": "exhibit-internal",
+  "range": "IV.A.6. Responding to Public Odor Complaints",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 82,
+  "para": 19,
+  "reason": "exhibit-internal",
+  "range": "IV.A.6. Responding to Public Odor Complaints",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 91,
+  "para": 14,
+  "reason": "duplicate-of:wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+  "range": "IV.A.3. Approach to PM and CM",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 91,
+  "para": 18,
+  "reason": "duplicate-of:wiki/technical-approach/mmsd-ams-iso-55001-samp-and-line-of-site.md",
+  "range": "IV.A.3. Approach to PM and CM",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 93,
+  "para": 21,
+  "reason": "duplicate-of:wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
+  "range": "IV.A.3. Approach to PM and CM",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 118,
+  "para": 13,
+  "reason": "duplicate-of:wiki/technical-approach/mmsd-exhibit-sustainability-opportunities-table.md",
+  "range": "IV.A.7. Sustainable Approach to Operations",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 130,
+  "para": 4,
+  "reason": "form-boilerplate",
+  "range": "2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 136,
+  "para": 16,
+  "reason": "exhibit-internal",
+  "range": "7. PHASED ROLLOUT",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 142,
+  "para": 47,
+  "reason": "duplicate-of:wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md",
+  "range": "1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS",
+  "run": "wf_c4da8571-f83"
+ },
+ {
+  "page": 142,
+  "para": 48,
+  "reason": "duplicate-of:wiki/win-themes/mmsd-regional-partnership-wrf-research-portfolio.md",
+  "range": "1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS",
+  "run": "wf_c4da8571-f83"
+ }
+]

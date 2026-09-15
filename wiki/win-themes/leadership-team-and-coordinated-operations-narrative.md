@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:02.leadership-driven-operations-and-accountability
+section-order: 4
+section-path: Section 2 - Executive Summary › LEADERSHIP-DRIVEN OPERATIONS AND ACCOUNTABILITY
+doc-order: 7
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A three-beat executive-summary narrative — named on-site leadership, a philosophical "why water matters" bridge into a branded integrated-water methodology, and an SME-bench-to-capital-planning linkage — that repeats the "we operate as an extension of your staff" positioning device, one of the strongest trust-building phrases available in an O&M executive summary
 reuse-notes: Replace every named individual with the actual proposed team and their real roles; confirm "OneWater" is still the current firm-wide integrated-water methodology name before reuse; trim the SME discipline list to disciplines genuinely relevant to the target facility. The "extension of the client's staff" line is deliberately used twice across the section — keep the repetition when reusing, and keep the second instance in the Annual Innovation Workshop passage.

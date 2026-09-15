@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:10.shift-schedules
+section-order: 9
+section-path: 'Section 3: Key Personnel › 3.1 STAFFING PLAN › STAFFING PLAN › Shift Schedules'
+doc-order: 75
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A concrete, ready-to-adapt shift schedule table combining 4/10 and 5/8 rotations to guarantee 7-day coverage with no lone shifts, plus a quantified leadership-engagement commitment (20% of key management/engineering time) and a clear on-call staffing statement — strong, specific staffing-plan evidence.
 reuse-notes: The 4/10 schedule depends on securing an Alternative Work Schedule (AWS) approval from the applicable state labor regulator (California DIR in this instance) — flag this dependency explicitly in any reuse. Adjust the position list, certification levels, and specific days/hours in the table to the pursuit's actual proposed schedule.

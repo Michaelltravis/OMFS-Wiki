@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:11.long-history-of-service-in-atlanta-and-the-county
+section-order: 1
+section-path: Section 2 | Operations & Maintenance Plan › 2.7 | Approach to Providing Qualified and Licensed Personnel › LONG HISTORY OF SERVICE IN ATLANTA AND THE COUNTY
+doc-order: 41
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: JV staffing narrative that accurately separates Jacobs local and global technical capacity from CERM's local workforce-development role.
 reuse-notes: Verify all current headcounts, office dates, and credentials. Retain the Jacobs/CERM role allocation only where the same JV structure applies.

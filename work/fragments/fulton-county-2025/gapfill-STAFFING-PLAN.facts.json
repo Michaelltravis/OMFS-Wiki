@@ -1,0 +1,102 @@
+[
+  {
+    "claim": "At the first plant, the Plant Manager oversees operations staff day-to-day working eight-hour shifts, Monday through Friday",
+    "number": "8",
+    "unit": "hours per shift, Mon-Fri",
+    "as_of": "2025",
+    "page": 47,
+    "para": 5,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "Two groups of day-shift operators at the first plant all work 12-hour shifts",
+    "number": "12",
+    "unit": "hours per shift",
+    "as_of": "2025",
+    "page": 47,
+    "para": 5,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "A Main Lead Operator plus two Operators work a total of seven days across two weeks - three days in the first week and four in the next",
+    "number": "7",
+    "unit": "days worked per two weeks (3 + 4)",
+    "as_of": "2025",
+    "page": 47,
+    "para": 5,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "A Secondary Lead Operator and two Operators cover the four days in the first week and the three days in the second week not covered by the Main Lead Operator group",
+    "number": "7",
+    "unit": "days worked per two weeks (4 + 3)",
+    "as_of": "2025",
+    "page": 47,
+    "para": 6,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "The alternating day-shift rotation ensures three day-shift Operators onsite every day of the week",
+    "number": "3",
+    "unit": "day-shift operators onsite, 7 days/week",
+    "as_of": "2025",
+    "page": 47,
+    "para": 6,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "Night shifts are covered by two groups, each consisting of one Lead Operator and one Operator, following the same two-week pattern as the day-shift groups",
+    "number": "2",
+    "unit": "night-shift groups of 1 Lead + 1 Operator",
+    "as_of": "2025",
+    "page": 47,
+    "para": 6,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "The night-shift rotation ensures two Operators are onsite every night shift of the week",
+    "number": "2",
+    "unit": "night-shift operators onsite, 7 nights/week",
+    "as_of": "2025",
+    "page": 47,
+    "para": 6,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "At the second plant, the Plant Manager oversees operations staff day-to-day working eight-hour shifts, Monday through Friday",
+    "number": "8",
+    "unit": "hours per shift, Mon-Fri",
+    "as_of": "2025",
+    "page": 47,
+    "para": 7,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "Lead Operators and Operators at the second plant work 12-hour shifts on the same pattern as the first plant",
+    "number": "12",
+    "unit": "hours per shift",
+    "as_of": "2025",
+    "page": 47,
+    "para": 7,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  },
+  {
+    "claim": "The second plant's pattern meets the required minimum staffing of three Operators during day shifts and two Operators during night shifts every day of the week",
+    "number": "3 day / 2 night",
+    "unit": "operators onsite per shift, 7 days/week",
+    "as_of": "2025",
+    "page": 47,
+    "para": 7,
+    "block": "wiki/management-staffing/fulton-plant-operator-shift-rotations.md",
+    "category": "management-staffing"
+  }
+]

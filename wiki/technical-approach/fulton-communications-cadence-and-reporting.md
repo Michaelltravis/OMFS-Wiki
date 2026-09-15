@@ -23,6 +23,10 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 superseded-by: wiki/technical-approach/swip-communications-and-reporting-plan.md
+section-id: fulton-county-2025:12.communications-and-reporting
+section-order: 53
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › COMMUNICATIONS AND REPORTING
+doc-order: 96
 context: "JC Solutions (a Jacobs/CERM JV) communications and reporting approach for a Southeast county multi-facility wastewater system."
 quality: "Near-verbatim communication rhythm integrating owner governance, compliance reporting, and dashboard visibility."
 reuse-notes: "Tailor report names, delivery dates, owner roles, permit requirements, dashboard fields, and capital-program references. Retain JC Solutions as the Jacobs/CERM JV and Jacobs attribution for regional management."

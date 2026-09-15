@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:13.3-3-mgd
+section-order: 11
+section-path: Section 7 - Appendix B - Project Descriptions › 3.3 MGD
+doc-order: 81
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The strongest trust-and-durability proof point in the set — a relationship running since 1990, a noncompliant-facility turnaround that resolved enforcement actions, a greater-than-30% electrical consumption reduction after MBR optimization, and five third-party awards spanning 2004 to 2019.
 reuse-notes: "Use when the pursuit values long-term partnership stability and technical depth over rapid turnaround; less effective for pursuits driven primarily by dissatisfaction with a long-tenured incumbent, where the decades-of-continuity framing can read as ironic — lead with the noncompliance turnaround instead. Replace the technology (MBR) and the efficiency percentage with whatever is actually true of the project being cited. The reference client, contact, award names/years, and testimonial are stated verbatim in past-performance/project-traverse-city-mi.md."

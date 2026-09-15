@@ -22,6 +22,10 @@ sanitized: false
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:32
+section-order: 1
+section-path: Section 7 | Projects and References
+doc-order: 212
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest single-page proof stack in the source — portfolio scale (300+ projects, 18-year average relationship, 98% renewal), four named marquee large-plant programs with capacities, and a state-specific 44-year/30-year regulatory tenure argument that converts corporate scale into local credibility.
 reuse-notes: "Past-performance content — real client names are kept verbatim; the proposal team QCs before external use. Swap the state tenure paragraph (44 years in Oklahoma, City of Duncan since 1995, decade of direct work with the pursuit client's Utilities Department, Bixby contract) for the equivalent in-state history for the target pursuit — that paragraph is what makes the block land and it is entirely geography-specific. Verify the 300+ project count, 18-year average relationship, 98% renewal rate, and each named plant capacity with the account team before a live draft; register all of them in proof-points/registry.md. The confidential five-year reference-table pointer only applies where the RFP allows a separate confidential submittal."

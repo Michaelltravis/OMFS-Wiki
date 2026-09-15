@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-7-5-holistic-systems-based-approach
+section-order: 35
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance › 2.7.5. Holistic, Systems-Based Approach
+doc-order: 162
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: The organizing idea of the whole approach — the system is one interconnected process, so operate it as one — carried by the "One Water, One Team" theme phrase and then made concrete through data integration, cross-facility optimization, and a shared knowledge framework. The candid acknowledgement that data unification is best achieved through phased implementation and validation is a maturity signal that reads as honest rather than overpromising.
 reuse-notes: The "One Water, One Team" phrase was this pursuit's campaign line; substitute the pursuit's own theme phrase and use it in identical words across sections. Replace the digital-framework reference with the client's actual digital or IT strategy document — citing it by name is what makes the alignment claim land. Exhibit asset ID 211_007CAM_2.

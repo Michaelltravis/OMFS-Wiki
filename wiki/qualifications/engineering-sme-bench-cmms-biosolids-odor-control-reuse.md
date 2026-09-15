@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.engineering-smes
+section-order: 29
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › ENGINEERING SMES
+doc-order: 136
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The opener that makes the engineering bench land — consulting resources led by a locally based principal are declared "fully accessible" to the on-site project manager, so the table that follows reads as a standing entitlement rather than a corporate capability slide. Carries hard credentials (100+ compost projects, two U.S. patents, Global Principal for Water Reuse) and a named reuse program list.
 reuse-notes: Replace the named consulting lead and the project manager's first name with the pursuit's own. The reuse SME entry only earns space where the client has a reuse ambition; drop it otherwise. Verify the patent count and the 100-project compost figure, and register both.

@@ -1,0 +1,121 @@
+[
+ {
+  "page": 7,
+  "para": 8,
+  "reason": "exhibit-internal",
+  "range": "HIGH-CALIBER ONSITE TEAM—QUALIFICATIONS AND COMMITMENT",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 17,
+  "para": 9,
+  "reason": "duplicate-of:wiki/qualifications/reach-back-model-and-regional-support.md — that block already lists p0017.md#¶9 in its verbatim-ref and reproduces the full Exhibit 2-2 four-column table (Regional Process Specialists / Regional Maintenance Specialists / Compliance & Reporting Group / Regional Management) as GFM, sanitized, with graphic 103_008A26 cited.",
+  "range": "Exceptional Reach-back to Regional and Technical O&M Resources",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 18,
+  "para": 9,
+  "reason": "duplicate-of:wiki/qualifications/full-service-firm-capabilities.md — that block already lists p0018.md#¶9 in its verbatim-ref; ¶9 is the interleaved picture-text of Exhibit 2-3 (ligature-damaged, e.g. \"Ef'iciency\") and its content is already reconstructed there as the five-column Consulting / Engineering / Procurement / Construction / FM/O&M capability matrix with graphic 105_008A26. Also exhibit-internal.",
+  "range": "Exceptional Reach-back to Regional and Technical O&M Resources",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 18,
+  "para": 10,
+  "reason": "duplicate-of:wiki/qualifications/full-service-firm-capabilities.md — ¶10 is the next row-slice of the same Exhibit 2-3 picture text (continuous with ¶9 and ¶¶11-13, which were not listed); every item in it (Environmental Management, Front End Engineering Design (FEL 1,2,3), Global Sourcing & Prequalifications, Modular Fabrication & Installation, Subcontract Management, Process Safety Management, Materials & Equipment Procurement, Mechanical Piping & Electrical Construction, Soft Services) already appears in that block's matrix. Also exhibit-internal.",
+  "range": "Exceptional Reach-back to Regional and Technical O&M Resources",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 30,
+  "para": 9,
+  "reason": "duplicate-of:wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+  "range": "JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES + STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION +",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 31,
+  "para": 1,
+  "reason": "duplicate-of:wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+  "range": "JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES + STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION +",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 34,
+  "para": 7,
+  "reason": "duplicate-of:wiki/technical-approach/swip-comprehensive-om-plan-list.md",
+  "range": "JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES + STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION +",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 35,
+  "para": 5,
+  "reason": "duplicate-of:wiki/technical-approach/swip-process-control-system-tools.md",
+  "range": "JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES + STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION +",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 39,
+  "para": 2,
+  "reason": "duplicate-of:wiki/compliance-plans/swip-qaqc-program-audit-process.md",
+  "range": "IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 44,
+  "para": 6,
+  "reason": "duplicate-of:wiki/management-staffing/swip-workforce-culture-dei-employee-networks.md",
+  "range": "EMPLOYEE TRAINING",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 59,
+  "para": 10,
+  "reason": "duplicate-of:wiki/technical-approach/swip-predictive-maintenance-technologies.md — that block already lists p0059.md#¶10 as its primary verbatim-ref and reproduces all five technology descriptions (ultrasound, precision alignment, infrared thermography, lubrication/oil analysis, vibration measurement) plus graphic asset ID 124_008A26",
+  "range": "ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 74,
+  "para": 20,
+  "reason": "duplicate-of:wiki/management-staffing/swip-project-team-org-structure.md",
+  "range": "3.1 STAFFING PLAN",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 74,
+  "para": 23,
+  "reason": "duplicate-of:wiki/management-staffing/swip-project-team-org-structure.md",
+  "range": "3.1 STAFFING PLAN",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 99,
+  "para": 7,
+  "reason": "exhibit-internal",
+  "range": "EXPERIENCED TRANSITION TEAM",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 107,
+  "para": 3,
+  "reason": "duplicate-of:wiki/technical-approach/swip-city-staff-training-program.md",
+  "range": "Training and Development of City Staff for Water/Wastewater/Advanced Water",
+  "run": "wf_18c48ae5-d04"
+ },
+ {
+  "page": 59,
+  "para": 3,
+  "reason": "duplicate-of:wiki/technical-approach/swip-condition-assessment-risk-scoring.md (paragraph interleaved with a sidebar heading in the text layer; the block carries the de-interleaved prose)",
+  "range": "manual review of residual uncovered paragraphs",
+  "run": "manual"
+ },
+ {
+  "page": 37,
+  "para": 8,
+  "reason": "duplicate-of:wiki/technical-approach/swip-aquadna-deragger-technology.md (cross-reference paragraph pointing to the AquaDNA DERAGGER subsection)",
+  "range": "manual review of residual uncovered paragraphs",
+  "run": "manual"
+ }
+]

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf
+section-order: 16
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF
+doc-order: 116
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Carries the strongest quantified drying-energy claim in the section ($350K/year per 1% cake solids) alongside a risk-balanced proposal — pilot the mixer upgrade now rather than wait for new dryers — and an unpriced capital commitment (portable belt filter press) that removes a client operating headache.
 reuse-notes: The 30-35% blend limit, the $350K per 1% cake solids estimate, the pug mill pilot, and the portable belt filter press purchase are all pursuit-specific commitments; reconfirm each against the new facility's mass balance and the spec sheet before reuse. Keep the honest caveat that cake dryness gains must be tested against product quality.

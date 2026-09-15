@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:27.4-2-6-innovative-security-enhancements
+section-order: 10
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.6. Innovative Security Enhancements
+doc-order: 192
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'A model of how to add value without criticizing the client''s own investment — it credits the upgrades already underway, then offers three specific, costed-out-in-concept enhancements that build on the platform the client just bought. The shoreline detection offer is site-earned: radar or microwave detection cued to cameras, effective in darkness, fog, and snow, with optional acoustic warnings.'
 reuse-notes: The shoreline enhancement applies only to waterfront sites; substitute the perimeter vulnerability that matches the pursuit. Verify the client's video platform and its mobile and workflow modules before naming features. Present all three as recommendations contingent on a site-specific vulnerability assessment, not as priced commitments.

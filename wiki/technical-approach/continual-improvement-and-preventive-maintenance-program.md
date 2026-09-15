@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:06.preventive-maintenance-program
+section-order: 7
+section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Preventive Maintenance Program
+doc-order: 93
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Pairs a concrete improvement cadence (monthly KPI reviews, quarterly PMO checkpoints, annual internal audits, after-action reviews, change control) with a PM philosophy that names the failure mode on both sides — over-maintaining wastes resources, under-maintaining invites failure — and then ties PM frequency adjustments to three site-specific drivers. Includes an unusually strong transparency line welcoming the client's right to observe PM execution.
 reuse-notes: The improvement cadence, the PMO right-sizing logic, and the transparency commitment on client observation of PM tasks are universal. The three site-specific adjustment drivers (H2S corrosion, seasonal wet weather peak loading, new CIP equipment under warranty) should be replaced with the target system's own drivers; confirm the client's contractual right to observe PM execution and any process rotation plan requirement before restating them.

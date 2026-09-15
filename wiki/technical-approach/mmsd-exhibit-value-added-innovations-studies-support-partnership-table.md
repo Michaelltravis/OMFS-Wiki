@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par
+section-order: 5
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee
+doc-order: 200
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The first third of the value-add exhibit, carrying the biggest single line items in the offer — 51,000 hours of regional support ($6.77M), 12,000 hours of training ($7.2M), and 9.5 FTEs above the minimum staffing requirement ($18.11M). These are quantified commitments a scorer can check, not adjectives.
 reuse-notes: Every dollar figure is a 10-year value of an investment Jacobs is making, not a price to the client — keep the column headings so the distinction survives reuse. Hours, FTE counts, and study values must be re-derived for each pursuit's scope. The fishing pier row is a pursuit-specific community commitment; substitute the local partnership offered on the new pursuit. Named subconsultants (Mead and Hunt, Marty Dierker) stay verbatim.

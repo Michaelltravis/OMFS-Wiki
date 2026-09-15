@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:35.support-business-case-development
+section-order: 6
+section-path: V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS › Support Business Case Development
+doc-order: 240
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Carries the one hard commitment in the whole partnering exhibit — a $50K university scholarship — alongside a named community-college partnership that mirrors the state's certified operator program. Also names the union relationship as a workforce tool rather than a labor-relations risk, which matters in a challenger bid against an incumbent operator.
 reuse-notes: Confirm the scholarship figure and the college partnership are approved commitments before restating them, and substitute the local institutions. The union paragraph must be checked against the pursuit's actual bargaining situation.

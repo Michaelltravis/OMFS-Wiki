@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:03.jacobs-understands-ocwut-s-facilities-and-its-goals-for-this
+section-order: 3
+section-path: Section 1 | Technical Approach › JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT
+doc-order: 18
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The most damaging-to-the-incumbent page in the section, and it never names the incumbent — it simply counts the scrubbers (3 of 30 operational at one plant, 3 of 7 at another), reports the H2S readings that keep operators out of the headworks, and traces the consequences forward into grit performance, monthly spills, and concrete corrosion. It converts an odor complaint problem into an operations, safety, and asset-condition argument at once.
 reuse-notes: The chain of reasoning — odor source, access restriction, deferred maintenance, spill and corrosion consequence — is the reusable device and lands in any pursuit where odor keeps staff out of a process area. All readings, scrubber counts, dosing rates, and neighbor descriptions are specific to these facilities. The DC peroxide performance targets (300 mg/L, 86% H2S and 93% mercaptan reduction) are the client's RFP Section 1.4e requirements, not a Jacobs guarantee; re-derive from the target RFP before reuse. Pair with the four-layer odor control strategy prose block.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:02.innovations-recommended-alternatives
+section-order: 10
+section-path: Executive Summary of Technical Approach › INNOVATIONS & RECOMMENDED ALTERNATIVES
+doc-order: 15
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A two-column innovation table in which every row states a dollar or percentage benefit to the client rather than a feature — including an escalation-index alternative that hands back a stated saving over the contract term, discounted engineering access tied to a named list of studies the client already needs, and two reference-site savings results from AI-enabled operations. Rare example of an executive summary quantifying value-add before the price is opened.
 reuse-notes: The escalation-index saving and the engineering-services multiplier are commercial alternatives — coordinate the exact figures with the price proposal so the two documents agree, and delete this table from any purely technical volume where commercial terms are prohibited. The Wilmington, DE and Vancouver, WA savings results are reference-site outcomes and must keep their site attribution. The escalation index alternative only applies where the RFP's escalation basis is open to alternatives.

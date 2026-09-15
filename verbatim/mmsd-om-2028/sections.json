@@ -1,0 +1,5899 @@
+{
+ "slug": "mmsd-om-2028",
+ "rules_version": 1,
+ "page_count": 147,
+ "repeating_lines": [
+  "# #cam #",
+  "# #cam #|",
+  "# vision",
+  "#f#amdvaaw",
+  "a. approach to management,",
+  "a. approach to management, approach to management,",
+  "a. approach to management, approach to management, b. pre-term activities pre-term activities c. computerized maintenance computerized maintenance d. potential additive work - level # pdm potential additive work - level # pdm operations, pm, and cm management system (cmms) approach",
+  "a. approach to management, approach to management,operations, pm, and cm",
+  "a. approach to management, operations, pm, and cm b. pre-term activities c. computerized maintenance management system (cmms) approach d. potential additive work - level # pdm",
+  "a. approach to management,operations, pm, and cm",
+  "a. community-focused leadership team to community-focused leadership team to",
+  "a. community-focused leadership team to community-focused leadership team to b. strategies for bettering the community strategies for bettering the community c. serving as an engaged regional partner in serving as an engaged regional partner in drive positive long-term outcomes through targeted regional partnering other communities with similar contracts",
+  "a. community-focused leadership team to community-focused leadership team todrive positive long-term outcomes",
+  "a. staffing strategy and key positions",
+  "a. staffing strategy b. hr and c. pm and corrective d. use of e. technical f. safe work g. positive h. workforce i. key",
+  "a. staffing strategy b. hr and c. pm and corrective d. use of e. technical f. safe work g. positive h. workforce i. key key and key positions staffing capability maintenance staffing subcontractors training program environment corporate culture development staff resumes",
+  "a. staffing strategy b. hr and c. pm and corrective d. use of e. technical f. safe work g. positive h. workforce workforce i. key key and key positions staffing capability maintenance staffing subcontractors training program environment corporate culture development staff resumes",
+  "above and beyond",
+  "b. hr and staffing capability",
+  "b. pre-term activities",
+  "b. pre-term activities pre-term activities",
+  "b. pre-term activities pre-term activities c. computerized maintenance computerized maintenance d. potential additive work - level # pdm potential additive work - level # pdm management system (cmms) approach",
+  "b. strategies for bettering the community strategies for bettering the community",
+  "b. strategies for bettering the community strategies for bettering the communitythrough targeted regional partnering",
+  "benefit to mmsd",
+  "benefit to mmsd benefit to mmsd: :",
+  "benefit to mmsd: :",
+  "beneft to mmsd:",
+  "c. computerized maintenance",
+  "c. computerized maintenance computerized maintenance",
+  "c. computerized maintenance computerized maintenance d. potential additive work - level # pdm potential additive work - level # pdm management system (cmms) approach",
+  "c. computerized maintenance computerized maintenancemanagement system (cmms) approach",
+  "c. computerized maintenance management system (cmms) approach",
+  "c. computerized maintenance management system (cmms) approach d. potential additive work - level # pdm",
+  "c. computerized maintenancemanagement system (cmms) approach",
+  "c. pm and corrective maintenance staffing",
+  "c. serving as an engaged regional partner in serving as an engaged regional partner in",
+  "c. serving as an engaged regional partner in serving as an engaged regional partner inother communities with similar contracts",
+  "chemical",
+  "chief engineer",
+  "collaboration | communications | coordination",
+  "d. potential additive work - level # pdm",
+  "d. potential additive work - level # pdm potential additive work - level # pdm",
+  "d. use of subcontractors",
+  "development staff resumes",
+  "director of maintenance & asset management",
+  "drive positive long-term outcomes",
+  "e. technical f. safe work g. positive h. workforce i. key key training program environment corporate culture development staff resumes",
+  "e. technical training program",
+  "education and licenses",
+  "education and licenses education and licenses education and licenses",
+  "executive summary",
+  "exhibit ii-#.",
+  "exhibit iv-#.",
+  "experience summary",
+  "f. safe work environment",
+  "g. positive corporate culture",
+  "h. workforce development",
+  "h. workforce i. key",
+  "h. workforce i. keydevelopment staff resumes",
+  "h. workforce workforce i. key key",
+  "h. workforce workforce i. key keydevelopment staff resumes",
+  "human resources",
+  "i. identity of the proposer and guarantor; financial assurances requirements",
+  "i. key key",
+  "i. key keystaff resumes",
+  "i. key staff resumes",
+  "i. keystaff resumes",
+  "ii. statement on staffing, training and corporate culture",
+  "iv. approach",
+  "jacobs | es-#",
+  "jacobs | i-#",
+  "jacobs | ii-#",
+  "jacobs | v-#",
+  "jacobs | vi-#",
+  "keoki sears",
+  "maintenance",
+  "management",
+  "management system (cmms) approach",
+  "mmsd + jacobs partnership",
+  "mmsd o&m of water reclamation infrastructure | one water, one team, one vision #f#amdvaaw",
+  "mmsd o&m of water reclamation infrastructure | one water, one team, one vision jacobs | ii-#",
+  "mmsd wastewater system o&m # | one water, one team, one vision #f#amdvaaw",
+  "monitoring",
+  "of investment | #-year value",
+  "of savings | what we will do for mmsd facilities | expected benefits for mmsd | reference section |",
+  "one team",
+  "one vision",
+  "one water",
+  "operations",
+  "operations, pm, and cm",
+  "optimization",
+  "other communities with similar contracts",
+  "planning",
+  "project manager",
+  "public outreach coordinator",
+  "regional",
+  "regulatory",
+  "section #.#",
+  "select projects",
+  "staff resumes",
+  "table of contents",
+  "through targeted regional partnering",
+  "v. statement on regional partnership",
+  "value-added extras",
+  "vi. exceptions and requests",
+  "wet weather & conveyance director",
+  "| value added innovation | location | #-year value",
+  "|---|---|",
+  "|---|---|---|",
+  "|---|---|---|---|",
+  "|---|---|---|---|---|",
+  "|---|---|---|---|---|---|---|"
+ ],
+ "stats": {
+  "sections": 288,
+  "outline": 40,
+  "merged": 35,
+  "body_headings": 541,
+  "excluded": {
+   "fragment": 26,
+   "repeating": 81,
+   "plain": 51,
+   "caption": 63,
+   "too-long": 11,
+   "mark": 20,
+   "bullet-or-dash": 6
+  },
+  "minor": 19
+ },
+ "sections": [
+  {
+   "id": "mmsd-om-2028:00",
+   "title": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements",
+   "level": 1,
+   "parent": null,
+   "outline_index": 0,
+   "outline_title": "I. Identity of Proposer and Guarantor; Financial Assurances Requirements",
+   "kind": "outline",
+   "start": {
+    "page": 1,
+    "para": 1
+   },
+   "end": {
+    "page": 12,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0001.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:01",
+   "title": "Table of Contents",
+   "level": 2,
+   "parent": "mmsd-om-2028:00",
+   "outline_index": 1,
+   "outline_title": "Table of Contents",
+   "kind": "outline+body",
+   "start": {
+    "page": 2,
+    "para": 1
+   },
+   "end": {
+    "page": 4,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0002.md#¶1",
+   "heading_line": "## TABLE OF CONTENTS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:01.ii-statement-on-staffing-training-and-corporate-culture",
+   "title": "II. Statement on Staffing, Training, and Corporate Culture",
+   "level": 3,
+   "parent": "mmsd-om-2028:01",
+   "outline_index": 1,
+   "outline_title": "Table of Contents",
+   "kind": "body",
+   "start": {
+    "page": 2,
+    "para": 8
+   },
+   "end": {
+    "page": 3,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0002.md#¶8",
+   "heading_line": "###### II. Statement on Staffing, Training, and Corporate Culture",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:01.section-ii-major-exhibits",
+   "title": "Section II. Major Exhibits",
+   "level": 4,
+   "parent": "mmsd-om-2028:01.ii-statement-on-staffing-training-and-corporate-culture",
+   "outline_index": 1,
+   "outline_title": "Table of Contents",
+   "kind": "body",
+   "start": {
+    "page": 2,
+    "para": 11
+   },
+   "end": {
+    "page": 3,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0002.md#¶11",
+   "heading_line": "###### **_Section II. Major Exhibits_**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:01.iii-pricing",
+   "title": "III. Pricing",
+   "level": 3,
+   "parent": "mmsd-om-2028:01",
+   "outline_index": 1,
+   "outline_title": "Table of Contents",
+   "kind": "body",
+   "start": {
+    "page": 3,
+    "para": 2
+   },
+   "end": {
+    "page": 3,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0003.md#¶2",
+   "heading_line": "###### III. Pricing",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:01.iv-statement-on-company-s-approach",
+   "title": "IV. Statement on Company’s Approach",
+   "level": 3,
+   "parent": "mmsd-om-2028:01",
+   "outline_index": 1,
+   "outline_title": "Table of Contents",
+   "kind": "body",
+   "start": {
+    "page": 3,
+    "para": 6
+   },
+   "end": {
+    "page": 4,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0003.md#¶6",
+   "heading_line": "###### IV. Statement on Company’s Approach",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:01.section-iv-major-exhibits",
+   "title": "Section IV. Major Exhibits",
+   "level": 4,
+   "parent": "mmsd-om-2028:01.iv-statement-on-company-s-approach",
+   "outline_index": 1,
+   "outline_title": "Table of Contents",
+   "kind": "body",
+   "start": {
+    "page": 3,
+    "para": 9
+   },
+   "end": {
+    "page": 4,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0003.md#¶9",
+   "heading_line": "###### **_Section IV. Major Exhibits_**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:01.section-v-major-exhibits",
+   "title": "Section V. Major Exhibits",
+   "level": 4,
+   "parent": "mmsd-om-2028:01.iv-statement-on-company-s-approach",
+   "outline_index": 1,
+   "outline_title": "Table of Contents",
+   "kind": "body",
+   "start": {
+    "page": 4,
+    "para": 6
+   },
+   "end": {
+    "page": 4,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0004.md#¶6",
+   "heading_line": "###### **_Section V. Major Exhibits_**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:02",
+   "title": "Executive Summary",
+   "level": 2,
+   "parent": "mmsd-om-2028:00",
+   "outline_index": 2,
+   "outline_title": "Executive Summary",
+   "kind": "outline+body",
+   "start": {
+    "page": 5,
+    "para": 1
+   },
+   "end": {
+    "page": 12,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0005.md#¶1",
+   "heading_line": "# EXECUTIVE SUMMARY",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:02.technical-excellence-optimization-and-community-facing-perfo",
+   "title": "Technical Excellence, Optimization, and Community‑Facing Performance",
+   "level": 3,
+   "parent": "mmsd-om-2028:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 9,
+    "para": 14
+   },
+   "end": {
+    "page": 9,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0009.md#¶14",
+   "heading_line": "###### **Technical Excellence, Optimization, and Community‑Facing Performance**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:02.commitment-to-compliance-and-no-surprises-performance",
+   "title": "Commitment to Compliance and “No Surprises” Performance",
+   "level": 3,
+   "parent": "mmsd-om-2028:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 9,
+    "para": 17
+   },
+   "end": {
+    "page": 10,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0009.md#¶17",
+   "heading_line": "###### **Commitment to Compliance and “No Surprises” Performance**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:02.wet-weather-flow-management-to-support-mmsd-s-goal-for-zero",
+   "title": "Wet Weather Flow Management to Support MMSD’s Goal for Zero Overflows",
+   "level": 3,
+   "parent": "mmsd-om-2028:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 2
+   },
+   "end": {
+    "page": 10,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0010.md#¶2",
+   "heading_line": "###### **Wet Weather Flow Management to Support MMSD’s Goal for Zero Overflows**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:02.optimization-that-delivers-value-for-mmsd-s-budget",
+   "title": "Optimization that Delivers Value for MMSD’s Budget",
+   "level": 3,
+   "parent": "mmsd-om-2028:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 4
+   },
+   "end": {
+    "page": 10,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0010.md#¶4",
+   "heading_line": "###### **Optimization that Delivers Value for MMSD’s Budget**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:02.milorganite-production-precision-continuity-and-brand-protec",
+   "title": "Milorganite Production: Precision, Continuity, and Brand Protection",
+   "level": 3,
+   "parent": "mmsd-om-2028:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 6
+   },
+   "end": {
+    "page": 10,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0010.md#¶6",
+   "heading_line": "###### **Milorganite Production: Precision, Continuity, and Brand Protection**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:02.odor-control-prevention-early-warning-and-documented-respons",
+   "title": "Odor Control: Prevention, Early Warning, and Documented Response",
+   "level": 3,
+   "parent": "mmsd-om-2028:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 10,
+    "para": 8
+   },
+   "end": {
+    "page": 12,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0010.md#¶8",
+   "heading_line": "###### **Odor Control: Prevention, Early Warning, and Documented Response**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:02.regional-partnership-ideas-to-enhance-the-community",
+   "title": "Regional Partnership Ideas to Enhance the Community",
+   "level": 3,
+   "parent": "mmsd-om-2028:02",
+   "outline_index": 2,
+   "outline_title": "Executive Summary",
+   "kind": "body",
+   "start": {
+    "page": 12,
+    "para": 3
+   },
+   "end": {
+    "page": 12,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0012.md#¶3",
+   "heading_line": "###### **Regional Partnership Ideas to Enhance the Community**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:03",
+   "title": "I. Identity of the Proposer and Guarantor; Financial Assurances Requirements",
+   "level": 1,
+   "parent": null,
+   "outline_index": 3,
+   "outline_title": "I. Identity of the Proposer and Guarantor; Financial Assurances Requirements",
+   "kind": "outline+body",
+   "start": {
+    "page": 13,
+    "para": 1
+   },
+   "end": {
+    "page": 16,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0013.md#¶1",
+   "heading_line": "## IDENTITY OF THE PROPOSER AND GUARANTOR; FINANCIAL ASSURANCES REQUIREMENTS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:04",
+   "title": "I.A. Proposer Identity",
+   "level": 2,
+   "parent": "mmsd-om-2028:03",
+   "outline_index": 4,
+   "outline_title": "I.A. Proposer Identity",
+   "kind": "outline",
+   "start": {
+    "page": 13,
+    "para": 1
+   },
+   "end": {
+    "page": 13,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0013.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:05",
+   "title": "I.B. Letter of Credit",
+   "level": 2,
+   "parent": "mmsd-om-2028:03",
+   "outline_index": 5,
+   "outline_title": "I.B. Letter of Credit",
+   "kind": "outline",
+   "start": {
+    "page": 14,
+    "para": 1
+   },
+   "end": {
+    "page": 14,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0014.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:06",
+   "title": "I.C. Guaranty",
+   "level": 3,
+   "parent": "mmsd-om-2028:05",
+   "outline_index": 6,
+   "outline_title": "I.C. Guaranty",
+   "kind": "outline",
+   "start": {
+    "page": 14,
+    "para": 1
+   },
+   "end": {
+    "page": 15,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0014.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:07",
+   "title": "I.D. Insurance",
+   "level": 2,
+   "parent": "mmsd-om-2028:03",
+   "outline_index": 7,
+   "outline_title": "I.D. Insurance",
+   "kind": "outline+body",
+   "start": {
+    "page": 15,
+    "para": 2
+   },
+   "end": {
+    "page": 15,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0015.md#¶2",
+   "heading_line": "###### D. Insurance",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:08",
+   "title": "I.E. Confidentiality Statement",
+   "level": 2,
+   "parent": "mmsd-om-2028:03",
+   "outline_index": 8,
+   "outline_title": "I.E. Confidentiality Statement",
+   "kind": "outline+body",
+   "start": {
+    "page": 15,
+    "para": 6
+   },
+   "end": {
+    "page": 16,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0015.md#¶6",
+   "heading_line": "###### E. Confidentiality Statement",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:09",
+   "title": "II. Statement on Staffing, Training and Corporate Culture",
+   "level": 1,
+   "parent": null,
+   "outline_index": 9,
+   "outline_title": "II. Statement on Staffing, Training and Corporate Culture",
+   "kind": "outline+body",
+   "start": {
+    "page": 16,
+    "para": 2
+   },
+   "end": {
+    "page": 42,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0016.md#¶2",
+   "heading_line": "## STATEMENT ON STAFFING, TRAINING, AND CORPORATE CULTURE",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:10",
+   "title": "II.A. Staffing Strategy and Key Positions",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 10,
+   "outline_title": "II.A. Staffing Strategy and Key Positions",
+   "kind": "outline+body",
+   "start": {
+    "page": 16,
+    "para": 3
+   },
+   "end": {
+    "page": 20,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0016.md#¶3",
+   "heading_line": "###### A. Staffing Strategy and Key Positions",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:10.1-organizational-structure",
+   "title": "1. ORGANIZATIONAL STRUCTURE",
+   "level": 3,
+   "parent": "mmsd-om-2028:10",
+   "outline_index": 10,
+   "outline_title": "II.A. Staffing Strategy and Key Positions",
+   "kind": "body",
+   "start": {
+    "page": 16,
+    "para": 5
+   },
+   "end": {
+    "page": 20,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0016.md#¶5",
+   "heading_line": "###### 1. ORGANIZATIONAL STRUCTURE",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:10.1-1-leadership-team",
+   "title": "1.1. Leadership Team",
+   "level": 4,
+   "parent": "mmsd-om-2028:10.1-organizational-structure",
+   "outline_index": 10,
+   "outline_title": "II.A. Staffing Strategy and Key Positions",
+   "kind": "body",
+   "start": {
+    "page": 16,
+    "para": 8
+   },
+   "end": {
+    "page": 20,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0016.md#¶8",
+   "heading_line": "###### **1.1. Leadership Team**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11",
+   "title": "II.B. HR and Staffing Capability",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "outline+body",
+   "start": {
+    "page": 20,
+    "para": 7
+   },
+   "end": {
+    "page": 24,
+    "para": 25
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶7",
+   "heading_line": "###### B. HR and Staffing Capability",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.1-2-staffing-plan",
+   "title": "1.2. Staffing Plan",
+   "level": 3,
+   "parent": "mmsd-om-2028:11",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 8
+   },
+   "end": {
+    "page": 20,
+    "para": 11
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶8",
+   "heading_line": "###### **1.2. Staffing Plan**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.1-our-hr-and-staffing-commitment-to-mmsd",
+   "title": "1. OUR HR AND STAFFING COMMITMENT TO MMSD",
+   "level": 3,
+   "parent": "mmsd-om-2028:11",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 12
+   },
+   "end": {
+    "page": 21,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶12",
+   "heading_line": "###### 1. OUR HR AND STAFFING COMMITMENT TO MMSD",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.1-1-we-bring-an-award-winning-culture-aligned-with-mmsd-s-va",
+   "title": "1.1. We Bring an Award-Winning Culture Aligned with MMSD’s Values",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.1-our-hr-and-staffing-commitment-to-mmsd",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 13
+   },
+   "end": {
+    "page": 20,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶13",
+   "heading_line": "###### **1.1. We Bring an Award-Winning Culture Aligned with MMSD’s Values**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.1-3-mmsd-committees",
+   "title": "1.3. MMSD Committees",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.1-our-hr-and-staffing-commitment-to-mmsd",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 17
+   },
+   "end": {
+    "page": 20,
+    "para": 19
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶17",
+   "heading_line": "###### **1.3. MMSD Committees**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.1-2-hr-built-for-mmsd-project-specific-local-resources-and-b",
+   "title": "1.2. HR Built for MMSD—Project-Specific, Local Resources, and Backed by National Reach",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.1-our-hr-and-staffing-commitment-to-mmsd",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 20
+   },
+   "end": {
+    "page": 20,
+    "para": 27
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶20",
+   "heading_line": "###### **1.2. HR Built for MMSD—Project-Specific, Local Resources, and Backed by National Reach**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.executive-committee",
+   "title": "Executive Committee",
+   "level": 5,
+   "parent": "mmsd-om-2028:11.1-2-hr-built-for-mmsd-project-specific-local-resources-and-b",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 21
+   },
+   "end": {
+    "page": 20,
+    "para": 27
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶21",
+   "heading_line": "###### **Executive Committee**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.1-4-blue-ribbon-panel",
+   "title": "1.4. Blue Ribbon Panel",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.1-our-hr-and-staffing-commitment-to-mmsd",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 28
+   },
+   "end": {
+    "page": 21,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶28",
+   "heading_line": "###### **1.4. Blue Ribbon Panel**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.maintenance-committee",
+   "title": "Maintenance Committee",
+   "level": 5,
+   "parent": "mmsd-om-2028:11.1-4-blue-ribbon-panel",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 20,
+    "para": 31
+   },
+   "end": {
+    "page": 21,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0020.md#¶31",
+   "heading_line": "###### **Maintenance Committee**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.2-our-plan-to-fulfill-and-sustain-the-minimum-staffing-plan",
+   "title": "2. OUR PLAN TO FULFILL AND SUSTAIN THE MINIMUM STAFFING PLAN",
+   "level": 3,
+   "parent": "mmsd-om-2028:11",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 6
+   },
+   "end": {
+    "page": 21,
+    "para": 23
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0021.md#¶6",
+   "heading_line": "###### 2. OUR PLAN TO FULFILL AND SUSTAIN THE MINIMUM STAFFING PLAN",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.2-1-retain-qualified-incumbents",
+   "title": "2.1. Retain Qualified Incumbents",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.2-our-plan-to-fulfill-and-sustain-the-minimum-staffing-plan",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 8
+   },
+   "end": {
+    "page": 21,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0021.md#¶8",
+   "heading_line": "###### **2.1. Retain Qualified Incumbents**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.2-2-a-clear-plan-to-fill-vacancies-before-they-become-an-iss",
+   "title": "2.2. A Clear Plan to Fill Vacancies—Before They Become an Issue",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.2-our-plan-to-fulfill-and-sustain-the-minimum-staffing-plan",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 11
+   },
+   "end": {
+    "page": 21,
+    "para": 19
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0021.md#¶11",
+   "heading_line": "###### **2.2. A Clear Plan to Fill Vacancies—Before They Become an Issue**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.2-4-systems-and-reporting-that-make-staffing-transparent",
+   "title": "2.4. Systems and Reporting that Make Staffing Transparent",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.2-our-plan-to-fulfill-and-sustain-the-minimum-staffing-plan",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 20
+   },
+   "end": {
+    "page": 21,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0021.md#¶20",
+   "heading_line": "###### **2.4. Systems and Reporting that Make Staffing Transparent**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.2-5-alignment-with-mmsd-s-broader-goals",
+   "title": "2.5. Alignment with MMSD’s Broader Goals",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.2-our-plan-to-fulfill-and-sustain-the-minimum-staffing-plan",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 22
+   },
+   "end": {
+    "page": 21,
+    "para": 23
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0021.md#¶22",
+   "heading_line": "###### **2.5. Alignment with MMSD’s Broader Goals**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.3-union-and-labor-relations",
+   "title": "3. UNION AND LABOR RELATIONS",
+   "level": 3,
+   "parent": "mmsd-om-2028:11",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 21,
+    "para": 24
+   },
+   "end": {
+    "page": 23,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0021.md#¶24",
+   "heading_line": "###### 3. UNION AND LABOR RELATIONS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.3-1-process-for-transitioning-unionized-employees",
+   "title": "3.1. Process for Transitioning Unionized Employees",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.3-union-and-labor-relations",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 3
+   },
+   "end": {
+    "page": 22,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0022.md#¶3",
+   "heading_line": "###### **3.1. Process for Transitioning Unionized Employees**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.3-2-integrating-union-workforce-to-build-a-positive-culture",
+   "title": "3.2. Integrating Union Workforce to Build a Positive Culture from Day 1",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.3-union-and-labor-relations",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 7
+   },
+   "end": {
+    "page": 22,
+    "para": 19
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0022.md#¶7",
+   "heading_line": "###### **3.2. Integrating Union Workforce to Build a Positive Culture from Day 1**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.3-3-building-the-pipeline-with-apprenticeships-and-union-par",
+   "title": "3.3. Building the Pipeline with Apprenticeships and Union Partnerships",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.3-union-and-labor-relations",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 22,
+    "para": 20
+   },
+   "end": {
+    "page": 23,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0022.md#¶20",
+   "heading_line": "###### **3.3. Building the Pipeline with Apprenticeships and Union Partnerships**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.4-long-term-retention-and-succession-planning",
+   "title": "4. LONG-TERM RETENTION AND SUCCESSION PLANNING",
+   "level": 3,
+   "parent": "mmsd-om-2028:11",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 11
+   },
+   "end": {
+    "page": 24,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0023.md#¶11",
+   "heading_line": "###### 4. LONG-TERM RETENTION AND SUCCESSION PLANNING",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.4-1-integration-one-team-one-standard",
+   "title": "4.1. Integration: One Team, One Standard",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.4-long-term-retention-and-succession-planning",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 15
+   },
+   "end": {
+    "page": 23,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0023.md#¶15",
+   "heading_line": "###### **4.1. Integration: One Team, One Standard**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.4-3-succession-planning-a-structured-visible-path-to-advance",
+   "title": "4.3. Succession Planning—A Structured, Visible Path to Advancement",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.4-long-term-retention-and-succession-planning",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 23,
+    "para": 17
+   },
+   "end": {
+    "page": 24,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0023.md#¶17",
+   "heading_line": "###### **4.3. Succession Planning—A Structured, Visible Path to Advancement**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.5-standard-employee-benefits",
+   "title": "5. STANDARD EMPLOYEE BENEFITS",
+   "level": 3,
+   "parent": "mmsd-om-2028:11",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 4
+   },
+   "end": {
+    "page": 24,
+    "para": 25
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0024.md#¶4",
+   "heading_line": "###### 5. STANDARD EMPLOYEE BENEFITS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.5-1-union-employees-providing-affordable-benefits-respect-fo",
+   "title": "5.1. Union Employees—Providing Affordable Benefits, Respect for the Agreement, Clear Communications Commitment",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.5-standard-employee-benefits",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 6
+   },
+   "end": {
+    "page": 24,
+    "para": 13
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0024.md#¶6",
+   "heading_line": "###### **5.1. Union Employees—Providing Affordable Benefits, Respect for the Agreement, Clear Communications Commitment**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.5-2-standard-benefits-for-non-union-employees",
+   "title": "5.2. Standard Benefits for Non-Union Employees",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.5-standard-employee-benefits",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 14
+   },
+   "end": {
+    "page": 24,
+    "para": 20
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0024.md#¶14",
+   "heading_line": "###### **5.2. Standard Benefits for Non-Union Employees**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.5-3-well-being-safety-and-leave-helping-employees-manage-str",
+   "title": "5.3. Well-Being, Safety, and Leave—Helping Employees Manage Stress",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.5-standard-employee-benefits",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 21
+   },
+   "end": {
+    "page": 24,
+    "para": 22
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0024.md#¶21",
+   "heading_line": "###### **5.3. Well-Being, Safety, and Leave—Helping Employees Manage Stress**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:11.5-4-enrollment-employee-communication-and-reporting-make-it",
+   "title": "5.4. Enrollment, Employee Communication, and Reporting—Make It Easy, Keep It Transparent",
+   "level": 4,
+   "parent": "mmsd-om-2028:11.5-standard-employee-benefits",
+   "outline_index": 11,
+   "outline_title": "II.B. HR and Staffing Capability",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 23
+   },
+   "end": {
+    "page": 24,
+    "para": 25
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0024.md#¶23",
+   "heading_line": "###### **5.4. Enrollment, Employee Communication, and Reporting—Make It Easy, Keep It Transparent**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:12",
+   "title": "II.C. PM and CM Staffing",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 12,
+   "outline_title": "II.C. PM and CM Staffing",
+   "kind": "outline+body",
+   "start": {
+    "page": 24,
+    "para": 26
+   },
+   "end": {
+    "page": 26,
+    "para": 13
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0024.md#¶26",
+   "heading_line": "###### C. PM and CM Staffing",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:12.1-maintenance-staffing-that-meets-and-exceeds-mmsd-s-goals",
+   "title": "1. MAINTENANCE STAFFING THAT MEETS AND EXCEEDS MMSD’S GOALS",
+   "level": 3,
+   "parent": "mmsd-om-2028:12",
+   "outline_index": 12,
+   "outline_title": "II.C. PM and CM Staffing",
+   "kind": "body",
+   "start": {
+    "page": 24,
+    "para": 28
+   },
+   "end": {
+    "page": 25,
+    "para": 28
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0024.md#¶28",
+   "heading_line": "###### 1. MAINTENANCE STAFFING THAT MEETS AND EXCEEDS MMSD’S GOALS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:12.onsite-o-m-team",
+   "title": "Onsite O&M Team",
+   "level": 4,
+   "parent": "mmsd-om-2028:12.1-maintenance-staffing-that-meets-and-exceeds-mmsd-s-goals",
+   "outline_index": 12,
+   "outline_title": "II.C. PM and CM Staffing",
+   "kind": "body",
+   "start": {
+    "page": 25,
+    "para": 6
+   },
+   "end": {
+    "page": 25,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0025.md#¶6",
+   "heading_line": "###### **Onsite O&M Team**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:12.asset-management-team",
+   "title": "Asset Management Team",
+   "level": 4,
+   "parent": "mmsd-om-2028:12.1-maintenance-staffing-that-meets-and-exceeds-mmsd-s-goals",
+   "outline_index": 12,
+   "outline_title": "II.C. PM and CM Staffing",
+   "kind": "body",
+   "start": {
+    "page": 25,
+    "para": 9
+   },
+   "end": {
+    "page": 25,
+    "para": 28
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0025.md#¶9",
+   "heading_line": "###### **Asset Management Team**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:12.2-integrated-asset-management-maintenance-staff-focused-on-o",
+   "title": "2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES",
+   "level": 3,
+   "parent": "mmsd-om-2028:12",
+   "outline_index": 12,
+   "outline_title": "II.C. PM and CM Staffing",
+   "kind": "body",
+   "start": {
+    "page": 25,
+    "para": 29
+   },
+   "end": {
+    "page": 26,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0025.md#¶29",
+   "heading_line": "###### 2. INTEGRATED ASSET MANAGEMENT + MAINTENANCE = STAFF FOCUSED ON OUTCOMES",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:12.3-pm-staffing-and-schedule-discipline",
+   "title": "3. PM STAFFING AND SCHEDULE DISCIPLINE",
+   "level": 3,
+   "parent": "mmsd-om-2028:12",
+   "outline_index": 12,
+   "outline_title": "II.C. PM and CM Staffing",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 6
+   },
+   "end": {
+    "page": 26,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0026.md#¶6",
+   "heading_line": "###### 3. PM STAFFING AND SCHEDULE DISCIPLINE",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:12.4-cm-staffing-rapid-response-without-diminishing-pm",
+   "title": "4. CM STAFFING—RAPID RESPONSE WITHOUT DIMINISHING PM",
+   "level": 3,
+   "parent": "mmsd-om-2028:12",
+   "outline_index": 12,
+   "outline_title": "II.C. PM and CM Staffing",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 9
+   },
+   "end": {
+    "page": 26,
+    "para": 11
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0026.md#¶9",
+   "heading_line": "###### 4. CM STAFFING—RAPID RESPONSE WITHOUT DIMINISHING PM",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:12.5-pdm-integration-will-maximize-pm-value",
+   "title": "5. PDM INTEGRATION WILL MAXIMIZE PM VALUE",
+   "level": 3,
+   "parent": "mmsd-om-2028:12",
+   "outline_index": 12,
+   "outline_title": "II.C. PM and CM Staffing",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 12
+   },
+   "end": {
+    "page": 26,
+    "para": 13
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0026.md#¶12",
+   "heading_line": "###### 5. PDM INTEGRATION WILL MAXIMIZE PM VALUE",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:13",
+   "title": "II.D. Use of Subcontractors",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 13,
+   "outline_title": "II.D. Use of Subcontractors",
+   "kind": "outline+body",
+   "start": {
+    "page": 26,
+    "para": 14
+   },
+   "end": {
+    "page": 27,
+    "para": 20
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0026.md#¶14",
+   "heading_line": "###### D. Use of Subcontractors",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:13.1-identifying-selecting-and-managing-subcontractors",
+   "title": "1. IDENTIFYING, SELECTING, AND MANAGING SUBCONTRACTORS",
+   "level": 3,
+   "parent": "mmsd-om-2028:13",
+   "outline_index": 13,
+   "outline_title": "II.D. Use of Subcontractors",
+   "kind": "body",
+   "start": {
+    "page": 26,
+    "para": 18
+   },
+   "end": {
+    "page": 27,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0026.md#¶18",
+   "heading_line": "###### 1. IDENTIFYING, SELECTING, AND MANAGING SUBCONTRACTORS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:13.2-documentation-and-reporting-protocols",
+   "title": "2. DOCUMENTATION AND REPORTING PROTOCOLS",
+   "level": 3,
+   "parent": "mmsd-om-2028:13",
+   "outline_index": 13,
+   "outline_title": "II.D. Use of Subcontractors",
+   "kind": "body",
+   "start": {
+    "page": 27,
+    "para": 17
+   },
+   "end": {
+    "page": 27,
+    "para": 20
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0027.md#¶17",
+   "heading_line": "###### 2.  DOCUMENTATION AND REPORTING PROTOCOLS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:14",
+   "title": "II.E. Technical Training Program",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 14,
+   "outline_title": "II.E. Technical Training Program",
+   "kind": "outline+body",
+   "start": {
+    "page": 27,
+    "para": 21
+   },
+   "end": {
+    "page": 29,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0027.md#¶21",
+   "heading_line": "###### E. Technical Training Program",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:14.1-commitment-to-learning-safety-and-continuous-improvement",
+   "title": "1. COMMITMENT TO LEARNING, SAFETY, AND CONTINUOUS IMPROVEMENT",
+   "level": 3,
+   "parent": "mmsd-om-2028:14",
+   "outline_index": 14,
+   "outline_title": "II.E. Technical Training Program",
+   "kind": "body",
+   "start": {
+    "page": 27,
+    "para": 23
+   },
+   "end": {
+    "page": 28,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0027.md#¶23",
+   "heading_line": "###### 1. COMMITMENT TO LEARNING, SAFETY, AND CONTINUOUS IMPROVEMENT",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:14.2-structured-accountable-training-framework",
+   "title": "2. STRUCTURED, ACCOUNTABLE TRAINING FRAMEWORK",
+   "level": 3,
+   "parent": "mmsd-om-2028:14",
+   "outline_index": 14,
+   "outline_title": "II.E. Technical Training Program",
+   "kind": "body",
+   "start": {
+    "page": 28,
+    "para": 6
+   },
+   "end": {
+    "page": 28,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0028.md#¶6",
+   "heading_line": "###### 2. STRUCTURED, ACCOUNTABLE TRAINING FRAMEWORK",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:14.3-operations-management-staff-training-programs",
+   "title": "3. OPERATIONS MANAGEMENT STAFF TRAINING PROGRAMS",
+   "level": 3,
+   "parent": "mmsd-om-2028:14",
+   "outline_index": 14,
+   "outline_title": "II.E. Technical Training Program",
+   "kind": "body",
+   "start": {
+    "page": 28,
+    "para": 22
+   },
+   "end": {
+    "page": 29,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0028.md#¶22",
+   "heading_line": "###### 3. OPERATIONS MANAGEMENT STAFF TRAINING PROGRAMS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:14.4-value-add-digital-innovation-in-training-digital-twin-oper",
+   "title": "4. VALUE-ADD: DIGITAL INNOVATION IN TRAINING – DIGITAL TWIN OPERATIONS",
+   "level": 3,
+   "parent": "mmsd-om-2028:14",
+   "outline_index": 14,
+   "outline_title": "II.E. Technical Training Program",
+   "kind": "body",
+   "start": {
+    "page": 29,
+    "para": 4
+   },
+   "end": {
+    "page": 29,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0029.md#¶4",
+   "heading_line": "###### 4. VALUE-ADD: DIGITAL INNOVATION IN TRAINING – DIGITAL TWIN OPERATIONS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:15",
+   "title": "II.F. Safe Work Environment",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 15,
+   "outline_title": "II.F. Safe Work Environment",
+   "kind": "outline+body",
+   "start": {
+    "page": 29,
+    "para": 9
+   },
+   "end": {
+    "page": 29,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0029.md#¶9",
+   "heading_line": "###### F. Safe Work Environment",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:15.1-fostering-a-safe-work-environment",
+   "title": "1. FOSTERING A SAFE WORK ENVIRONMENT",
+   "level": 3,
+   "parent": "mmsd-om-2028:15",
+   "outline_index": 15,
+   "outline_title": "II.F. Safe Work Environment",
+   "kind": "body",
+   "start": {
+    "page": 29,
+    "para": 11
+   },
+   "end": {
+    "page": 29,
+    "para": 14
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0029.md#¶11",
+   "heading_line": "###### 1. FOSTERING A SAFE WORK ENVIRONMENT",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:15.2-healthy-workforce-and-well-being",
+   "title": "2. HEALTHY WORKFORCE AND WELL-BEING",
+   "level": 3,
+   "parent": "mmsd-om-2028:15",
+   "outline_index": 15,
+   "outline_title": "II.F. Safe Work Environment",
+   "kind": "body",
+   "start": {
+    "page": 29,
+    "para": 15
+   },
+   "end": {
+    "page": 29,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0029.md#¶15",
+   "heading_line": "###### 2. HEALTHY WORKFORCE AND WELL-BEING",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:16",
+   "title": "II.G. Positive Corporate Culture",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 16,
+   "outline_title": "II.G. Positive Corporate Culture",
+   "kind": "outline+body",
+   "start": {
+    "page": 29,
+    "para": 17
+   },
+   "end": {
+    "page": 31,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0029.md#¶17",
+   "heading_line": "###### G. Positive Corporate Culture",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:16.1-building-our-one-water-one-team-one-vision-culture",
+   "title": "1. BUILDING OUR ONE WATER, ONE TEAM, ONE VISION CULTURE",
+   "level": 3,
+   "parent": "mmsd-om-2028:16",
+   "outline_index": 16,
+   "outline_title": "II.G. Positive Corporate Culture",
+   "kind": "body",
+   "start": {
+    "page": 29,
+    "para": 18
+   },
+   "end": {
+    "page": 30,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0029.md#¶18",
+   "heading_line": "###### 1. BUILDING OUR ONE WATER, ONE TEAM, ONE VISION CULTURE",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:16.2-maintaining-a-respectful-workplace-of-inclusion-and-belong",
+   "title": "2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING",
+   "level": 3,
+   "parent": "mmsd-om-2028:16",
+   "outline_index": 16,
+   "outline_title": "II.G. Positive Corporate Culture",
+   "kind": "body",
+   "start": {
+    "page": 30,
+    "para": 11
+   },
+   "end": {
+    "page": 31,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0030.md#¶11",
+   "heading_line": "###### 2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:16.3-zero-tolerance-for-harassment-discrimination-or-bullying",
+   "title": "3. ZERO TOLERANCE FOR HARASSMENT, DISCRIMINATION, OR BULLYING",
+   "level": 3,
+   "parent": "mmsd-om-2028:16",
+   "outline_index": 16,
+   "outline_title": "II.G. Positive Corporate Culture",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 5
+   },
+   "end": {
+    "page": 31,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0031.md#¶5",
+   "heading_line": "###### 3. ZERO TOLERANCE FOR HARASSMENT, DISCRIMINATION, OR BULLYING",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:16.4-employee-feedback-engine-for-continuous-improvement",
+   "title": "4. EMPLOYEE FEEDBACK: ENGINE FOR CONTINUOUS IMPROVEMENT",
+   "level": 3,
+   "parent": "mmsd-om-2028:16",
+   "outline_index": 16,
+   "outline_title": "II.G. Positive Corporate Culture",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 8
+   },
+   "end": {
+    "page": 31,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0031.md#¶8",
+   "heading_line": "###### 4. EMPLOYEE FEEDBACK: ENGINE FOR CONTINUOUS IMPROVEMENT",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:16.5-a-culture-that-celebrates-teamwork-and-achievement",
+   "title": "5. A CULTURE THAT CELEBRATES TEAMWORK AND ACHIEVEMENT",
+   "level": 3,
+   "parent": "mmsd-om-2028:16",
+   "outline_index": 16,
+   "outline_title": "II.G. Positive Corporate Culture",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 11
+   },
+   "end": {
+    "page": 31,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0031.md#¶11",
+   "heading_line": "###### 5. A CULTURE THAT CELEBRATES TEAMWORK AND ACHIEVEMENT",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:17",
+   "title": "II.H. Workforce Development",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 17,
+   "outline_title": "II.H. Workforce Development",
+   "kind": "outline+body",
+   "start": {
+    "page": 31,
+    "para": 17
+   },
+   "end": {
+    "page": 34,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0031.md#¶17",
+   "heading_line": "###### H. Workforce Development",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:17.1-elements-of-the-plan-and-implementation-strategies",
+   "title": "1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES",
+   "level": 3,
+   "parent": "mmsd-om-2028:17",
+   "outline_index": 17,
+   "outline_title": "II.H. Workforce Development",
+   "kind": "body",
+   "start": {
+    "page": 31,
+    "para": 19
+   },
+   "end": {
+    "page": 34,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0031.md#¶19",
+   "heading_line": "###### 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:17.1-1-structured-career-pathways-promote-advancement-opportuni",
+   "title": "1.1. Structured Career Pathways Promote Advancement Opportunities",
+   "level": 4,
+   "parent": "mmsd-om-2028:17.1-elements-of-the-plan-and-implementation-strategies",
+   "outline_index": 17,
+   "outline_title": "II.H. Workforce Development",
+   "kind": "body",
+   "start": {
+    "page": 32,
+    "para": 10
+   },
+   "end": {
+    "page": 33,
+    "para": 17
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0032.md#¶10",
+   "heading_line": "###### **1.1. Structured Career Pathways Promote Advancement Opportunities**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:17.1-4-bolstering-career-awareness",
+   "title": "1.4. Bolstering Career Awareness",
+   "level": 4,
+   "parent": "mmsd-om-2028:17.1-elements-of-the-plan-and-implementation-strategies",
+   "outline_index": 17,
+   "outline_title": "II.H. Workforce Development",
+   "kind": "body",
+   "start": {
+    "page": 33,
+    "para": 18
+   },
+   "end": {
+    "page": 33,
+    "para": 18
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0033.md#¶18",
+   "heading_line": "###### **1.4. Bolstering Career Awareness**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:17.1-3-internships-peak-interest-in-careers",
+   "title": "1.3. Internships Peak Interest in Careers",
+   "level": 4,
+   "parent": "mmsd-om-2028:17.1-elements-of-the-plan-and-implementation-strategies",
+   "outline_index": 17,
+   "outline_title": "II.H. Workforce Development",
+   "kind": "body",
+   "start": {
+    "page": 33,
+    "para": 19
+   },
+   "end": {
+    "page": 34,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0033.md#¶19",
+   "heading_line": "###### **1.3. Internships Peak Interest in Careers**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:17.2-dedicated-workforce-development-team-and-reporting",
+   "title": "2. DEDICATED WORKFORCE DEVELOPMENT TEAM AND REPORTING",
+   "level": 3,
+   "parent": "mmsd-om-2028:17",
+   "outline_index": 17,
+   "outline_title": "II.H. Workforce Development",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 3
+   },
+   "end": {
+    "page": 34,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0034.md#¶3",
+   "heading_line": "###### 2. DEDICATED WORKFORCE DEVELOPMENT TEAM AND REPORTING",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:17.construction-academy-helps-increase-sbe-participation-in-oma",
+   "title": "Construction Academy Helps Increase SBE Participation in Omaha",
+   "level": 4,
+   "parent": "mmsd-om-2028:17.2-dedicated-workforce-development-team-and-reporting",
+   "outline_index": 17,
+   "outline_title": "II.H. Workforce Development",
+   "kind": "body",
+   "start": {
+    "page": 34,
+    "para": 11
+   },
+   "end": {
+    "page": 34,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0034.md#¶11",
+   "heading_line": "###### **_Construction Academy Helps Increase SBE Participation in Omaha_**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:18",
+   "title": "II.I. Key Staff Resumes",
+   "level": 2,
+   "parent": "mmsd-om-2028:09",
+   "outline_index": 18,
+   "outline_title": "II.I. Key Staff Resumes",
+   "kind": "outline",
+   "start": {
+    "page": 35,
+    "para": 1
+   },
+   "end": {
+    "page": 42,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0035.md#¶1",
+   "heading_line": "",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:18.maintenance-asset-manager-wrfs-frank-dipietrapaul",
+   "title": "Maintenance & Asset Manager (WRFs) – Frank Dipietrapaul",
+   "level": 3,
+   "parent": "mmsd-om-2028:18",
+   "outline_index": 18,
+   "outline_title": "II.I. Key Staff Resumes",
+   "kind": "body",
+   "start": {
+    "page": 37,
+    "para": 6
+   },
+   "end": {
+    "page": 37,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0037.md#¶6",
+   "heading_line": "###### **Maintenance & Asset Manager (WRFs) – Frank Dipietrapaul**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju",
+   "title": "Public Outreach Coordinator – Toyin Ogunfolaju",
+   "level": 3,
+   "parent": "mmsd-om-2028:18",
+   "outline_index": 18,
+   "outline_title": "II.I. Key Staff Resumes",
+   "kind": "body",
+   "start": {
+    "page": 37,
+    "para": 8
+   },
+   "end": {
+    "page": 38,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0037.md#¶8",
+   "heading_line": "###### **Public Outreach Coordinator – Toyin Ogunfolaju**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:18.maintenance-asset-manager-conveyance-monty-sedlak-pmp-pgmp-c",
+   "title": "Maintenance & Asset Manager (Conveyance) – Monty Sedlak, PMP, PgMP, CSP",
+   "level": 3,
+   "parent": "mmsd-om-2028:18",
+   "outline_index": 18,
+   "outline_title": "II.I. Key Staff Resumes",
+   "kind": "body",
+   "start": {
+    "page": 38,
+    "para": 4
+   },
+   "end": {
+    "page": 38,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0038.md#¶4",
+   "heading_line": "###### **Maintenance & Asset Manager (Conveyance) – Monty Sedlak, PMP, PgMP, CSP**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:18.wrf-operations-manager-aleksey-reznik",
+   "title": "WRF Operations Manager – Aleksey Reznik",
+   "level": 3,
+   "parent": "mmsd-om-2028:18",
+   "outline_index": 18,
+   "outline_title": "II.I. Key Staff Resumes",
+   "kind": "body",
+   "start": {
+    "page": 38,
+    "para": 5
+   },
+   "end": {
+    "page": 39,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0038.md#¶5",
+   "heading_line": "###### **WRF Operations Manager – Aleksey Reznik**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe",
+   "title": "Capital Project Coordinator – Liie Hill, PE",
+   "level": 3,
+   "parent": "mmsd-om-2028:18",
+   "outline_index": 18,
+   "outline_title": "II.I. Key Staff Resumes",
+   "kind": "body",
+   "start": {
+    "page": 39,
+    "para": 6
+   },
+   "end": {
+    "page": 42,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0039.md#¶6",
+   "heading_line": "###### **Capital Project Coordinator – Liie Hill, PE**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19",
+   "title": "III. Pricing",
+   "level": 1,
+   "parent": null,
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "outline+body",
+   "start": {
+    "page": 42,
+    "para": 2
+   },
+   "end": {
+    "page": 44,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0042.md#¶2",
+   "heading_line": "## PRICING",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.a-staffing-and-labor-cost-basis",
+   "title": "A. Staffing and Labor Cost Basis",
+   "level": 2,
+   "parent": "mmsd-om-2028:19",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 5
+   },
+   "end": {
+    "page": 42,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0042.md#¶5",
+   "heading_line": "###### A. Staffing and Labor Cost Basis",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.above-and-beyond-minimum-staffing",
+   "title": "Above and Beyond Minimum Staffing",
+   "level": 3,
+   "parent": "mmsd-om-2028:19.a-staffing-and-labor-cost-basis",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 6
+   },
+   "end": {
+    "page": 42,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0042.md#¶6",
+   "heading_line": "###### **Above and Beyond Minimum Staffing**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.preventive-corrective-and-task-order-labor",
+   "title": "Preventive, Corrective, and Task Order Labor",
+   "level": 3,
+   "parent": "mmsd-om-2028:19.a-staffing-and-labor-cost-basis",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 9
+   },
+   "end": {
+    "page": 42,
+    "para": 13
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0042.md#¶9",
+   "heading_line": "###### **Preventive, Corrective, and Task Order Labor**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.wage-rates-and-overtime",
+   "title": "Wage Rates and Overtime",
+   "level": 3,
+   "parent": "mmsd-om-2028:19.a-staffing-and-labor-cost-basis",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 14
+   },
+   "end": {
+    "page": 42,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0042.md#¶14",
+   "heading_line": "###### **Wage Rates and Overtime**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.electricity-and-onsite-generation",
+   "title": "Electricity and Onsite Generation",
+   "level": 3,
+   "parent": "mmsd-om-2028:19.a-staffing-and-labor-cost-basis",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 17
+   },
+   "end": {
+    "page": 42,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0042.md#¶17",
+   "heading_line": "###### **Electricity and Onsite Generation**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.b-natural-gas",
+   "title": "B. Natural Gas",
+   "level": 2,
+   "parent": "mmsd-om-2028:19",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 42,
+    "para": 22
+   },
+   "end": {
+    "page": 43,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0042.md#¶22",
+   "heading_line": "###### B. Natural Gas",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.c-chemicals-and-process-consumables",
+   "title": "C. Chemicals and Process Consumables",
+   "level": 2,
+   "parent": "mmsd-om-2028:19",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 2
+   },
+   "end": {
+    "page": 43,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0043.md#¶2",
+   "heading_line": "###### C. Chemicals and Process Consumables",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.d-maintenance-economics-and-cost-stability",
+   "title": "D. Maintenance Economics and Cost Stability",
+   "level": 2,
+   "parent": "mmsd-om-2028:19",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 9
+   },
+   "end": {
+    "page": 43,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0043.md#¶9",
+   "heading_line": "###### D. Maintenance Economics and Cost Stability",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.e-other-base-fee-and-contractual-cost-elements",
+   "title": "E. Other Base Fee and Contractual Cost Elements",
+   "level": 2,
+   "parent": "mmsd-om-2028:19",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 11
+   },
+   "end": {
+    "page": 43,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0043.md#¶11",
+   "heading_line": "###### E. Other Base Fee and Contractual Cost Elements",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.f-potential-saving-opportunities",
+   "title": "F. Potential Saving Opportunities",
+   "level": 2,
+   "parent": "mmsd-om-2028:19",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 16
+   },
+   "end": {
+    "page": 43,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0043.md#¶16",
+   "heading_line": "###### F. Potential Saving Opportunities",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:19.g-closing-statement",
+   "title": "G. Closing Statement",
+   "level": 2,
+   "parent": "mmsd-om-2028:19",
+   "outline_index": 19,
+   "outline_title": "III. Pricing",
+   "kind": "body",
+   "start": {
+    "page": 43,
+    "para": 22
+   },
+   "end": {
+    "page": 44,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0043.md#¶22",
+   "heading_line": "###### G. Closing Statement",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:20",
+   "title": "IV. Statement on Company's Approach",
+   "level": 1,
+   "parent": null,
+   "outline_index": 20,
+   "outline_title": "IV. Statement on Company's Approach",
+   "kind": "outline+body",
+   "start": {
+    "page": 44,
+    "para": 2
+   },
+   "end": {
+    "page": 44,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0044.md#¶2",
+   "heading_line": "## STATEMENT ON COMPANY’S APPROACH",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:21",
+   "title": "IV. Approach Summary",
+   "level": 1,
+   "parent": null,
+   "outline_index": 21,
+   "outline_title": "IV. Approach Summary",
+   "kind": "outline+body",
+   "start": {
+    "page": 44,
+    "para": 3
+   },
+   "end": {
+    "page": 138,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0044.md#¶3",
+   "heading_line": "###### Approach Summary",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:21.transparent-program-management-pgm-framework",
+   "title": "Transparent Program Management (PgM) Framework",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 21,
+   "outline_title": "IV. Approach Summary",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 10
+   },
+   "end": {
+    "page": 44,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0044.md#¶10",
+   "heading_line": "###### **Transparent Program Management (PgM) Framework**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:21.embedded-leadership-engaged-support",
+   "title": "Embedded Leadership & Engaged Support",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 21,
+   "outline_title": "IV. Approach Summary",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 11
+   },
+   "end": {
+    "page": 44,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0044.md#¶11",
+   "heading_line": "###### **Embedded Leadership & Engaged Support**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:21.wet-weather-management",
+   "title": "Wet Weather Management",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 21,
+   "outline_title": "IV. Approach Summary",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 16
+   },
+   "end": {
+    "page": 44,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0044.md#¶16",
+   "heading_line": "###### **Wet Weather Management**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:21.advanced-digital-tools",
+   "title": "Advanced Digital Tools",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 21,
+   "outline_title": "IV. Approach Summary",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 17
+   },
+   "end": {
+    "page": 44,
+    "para": 17
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0044.md#¶17",
+   "heading_line": "###### **Advanced Digital Tools**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:21.biosolids-management",
+   "title": "Biosolids Management",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 21,
+   "outline_title": "IV. Approach Summary",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 18
+   },
+   "end": {
+    "page": 44,
+    "para": 18
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0044.md#¶18",
+   "heading_line": "###### **Biosolids Management**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:21.energy-and-chemical-optimization",
+   "title": "Energy and Chemical Optimization",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 21,
+   "outline_title": "IV. Approach Summary",
+   "kind": "body",
+   "start": {
+    "page": 44,
+    "para": 19
+   },
+   "end": {
+    "page": 46,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0044.md#¶19",
+   "heading_line": "###### **Energy and Chemical Optimization**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:22",
+   "title": "IV.A. Approach to Management, Operations, PM, and CM",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 22,
+   "outline_title": "IV.A. Approach to Management, Operations, PM, and CM",
+   "kind": "outline+body",
+   "start": {
+    "page": 46,
+    "para": 3
+   },
+   "end": {
+    "page": 119,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0046.md#¶3",
+   "heading_line": "###### A. Approach to Management, Operations, PM, and CM",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:23",
+   "title": "IV.A.1. Approach to Management of Facilities",
+   "level": 3,
+   "parent": "mmsd-om-2028:22",
+   "outline_index": 23,
+   "outline_title": "IV.A.1. Approach to Management of Facilities",
+   "kind": "outline+body",
+   "start": {
+    "page": 48,
+    "para": 5
+   },
+   "end": {
+    "page": 52,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0048.md#¶5",
+   "heading_line": "###### 1. APPROACH TO MANAGEMENT OF FACILITIES",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:23.1-1-key-focus-areas-in-delivering-excellence",
+   "title": "1.1. Key Focus Areas in Delivering Excellence",
+   "level": 4,
+   "parent": "mmsd-om-2028:23",
+   "outline_index": 23,
+   "outline_title": "IV.A.1. Approach to Management of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 7
+   },
+   "end": {
+    "page": 48,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0048.md#¶7",
+   "heading_line": "###### **1.1. Key Focus Areas in Delivering Excellence**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:23.1-2-pgm-framework-is-the-foundation-of-our-shared-success",
+   "title": "1.2. PgM Framework is the Foundation of Our Shared Success",
+   "level": 4,
+   "parent": "mmsd-om-2028:23",
+   "outline_index": 23,
+   "outline_title": "IV.A.1. Approach to Management of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 48,
+    "para": 9
+   },
+   "end": {
+    "page": 52,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0048.md#¶9",
+   "heading_line": "###### **1.2. PgM Framework is the Foundation of Our Shared Success**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framework-for",
+   "title": "1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD",
+   "level": 5,
+   "parent": "mmsd-om-2028:23.1-2-pgm-framework-is-the-foundation-of-our-shared-success",
+   "outline_index": 23,
+   "outline_title": "IV.A.1. Approach to Management of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 49,
+    "para": 3
+   },
+   "end": {
+    "page": 52,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0049.md#¶3",
+   "heading_line": "###### **1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24",
+   "title": "IV.A.2. Approach to Operations of Facilities",
+   "level": 3,
+   "parent": "mmsd-om-2028:22",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "outline+body",
+   "start": {
+    "page": 52,
+    "para": 13
+   },
+   "end": {
+    "page": 72,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0052.md#¶13",
+   "heading_line": "###### EXHIBIT IV-11. OPERATIONS OF MMSD FACILITIES",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.2-1-collaborative-decision-making-for-safe-compliant-and-rel",
+   "title": "2.1. Collaborative Decision-Making for Safe, Compliant, and Reliable Operations",
+   "level": 4,
+   "parent": "mmsd-om-2028:24",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 53,
+    "para": 4
+   },
+   "end": {
+    "page": 54,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0053.md#¶4",
+   "heading_line": "###### **2.1. Collaborative Decision-Making for Safe, Compliant, and Reliable Operations**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.01-onsite-process-control-and-operational-and-maintenance-de",
+   "title": "01 ONSITE PROCESS CONTROL AND OPERATIONAL AND MAINTENANCE DECISIONS",
+   "level": 4,
+   "parent": "mmsd-om-2028:24",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 54,
+    "para": 7
+   },
+   "end": {
+    "page": 54,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0054.md#¶7",
+   "heading_line": "###### **01 ONSITE PROCESS CONTROL AND OPERATIONAL AND MAINTENANCE DECISIONS**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.02-collaborative-oversight-and-optimization",
+   "title": "02 COLLABORATIVE OVERSIGHT AND OPTIMIZATION",
+   "level": 4,
+   "parent": "mmsd-om-2028:24",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 54,
+    "para": 11
+   },
+   "end": {
+    "page": 54,
+    "para": 13
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0054.md#¶11",
+   "heading_line": "###### **02 COLLABORATIVE OVERSIGHT AND OPTIMIZATION**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
+   "title": "03 STRATEGIC AND CONTINUOUS IMPROVEMENT",
+   "level": 4,
+   "parent": "mmsd-om-2028:24",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 54,
+    "para": 14
+   },
+   "end": {
+    "page": 72,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0054.md#¶14",
+   "heading_line": "###### **03 STRATEGIC AND CONTINUOUS IMPROVEMENT**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.collection-system-wet-weather-flow-management",
+   "title": "COLLECTION SYSTEM & WET-WEATHER FLOW MANAGEMENT",
+   "level": 5,
+   "parent": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 12
+   },
+   "end": {
+    "page": 55,
+    "para": 13
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0055.md#¶12",
+   "heading_line": "###### **COLLECTION SYSTEM &  WET-WEATHER FLOW MANAGEMENT**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.liquid-treatment-process-control",
+   "title": "LIQUID TREATMENT PROCESS CONTROL",
+   "level": 5,
+   "parent": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 14
+   },
+   "end": {
+    "page": 55,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0055.md#¶14",
+   "heading_line": "###### **LIQUID TREATMENT PROCESS CONTROL**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.solids-processing-milorganite-production",
+   "title": "SOLIDS PROCESSING & MILORGANITE PRODUCTION",
+   "level": 5,
+   "parent": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 16
+   },
+   "end": {
+    "page": 55,
+    "para": 17
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0055.md#¶16",
+   "heading_line": "###### **SOLIDS PROCESSING & MILORGANITE  PRODUCTION**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.energy-optimization",
+   "title": "ENERGY OPTIMIZATION",
+   "level": 5,
+   "parent": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 18
+   },
+   "end": {
+    "page": 55,
+    "para": 19
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0055.md#¶18",
+   "heading_line": "###### **ENERGY OPTIMIZATION**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.chemical-optimization",
+   "title": "CHEMICAL OPTIMIZATION",
+   "level": 5,
+   "parent": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 20
+   },
+   "end": {
+    "page": 55,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0055.md#¶20",
+   "heading_line": "###### **CHEMICAL  OPTIMIZATION**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.odor-control",
+   "title": "ODOR CONTROL",
+   "level": 5,
+   "parent": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 55,
+    "para": 22
+   },
+   "end": {
+    "page": 60,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0055.md#¶22",
+   "heading_line": "###### **ODOR  CONTROL**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.intelligent-dry-weather-management",
+   "title": "Intelligent Dry Weather Management",
+   "level": 6,
+   "parent": "mmsd-om-2028:24.odor-control",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 58,
+    "para": 7
+   },
+   "end": {
+    "page": 59,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0058.md#¶7",
+   "heading_line": "###### _Intelligent Dry Weather Management_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.effective-and-efficient-wet-weather-operations",
+   "title": "Effective and Efficient Wet Weather Operations",
+   "level": 6,
+   "parent": "mmsd-om-2028:24.odor-control",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 59,
+    "para": 8
+   },
+   "end": {
+    "page": 60,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0059.md#¶8",
+   "heading_line": "###### _Effective and Efficient Wet Weather Operations_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.2-2-2-jiwrf-and-sswrf-wet-processes-focus-area",
+   "title": "2.2.2. JIWRF and SSWRF Wet Processes - Focus Area",
+   "level": 5,
+   "parent": "mmsd-om-2028:24.03-strategic-and-continuous-improvement",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 60,
+    "para": 2
+   },
+   "end": {
+    "page": 72,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0060.md#¶2",
+   "heading_line": "###### **2.2.2. JIWRF and SSWRF Wet Processes - Focus Area**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.systemwide-integration-for-optimized-operations",
+   "title": "Systemwide Integration for Optimized Operations",
+   "level": 6,
+   "parent": "mmsd-om-2028:24.2-2-2-jiwrf-and-sswrf-wet-processes-focus-area",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 60,
+    "para": 5
+   },
+   "end": {
+    "page": 60,
+    "para": 13
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0060.md#¶5",
+   "heading_line": "###### _Systemwide Integration for Optimized Operations_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf",
+   "title": "Specific Optimization Opportunities at SSWRF and JIWRF",
+   "level": 6,
+   "parent": "mmsd-om-2028:24.2-2-2-jiwrf-and-sswrf-wet-processes-focus-area",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 60,
+    "para": 14
+   },
+   "end": {
+    "page": 67,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0060.md#¶14",
+   "heading_line": "###### _Specific Optimization Opportunities at SSWRF and JIWRF_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs",
+   "title": "SSWRF digester gas may meet all facility’s power needs",
+   "level": 6,
+   "parent": "mmsd-om-2028:24.2-2-2-jiwrf-and-sswrf-wet-processes-focus-area",
+   "outline_index": 24,
+   "outline_title": "IV.A.2. Approach to Operations of Facilities",
+   "kind": "body",
+   "start": {
+    "page": 67,
+    "para": 5
+   },
+   "end": {
+    "page": 72,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0067.md#¶5",
+   "heading_line": "###### _SSWRF digester gas may meet all facility’s power needs_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25",
+   "title": "IV.A.6. Responding to Public Odor Complaints",
+   "level": 3,
+   "parent": "mmsd-om-2028:22",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "outline+body",
+   "start": {
+    "page": 72,
+    "para": 4
+   },
+   "end": {
+    "page": 90,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0072.md#¶4",
+   "heading_line": "###### **2.2.6. Odor Control and Responding to Odor Complaints - Focus Area**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min",
+   "title": "Installation of “Odor Early Warning System” at the WRFs to Minimize Odors",
+   "level": 4,
+   "parent": "mmsd-om-2028:25",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 73,
+    "para": 8
+   },
+   "end": {
+    "page": 76,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0073.md#¶8",
+   "heading_line": "###### **Installation of “Odor Early Warning System” at the WRFs to Minimize Odors**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-3-deep-domain-expertise-powered-by-advanced-digital-tools",
+   "title": "2.3. Deep Domain Expertise Powered by Advanced Digital Tools",
+   "level": 4,
+   "parent": "mmsd-om-2028:25",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 76,
+    "para": 4
+   },
+   "end": {
+    "page": 79,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0076.md#¶4",
+   "heading_line": "###### **2.3. Deep Domain Expertise Powered by Advanced Digital Tools**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-3-1-digital-twin-enabling-system-wide-optimization",
+   "title": "2.3.1. Digital Twin: Enabling System-Wide Optimization",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-3-deep-domain-expertise-powered-by-advanced-digital-tools",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 76,
+    "para": 6
+   },
+   "end": {
+    "page": 79,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0076.md#¶6",
+   "heading_line": "###### **2.3.1. Digital Twin: Enabling System-Wide Optimization**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.our-digital-one-water-connects-data-across-the-full-wastewat",
+   "title": "Our Digital One Water connects data across the full wastewater",
+   "level": 6,
+   "parent": "mmsd-om-2028:25.2-3-1-digital-twin-enabling-system-wide-optimization",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 76,
+    "para": 10
+   },
+   "end": {
+    "page": 79,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0076.md#¶10",
+   "heading_line": "###### **Our Digital One Water connects data across the full wastewater**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a",
+   "title": "2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise",
+   "level": 4,
+   "parent": "mmsd-om-2028:25",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 79,
+    "para": 4
+   },
+   "end": {
+    "page": 82,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0079.md#¶4",
+   "heading_line": "###### **2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-control",
+   "title": "2.4.2. Jacobs OT Asset Automated Backup and Version Control",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 80,
+    "para": 2
+   },
+   "end": {
+    "page": 81,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0080.md#¶2",
+   "heading_line": "###### **2.4.2. Jacobs OT Asset Automated Backup and Version Control**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-4-3-jacobs-managed-ot-privileged-access-management-pam-ser",
+   "title": "2.4.3. Jacobs Managed OT Privileged Access Management (PAM) Service",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-4-delivering-world-class-operational-technology-ot-tools-a",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 81,
+    "para": 6
+   },
+   "end": {
+    "page": 82,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0081.md#¶6",
+   "heading_line": "###### **2.4.3. Jacobs Managed OT Privileged Access Management (PAM) Service**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-5-leveraging-corporate-resources-for-operational-excellenc",
+   "title": "2.5. Leveraging Corporate Resources for Operational Excellence",
+   "level": 4,
+   "parent": "mmsd-om-2028:25",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 82,
+    "para": 4
+   },
+   "end": {
+    "page": 84,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0082.md#¶4",
+   "heading_line": "###### **2.5. Leveraging Corporate Resources for Operational Excellence**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-6-monitoring-tracking-and-reporting-operational-parameters",
+   "title": "2.6. Monitoring, Tracking, and Reporting Operational Parameters",
+   "level": 4,
+   "parent": "mmsd-om-2028:25",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 84,
+    "para": 4
+   },
+   "end": {
+    "page": 86,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0084.md#¶4",
+   "heading_line": "###### **2.6. Monitoring, Tracking, and Reporting Operational Parameters**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-6-3-tunnel-system-operations",
+   "title": "2.6.3. Tunnel System Operations",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-6-monitoring-tracking-and-reporting-operational-parameters",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 84,
+    "para": 7
+   },
+   "end": {
+    "page": 84,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0084.md#¶7",
+   "heading_line": "###### **2.6.3. Tunnel System Operations**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-6-1-integrated-performance-management-framework",
+   "title": "2.6.1. Integrated Performance Management Framework",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-6-monitoring-tracking-and-reporting-operational-parameters",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 84,
+    "para": 11
+   },
+   "end": {
+    "page": 84,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0084.md#¶11",
+   "heading_line": "###### **2.6.1. Integrated Performance Management Framework**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-6-2-chemical-usage-monitoring-and-control",
+   "title": "2.6.2. Chemical Usage Monitoring and Control",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-6-monitoring-tracking-and-reporting-operational-parameters",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 84,
+    "para": 13
+   },
+   "end": {
+    "page": 84,
+    "para": 14
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0084.md#¶13",
+   "heading_line": "###### **2.6.2. Chemical Usage Monitoring and Control**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-6-4-milorganite-production-and-biosolids-operations",
+   "title": "2.6.4. Milorganite Production and Biosolids Operations",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-6-monitoring-tracking-and-reporting-operational-parameters",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 84,
+    "para": 15
+   },
+   "end": {
+    "page": 85,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0084.md#¶15",
+   "heading_line": "###### **2.6.4. Milorganite Production and Biosolids Operations**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-6-5-shared-cost-transparency-and-reporting",
+   "title": "2.6.5. Shared-Cost Transparency and Reporting",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-6-monitoring-tracking-and-reporting-operational-parameters",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 85,
+    "para": 5
+   },
+   "end": {
+    "page": 85,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0085.md#¶5",
+   "heading_line": "###### **2.6.5. Shared-Cost Transparency and Reporting**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-6-6-continuous-improvement",
+   "title": "2.6.6. Continuous Improvement",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-6-monitoring-tracking-and-reporting-operational-parameters",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 85,
+    "para": 13
+   },
+   "end": {
+    "page": 86,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0085.md#¶13",
+   "heading_line": "###### **2.6.6. Continuous Improvement**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "title": "2.7. Regulatory and Environmental Compliance",
+   "level": 4,
+   "parent": "mmsd-om-2028:25",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 86,
+    "para": 4
+   },
+   "end": {
+    "page": 90,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0086.md#¶4",
+   "heading_line": "###### **2.7. Regulatory and Environmental Compliance**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-1-commitment-to-zero-excursions",
+   "title": "2.7.1. Commitment to Zero Excursions",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 87,
+    "para": 4
+   },
+   "end": {
+    "page": 87,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0087.md#¶4",
+   "heading_line": "###### **2.7.1. Commitment to Zero Excursions**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-2-governance-and-compliance-team",
+   "title": "2.7.2. Governance and Compliance Team",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 87,
+    "para": 13
+   },
+   "end": {
+    "page": 88,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0087.md#¶13",
+   "heading_line": "###### **2.7.2. Governance and Compliance Team**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-4-qa-qc-and-laboratory-integration",
+   "title": "2.7.4. QA/QC and Laboratory Integration",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 88,
+    "para": 5
+   },
+   "end": {
+    "page": 88,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0088.md#¶5",
+   "heading_line": "###### **2.7.4. QA/QC and Laboratory Integration**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-5-holistic-systems-based-approach",
+   "title": "2.7.5. Holistic, Systems-Based Approach",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 88,
+    "para": 11
+   },
+   "end": {
+    "page": 89,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0088.md#¶11",
+   "heading_line": "###### **2.7.5. Holistic, Systems-Based Approach**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-6-wet-weather-coordination-and-system-modeling",
+   "title": "2.7.6. Wet Weather Coordination and System Modeling",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 3
+   },
+   "end": {
+    "page": 89,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0089.md#¶3",
+   "heading_line": "###### **2.7.6. Wet Weather Coordination and System Modeling**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-7-cross-facility-process-optimization",
+   "title": "2.7.7. Cross-Facility Process Optimization",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 5
+   },
+   "end": {
+    "page": 89,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0089.md#¶5",
+   "heading_line": "###### **2.7.7. Cross-Facility Process Optimization**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-8-knowledge-sharing-and-operational-consistency",
+   "title": "2.7.8. Knowledge Sharing and Operational Consistency",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 7
+   },
+   "end": {
+    "page": 89,
+    "para": 11
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0089.md#¶7",
+   "heading_line": "###### **2.7.8. Knowledge Sharing and Operational Consistency**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-9-unified-compliance-oversight-and-continuous-improvemen",
+   "title": "2.7.9. Unified Compliance Oversight and Continuous Improvement",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 12
+   },
+   "end": {
+    "page": 89,
+    "para": 14
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0089.md#¶12",
+   "heading_line": "###### **2.7.9. Unified Compliance Oversight and Continuous Improvement**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:25.2-7-10-ongoing-stewardship-and-reliability",
+   "title": "2.7.10. Ongoing Stewardship and Reliability",
+   "level": 5,
+   "parent": "mmsd-om-2028:25.2-7-regulatory-and-environmental-compliance",
+   "outline_index": 25,
+   "outline_title": "IV.A.6. Responding to Public Odor Complaints",
+   "kind": "body",
+   "start": {
+    "page": 89,
+    "para": 15
+   },
+   "end": {
+    "page": 90,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0089.md#¶15",
+   "heading_line": "###### **2.7.10. Ongoing Stewardship and Reliability**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26",
+   "title": "IV.A.3. Approach to PM and CM",
+   "level": 3,
+   "parent": "mmsd-om-2028:22",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "outline+body",
+   "start": {
+    "page": 90,
+    "para": 6
+   },
+   "end": {
+    "page": 103,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0090.md#¶6",
+   "heading_line": "###### 3. APPROACH TO PM AND CM",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-1-jacobs-understands-and-supports-mmsd-s-maintenance-objec",
+   "title": "3.1. Jacobs Understands and Supports MMSD’s Maintenance Objectives and Challenges",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 90,
+    "para": 7
+   },
+   "end": {
+    "page": 91,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0090.md#¶7",
+   "heading_line": "###### **3.1. Jacobs Understands and Supports MMSD’s Maintenance Objectives and Challenges**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "title": "3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 91,
+    "para": 4
+   },
+   "end": {
+    "page": 95,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0091.md#¶4",
+   "heading_line": "###### **3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.organizational-strategic-plan",
+   "title": "Organizational Strategic Plan",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 91,
+    "para": 7
+   },
+   "end": {
+    "page": 91,
+    "para": 9
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0091.md#¶7",
+   "heading_line": "###### **Organizational Strategic Plan**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.asset-management-policy",
+   "title": "Asset Management Policy",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 91,
+    "para": 10
+   },
+   "end": {
+    "page": 91,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0091.md#¶10",
+   "heading_line": "###### **Asset Management Policy**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.strategic-asset-management-plan-samp",
+   "title": "Strategic Asset Management Plan (SAMP)",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 91,
+    "para": 13
+   },
+   "end": {
+    "page": 91,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0091.md#¶13",
+   "heading_line": "###### **Strategic Asset Management Plan (SAMP)**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.objectives",
+   "title": "Objectives",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 91,
+    "para": 16
+   },
+   "end": {
+    "page": 91,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0091.md#¶16",
+   "heading_line": "###### **Objectives**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:26.asset-management-plans-amps",
+   "title": "Asset Management Plans (AMPs)",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 91,
+    "para": 17
+   },
+   "end": {
+    "page": 91,
+    "para": 19
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0091.md#¶17",
+   "heading_line": "###### **Asset Management Plans (AMPs)**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-2-1-our-iso-aligned-10-box-ams-is-tailored-to-mmsd",
+   "title": "3.2.1. Our ISO-aligned, 10-Box AMS is tailored to MMSD",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 91,
+    "para": 20
+   },
+   "end": {
+    "page": 93,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0091.md#¶20",
+   "heading_line": "###### **3.2.1. Our ISO-aligned, 10-Box AMS is tailored to MMSD**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-2-2-ams-drives-maintenance-delivery",
+   "title": "3.2.2. AMS Drives Maintenance Delivery",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 93,
+    "para": 17
+   },
+   "end": {
+    "page": 94,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0093.md#¶17",
+   "heading_line": "###### **3.2.2. AMS Drives Maintenance Delivery**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-2-3-how-our-samp-looks-day-to-day",
+   "title": "3.2.3. How our SAMP looks day-to-day",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 94,
+    "para": 5
+   },
+   "end": {
+    "page": 95,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0094.md#¶5",
+   "heading_line": "###### **3.2.3. How our SAMP looks day-to-day**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-3-reliability-enhancement-plans-improving-equipment-uptime",
+   "title": "3.3. Reliability Enhancement Plans: Improving Equipment Uptime at JIWRF and SSWRF",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 95,
+    "para": 9
+   },
+   "end": {
+    "page": 97,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0095.md#¶9",
+   "heading_line": "###### **3.3. Reliability Enhancement Plans: Improving Equipment Uptime at JIWRF and SSWRF**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-4-pm-approach",
+   "title": "3.4. PM Approach",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 97,
+    "para": 2
+   },
+   "end": {
+    "page": 97,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0097.md#¶2",
+   "heading_line": "###### **3.4.  PM Approach**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:26.3-5-cm-and-work-order-management",
+   "title": "3.5. CM and Work Order Management",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 97,
+    "para": 5
+   },
+   "end": {
+    "page": 98,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0097.md#¶5",
+   "heading_line": "###### **3.5. CM and Work Order Management**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.in-house-failure-analysis-expertise-from-root-cause-to-lasti",
+   "title": "In-House Failure Analysis Expertise – From Root Cause to Lasting Fixes",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-5-cm-and-work-order-management",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 97,
+    "para": 12
+   },
+   "end": {
+    "page": 98,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0097.md#¶12",
+   "heading_line": "###### **In-House Failure Analysis Expertise – From Root Cause to Lasting Fixes**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-6-fleet-maintenance",
+   "title": "3.6. Fleet Maintenance",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 98,
+    "para": 2
+   },
+   "end": {
+    "page": 98,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0098.md#¶2",
+   "heading_line": "###### **3.6. Fleet Maintenance**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-7-transparency-reporting-and-governance",
+   "title": "3.7. Transparency, Reporting, and Governance",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 98,
+    "para": 11
+   },
+   "end": {
+    "page": 99,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0098.md#¶11",
+   "heading_line": "###### **3.7. Transparency, Reporting, and Governance**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-8-staffing-coverage-and-special-maintenance-functions",
+   "title": "3.8. Staffing, Coverage, and Special Maintenance Functions",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 99,
+    "para": 2
+   },
+   "end": {
+    "page": 99,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0099.md#¶2",
+   "heading_line": "###### **3.8. Staffing, Coverage, and Special Maintenance Functions**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration",
+   "title": "3.9. Capital Project and Asset Life-Cycle Integration",
+   "level": 4,
+   "parent": "mmsd-om-2028:26",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 99,
+    "para": 3
+   },
+   "end": {
+    "page": 103,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0099.md#¶3",
+   "heading_line": "###### **3.9. Capital Project and Asset Life-Cycle Integration**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.3-9-1-integrated-approach-to-cip-planning",
+   "title": "3.9.1. Integrated Approach to CIP Planning",
+   "level": 5,
+   "parent": "mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 99,
+    "para": 13
+   },
+   "end": {
+    "page": 103,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0099.md#¶13",
+   "heading_line": "###### **3.9.1. Integrated Approach to CIP Planning**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:26.above-and-beyond-mmsd-specific-ai-assistant",
+   "title": "ABOVE AND BEYOND: MMSD-Specific AI Assistant",
+   "level": 6,
+   "parent": "mmsd-om-2028:26.3-9-1-integrated-approach-to-cip-planning",
+   "outline_index": 26,
+   "outline_title": "IV.A.3. Approach to PM and CM",
+   "kind": "body",
+   "start": {
+    "page": 102,
+    "para": 5
+   },
+   "end": {
+    "page": 103,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0102.md#¶5",
+   "heading_line": "###### **ABOVE AND BEYOND: MMSD-Specific AI Assistant**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27",
+   "title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "level": 3,
+   "parent": "mmsd-om-2028:22",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "outline+body",
+   "start": {
+    "page": 103,
+    "para": 3
+   },
+   "end": {
+    "page": 110,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0103.md#¶3",
+   "heading_line": "###### 4. SAFETY, SECURITY APPROACH AND EMERGENCY PREPAREDNESS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-safety",
+   "title": "4.1. Safety",
+   "level": 4,
+   "parent": "mmsd-om-2028:27",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 103,
+    "para": 4
+   },
+   "end": {
+    "page": 106,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0103.md#¶4",
+   "heading_line": "###### **4.1. Safety**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-1-safety-first-a-culture-of-accountability-and-preventio",
+   "title": "4.1.1. Safety First: A Culture of Accountability and Prevention",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-1-safety",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 103,
+    "para": 5
+   },
+   "end": {
+    "page": 103,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0103.md#¶5",
+   "heading_line": "###### **4.1.1. Safety First: A Culture of Accountability and Prevention**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-2-sms-and-required-plans",
+   "title": "4.1.2. SMS and Required Plans",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-1-safety",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 103,
+    "para": 11
+   },
+   "end": {
+    "page": 104,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0103.md#¶11",
+   "heading_line": "###### **4.1.2. SMS and Required Plans**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-3-leadership-roles-and-integration",
+   "title": "4.1.3. Leadership, Roles, and Integration",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-1-safety",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 104,
+    "para": 3
+   },
+   "end": {
+    "page": 104,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0104.md#¶3",
+   "heading_line": "###### **4.1.3. Leadership, Roles, and Integration**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-4-training-and-workforce-engagement",
+   "title": "4.1.4. Training and Workforce Engagement",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-1-safety",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 104,
+    "para": 6
+   },
+   "end": {
+    "page": 104,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0104.md#¶6",
+   "heading_line": "###### **4.1.4. Training and Workforce Engagement**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-5-incident-reporting-and-investigation",
+   "title": "4.1.5. Incident Reporting and Investigation",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-1-safety",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 104,
+    "para": 9
+   },
+   "end": {
+    "page": 105,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0104.md#¶9",
+   "heading_line": "###### **4.1.5. Incident Reporting and Investigation**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-6-auditing-inspections-and-continuous-improvement",
+   "title": "4.1.6. Auditing, Inspections, and Continuous Improvement",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-1-safety",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 105,
+    "para": 2
+   },
+   "end": {
+    "page": 105,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0105.md#¶2",
+   "heading_line": "###### **4.1.6. Auditing, Inspections, and Continuous Improvement**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-7-preliminary-safety-assessment",
+   "title": "4.1.7. Preliminary Safety Assessment",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-1-safety",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 105,
+    "para": 4
+   },
+   "end": {
+    "page": 105,
+    "para": 8
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0105.md#¶4",
+   "heading_line": "###### **4.1.7. Preliminary Safety Assessment**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-1-8-commitment-to-a-safe-operation",
+   "title": "4.1.8. Commitment to a Safe Operation",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-1-safety",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 105,
+    "para": 9
+   },
+   "end": {
+    "page": 106,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0105.md#¶9",
+   "heading_line": "###### **4.1.8. Commitment to a Safe Operation**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.jacobs-global-security-leadership-supporting-mmsd",
+   "title": "Jacobs’ Global Security Leadership Supporting MMSD",
+   "level": 6,
+   "parent": "mmsd-om-2028:27.4-1-8-commitment-to-a-safe-operation",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 106,
+    "para": 5
+   },
+   "end": {
+    "page": 106,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0106.md#¶5",
+   "heading_line": "###### **_Jacobs’ Global Security Leadership Supporting MMSD_**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:27.4-2-site-physical-security",
+   "title": "4.2. Site Physical Security",
+   "level": 4,
+   "parent": "mmsd-om-2028:27",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 106,
+    "para": 11
+   },
+   "end": {
+    "page": 110,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0106.md#¶11",
+   "heading_line": "###### **4.2. Site Physical Security**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-2-1-security-integration-prevention-and-rapid-response",
+   "title": "4.2.1. Security, Integration, Prevention, and Rapid Response",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-2-site-physical-security",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 106,
+    "para": 12
+   },
+   "end": {
+    "page": 106,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0106.md#¶12",
+   "heading_line": "###### **4.2.1. Security, Integration, Prevention, and Rapid Response**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-2-2-security-management-structure",
+   "title": "4.2.2. Security Management Structure",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-2-site-physical-security",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 106,
+    "para": 16
+   },
+   "end": {
+    "page": 107,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0106.md#¶16",
+   "heading_line": "###### **4.2.2. Security Management Structure**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-2-4-incident-reporting-and-response",
+   "title": "4.2.4. Incident Reporting and Response",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-2-site-physical-security",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 107,
+    "para": 7
+   },
+   "end": {
+    "page": 107,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0107.md#¶7",
+   "heading_line": "###### **4.2.4. Incident Reporting and Response**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-2-5-active-shooter-and-workplace-violence-preparedness",
+   "title": "4.2.5. Active-Shooter and Workplace-Violence Preparedness",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-2-site-physical-security",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 107,
+    "para": 11
+   },
+   "end": {
+    "page": 107,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0107.md#¶11",
+   "heading_line": "###### **4.2.5. Active-Shooter and Workplace-Violence Preparedness**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-2-3-integrated-prevention-and-awareness",
+   "title": "4.2.3. Integrated Prevention and Awareness",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-2-site-physical-security",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 107,
+    "para": 13
+   },
+   "end": {
+    "page": 108,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0107.md#¶13",
+   "heading_line": "###### **4.2.3. Integrated Prevention and Awareness**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-2-6-innovative-security-enhancements",
+   "title": "4.2.6. Innovative Security Enhancements",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-2-site-physical-security",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 108,
+    "para": 3
+   },
+   "end": {
+    "page": 108,
+    "para": 9
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0108.md#¶3",
+   "heading_line": "###### **4.2.6. Innovative Security Enhancements**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.shoreline-intrusion-detection",
+   "title": "Shoreline Intrusion Detection",
+   "level": 6,
+   "parent": "mmsd-om-2028:27.4-2-6-innovative-security-enhancements",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 108,
+    "para": 5
+   },
+   "end": {
+    "page": 108,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0108.md#¶5",
+   "heading_line": "###### _Shoreline Intrusion Detection_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.mobile-video-capability",
+   "title": "Mobile Video Capability",
+   "level": 6,
+   "parent": "mmsd-om-2028:27.4-2-6-innovative-security-enhancements",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 108,
+    "para": 8
+   },
+   "end": {
+    "page": 108,
+    "para": 9
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0108.md#¶8",
+   "heading_line": "###### _Mobile Video Capability_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.4-2-7-jacobs-business-networks-infrastructure-cybersecurity",
+   "title": "4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness",
+   "level": 5,
+   "parent": "mmsd-om-2028:27.4-2-site-physical-security",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 108,
+    "para": 10
+   },
+   "end": {
+    "page": 110,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0108.md#¶10",
+   "heading_line": "###### **4.2.7. Jacobs Business Networks & Infrastructure Cybersecurity Preparedness**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.cybersecurity-framework-governance-and-incident-response",
+   "title": "Cybersecurity Framework, Governance, and Incident Response",
+   "level": 6,
+   "parent": "mmsd-om-2028:27.4-2-7-jacobs-business-networks-infrastructure-cybersecurity",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 108,
+    "para": 13
+   },
+   "end": {
+    "page": 108,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0108.md#¶13",
+   "heading_line": "###### _Cybersecurity Framework, Governance, and Incident Response_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.enhanced-cybersecurity-controls",
+   "title": "Enhanced Cybersecurity Controls",
+   "level": 6,
+   "parent": "mmsd-om-2028:27.4-2-7-jacobs-business-networks-infrastructure-cybersecurity",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 108,
+    "para": 17
+   },
+   "end": {
+    "page": 110,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0108.md#¶17",
+   "heading_line": "###### **_Enhanced Cybersecurity Controls_**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.automated-security-workflows",
+   "title": "Automated Security Workflows",
+   "level": 7,
+   "parent": "mmsd-om-2028:27.enhanced-cybersecurity-controls",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 108,
+    "para": 20
+   },
+   "end": {
+    "page": 108,
+    "para": 22
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0108.md#¶20",
+   "heading_line": "###### _Automated Security Workflows_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.vulnerability-management-and-network-protection",
+   "title": "Vulnerability Management and Network Protection",
+   "level": 7,
+   "parent": "mmsd-om-2028:27.enhanced-cybersecurity-controls",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 108,
+    "para": 23
+   },
+   "end": {
+    "page": 109,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0108.md#¶23",
+   "heading_line": "###### _Vulnerability Management and Network Protection_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.access-control-and-account-management",
+   "title": "Access Control and Account Management",
+   "level": 7,
+   "parent": "mmsd-om-2028:27.enhanced-cybersecurity-controls",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 109,
+    "para": 4
+   },
+   "end": {
+    "page": 109,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0109.md#¶4",
+   "heading_line": "###### _Access Control and Account Management_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.workforce-awareness-testing-and-threat-detection",
+   "title": "Workforce Awareness, Testing, and Threat Detection",
+   "level": 7,
+   "parent": "mmsd-om-2028:27.enhanced-cybersecurity-controls",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 109,
+    "para": 6
+   },
+   "end": {
+    "page": 109,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0109.md#¶6",
+   "heading_line": "###### _Workforce Awareness, Testing, and Threat Detection_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.data-protection-continuous-improvement-and-partnership",
+   "title": "Data Protection, Continuous Improvement, and Partnership",
+   "level": 7,
+   "parent": "mmsd-om-2028:27.enhanced-cybersecurity-controls",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 109,
+    "para": 8
+   },
+   "end": {
+    "page": 109,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0109.md#¶8",
+   "heading_line": "###### _Data Protection, Continuous Improvement, and Partnership_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:27.field-and-collection-system-security",
+   "title": "Field and Collection System Security",
+   "level": 7,
+   "parent": "mmsd-om-2028:27.enhanced-cybersecurity-controls",
+   "outline_index": 27,
+   "outline_title": "IV.A.4. Safety, Security Approach and Emergency Preparedness",
+   "kind": "body",
+   "start": {
+    "page": 109,
+    "para": 11
+   },
+   "end": {
+    "page": 110,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0109.md#¶11",
+   "heading_line": "###### _Field and Collection System Security_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:28",
+   "title": "IV.A.5. Continuous Improvement and Innovation",
+   "level": 3,
+   "parent": "mmsd-om-2028:22",
+   "outline_index": 28,
+   "outline_title": "IV.A.5. Continuous Improvement and Innovation",
+   "kind": "outline+body",
+   "start": {
+    "page": 111,
+    "para": 1
+   },
+   "end": {
+    "page": 117,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0111.md#¶1",
+   "heading_line": "###### 5. CONTINUOUS IMPROVEMENT AND INNOVATION",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:28.5-1-jacobs-annual-innovation-workshop-drives-continuous-impr",
+   "title": "5.1. Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M",
+   "level": 4,
+   "parent": "mmsd-om-2028:28",
+   "outline_index": 28,
+   "outline_title": "IV.A.5. Continuous Improvement and Innovation",
+   "kind": "body",
+   "start": {
+    "page": 111,
+    "para": 9
+   },
+   "end": {
+    "page": 112,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0111.md#¶9",
+   "heading_line": "###### **5.1. Jacobs Annual Innovation Workshop Drives Continuous Improvements and Elevated O&M**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:28.jacobs-sponsored-the-weftec-annual-operations-challenge",
+   "title": "Jacobs sponsored the WEFTEC Annual Operations Challenge",
+   "level": 5,
+   "parent": "mmsd-om-2028:28.5-1-jacobs-annual-innovation-workshop-drives-continuous-impr",
+   "outline_index": 28,
+   "outline_title": "IV.A.5. Continuous Improvement and Innovation",
+   "kind": "body",
+   "start": {
+    "page": 112,
+    "para": 4
+   },
+   "end": {
+    "page": 112,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0112.md#¶4",
+   "heading_line": "###### _Jacobs sponsored the WEFTEC Annual Operations Challenge_",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:28.5-2-digital-tools-for-operational-excellence",
+   "title": "5.2. Digital Tools for Operational Excellence",
+   "level": 4,
+   "parent": "mmsd-om-2028:28",
+   "outline_index": 28,
+   "outline_title": "IV.A.5. Continuous Improvement and Innovation",
+   "kind": "body",
+   "start": {
+    "page": 112,
+    "para": 6
+   },
+   "end": {
+    "page": 112,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0112.md#¶6",
+   "heading_line": "###### **5.2. Digital Tools for Operational Excellence**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par",
+   "title": "5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee",
+   "level": 4,
+   "parent": "mmsd-om-2028:28",
+   "outline_index": 28,
+   "outline_title": "IV.A.5. Continuous Improvement and Innovation",
+   "kind": "body",
+   "start": {
+    "page": 112,
+    "para": 8
+   },
+   "end": {
+    "page": 115,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0112.md#¶8",
+   "heading_line": "###### **5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:28.5-4-additional-improvements-and-innovations-for-future-savin",
+   "title": "5.4 Additional Improvements and Innovations for Future Savings",
+   "level": 4,
+   "parent": "mmsd-om-2028:28",
+   "outline_index": 28,
+   "outline_title": "IV.A.5. Continuous Improvement and Innovation",
+   "kind": "body",
+   "start": {
+    "page": 116,
+    "para": 1
+   },
+   "end": {
+    "page": 117,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0116.md#¶1",
+   "heading_line": "###### **5.4 Additional Improvements and Innovations for Future Savings**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:28.6-responding-to-public-odor-complaints",
+   "title": "6. RESPONDING TO PUBLIC ODOR COMPLAINTS",
+   "level": 4,
+   "parent": "mmsd-om-2028:28",
+   "outline_index": 28,
+   "outline_title": "IV.A.5. Continuous Improvement and Innovation",
+   "kind": "body",
+   "start": {
+    "page": 117,
+    "para": 2
+   },
+   "end": {
+    "page": 117,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0117.md#¶2",
+   "heading_line": "###### 6. RESPONDING TO PUBLIC ODOR COMPLAINTS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:29",
+   "title": "IV.A.7. Sustainable Approach to Operations",
+   "level": 3,
+   "parent": "mmsd-om-2028:22",
+   "outline_index": 29,
+   "outline_title": "IV.A.7. Sustainable Approach to Operations",
+   "kind": "outline+body",
+   "start": {
+    "page": 118,
+    "para": 1
+   },
+   "end": {
+    "page": 119,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0118.md#¶1",
+   "heading_line": "###### 7. SUSTAINABLE APPROACH TO OPERATIONS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:29.7-1-energy-optimization-and-decarbonization",
+   "title": "7.1. Energy Optimization and Decarbonization",
+   "level": 4,
+   "parent": "mmsd-om-2028:29",
+   "outline_index": 29,
+   "outline_title": "IV.A.7. Sustainable Approach to Operations",
+   "kind": "body",
+   "start": {
+    "page": 118,
+    "para": 3
+   },
+   "end": {
+    "page": 118,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0118.md#¶3",
+   "heading_line": "###### **7.1. Energy Optimization and Decarbonization**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:29.7-2-resource-recovery-and-biosolids-optimization",
+   "title": "7.2. Resource Recovery and Biosolids Optimization",
+   "level": 4,
+   "parent": "mmsd-om-2028:29",
+   "outline_index": 29,
+   "outline_title": "IV.A.7. Sustainable Approach to Operations",
+   "kind": "body",
+   "start": {
+    "page": 118,
+    "para": 8
+   },
+   "end": {
+    "page": 119,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0118.md#¶8",
+   "heading_line": "###### **7.2. Resource Recovery and Biosolids Optimization**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30",
+   "title": "IV.B. Pre-term Activities",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "outline+body",
+   "start": {
+    "page": 119,
+    "para": 6
+   },
+   "end": {
+    "page": 127,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0119.md#¶6",
+   "heading_line": "###### B.  Pre-term Activities",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-1-continuity-enabling-uninterrupted-excellence-in-water-se",
+   "title": "1.1. Continuity: Enabling Uninterrupted Excellence in Water Services",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 119,
+    "para": 10
+   },
+   "end": {
+    "page": 120,
+    "para": 9
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0119.md#¶10",
+   "heading_line": "###### **1.1. Continuity: Enabling Uninterrupted Excellence in Water Services**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo",
+   "title": "1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 120,
+    "para": 10
+   },
+   "end": {
+    "page": 122,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0120.md#¶10",
+   "heading_line": "###### **1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.former-veolia-biosolids-manager-jxn-water-wastewater-facilit",
+   "title": "Former Veolia Biosolids Manager, JXN Water - Wastewater Facilities",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 121,
+    "para": 5
+   },
+   "end": {
+    "page": 121,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0121.md#¶5",
+   "heading_line": "###### **Former Veolia Biosolids Manager, JXN Water - Wastewater Facilities**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-2-1-care-and-sensitivity-toward-transitioning-employees",
+   "title": "1.2.1. Care and Sensitivity Toward Transitioning Employees",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 121,
+    "para": 8
+   },
+   "end": {
+    "page": 121,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0121.md#¶8",
+   "heading_line": "###### **1.2.1. Care and Sensitivity Toward Transitioning Employees**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-2-2-compensation-and-benefits",
+   "title": "1.2.2. Compensation and Benefits",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 121,
+    "para": 13
+   },
+   "end": {
+    "page": 122,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0121.md#¶13",
+   "heading_line": "###### **1.2.2. Compensation and Benefits**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-2-3-employee-satisfaction-and-engagement",
+   "title": "1.2.3. Employee Satisfaction and Engagement",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-2-thoughtful-and-smooth-step-by-step-transition-process-fo",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 122,
+    "para": 3
+   },
+   "end": {
+    "page": 122,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0122.md#¶3",
+   "heading_line": "###### **1.2.3. Employee Satisfaction and Engagement**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-3-transition-leadership-team",
+   "title": "1.3. Transition Leadership Team",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 122,
+    "para": 8
+   },
+   "end": {
+    "page": 124,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0122.md#¶8",
+   "heading_line": "###### **1.3. Transition Leadership Team**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-3-1-kelly-irving-transition-manager",
+   "title": "1.3.1. Kelly Irving – Transition Manager",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-3-transition-leadership-team",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 123,
+    "para": 3
+   },
+   "end": {
+    "page": 123,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0123.md#¶3",
+   "heading_line": "###### **1.3.1. Kelly Irving – Transition Manager**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-3-2-mike-boven-transition-deputy-manager",
+   "title": "1.3.2. Mike Boven – Transition Deputy Manager",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-3-transition-leadership-team",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 123,
+    "para": 5
+   },
+   "end": {
+    "page": 124,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0123.md#¶5",
+   "heading_line": "###### **1.3.2. Mike Boven – Transition Deputy Manager**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.project-management-office",
+   "title": "Project Management Office",
+   "level": 5,
+   "parent": "mmsd-om-2028:30.1-3-2-mike-boven-transition-deputy-manager",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 123,
+    "para": 8
+   },
+   "end": {
+    "page": 123,
+    "para": 11
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0123.md#¶8",
+   "heading_line": "###### **Project Management Office**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.o-m-subject-matter-experts",
+   "title": "O&M Subject Matter Experts",
+   "level": 5,
+   "parent": "mmsd-om-2028:30.1-3-2-mike-boven-transition-deputy-manager",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 123,
+    "para": 12
+   },
+   "end": {
+    "page": 123,
+    "para": 27
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0123.md#¶12",
+   "heading_line": "###### **O&M Subject Matter Experts**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.engineering-subject-matter-experts",
+   "title": "Engineering Subject Matter Experts",
+   "level": 5,
+   "parent": "mmsd-om-2028:30.1-3-2-mike-boven-transition-deputy-manager",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 123,
+    "para": 28
+   },
+   "end": {
+    "page": 123,
+    "para": 42
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0123.md#¶28",
+   "heading_line": "###### **Engineering Subject Matter Experts**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.subcontractor-support",
+   "title": "Subcontractor Support",
+   "level": 5,
+   "parent": "mmsd-om-2028:30.1-3-2-mike-boven-transition-deputy-manager",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 123,
+    "para": 43
+   },
+   "end": {
+    "page": 123,
+    "para": 45
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0123.md#¶43",
+   "heading_line": "###### **Subcontractor Support**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.other-regional-corporate-support",
+   "title": "Other Regional & Corporate Support",
+   "level": 5,
+   "parent": "mmsd-om-2028:30.1-3-2-mike-boven-transition-deputy-manager",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 123,
+    "para": 46
+   },
+   "end": {
+    "page": 124,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0123.md#¶46",
+   "heading_line": "###### **Other Regional & Corporate Support**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-3-3-kevin-dahl-cmrt-crl-project-manager",
+   "title": "1.3.3. Kevin Dahl, CMRT, CRL – Project Manager",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-3-transition-leadership-team",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 124,
+    "para": 3
+   },
+   "end": {
+    "page": 124,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0124.md#¶3",
+   "heading_line": "###### **1.3.3. Kevin Dahl, CMRT, CRL – Project Manager**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-3-4-program-management-office-pmo-role",
+   "title": "1.3.4. Program Management Office (PMO) Role",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-3-transition-leadership-team",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 124,
+    "para": 5
+   },
+   "end": {
+    "page": 124,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0124.md#¶5",
+   "heading_line": "###### **1.3.4. Program Management Office (PMO) Role**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-3-5-comprehensive-transition-support",
+   "title": "1.3.5. Comprehensive Transition Support",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-3-transition-leadership-team",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 124,
+    "para": 8
+   },
+   "end": {
+    "page": 124,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0124.md#¶8",
+   "heading_line": "###### **1.3.5. Comprehensive Transition Support**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-4-transition-training-period",
+   "title": "1.4. Transition Training Period",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 124,
+    "para": 17
+   },
+   "end": {
+    "page": 125,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0124.md#¶17",
+   "heading_line": "###### **1.4. Transition Training Period**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-5-mobilization-overview",
+   "title": "1.5. Mobilization Overview",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 3
+   },
+   "end": {
+    "page": 125,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0125.md#¶3",
+   "heading_line": "###### **1.5. Mobilization Overview**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-6-transition-governance-and-communication",
+   "title": "1.6. Transition Governance and Communication",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 5
+   },
+   "end": {
+    "page": 125,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0125.md#¶5",
+   "heading_line": "###### **1.6. Transition Governance and Communication**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-6-1-transition-communications-plan",
+   "title": "1.6.1. Transition Communications Plan",
+   "level": 4,
+   "parent": "mmsd-om-2028:30.1-6-transition-governance-and-communication",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 9
+   },
+   "end": {
+    "page": 125,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0125.md#¶9",
+   "heading_line": "###### **1.6.1. Transition Communications Plan**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-7-technology-and-cmms-integration",
+   "title": "1.7. Technology and CMMS Integration",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 16
+   },
+   "end": {
+    "page": 125,
+    "para": 17
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0125.md#¶16",
+   "heading_line": "###### **1.7. Technology and CMMS Integration**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-8-integrated-collection-and-treatment-system-modeling-and",
+   "title": "1.8. Integrated Collection and Treatment System Modeling and System Readiness",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 18
+   },
+   "end": {
+    "page": 125,
+    "para": 19
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0125.md#¶18",
+   "heading_line": "###### **1.8. Integrated Collection and Treatment System Modeling and System Readiness**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-9-assurance-of-continuity",
+   "title": "1.9. Assurance of Continuity",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 20
+   },
+   "end": {
+    "page": 125,
+    "para": 21
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0125.md#¶20",
+   "heading_line": "###### **1.9. Assurance of Continuity**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:30.1-10-schedule-for-smooth-transition-of-operations-and-relate",
+   "title": "1.10. Schedule for Smooth Transition of Operations and Related Systems",
+   "level": 3,
+   "parent": "mmsd-om-2028:30",
+   "outline_index": 30,
+   "outline_title": "IV.B. Pre-term Activities",
+   "kind": "body",
+   "start": {
+    "page": 125,
+    "para": 22
+   },
+   "end": {
+    "page": 127,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0125.md#¶22",
+   "heading_line": "###### **1.10. Schedule for Smooth Transition of Operations and Related Systems**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:31",
+   "title": "IV.C. Computerized Maintenance Management System Approach",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 31,
+   "outline_title": "IV.C. Computerized Maintenance Management System Approach",
+   "kind": "outline+body",
+   "start": {
+    "page": 127,
+    "para": 5
+   },
+   "end": {
+    "page": 131,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0127.md#¶5",
+   "heading_line": "###### C. Computerized Maintenance Management System (CMMS) Approach",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:31.1-jacobs-differentiating-strength-in-cmms-implementation",
+   "title": "1. JACOBS’ DIFFERENTIATING STRENGTH IN CMMS IMPLEMENTATION",
+   "level": 3,
+   "parent": "mmsd-om-2028:31",
+   "outline_index": 31,
+   "outline_title": "IV.C. Computerized Maintenance Management System Approach",
+   "kind": "body",
+   "start": {
+    "page": 127,
+    "para": 6
+   },
+   "end": {
+    "page": 127,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0127.md#¶6",
+   "heading_line": "###### 1. JACOBS’ DIFFERENTIATING STRENGTH IN CMMS IMPLEMENTATION",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:31.2-current-context-and-partnership-framework",
+   "title": "2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK",
+   "level": 3,
+   "parent": "mmsd-om-2028:31",
+   "outline_index": 31,
+   "outline_title": "IV.C. Computerized Maintenance Management System Approach",
+   "kind": "body",
+   "start": {
+    "page": 127,
+    "para": 16
+   },
+   "end": {
+    "page": 131,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0127.md#¶16",
+   "heading_line": "###### 2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:31.3-3-key-personnel-for-cmms-implementation",
+   "title": "3.3. Key Personnel for CMMS Implementation",
+   "level": 4,
+   "parent": "mmsd-om-2028:31.2-current-context-and-partnership-framework",
+   "outline_index": 31,
+   "outline_title": "IV.C. Computerized Maintenance Management System Approach",
+   "kind": "body",
+   "start": {
+    "page": 129,
+    "para": 3
+   },
+   "end": {
+    "page": 129,
+    "para": 10
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0129.md#¶3",
+   "heading_line": "###### **3.3. Key Personnel for CMMS Implementation**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:31.3-4-integrations-required-by-jacobs",
+   "title": "3.4. Integrations Required by Jacobs",
+   "level": 4,
+   "parent": "mmsd-om-2028:31.2-current-context-and-partnership-framework",
+   "outline_index": 31,
+   "outline_title": "IV.C. Computerized Maintenance Management System Approach",
+   "kind": "body",
+   "start": {
+    "page": 129,
+    "para": 11
+   },
+   "end": {
+    "page": 131,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0129.md#¶11",
+   "heading_line": "###### **3.4. Integrations Required by Jacobs**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32",
+   "title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "level": 2,
+   "parent": "mmsd-om-2028:21",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "outline+body",
+   "start": {
+    "page": 131,
+    "para": 3
+   },
+   "end": {
+    "page": 138,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0131.md#¶3",
+   "heading_line": "###### D. Potential Additive Work - Level 3 PdM",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.1-jacobs-understands-and-agrees-with-mmsd-s-goals-for-pdm",
+   "title": "1. JACOBS UNDERSTANDS AND AGREES WITH MMSD’S GOALS FOR PdM",
+   "level": 3,
+   "parent": "mmsd-om-2028:32",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 131,
+    "para": 4
+   },
+   "end": {
+    "page": 131,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0131.md#¶4",
+   "heading_line": "###### 1. JACOBS UNDERSTANDS AND AGREES WITH MMSD’S GOALS FOR PdM",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.2-summary-of-levels-1-3-pdm",
+   "title": "2. SUMMARY OF LEVELS 1–3 PdM",
+   "level": 3,
+   "parent": "mmsd-om-2028:32",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 131,
+    "para": 8
+   },
+   "end": {
+    "page": 132,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0131.md#¶8",
+   "heading_line": "###### 2. SUMMARY OF LEVELS 1–3 PdM",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.3-current-pdm-at-mmsd",
+   "title": "3. CURRENT PdM AT MMSD",
+   "level": 3,
+   "parent": "mmsd-om-2028:32",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 132,
+    "para": 3
+   },
+   "end": {
+    "page": 132,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0132.md#¶3",
+   "heading_line": "###### 3. CURRENT PdM AT MMSD",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.4-jacobs-recommended-level-3-pdm-plan",
+   "title": "4. JACOBS’ RECOMMENDED LEVEL 3 PdM PLAN",
+   "level": 3,
+   "parent": "mmsd-om-2028:32",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 132,
+    "para": 7
+   },
+   "end": {
+    "page": 135,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0132.md#¶7",
+   "heading_line": "###### 4. JACOBS’ RECOMMENDED LEVEL 3 PdM PLAN",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.4-1-proposed-pdm-technologies-for-mmsd-s-treatment-facilitie",
+   "title": "4.1. Proposed PdM Technologies for MMSD’s Treatment Facilities",
+   "level": 4,
+   "parent": "mmsd-om-2028:32.4-jacobs-recommended-level-3-pdm-plan",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 132,
+    "para": 9
+   },
+   "end": {
+    "page": 134,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0132.md#¶9",
+   "heading_line": "###### **4.1. Proposed PdM Technologies for MMSD’s Treatment Facilities**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.4-2-proposed-pdm-technologies-for-mmsd-s-conveyance-system",
+   "title": "4.2. Proposed PdM Technologies for MMSD’s Conveyance System",
+   "level": 4,
+   "parent": "mmsd-om-2028:32.4-jacobs-recommended-level-3-pdm-plan",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 134,
+    "para": 3
+   },
+   "end": {
+    "page": 134,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0134.md#¶3",
+   "heading_line": "###### **4.2. Proposed PdM Technologies for MMSD’s Conveyance System**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:32.4-3-additional-pdm-technologies-included-in-our-base-fee",
+   "title": "4.3. Additional PdM Technologies Included in Our Base Fee",
+   "level": 4,
+   "parent": "mmsd-om-2028:32.4-jacobs-recommended-level-3-pdm-plan",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 134,
+    "para": 4
+   },
+   "end": {
+    "page": 135,
+    "para": 4
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0134.md#¶4",
+   "heading_line": "###### **4.3. Additional PdM Technologies Included in Our Base Fee**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.5-roles-and-responsibilities-for-success",
+   "title": "5. ROLES AND RESPONSIBILITIES FOR SUCCESS",
+   "level": 3,
+   "parent": "mmsd-om-2028:32",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 135,
+    "para": 5
+   },
+   "end": {
+    "page": 136,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0135.md#¶5",
+   "heading_line": "###### 5. ROLES AND RESPONSIBILITIES FOR SUCCESS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.7-phased-rollout",
+   "title": "7. PHASED ROLLOUT",
+   "level": 3,
+   "parent": "mmsd-om-2028:32",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 136,
+    "para": 6
+   },
+   "end": {
+    "page": 137,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0136.md#¶6",
+   "heading_line": "###### 7. PHASED ROLLOUT",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.foundation",
+   "title": "Foundation",
+   "level": 4,
+   "parent": "mmsd-om-2028:32.7-phased-rollout",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 136,
+    "para": 12
+   },
+   "end": {
+    "page": 136,
+    "para": 12
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0136.md#¶12",
+   "heading_line": "###### **Foundation**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:32.optimization-and-maturity",
+   "title": "Optimization and Maturity",
+   "level": 4,
+   "parent": "mmsd-om-2028:32.7-phased-rollout",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 136,
+    "para": 13
+   },
+   "end": {
+    "page": 137,
+    "para": 2
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0136.md#¶13",
+   "heading_line": "###### **Optimization and Maturity**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.8-integration-with-scada-and-nexgen-cmms",
+   "title": "8. INTEGRATION WITH SCADA AND NEXGEN CMMS",
+   "level": 3,
+   "parent": "mmsd-om-2028:32",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 137,
+    "para": 3
+   },
+   "end": {
+    "page": 137,
+    "para": 7
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0137.md#¶3",
+   "heading_line": "###### 8. INTEGRATION WITH SCADA AND NEXGEN CMMS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:32.9-critical-considerations-in-developing-jacobs-level-3-pdm-a",
+   "title": "9. CRITICAL CONSIDERATIONS IN DEVELOPING JACOBS’ LEVEL 3 PdM APPROACH",
+   "level": 3,
+   "parent": "mmsd-om-2028:32",
+   "outline_index": 32,
+   "outline_title": "IV.D. Potential Additive Work – Level 3 PdM",
+   "kind": "body",
+   "start": {
+    "page": 137,
+    "para": 8
+   },
+   "end": {
+    "page": 138,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0137.md#¶8",
+   "heading_line": "###### 9. CRITICAL CONSIDERATIONS IN DEVELOPING JACOBS’ LEVEL 3 PdM APPROACH",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:33",
+   "title": "V. Statement on Regional Partnership",
+   "level": 1,
+   "parent": null,
+   "outline_index": 33,
+   "outline_title": "V. Statement on Regional Partnership",
+   "kind": "outline+body",
+   "start": {
+    "page": 138,
+    "para": 2
+   },
+   "end": {
+    "page": 145,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0138.md#¶2",
+   "heading_line": "## STATEMENT ON REGIONAL PARTNERSHIP",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:34",
+   "title": "V.A. Community-Focused Leadership Team to Drive Positive Long-Term Outcomes",
+   "level": 2,
+   "parent": "mmsd-om-2028:33",
+   "outline_index": 34,
+   "outline_title": "V.A. Community-Focused Leadership Team to Drive Positive Long-Term Outcomes",
+   "kind": "outline+body",
+   "start": {
+    "page": 138,
+    "para": 6
+   },
+   "end": {
+    "page": 139,
+    "para": 3
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0138.md#¶6",
+   "heading_line": "###### A. Community-Focused Leadership Team to Drive Positive Long-Term Outcomes",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35",
+   "title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "level": 2,
+   "parent": "mmsd-om-2028:33",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "outline+body",
+   "start": {
+    "page": 139,
+    "para": 4
+   },
+   "end": {
+    "page": 143,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0139.md#¶4",
+   "heading_line": "###### B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.leveraging-an-ongoing-riverfront-estuary-renewal-to-enhance",
+   "title": "Leveraging an Ongoing Riverfront Estuary Renewal to Enhance Regional Benefits",
+   "level": 3,
+   "parent": "mmsd-om-2028:35",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 140,
+    "para": 13
+   },
+   "end": {
+    "page": 141,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0140.md#¶13",
+   "heading_line": "###### **Leveraging an Ongoing Riverfront Estuary Renewal to Enhance Regional Benefits**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "title": "1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS",
+   "level": 3,
+   "parent": "mmsd-om-2028:35",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 6
+   },
+   "end": {
+    "page": 143,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶6",
+   "heading_line": "###### 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.rain-barrel-gi-training-program",
+   "title": "Rain Barrel/GI Training Program",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 14
+   },
+   "end": {
+    "page": 141,
+    "para": 14
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶14",
+   "heading_line": "###### **Rain Barrel/GI Training Program**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:35.advance-sustainability-goals",
+   "title": "Advance Sustainability Goals",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 15
+   },
+   "end": {
+    "page": 141,
+    "para": 15
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶15",
+   "heading_line": "###### **Advance Sustainability Goals**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:35.neighborhood-revitalization",
+   "title": "Neighborhood Revitalization",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 16
+   },
+   "end": {
+    "page": 141,
+    "para": 16
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶16",
+   "heading_line": "###### **Neighborhood Revitalization**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:35.public-access-and-recreation",
+   "title": "Public Access and Recreation",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 17
+   },
+   "end": {
+    "page": 141,
+    "para": 28
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶17",
+   "heading_line": "###### **Public Access and Recreation**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.celebrate-water-stewardship-and-community-pride",
+   "title": "Celebrate Water Stewardship and Community Pride",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 29
+   },
+   "end": {
+    "page": 141,
+    "para": 29
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶29",
+   "heading_line": "###### **Celebrate Water Stewardship and Community Pride**",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:35.strengthen-flood-management-and-habitat-restoration",
+   "title": "Strengthen Flood Management and Habitat Restoration",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 30
+   },
+   "end": {
+    "page": 141,
+    "para": 33
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶30",
+   "heading_line": "###### **Strengthen Flood Management and Habitat Restoration**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.riverwalk-partnerships",
+   "title": "Riverwalk Partnerships",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 34
+   },
+   "end": {
+    "page": 141,
+    "para": 37
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶34",
+   "heading_line": "###### **Riverwalk Partnerships**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.support-business-case-development",
+   "title": "Support Business Case Development",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 38
+   },
+   "end": {
+    "page": 141,
+    "para": 61
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶38",
+   "heading_line": "###### **Support Business Case Development**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.academic-and-research-partnerships",
+   "title": "Academic and Research Partnerships",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 141,
+    "para": 62
+   },
+   "end": {
+    "page": 142,
+    "para": 19
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0141.md#¶62",
+   "heading_line": "###### **Academic and Research Partnerships**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.support-business-case-development-p142",
+   "title": "Support Business Case Development",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 142,
+    "para": 20
+   },
+   "end": {
+    "page": 142,
+    "para": 27
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0142.md#¶20",
+   "heading_line": "###### **Support Business Case Development**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.building-on-mmsd-s-south-shore-research-center",
+   "title": "Building on MMSD’s South Shore Research Center",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 142,
+    "para": 28
+   },
+   "end": {
+    "page": 142,
+    "para": 30
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0142.md#¶28",
+   "heading_line": "###### **Building on MMSD’s South Shore Research Center**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:35.support-business-case-development-p142-31",
+   "title": "Support Business Case Development",
+   "level": 4,
+   "parent": "mmsd-om-2028:35.1-regional-partnership-strategies-to-achieve-above-and-beyon",
+   "outline_index": 35,
+   "outline_title": "V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering",
+   "kind": "body",
+   "start": {
+    "page": 142,
+    "para": 31
+   },
+   "end": {
+    "page": 143,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0142.md#¶31",
+   "heading_line": "###### **Support Business Case Development**",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:36",
+   "title": "V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts",
+   "level": 2,
+   "parent": "mmsd-om-2028:33",
+   "outline_index": 36,
+   "outline_title": "V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts",
+   "kind": "outline+body",
+   "start": {
+    "page": 143,
+    "para": 6
+   },
+   "end": {
+    "page": 145,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0143.md#¶6",
+   "heading_line": "###### C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:36.1-jxn-water-jackson-mississippi",
+   "title": "1. JXN Water, Jackson, Mississippi",
+   "level": 3,
+   "parent": "mmsd-om-2028:36",
+   "outline_index": 36,
+   "outline_title": "V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts",
+   "kind": "body",
+   "start": {
+    "page": 143,
+    "para": 8
+   },
+   "end": {
+    "page": 144,
+    "para": 5
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0143.md#¶8",
+   "heading_line": "###### 1. JXN Water, Jackson, Mississippi",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:36.3-the-villages-florida",
+   "title": "3. The Villages, Florida",
+   "level": 3,
+   "parent": "mmsd-om-2028:36",
+   "outline_index": 36,
+   "outline_title": "V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts",
+   "kind": "body",
+   "start": {
+    "page": 144,
+    "para": 6
+   },
+   "end": {
+    "page": 144,
+    "para": 6
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0144.md#¶6",
+   "heading_line": "###### 3. The Villages, Florida",
+   "minor": true
+  },
+  {
+   "id": "mmsd-om-2028:36.4-thames-tideway-program-london-uk",
+   "title": "4. Thames Tideway Program, London, UK",
+   "level": 3,
+   "parent": "mmsd-om-2028:36",
+   "outline_index": 36,
+   "outline_title": "V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts",
+   "kind": "body",
+   "start": {
+    "page": 144,
+    "para": 7
+   },
+   "end": {
+    "page": 145,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0144.md#¶7",
+   "heading_line": "###### 4.  Thames Tideway Program, London, UK",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:37",
+   "title": "VI. Exceptions and Requests",
+   "level": 1,
+   "parent": null,
+   "outline_index": 37,
+   "outline_title": "VI. Exceptions and Requests",
+   "kind": "outline+body",
+   "start": {
+    "page": 145,
+    "para": 2
+   },
+   "end": {
+    "page": 147,
+    "para": 24
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0145.md#¶2",
+   "heading_line": "## EXCEPTIONS AND REQUESTS",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:38",
+   "title": "VI.A. Exceptions",
+   "level": 2,
+   "parent": "mmsd-om-2028:37",
+   "outline_index": 38,
+   "outline_title": "VI.A. Exceptions",
+   "kind": "outline+body",
+   "start": {
+    "page": 145,
+    "para": 3
+   },
+   "end": {
+    "page": 146,
+    "para": 1
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0145.md#¶3",
+   "heading_line": "###### A. Exceptions",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:39",
+   "title": "VI.B. Markups to Exhibit J - Insurance",
+   "level": 2,
+   "parent": "mmsd-om-2028:37",
+   "outline_index": 39,
+   "outline_title": "VI.B. Markups to Exhibit J - Insurance",
+   "kind": "outline+body",
+   "start": {
+    "page": 146,
+    "para": 2
+   },
+   "end": {
+    "page": 147,
+    "para": 24
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0146.md#¶2",
+   "heading_line": "###### B. Markups to Exhibit J - Insurance",
+   "minor": false
+  },
+  {
+   "id": "mmsd-om-2028:39.7-make-the-following-changes-to-paragraph-9-subsection-c",
+   "title": "7. Make the following changes to Paragraph 9, subsection (c)",
+   "level": 3,
+   "parent": "mmsd-om-2028:39",
+   "outline_index": 39,
+   "outline_title": "VI.B. Markups to Exhibit J - Insurance",
+   "kind": "body",
+   "start": {
+    "page": 147,
+    "para": 2
+   },
+   "end": {
+    "page": 147,
+    "para": 24
+   },
+   "anchor": "verbatim/mmsd-om-2028/pages/p0147.md#¶2",
+   "heading_line": "###### **7. Make the following changes to Paragraph 9, subsection (c)**",
+   "minor": false
+  }
+ ],
+ "generated": "2026-09-14"
+}

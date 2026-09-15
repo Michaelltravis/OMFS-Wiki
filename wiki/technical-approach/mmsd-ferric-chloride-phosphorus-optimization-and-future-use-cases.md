@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs
+section-order: 27
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs
+doc-order: 127
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The clearest passive-plus-active optimization example in the section — a physical second injection point for molar-ratio, mixing, and residence-time efficiency, plus a machine-learning layer trained on the client's own data — with a stated savings figure, a redundancy benefit, and an observant detail (an installed analyzer sitting idle) that proves site-level attention.
 reuse-notes: Injection-point geometry, dosage savings, and the idle instrument observation are pursuit-specific and only credible where a site visit confirmed them. Keep the passive/active structure and the closing "future opportunities" paragraph, which sets expectations without over-promising unpriced savings.

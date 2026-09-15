@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:07.turlock-zero-liquid-discharge-facility-o-m
+section-order: 4
+section-path: 'Section 2: Qualifications › 2.3 REFERENCES › OPERATIONAL EXCELLENCE BACKED BY DIVERSE PROJECT EXPERIENCE › Turlock Zero Liquid Discharge Facility O&M'
+doc-order: 27
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Long-tenured (2005-ongoing, almost 20 years) industrial ZLD/RO reference supporting a 250 MW power plant, with quantified continuous-improvement outcomes (mixed-bed throughput raised from 480,000 to 500,000 gallons, a four percent increase; WAC rinse procedures using one-fifth of the water; $147,000 in annual chemical savings) and a named client quote praising communication and transparency.
 reuse-notes: Verbatim past-performance content. Confirm reference contact (Mike Tehada) is still current before reuse; verify "2005 – Ongoing" contract status and whether a more recent annual chemical-savings figure supersedes the $147,000 figure. Register each quantified outcome in proof-points/registry.md and cite the registry id when the figures are used.

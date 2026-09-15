@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:30.1-2-3-employee-satisfaction-and-engagement
+section-order: 5
+section-path: IV. Approach Summary › IV.B. Pre-term Activities › 1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees › 1.2.3. Employee Satisfaction and Engagement
+doc-order: 212
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The rarest kind of transition proof — measured before/after employee satisfaction scores from two transitions off the same incumbent (3.6 to 4.1 and 2.8 to 4.3, an average 34% improvement), which converts "our people love working here" from assertion into data, and pairs it with a repeatable six-step process.
 reuse-notes: The satisfaction scores are survey data with a measurement date — confirm the current values and survey basis before restating, and confirm the comparison is fair to name publicly. The six-step process is fully portable; re-point the exhibit numbers.

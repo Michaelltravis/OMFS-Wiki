@@ -23,6 +23,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:28.staffing-resource-and-cost-impacts
+section-order: 4
+section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Staffing, Resource, and Cost Impacts
+doc-order: 185
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Answers a staffing-impact question honestly instead of promising a number the design cannot yet support — absorbing hypochlorite generation with training rather than new headcount, dedicating coverage where a 24/7 thermal unit genuinely demands it, and naming the roughly one FTE the landfill transition frees. That candor about direction plus a commitment to finalize at design completion is what makes it credible.
 reuse-notes: Swap the three project narratives for the target client's capital projects, keeping the structure — current operating condition, what the new technology changes, headcount judgment, skill-set consequence, and when the projection will be finalized. Verify the current chemical handling details (cylinder sizes) and the FTE figure against the target site before reuse. Cross-reference the proposal's own staffing and training plan rather than restating FTE tables here.

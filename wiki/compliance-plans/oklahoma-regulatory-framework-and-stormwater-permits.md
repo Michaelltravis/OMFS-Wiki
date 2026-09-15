@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:24.oklahoma-law-regulatory-knowledge-and-environmental-complian
+section-order: 5
+section-path: 'Section 4 | Oklahoma Law › OKLAHOMA LAW: REGULATORY KNOWLEDGE AND ENVIRONMENTAL COMPLIANCE'
+doc-order: 157
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Demonstrates regulatory knowledge by citing the actual administrative-rule chapters that govern the client's operations — permitting, biosolids, lab accreditation, operator certification, air, and reuse — then converts the citations into sampling frequencies and reporting timelines rather than leaving them as a list. Carries the stormwater permit responsibility split in the same voice.
 reuse-notes: The OAC citations are Oklahoma-specific; replace with the target state's rule chapters, and confirm the citations are current, when reusing elsewhere. The stormwater paragraph turns on the RFP's own responsibility split — here Schedule 12, where the client executes and submits while the operator prepares, obtains approvals, and administers — so re-read the target contract schedule and restate its actual division of duties.

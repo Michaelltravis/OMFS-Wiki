@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.community-involvement-and-outreach
+section-order: 38
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › COMMUNITY INVOLVEMENT AND OUTREACH'
+doc-order: 66
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Strong strategic framing that ties community outreach directly to public trust in potable reuse (IPR/DPR) acceptance, backed by a four-category menu of concrete engagement elements and four real corporate community-involvement proof points from other Jacobs sites.
 reuse-notes: Replace [CLIENT] and facility references with the new pursuit's client and facility; swap the named local outreach lead (Royce Davis) and the site proof points for ones relevant to the new pursuit's region if better matches exist. The four-category engagement menu and the IPR/DPR trust argument are broadly reusable for any advanced or potable water reuse pursuit.

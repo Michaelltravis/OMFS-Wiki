@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.collection-system-wet-weather-flow-management
+section-order: 5
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › COLLECTION SYSTEM & WET-WEATHER FLOW MANAGEMENT
+doc-order: 105
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'Six tight, parallel focus-area abstracts, each roughly 40 words, each naming the method and the client outcome. An efficient roadmap device: it lets an evaluator see the whole operations story on one page before the detailed subsections.'
 reuse-notes: Choose focus areas from the pursuit's own pain points and permit drivers; keep each abstract to one or two sentences with a named technique and a named outcome; replace goal statements (zero overflows, the client's renewable energy vision year) with the pursuit's stated targets.

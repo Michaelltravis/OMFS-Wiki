@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.little-river-wrf
+section-order: 32
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SLUDGE/BIOSOLIDS MANAGEMENT › Little River WRF
+doc-order: 75
 context: JC Solutions (a Jacobs/CERM JV) biosolids-transfer and beneficial-reuse approach for a Southeast county multi-facility wastewater system.
 quality: Near-verbatim operating observations and continuity-first solids-management actions.
 reuse-notes: Confirm the current disposal destination, hauler availability, solids-processing capacity, polymer program, and beneficial-reuse requirements before reuse.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.sampling-program
+section-order: 30
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › LABORATORY MANAGEMENT AND SAMPLING PLAN › Sampling Program
+doc-order: 73
 context: County wastewater O&M pursuit supported by JC Solutions, a Jacobs/CERM joint venture.
 quality: Near-verbatim pattern for sampling schedules, operational data management, document control, audit findings, and competency assurance.
 reuse-notes: Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV. Confirm HACH WIMS, the records-access rules, contract articles, performance standards, and certification requirements before reuse.

@@ -22,6 +22,10 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 win-theme-map: [transition-continuity, incumbent-displacement, regional-bench]
+section-id: hull-wwtf-om-2026:12.why-mike
+section-order: 3
+section-path: Section 7 - Appendix A - Resumes › WHY MIKE?
+doc-order: 68
 context: Proposed as Transition Manager. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Transition Manager; broad multi-facility, cross-border transition/startup track record (West Basin CA, Goderich ON, Santa Monica SWIP CA) directly relevant to mobilization planning.
 reuse-notes: "VERBATIM — real name and license info; no phone/email is given in the source resume (not a cover-letter signatory). Before reuse on a new pursuit: (1) confirm Mike Boven is still employed by Jacobs and still holds this role/title; (2) verify all Michigan waterworks/sewage/industrial-wastewater/stormwater license classes are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit; (4) the Santa Monica SWIP reference overlaps with the wiki's separate (not-yet-extracted) santamonica-swip-om-2025 source — cross-check before reuse to avoid duplication."

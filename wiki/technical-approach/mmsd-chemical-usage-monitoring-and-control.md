@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-6-2-chemical-usage-monitoring-and-control
+section-order: 27
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.2. Chemical Usage Monitoring and Control
+doc-order: 154
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: Short, specific, and quantified — names the actual chemicals, the metering and reconciliation mechanics, and commits to a 10 to 30% chemical-use reduction target with the compliance guardrail attached. The reconciliation-against-purchase-records detail is what makes the transparency claim credible to a cost-conscious evaluator.
 reuse-notes: The 10-30% reduction range is a commitment, not a description — confirm it against the pursuit spec sheet's locked value and the baseline chemical program before repeating it. Replace the chemical list (hypochlorite, ferric chloride, polymer, bisulfite) with the pursuit's actual feed chemicals. Keep the "without affecting permit compliance" qualifier attached to the savings number every time.

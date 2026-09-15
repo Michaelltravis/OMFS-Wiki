@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+section-id: ocwut-16-26:05.collection-system-odor-control
+section-order: 24
+section-path: Section 1 | Technical Approach › Operations Plan › ODOR CONTROL STRATEGY › Collection System Odor Control
+doc-order: 59
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Pairs operational control with engineering depth — the "operational control alone isn't enough" pivot into WATS sewer process modeling, backed by 35+ project applications, the Aalborg University collaboration and the $20M SCORe program, plus a named SME. Also carries the wet-weather basin drawdown obligation tied to contract fees at risk.
 reuse-notes: WATS project counts and the SCORe/Aalborg credentials are corporate proof points — confirm current values before reuse. The named SME (Adrian Romero-Flores, PhD) must be re-confirmed as available and re-tailored to the new pursuit. Basin drawdown intervals (7 days / 21 days) come from this contract's Schedule 3 — replace with the new contract's requirement.

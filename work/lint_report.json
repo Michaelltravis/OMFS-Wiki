@@ -1,5 +1,433 @@
 {
-  "files_checked": 792,
-  "by_rule": {},
-  "violations": []
+  "files_checked": 835,
+  "by_rule": {
+    "client-name-in-narrative": 85
+  },
+  "violations": [
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/chisholm-creek-process-control-proactive-risk-reduction.md",
+      "detail": "Chisholm Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/cip-implementation-and-construction-coordination.md",
+      "detail": "Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/continual-improvement-and-preventive-maintenance-program.md",
+      "detail": "Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/corrective-maintenance-program-failure-chain.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/deer-creek-process-control-breaking-reactive-cycle.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/drain-clean-corrosion-control-housekeeping-program.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/facility-by-facility-maintenance-priorities-table.md",
+      "detail": "Chisholm Creek WWTP, Deer Creek, Deer Creek WWTP, North Canadian, North Canadian WWTP, South Canadian, South Canadian WWTP, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/low-flow-minimum-load-operating-strategy.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/maintenance-plan-system-findings-asset-condition.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/maintenance-staffing-and-drain-clean-restructuring.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/major-pump-station-operations-odor-hydraulic-reliability.md",
+      "detail": "North Canadian, North Canadian WWTP, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/north-canadian-process-control-stabilize-first.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian, Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-advanced-odor-monitoring-and-data-driven-control.md",
+      "detail": "Deer Creek, North Canadian, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-collection-system-odor-control-wats-and-wet-weather-basins.md",
+      "detail": "North Canadian, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-exhibit-1-1-odor-control-community-protection-matrix.md",
+      "detail": "North Canadian, Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-exhibit-1-1-regulatory-compliance-reuse-matrix.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-exhibit-1-1-wet-weather-solids-management-matrix.md",
+      "detail": "Witcher, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-facility-understanding-and-proposal-preparation.md",
+      "detail": "Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-fence-line-performance-rapid-response-and-integration.md",
+      "detail": "North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-four-facility-process-control-diagnosis.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-four-layer-odor-control-strategy.md",
+      "detail": "Deer Creek, North Canadian, Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-odor-control-why-it-matters-and-systemwide-framework.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-oshg-conversion-transition-experience.md",
+      "detail": "Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
+      "detail": "Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md",
+      "detail": "Deer Creek, North Canadian, South Canadian, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/ocwut-wwtf-odor-control-dispersion-modeling-and-equipment-restoration.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/on-call-and-emergency-maintenance-response.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/phased-no-cost-low-cost-energy-optimization-opportunities.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/phased-process-control-approach-three-phase-exhibit.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/phased-process-control-strategy-stabilize-optimize-sustain.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/predictive-maintenance-technology-suite-program.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/process-control-interdependencies-energy-equipment-rotation.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/process-control-tools-benefits-table.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/south-canadian-new-plant-process-control-day-one.md",
+      "detail": "South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/technical-approach/warranty-management-cmms-warranty-register.md",
+      "detail": "Deer Creek, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-247-coverage-and-oncall-rotation.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-communications-reporting-framework-table.md",
+      "detail": "North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-individualized-training-program-and-cross-training.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-management-structure-and-team-familiarity.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian, Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md",
+      "detail": "North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-operations-and-maintenance-manager-profiles.md",
+      "detail": "Deer Creek, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-organization-chart-and-reporting-structure.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian, Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-qaqc-and-plant-operations-manager-profiles.md",
+      "detail": "Chisholm Creek, North Canadian, Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/management-staffing/ocwut-staffing-model-fewer-managers-more-doers.md",
+      "detail": "South Canadian, South Canadian WWTP"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/cover-letter-day-one-priorities-value-bullets.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/cover-letter-utility-partnership-opening-and-system-challenges.md",
+      "detail": "Deer Creek, North Canadian Wastewater Treatment Plant"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/exec-summary-innovation-benefit-table.md",
+      "detail": "Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/exec-summary-operational-integration-plan-commitment.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/exec-summary-site-verified-understanding-and-case-for-change.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/exec-summary-sludge-management-plan-commitment.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/exec-summary-solids-management-plan-commitment.md",
+      "detail": "Deer Creek"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/exec-summary-technical-approach-pillars.md",
+      "detail": "Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+      "detail": "Deer Creek WWTP, South Canadian WWTP"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/fulton-community-organization-and-water-stewardship-partnerships.md",
+      "detail": "North Fulton"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/fulton-interactive-community-education-and-wellness-partnerships.md",
+      "detail": "North Fulton"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/win-themes/fulton-proactive-media-relations-program.md",
+      "detail": "Johns Creek, North Fulton"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/qualifications/corporate-fact-box-and-employer-culture.md",
+      "detail": "Oklahoma City"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/qualifications/on-site-sodium-hypochlorite-generation-experience.md",
+      "detail": "Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/qualifications/pump-station-om-experience-and-portfolio-table.md",
+      "detail": "Witcher"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/qualifications/septage-receiving-program-experience.md",
+      "detail": "Witcher, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/cip-integration-risk-and-continuity-controls.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/cip-maintenance-skills-subcontractors-and-on-call-coverage.md",
+      "detail": "Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/cip-operating-and-maintenance-cost-impact-analysis.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/cip-staffing-levels-and-classification-impacts.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/hypochlorite-transport-operational-integration.md",
+      "detail": "Chisholm Creek, Deer Creek"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/laboratory-program-and-qaqc-integration-ocwut.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/landfill-transition-operational-integration.md",
+      "detail": "Deer Creek"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-biosolids-sme-bios.md",
+      "detail": "North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md",
+      "detail": "North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-risk-management-emergency-programs.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-safety-training-ppe-chemical-h2s-controls.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-sludge-facility-specific-solids-profiles.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-sludge-management-integrated-program.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-solids-biosolids-sme-bench-and-legislative-monitoring.md",
+      "detail": "North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-solids-compliance-assurance-and-related-program-support.md",
+      "detail": "Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-solids-facility-by-facility-system-understanding.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/ocwut-solids-processing-and-dewatering-operations.md",
+      "detail": "South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/petroleum-storage-tank-compliance-occ.md",
+      "detail": "Chisholm Creek, North Canadian, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/planned-capital-improvements-integration-considerations-table.md",
+      "detail": "Deer Creek, Deer Creek WWTP, North Canadian, North Canadian WWTP"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/regulatory-compliance-program-leadership-and-governance.md",
+      "detail": "South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/reuse-disinfection-facility-by-facility-approach.md",
+      "detail": "Deer Creek, South Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/reuse-monitoring-distribution-integrity-and-continuity.md",
+      "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/reuse-water-program-understanding-and-expertise.md",
+      "detail": "Deer Creek, Deer Creek WWTP, North Canadian WWTP, South Canadian WWTP"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/risk-management-psm-spcc-tier-ii-programs.md",
+      "detail": "Deer Creek, North Canadian, South Canadian, Witcher Pump Station"
+    },
+    {
+      "rule": "client-name-in-narrative",
+      "path": "wiki/compliance-plans/sampling-compliance-and-process-control.md",
+      "detail": "Chisholm Creek, Deer Creek, North Canadian"
+    }
+  ]
 }

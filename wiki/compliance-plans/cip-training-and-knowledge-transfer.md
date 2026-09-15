@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:28.training-and-knowledge-transfer
+section-order: 9
+section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Training and Knowledge Transfer
+doc-order: 190
 context: Southcentral municipal water utility trust capital-program handover.
 quality: Near-verbatim commissioning-to-competency sequence for new treatment and maintenance systems.
 reuse-notes: Tailor vendors, equipment, startup obligations, and references to the companion training plan.

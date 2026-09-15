@@ -1,0 +1,289 @@
+[
+ {
+  "page": 9,
+  "para": 6,
+  "reason": "exhibit-internal",
+  "range": "fulton-county-2025 · Section 1 | Executive Summary (section-id fulton-county-2025:03) · pages 9-10",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 9,
+  "para": 10,
+  "reason": "form-boilerplate",
+  "range": "fulton-county-2025 · Section 1 | Executive Summary (section-id fulton-county-2025:03) · pages 9-10",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 20,
+  "para": 4,
+  "reason": "continuation-of:wiki/technical-approach/fulton-current-future-challenges-and-commissioning.md",
+  "range": "fulton-county-2025 / LITTLE RIVER PLANT / p0020 ¶4",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 22,
+  "para": 12,
+  "reason": "continuation-of:wiki/technical-approach/fulton-compliance-workforce-reachback.md",
+  "range": "fulton-county-2025 · section \"1. Meaningful partnership built on transparency, accountability, and investment in community\" · pages 21-22 (listed paragraphs p0021 ¶10, p0022 ¶12)",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 31,
+  "para": 6,
+  "reason": "duplicate-of:wiki/win-themes/fulton-additional-digital-tools.md",
+  "range": "AVAILABLE ADDITIONAL DIGITAL TOOLS FOR NEXT LEVEL OPTIMIZATION OFFERINGS",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 32,
+  "para": 4,
+  "reason": "commercial",
+  "range": "fulton-county-2025 p0032 ¶2, ¶4 (section \"DISCOUNTED RATE FOR ENGINEERING SERVICES PROVIDED UNDER THE NORTH FULTON O&M CONTRACT\")",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 34,
+  "para": 26,
+  "reason": "duplicate-of:wiki/win-themes/fulton-maintenance-planner-scheduler-palantir.md",
+  "range": "fulton-county-2025 / ENERGY MANAGEMENT STRATEGY / pages 34-36",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 77,
+  "para": 16,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-biosolids-transfer-reuse-and-optimization.md",
+  "range": "fulton-county-2025 · SLUDGE/BIOSOLIDS MANAGEMENT · p0077 ¶16",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 94,
+  "para": 17,
+  "reason": "continuation-of:wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md",
+  "range": "SECURITY PLAN + CYBERSECURITY",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 94,
+  "para": 18,
+  "reason": "duplicate-of:wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md",
+  "range": "SECURITY PLAN + CYBERSECURITY",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 96,
+  "para": 26,
+  "reason": "duplicate-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md",
+  "range": "SECURITY PLAN + CYBERSECURITY",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 97,
+  "para": 4,
+  "reason": "continuation-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md",
+  "range": "SECURITY PLAN + CYBERSECURITY",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 97,
+  "para": 8,
+  "reason": "continuation-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md",
+  "range": "SECURITY PLAN + CYBERSECURITY",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 102,
+  "para": 5,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+  "range": "fulton-county-2025 pages 102-104, section \"COMMUNICATIONS AND REPORTING + ANNUAL INNOVATION WORKSHOP\" (section-id fulton-county-2025:12.communications-and-reporting)",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 103,
+  "para": 8,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+  "range": "fulton-county-2025 pages 102-104, section \"COMMUNICATIONS AND REPORTING + ANNUAL INNOVATION WORKSHOP\" (section-id fulton-county-2025:12.communications-and-reporting)",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 103,
+  "para": 10,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+  "range": "fulton-county-2025 pages 102-104, section \"COMMUNICATIONS AND REPORTING + ANNUAL INNOVATION WORKSHOP\" (section-id fulton-county-2025:12.communications-and-reporting)",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 104,
+  "para": 2,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+  "range": "fulton-county-2025 pages 102-104, section \"COMMUNICATIONS AND REPORTING + ANNUAL INNOVATION WORKSHOP\" (section-id fulton-county-2025:12.communications-and-reporting)",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 104,
+  "para": 3,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+  "range": "fulton-county-2025 pages 102-104, section \"COMMUNICATIONS AND REPORTING + ANNUAL INNOVATION WORKSHOP\" (section-id fulton-county-2025:12.communications-and-reporting)",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 104,
+  "para": 5,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-communications-cadence-and-reporting.md",
+  "range": "fulton-county-2025 pages 102-104, section \"COMMUNICATIONS AND REPORTING + ANNUAL INNOVATION WORKSHOP\" (section-id fulton-county-2025:12.communications-and-reporting)",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 105,
+  "para": 2,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 106,
+  "para": 1,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 106,
+  "para": 10,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-outreach-team-and-framework.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 106,
+  "para": 25,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 107,
+  "para": 7,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 107,
+  "para": 8,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 107,
+  "para": 9,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 107,
+  "para": 10,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 107,
+  "para": 15,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 107,
+  "para": 17,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 107,
+  "para": 19,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 107,
+  "para": 21,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-concerns-and-regulatory-engagement.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 108,
+  "para": 12,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-community-relations-plan-and-stakeholder-directory.md",
+  "range": "fulton-county-2025 pages 105-108, section \"PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN + 3. Strategic partnerships\"",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 121,
+  "para": 5,
+  "reason": "duplicate-of:wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md",
+  "range": "Transition Team + Transition Training Period + 45-Day Schedule for Smooth Transition of Operations and Related Systems + Pre-Start Transition (15 Days Prior to June 6) + + + +",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 127,
+  "para": 5,
+  "reason": "continuation-of:wiki/management-staffing/fulton-team-organization-and-key-personnel.md",
+  "range": "fulton-county-2025 · Section 3 | Project Team Qualifications, Qualifications of Key Personnel (section-id fulton-county-2025:14), p. 127",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 128,
+  "para": 4,
+  "reason": "exhibit-internal",
+  "range": "TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 161,
+  "para": 3,
+  "reason": "duplicate-of:wiki/qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md",
+  "range": "O&M RESOURCES + Jorge Bermudez",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 163,
+  "para": 7,
+  "reason": "duplicate-of:wiki/qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md",
+  "range": "O&M RESOURCES + Jorge Bermudez",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 165,
+  "para": 2,
+  "reason": "duplicate-of:wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md",
+  "range": "O&M RESOURCES + Jorge Bermudez",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 165,
+  "para": 13,
+  "reason": "duplicate-of:wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md",
+  "range": "O&M RESOURCES + Jorge Bermudez",
+  "run": "wf_5c99051f-117"
+ },
+ {
+  "page": 181,
+  "para": 11,
+  "reason": "duplicate-of:wiki/compliance-plans/fulton-traverse-city-environmental-compliance-record.md",
+  "range": "fulton-county-2025 · \"ENVIRONMENTAL COMPLIANCE RECORD\" · p. 181 ¶11",
+  "run": "wf_c9884085-d94"
+ },
+ {
+  "page": 120,
+  "para": 21,
+  "reason": "duplicate-of:wiki/management-staffing/fulton-pre-start-and-initial-transition-phases.md (recovered text-layer tail with two columns interleaved; not usable prose)",
+  "range": "manual review after run wf_5c99051f-117",
+  "run": "manual"
+ }
+]

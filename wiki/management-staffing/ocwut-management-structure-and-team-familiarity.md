@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.experience-and-qualifications-of-the-management-team
+section-order: 16
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM
+doc-order: 123
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The opening move of a challenger management section — it converts prior individual history with the client's own facilities into a "not starting from scratch" claim, then names every Schedule 10 manager by role so the client can see the whole team at once.
 reuse-notes: Swap in the named managers and the client-specific roles (Schedule 10 is this RFP's staffing exhibit label). The "he knows these facilities firsthand from his previous work as project manager for this program" line only works where a proposed leader genuinely has prior tenure on the client's system — verify before reuse. Plant names (North Canadian, Witcher, Chisholm Creek, Deer Creek, South Canadian) are pursuit-specific.

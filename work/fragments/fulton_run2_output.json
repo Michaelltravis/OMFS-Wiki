@@ -1,0 +1,537 @@
+{
+  "summary": "Create content blocks only for verbatim paragraphs that no block covers (one source per run), judge them as prose, then re-assign section order, rebuild the proof-point registry, index and lint",
+  "agentCount": 16,
+  "logs": [
+    "Blocks: 6/6 ranges; created 10; skipped 12; residual paraphrase failures: 0",
+    "Orphaned blocks judged: 23; residual paraphrase failures: 0",
+    "Finalize: Ran the fulton-county-2025 finalize pipeline in order. (1) find_uncovered.py: substantive=690, covered=574, partial=75, uncovered=13, writer-skipped=28 — 13 residual is 1 over the stated 12-skip ceiling (worth flagging to the user). (2) assign_block_sections.py --slug fulton-county-2025: assigned=163, changed=160, unassigned=0, unparseable=0. (3) build_proof_point_registry.py: 35 new registry entries/values, 84 conflicts flagged, 617 blocks patched with proof-point-ids; then patch_frontmatter.py applied work/fragments/pp_patches.json cleanly. (4) regen_index.py: wrote wiki/index.md and index.json, 831 blocks indexed. (5) lint_blocks.py --json work/lint_report.json: 85 total violations, ALL of rule type client-name-in-narrative (body-text client-name leakage) — zero missing-required-keys, zero YAML-parse/unquoted-colon, zero bad-tag violations anywhere in the wiki. Only 3 of the 85 are in fulton- paths (wiki/win-themes/fulton-community-organization-and-water-stewardship-partnerships.md, fulton-interactive-community-education-and-wellness-partnerships.md, fulton-proactive-media-relations-program.md — flagging \"North Fulton\"/\"Johns Creek\"), and all 3 are body-text content findings, not mechanical frontmatter defects patch_frontmatter.py or the task's fix list cover (unquoted colon / missing default key / off-vocabulary tag). Per the instruction to touch ONLY mechanical violations and never bodies, no patches were applied and steps 2/4/5 were not re-run since nothing was changed. Flagging two things for the proposal manager: (a) uncovered=13 exceeds the expected 12 writer-skips by 1 — check work/gaps/fulton-county-2025.md for the extra uncovered paragraph; (b) the 3 fulton- client-name-in-narrative hits (\"North Fulton\", \"Johns Creek\") may be legitimate service-area names rather than the pursuit client name — worth a human sanitization-rule call, not something to auto-patch.",
+    "Testimonials: No new testimonials were found. All six named fragment quote files for fulton-county-2025 contain empty lists ([]) — in fact every one of the 20 gapfill-*.quotes.json files in work/fragments/fulton-county-2025/ is empty, so this gap-fill run surfaced no client or third-party quotes at all. Consequently no rows were appended to testimonials/inventory.md (it remains at 70 rows, TM-0001..TM-0070, with its highest ID unchanged) and no block needed a testimonial-ids field. For completeness I wrote work/fragments/tm_patches_gapfill.json as an empty patch list ([]) and ran work/patch_frontmatter.py against it; it exited 0 (\"Done.\") without modifying any block file. Counts: added 0, already_present 0 (nothing to compare — there were no candidate quotes)."
+  ],
+  "result": {
+    "slug": "fulton-county-2025",
+    "ranges": [
+      {
+        "range": "AVAILABLE ADDITIONAL DIGITAL TOOLS FOR NEXT LEVEL OPTIMIZATION OFFERINGS",
+        "created": 0,
+        "skipped": 1,
+        "skipped_reasons": [
+          {
+            "page": 31,
+            "para": 6,
+            "reason": "duplicate-of:wiki/win-themes/fulton-additional-digital-tools.md"
+          }
+        ],
+        "residual_fails": [],
+        "quotes_fragment": "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-AVAILABLE-ADDITIONAL-DIGITAL-TOOLS-FOR-NEXT-LEVEL-OPTIMIZATI.quotes.json"
+      },
+      {
+        "range": "OPERATION & MAINTENANCE PLANS",
+        "created": 1,
+        "skipped": 0,
+        "skipped_reasons": [],
+        "residual_fails": [],
+        "quotes_fragment": "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-OPERATION-MAINTENANCE-PLANS.quotes.json"
+      },
+      {
+        "range": "SECURITY PLAN + CYBERSECURITY",
+        "created": 2,
+        "skipped": 5,
+        "skipped_reasons": [
+          {
+            "page": 94,
+            "para": 17,
+            "reason": "continuation-of:wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md"
+          },
+          {
+            "page": 94,
+            "para": 18,
+            "reason": "duplicate-of:wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md"
+          },
+          {
+            "page": 96,
+            "para": 26,
+            "reason": "duplicate-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md"
+          },
+          {
+            "page": 97,
+            "para": 4,
+            "reason": "continuation-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md"
+          },
+          {
+            "page": 97,
+            "para": 8,
+            "reason": "continuation-of:wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md"
+          }
+        ],
+        "residual_fails": [],
+        "quotes_fragment": "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-SECURITY-PLAN-CYBERSECURITY.quotes.json"
+      },
+      {
+        "range": "Transition Team + Transition Training Period + 45-Day Schedule for Smooth Transition of Operations and Related Systems + Pre-Start Transition (15 Days Prior to June 6) + + + +",
+        "created": 7,
+        "skipped": 1,
+        "skipped_reasons": [
+          {
+            "page": 121,
+            "para": 5,
+            "reason": "duplicate-of:wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md"
+          }
+        ],
+        "residual_fails": [],
+        "quotes_fragment": "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-Transition-Team-Transition-Training-Period-45-Day-Schedule-f.quotes.json"
+      },
+      {
+        "range": "TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M",
+        "created": 0,
+        "skipped": 1,
+        "skipped_reasons": [
+          {
+            "page": 128,
+            "para": 4,
+            "reason": "exhibit-internal"
+          }
+        ],
+        "residual_fails": [],
+        "quotes_fragment": "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-TEAM-ORGANIZATION-OPTIMIZES-AND-ELEVATES-O-M.quotes.json"
+      },
+      {
+        "range": "O&M RESOURCES + Jorge Bermudez",
+        "created": 0,
+        "skipped": 4,
+        "skipped_reasons": [
+          {
+            "page": 161,
+            "para": 3,
+            "reason": "duplicate-of:wiki/qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md"
+          },
+          {
+            "page": 163,
+            "para": 7,
+            "reason": "duplicate-of:wiki/qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md"
+          },
+          {
+            "page": 165,
+            "para": 2,
+            "reason": "duplicate-of:wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md"
+          },
+          {
+            "page": 165,
+            "para": 13,
+            "reason": "duplicate-of:wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md"
+          }
+        ],
+        "residual_fails": [],
+        "quotes_fragment": "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-O-M-RESOURCES-Jorge-Bermudez.quotes.json"
+      }
+    ],
+    "orphan_fails": [],
+    "fin": {
+      "summary": "Ran the fulton-county-2025 finalize pipeline in order. (1) find_uncovered.py: substantive=690, covered=574, partial=75, uncovered=13, writer-skipped=28 — 13 residual is 1 over the stated 12-skip ceiling (worth flagging to the user). (2) assign_block_sections.py --slug fulton-county-2025: assigned=163, changed=160, unassigned=0, unparseable=0. (3) build_proof_point_registry.py: 35 new registry entries/values, 84 conflicts flagged, 617 blocks patched with proof-point-ids; then patch_frontmatter.py applied work/fragments/pp_patches.json cleanly. (4) regen_index.py: wrote wiki/index.md and index.json, 831 blocks indexed. (5) lint_blocks.py --json work/lint_report.json: 85 total violations, ALL of rule type client-name-in-narrative (body-text client-name leakage) — zero missing-required-keys, zero YAML-parse/unquoted-colon, zero bad-tag violations anywhere in the wiki. Only 3 of the 85 are in fulton- paths (wiki/win-themes/fulton-community-organization-and-water-stewardship-partnerships.md, fulton-interactive-community-education-and-wellness-partnerships.md, fulton-proactive-media-relations-program.md — flagging \"North Fulton\"/\"Johns Creek\"), and all 3 are body-text content findings, not mechanical frontmatter defects patch_frontmatter.py or the task's fix list cover (unquoted colon / missing default key / off-vocabulary tag). Per the instruction to touch ONLY mechanical violations and never bodies, no patches were applied and steps 2/4/5 were not re-run since nothing was changed. Flagging two things for the proposal manager: (a) uncovered=13 exceeds the expected 12 writer-skips by 1 — check work/gaps/fulton-county-2025.md for the extra uncovered paragraph; (b) the 3 fulton- client-name-in-narrative hits (\"North Fulton\", \"Johns Creek\") may be legitimate service-area names rather than the pursuit client name — worth a human sanitization-rule call, not something to auto-patch.",
+      "files": [
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\gaps\\fulton-county-2025.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\gaps\\fulton-county-2025.md",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\section_patches.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\section_assignment_report.md",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\pp_patches.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\proof-points\\registry.md",
+        "C:\\Users\\micha\\Desktop\\Wiki\\wiki\\index.md",
+        "C:\\Users\\micha\\Desktop\\Wiki\\wiki\\index.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\lint_report.json"
+      ],
+      "counts": {
+        "residual_uncovered": 13,
+        "blocks_assigned": 163,
+        "lint_violations_before": 85,
+        "lint_violations_after": 85
+      }
+    },
+    "testimonials": {
+      "summary": "No new testimonials were found. All six named fragment quote files for fulton-county-2025 contain empty lists ([]) — in fact every one of the 20 gapfill-*.quotes.json files in work/fragments/fulton-county-2025/ is empty, so this gap-fill run surfaced no client or third-party quotes at all. Consequently no rows were appended to testimonials/inventory.md (it remains at 70 rows, TM-0001..TM-0070, with its highest ID unchanged) and no block needed a testimonial-ids field. For completeness I wrote work/fragments/tm_patches_gapfill.json as an empty patch list ([]) and ran work/patch_frontmatter.py against it; it exited 0 (\"Done.\") without modifying any block file. Counts: added 0, already_present 0 (nothing to compare — there were no candidate quotes).",
+      "files": [
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\tm_patches_gapfill.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\testimonials\\inventory.md",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-AVAILABLE-ADDITIONAL-DIGITAL-TOOLS-FOR-NEXT-LEVEL-OPTIMIZATI.quotes.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-OPERATION-MAINTENANCE-PLANS.quotes.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-SECURITY-PLAN-CYBERSECURITY.quotes.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-Transition-Team-Transition-Training-Period-45-Day-Schedule-f.quotes.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-TEAM-ORGANIZATION-OPTIMIZES-AND-ELEVATES-O-M.quotes.json",
+        "C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-O-M-RESOURCES-Jorge-Bermudez.quotes.json"
+      ],
+      "counts": {
+        "added": 0,
+        "already_present": 0
+      }
+    }
+  },
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Blocks"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Prose judge"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 3,
+      "title": "Finalize"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "load ranges",
+      "phaseIndex": 1,
+      "phaseTitle": "Blocks",
+      "agentId": "a4b2be82645cfb0de",
+      "model": "claude-sonnet-5",
+      "state": "done",
+      "startedAt": 1789437896728,
+      "queuedAt": 1789437895158,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "Southeast US county, three MBR WRFs + 33 pump stations, 202…",
+      "promptPreview": "Read the JSON file C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\ranges_gapfill_fulton-county-2025.json and return its contents unchanged as the fields slug, clientNames, context, today and ranges (every range with all its existingBlocks and uncovered entries, in file order). Transcribe exactly; do not summarize, reorder, drop or add anything; do not modify any file.",
+      "promptFramed": false,
+      "lastProgressAt": 1789437941276,
+      "tokens": 80115,
+      "toolCalls": 2,
+      "durationMs": 44547,
+      "resultPreview": "{\"clientNames\":[\"Fulton County Department of Public Works\",\"Fulton County Public Works\",\"Fulton County\",\"North Fulton\",\"the County\",\"Big Creek Water Reclamation Facility\",\"Big Creek WRF\",\"Big Creek\",\"Johns Creek Environmental Campus\",\"JCEC\",\"Johns Creek\",\"Little River Water Reclamation Facility\",\"Little River WRF\",\"Little River\"],\"context\":\"Southeast US county, three MBR WRFs + 33 pump stations, 2…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "gapfill fulton-county-2025 AVAILABLE ADDITIONAL DIGITAL TOOLS FOR NEXT LEVEL OPTIMIZATION OFFERINGS",
+      "phaseIndex": 1,
+      "phaseTitle": "Blocks",
+      "agentId": "add345dd392b699bc",
+      "model": "claude-opus-5[1m]",
+      "state": "done",
+      "startedAt": 1789437944829,
+      "queuedAt": 1789437943097,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 pages 31–31, section \"AVAILABLE ADDITION…",
+      "promptPreview": "You are ADDING content-bank blocks for paragraphs of a winning Jacobs proposal that no existing block covers. Work only from the verbatim page files; they are the source of truth.\n\nRead first: C:\\Users\\micha\\Desktop\\Wiki\\CLAUDE.md (schema v2, sanitization rules) and C:\\Users\\micha\\Desktop\\Wiki\\templates\\content-block.md.\nSource slug fulton-county-2025; section \"AVAILABLE ADDITIONAL DIGITAL TOOLS F…",
+      "promptFramed": false,
+      "lastProgressAt": 1789437968433,
+      "tokens": 77140,
+      "toolCalls": 4,
+      "durationMs": 22392,
+      "resultPreview": "{\"range\":\"fulton-county-2025 pages 31–31, section \\\"AVAILABLE ADDITIONAL DIGITAL TOOLS FOR NEXT LEVEL OPTIMIZATION OFFERINGS\\\"\",\"files_created\":[],\"skipped\":[{\"page\":31,\"para\":6,\"reason\":\"duplicate-of:wiki/win-themes/fulton-additional-digital-tools.md\"}],\"facts_fragment\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\work\\\\fragments\\\\fulton-county-2025\\\\gapfill-AVAILABLE-ADDITIONAL-DIGITAL-TOOLS-FOR-NEXT-LEVEL…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "gapfill fulton-county-2025 OPERATION & MAINTENANCE PLANS",
+      "phaseIndex": 1,
+      "phaseTitle": "Blocks",
+      "agentId": "a744666c12fd2b6b7",
+      "model": "claude-opus-5[1m]",
+      "state": "done",
+      "startedAt": 1789437944724,
+      "queuedAt": 1789437943097,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 / OPERATION & MAINTENANCE PLANS / p0062 …",
+      "promptPreview": "You are ADDING content-bank blocks for paragraphs of a winning Jacobs proposal that no existing block covers. Work only from the verbatim page files; they are the source of truth.\n\nRead first: C:\\Users\\micha\\Desktop\\Wiki\\CLAUDE.md (schema v2, sanitization rules) and C:\\Users\\micha\\Desktop\\Wiki\\templates\\content-block.md.\nSource slug fulton-county-2025; section \"OPERATION & MAINTENANCE PLANS\" (sect…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438008559,
+      "tokens": 80025,
+      "toolCalls": 8,
+      "durationMs": 62520,
+      "resultPreview": "{\"range\":\"fulton-county-2025 / OPERATION & MAINTENANCE PLANS / p0062 ¶3, ¶6, ¶7\",\"files_created\":[\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\technical-approach\\\\fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md\"],\"skipped\":[],\"facts_fragment\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\work\\\\fragments\\\\fulton-county-2025\\\\gapfill-OPERATION-MAINTENANCE-PLANS.facts.json\",\"quotes_fragment\":\"C:\\\\…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "gapfill fulton-county-2025 SECURITY PLAN + CYBERSECURITY",
+      "phaseIndex": 1,
+      "phaseTitle": "Blocks",
+      "agentId": "af3a36bbab3b2aa1a",
+      "model": "claude-opus-5[1m]",
+      "state": "done",
+      "startedAt": 1789437944738,
+      "queuedAt": 1789437943097,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 / SECURITY PLAN + CYBERSECURITY (pages 9…",
+      "promptPreview": "You are ADDING content-bank blocks for paragraphs of a winning Jacobs proposal that no existing block covers. Work only from the verbatim page files; they are the source of truth.\n\nRead first: C:\\Users\\micha\\Desktop\\Wiki\\CLAUDE.md (schema v2, sanitization rules) and C:\\Users\\micha\\Desktop\\Wiki\\templates\\content-block.md.\nSource slug fulton-county-2025; section \"SECURITY PLAN + CYBERSECURITY\" (sect…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438039763,
+      "tokens": 94255,
+      "toolCalls": 13,
+      "durationMs": 93723,
+      "resultPreview": "{\"range\":\"fulton-county-2025 / SECURITY PLAN + CYBERSECURITY (pages 94-97)\",\"files_created\":[\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\compliance-plans\\\\fulton-security-plan-components-access-control-and-incident-reporting.md\",\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\compliance-plans\\\\fulton-balanced-security-governance-and-technology.md\"],\"skipped\":[{\"page\":94,\"para\":17,\"reason\":\"continuation-of:wik…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "gapfill fulton-county-2025 Transition Team + Transition Training Period + 45-Day Schedule for Smooth Transition of Operations and Related Systems + Pre-Start Transition (15 Days Prior to June 6) + + + +",
+      "phaseIndex": 1,
+      "phaseTitle": "Blocks",
+      "agentId": "a13903ee0e6fa584f",
+      "model": "claude-opus-5[1m]",
+      "state": "done",
+      "startedAt": 1789437944689,
+      "queuedAt": 1789437943098,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 pp. 118-124 — section \"Transition Team +…",
+      "promptPreview": "You are ADDING content-bank blocks for paragraphs of a winning Jacobs proposal that no existing block covers. Work only from the verbatim page files; they are the source of truth.\n\nRead first: C:\\Users\\micha\\Desktop\\Wiki\\CLAUDE.md (schema v2, sanitization rules) and C:\\Users\\micha\\Desktop\\Wiki\\templates\\content-block.md.\nSource slug fulton-county-2025; section \"Transition Team + Transition Trainin…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438268238,
+      "tokens": 130307,
+      "toolCalls": 22,
+      "durationMs": 323548,
+      "resultPreview": "{\"range\":\"fulton-county-2025 pp. 118-124 — section \\\"Transition Team + Transition Training Period + 45-Day Schedule for Smooth Transition of Operations and Related Systems + Pre-Start Transition (15 Days Prior to June 6) + + + +\\\" (section-id fulton-county-2025:13.transition-team)\",\"files_created\":[\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\management-staffing\\\\fulton-transition-team-composition-and-…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "gapfill fulton-county-2025 TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M",
+      "phaseIndex": 1,
+      "phaseTitle": "Blocks",
+      "agentId": "ab4983de93e8fcd72",
+      "model": "claude-opus-5[1m]",
+      "state": "done",
+      "startedAt": 1789437944812,
+      "queuedAt": 1789437943098,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 / TEAM ORGANIZATION OPTIMIZES AND ELEVAT…",
+      "promptPreview": "You are ADDING content-bank blocks for paragraphs of a winning Jacobs proposal that no existing block covers. Work only from the verbatim page files; they are the source of truth.\n\nRead first: C:\\Users\\micha\\Desktop\\Wiki\\CLAUDE.md (schema v2, sanitization rules) and C:\\Users\\micha\\Desktop\\Wiki\\templates\\content-block.md.\nSource slug fulton-county-2025; section \"TEAM ORGANIZATION OPTIMIZES AND ELEV…",
+      "promptFramed": false,
+      "lastProgressAt": 1789437965300,
+      "tokens": 71697,
+      "toolCalls": 4,
+      "durationMs": 19259,
+      "resultPreview": "{\"range\":\"fulton-county-2025 / TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M / p128-128\",\"files_created\":[],\"skipped\":[{\"page\":128,\"para\":4,\"reason\":\"exhibit-internal\"}],\"facts_fragment\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\work\\\\fragments\\\\fulton-county-2025\\\\gapfill-TEAM-ORGANIZATION-OPTIMIZES-AND-ELEVATES-O-M.facts.json\",\"quotes_fragment\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\work\\\\fragments\\\\fulton-co…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "gapfill fulton-county-2025 O&M RESOURCES + Jorge Bermudez",
+      "phaseIndex": 1,
+      "phaseTitle": "Blocks",
+      "agentId": "a6144041cb4c3a4ae",
+      "model": "claude-opus-5[1m]",
+      "state": "done",
+      "startedAt": 1789437944803,
+      "queuedAt": 1789437943098,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 pp. 161-165, section \"O&M RESOURCES + Jo…",
+      "promptPreview": "You are ADDING content-bank blocks for paragraphs of a winning Jacobs proposal that no existing block covers. Work only from the verbatim page files; they are the source of truth.\n\nRead first: C:\\Users\\micha\\Desktop\\Wiki\\CLAUDE.md (schema v2, sanitization rules) and C:\\Users\\micha\\Desktop\\Wiki\\templates\\content-block.md.\nSource slug fulton-county-2025; section \"O&M RESOURCES + Jorge Bermudez\" (sec…",
+      "promptFramed": false,
+      "lastProgressAt": 1789437979979,
+      "tokens": 89528,
+      "toolCalls": 8,
+      "durationMs": 33939,
+      "resultPreview": "{\"range\":\"fulton-county-2025 pp. 161-165, section \\\"O&M RESOURCES + Jorge Bermudez\\\" (section-id fulton-county-2025:14.o-m-resources)\",\"files_created\":[],\"skipped\":[{\"page\":161,\"para\":3,\"reason\":\"duplicate-of:wiki/qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md\"},{\"page\":163,\"para\":7,\"reason\":\"duplicate-of:wiki/qualifications/fulton-jv-om-resources-operations-safety-and-…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 8,
+      "label": "judge OPERATION & MAINTENANCE PLANS",
+      "phaseIndex": 2,
+      "phaseTitle": "Prose judge",
+      "agentId": "a4376e736fee80289",
+      "model": "claude-fable-5-1",
+      "state": "done",
+      "startedAt": 1789438012121,
+      "queuedAt": 1789438010409,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-swing-zone-aeration-decisions-and-nitrate-probe-plac…",
+      "promptPreview": "You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.\nBlocks: C:\\Users\\micha\\Desktop\\Wiki\\wiki\\technical-approach\\fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md\nFor each block: read its frontmatter verbatim-ref and source-pages, open the referenced verbati…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438025527,
+      "tokens": 70546,
+      "toolCalls": 3,
+      "durationMs": 13406,
+      "resultPreview": "{\"range\":\"fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement (1 block)\",\"results\":[{\"path\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\technical-approach\\\\fulton-swing-zone-aeration-decisions-and-nitrate-probe-placement.md\",\"verdict\":\"prose\",\"reason\":\"Body reproduces p0062 ¶2 (second sentence), ¶3, ¶5 (last sentence), ¶6 and ¶7 near-verbatim; only changes are Big Creek WRF -> [FACILITY A…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 9,
+      "label": "judge SECURITY PLAN + CYBERSECURITY",
+      "phaseIndex": 2,
+      "phaseTitle": "Prose judge",
+      "agentId": "a5a74f64a27e72180",
+      "model": "claude-fable-5-1",
+      "state": "done",
+      "startedAt": 1789438043378,
+      "queuedAt": 1789438041673,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 pages 94-95 (SECURITY PLAN + CYBERSECURI…",
+      "promptPreview": "You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.\nBlocks: C:\\Users\\micha\\Desktop\\Wiki\\wiki\\compliance-plans\\fulton-security-plan-components-access-control-and-incident-reporting.md ; C:\\Users\\micha\\Desktop\\Wiki\\wiki\\compliance-plans\\fulton-balanced-security-governance-and-…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438059826,
+      "tokens": 73821,
+      "toolCalls": 4,
+      "durationMs": 16447,
+      "resultPreview": "{\"range\":\"fulton-county-2025 pages 94-95 (SECURITY PLAN + CYBERSECURITY)\",\"results\":[{\"path\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\compliance-plans\\\\fulton-security-plan-components-access-control-and-incident-reporting.md\",\"verdict\":\"prose\",\"reason\":\"Body reproduces p0094 ¶4, ¶5, ¶7, ¶8, ¶10, ¶11 word-for-word; only change is 'the County's' -> '[CLIENT]'s'. Two bullets (¶6 Security Awareness and…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 10,
+      "label": "judge Transition Team + Transition Training Period + 45-Day Schedule for Smooth Transition of Operations and Related Systems + Pre-Start Transition (15 Days Prior to June 6) + + + +",
+      "phaseIndex": 2,
+      "phaseTitle": "Prose judge",
+      "agentId": "aba98927f7984fc44",
+      "model": "claude-fable-5-1",
+      "state": "done",
+      "startedAt": 1789438274133,
+      "queuedAt": 1789438272107,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 pp. 118-124 (Transition Team through Exi…",
+      "promptPreview": "You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.\nBlocks: C:\\Users\\micha\\Desktop\\Wiki\\wiki\\management-staffing\\fulton-transition-team-composition-and-continued-support.md ; C:\\Users\\micha\\Desktop\\Wiki\\wiki\\management-staffing\\fulton-transition-training-period-onboarding-cu…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438309980,
+      "tokens": 88735,
+      "toolCalls": 9,
+      "durationMs": 35843,
+      "resultPreview": "{\"range\":\"fulton-county-2025 pp. 118-124 (Transition Team through Exit Transition Approach), 7 blocks\",\"results\":[{\"path\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\management-staffing\\\\fulton-transition-team-composition-and-continued-support.md\",\"verdict\":\"prose\",\"reason\":\"Body reproduces p0118 ¶11-¶12 sentence-for-sentence. Only change: the bolded sentence 'Mike also holds a Georgia Wastewater Oper…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 11,
+      "label": "judge orphaned blocks 1",
+      "phaseIndex": 2,
+      "phaseTitle": "Prose judge",
+      "agentId": "ae3565ca47a3ed926",
+      "model": "claude-fable-5-1",
+      "state": "done",
+      "startedAt": 1789438314375,
+      "queuedAt": 1789438312709,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025: compliance-plans p0091-p0092 (2 blocks)…",
+      "promptPreview": "You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.\nBlocks: C:\\Users\\micha\\Desktop\\Wiki\\wiki\\compliance-plans\\fulton-safety-leadership-engagement-and-proactive-record.md ; C:\\Users\\micha\\Desktop\\Wiki\\wiki\\compliance-plans\\fulton-safety-program-key-elements-table.md ; C:\\User…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438346800,
+      "tokens": 91826,
+      "toolCalls": 9,
+      "durationMs": 32424,
+      "resultPreview": "{\"range\":\"fulton-county-2025: compliance-plans p0091-p0092 (2 blocks) + management-staffing p0116-p0118, p0124-p0125 (4 blocks)\",\"results\":[{\"path\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\compliance-plans\\\\fulton-safety-leadership-engagement-and-proactive-record.md\",\"verdict\":\"prose\",\"reason\":\"Body reproduces p0091 ¶5, ¶7 and ¶8 sentence-for-sentence; only change is 'the County's facilities' → '[C…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 12,
+      "label": "judge orphaned blocks 2",
+      "phaseIndex": 2,
+      "phaseTitle": "Prose judge",
+      "agentId": "add4ad369b5762f31",
+      "model": "claude-fable-5-1",
+      "state": "done",
+      "startedAt": 1789438314347,
+      "queuedAt": 1789438312709,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025 pp. 47, 117, 118, 128, 172 — 6 blocks",
+      "promptPreview": "You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.\nBlocks: C:\\Users\\micha\\Desktop\\Wiki\\wiki\\management-staffing\\fulton-job-description-refinement-first-days.md ; C:\\Users\\micha\\Desktop\\Wiki\\wiki\\management-staffing\\fulton-key-positions-filled-by-jv-staff.md ; C:\\Users\\micha…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438341663,
+      "tokens": 83297,
+      "toolCalls": 3,
+      "durationMs": 27315,
+      "resultPreview": "{\"range\":\"fulton-county-2025 pp. 47, 117, 118, 128, 172 — 6 blocks\",\"results\":[{\"path\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\management-staffing\\\\fulton-job-description-refinement-first-days.md\",\"verdict\":\"prose\",\"reason\":\"Body reproduces p0117 ¶3 word-for-word; the H2 is ¶2's heading in sentence case. No client identifiers in the passage, nothing generalized.\"},{\"path\":\"C:\\\\Users\\\\micha\\\\Deskto…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 13,
+      "label": "judge orphaned blocks 3",
+      "phaseIndex": 2,
+      "phaseTitle": "Prose judge",
+      "agentId": "a4678a2e7f32a95e3",
+      "model": "claude-fable-5-1",
+      "state": "done",
+      "startedAt": 1789438314403,
+      "queuedAt": 1789438312709,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "fulton-county-2025: roster p0129 ¶3; technical-approach p00…",
+      "promptPreview": "You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.\nBlocks: C:\\Users\\micha\\Desktop\\Wiki\\wiki\\resumes\\fulton-proposed-team-organization-roster.md ; C:\\Users\\micha\\Desktop\\Wiki\\wiki\\technical-approach\\fulton-chemically-enhanced-primary-treatment.md ; C:\\Users\\micha\\Desktop\\Wik…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438360708,
+      "tokens": 88189,
+      "toolCalls": 8,
+      "durationMs": 46304,
+      "resultPreview": "{\"range\":\"fulton-county-2025: roster p0129 ¶3; technical-approach p0032 ¶2, p0058 ¶5–8, p0060 ¶10/13/16, p0061 ¶2–7 and ¶12–20\",\"results\":[{\"path\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\resumes\\\\fulton-proposed-team-organization-roster.md\",\"verdict\":\"prose\",\"reason\":\"block-type roster. Every name, title, certification, availability note and headcount in the body matches p0129 ¶3 (the org-chart te…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 14,
+      "label": "judge orphaned blocks 4",
+      "phaseIndex": 2,
+      "phaseTitle": "Prose judge",
+      "agentId": "a693140edf75b2b4a",
+      "model": "claude-fable-5-1",
+      "state": "done",
+      "startedAt": 1789438315215,
+      "queuedAt": 1789438312709,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "wiki/win-themes fulton blocks 5 (exclusive-consulting-disco…",
+      "promptPreview": "You are the prose judge for the content bank. For each block listed, decide whether its body IS the sanitized prose of its verbatim source or merely a paraphrase/summary of it.\nBlocks: C:\\Users\\micha\\Desktop\\Wiki\\wiki\\win-themes\\fulton-exclusive-consulting-discount-value.md ; C:\\Users\\micha\\Desktop\\Wiki\\wiki\\win-themes\\fulton-intelligent-om-toolset-included-in-base-fee.md ; C:\\Users\\micha\\Desktop\\…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438359261,
+      "tokens": 88107,
+      "toolCalls": 11,
+      "durationMs": 44045,
+      "resultPreview": "{\"range\":\"wiki/win-themes fulton blocks 5 (exclusive-consulting-discount-value … value-added-investments-exhibit-studies-support)\",\"results\":[{\"path\":\"C:\\\\Users\\\\micha\\\\Desktop\\\\Wiki\\\\wiki\\\\win-themes\\\\fulton-exclusive-consulting-discount-value.md\",\"verdict\":\"prose\",\"reason\":\"Body reproduces p0010 ¶12 sentence-for-sentence; only 'Fulton County'/'the County' → [CLIENT] and 'the North Fulton wastewa…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 15,
+      "label": "finalize",
+      "phaseIndex": 3,
+      "phaseTitle": "Finalize",
+      "agentId": "a435b042fe24e783d",
+      "model": "claude-sonnet-5",
+      "state": "done",
+      "startedAt": 1789438364677,
+      "queuedAt": 1789438362911,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "Ran the fulton-county-2025 finalize pipeline in order. (1) …",
+      "promptPreview": "Finalize the content bank after a gap-fill run for source fulton-county-2025. Run these in order from C:\\Users\\micha\\Desktop\\Wiki and capture outputs:\n1. python \"C:\\Users\\micha\\Desktop\\Wiki\\work\\find_uncovered.py\" fulton-county-2025   — report the residual uncovered count (it should not exceed the paragraphs the writers deliberately skipped: 12).\n2. python \"C:\\Users\\micha\\Desktop\\Wiki\\work\\assign_…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438442472,
+      "tokens": 80415,
+      "toolCalls": 12,
+      "durationMs": 77794,
+      "resultPreview": "{\"summary\":\"Ran the fulton-county-2025 finalize pipeline in order. (1) find_uncovered.py: substantive=690, covered=574, partial=75, uncovered=13, writer-skipped=28 — 13 residual is 1 over the stated 12-skip ceiling (worth flagging to the user). (2) assign_block_sections.py --slug fulton-county-2025: assigned=163, changed=160, unassigned=0, unparseable=0. (3) build_proof_point_registry.py: 35 new r…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 16,
+      "label": "testimonials",
+      "phaseIndex": 3,
+      "phaseTitle": "Finalize",
+      "agentId": "a84b41e534ca7a8da",
+      "model": "claude-opus-5[1m]",
+      "state": "done",
+      "startedAt": 1789438445500,
+      "queuedAt": 1789438443837,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "No new testimonials were found. All six named fragment quot…",
+      "promptPreview": "Append any NEW client/third-party quotes to the testimonials inventory. Read these fragments: C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-AVAILABLE-ADDITIONAL-DIGITAL-TOOLS-FOR-NEXT-LEVEL-OPTIMIZATI.quotes.json ; C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton-county-2025\\gapfill-OPERATION-MAINTENANCE-PLANS.quotes.json ; C:\\Users\\micha\\Desktop\\Wiki\\work\\fragments\\fulton…",
+      "promptFramed": false,
+      "lastProgressAt": 1789438476643,
+      "tokens": 71217,
+      "toolCalls": 5,
+      "durationMs": 31142,
+      "resultPreview": "{\"summary\":\"No new testimonials were found. All six named fragment quote files for fulton-county-2025 contain empty lists ([]) — in fact every one of the 20 gapfill-*.quotes.json files in work/fragments/fulton-county-2025/ is empty, so this gap-fill run surfaced no client or third-party quotes at all. Consequently no rows were appended to testimonials/inventory.md (it remains at 70 rows, TM-0001..…"
+    }
+  ],
+  "totalTokens": 1359220,
+  "totalToolCalls": 125
+}

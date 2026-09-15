@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.workforce-development-and-staffing-strategy
+section-order: 8
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › TRAINING PLAN › Workforce Development and Staffing Strategy
+doc-order: 51
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim JV workforce narrative that attributes local pipeline development to CERM and ties it to formal training, internships, and operator certification."
 reuse-notes: "Confirm CERM's role, named educational partnerships, course development, resident-hiring commitments, and investment value before reuse."

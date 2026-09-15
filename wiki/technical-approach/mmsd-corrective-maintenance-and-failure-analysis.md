@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:26.3-5-cm-and-work-order-management
+section-order: 11
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.5. CM and Work Order Management
+doc-order: 174
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "Ties corrective maintenance to root-cause discipline and names the reach-back bench (regional and heavy maintenance teams plus the wastewater consulting bench) that backs it — a differentiator a local-only operator cannot match."
 reuse-notes: "Confirm the client's corrective work classification (Level A/B here) and approval thresholds from the target agreement; keep the failure-analysis reach-back language and the internal audit/monthly cross-project CMMS benchmarking claim."

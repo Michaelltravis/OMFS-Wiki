@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf
+section-order: 17
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF
+doc-order: 117
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Ties renewable-fuel value directly to maintenance discipline — the failure data says auxiliary equipment causes turbine downtime, so PM/PdM assignment and spare parts become an energy strategy, not just a maintenance one. Also carries a transferable university-partnership proof point for sourcing high-strength waste.
 reuse-notes: Turbine make, the named high-strength waste sources, and the neighboring-utility survey are pursuit-specific. The reusable move is the causal chain from failure history to CMMS PM/PdM assignment to renewable energy availability.

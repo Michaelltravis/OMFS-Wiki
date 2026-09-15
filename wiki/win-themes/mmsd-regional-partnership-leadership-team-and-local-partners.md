@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:34
+section-order: 1
+section-path: V. Statement on Regional Partnership › V.A. Community-Focused Leadership Team to Drive Positive Long-Term Outcomes
+doc-order: 234
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Names five owners for community-benefits scope — three Jacobs leaders and two local small-business partner firms plus an individual public-affairs advisor — each with a one-line reason they hold the role. The local firms carry hard proof ($1.7B directed to local firms) and prior work with the pursuit client, which is what separates this from a generic "we value the community" claim.
 reuse-notes: Replace the local partner firms and the public-affairs advisor with firms from the pursuit's own region, confirm each has agreed to be named, and confirm the residency claims for the Jacobs leaders. The role pattern — infrastructure partnership lead, social-value/government-relations specialist, stakeholder-engagement lead, supplier-development firm, communications firm, public-affairs advisor — travels intact.

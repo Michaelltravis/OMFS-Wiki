@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:03.full-o-m-services-for-water-and-wastewater-treatment-facilit
+section-order: 12
+section-path: Section 3 - Firm Qualifications and Experience › CORPORATE EXPERIENCE › SIMILAR FACILITIES › Full O&M Services for Water and Wastewater Treatment Facilities
+doc-order: 23
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Answers the evaluator's real question — "what happens when the on-site team hits something beyond routine O&M?" — with a concrete escalation model (in-house SMEs, then pre-qualified partners, then client-authorized additional services) instead of a vague "we have big-company resources" claim, and explicitly separates what is included in base services from what is billed on authorization.
 reuse-notes: Confirm the five service-line list still matches current corporate service offerings before reuse. Tailor the CIP and asset-management framing to the client's actual asset-management maturity (greenfield versus an established CMMS). Keep the base-services versus authorized-additional-services sentence — it is the transparency commitment that makes the rest of the block credible rather than a pitch for change orders; it contains no rates or fee figures.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.tracking-membrane-performance
+section-order: 20
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Tracking Membrane Performance
+doc-order: 63
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim membrane-monitoring and SCADA capability narrative with a source-client testimonial and comparable MBR testing method."
 reuse-notes: "Confirm platform availability, monitoring parameters, test protocols, technical staffing, and quote permission before reuse. The p66 peak-flow-test sentence continues on p67 and must be completed with that source page in the next range."

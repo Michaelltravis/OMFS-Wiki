@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:28.5-3-value-added-improvements-and-innovations-included-as-par
+section-order: 7
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.3. Value-Added Improvements and Innovations Included as Part of the Base Fee
+doc-order: 202
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The closing third of the value-add exhibit and where the largest savings sit — $33M from power generation optimization, $7.9M from hypochlorite and bisulfite optimization, $6.2M from power demand optimization, $6M from dual ferric feed — ending in the combined $107,164,600 total across investments and savings over 10 years. That total is the single most quotable number in the section.
 reuse-notes: The three chemical/power optimization rows state a 40/60 client/Jacobs savings split; restate the split actually offered on the new pursuit or remove the sentence. Totals must be recomputed whenever rows are added or dropped. The Dragonfly/Argon CCTV coding row and the digital twin row are the most portable to other pursuits; the dryer-feed mixer and belt filter press pilots are specific to a thermal-drying biosolids operation.

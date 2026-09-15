@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:11.2-our-plan-to-fulfill-and-sustain-the-minimum-staffing-plan
+section-order: 5
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 2. OUR PLAN TO FULFILL AND SUSTAIN THE MINIMUM STAFFING PLAN
+doc-order: 25
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The strongest available answer to "how will you actually fill and keep a large minimum-staffing roster" — a Day 1 commitment against a counted roster, a named transition manager working the retention list with the client, daily vacancy tracking escalated to the regional bench, four ranked sourcing tactics, and HRIS-backed staffing metrics fed into governance. Directly addresses the fee-reduction risk tied to unfilled roles.
 reuse-notes: Replace the position count, the RFP exhibit references, and the grace-period terms with the new contract's. Swap the named Transition Manager and HR lead. Keep the four sourcing tactics and the staffing-metric set (vacancies, time-to-fill, retention, training compliance) — they transfer to any staffed O&M pursuit.

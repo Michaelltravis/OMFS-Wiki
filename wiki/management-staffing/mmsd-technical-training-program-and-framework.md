@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:14
+section-order: 1
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.E. Technical Training Program
+doc-order: 38
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Exceeds the contractual training hour requirement, then makes the commitment auditable — LMS tracking tied to performance evaluations and project KPIs, quarterly reports correlating training hours and certification status to operational outcomes.
 reuse-notes: Substitute the contractual training-hour minimum and the RFP citation. The instructor-bench figure and the LMS-to-KPI reporting loop carry across pursuits; verify the instructor count against current corporate numbers before restating it.

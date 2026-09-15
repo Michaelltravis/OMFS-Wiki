@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:08.swip-site-safety-observations-and-unique-safety-needs
+section-order: 20
+section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › SAFETY PLAN AND MANAGEMENT › SWIP Site Safety Observations and Unique Safety Needs'
+doc-order: 48
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A genuinely tailored safety adaptation - a three-stories-below-grade egress and regress plan, a two-person minimum staffing commitment, and named-chemical spill response - plus a well-being differentiator (more than 1,200 trained mental-health champions worldwide).
 reuse-notes: The three-stories-below-grade detail and the named chemicals (sodium hypochlorite, calcium chloride) are facility facts - replace with the target facility's actual configuration and chemical inventory. The two-person minimum staffing commitment carries cost; confirm it is in the staffing plan before repeating it. The Mental Health Matters figure (more than 1,200 champions) is firm-wide and reusable once reverified.

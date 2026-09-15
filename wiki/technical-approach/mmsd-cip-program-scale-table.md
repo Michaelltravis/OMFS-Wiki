@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration
+section-order: 16
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration
+doc-order: 179
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "A client-facing table that quantifies the CIP the O&M contractor must coordinate with — project counts and budgets by functional area — and makes the case for an asset-management-led approach on the client's own numbers."
 reuse-notes: "This is the client's own capital program data; it is a pattern, not reusable content. Rebuild the table from the target client's CIP by functional area, keeping the two-column count and budget structure and the headline that names the resulting need."

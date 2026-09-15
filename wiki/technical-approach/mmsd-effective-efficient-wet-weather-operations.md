@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.effective-and-efficient-wet-weather-operations
+section-order: 10
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL › Effective and Efficient Wet Weather Operations
+doc-order: 110
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Pairs a wet-weather operating method with a named bench — a wet weather and conveyance director with 37 years of experience and 16 years as a utility owner running a CSO/SSO collection division, plus Thames Tideway advisory work. The owner-lens credential is a strong differentiator in a challenger bid, and the value-added callout format is reusable.
 reuse-notes: Confirm the named personnel are committed to the pursuit and their years of experience are current before restating them; substitute the reference tunnel and collection-system projects; the teaming-partner studies named here are specific to this client's system and need replacing with the pursuit's own recent studies.

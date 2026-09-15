@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:17.2-dedicated-workforce-development-team-and-reporting
+section-order: 7
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 2. DEDICATED WORKFORCE DEVELOPMENT TEAM AND REPORTING
+doc-order: 53
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The accountability half of the workforce development answer — a named director and a named program manager, defined subconsultant roles, and two dated deliverables per contract year. Committing to specific submission dates is what makes the plan auditable instead of aspirational.
 reuse-notes: Replace the named director and program manager, and confirm both accept the commitment. The January 31 plan update and March 31 annual report dates should be set against the pursuit's own contract year and any reporting dates the RFP already fixes. The small-business supply-chain percentage is a corporate figure — reconcile it in the proof-point registry before restating.

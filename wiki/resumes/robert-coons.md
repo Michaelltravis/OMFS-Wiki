@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:22
+section-order: 1
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › Key Team Member Resumes › Coons, Robert Earl
+doc-order: 151
 context: Proposed I&C Technician supporting instrumentation, PLC, SCADA, and electrical systems across the facility portfolio, including startup readiness at a new plant coming online. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; ODEQ regulatory regime.
 quality: "Craft-level I&C resume that does what most I&C resumes do not — ties instrumentation work to an owner-facing outcome (startup readiness at a plant coming online, IT/OT coordination with city personnel, downtime reduction across plant and lift station assets). The journeyman-electrician-plus-I&C combination and the Bixby power-surge story are concrete, checkable proof."
 reuse-notes: "VERBATIM resume — real name, license, and union local retained; no client reference contacts are listed in the source. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Robert's current role, availability, and years (17 total, 1 with Jacobs at time of writing); (2) verify the IBW #340 journeyman electrician license is current; (3) re-point the 'Why Robert?' bullets and the summary at the new client's minimum-qualification schedule — the Schedule 10 reference is pursuit-specific; (4) the startup/commissioning framing is only a differentiator where the new client has a plant coming online."

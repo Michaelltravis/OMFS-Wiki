@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.process-control-strategy
+section-order: 2
+section-path: Section 1 | Technical Approach › Operations Plan › PROCESS CONTROL STRATEGY
+doc-order: 37
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest incumbent-displacement device in this proposal — a plant-by-plant, observed-with-our-own-eyes diagnosis that ties specific field conditions (DO profiles, RAS/WAS practice, floating sludge, out-of-service screens, H2S levels) to the client's documented permit excursions, then names the four levers that will fix them. Establishes technical credibility before a single commitment is made.
 reuse-notes: "Every observation is tied to a specific site visit and compliance-record review; do not reuse the findings themselves without a comparable assessment of the new client's plants. Reuse the structure: common thread → plant-by-plant observations → \"the levers that will move the needle\" → forward pointer to the priority matrix. Facility names are kept because the facility-specific detail is the proof; strip or renumber them if the block is used outside this client family."

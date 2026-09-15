@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:03.jacobs-understands-ocwut-s-facilities-and-its-goals-for-this
+section-order: 7
+section-path: Section 1 | Technical Approach › JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT
+doc-order: 22
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "Where the staffing argument is won: the bid answers a documented retention problem by putting more people on the site than the incumbent (109 FTEs versus roughly 88 plus 13 subcontractor staff today) while flattening management, then explains what the extra floor time buys — 24/7 coverage at one plant, operator-performed drain and clean work, and mechanics freed for consistent PM execution. The transition row converts a compressed, prescriptive schedule into a list of commitments already met at proposal time."
 reuse-notes: "Reusable: the \"leaner management structure that puts more operators on the floor\" formulation, the cross-training logic that links operator coverage to PM completion, the named-management-committed-before-award commitment, and the performance row that counts the client's own fee-at-risk categories back to them. Pursuit-specific: all FTE counts, vacancy penalty amounts, deduction percentages, milestone payment values, and every date. Verify the FTE split and dates against the pursuit spec sheet before reuse."

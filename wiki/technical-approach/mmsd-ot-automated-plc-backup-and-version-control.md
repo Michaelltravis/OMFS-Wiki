@@ -23,6 +23,10 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-ot-automated-backup-and-version-control.md
+section-id: mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-control
+section-order: 21
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise › 2.4.2. Jacobs OT Asset Automated Backup and Version Control
+doc-order: 148
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: Turns an IT housekeeping topic into an operations and compliance argument — verified baselines for rapid recovery, an audit-ready change history, approval workflows, and configuration drift alerts against unauthorized edits.
 reuse-notes: Confirm the controller and HMI vendors in use and the client's change-approval governance; align the audit-history claim with the regulatory reporting the target permit actually requires.

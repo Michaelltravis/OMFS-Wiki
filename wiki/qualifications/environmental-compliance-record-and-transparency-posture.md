@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08
+section-order: 3
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team
+doc-order: 110
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The best version of the pre-emptive disclosure move in this library — it states the 99.98% compliance rate, then gets ahead of an evaluator finding exceedance records by explaining why a more thorough tracking system produces a longer list, and converts that into a transparency win theme rather than a defense.
 reuse-notes: Verify the 99.98% rate, the 12.6 million customers served, and the 1.3 billion gallons of capacity against the current corporate fact sheet — all move year to year. The second paragraph is most valuable where the client is known to run a records search or where a competitor is expected to attack the compliance history; it can be dropped in short-form qualifications sections without weakening the first paragraph.

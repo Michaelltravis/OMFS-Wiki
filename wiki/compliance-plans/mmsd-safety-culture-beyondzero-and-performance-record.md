@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:27.4-1-1-safety-first-a-culture-of-accountability-and-preventio
+section-order: 1
+section-path: 'IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.1. Safety First: A Culture of Accountability and Prevention'
+doc-order: 183
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Opens a safety section with a culture claim, then immediately backs it with benchmarked BLS-referenced incident rates and the named systems (Safety360, LMS) that give the client visibility. Pairs the philosophy statement with hard numbers in the first 200 words.
 reuse-notes: Refresh the five-year RIR/DART averages and the BLS comparison year range before reuse; confirm the site-familiarity observation ("facilities are generally well maintained and clean") is true for the new pursuit or delete that sentence. Tailor the list of covered work areas to the scope being bid.

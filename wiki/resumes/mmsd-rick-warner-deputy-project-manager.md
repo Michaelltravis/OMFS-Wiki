@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18
+section-order: 2
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes
+doc-order: 56
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The strongest "relocation commitment" resume card in the bank — an industry-figure deputy PM who moves to the client's city, carries six support functions so the PM stays on O&M, and brings past-WEF-President credibility to a regional partnership argument.
 reuse-notes: Society offices, awards and the relocation commitment are person- and pursuit-specific. The reusable device is the division of labor between PM and Deputy PM, and the explicit statement of which support teams the Deputy carries.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wastewater-opera
+section-order: 10
+section-path: Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 4. Comprehensive support for every aspect of wastewater operations
+doc-order: 23
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim precedent evidence for multi-facility O&M, MBR delivery, optimization, and capital-program support.
 reuse-notes: Reference-project names and outcomes require current approval and reference checks. Use the selection logic, not an unverified claim that these projects match another client’s needs.

@@ -1,0 +1,526 @@
+{
+ "wiki": "C:\\Users\\micha\\Desktop\\Wiki",
+ "slug": "fulton-county-2025",
+ "clientNames": [
+  "Fulton County Department of Public Works",
+  "Fulton County Public Works",
+  "Fulton County",
+  "North Fulton",
+  "the County",
+  "Big Creek Water Reclamation Facility",
+  "Big Creek WRF",
+  "Big Creek",
+  "Johns Creek Environmental Campus",
+  "JCEC",
+  "Johns Creek",
+  "Little River Water Reclamation Facility",
+  "Little River WRF",
+  "Little River"
+ ],
+ "context": "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD",
+ "today": "2026-09-14",
+ "ranges": [
+  {
+   "slug": "fulton-county-2025",
+   "name": "AVAILABLE ADDITIONAL DIGITAL TOOLS FOR NEXT LEVEL OPTIMIZATION OFFERINGS",
+   "sectionId": "fulton-county-2025:10.available-additional-digital-tools-for-next-level-optimizati",
+   "pages": [
+    31,
+    31
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/win-themes/fulton-additional-digital-tools.md"
+   ],
+   "uncovered": [
+    {
+     "page": 31,
+     "para": 6,
+     "words": 262,
+     "kind": "table",
+     "first_words": "|VALUE-ADDED INNOVATIONPOTENTIAL SAVINGS TOFULTON COUNTY|WHAT WE OFFER TO DO FOR THE NORTH",
+     "ref": "verbatim/fulton-county-2025/pages/p0031.md#¶6"
+    }
+   ],
+   "sectionIds": [
+    "fulton-county-2025:10.available-additional-digital-tools-for-next-level-optimizati"
+   ]
+  },
+  {
+   "slug": "fulton-county-2025",
+   "name": "OPERATION & MAINTENANCE PLANS",
+   "sectionId": "fulton-county-2025:12.operation-maintenance-plans",
+   "pages": [
+    62,
+    62
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach",
+    "compliance"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/fulton-energy-uptime-and-ammonia-aeration-control.md",
+    "wiki/technical-approach/fulton-imlr-piping-and-membrane-commissioning.md",
+    "wiki/technical-approach/fulton-membrane-cleaning-alkalinity-and-filterability.md",
+    "wiki/technical-approach/fulton-membrane-monitoring-and-scada-capability.md",
+    "wiki/technical-approach/fulton-odor-control-scrubber-optimization.md",
+    "wiki/technical-approach/fulton-process-control-data-management-and-operator-rounds.md",
+    "wiki/technical-approach/fulton-process-optimization-fermentation-phosphorus.md",
+    "wiki/technical-approach/fulton-swing-zones-and-internal-mixed-liquor-recycle.md",
+    "wiki/technical-approach/fulton-uv-solids-and-potable-water-protection.md"
+   ],
+   "uncovered": [
+    {
+     "page": 62,
+     "para": 3,
+     "words": 32,
+     "kind": "prose",
+     "first_words": "- µWhen a swing zone is aerated, it operates as an aerobic",
+     "ref": "verbatim/fulton-county-2025/pages/p0062.md#¶3"
+    },
+    {
+     "page": 62,
+     "para": 6,
+     "words": 35,
+     "kind": "prose",
+     "first_words": "If insufficient pumping capacity exists, it would be necessary to aerate the",
+     "ref": "verbatim/fulton-county-2025/pages/p0062.md#¶6"
+    },
+    {
+     "page": 62,
+     "para": 7,
+     "words": 45,
+     "kind": "prose",
+     "first_words": "At Big Creek WRF, there is a nitrate probe in the anoxic",
+     "ref": "verbatim/fulton-county-2025/pages/p0062.md#¶7"
+    }
+   ],
+   "sectionIds": [
+    "fulton-county-2025:12.operation-maintenance-plans"
+   ]
+  },
+  {
+   "slug": "fulton-county-2025",
+   "name": "SECURITY PLAN + CYBERSECURITY",
+   "sectionId": "fulton-county-2025:12.security-plan",
+   "pages": [
+    94,
+    97
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": [
+    "compliance"
+   ],
+   "existingBlocks": [
+    "wiki/compliance-plans/fulton-ics-cybersecurity-backup-and-disaster-recovery.md",
+    "wiki/compliance-plans/fulton-security-assessment-monitoring-governance-technology.md"
+   ],
+   "uncovered": [
+    {
+     "page": 94,
+     "para": 5,
+     "words": 35,
+     "kind": "prose",
+     "first_words": "- µAccess Control and Surveillance.Continuous oversight of all entry points and secure",
+     "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶5"
+    },
+    {
+     "page": 94,
+     "para": 7,
+     "words": 38,
+     "kind": "prose",
+     "first_words": "- µIncident Reporting and Response.All incidents involving theft, vandalism, unauthorized access, property",
+     "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶7"
+    },
+    {
+     "page": 94,
+     "para": 8,
+     "words": 26,
+     "kind": "prose",
+     "first_words": "- µAnnual Security Assessments.The Project Manager will lead annual physical security and",
+     "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶8"
+    },
+    {
+     "page": 94,
+     "para": 10,
+     "words": 28,
+     "kind": "prose",
+     "first_words": "- µInformation Protection.SCADA/IT system access and data protection protocols will be implemented",
+     "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶10"
+    },
+    {
+     "page": 94,
+     "para": 11,
+     "words": 25,
+     "kind": "prose",
+     "first_words": "- µConstruction Coordination.Security will be maintained during capital improvement or construction activities,",
+     "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶11"
+    },
+    {
+     "page": 94,
+     "para": 17,
+     "words": 25,
+     "kind": "prose",
+     "first_words": "- To better understand the external risk environment, we conducted a preliminary",
+     "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶17"
+    },
+    {
+     "page": 94,
+     "para": 18,
+     "words": 28,
+     "kind": "prose",
+     "first_words": "- One such area, zip code 30349, received a “D+” safety rating,",
+     "ref": "verbatim/fulton-county-2025/pages/p0094.md#¶18"
+    },
+    {
+     "page": 95,
+     "para": 1,
+     "words": 46,
+     "kind": "prose",
+     "first_words": "We recognize that utility infrastructure requires a balanced security approach—one that protects",
+     "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶1"
+    },
+    {
+     "page": 95,
+     "para": 2,
+     "words": 33,
+     "kind": "prose",
+     "first_words": "By embedding a culture of safety and security into every aspect of",
+     "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶2"
+    },
+    {
+     "page": 95,
+     "para": 6,
+     "words": 99,
+     "kind": "prose",
+     "first_words": "Security governance provides the organizational framework for implementing and maintaining a successful",
+     "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶6"
+    },
+    {
+     "page": 95,
+     "para": 8,
+     "words": 96,
+     "kind": "prose",
+     "first_words": "Technology supports both the monitoring and governance components of a security program",
+     "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶8"
+    },
+    {
+     "page": 95,
+     "para": 9,
+     "words": 26,
+     "kind": "prose",
+     "first_words": "These technologies will be selected and applied to support the unique needs",
+     "ref": "verbatim/fulton-county-2025/pages/p0095.md#¶9"
+    },
+    {
+     "page": 96,
+     "para": 26,
+     "words": 32,
+     "kind": "prose",
+     "first_words": "- µDevelopment of a site-specific cybersecurity and SCADA Security Plan as part",
+     "ref": "verbatim/fulton-county-2025/pages/p0096.md#¶26"
+    },
+    {
+     "page": 97,
+     "para": 4,
+     "words": 25,
+     "kind": "prose",
+     "first_words": "- µCompliance with all applicable regulations, including the American Water Infrastructure Act",
+     "ref": "verbatim/fulton-county-2025/pages/p0097.md#¶4"
+    },
+    {
+     "page": 97,
+     "para": 8,
+     "words": 29,
+     "kind": "prose",
+     "first_words": "This cybersecurity framework, combined with Jacobs’ history of successfully defending client assets",
+     "ref": "verbatim/fulton-county-2025/pages/p0097.md#¶8"
+    }
+   ],
+   "sectionIds": [
+    "fulton-county-2025:12.cybersecurity",
+    "fulton-county-2025:12.security-plan"
+   ]
+  },
+  {
+   "slug": "fulton-county-2025",
+   "name": "Transition Team + Transition Training Period + 45-Day Schedule for Smooth Transition of Operations and Related Systems + Pre-Start Transition (15 Days Prior to June 6) + + + +",
+   "sectionId": "fulton-county-2025:13.transition-team",
+   "pages": [
+    118,
+    124
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "transition"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/fulton-transition-schedule-and-exit-plan.md"
+   ],
+   "uncovered": [
+    {
+     "page": 118,
+     "para": 12,
+     "words": 60,
+     "kind": "prose",
+     "first_words": "The transition team is comprised of seasoned experts who have successfully transitioned",
+     "ref": "verbatim/fulton-county-2025/pages/p0118.md#¶12"
+    },
+    {
+     "page": 120,
+     "para": 1,
+     "words": 54,
+     "kind": "prose",
+     "first_words": "safety and operations training to ensure they all have the knowledge necessary",
+     "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶1"
+    },
+    {
+     "page": 120,
+     "para": 2,
+     "words": 29,
+     "kind": "prose",
+     "first_words": "Additionally, we will identify other needed training at onboarding, as well as",
+     "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶2"
+    },
+    {
+     "page": 120,
+     "para": 13,
+     "words": 62,
+     "kind": "prose",
+     "first_words": "JC Solutions is fully confident in our ability to deliver a comprehensive",
+     "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶13"
+    },
+    {
+     "page": 120,
+     "para": 14,
+     "words": 71,
+     "kind": "prose",
+     "first_words": "While the RFP does not specify a required transition duration, we have",
+     "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶14"
+    },
+    {
+     "page": 120,
+     "para": 17,
+     "words": 128,
+     "kind": "prose",
+     "first_words": "During this initial phase, we will focus on essential HR and administrative",
+     "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶17"
+    },
+    {
+     "page": 120,
+     "para": 21,
+     "words": 109,
+     "kind": "prose",
+     "first_words": "The initial transition California, and Southbridge, Massachusetts, phase will involve close both",
+     "ref": "verbatim/fulton-county-2025/pages/p0120.md#¶21"
+    },
+    {
+     "page": 121,
+     "para": 1,
+     "words": 25,
+     "kind": "prose",
+     "first_words": "will officially transition to the new team under JC Solutions. This gradual",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶1"
+    },
+    {
+     "page": 121,
+     "para": 5,
+     "words": 106,
+     "kind": "prose",
+     "first_words": "The final phase spans 12 months and is dedicated to finalizing all",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶5"
+    },
+    {
+     "page": 121,
+     "para": 9,
+     "words": 30,
+     "kind": "prose",
+     "first_words": "Building a strong culture is Step 1. Effectively recruiting and proactively growing",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶9"
+    },
+    {
+     "page": 121,
+     "para": 11,
+     "words": 39,
+     "kind": "prose",
+     "first_words": "doubled the number of new Jacobs’ O&M employees over the past year,",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶11"
+    },
+    {
+     "page": 121,
+     "para": 13,
+     "words": 39,
+     "kind": "prose",
+     "first_words": "Internally we promote these opportunities via a range of internal communications, including",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶13"
+    },
+    {
+     "page": 121,
+     "para": 14,
+     "words": 51,
+     "kind": "prose",
+     "first_words": "Partnering with local high schools, community colleges, and technical schools such as",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶14"
+    },
+    {
+     "page": 121,
+     "para": 15,
+     "words": 81,
+     "kind": "prose",
+     "first_words": "At Ease, Jacobs’ Military Recruitment Program. The Jacobs’ at Ease program partners",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶15"
+    },
+    {
+     "page": 121,
+     "para": 16,
+     "words": 26,
+     "kind": "prose",
+     "first_words": "Recruiting tools best suited to O&M-focused candidates. We focus on platforms such",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶16"
+    },
+    {
+     "page": 121,
+     "para": 17,
+     "words": 115,
+     "kind": "prose",
+     "first_words": "Incentive and Recognition Programs. Jacobs provides a wide range of incentive and",
+     "ref": "verbatim/fulton-county-2025/pages/p0121.md#¶17"
+    },
+    {
+     "page": 123,
+     "para": 1,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "Additionally, we strive to maintain competitive wages and benefits, recognizing it is",
+     "ref": "verbatim/fulton-county-2025/pages/p0123.md#¶1"
+    },
+    {
+     "page": 123,
+     "para": 3,
+     "words": 296,
+     "kind": "table",
+     "first_words": "|TechnicalTraining andCertifications|Staff keep up to date with our online electronic bookshelf of",
+     "ref": "verbatim/fulton-county-2025/pages/p0123.md#¶3"
+    },
+    {
+     "page": 124,
+     "para": 4,
+     "words": 62,
+     "kind": "prose",
+     "first_words": "JC Solutions’ approach to the exit transition process at the County emphasizes",
+     "ref": "verbatim/fulton-county-2025/pages/p0124.md#¶4"
+    }
+   ],
+   "sectionIds": [
+    "fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-operations-and-rela",
+    "fulton-county-2025:13.initial-transition-30-days-starting-july-1st",
+    "fulton-county-2025:13.jc-solutions-approach-to-the-exit-transition-process",
+    "fulton-county-2025:13.long-term-staffing-succession-planning-practices",
+    "fulton-county-2025:13.long-term-transition-12-months-from-start-date",
+    "fulton-county-2025:13.pre-start-transition-15-days-prior-to-june-6",
+    "fulton-county-2025:13.transition-team",
+    "fulton-county-2025:13.transition-training-period"
+   ]
+  },
+  {
+   "slug": "fulton-county-2025",
+   "name": "TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M",
+   "sectionId": "fulton-county-2025:14.team-organization-optimizes-and-elevates-o-m",
+   "pages": [
+    128,
+    128
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "staffing"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/fulton-team-organization-subcontractors-and-consulting-bench.md",
+    "wiki/resumes/anthony-benavidez.md",
+    "wiki/resumes/david-pitocchelli-little-river-plant-manager.md",
+    "wiki/resumes/devon-trezevant.md",
+    "wiki/resumes/fulton-benjamin-bagwell-senior-strategic-supervisor.md",
+    "wiki/resumes/fulton-mark-huggard-big-creek-plant-manager.md",
+    "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+    "wiki/resumes/fulton-tim-durham-senior-supervisor.md",
+    "wiki/resumes/nathan-dahl.md",
+    "wiki/resumes/scott-levesque.md",
+    "wiki/resumes/terrell-gibbs.md"
+   ],
+   "uncovered": [
+    {
+     "page": 128,
+     "para": 4,
+     "words": 25,
+     "kind": "prose",
+     "first_words": "The JC Solutions team attending the site visits at the North Fulton",
+     "ref": "verbatim/fulton-county-2025/pages/p0128.md#¶4"
+    }
+   ],
+   "sectionIds": [
+    "fulton-county-2025:14.team-organization-optimizes-and-elevates-o-m"
+   ]
+  },
+  {
+   "slug": "fulton-county-2025",
+   "name": "O&M RESOURCES + Jorge Bermudez",
+   "sectionId": "fulton-county-2025:14.o-m-resources",
+   "pages": [
+    161,
+    165
+   ],
+   "category": "resumes",
+   "rfpSectionType": [
+    "resume"
+   ],
+   "existingBlocks": [
+    "wiki/qualifications/fulton-jv-consulting-resources-digital-solids-energy-and-commissioning.md",
+    "wiki/qualifications/fulton-jv-consulting-resources-membrane-process-and-wet-weather.md",
+    "wiki/qualifications/fulton-jv-om-resources-maintenance-compliance-and-energy.md",
+    "wiki/qualifications/fulton-jv-om-resources-operations-safety-and-workforce.md"
+   ],
+   "uncovered": [
+    {
+     "page": 161,
+     "para": 3,
+     "words": 83,
+     "kind": "prose",
+     "first_words": "Our O&M resources, led by John Rickermann, will be fully accessible to",
+     "ref": "verbatim/fulton-county-2025/pages/p0161.md#¶3"
+    },
+    {
+     "page": 163,
+     "para": 7,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "- µA Certified Control Systems Technician (CCST) Level 1 that specializes in",
+     "ref": "verbatim/fulton-county-2025/pages/p0163.md#¶7"
+    },
+    {
+     "page": 165,
+     "para": 2,
+     "words": 71,
+     "kind": "prose",
+     "first_words": "Our consulting resources, led by Rocco Koekemoer, will also be fully accessible",
+     "ref": "verbatim/fulton-county-2025/pages/p0165.md#¶2"
+    },
+    {
+     "page": 165,
+     "para": 13,
+     "words": 29,
+     "kind": "table",
+     "first_words": "|Youngchul Choi, PE30 Years of ExperienceMembrane Technologist| |---| |Adrian Romero-Flores,PhD10 Years of",
+     "ref": "verbatim/fulton-county-2025/pages/p0165.md#¶13"
+    }
+   ],
+   "sectionIds": [
+    "fulton-county-2025:14.jorge-bermudez",
+    "fulton-county-2025:14.o-m-resources"
+   ]
+  }
+ ]
+}

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.why-compliance-matters-to-ocwut
+section-order: 17
+section-path: Section 1 | Technical Approach › Operations Plan › REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS › Why Compliance Matters to OCWUT
+doc-order: 52
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The compliance-section opener that carries the whole win theme — a 99.98% corporate compliance record, a named regional compliance manager backed by 20+ specialists, the client's own known risk conditions named out loud, and an independent QA/QC audit function that keeps the operator from policing itself.
 reuse-notes: The 99.98% environmental compliance record and the 20+ compliance specialist bench are corporate proof points — confirm current values before reuse. The list of "specific, known conditions" is due-diligence output and must be rewritten from the target system's site visit. The independent QA/QC manager reporting line is contract-schedule driven here; confirm the equivalent requirement in the target RFP.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:02.positioning-hull-s-wastewater-program-for-its-next-phase
+section-order: 3
+section-path: Section 2 - Executive Summary › POSITIONING HULL’S WASTEWATER PROGRAM FOR ITS NEXT PHASE
+doc-order: 6
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A three-column table that translates each capability into an operational outcome and then into a client-facing benefit, closing with a firm-credibility banner. Every one of the five rows is the headline of a later subsection, so the exhibit doubles as a roadmap to the rest of the executive summary
 reuse-notes: Rewrite the five rows to match the differentiators actually being sold for the target pursuit, and keep each row aligned to a subsection heading later in the section so the exhibit stays a roadmap. Verify the credibility-banner statistics (45+ years, 300+ facilities) are current before reuse.

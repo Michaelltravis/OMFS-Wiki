@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.safety-and-site-security
+section-order: 39
+section-path: Section 1 | Technical Approach › Operations Plan › SAFETY AND SITE SECURITY
+doc-order: 74
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Opens the safety section by tying safe, secure facilities to the client's compliance record and community trust, then delivers a concrete accountability structure (AHAs, pre-task plans, SOPs, stop-work authority, OSHA 300/300A documentation) and two hard proof points — the BLS-benchmarked RIR/LTIR comparison and 9,542 consecutive incident-free days at an operating WWTP
 reuse-notes: Refresh the RIR/LTIR statistics and the BLS benchmark window (2018-2022 here) from current corporate safety data before reuse, and update the consecutive-incident-free-day count at the Duncan WWTP to the current date. Name the plans the target RFP actually requires (here a Safety Program and Plan, Security Plan, Drug Detection and Deterrence Plan, and Emergency Operating Plan) and the governing service agreement. Pairs with the safety-training/chemical-controls block and the safety and security SME bios block.

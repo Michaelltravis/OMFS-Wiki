@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-operations-and-rela
+section-order: 9
+section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › 45-Day Schedule for Smooth Transition of Operations and Related Systems
+doc-order: 117
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Phased transition schedule and complete exit-transition framework with handback controls.
 reuse-notes: Rebuild task leads, dates, contract citations, successor rights, and inventory requirements from the target RFP.

@@ -1,0 +1,191 @@
+[
+ {
+  "page": 4,
+  "para": 2,
+  "reason": "form-boilerplate",
+  "range": "Cover Letter",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 5,
+  "para": 9,
+  "reason": "duplicate-of:wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+  "range": "Cover Letter",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 46,
+  "para": 8,
+  "reason": "exhibit-internal",
+  "range": "OCWUT-MANAGED",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 50,
+  "para": 9,
+  "reason": "duplicate-of:wiki/compliance-plans/ocwut-emergency-operating-plan-prepare-respond-recover.md",
+  "range": "EMERGENCY OPERATING PLAN",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 59,
+  "para": 19,
+  "reason": "exhibit-internal",
+  "range": "Asset Management Plans (AMPs)",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 73,
+  "para": 5,
+  "reason": "duplicate-of:wiki/qualifications/corporate-fact-box-and-employer-culture.md",
+  "range": "Section 3 | Experience and Qualifications of the Firm and Management Team + PUMP STATIONS",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 80,
+  "para": 10,
+  "reason": "duplicate-of:wiki/qualifications/pump-station-om-experience-and-portfolio-table.md",
+  "range": "Section 3 | Experience and Qualifications of the Firm and Management Team + PUMP STATIONS",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 80,
+  "para": 16,
+  "reason": "duplicate-of:wiki/qualifications/contract-compliance-record-and-audit-program.md",
+  "range": "Section 3 | Experience and Qualifications of the Firm and Management Team + PUMP STATIONS",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 81,
+  "para": 7,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md",
+  "range": "EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM + OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 81,
+  "para": 9,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-leadership-and-corporate-support-exhibit.md",
+  "range": "EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM + OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 88,
+  "para": 11,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-offsite-sme-support-resources.md",
+  "range": "EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM + OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 88,
+  "para": 12,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-offsite-sme-support-resources.md",
+  "range": "EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM + OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 130,
+  "para": 1,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-organization-chart-and-reporting-structure.md",
+  "range": "Organization Structure and Leadership Team",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 133,
+  "para": 20,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-vacancy-management-retention-and-staffing-resiliency.md",
+  "range": "Vacancy Management, Retention, and Staffing Resiliency",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 134,
+  "para": 22,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-individualized-training-program-and-cross-training.md",
+  "range": "Individualized Training Program + Licensing, Certification, & Professional Development + Regional & SME Support",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 135,
+  "para": 10,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md",
+  "range": "Individualized Training Program + Licensing, Certification, & Professional Development + Regional & SME Support",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 135,
+  "para": 17,
+  "reason": "duplicate-of:wiki/management-staffing/ocwut-licensing-certification-and-regional-sme-support.md",
+  "range": "Individualized Training Program + Licensing, Certification, & Professional Development + Regional & SME Support",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 148,
+  "para": 3,
+  "reason": "continuation-of:wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md",
+  "range": "Workforce Transition, Staffing Readiness, and Retention",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 151,
+  "para": 8,
+  "reason": "duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
+  "range": "Continuity, Compliance, and Long-Term Partnership",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 153,
+  "para": 1,
+  "reason": "duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
+  "range": "Continuity, Compliance, and Long-Term Partnership",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 154,
+  "para": 1,
+  "reason": "duplicate-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
+  "range": "Continuity, Compliance, and Long-Term Partnership",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 155,
+  "para": 1,
+  "reason": "continuation-of:wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
+  "range": "Continuity, Compliance, and Long-Term Partnership",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 165,
+  "para": 21,
+  "reason": "duplicate-of:wiki/past-performance/project-bixby-wrf-lift-stations-om.md",
+  "range": "Bixby Water Reclamation Facility and Lift Stations O&M",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 179,
+  "para": 12,
+  "reason": "commercial — Exhibit 8-1 is a fee/rate table (multiplier, average raw rate, billable rate, projected budget per work category). CLAUDE.md sanitization rule 2 removes commercial pricing (fee tables, rates) from the wiki, so the table cannot be carried into a reusable block. The existing block wiki/win-themes/discounted-engineering-savings-example-table.md already records this exclusion for the same verbatim-ref (p0179 ¶10, ¶12).",
+  "range": "Additional Ideas for Discounted Engineering",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 182,
+  "para": 2,
+  "reason": "form-boilerplate",
+  "range": "Statutory Clauses",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 183,
+  "para": 2,
+  "reason": "form-boilerplate",
+  "range": "Statutory Clauses",
+  "run": "wf_d533accd-7a9"
+ },
+ {
+  "page": 19,
+  "para": 35,
+  "reason": "exhibit-internal (critical-success-factor graphic with three columns interleaved; prose is in wiki/management-staffing/ocwut-om-management-philosophy-seven-critical-success-factors.md)",
+  "range": "manual review of residual uncovered paragraphs",
+  "run": "manual"
+ }
+]

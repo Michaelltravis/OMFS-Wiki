@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:27.storage-management-and-backlog-prevention
+section-order: 4
+section-path: Section 5 | Required Plans Submitted with the Proposal › Sludge Management Plan › Storage Management and Backlog Prevention
+doc-order: 178
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Turns a contract storage limit into a managed operating protocol — "we will manage well below these limits, not to them" — with named daily inputs and defined threshold tiers, so the evaluator sees the mechanism, not a promise. The tiered-action ladder is a portable device for any threshold-based contract obligation.
 reuse-notes: "Replace the schedule references, the 3-day storage limit, and the percentage tiers with the pursuit's own contract thresholds; confirm which daily inputs the site actually tracks before restating the five. The action steps under each tier should name the pursuit's roles (here, Ops Manager) and the client notification the contract requires. Exhibit 5-9 (graphic asset ID 124_009385) illustrates the tiers. Approved-for-external-use: pending — sourced from a live pursuit."

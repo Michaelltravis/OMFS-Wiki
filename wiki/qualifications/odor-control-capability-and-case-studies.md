@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.odor-control
+section-order: 8
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › ODOR CONTROL
+doc-order: 115
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A complete odor-control capability argument in one page — a stated method framework, four named projects across four regulatory settings (Connecticut, Washington Title V, Arizona, Ontario), a quantified complaint reduction, and the named SME who will carry it — with the Waterbury case study told twice at two depths.
 reuse-notes: "The Waterbury 55% complaint reduction is stated in the source with its time window (\"within the first year\" in the callout, \"within the first contract year\" in the body); carry the figure with its stated window attached and do not restate it as an open-ended reduction. Both Waterbury tellings are kept here verbatim in their own wording — pick one for a given proposal rather than merging them. approved-for-external-use: pending — sourced from a live pursuit."

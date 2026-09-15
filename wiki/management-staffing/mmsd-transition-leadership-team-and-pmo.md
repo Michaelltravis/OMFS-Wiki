@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:30.1-3-1-kelly-irving-transition-manager
+section-order: 6
+section-path: IV. Approach Summary › IV.B. Pre-term Activities › 1.3. Transition Leadership Team › 1.3.1. Kelly Irving – Transition Manager
+doc-order: 213
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Three transition-leader bios that each carry a named prior transition with a hard number attached — 31 of 34 employees retained at Jackson, a 49-employee badge flip at West Basin, a 168 MGD system at Wilmington — so the leadership claim is auditable rather than biographical. The PMO paragraph then answers "who keeps this on schedule."
 reuse-notes: Substitute the named leaders and their most relevant prior transitions; the pattern (years of experience, a specific transition, the number that proves it went well, and what that experience means for this client) is what carries over. Confirm each individual's availability and the retention numbers before reuse.

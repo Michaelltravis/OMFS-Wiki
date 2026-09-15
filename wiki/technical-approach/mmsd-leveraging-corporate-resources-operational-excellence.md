@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.2-5-leveraging-corporate-resources-for-operational-excellenc
+section-order: 24
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.5. Leveraging Corporate Resources for Operational Excellence
+doc-order: 151
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: The cleanest short statement of the "agility of a dedicated local team plus the depth of a global enterprise" positioning, tied to named corporate groups (Operations Technical Services Group, Global Water Technology Organization) and the specific disciplines they supply. Includes the Exhibit IV-34 capability inventory across consulting, engineering, digital, construction, procurement, and operations.
 reuse-notes: Replace the system description in the first paragraph (tunnel/ISS, pump stations, interceptors, aging WRFs, biosolids production) with the pursuit's asset inventory. Trim the named-expertise list to the disciplines the RFP's evaluation criteria actually reward. Exhibit asset IDs 376_007CAM_1 and 248_007CAM_2 are Jacobs-standard graphics, not client-specific.

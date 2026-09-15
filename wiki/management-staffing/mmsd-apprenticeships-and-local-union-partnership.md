@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:17.1-1-structured-career-pathways-promote-advancement-opportuni
+section-order: 3
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 1. ELEMENTS OF THE PLAN AND IMPLEMENTATION STRATEGIES › 1.1. Structured Career Pathways Promote Advancement Opportunities
+doc-order: 49
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Names the labor-market problem honestly — a very low unemployment rate shrinks the applicant pool — and answers it with apprenticeships. The differentiator is that the meetings with named union leadership already happened before the proposal was submitted, which converts a promise into evidence of pre-award work.
 reuse-notes: Only claim pre-proposal union meetings where they actually occurred, and name the locals the capture team met. Replace the unemployment-rate framing with whatever the real constraint is in the pursuit's labor market (aging workforce, competing industrial employers, licensing shortage). The apprenticeship framework is developed jointly with the client and the unions, so keep it as a framework commitment rather than a finished program.

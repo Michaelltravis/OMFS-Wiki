@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:10.cross-training-for-resiliency
+section-order: 10
+section-path: 'Section 3: Key Personnel › 3.1 STAFFING PLAN › STAFFING PLAN › Cross-Training for Resiliency'
+doc-order: 76
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "A short, well-packaged close to the staffing-plan section that ties cross-training directly to the org chart, backs it with a named third-party 'Best Companies to Work For' proof point, and pivots into a client-facing intern-program commitment - a good universal pattern for closing out any staffing-plan subsection on a resiliency/culture note before the resumes begin."
 reuse-notes: "Client name/city generalized to [CLIENT]. The 'nearby operations' examples (West Basin, Soquel Creek) are real Jacobs project references kept verbatim as legitimate cross-project proof points, not client-identifying information. The Fortune/Business Insider '50 Best Companies to Work For in America' recognition is a real corporate proof point - reconfirm current standing before reuse, as such rankings are awarded annually. Only include the intern-program paragraph where the target client actually runs an intern program."

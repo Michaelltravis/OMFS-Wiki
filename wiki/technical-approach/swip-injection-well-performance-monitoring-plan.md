@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:14.sm-10i-and-sm-11i-injection-well-performance-monitoring
+section-order: 6
+section-path: 'Section 4: Suggested Modificationsto the Scope of Work › SM-10I AND SM-11I INJECTION WELL PERFORMANCE MONITORING'
+doc-order: 97
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A detailed, technically credible methodology for developing and operating an injection-well monitoring and maintenance program, including a specific field-experience insight on backwashing frequency and a numeric rehabilitation trigger — a strong differentiator for any pursuit involving aquifer recharge or injection wells.
 reuse-notes: The two well names are generalized to [WELL 1] and [WELL 2] — substitute the target pursuit's actual well identifiers. The backwashing frequency and duration example and the 30 percent specific-capacity trigger are field-tested technical content and should be kept unless superseded by more current data. The $13,200 first-year price is this pursuit's Schedule B figure — reprice for a new pursuit.

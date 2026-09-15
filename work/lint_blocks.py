@@ -39,7 +39,7 @@ REQUIRED_KEYS = [
     "client-size", "geography", "rfp-section-type", "win-theme-map",
     "proof-point-ids", "status", "house-favorite", "sanitized",
     "sanitization-loss", "extracted", "last-verified", "context",
-    "quality", "reuse-notes",
+    "quality", "reuse-notes", "section-id", "section-path", "section-order", "doc-order",
 ]
 
 BLOCK_TYPE_ENUM = {"prose", "recipe", "table", "exhibit", "roster"}
@@ -49,12 +49,57 @@ NARRATIVE_CATEGORIES = {
     "technical-approach", "management-staffing", "win-themes",
     "qualifications", "compliance-plans",
 }
-CLIENT_NAME_PATTERNS = {
+CLIENT_NAME_PATTERNS_FALLBACK = {
     "hull-wwtf-om-2026": re.compile(r"\b(Hull|Town of Hull)\b"),
     "santamonica-swip-om-2025": re.compile(r"\b(Santa Monica|SWIP)\b"),
 }
 
+
+def load_client_patterns():
+    """One regex per source from verbatim/<slug>/sanitize.json (client_names + facility names,
+    proper names only — never aliases like 'the County'). Case-sensitive, and bounded so a
+    name inside a graphic asset id (135_Hull_0091KO_2) never matches."""
+    patterns = dict(CLIENT_NAME_PATTERNS_FALLBACK)
+    for sj in sorted((ROOT / "verbatim").glob("*/sanitize.json")):
+        try:
+            cfg = json.loads(sj.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        names = list(cfg.get("client_names") or [])
+        for fac in cfg.get("facility_names") or []:
+            names += list(fac.get("names") or [])
+        for prod in cfg.get("product_names") or []:
+            names += list(prod.get("names") or [])
+        names = [n for n in names if n]
+        if not names:
+            continue
+        names.sort(key=len, reverse=True)
+        alt = "|".join(re.escape(n) for n in names)
+        patterns[sj.parent.name] = re.compile(r"(?<![A-Za-z0-9_])(" + alt + r")(?![A-Za-z0-9_])")
+    return patterns
+
+
+CLIENT_NAME_PATTERNS = load_client_patterns()
+
 VERBATIM_REF_RE = re.compile(r"^(?P<file>[^#]+)#¶(?P<n>\d+)$")
+VERBATIM_REF_POS_RE = re.compile(r"verbatim/(?P<slug>[^/]+)/pages/p(?P<page>\d{4})\.md#¶(?P<para>\d+)")
+
+_sections_cache = {}
+
+
+def sections_for(slug):
+    """Cached verbatim/<slug>/sections.json (None when absent)."""
+    if slug in _sections_cache:
+        return _sections_cache[slug]
+    doc = None
+    try:
+        sys.path.insert(0, str(ROOT / "work"))
+        from verbatim_sections import load_sections
+        doc = load_sections(slug)
+    except Exception:
+        doc = None
+    _sections_cache[slug] = doc
+    return doc
 
 
 def load_frontmatter(text):
@@ -225,6 +270,30 @@ def main():
             # 10. no "do not restate" phrase anywhere in body
             if re.search(r"do not restate", body, re.IGNORECASE):
                 add("do-not-restate-phrase", rel, "found 'do not restate' language")
+
+            # 11-13. section-id resolves, section-order is a positive int, first ref lies in the span
+            sid = fm.get("section-id")
+            if sid:
+                doc = sections_for(str(fm.get("source") or ""))
+                if doc is None:
+                    add("section-id-unresolved", rel, f"no verbatim/{fm.get('source')}/sections.json")
+                else:
+                    sec = next((s for s in doc["sections"] if s["id"] == sid), None)
+                    if sec is None:
+                        add("section-id-unresolved", rel, str(sid))
+                    else:
+                        m = VERBATIM_REF_POS_RE.search(str(refs[0])) if refs else None
+                        if m:
+                            pos = (int(m.group("page")), int(m.group("para")))
+                            lo = (sec["start"]["page"], sec["start"]["para"])
+                            hi = (sec["end"]["page"], sec["end"]["para"])
+                            if not (lo <= pos <= hi):
+                                add("section-id-span-mismatch", rel,
+                                    f"first ref p{pos[0]:04d}¶{pos[1]} outside {sid} (p{lo[0]}¶{lo[1]}–p{hi[0]}¶{hi[1]}) — rerun assign_block_sections.py")
+            for key in ("section-order", "doc-order"):
+                so = fm.get(key)
+                if so is not None and (not isinstance(so, int) or isinstance(so, bool) or so < 1):
+                    add(f"{key}-invalid", rel, repr(so))
 
     # ---- report ----
     by_rule = {}

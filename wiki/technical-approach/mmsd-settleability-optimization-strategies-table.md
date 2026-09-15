@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiwrf
+section-order: 13
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF
+doc-order: 113
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A what-we-will-do / what-you-get table covering seven improvement areas from primary clarifier operation to Intelligent O&M, including a quantified benefit (20% biogas increase with CEPT) and explicit recognition that primary-sludge changes at one plant affect biosolids product quality at the other. Model layout for any process-optimization exhibit.
 reuse-notes: Keep the three-column shape (Targeted Improvement Area / What Jacobs Will Do / Expected Benefit); re-derive the 20% biogas figure for the pursuit's digestion train; drop the interplant product-quality row if the pursuit has no interplant solids transfer.

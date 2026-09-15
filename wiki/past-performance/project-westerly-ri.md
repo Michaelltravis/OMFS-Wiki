@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:13
+section-order: 4
+section-path: Section 7 - Appendix B - Project Descriptions
+doc-order: 74
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The closest size-and-region analog to a small coastal New England WWTF pursuit (3.3 MGD, RI) and the strongest incumbent-displacement proof point in the set — Jacobs took the contract from SUEZ Group, delivered a dated first-18-months win list, quantified savings, three named third-party awards, and a client quote naming a net-savings outcome.
 reuse-notes: "VERBATIM — real client name, contact, quote, and award names/years; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Max Sposato is still Utilities Director and the phone/email are current; verify the RICWA and USEPA New England award names/years against those organizations' records; reconfirm the $500,000 / $250,000 savings figures, the $100,000 budget-increase / $100,000 annual-savings figures in the client quote, and the $2.4M annual project fee with the account team. Register each figure in proof-points/registry.md before it appears in a live draft."

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.transition-leadership-and-workforce-continuity
+section-order: 28
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › TRANSITION PLAN › Transition Leadership and Workforce Continuity
+doc-order: 61
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: named, credentialed transition bench covering every discipline a wastewater transition touches — the staffing evidence behind the transition narrative's promises
 reuse-notes: confirm every individual's availability and current credentials before reuse, and replace anyone rolled onto another pursuit; the functional structure (transition manager + project manager + regional operations manager over a discipline bench) transfers even when all the names change

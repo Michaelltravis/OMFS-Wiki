@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:10.maintenance-planner-scheduler-powered-by-palantir
+section-order: 12
+section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Maintenance Planner/Scheduler Powered by Palantir
+doc-order: 36
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for three MBR wastewater facilities and associated pump stations under Georgia EPD oversight.
 quality: Near-verbatim explanation of a CMMS-overlay maintenance-planning tool, from the operational constraint through the scheduling and risk-analysis benefits.
 reuse-notes: Confirm platform availability, CMMS compatibility, ISO alignment, and the investment value before reuse. The source's consulting price and base-fee language is intentionally excluded as commercial pricing.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe
+section-order: 20
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE
+doc-order: 74
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The one safety card in this set that carries a hard outcome — a rigorous safety and compliance program stood up at a distressed utility in under a year without interrupting service, which is the proof an evaluator remembers.
 reuse-notes: The JXN Water turnaround sentence is the load-bearing element and should stay whole, including the "in less than a year" and "without interrupting service" qualifiers. Retarget the facility named in the benefit paragraph.

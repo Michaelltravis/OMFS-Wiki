@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-needs
+section-order: 25
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs
+doc-order: 125
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Two compact use cases that show the method generalizes — dechlorination dose follows the upstream chlorine dose, and filament control can be predicted from SRT, flow, and season when microscopy lags. Each carries its own quantified savings and its own delivery mechanism (the same operator push notification).
 reuse-notes: Savings values are client-data-derived; re-run the analysis per pursuit. The transferable argument is the treatment of lagging indicators (residual as an after-the-fact surrogate, microscopy as delayed filament data) as a reason to predict from historical conditions instead.

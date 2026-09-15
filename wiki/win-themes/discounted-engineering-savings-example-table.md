@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: ocwut-16-26:33.additional-ideas-for-discounted-engineering
+section-order: 7
+section-path: 'Section 8 | Innovative and/or Alternative Recommendations › MORE THAN AN OPERATOR: OUR INNOVATIVE APPROACH TO O&M › Additional Ideas for Discounted Engineering'
+doc-order: 228
 context: "Southcentral US municipal water utility trust wastewater O&M competitive procurement; four WWTPs plus one major pump station; ODEQ regulatory regime."
 quality: "Preserves the source location and commercial-exclusion decision without carrying source pricing into reusable content."
 reuse-notes: "The source exhibit contains pursuit-specific commercial inputs and is excluded from reusable content. A pricing lead must rebuild any future exhibit from current approved commercial inputs and current procurement constraints."

@@ -23,6 +23,10 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 supersedes: wiki/technical-approach/mmsd-disciplined-plant-operations-to-prevent-fugitive-odor-emissions.md
+section-id: mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min
+section-order: 8
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors
+doc-order: 135
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: The operations half of an odor program stated as specific, auditable practices — blanket depth, storage duration, negative pressure, cover integrity, ISO-aligned PM on scrubbers — including the honest concession that high blankets sometimes have to be run.
 reuse-notes: Match the odor control unit types (carbon, chemical scrubbers, blowers) and covered processes to the target facilities; keep the concession about operating with high blankets only where the client knows that condition occurs.

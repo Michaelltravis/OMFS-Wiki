@@ -23,6 +23,10 @@ sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
 superseded-by: wiki/technical-approach/asset-management-system-iso-55001-samp-governance.md
+section-id: mmsd-om-2028:26.3-2-jacobs-maintenance-philosophy-in-action-from-asset-manag
+section-order: 3
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution
+doc-order: 166
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent contract operator; WDNR
 quality: The standard Jacobs framing of an ISO 55001 asset management system with the governance committee structure attached, plus the Exhibit IV-42 ladder that shows how a strategic plan descends through policy, SAMP, objectives, and asset management plans to delivery.
 reuse-notes: Confirm the committee and subcommittee names against the pursuit's governance section so the two match exactly. Note that the source proposal alternates between "line of sight" and "line of site" — pick one spelling per proposal and hold it.

@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: high
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:02.milorganite-production-precision-continuity-and-brand-protec
+section-order: 8
+section-path: 'I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Milorganite Production: Precision, Continuity, and Brand Protection'
+doc-order: 8
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Treats a branded biosolids product as an asset with reputational value rather than a waste stream — naming the specific operating parameters that will be tracked (feeds, dewatering, polymer, dryer energy, production output) and tying them to both compliance and efficiency. The odor paragraph adds an early-warning investment and a seven-step complaint protocol that ends in lessons learned, which is what a community-sensitive evaluator is looking for.
 reuse-notes: The client's biosolids product here is a nationally distributed trademarked fertilizer; the generalization to "[CLIENT]'s biosolids product" removes much of the proof value, so read the verbatim page before reusing this for another branded-product pursuit. Replace the tracked parameters with the ones the pursuit's own solids train actually has.

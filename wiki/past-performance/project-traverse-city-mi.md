@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:13.3-3-mgd
+section-order: 10
+section-path: Section 7 - Appendix B - Project Descriptions › 3.3 MGD
+doc-order: 80
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The durability proof point — a DBO relationship running since 1990, a noncompliant-facility turnaround that resolved enforcement actions, a quantified >30% electrical consumption reduction after MBR optimization, five named third-party awards spanning 2004-2019, and a Council Commissioner testimonial crediting the maintenance program.
 reuse-notes: "VERBATIM — real client name, contact, quote, and award names/years; past-performance blocks are exempt from client-name generalization. QC before external use: confirm Art Krueger is still Director of Municipal Facilities and the phone/email are current; verify award names/years against MWEA, USEPA Region 5, ACEC, and Michigan Water Environment Association records; reconfirm the >30% electrical reduction, the 17 MGD peak flow, the 13-staff team size, and the $3.5M annual project fee with the account team. Register each figure in proof-points/registry.md before it appears in a live draft."

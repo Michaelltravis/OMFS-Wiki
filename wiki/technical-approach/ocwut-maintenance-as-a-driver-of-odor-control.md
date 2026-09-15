@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-05'
+section-id: ocwut-16-26:05.maintenance-as-a-driver-of-odor-control
+section-order: 26
+section-path: Section 1 | Technical Approach › Operations Plan › ODOR CONTROL STRATEGY › Maintenance as a Driver of Odor Control
+doc-order: 61
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Short, high-leverage argument that connects a "firefighting" maintenance model directly to odor generation — the causal chain that justifies prioritizing odor-critical assets in the maintenance program, and a clean way to indict an incumbent's reactive practices without naming them.
 reuse-notes: The observed conditions (recurring grit system issues, equipment outages, access limited by high H2S) are this pursuit's site-visit findings — swap in the new pursuit's observations, or state the causal argument alone. The odor-critical asset list (headworks, grit, ventilation, solids handling) travels unchanged.

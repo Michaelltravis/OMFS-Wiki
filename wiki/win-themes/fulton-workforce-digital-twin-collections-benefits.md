@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:10.value-added-extras-included-as-part-of-our-base-fee
+section-order: 7
+section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE
+doc-order: 31
 context: JC Solutions JV value-added offering for locally rooted workforce development, treatment-process modeling, and pump-station intelligence.
 quality: Retains the source's complementary JV roles while tying workforce development and digital tools to practical operating outcomes.
 reuse-notes: Where JC Solutions is the proposer, attribute regional technical-college and internship partnerships to CERM's local presence and workforce-development programs. Confirm every digital platform, AI use case, and field-device commitment before reuse.

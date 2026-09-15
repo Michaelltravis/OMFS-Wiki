@@ -23,6 +23,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25
+section-order: 4
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints
+doc-order: 131
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The strongest odor differentiator in this proposal — a decade-long research collaboration with the leading academic group on sulfide modeling, a systemwide model Jacobs already built for this client under a prior study, and a named comparable deployment (Oakland County, Michigan) where local staff stood up temporary ferric chloride dosing in 2 weeks. Converts a modeling capability into an operational decision tool ("evaluate the change before you make it").
 reuse-notes: The Aalborg University collaboration and the WATS model are firm capabilities and travel to any pursuit. The "we already built your systemwide model" claim is specific to clients where Jacobs performed the prior odor study — confirm before reusing. Replace the septic-conveyance and force-main examples with the pursuit's own long-detention or pumped segments, and verify current industrial contributions and pretreatment status.

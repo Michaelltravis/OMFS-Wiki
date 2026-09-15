@@ -1,0 +1,355 @@
+{
+ "wiki": "C:\\Users\\micha\\Desktop\\Wiki",
+ "slug": "santamonica-swip-om-2025",
+ "clientNames": [
+  "City of Santa Monica",
+  "Santa Monica",
+  "the City",
+  "SWIP"
+ ],
+ "context": "Southern California sustainable water infrastructure O&M, 2025; SWRCB-DDW",
+ "today": "2026-09-14",
+ "ranges": [
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "HIGH-CALIBER ONSITE TEAM—QUALIFICATIONS AND COMMITMENT",
+   "sectionId": "santamonica-swip-om-2025:03.high-caliber-onsite-team-qualifications-and-commitment",
+   "pages": [
+    7,
+    7
+   ],
+   "category": "win-themes",
+   "rfpSectionType": [
+    "exec-summary"
+   ],
+   "existingBlocks": [
+    "wiki/win-themes/swip-onsite-team-staffing-and-shift-model.md"
+   ],
+   "uncovered": [
+    {
+     "page": 7,
+     "para": 8,
+     "words": 27,
+     "kind": "prose",
+     "first_words": "Howard Chris Mack Brewen Catlin Mckenzie WW Grade V AWT5 ™ ,",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0007.md#¶8"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:03.high-caliber-onsite-team-qualifications-and-commitment"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "Exceptional Reach-back to Regional and Technical O&M Resources",
+   "sectionId": "santamonica-swip-om-2025:06.exceptional-reach-back-to-regional-and-technical-o-m-resourc",
+   "pages": [
+    17,
+    18
+   ],
+   "category": "qualifications",
+   "rfpSectionType": [
+    "qualifications"
+   ],
+   "existingBlocks": [
+    "wiki/qualifications/full-service-firm-capabilities.md",
+    "wiki/qualifications/reach-back-model-and-regional-support.md"
+   ],
+   "uncovered": [
+    {
+     "page": 17,
+     "para": 9,
+     "words": 93,
+     "kind": "table",
+     "first_words": "|Regional ProcessSpecialists|Regional MaintenanceSpecialists|Compliance& Reporting Group|RegionalManagement| |---|---|---|---| |• Review process data,operator processcontrol logs•",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0017.md#¶9"
+    },
+    {
+     "page": 18,
+     "para": 9,
+     "words": 48,
+     "kind": "prose",
+     "first_words": "- Master Planning • Project Management • Planning & Strategy • Union",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶9"
+    },
+    {
+     "page": 18,
+     "para": 10,
+     "words": 26,
+     "kind": "prose",
+     "first_words": "- • Environmental Design (FEL 1,2,3) Prequali'ications Installation • Subcontract Management Management",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0018.md#¶10"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:06.exceptional-reach-back-to-regional-and-technical-o-m-resourc"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES + STRATEGIC O&M PLANS BUILT ON BEST PRACTICES AND INNOVATION +",
+   "sectionId": "santamonica-swip-om-2025:08.jacobs-understands-santa-monica-s-challenges-and-goals-for-i",
+   "pages": [
+    30,
+    35
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/swip-comprehensive-om-plan-list.md",
+    "wiki/technical-approach/swip-facility-goals-challenges-strategy-matrix.md",
+    "wiki/technical-approach/swip-process-control-system-tools.md",
+    "wiki/technical-approach/swip-process-optimization-digital-modeling.md"
+   ],
+   "uncovered": [
+    {
+     "page": 30,
+     "para": 9,
+     "words": 93,
+     "kind": "table",
+     "first_words": "|O&M ELEMENT|UNDERSTANDING OFCITY’S GOALS|KEY CURRENT/FUTURECHALLENGES|JACOBS’ STRATEGIES TODELIVER RESULTS| |---|---|---|---| |SWIP ADVANCED|WATER TREATMENT",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0030.md#¶9"
+    },
+    {
+     "page": 31,
+     "para": 1,
+     "words": 370,
+     "kind": "table",
+     "first_words": "|O&M ELEMENT|UNDERSTANDING OFCITY’S GOALS|KEY CURRENT/FUTURECHALLENGES|JACOBS’ STRATEGIES TODELIVER RESULTS| |---|---|---|---| |Operations &RegulatoryCompliance|Continuously meet",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0031.md#¶1"
+    },
+    {
+     "page": 34,
+     "para": 7,
+     "words": 117,
+     "kind": "table",
+     "first_words": "|»Accident Prevention Plan (APP) »Asset Management (utilizing CMMS)|»Operations and Maintenance (O&M) Manual",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0034.md#¶7"
+    },
+    {
+     "page": 35,
+     "para": 5,
+     "words": 415,
+     "kind": "table",
+     "first_words": "|PROVENOPERATIONS PLANS|PLAN DESCRIPTION|BENEFIT TO SANTA MONICA| |---|---|---| |Unit ProcessControl Procedures(UPCPs)|UPCPs provide our",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0035.md#¶5"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:08.jacobs-understands-santa-monica-s-challenges-and-goals-for-i",
+    "santamonica-swip-om-2025:08.process-control",
+    "santamonica-swip-om-2025:08.strategic-o-m-plans-built-on-best-practices-and-innovation"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL",
+   "sectionId": "santamonica-swip-om-2025:08.in-house-procedures-to-provide-accuracy-integrity-and-qualit",
+   "pages": [
+    39,
+    39
+   ],
+   "category": "compliance-plans",
+   "rfpSectionType": [
+    "compliance"
+   ],
+   "existingBlocks": [
+    "wiki/compliance-plans/swip-qaqc-program-audit-process.md"
+   ],
+   "uncovered": [
+    {
+     "page": 39,
+     "para": 2,
+     "words": 122,
+     "kind": "table",
+     "first_words": "|� Audit team sends information request to CPO� Alerts go to Compliance",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0039.md#¶2"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:08.in-house-procedures-to-provide-accuracy-integrity-and-qualit"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "EMPLOYEE TRAINING",
+   "sectionId": "santamonica-swip-om-2025:08.employee-training",
+   "pages": [
+    41,
+    44
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "transition"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/swip-workforce-culture-dei-employee-networks.md"
+   ],
+   "uncovered": [
+    {
+     "page": 41,
+     "para": 6,
+     "words": 191,
+     "kind": "table",
+     "first_words": "|OPERATIONS STAFF|| |---|---| |»Plant-specific Process Control Testing and Monitoring »Weekly Process Control",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0041.md#¶6"
+    },
+    {
+     "page": 44,
+     "para": 6,
+     "words": 145,
+     "kind": "prose",
+     "first_words": "Providing information, resources, and Providing an inclusive environment that networking opportunities regarding",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0044.md#¶6"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:08.employee-training"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM",
+   "sectionId": "santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-program",
+   "pages": [
+    59,
+    59
+   ],
+   "category": "technical-approach",
+   "rfpSectionType": [
+    "tech-approach"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/swip-lifecycle-delivery-maintenance-strategy.md",
+    "wiki/technical-approach/swip-predictive-maintenance-technologies.md"
+   ],
+   "uncovered": [
+    {
+     "page": 59,
+     "para": 3,
+     "words": 119,
+     "kind": "prose",
+     "first_words": "Following project startup, Jacobs will JACOBS’ INDUSTRY AWARD-WINNING AND HIGHLY conduct regular",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0059.md#¶3"
+    },
+    {
+     "page": 59,
+     "para": 10,
+     "words": 111,
+     "kind": "prose",
+     "first_words": "ULTRASOUND PRECISION INFRARED LUBRICATION/ VIBRATION ANALYSIS ALIGNMENT THERMOGRAPHY OIL ANALYSIS MEASUREMENT for",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0059.md#¶10"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-program"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "3.1 STAFFING PLAN",
+   "sectionId": "santamonica-swip-om-2025:10",
+   "pages": [
+    74,
+    74
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "staffing"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/swip-cross-training-and-intern-program.md",
+    "wiki/management-staffing/swip-key-personnel-cpo-and-operators-bios.md",
+    "wiki/management-staffing/swip-key-personnel-maintenance-ic-technician-bios.md",
+    "wiki/management-staffing/swip-key-personnel-operations-leadership-bios.md",
+    "wiki/management-staffing/swip-project-team-org-structure.md",
+    "wiki/management-staffing/swip-regional-maintenance-shared-technician-model.md",
+    "wiki/management-staffing/swip-shift-schedule-and-oncall-staffing-plan.md",
+    "wiki/management-staffing/swip-staffing-approach-and-incumbent-workforce.md",
+    "wiki/management-staffing/swip-staffing-plan-philosophy-and-regional-bench.md",
+    "wiki/technical-approach/swip-regional-maintenance-team-capability-proof-points.md"
+   ],
+   "uncovered": [
+    {
+     "page": 74,
+     "para": 20,
+     "words": 52,
+     "kind": "prose",
+     "first_words": "Engineering Support Team Sunshine Smith | LEAD Engineering Lead and Membrane Expert",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0074.md#¶20"
+    },
+    {
+     "page": 74,
+     "para": 23,
+     "words": 51,
+     "kind": "prose",
+     "first_words": "Asset Management Regional Safety Support Graham Knowles Trey Cain, ASP SCADA/Instrumentation HR",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0074.md#¶23"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:10"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "EXPERIENCED TRANSITION TEAM",
+   "sectionId": "santamonica-swip-om-2025:13.experienced-transition-team",
+   "pages": [
+    99,
+    99
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "transition"
+   ],
+   "existingBlocks": [
+    "wiki/management-staffing/swip-transition-team-and-communications-plan.md"
+   ],
+   "uncovered": [
+    {
+     "page": 99,
+     "para": 7,
+     "words": 51,
+     "kind": "prose",
+     "first_words": "Asset Management Compliance & Reporting HR Support Graham Knowles Manager Karl McCormack",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0099.md#¶7"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:13.experienced-transition-team"
+   ]
+  },
+  {
+   "slug": "santamonica-swip-om-2025",
+   "name": "Training and Development of City Staff for Water/Wastewater/Advanced Water",
+   "sectionId": "santamonica-swip-om-2025:14.training-and-development-of-city-staff-for-water-wastewater",
+   "pages": [
+    107,
+    107
+   ],
+   "category": "management-staffing",
+   "rfpSectionType": [
+    "staffing"
+   ],
+   "existingBlocks": [
+    "wiki/technical-approach/swip-city-staff-training-program.md"
+   ],
+   "uncovered": [
+    {
+     "page": 107,
+     "para": 3,
+     "words": 101,
+     "kind": "table",
+     "first_words": "|PROGRAM HIGHLIGHTS|COURSE OFFERINGS| |---|---| |µ Deliver clear, accessible training on water/wastewaterfundamentals in",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0107.md#¶3"
+    }
+   ],
+   "sectionIds": [
+    "santamonica-swip-om-2025:14.training-and-development-of-city-staff-for-water-wastewater"
+   ]
+  }
+ ]
+}

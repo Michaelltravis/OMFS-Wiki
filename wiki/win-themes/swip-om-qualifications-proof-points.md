@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:03.jacobs-o-m-qualifications-for-advanced-water-treatment
+section-order: 2
+section-path: Executive Summary › JACOBS’ O&M QUALIFICATIONS FOR ADVANCED WATER TREATMENT
+doc-order: 4
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A dense qualifications paragraph that stacks a national-scale proof point, a facility-comparable named reference set, and two hard retention/compliance percentages in quick succession, paired with a state-footprint map showing years of service at each site — the pattern of choice for the "why us" turn of any advanced-treatment O&M executive summary.
 reuse-notes: Verify the 300+ projects, 4,000+ professionals, 98% client retention, and 99.98% environmental compliance figures are current at proposal time — they are firm-wide operational stats that are refreshed periodically, not per-pursuit values. Swap the named reference projects for facilities genuinely comparable in process type and regulatory rigor to the target pursuit, and do not claim California-specific density for an out-of-state pursuit.

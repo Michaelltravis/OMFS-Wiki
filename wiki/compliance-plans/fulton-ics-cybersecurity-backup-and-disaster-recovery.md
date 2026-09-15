@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.cybersecurity
+section-order: 50
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › CYBERSECURITY
+doc-order: 93
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim OT/ICS security strategy coupled to a specific backup and recovery sequence.
 reuse-notes: Validate standards, contract references, backup maturity, and the 90-day priority before use; do not claim an assessment finding without a target-system review.

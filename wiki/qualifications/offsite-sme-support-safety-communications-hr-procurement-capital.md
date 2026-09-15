@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:08.oklahoma-city-the-oklahoma-city-water-utilities-trust
+section-order: 28
+section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › OKLAHOMA CITY & THE OKLAHOMA CITY WATER UTILITIES TRUST
+doc-order: 135
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The business-function half of the off-site bench — safety, communications, recruiting, procurement, and capital project integration — which is what evaluators look for when the question is whether a 109-FTE operation will actually be supported behind the fence line. Useful because these five roles are almost always available and rarely written up well.
 reuse-notes: Names and credentials are pursuit-specific. The HR entry is the one to lead with on a pursuit where staffing up or retaining incumbent staff is the evaluated risk; the capital projects entry is the one to lead with where the client has an active CIP running through operating plants.

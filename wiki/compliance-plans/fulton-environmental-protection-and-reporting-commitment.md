@@ -23,6 +23,10 @@ sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
 superseded-by: wiki/compliance-plans/fulton-regulatory-compliance-program.md
+section-id: fulton-county-2025:16.environmental-protection-and-mitigation
+section-order: 1
+section-path: Section 5 | Environmental Compliance Record › ENVIRONMENTAL PROTECTION AND MITIGATION
+doc-order: 158
 context: "Southeast county multi-facility wastewater O&M pursuit, bid by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim program commitment that couples environmental compliance, legally defensible records, regulatory expertise, and transparent reporting."
 reuse-notes: "Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV; attribute environmental-compliance capability to Jacobs and local delivery to CERM where applicable. Tailor applicable laws, permits, regulators, and stakeholder references to the target pursuit."

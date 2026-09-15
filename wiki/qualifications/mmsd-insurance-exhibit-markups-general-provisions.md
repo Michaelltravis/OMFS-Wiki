@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:39
+section-order: 1
+section-path: VI. Exceptions and Requests › VI.B. Markups to Exhibit J - Insurance
+doc-order: 249
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR regulatory regime. Section VI.B of the technical proposal, the itemized redline of the draft service agreement's insurance exhibit.
 quality: A clean, itemized model for redlining a client's insurance exhibit — each markup is numbered, tied to the paragraph it changes, and shown as tracked language (strikethrough for deletions, underline for insertions) so the client's risk staff can adjudicate each change in isolation rather than re-reading a rewritten exhibit.
 reuse-notes: Every paragraph number, notice period, certificate delivery address, and governing-law reference is specific to the client's own exhibit and must be re-mapped. Route all markups through Jacobs risk and insurance before filing; the corporate program's available coverage, not this precedent, determines which provisions actually require change.

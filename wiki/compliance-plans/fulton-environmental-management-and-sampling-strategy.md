@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:12.environmental-management-plan
+section-order: 28
+section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Environmental Management Plan
+doc-order: 71
 context: County wastewater O&M pursuit supported by JC Solutions, a Jacobs/CERM joint venture.
 quality: Near-verbatim bridge between ISO-aligned environmental management, transparent compliance reporting, and defensible laboratory data.
 reuse-notes: Confirm the environmental management system, ISO alignment, reporting platform, and analogous-project examples before reuse. Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV.

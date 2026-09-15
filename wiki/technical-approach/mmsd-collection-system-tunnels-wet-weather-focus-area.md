@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:24.odor-control
+section-order: 8
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › ODOR CONTROL
+doc-order: 108
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Opens a wet-weather focus area by crediting the client's national leadership, then states the operating difficulty in numbers (nearly 30 entry points from the interceptor system into the storage tunnel) and ties the approach to the client's own stated goals — zero overflows by 2035, reduced basement backups, lower energy use. Cites a 1,000-year August 2025 storm as the resilience driver.
 reuse-notes: Substitute the client's overflow-reduction goal and target year; replace the deep-tunnel storage description with the pursuit's own wet-weather assets (equalization basins, storage, satellite plants); the referenced machine-learning experience (AlexRenew, Virginia; Wilmington STP, Delaware) is real past performance and stays verbatim, but confirm both remain current references before use.

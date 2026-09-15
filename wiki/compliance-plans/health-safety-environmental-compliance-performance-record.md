@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:03.health-and-safety
+section-order: 13
+section-path: Section 3 - Firm Qualifications and Experience › CORPORATE EXPERIENCE › HEALTH, SAFETY, AND ENVIRONMENTAL COMPLIANCE RECORD › Health and Safety
+doc-order: 24
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Combines a named safety-culture program with hard performance metrics (TRIR, EMR, a 20-year NPDES compliance rate) and an honest, non-defensive disclosure of the only two minor violations in five years — evaluators respond far better to a small, fully-detailed violations table framed as "administrative, promptly resolved, no service impact" than to silence on the topic.
 reuse-notes: "All safety and compliance metrics are point-in-time and must be refreshed from current corporate EHS and compliance data before each submission — never present a prior year's TRIR, EMR, or violations table as current. Confirm the RFP's own EMR/TRIR threshold and verify the current figures actually clear it before using 'below the RFP requirement' or 'below industry averages' language. The violations table must be re-pulled from EHS for the RFP's stated lookback period; a new fine could be open. Keep the fine amounts — they are enforcement disclosures, not commercial pricing, and their smallness is the argument."

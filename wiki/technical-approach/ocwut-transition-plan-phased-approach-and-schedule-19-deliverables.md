@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: '2026-09-05'
 last-verified: '2026-09-07'
+section-id: ocwut-16-26:29.transition-plan-and-operational-readiness-approach
+section-order: 1
+section-path: Section 5 | Required Plans Submitted with the Proposal › Draft Transition Plan › Transition Plan and Operational Readiness Approach
+doc-order: 194
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The spine of a winning transition section — states the transition's purpose as protecting the client rather than satisfying a contract clause, then walks award-to-day-one in four moves (mobilize, validate, transfer service in three windows, deliver post-start capital recommendations) with every contractual deadline named. The "not because they are contractual requirements" line is the reframe worth stealing.
 reuse-notes: Replace the Schedule 19 references, the three milestone dates, and the operational start date with the new contract's transition schedule references. The three transfer-of-service windows (month before, first week, remainder of first month) and the 90-day capital recommendation commitment are house patterns that carry to any O&M transition.

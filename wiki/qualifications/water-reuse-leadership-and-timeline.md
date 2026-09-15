@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: santamonica-swip-om-2025:06.unrivaled-industry-expertise-in-advance-treatment-and-reuse
+section-order: 3
+section-path: 'Section 2: Qualifications › 2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE › Unrivaled Industry Expertise in Advance Treatment and Reuse'
+doc-order: 21
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A decade-by-decade proof-point timeline (1960s-2020s) spanning landmark reuse projects worldwide, giving unmatched historical credibility for any potable/non-potable reuse pursuit — pairs narrative claims of 60+ years of leadership with named, checkable milestone projects and the 2015 Stockholm Industry Water Award.
 reuse-notes: No client sanitization needed (the narrative contains no pursuit-specific references once "the City" is generalized). Trim the timeline to the milestones most relevant to the pursuing region/technology (e.g., California pursuits should foreground the South Lake Tahoe, Las Virgenes, Chino Basin, Tillman AWPF, and Soquel Creek entries). Keep the Stockholm Industry Water Award callout intact — the "first and only consulting engineering firm to win this award" claim is the strongest single differentiator in this block.

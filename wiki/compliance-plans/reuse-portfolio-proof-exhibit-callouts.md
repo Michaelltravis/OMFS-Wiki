@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:05.our-approach-reliable-reuse-every-delivery
+section-order: 14
+section-path: 'Section 1 | Technical Approach › Operations Plan › REUSE WATER › Our Approach: Reliable Reuse, Every Delivery'
+doc-order: 49
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Compact photo-strip proof that scales the reuse claim from a small multi-customer program to the nation's largest advanced recycling plant — two reference sites, each with hard numbers, sized to sit alongside the facility-by-facility approach text.
 reuse-notes: These are caption blocks tied to photos in the source layout; graphic asset IDs 118_009385 and 158_009385 are catalogued in wiki/graphics/ocwut-16-26.md. The West Basin and San Marcos bullet text is interleaved in the source's two-column layout — confirm which bullet belongs to which site against the PDF render before reuse. Numbers must be re-verified against current operating data.

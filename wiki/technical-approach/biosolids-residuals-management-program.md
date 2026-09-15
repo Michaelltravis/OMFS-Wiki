@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.biosolids-and-residuals-management
+section-order: 10
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › BIOSOLIDS AND RESIDUALS MANAGEMENT
+doc-order: 43
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Front half of the biosolids narrative — commits to continuity of the client's existing thickened-sludge pathway (rather than proposing disruptive change during transition), then layers on disciplined inventory control, cold-weather adaptation, and an odor-linked staging protocol. The Biosolids Strategic Review gives the client an option without asking for a capital commitment up front.
 reuse-notes: The named receiving facility (Cranston WWTF) and the 40 CFR Part 503 plus Massachusetts citations must be replaced with the actual disposal pathway and jurisdictions for the target contract. Cold-weather freezing risk and sludge-storage-tank insulation are New England specifics — swap in the target region's seasonal stressor. Pairs with the hauling/disposal/market-risk block for the second half of the narrative.

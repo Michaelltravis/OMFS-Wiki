@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:04.management-oversight
+section-order: 7
+section-path: Section 1 | Technical Approach › Management Plan › 6 NEIGHBOR & COMMUNITY CARE › STRUCTURED REPORTING AGAINST SCHEDULE 5 METRICS › Jacobs’ QA/QC Program › Management Oversight
+doc-order: 29
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest QA/QC passage in the library — it names the RFP's own words back at it ("beyond general policy statements"), puts the QA/QC Manager on a direct line to the Project Director, and backs the promise with a 40-year-old, 70-topic annual audit whose scores are benchmarked nationally. The report-verification paragraph directly answers the contract's breach language.
 reuse-notes: Re-verify the audit's topic count, the O&M group's program age, and the audit-frequency rules with the corporate quality group before restating. Replace deliverable due dates with the pursuit's own schedule, and quote the client's QA/QC requirement language from their RFP rather than reusing this one's.

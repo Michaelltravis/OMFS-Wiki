@@ -23,6 +23,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrfs-to-min
+section-order: 10
+section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors
+doc-order: 137
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'The direct answer to an RFP question about responding to public odor complaints — a named seven-step protocol from intake to resident follow-up, an explicit "exceeds the Scope of Services requirements" claim, and two details evaluators remember: staff whose noses are calibrated with industry-standard odor sticks, and a bench of more than 20 odor technologists (3 local) led by the engineer who built the client''s own WATS odor and corrosion model. Ends on a stated goal of zero odor complaints.'
 reuse-notes: Verify the named odor technologist and local office count for the pursuit before reusing those figures. Adapt the intake channels (client systems, Jacobs website, hotline, social media) to what the client actually operates, and confirm who owns the public-facing hotline. The odor sensitivity testing commitment travels unchanged.

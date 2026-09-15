@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:03.financial-qualifications
+section-order: 8
+section-path: Section 3 - Firm Qualifications and Experience › FINANCIAL QUALIFICATIONS
+doc-order: 19
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The mandatory financial-qualifications narrative most O&M RFPs require, answered with three layers of proof — corporate revenue and backlog, the operating group's own five-year O&M revenue trend, and SEC-filed audited statements — then closed with a tight low-risk-partner callout that works as the end of an entire qualifications section.
 reuse-notes: "Financial-qualification figures (revenue, backlog, OMFS revenue, bonding and insurance capacity) are KEPT per sanitization rule 2 — they are not commercial pricing and essentially every O&M RFP asks for them. They are, however, point-in-time: pull current-year revenue, backlog, the five-year OMFS revenue series, and the latest two fiscal years' 10-K reporting periods from the corporate financial fact sheet before quoting in a live proposal. Replace the Addendum/USB submission mechanics with whatever the new RFP specifies."

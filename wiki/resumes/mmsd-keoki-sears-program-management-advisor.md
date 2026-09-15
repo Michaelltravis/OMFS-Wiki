@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:18
+section-order: 4
+section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes
+doc-order: 58
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Brings corporate program-management scale ($3B Americas portfolio, mega-program project list) to an O&M bid as an explicit governance offer — the card that turns "we will be transparent" into a named person with a framework.
 reuse-notes: The mega-program project list (Germany, Saudi Arabia, PG&E) is deliberately non-water; keep it only where scale and governance are the argument, and pair it with water-specific cards so the team does not read as unfamiliar with utilities.

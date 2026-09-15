@@ -22,6 +22,10 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:15.jacobs-collection-system-pump-station-experience
+section-order: 8
+section-path: Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE
+doc-order: 152
 context: "Verbatim municipal DBO reference for an MBR treatment plant and satellite facilities."
 quality: "Captures the operating relationship, treatment and satellite-facility scale, compliance turnaround, and complete source reference panel."
 reuse-notes: "Past-performance content is verbatim and exempt from client-name generalization. Retain the client, location, reference contact, dates, facility specifics, and outcomes; strip only commercial fee or rate figures if present in a future source. Confirm contact currency, contract status, and award currency before external reuse."

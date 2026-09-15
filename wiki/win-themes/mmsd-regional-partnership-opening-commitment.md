@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:33
+section-order: 1
+section-path: V. Statement on Regional Partnership
+doc-order: 233
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Opens a standalone regional-partnership section by refusing the transactional reading of the contract — "far more than the operation and maintenance of infrastructure" — and then draws the line between supporting what the client already runs and proposing above-and-beyond ideas that produce measurable regional benefits. The executive-level pull quote gives the commitment a named corporate owner.
 reuse-notes: Substitute the client's own named outreach and regional initiatives in the second paragraph — the sentence only works if it lists programs the client actually runs. Confirm the named executive is current before reusing the pull quote, and confirm permission for external use.

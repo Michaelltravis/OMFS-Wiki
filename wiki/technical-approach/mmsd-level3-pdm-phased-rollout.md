@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:32.7-phased-rollout
+section-order: 8
+section-path: IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 7. PHASED ROLLOUT
+doc-order: 231
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR. Advanced PdM was an additive, separately priced scope the client could scale at its own pace."
 quality: "The answer to a buyer's real objection to advanced PdM — cost and commitment. Three phases, a concrete Phase 1 footprint (about 50 high-criticality assets per facility), and an explicit statement that the client controls scaling and investment pace."
 reuse-notes: "Set the Phase 1 asset count against the target facility's own criticality list; the number here is roughly 50 high-criticality assets at each facility. Attach phase durations only if the pursuit's schedule supports them — the source deliberately expresses phases as gates on demonstrated value, not as dates."

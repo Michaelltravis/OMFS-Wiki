@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.the-town-s-asset-environment
+section-order: 21
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › ASSET MANAGEMENT/MAINTENANCE › The Town’s Asset Environment
+doc-order: 54
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Complete, self-consistent asset-management narrative spanning the client's asset environment, platform strategy, workflow, self-performance model, regional maintenance bench, and capital-planning linkage — with an explicit incumbent-displacement framing ("visible change" from reactive to planned)
 reuse-notes: Replace the facility inventory specifics (3.07 MGD, seven pump stations, the stormwater station, roughly 42 miles of main, the low-pressure grinder system) and the named CMMS/EAM platforms with the target client's actual environment; swap the Traverse City and Waterbury maintenance proof points for permissioned, region-appropriate examples; confirm the 90-day baseline-condition-assessment commitment against the target contract.

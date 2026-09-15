@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:31.3-4-integrations-required-by-jacobs
+section-order: 4
+section-path: IV. Approach Summary › IV.C. Computerized Maintenance Management System Approach › 2. CURRENT CONTEXT AND PARTNERSHIP FRAMEWORK › 3.4. Integrations Required by Jacobs
+doc-order: 223
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "A concrete, named integration map — client systems on one side, Jacobs digital tools on the other, direction of data flow and the decision each integration supports. It answers the 'what will you actually connect?' question that generic digital-tools language never does."
 reuse-notes: "Replace the client-side system names with the target utility's stack and confirm which Jacobs tools are contracted for that pursuit. Direction of flow (one-way vs. two-way) should be re-verified with the CMMS vendor. The source is a graphic (asset ID 329_007CAM_3) whose column pairings are partially reconstructed from the text layer — verify against the PDF render before external use."

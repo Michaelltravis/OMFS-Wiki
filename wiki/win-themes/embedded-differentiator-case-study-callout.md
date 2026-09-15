@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:05.proactive-monitoring-and-early-detection
+section-order: 15
+section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › SITE-SPECIFIC ODOR CONTROL PLAN › Proactive Monitoring and Early Detection
+doc-order: 48
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A compact, non-appendix case study dropped directly inside the odor-control methodology section to prove the five-step evaluation framework has an actual track record, not just a proposed process. It is also an incumbent-displacement story (odor problems persisted under the previous operator), and it demonstrates capital-light, operations-based problem solving — a strong message for cost-conscious municipal evaluators.
 reuse-notes: This is a reference-client story, not the pursuit client's, so the Town of Southbridge, MA name is kept. Confirm the reference remains permissioned and current, and check that Southbridge is not already used elsewhere in the same proposal. The odor-complaint reduction is stated qualitatively ("measurable reduction") in the source — if a hard number exists, source it and register it rather than inventing one.

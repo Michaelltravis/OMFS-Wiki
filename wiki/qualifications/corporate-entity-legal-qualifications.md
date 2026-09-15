@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: hull-wwtf-om-2026:03
+section-order: 1
+section-path: Section 3 - Firm Qualifications and Experience
+doc-order: 12
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The mandatory corporate/legal-qualifications response almost every O&M RFP asks for — contracting entity, tax ID, incorporation facts, principal office and contact, good-standing statement, and a candid, non-defensive litigation and contract-termination disclosure that turns a compliance question into a transparency proof point.
 reuse-notes: Corporate/legal qualifications are kept verbatim per sanitization rule 5 — entity structure, tax ID, incorporation date/state, and good-standing language are corporate facts, not pursuit-specific. Refresh the principal office address, named principal contact, headcount, and revenue figures from the latest corporate qualifications fact sheet before each proposal. Swap the state of registration in the legal-standing paragraph to the pursuit's state, and confirm the contract-termination lookback period matches the new RFP's question.

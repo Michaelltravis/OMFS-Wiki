@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: low
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: ocwut-16-26:03.jacobs-understands-ocwut-s-facilities-and-its-goals-for-this
+section-order: 1
+section-path: Section 1 | Technical Approach › JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT
+doc-order: 16
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The section-opening move that earns the right to critique an incumbent — it establishes system scale in one sentence, then itemizes the specific due-diligence work (RFP and schedule review, both mandatory pre-proposal conferences, multi-day site visits to all five facilities, specialist strategy sessions) that makes the facility-specific challenges credible rather than presumptuous. It also frames the identified problems as the same drivers behind the client's own capital program, which converts criticism into alignment.
 reuse-notes: Replace the system-scale sentence and the CIP dollar figure with the target pursuit's own numbers; keep the sentence structure. The due-diligence list is the reusable engine — name the actual conferences attended, days in the field, and the specialist disciplines convened. The clause tying identified challenges to the client's own capital plan is the diplomatic device that makes this safe to use in a challenger bid; keep it whenever criticizing conditions the incumbent created. Pair with the Exhibit 1-1 matrix table blocks in this folder, which the final paragraph introduces.

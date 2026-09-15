@@ -22,6 +22,10 @@ sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
 last-verified: 2026-09-05
+section-id: mmsd-om-2028:35.support-business-case-development-p142-31
+section-order: 9
+section-path: V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering › 1. REGIONAL PARTNERSHIP STRATEGIES TO ACHIEVE ABOVE AND BEYOND RESULTS › Support Business Case Development
+doc-order: 243
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The hard evidence behind an innovation claim — a countable research portfolio (40 studies, $9.5M since 2020), founding membership in the Leading Utilities of the World Network, and six named research domains with actual study titles, so a technical evaluator can check whether the research touches their own problems.
 reuse-notes: Refresh the study count, dollar total, and as-of year before each reuse — this is a running total. Select the four to six research domains that match the pursuit's process train rather than listing all of them.

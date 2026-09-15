@@ -22,6 +22,10 @@ sanitized: false
 sanitization-loss: none
 extracted: 2026-09-07
 last-verified: 2026-09-07
+section-id: fulton-county-2025:15.jacobs-collection-system-pump-station-experience
+section-order: 6
+section-path: Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE
+doc-order: 150
 context: National pump-station O&M capability statement presented in a Southeast county wastewater O&M pursuit.
 quality: Source-verbatim overview linking pump-station O&M to condition assessment, asset management, trenchless rehabilitation, preventive maintenance, wet-weather management, and resilience.
 reuse-notes: "VERBATIM past-performance content. Use as a portfolio-level pump-station narrative; verify any current corporate scope or longevity claims before external reuse."
