@@ -51,7 +51,7 @@
       "ST-0012"
     ],
     "status": "fallback",
-    "house-favorite": true,
+    "house-favorite": false,
     "sanitized": true,
     "sanitization-loss": "none",
     "extracted": "2026-09-05",
@@ -67,9 +67,7 @@
     "doc-order": 37,
     "volatility": "evergreen",
     "review-due": "2029-04-01",
-    "freshness-flags": [
-      "status-link-mismatch"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Strong, low-cost differentiator \u2014 a recurring, no-cost annual forum with named SME topic areas that ties directly into the CIP and long-term planning process, backed by named prior-workshop precedents (Traverse City, MI and Wilmington, NC) and an appendix agenda.",
     "reuse-notes": "Filter the topic list to what is genuinely relevant to the target facility (biosolids, energy, PFAS, AI, regionalization); evaluators can tell when a topic list was not customized. Keep the prior-workshop client references (Traverse City, MI; Wilmington, NC) only if those agendas are actually included as an appendix. The client testimonial requires a genuinely obtained, current quote and the quoted individual's permission before reuse.",
@@ -7361,8 +7359,8 @@
     "section-order": 33,
     "section-path": "IV. Approach Summary \u203a IV.A. Approach to Management, Operations, PM, and CM \u203a IV.A.6. Responding to Public Odor Complaints \u203a 2.7. Regulatory and Environmental Compliance \u203a 2.7.1. Commitment to Zero Excursions",
     "doc-order": 160,
-    "volatility": "evergreen",
-    "review-due": "2029-01-29",
+    "volatility": "corporate-figure",
+    "review-due": "2027-01-30",
     "freshness-flags": [],
     "context": "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime",
     "quality": "Three zeros stated as a commitment (zero violations, zero reporting errors, zero missed monitoring events) backed immediately by the 99.98% record across more than 300 O&M contracts, then the governance structure that delivers it. Contains the rare and valuable commitment that where the client's Standards of Performance exceed regulation, the higher standard governs. The ten-year training-hours exhibit is hard evidence rather than assertion.",
@@ -9693,7 +9691,6 @@
     "story-ids": [],
     "status": "preferred",
     "supersedes": "wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md",
-    "superseded-by": "wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md",
     "house-favorite": false,
     "sanitized": true,
     "sanitization-loss": "none",
@@ -9705,9 +9702,7 @@
     "doc-order": 80,
     "volatility": "evergreen",
     "review-due": "2029-01-29",
-    "freshness-flags": [
-      "status-link-mismatch"
-    ],
+    "freshness-flags": [],
     "context": "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR",
     "quality": "The itemized backing for the headline savings number \u2014 every category carries a dollar value and a named list of what produces it. The category structure (savings, investments, best practices, onsite/offsite support, regional partnership, studies, then future tiers) is a reusable taxonomy for any value-add exhibit.",
     "reuse-notes": "Rebuild all figures and item lists per pursuit. Facility-specific items (interplant pumping shims, belt presses, fishing pier) are examples of the level of specificity expected, not transferable content. The exhibit's text layer interleaves columns; verify any line against the page render before quoting it as exhibit copy.",
@@ -9770,7 +9765,6 @@
     "story-ids": [],
     "status": "fallback",
     "superseded-by": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
-    "supersedes": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
     "house-favorite": false,
     "sanitized": true,
     "sanitization-loss": "low",
@@ -16242,9 +16236,11 @@
     "section-order": 22,
     "section-path": "Section 1 | Technical Approach \u203a Operations Plan \u203a REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS \u203a Oklahoma Regulatory Knowledge and ODEQ Relationship",
     "doc-order": 57,
-    "volatility": "evergreen",
-    "review-due": "2029-05-05",
-    "freshness-flags": [],
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
+    "freshness-flags": [
+      "newer-year-available"
+    ],
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.",
     "quality": "Compact, high-credibility statement of state-specific regulatory fluency plus a stated posture toward the regulator (early, proactive notification as protection of the client's standing) \u2014 the pattern that converts \"we know the rules\" into \"we protect your regulatory standing.\"",
     "reuse-notes": "Swap ODEQ/OPDES and Oklahoma operator-certification language for the state agency, permit program, and certification structure of the new pursuit. The compliance and regulatory training-hours series is a corporate figure \u2014 re-pull current-year values before reuse.",
@@ -30406,7 +30402,8 @@
       "PP-2803",
       "PP-2804",
       "PP-2805",
-      "PP-2806"
+      "PP-2806",
+      "PP-2603"
     ],
     "testimonial-ids": [],
     "story-ids": [],
@@ -30420,8 +30417,8 @@
     "section-order": 8,
     "section-path": "Section 2: Qualifications \u203a 2.4 FIRM APPROACH \u203a TRAINING & CERTIFICATION PROGRAM FOR O&M PERSONNEL",
     "doc-order": 36,
-    "volatility": "evergreen",
-    "review-due": "2028-09-11",
+    "volatility": "corporate-figure",
+    "review-due": "2026-09-12",
     "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "A complete workforce-development package: individualized needs assessment, a categorized training-topics catalog, 20 years of quantified annual training hours, a named eLearning platform with 36 instructional volumes, concrete certification-incentive mechanics (a six- to 12-month OIT path, AWTO cost coverage), named CMRT and CRL programs, twelve California AWTO-certified employees, and a Culture Coach program with an 80 percent participation goal.",
@@ -31662,7 +31659,7 @@
     "proof-point-ids": [],
     "testimonial-ids": [],
     "story-ids": [],
-    "status": "fallback",
+    "status": "archived",
     "house-favorite": false,
     "sanitized": true,
     "sanitization-loss": "high",
@@ -31677,6 +31674,10 @@
     "freshness-flags": [
       "status-link-mismatch"
     ],
+    "archive-reason": "commercial-exclusion placeholder record; the prose lives in the pairs-with block wiki/win-themes/discounted-engineering-services-offer.md",
+    "archived-date": "2026-10-09",
+    "archived-by": "Michael Travis",
+    "archived-from-status": "fallback",
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement; four WWTPs plus one major pump station; ODEQ regulatory regime.",
     "quality": "Preserves the source location and commercial-exclusion decision without carrying source pricing into reusable content.",
     "reuse-notes": "The source exhibit contains pursuit-specific commercial inputs and is excluded from reusable content. A pricing lead must rebuild any future exhibit from current approved commercial inputs and current procurement constraints.",
@@ -39400,8 +39401,8 @@
     "section-order": 7,
     "section-path": "Section 3 | Experience and Qualifications of the Firm and Management Team \u203a BIOSOLIDS/LAND APPLICATION",
     "doc-order": 114,
-    "volatility": "evergreen",
-    "review-due": "2029-05-05",
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
     "freshness-flags": [],
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.",
     "quality": "The Baltimore Back River recovery narrative is the strongest turnaround story in this library \u2014 a consent-decree facility stabilized in one year with hard counts on every claim (4,500 truckloads, 800 tons of legacy sludge, 3,200 training hours, 22 permanent hires with all existing City staff retained) \u2014 and it sits behind a corporate biosolids scale claim and two other named projects.",
@@ -45578,7 +45579,8 @@
     "volatility": "safety-stat",
     "review-due": "2027-04-02",
     "freshness-flags": [
-      "divergent-figure"
+      "divergent-figure",
+      "newer-year-available"
     ],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Combines a named safety-culture program with hard performance metrics (TRIR, EMR, a 20-year NPDES compliance rate) and an honest, non-defensive disclosure of the only two minor violations in five years \u2014 evaluators respond far better to a small, fully-detailed violations table framed as \"administrative, promptly resolved, no service impact\" than to silence on the topic.",
@@ -45720,7 +45722,9 @@
     "doc-order": 50,
     "volatility": "safety-stat",
     "review-due": "2027-04-02",
-    "freshness-flags": [],
+    "freshness-flags": [
+      "newer-year-available"
+    ],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Combines quantified corporate safety proof points (5-year RIR and LTIR against BLS industry averages, EMR below 1.0) with a concrete, checklist-style site-specific safety, security, and OT-cybersecurity plan and a dated 30-day submission commitment",
     "reuse-notes": "Refresh the BLS benchmark year range (2018-2022 here) and the RIR/LTIR statistics from current corporate safety data before reuse; rewrite the physical-security-findings paragraph from an actual site walk of the target facility rather than reusing the perimeter-fencing observation; confirm the 30-day plan submission commitment matches the target RFP.",
@@ -50393,7 +50397,9 @@
       "PP-2825",
       "PP-2826",
       "PP-2827",
-      "PP-2828"
+      "PP-2828",
+      "PP-0225",
+      "PP-0228"
     ],
     "testimonial-ids": [],
     "story-ids": [],
@@ -50411,7 +50417,7 @@
     "review-due": "2026-09-12",
     "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
-    "quality": "Combines the BeyondZero safety-culture narrative with a Safety Scorecard concept (five leading, two lagging indicators) and five years of hard corporate safety metrics (ERM by policy year, TRIR by year) plus industry benchmarks showing 60 percent and 72 percent better-than-industry performance.",
+    "quality": "Combines the BeyondZero safety-culture narrative with a Safety Scorecard concept (five leading, two lagging indicators) and six years of hard corporate safety metrics (ERM by policy year through 7/1/2026, TRIR by year through 2025) plus an industry-benchmark comparison.",
     "reuse-notes": "The BeyondZero narrative, the Safety Scorecard leading/lagging framework, and the industry-benchmark framing are fully generic. Refresh every metric (ERM by policy year, TRIR by year, the BLS 2018-2022 benchmark window) from current corporate safety data before each reuse, and confirm the RFP's required EMR/TRIR thresholds are cleared before citing better-than-industry language.",
     "path": "wiki/compliance-plans/swip-safety-plan-performance-record.md"
   },

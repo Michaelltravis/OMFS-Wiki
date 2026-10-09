@@ -26,8 +26,8 @@ section-id: mmsd-om-2028:25.2-7-1-commitment-to-zero-excursions
 section-order: 33
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.7. Regulatory and Environmental Compliance › 2.7.1. Commitment to Zero Excursions
 doc-order: 160
-volatility: evergreen
-review-due: 2029-01-29
+volatility: corporate-figure
+review-due: 2027-01-30
 freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: Three zeros stated as a commitment (zero violations, zero reporting errors, zero missed monitoring events) backed immediately by the 99.98% record across more than 300 O&M contracts, then the governance structure that delivers it. Contains the rare and valuable commitment that where the client's Standards of Performance exceed regulation, the higher standard governs. The ten-year training-hours exhibit is hard evidence rather than assertion.

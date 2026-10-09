@@ -57,7 +57,7 @@ BLOCK_TYPE_ENUM = {"prose", "recipe", "table", "exhibit", "roster"}
 STATUS_ENUM = {"preferred", "fallback", "archived"}
 VOLATILITY_ENUM = {"people", "reference", "corporate-figure", "safety-stat", "regulatory",
                    "project-outcome", "evergreen"}
-FLAG_ENUM = {"open-ended-date", "divergent-figure", "newer-source-same-claim", "unresolved-conflict",
+FLAG_ENUM = {"open-ended-date", "divergent-figure", "newer-source-same-claim", "newer-year-available", "unresolved-conflict",
              "person-duplicate", "dead-link", "link-nonreciprocal", "link-format", "status-link-mismatch",
              "stale-contact", "feedback"}
 LINK_KEYS = ("supersedes", "superseded-by", "pairs-with")

@@ -18,7 +18,6 @@ testimonial-ids: []
 story-ids: []
 status: preferred
 supersedes: wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md
-superseded-by: wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md
 house-favorite: false
 sanitized: true
 sanitization-loss: none
@@ -30,7 +29,7 @@ section-path: IV. Approach Summary › Energy and Chemical Optimization
 doc-order: 80
 volatility: evergreen
 review-due: 2029-01-29
-freshness-flags: [status-link-mismatch]
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The itemized backing for the headline savings number — every category carries a dollar value and a named list of what produces it. The category structure (savings, investments, best practices, onsite/offsite support, regional partnership, studies, then future tiers) is a reusable taxonomy for any value-add exhibit.
 reuse-notes: Rebuild all figures and item lists per pursuit. Facility-specific items (interplant pumping shims, belt presses, fishing pier) are examples of the level of specificity expected, not transferable content. The exhibit's text layer interleaves columns; verify any line against the page render before quoting it as exhibit copy.

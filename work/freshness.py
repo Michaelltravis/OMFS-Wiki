@@ -63,7 +63,7 @@ DEFAULT_POLICY = {
     "report_top_n": 50,
 }
 
-SEVERITY = ["feedback", "newer-source-same-claim", "divergent-figure", "stale-contact",
+SEVERITY = ["feedback", "newer-source-same-claim", "newer-year-available", "divergent-figure", "stale-contact",
             "person-duplicate", "open-ended-date", "status-link-mismatch", "dead-link",
             "link-nonreciprocal", "link-format", "unresolved-conflict"]
 SEVERITY_RANK = {f: i for i, f in enumerate(SEVERITY)}
@@ -86,6 +86,17 @@ RESUME_TITLE_PREFIX_RE = re.compile(r"^\s*(?:Resume|Résumé)\s*[—–-]\s*", r
 PP_RE = re.compile(r"\bPP-\d{4}\b")
 
 CORPORATE_FAMILIES = {"corporate-revenue", "global-employee-count", "corporate-bonding-capacity"}
+
+# Year-series statistics the bank must always carry at the latest year any source states
+# (maintainer rule, 2026-10-09): a block whose series stops at an older year gets
+# `newer-year-available` and an update-figure proposal (append the year, update the headline).
+SERIES = {
+    "TRIR": re.compile(r"\bTRIR\b|\bTIR\b|Total Recordable Incident Rate", re.IGNORECASE),
+    "EMR": re.compile(r"\bEMR\b|\bERM\b|Experience (?:Rate )?Modification", re.IGNORECASE),
+    "DART": re.compile(r"\bDART\b|\bLTIR\b|lost[- ]time (?:incident|injury) rate", re.IGNORECASE),
+    "training hours": re.compile(r"training hours", re.IGNORECASE),
+}
+YEAR_RE = re.compile(r"\b(20[0-3]\d)\b")
 
 
 NUM_RE = re.compile(r"[-+]?\d[\d,]*(?:\.\d+)?")
@@ -273,6 +284,8 @@ class Freshness:
             return "reference"
         if SAFETY_RE.search(body):
             return "safety-stat"
+        if SERIES["training hours"].search(body) and YEAR_RE.search(body):
+            return "corporate-figure"
         pp_ids = [str(x) for x in as_list(fm.get("proof-point-ids"))]
         if CORP_DOLLAR_RE.search(body) or CORP_SCALE_RE.search(body) or \
                 any(self.families.get(pid) in CORPORATE_FAMILIES for pid in pp_ids):
@@ -284,6 +297,51 @@ class Freshness:
         if cat == "past-performance":
             return "project-outcome"
         return "evergreen"
+
+    def series_years(self, body: str) -> dict:
+        """{series: latest year stated for it in this body}. A line that names the stat
+        counts, and so do the table rows that follow a header line naming it."""
+        out = {}
+        lines = body.splitlines()
+        annual = re.compile(r"(annual|annually|per year|each year|every year|year over year|corporate|companywide|company-wide)", re.IGNORECASE)
+        for name, rx in SERIES.items():
+            years, is_series = [], False
+            i = 0
+            while i < len(lines):
+                ln = lines[i]
+                if rx.search(ln):
+                    years += [int(y) for y in YEAR_RE.findall(ln)]
+                    if annual.search(ln):
+                        is_series = True
+                    if ln.lstrip().startswith("|"):  # table header: take the rows beneath it
+                        is_series = True
+                        j = i + 1
+                        while j < len(lines) and lines[j].lstrip().startswith("|"):
+                            years += [int(y) for y in YEAR_RE.findall(lines[j])]
+                            j += 1
+                        i = j
+                        continue
+                i += 1
+            years = [y for y in years if y <= self.today.year + 1]
+            # a corporate year-series, not a one-off project figure ("3,200 training hours" in a case study):
+            # a table, an annual/corporate framing, or at least two distinct years for the stat
+            if years and (is_series or len(set(years)) >= 2):
+                out[name] = max(years)
+        return out
+
+    def bank_series_latest(self) -> dict:
+        """{series: (latest year anywhere in the bank, block path that states it)}."""
+        if hasattr(self, "_bank_series"):
+            return self._bank_series
+        latest = {}
+        for b in self.blocks:
+            if b["fm"].get("status") == "archived":
+                continue
+            for name, y in self.series_years(b["body"]).items():
+                if name not in latest or y > latest[name][0]:
+                    latest[name] = (y, b["path"])
+        self._bank_series = latest
+        return latest
 
     def names_in(self, body: str):
         return [v["name"] for v in self.resume_names.values() if v["name"] in body]
@@ -339,6 +397,14 @@ class Freshness:
                           "proof-points/registry.md"))
         if newer:
             flags.append(("newer-source-same-claim", " | ".join(newer[:3]), "proof-points/registry.json"))
+
+        mine_series = self.series_years(body)
+        if mine_series:
+            bank = self.bank_series_latest()
+            older = [f"{name}: block ends {y}; bank has {bank[name][0]} in {bank[name][1]}"
+                     for name, y in mine_series.items() if name in bank and bank[name][0] > y]
+            if older:
+                flags.append(("newer-year-available", " | ".join(older), bank[next(n for n, y in mine_series.items() if n in bank and bank[n][0] > y)][1]))
 
         if b["category"] == "resumes":
             n = person_name_from_title(fm.get("title"))

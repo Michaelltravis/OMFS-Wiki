@@ -17,7 +17,7 @@ proof-point-ids: [PP-0141, PP-0278, PP-0279, PP-2078]
 testimonial-ids: []
 story-ids: [ST-0012]
 status: fallback
-house-favorite: true
+house-favorite: false
 sanitized: true
 sanitization-loss: none
 extracted: 2026-09-05
@@ -30,7 +30,7 @@ section-path: Section 5 - Project Understanding and Technical Approach › OUR O
 doc-order: 37
 volatility: evergreen
 review-due: 2029-04-01
-freshness-flags: [status-link-mismatch]
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Strong, low-cost differentiator — a recurring, no-cost annual forum with named SME topic areas that ties directly into the CIP and long-term planning process, backed by named prior-workshop precedents (Traverse City, MI and Wilmington, NC) and an appendix agenda.
 reuse-notes: Filter the topic list to what is genuinely relevant to the target facility (biosolids, energy, PFAS, AI, regionalization); evaluators can tell when a topic list was not customized. Keep the prior-workshop client references (Traverse City, MI; Wilmington, NC) only if those agendas are actually included as an appendix. The client testimonial requires a genuinely obtained, current quote and the quoted individual's permission before reuse.

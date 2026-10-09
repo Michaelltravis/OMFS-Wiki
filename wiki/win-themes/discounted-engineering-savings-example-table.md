@@ -16,7 +16,7 @@ win-theme-map: [innovation-value-add, partner-transparency]
 proof-point-ids: []
 testimonial-ids: []
 story-ids: []
-status: fallback
+status: archived
 house-favorite: false
 sanitized: true
 sanitization-loss: high
@@ -29,6 +29,10 @@ doc-order: 228
 volatility: evergreen
 review-due: 2029-05-05
 freshness-flags: [status-link-mismatch]
+archive-reason: commercial-exclusion placeholder record; the prose lives in the pairs-with block wiki/win-themes/discounted-engineering-services-offer.md
+archived-date: 2026-10-09
+archived-by: Michael Travis
+archived-from-status: fallback
 context: "Southcentral US municipal water utility trust wastewater O&M competitive procurement; four WWTPs plus one major pump station; ODEQ regulatory regime."
 quality: "Preserves the source location and commercial-exclusion decision without carrying source pricing into reusable content."
 reuse-notes: "The source exhibit contains pursuit-specific commercial inputs and is excluded from reusable content. A pricing lead must rebuild any future exhibit from current approved commercial inputs and current procurement constraints."

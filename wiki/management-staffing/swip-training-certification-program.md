@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff w
 geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
 rfp-section-type: [tech-approach, staffing]
 win-theme-map: [workforce-development, regional-bench, compliance-leadership, incumbent-displacement]
-proof-point-ids: [PP-0150, PP-0268, PP-0269, PP-0447, PP-0448, PP-0449, PP-0450, PP-0451, PP-0452, PP-0453, PP-0454, PP-0455, PP-0456, PP-0457, PP-0458, PP-2801, PP-2802, PP-2803, PP-2804, PP-2805, PP-2806]
+proof-point-ids: [PP-0150, PP-0268, PP-0269, PP-0447, PP-0448, PP-0449, PP-0450, PP-0451, PP-0452, PP-0453, PP-0454, PP-0455, PP-0456, PP-0457, PP-0458, PP-2801, PP-2802, PP-2803, PP-2804, PP-2805, PP-2806, PP-2603]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -26,8 +26,8 @@ section-id: santamonica-swip-om-2025:08.training-certification-program-for-o-m-p
 section-order: 8
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › TRAINING & CERTIFICATION PROGRAM FOR O&M PERSONNEL'
 doc-order: 36
-volatility: evergreen
-review-due: 2028-09-11
+volatility: corporate-figure
+review-due: 2026-09-12
 freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: 'A complete workforce-development package: individualized needs assessment, a categorized training-topics catalog, 20 years of quantified annual training hours, a named eLearning platform with 36 instructional volumes, concrete certification-incentive mechanics (a six- to 12-month OIT path, AWTO cost coverage), named CMRT and CRL programs, twelve California AWTO-certified employees, and a Culture Coach program with an 80 percent participation goal.'
@@ -70,7 +70,9 @@ Jacobs' eLearning system, accessible to all employees, serves both as a knowledg
 
 ## Historical training investment
 
-Jacobs' total compliance and regulatory training hours provided to O&M staff annually (a 20-year corporate trend): 1,875 hours (2005); 1,078 (2006); 2,989 (2007); 2,937 (2008); 2,965 (2009); 4,977 (2010); 4,455 (2011); 5,642 (2012); 9,196 (2013); 4,628 (2014); 4,787 (2015); 9,034 (2016); 10,285 (2017); 6,502 (2018); 8,155 (2019); 9,433 (2020); 12,641 (2021); 11,588 (2022); 9,185 (2023); 8,963 (2024).
+Jacobs' total compliance and regulatory training hours provided to O&M staff annually (a 21-year corporate trend): 1,875 hours (2005); 1,078 (2006); 2,989 (2007); 2,937 (2008); 2,965 (2009); 4,977 (2010); 4,455 (2011); 5,642 (2012); 9,196 (2013); 4,628 (2014); 4,787 (2015); 9,034 (2016); 10,285 (2017); 6,502 (2018); 8,155 (2019); 9,433 (2020); 12,641 (2021); 11,588 (2022); 9,185 (2023); 8,963 (2024); 12,039 (2025).
+
+<!-- curation 2026-10-09 (CQ-0002): 12,039 hours (2025) appended from the MMSD 2026 proposal, verbatim/mmsd-om-2028/pages/p0087.md ¶18 (PP-2603); year-series rule in CLAUDE.md. Verify before external use. -->
 
 ## Operator certification incentives
 

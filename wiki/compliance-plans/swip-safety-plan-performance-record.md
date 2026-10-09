@@ -13,7 +13,7 @@ client-size: "Advanced water treatment facility (MBR/RO/UV-AOP) + urban-runoff w
 geography: "Southern California / CA / SWRCB Division of Drinking Water (Title 22) + Cal/OSHA"
 rfp-section-type: [tech-approach, compliance]
 win-theme-map: [safety-culture, compliance-leadership, partner-transparency]
-proof-point-ids: [PP-0226, PP-0227, PP-0230, PP-0231, PP-0311, PP-0312, PP-0313, PP-0314, PP-0315, PP-0316, PP-0479, PP-0480, PP-0481, PP-0482, PP-0483, PP-0484, PP-0485, PP-0486, PP-0495, PP-0496, PP-2819, PP-2820, PP-2821, PP-2822, PP-2823, PP-2824, PP-2825, PP-2826, PP-2827, PP-2828]
+proof-point-ids: [PP-0226, PP-0227, PP-0230, PP-0231, PP-0311, PP-0312, PP-0313, PP-0314, PP-0315, PP-0316, PP-0479, PP-0480, PP-0481, PP-0482, PP-0483, PP-0484, PP-0485, PP-0486, PP-0495, PP-0496, PP-2819, PP-2820, PP-2821, PP-2822, PP-2823, PP-2824, PP-2825, PP-2826, PP-2827, PP-2828, PP-0225, PP-0228]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -30,7 +30,7 @@ volatility: safety-stat
 review-due: 2026-09-12
 freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
-quality: Combines the BeyondZero safety-culture narrative with a Safety Scorecard concept (five leading, two lagging indicators) and five years of hard corporate safety metrics (ERM by policy year, TRIR by year) plus industry benchmarks showing 60 percent and 72 percent better-than-industry performance.
+quality: Combines the BeyondZero safety-culture narrative with a Safety Scorecard concept (five leading, two lagging indicators) and six years of hard corporate safety metrics (ERM by policy year through 7/1/2026, TRIR by year through 2025) plus an industry-benchmark comparison.
 reuse-notes: The BeyondZero narrative, the Safety Scorecard leading/lagging framework, and the industry-benchmark framing are fully generic. Refresh every metric (ERM by policy year, TRIR by year, the BLS 2018-2022 benchmark window) from current corporate safety data before each reuse, and confirm the RFP's required EMR/TRIR thresholds are cleared before citing better-than-industry language.
 ---
 
@@ -50,10 +50,13 @@ Jacobs uses a Safety Scorecard to measure both proactive (leading) and reactive 
 
 **Safety statistics for Jacobs' operations and maintenance organization:**
 
+<!-- curation 2026-10-09 (CQ-0001): 2025 TRIR 0.89 and 7/1/2025–7/1/2026 ERM 0.45 appended from the Hull 2026 proposal, verbatim/hull-wwtf-om-2026/pages/p0017.md ¶7 and ¶12 (PP-0225, PP-0228); year-series rule in CLAUDE.md. Verify before external use. -->
+
 Experience Rate Modification (ERM) for Worker Compensation (as measured by NCCI):
 
 | Policy Period | ERM |
 |---|---|
+| 7/1/2025 – 7/1/2026 | 0.45 |
 | 7/1/2024 – 7/1/2025 | 0.42 |
 | 7/1/2023 – 7/1/2024 | 0.45 |
 | 7/1/2022 – 7/1/2023 | 0.52 |
@@ -64,6 +67,7 @@ Total Recordable Incident Rate (TRIR/TIR):
 
 | Year | Jacobs TRIR |
 |---|---|
+| 2025 | 0.89 |
 | 2024 | 1.38 |
 | 2023 | 1.89 |
 | 2022 | 1.17 |

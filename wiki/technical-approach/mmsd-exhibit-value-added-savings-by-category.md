@@ -18,7 +18,6 @@ testimonial-ids: []
 story-ids: []
 status: fallback
 superseded-by: wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md
-supersedes: wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md
 house-favorite: false
 sanitized: true
 sanitization-loss: low
