@@ -5,6 +5,7 @@ export const meta = {
     { title: 'Detect', detail: 'freshness.py (volatility, review-due, flags, ranked list) + dedupe_candidates.py --skip-linked; one Sonnet runner transcribes the compact items file' },
     { title: 'Triage', detail: 'Sonnet, batches of 8: block + reuse-notes + registry rows + competing block + feedback → keep / verify / update-figure / supersede-with / merge-into / archive, each with evidence' },
     { title: 'Judge', detail: 'Fable reads both blocks and both verbatim pages for every supersede / merge / archive proposal; approves, reverses or rejects' },
+    { title: 'Update', detail: 'Opus applies update-figure items whose newer value comes from a later-dated source (newer-source rule): body edit + provenance comment + note-update; not tick-gated' },
     { title: 'Queue', detail: 'build_queue.py merges fragments + verdicts into work/curation/queue.md (ticks) and queue.json, ranked and grouped by owner' },
   ],
 }
@@ -120,6 +121,24 @@ const byVerdict = verdicts.reduce((m, d) => (m[d.verdict] = (m[d.verdict]||0) + 
 log(`Judge: ${toJudge.length} proposals judged — ${Object.entries(byVerdict).map(([k,v]) => `${k} ${v}`).join(', ') || 'none'}`)
 
 // ---------------------------------------------------------------------------------------
+phase('Update')
+// Newer-source rule (CLAUDE.md): update-figure proposals whose newer value comes from a later-dated
+// source are applied by the pass — body edit + provenance comment + note-update — not tick-gated.
+const UPDATE = { type:'object', properties:{ applied:{type:'array', items:{type:'object', properties:{ path:{type:'string'}, note:{type:'string'} }, required:['path','note']}},
+  skipped:{type:'array', items:{type:'object', properties:{ path:{type:'string'}, reason:{type:'string'} }, required:['path','reason']}} }, required:['applied','skipped'] }
+const toUpdate = proposals.filter(p => p.action === 'update-figure')
+let updated = { applied: [], skipped: [] }
+if (toUpdate.length) {
+  const upd = await agent(`Apply the newer-source figure updates in the Jacobs content bank. Read ${W}\\CLAUDE.md sections "Keeping the bank current" (the Newer-source rule and the Year-series rule) first. You edit block BODIES for these items only; never touch verbatim/, the registry, status or supersedes fields.
+Items (path → proposed_value, from the triage fragments ${FRAG}\\triage_*.json — open the fragment entry for each path to read proposed_value, evidence and rationale):
+${toUpdate.map(p => `- ${p.path}`).join('\n')}
+For each item: (1) confirm from the fragment's evidence that the newer value comes from a LATER-DATED source than the block's own (dates in ${W}\\work\\curation\\sources.json) or from a later year of the same series — if not, skip it with a reason; (2) edit the block body: append the newer year's row(s) to a table / series and update any "current" or headline figure to the newer value; keep fiscal-year-labelled figures as labelled history; keep older years for trend; change nothing else in the prose; (3) add one HTML comment right after the edited passage: <!-- curation ${TODAY}: <what changed> from source <slug> (<date>), verbatim/<slug>/pages/pNNNN.md ¶n (PP-ids); rule in CLAUDE.md. Verify before external use. --> (name the source by slug, never by client name); (4) run python "${W}\\work\\curate.py" note-update "<path>" --note "<what changed, from which source, PP ids>" --pp <PP ids> --today ${TODAY} --no-regen (this stamps updated / update-notes, extends proof-point-ids and logs). Return applied (path, note) and skipped (path, reason).`,
+    {model:'opus', effort:'medium', phase:'Update', label:`apply ${toUpdate.length} figure update(s)`, schema:UPDATE})
+  updated = upd || updated
+}
+log(`Update: ${updated.applied.length} applied, ${updated.skipped.length} skipped`)
+
+// ---------------------------------------------------------------------------------------
 phase('Queue')
 const q = await agent(`Build the curation queue from this run's fragments. From ${W} run:
 python "${W}\\work\\build_queue.py" --run "${RUN}" --today ${TODAY} --fragments "${FRAG}"
@@ -127,5 +146,5 @@ It merges triage_*.json with judge_*.json (verdicts override proposals), assigns
   {model:'sonnet', effort:'low', phase:'Queue', label:'build queue', schema:TEXT})
 log(`Queue: ${q?.summary || '-'}`)
 
-return { run: RUN, scope: SCOPE, today: TODAY, detect: det?.counts, proposals: byAction, verdicts: byVerdict,
+return { run: RUN, scope: SCOPE, today: TODAY, detect: det?.counts, proposals: byAction, verdicts: byVerdict, updates: updated,
          queue: q?.summary, files: q?.files, next: 'Review work/curation/queue.md, tick the items to apply, then: python work/apply_curation.py --dry-run && python work/apply_curation.py' }

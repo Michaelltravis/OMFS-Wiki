@@ -29,6 +29,8 @@ doc-order: 17
 volatility: corporate-figure
 review-due: 2026-09-12
 freshness-flags: [divergent-figure, newer-source-same-claim, open-ended-date]
+updated: 2026-10-09
+update-notes: '2026-10-09: annual revenue $12B -> ~$16B; O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0167, PP-0149)'
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Concise, well-quantified firm-history narrative combining founding date, revenue scale, O&M portfolio breadth, and hard proof points (client retention, environmental compliance, ENR ranking) — strong opener for a Qualifications or Firm Overview section.
 reuse-notes: Swap the named award-winning facility examples (Twin Oaks Valley WTP, Pure Water Soquel, Pima County Agua Nueva) for facilities most relevant to the pursuing region if a closer analog exists. Replace [CLIENT] and [REGION] with pursuit specifics. Revenue/backlog figures and stat-bar metrics should be checked against the current fiscal year before reuse, as they are refreshed periodically corporate-wide.
@@ -36,7 +38,8 @@ reuse-notes: Swap the named award-winning facility examples (Twin Oaks Valley WT
 
 # Firm History and Corporate Overview
 
-Established in 1947, Jacobs is one of the largest integrated operations and engineering firms in the U.S., generating over $12 billion in annual revenue with a robust O&M backlog exceeding $2.4 billion. We have more than 40 years of operations and maintenance (O&M) experience, including advanced water treatment and potable reuse expertise throughout [REGION].
+Established in 1947, Jacobs is one of the largest integrated operations and engineering firms in the U.S., generating approximately $16 billion in annual revenue with a robust O&M backlog exceeding $2.4 billion. We have more than 45 years of operations and maintenance (O&M) experience, including advanced water treatment and potable reuse expertise throughout [REGION].
+<!-- curation 2026-10-09 (newer-source rule): annual revenue $12B -> ~$16B; O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02), verbatim/hull-wwtf-om-2026/pages/p0014.md and p0010.md (PP-0167, PP-0149); rule in CLAUDE.md. Verify before external use. -->
 
 Jacobs delivers full-service O&M for over 300 facilities globally and currently supports more than 170 clients with a dedicated workforce of 4,000+ O&M professionals in the U.S., including a strong local presence in [REGION]. We are actively operating multiple advanced water treatment systems featuring membrane bioreactors (MBR), reverse osmosis (RO), and UV advanced oxidation processes (UV-AOP)—including the award-winning Twin Oaks Valley WTP (100 MGD), Pure Water Soquel (1.7 MGD), and the Pima County Agua Nueva Reclamation Facility (32 MGD).
 

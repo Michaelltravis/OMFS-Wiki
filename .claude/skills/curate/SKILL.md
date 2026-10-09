@@ -31,7 +31,7 @@ Workflow({ scriptPath: "<repo>\\.claude\\workflows\\curate.js",
 - `today` is **required** — workflow scripts cannot read the clock; pass the session date.
 - `scope`: `attention` (flagged or overdue, default) · `flagged` · `overdue` · `source:<slug>` · `paths` (with `paths: [...]`). Start with `maxItems: 40` on a first run.
 - Phases: Detect (scripts) → Triage (Sonnet, batches of 8) → Judge (Fable, supersede / merge / archive proposals only) → Queue (`work/build_queue.py`). Resume with `resumeFromRunId` if interrupted.
-- The workflow **applies nothing**. It writes `work/curation/queue.md` (tick list grouped by owner) and `queue.json`.
+- The workflow applies **only** `update-figure` items whose newer value comes from a later-dated source (the newer-source rule in CLAUDE.md): body edit, provenance comment, `updated` / `update-notes`, log line; these show as `(applied)` in the queue and under **Recently updated** in the index. Everything else — status flips, supersedes, archive, verify — waits in `work/curation/queue.md` (tick list grouped by owner) and `queue.json`.
 - Send `queue.md` (and `report.md`) with `SendUserFile`; reply with the counts by action and the top five items in one line each. Mark any `(unverified ref)` evidence.
 
 ## 3. Applying decisions

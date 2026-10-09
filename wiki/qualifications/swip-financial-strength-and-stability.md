@@ -29,6 +29,8 @@ doc-order: 60
 volatility: corporate-figure
 review-due: 2026-09-12
 freshness-flags: [divergent-figure, newer-source-same-claim]
+updated: 2026-10-09
+update-notes: '2026-10-09: annual revenue $15B -> ~$16B; O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0167, PP-0149)'
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Strong, quantified financial-qualification proof points (revenue figures, credit rating, backlog, comparable-contract dollar values) plus a differentiator (single-entity guarantor versus joint-venture or multi-entity structures) that directly answers typical financial-capacity RFP requirements.
 reuse-notes: All dollar, revenue, and credit-rating figures are financial-qualification statistics (not commercial pricing) and are kept per wiki policy — verify each figure is current before reuse, since revenue, backlog, and credit rating change year to year. Named reference projects and clients (Tucson, San Diego, and Seattle water and wastewater operations; Hartsfield-Jackson Atlanta International Airport; North Hudson Sewerage Authority; Jackson Water) are real, non-pursuit reference-client proof points and are kept verbatim — do not genericize them.
@@ -40,7 +42,8 @@ reuse-notes: All dollar, revenue, and credit-rating figures are financial-qualif
 
 Jacobs has the financial strength, stability, and experience to support [CLIENT], a Southern California municipal water utility, as a long-term O&M partner. [CLIENT] requires a contractor with the resources and business resilience to ensure uninterrupted performance of its advanced water treatment facilities. Jacobs will deliver that confidence.
 
-With more than $15 billion in annual revenue and a robust backlog, Jacobs has consistently demonstrated the capacity to meet the financial demands of large-scale, technically complex projects across the globe. Our O&M business has operated successfully for over 40 years and is a key driver of our corporate strength. The financial reliability of Jacobs ensures that [CLIENT] can count on us to meet all contractual obligations, even in the face of unanticipated financial pressures.
+With more than $16 billion in annual revenue and a robust backlog, Jacobs has consistently demonstrated the capacity to meet the financial demands of large-scale, technically complex projects across the globe. Our O&M business has operated successfully for more than 45 years and is a key driver of our corporate strength. The financial reliability of Jacobs ensures that [CLIENT] can count on us to meet all contractual obligations, even in the face of unanticipated financial pressures.
+<!-- curation 2026-10-09 (newer-source rule): annual revenue $15B -> ~$16B; O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02), verbatim/hull-wwtf-om-2026/pages/p0014.md and p0010.md (PP-0167, PP-0149); rule in CLAUDE.md. Verify before external use. -->
 
 The operations team at Jacobs is backed by over 4,000+ employees and manages a $2.4 billion O&M backlog. We serve municipal, federal, and private clients with a broad array of facility services, from advanced water reuse systems to critical infrastructure operations. Our performance spans high-profile projects such as water and wastewater operations for **Tucson, San Diego, and Seattle**, as well as facility management at **Hartsfield-Jackson Atlanta International Airport**.
 

@@ -140,6 +140,8 @@ def freshness_line(b: dict) -> str:
     parts.append("flags: " + (", ".join(str(f) for f in flags) if flags else "none"))
     if b.get("verified-by"):
         parts.append(f"verified {str(b.get('last-verified'))[:10]} by {b.get('verified-by')}")
+    if b.get("updated"):
+        parts.append(f"**updated {str(b.get('updated'))[:10]}**: {b.get('update-notes') or ''}".rstrip(": "))
     return " · ".join(parts)
 
 

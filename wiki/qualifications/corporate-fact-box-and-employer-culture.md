@@ -13,7 +13,7 @@ client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [qualifications]
 win-theme-map: [regional-bench, partner-transparency, workforce-development]
-proof-point-ids: [PP-0748, PP-0749, PP-0750]
+proof-point-ids: [PP-0748, PP-0749, PP-0750, PP-0167]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -29,6 +29,8 @@ doc-order: 109
 volatility: corporate-figure
 review-due: 2027-05-06
 freshness-flags: []
+updated: 2026-10-09
+update-notes: '2026-10-09: annual revenue $12B -> ~$16B (unlabelled current figure) from source hull-wwtf-om-2026 (2026-04-02) (PP-0167)'
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The standard Company Facts sidebar in its most complete form — including the contracting-party disclosure (OMI as the wholly owned subsidiary that signs O&M contracts), which RFPs routinely ask for — paired with the repeat-business and employer-of-choice culture paragraphs that run beside it.
 reuse-notes: The fact box fields (revenue, local office address, principal contact) are pursuit-specific and must be re-set every time; the local office line is the point of the box, so never carry a stale address. Confirm the OMI contracting-party language against the entity actually signing the new contract. The "50 Best Companies to Work for" recognition and the 98% repeat-business figure need a current-year check before external use.
@@ -36,7 +38,8 @@ reuse-notes: The fact box fields (revenue, local office address, principal conta
 
 # Corporate Fact Box and Employer Culture
 
-**Company facts.** Established: 1947. Type of firm: Corporation. Annual revenue: $12B. Lines of business: Water/Wastewater, Environmental, Transportation, Infrastructure, Advanced Facilities, Advanced R&D and Technical Facilities, Cybersecurity. Services: O&M, consulting, engineering, program management, and construction services, including design-build. Headquarters: 1999 Bryan St., Suite #3500, Dallas, TX 75201. Local office: 3600 NW 138th, Suite 203, Oklahoma City, OK 73134. Contracting party: Operations Management International, Inc. (OMI) — OMI is a wholly owned subsidiary of Jacobs and is the entity under which O&M services are delivered throughout the U.S. Principal contact person: Kevin Dahl, CMRT, CRL. (Fact box graphic ID `111_009385`.)
+**Company facts.** Established: 1947. Type of firm: Corporation. Annual revenue: $16B. Lines of business: Water/Wastewater, Environmental, Transportation, Infrastructure, Advanced Facilities, Advanced R&D and Technical Facilities, Cybersecurity. Services: O&M, consulting, engineering, program management, and construction services, including design-build. Headquarters: 1999 Bryan St., Suite #3500, Dallas, TX 75201. Local office: 3600 NW 138th, Suite 203, Oklahoma City, OK 73134. Contracting party: Operations Management International, Inc. (OMI) — OMI is a wholly owned subsidiary of Jacobs and is the entity under which O&M services are delivered throughout the U.S. Principal contact person: Kevin Dahl, CMRT, CRL. (Fact box graphic ID `111_009385`.)
+<!-- curation 2026-10-09 (newer-source rule): annual revenue $12B -> ~$16B (unlabelled current figure) from source hull-wwtf-om-2026 (2026-04-02), verbatim/hull-wwtf-om-2026/pages/p0014.md (PP-0167); rule in CLAUDE.md. Verify before external use. -->
 
 **More than 98% of our work is repeat business.** Our commitment to client value and partnership produces consistent cost advantages and growth, which allows us to attract and retain the industry's top talent. Our strict dedication to safety and uncompromising ethics and integrity creates a work environment that promotes employee progress and helps grow our business. We've been recognized as one of the "50 Best Companies to Work for" and are known for providing long-term career training and staff development. Jacobs' turnover rate is among the lowest in the industry.
 

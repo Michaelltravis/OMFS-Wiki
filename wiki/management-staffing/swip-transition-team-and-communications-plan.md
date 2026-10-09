@@ -29,6 +29,8 @@ doc-order: 89
 volatility: corporate-figure
 review-due: 2026-09-12
 freshness-flags: [divergent-figure, newer-source-same-claim]
+updated: 2026-10-09
+update-notes: '2026-10-09: O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0149)'
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A named transition-leadership pairing (executive Transition Manager plus administrative Transition Administrator) with credible, checkable track records, backed by a full named regional support roster (Exhibit 3-4) and a concrete Communications Plan (response-time commitments, meeting cadence, report contents, dashboard access) — a complete governance package for a transition-plan section.
 reuse-notes: Client name generalized to [CLIENT] per wiki sanitization rules. Named Jacobs personnel (Kelly Irving, Cheryl Reeves, and the full regional support roster) and the named reference projects (JXN Water / Jackson, MS; West Basin in El Segundo, CA; Baton Rouge, Baltimore, Waterbury, Lincoln, Southbridge, Pasadena) are kept verbatim — reconfirm each individual is still available and assigned before naming them in a new pursuit, and refresh the recent-transition list as newer transitions close. The 45-minute remote and 60-minute onsite response times and the Ignition v8.1 SCADA platform are pursuit commitments and must be re-set for each new contract.
@@ -78,7 +80,8 @@ Jacobs will implement a robust **Communications Plan** to keep [CLIENT] staff fu
 
 ## A Proven Transition Partner — With Fresh Momentum
 
-Jacobs brings more than 40 years of experience successfully transitioning hundreds of complex utility O&M projects, seamlessly welcoming over 10,000 new employees into our organization. We have led some of the largest utility transitions in the country in recent years — including Baton Rouge, LA; Jackson, MS; Baltimore, MD; Waterbury, CT; and most recently Lincoln, CA.
+Jacobs brings more than 45 years of experience successfully transitioning hundreds of complex utility O&M projects, seamlessly welcoming over 10,000 new employees into our organization. We have led some of the largest utility transitions in the country in recent years — including Baton Rouge, LA; Jackson, MS; Baltimore, MD; Waterbury, CT; and most recently Lincoln, CA.
+<!-- curation 2026-10-09 (newer-source rule): O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02), verbatim/hull-wwtf-om-2026/pages/p0010.md (PP-0149); rule in CLAUDE.md. Verify before external use. -->
 
 This year, we are building on that legacy with three newly awarded projects: West Basin, California; Southbridge, Massachusetts; and Pasadena, Texas, where we are currently transitioning operations from the previous provider. These ongoing efforts continue to sharpen our approach and reinforce the lessons learned and best practices we bring to every engagement.
 

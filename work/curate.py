@@ -16,6 +16,7 @@ path or a bare block stem (resolved against wiki/*/).
     python work/curate.py normalize-links [--dry-run]
     python work/curate.py feedback  --pursuit <slug> --section <id> --json <fact-check.json> [--by NAME]
     python work/curate.py log       [--last N]
+    python work/curate.py note-update <path> --note "<what changed, from which source>" [--pp PP-0001,PP-0002] [--today D] [--by NAME]
 
 Rules the subcommands enforce:
   - archive refuses (without --force) a block that is the superseded-by winner of a live
@@ -306,6 +307,21 @@ def normalize_links(dry_run: bool, by=DEFAULT_BY):
     return patches, events
 
 
+def act_note_update(path, note, by, today, pp_ids=(), all_fm=None, by_stem=None):
+    """Stamp a block that just had a figure brought to a newer source's value: `updated`,
+    `update-notes` (appended, newest first), proof-point-ids extended; logged."""
+    all_fm, by_stem = (all_fm, by_stem) if all_fm else load_all()
+    path = must_resolve(path, all_fm, by_stem)
+    fm = all_fm[path]
+    prev = str(fm.get("update-notes") or "").strip()
+    text = f"{today}: {note}" + (f" | {prev}" if prev else "")
+    patch = {"path": path, "set": {"updated": today, "update-notes": text}}
+    if pp_ids:
+        patch["append"] = {"proof-point-ids": list(pp_ids)}
+    events = [{"by": by, "action": "update-figure-applied", "path": path, "to": note, "from": "", "reason": "see update-notes"}]
+    return [patch], events
+
+
 # --- owner, feedback, log ---------------------------------------------------------------
 def set_owner(pp_id: str, owner: str, by=DEFAULT_BY):
     reg_path = ROOT / "proof-points" / "registry.json"
@@ -390,6 +406,8 @@ def main():
     p = sub.add_parser("feedback"); p.add_argument("--pursuit", required=True); p.add_argument("--section", required=True)
     p.add_argument("--json", dest="json_path", required=True); p.add_argument("--by", default=DEFAULT_BY)
     p = sub.add_parser("log"); p.add_argument("--last", type=int, default=30)
+    p = sub.add_parser("note-update"); p.add_argument("path"); p.add_argument("--note", required=True)
+    p.add_argument("--pp", default="", help="comma-separated PP ids to add to proof-point-ids"); common(p, today=True)
     args = ap.parse_args()
 
     if args.cmd == "archive":
@@ -412,6 +430,9 @@ def main():
         return record_feedback(args.pursuit, args.section, args.json_path, by=args.by)
     elif args.cmd == "log":
         return show_log(args.last)
+    elif args.cmd == "note-update":
+        patches, events = act_note_update(args.path, args.note, args.by, today_of(args),
+                                          pp_ids=[x.strip() for x in args.pp.split(",") if x.strip()])
     else:
         raise SystemExit(ap.format_usage())
     finish(patches, args, events)

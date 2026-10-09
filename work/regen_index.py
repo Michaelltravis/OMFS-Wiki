@@ -301,6 +301,28 @@ def main():
                      "then `python work/assign_block_sections.py`._")
         lines.append("")
 
+    # Recently updated: blocks whose figures were brought to a newer source's value (curation)
+    updated = [(str(fm.get("updated")), fm, rel) for cat in CATEGORY_DIRS for item in blocks_by_category[cat]
+               for fm, rel in [(item["fm"], item["rel"])] if fm.get("updated")]
+    lines.append("## Recently updated")
+    lines.append("")
+    if updated:
+        lines.append(
+            "_Blocks whose figures were updated to a newer source's value by the curation layer "
+            "(`updated` / `update-notes` in the frontmatter; provenance comment in the body; one line in "
+            "`work/curation/log.jsonl`). Still verify before external use._"
+        )
+        lines.append("")
+        lines.append("| updated | Title | update-notes |")
+        lines.append("|---|---|---|")
+        for d, fm, rel in sorted(updated, key=lambda x: (x[0], x[2]), reverse=True):
+            title = fm.get("title") or Path(rel).stem
+            lines.append(f"| {d[:10]} | [{title}]({rel}) | {cell(fm.get('update-notes'))} |")
+        lines.append("")
+    else:
+        lines.append("_No curation updates yet._")
+        lines.append("")
+
     # Archived blocks: out of the tables and facets, listed here for the record
     lines.append("## Archived")
     lines.append("")

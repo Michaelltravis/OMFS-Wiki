@@ -62,7 +62,7 @@ FLAG_ENUM = {"open-ended-date", "divergent-figure", "newer-source-same-claim", "
              "stale-contact", "feedback"}
 LINK_KEYS = ("supersedes", "superseded-by", "pairs-with")
 LINK_PATH_RE = re.compile(r"^wiki/[a-z-]+/[^/]+\.md$")
-DATE_KEYS = ("extracted", "last-verified", "review-due", "archived-date")
+DATE_KEYS = ("extracted", "last-verified", "review-due", "archived-date", "updated")
 BARE_ISO_LINE_RE = re.compile(r"^(" + "|".join(DATE_KEYS) + r"):\s*\d{4}-\d{2}-\d{2}\s*$")
 REPORT_ONLY_RULES = {"client-name-in-narrative", "review-overdue"}
 REVERSE_LINK = {"supersedes": "superseded-by", "superseded-by": "supersedes"}

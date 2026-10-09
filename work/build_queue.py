@@ -133,6 +133,14 @@ def main():
             "fragment": t.get("_fragment", ""),
         })
 
+    # update-figure items the Update phase already applied (block stamped `updated` today) are marked done
+    for it in items:
+        if it["action"] == "update-figure":
+            bp = ROOT / it["path"]
+            if bp.is_file():
+                head = bp.read_text(encoding="utf-8").split("\n---", 2)[0] if bp.read_text(encoding="utf-8").startswith("---") else ""
+                if re.search(rf"^updated:\s*{re.escape(args.today)}\s*$", head, re.M):
+                    it["done"] = True
     items.sort(key=lambda it: (ACTION_RANK.get(it["action"], 99), it["rank"], it["path"]))
     for i, it in enumerate(items, 1):
         it["id"] = f"CQ-{i:04d}"
@@ -159,7 +167,8 @@ def main():
         for it in by_owner[owner]:
             arrow = f" → `{it['target']}`" if it["target"] else ""
             val = f" = **{it['proposed_value']}**" if it["proposed_value"] else ""
-            L.append(f"- [ ] {it['id']} **{it['action']}** `{it['path']}`{arrow}{val} — {it['rationale']} "
+            tick = "x" if it.get("done") else " "
+            L.append(f"- [{tick}] {it['id']} **{it['action']}**{' (applied)' if it.get('done') else ''} `{it['path']}`{arrow}{val} — {it['rationale']} "
                      f"_(confidence {it['confidence']}; {it['volatility']}; flags: {', '.join(it['flags']) or 'none'})_")
             if it["judge"]:
                 L.append(f"    - {it['judge']}")

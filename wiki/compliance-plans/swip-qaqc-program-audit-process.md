@@ -29,6 +29,8 @@ doc-order: 35
 volatility: evergreen
 review-due: 2028-09-11
 freshness-flags: [divergent-figure, newer-source-same-claim]
+updated: 2026-10-09
+update-notes: '2026-10-09: O&M experience four decades -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0149)'
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Combines a named governance model (Local Team surrounded by a Compliance Team, Regional Manager, Regional Process Specialist, Regional Maintenance Specialist, and Audit Team) with a concrete 70+-criteria audit scope and a detailed 4-step audit lifecycle (Preparation, Onsite Assessment, Evaluation, Action Plan) that closes the loop with 30/60/90-day corrective-action tracking — demonstrates a real internal accountability mechanism, not just a QA/QC policy statement.
 reuse-notes: The governance model, 4-step audit lifecycle, and corrective-action tracking cadence are fully generic and reusable for any O&M pursuit. The specific regulatory citations (WDRs, Title 22 GRRP, South Coast Air Quality Management District (SCAQMD/AQMD), CalEPA-required ERP/IIPP) are Southern California-specific — swap for the target pursuit's applicable regulatory framework.
@@ -42,7 +44,8 @@ To ensure operational accuracy, data integrity, and ongoing quality control at a
 
 Jacobs will develop a comprehensive Quality Assurance Plan outlining the processes, metrics, and verification protocols used to monitor performance across the treatment facility, ancillary facilities, and associated diversion and lift stations. Results are shared with the client through formal channels as detailed in the Communications and Reporting subsection of the proposal.
 
-Jacobs' QA/QC procedures have been refined over four decades of O&M delivery across hundreds of facilities. Each project undergoes a standardized internal audit beginning six months after start-up. The frequency and depth of future audits are driven by performance scores in core operational and managerial areas.
+Jacobs' QA/QC procedures have been refined over more than 45 years of O&M delivery across hundreds of facilities. Each project undergoes a standardized internal audit beginning six months after start-up. The frequency and depth of future audits are driven by performance scores in core operational and managerial areas.
+<!-- curation 2026-10-09 (newer-source rule): O&M experience four decades -> 45+ years from source hull-wwtf-om-2026 (2026-04-02), verbatim/hull-wwtf-om-2026/pages/p0010.md (PP-0149); rule in CLAUDE.md. Verify before external use. -->
 
 At the facilities, Jacobs will deploy a dedicated QA/QC team drawn from its extensive regional and national technical support resources to conduct comprehensive audits, covering 70+ specific criteria. These include:
 

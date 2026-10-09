@@ -31,6 +31,8 @@ last-verified: <YYYY-MM-DD; moves only when a person checks the block (python wo
 volatility: <set by python work/freshness.py --write — people | reference | corporate-figure | safety-stat | regulatory | project-outcome | evergreen; do not hand-edit>
 review-due: <set by the same script — basis date (last-verified if verified-by, else the source proposal date in work/curation/sources.json) + the class interval in work/curation/policy.json>
 freshness-flags: [<set by the same script — machine-detected currency problems; [] when clean>]
+updated: <optional — date a figure was brought to a newer source's value (python work/curate.py note-update); listed under "Recently updated" in the index>
+update-notes: <optional — "YYYY-MM-DD: what changed, from which source (PP ids)"; newest first>
 context: <Generalized pursuit context — size, scope, region, client type>
 quality: <why this content was selected>
 reuse-notes: <what must be tailored per pursuit — never "do not restate the figure">
