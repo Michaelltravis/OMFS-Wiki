@@ -45579,8 +45579,7 @@
     "volatility": "safety-stat",
     "review-due": "2027-04-02",
     "freshness-flags": [
-      "divergent-figure",
-      "newer-year-available"
+      "divergent-figure"
     ],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Combines a named safety-culture program with hard performance metrics (TRIR, EMR, a 20-year NPDES compliance rate) and an honest, non-defensive disclosure of the only two minor violations in five years \u2014 evaluators respond far better to a small, fully-detailed violations table framed as \"administrative, promptly resolved, no service impact\" than to silence on the topic.",

@@ -34,7 +34,7 @@
    "open-ended-date": 56,
    "stale-contact": 12,
    "newer-source-same-claim": 16,
-   "newer-year-available": 3,
+   "newer-year-available": 2,
    "person-duplicate": 6
   },
   "flagged_blocks": 112,
@@ -819,14 +819,9 @@
      "flag": "divergent-figure",
      "detail": "PP-0232, PP-2063, PP-2064",
      "evidence": "proof-points/registry.md"
-    },
-    {
-     "flag": "newer-year-available",
-     "detail": "TRIR: block ends 2025; bank has 2026 in wiki/compliance-plans/swip-safety-plan-performance-record.md",
-     "evidence": "wiki/compliance-plans/swip-safety-plan-performance-record.md"
     }
    ],
-   "severity": 2,
+   "severity": 3,
    "owner": "Michael Travis",
    "current": {
     "volatility": "safety-stat",

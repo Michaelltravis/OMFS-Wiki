@@ -164,6 +164,9 @@ def load_json(path: Path, default):
 
 
 def strip_reuse_guidance(body: str) -> str:
+    """Body without the editorial '## Reuse guidance' section and without HTML comments
+    (curation provenance notes live in comments and must not feed the detectors)."""
+    body = re.sub(r"<!--.*?-->", "", body, flags=re.DOTALL)
     return re.split(r"\n##\s+Reuse guidance\b", body, maxsplit=1, flags=re.IGNORECASE)[0]
 
 
