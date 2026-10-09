@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:03.compliance-systems-and-laboratory-progra
 section-order: 11
 section-path: Executive Summary › COMPLIANCE SYSTEMS AND LABORATORY PROGRAM
 doc-order: 13
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: [divergent-figure, newer-source-same-claim]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Answers the compliance question with named software and a named accreditation regime instead of assurances, and pairs it with a hexagonal six-pillar compliance graphic built around a single hard statistic — a 99.98% environmental compliance record — which is the most efficient compliance proof device in the library.
 reuse-notes: The 99.98% compliance figure is a firm-wide statistic refreshed periodically, not a pursuit value — confirm it is current before it appears in text. Substitute the state accreditation program (ELAP is California) and the client's actual WIMS/LIMS platforms.

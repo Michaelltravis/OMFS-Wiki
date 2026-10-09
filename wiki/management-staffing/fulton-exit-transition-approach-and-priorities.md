@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.jc-solutions-approach-to-the-exit-transition-p
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › JC Solutions’ Approach to the Exit Transition Process
 section-order: 14
 doc-order: 122
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Opens an exit-transition section by naming the four priorities and then conceding, unprompted, that large-scale exits are rare for the firm — the concession is what makes the Coos Bay reference land as evidence instead of boilerplate."
 reuse-notes: "Substitute the closest real handback reference for Coos Bay, and keep the candid 'not common for us' framing only where a genuine reference follows it."

@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:05
 section-order: 1
 section-path: 'Section 2: Qualifications › 2.1 FIRM HISTORY'
 doc-order: 17
+volatility: corporate-figure
+review-due: 2026-09-12
+freshness-flags: [divergent-figure, newer-source-same-claim, open-ended-date]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Concise, well-quantified firm-history narrative combining founding date, revenue scale, O&M portfolio breadth, and hard proof points (client retention, environmental compliance, ENR ranking) — strong opener for a Qualifications or Firm Overview section.
 reuse-notes: Swap the named award-winning facility examples (Twin Oaks Valley WTP, Pure Water Soquel, Pima County Agua Nueva) for facilities most relevant to the pursuing region if a closer analog exists. Replace [CLIENT] and [REGION] with pursuit specifics. Revenue/backlog figures and stat-bar metrics should be checked against the current fiscal year before reuse, as they are refreshed periodically corporate-wide.

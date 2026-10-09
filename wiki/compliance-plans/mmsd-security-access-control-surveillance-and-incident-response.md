@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:27.4-2-2-security-management-structure
 section-order: 8
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.2. Security Management Structure
 doc-order: 190
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Extends security past the plant fence to gates, pump stations, conveyance assets, and remote monitoring sites, and offers a genuinely differentiating idea — integrating SCADA alarms into the security platform for redundant, dual-layered notification alongside the client's own operations center. Names current threat categories including drone incursion.
 reuse-notes: Replace the surveillance platform name and the list of monitored sites with the client's actual systems and facilities; confirm the client's control-room or dispatch terminology before using it. The SCADA-to-security-platform integration is an offer, not a commitment — coordinate with the OT approach section so the two do not conflict.

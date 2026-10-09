@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.key-elements-of-the-exit-transition-plan
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Key Elements of the Exit Transition Plan
 section-order: 15
 doc-order: 123
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Two of the six named elements of an exit (handback) transition plan, written against specific contract articles — the asset-condition-versus-baseline comparison and the staffing/knowledge-transfer commitments (exit packages, training needs assessments, interviews, and a waiver of non-compete restrictions) that reassure an owner it will not lose its workforce or its asset record at contract end."
 reuse-notes: "Replace the contract article citations (Articles 53.2 and 6.6(B) here) with the handback and employment articles of the pursuit's own contract or RFP exhibit, and confirm with legal that the non-compete waiver and exit-package commitments are offered on this pursuit before repeating them. Pair with the documentation/data handover, regulatory-compliance, operational-continuity, and risk-management elements from the same passage."

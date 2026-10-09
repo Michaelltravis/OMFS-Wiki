@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.compensation-package
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Compensation Package
 section-order: 4
 doc-order: 112
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: The two commitments transitioning employees actually weigh — an offer to every interested and qualified incumbent, and a pay scale improved against a regional salary analysis — followed by the satisfaction-survey evidence that the promise has held elsewhere. Short, specific, and evidence-backed rather than reassuring.
 reuse-notes: Run and cite a current regional salary analysis before repeating the "improved pay rate scale" claim; the claim is only as good as the analysis behind it. Re-create the employee satisfaction exhibit with current survey data and confirm the survey result still supports "uniformly more satisfied." Replace the JV name if not bidding as a JV, and note that this passage names Jacobs for the survey evidence because the survey is Jacobs' — keep that attribution.

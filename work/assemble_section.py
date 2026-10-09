@@ -4,7 +4,7 @@
 Usage:
     python work/assemble_section.py <slug> "<section query or section-id>"
         [--mode verbatim|blocks] [--to-page N] [--pages A-B] [--raw] [--anchors]
-        [--no-recovered] [--include-fallback] [--docx] [--out PATH] [--pick N] [--list]
+        [--no-recovered] [--include-fallback] [--include-archived] [--docx] [--out PATH] [--pick N] [--list]
 
 <slug> may be a full source slug (hull-wwtf-om-2026) or a unique prefix (hull, mmsd,
 ocwut, fulton, santamonica).
@@ -15,7 +15,10 @@ kept as [graphic: id]), recovered-text tails moved to the end of their page, hea
 re-levelled, and client / location / facility names generalized per
 verbatim/<slug>/sanitize.json (--raw disables).
 blocks mode: the wiki blocks whose section-id is in the section's subtree, in
-section-order, with a coverage trailer.
+section-order, with a coverage trailer. Each block carries a `freshness:` line
+(volatility · review-due · OVERDUE · flags, from `python work/freshness.py --write`);
+status: fallback and status: archived blocks are hidden unless --include-fallback /
+--include-archived.
 
 Exit codes: 0 ok · 2 ambiguous query (candidates printed; rerun with --pick N) · 3 not found.
 Default output: work/pulls/<slug>/<section-slug>[.blocks].md (+ .docx with --docx).
@@ -117,6 +120,29 @@ def clean_line(s: str) -> str:
     return re.sub(r"[ \t]+", " ", s).rstrip()
 
 
+def freshness_line(b: dict) -> str:
+    """One line of currency metadata for a block, from its own frontmatter (set by
+    work/freshness.py --write). OVERDUE is computed against today."""
+    vol = b.get("volatility")
+    if not vol:
+        return "`freshness:` not computed — run `python work/freshness.py --write`"
+    due = str(b.get("review-due") or "")[:10]
+    parts = [f"`freshness:` {vol}", f"due {due or '—'}"]
+    try:
+        d = dt.date.fromisoformat(due)
+        if d < dt.date.today():
+            parts.append(f"**OVERDUE {(dt.date.today() - d).days} d**")
+    except ValueError:
+        pass
+    flags = b.get("freshness-flags") or []
+    if isinstance(flags, str):
+        flags = [flags]
+    parts.append("flags: " + (", ".join(str(f) for f in flags) if flags else "none"))
+    if b.get("verified-by"):
+        parts.append(f"verified {str(b.get('last-verified'))[:10]} by {b.get('verified-by')}")
+    return " · ".join(parts)
+
+
 def main():
     try:
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -132,6 +158,7 @@ def main():
     ap.add_argument("--anchors", action="store_true", help="keep <!-- pNNNN ¶n --> anchors")
     ap.add_argument("--no-recovered", action="store_true", help="drop recovered-text tails")
     ap.add_argument("--include-fallback", action="store_true", help="blocks mode: include status: fallback blocks")
+    ap.add_argument("--include-archived", action="store_true", help="blocks mode: include status: archived blocks")
     ap.add_argument("--docx", action="store_true")
     ap.add_argument("--out", default=None)
     ap.add_argument("--pick", type=int, default=None)
@@ -362,12 +389,15 @@ def main():
                     continue
             if b.get("status") == "fallback" and not args.include_fallback:
                 continue
+            if b.get("status") == "archived" and not args.include_archived:
+                continue
             chosen.append(b)
         chosen.sort(key=lambda b: (int(b.get("doc-order") or 0) or 10**6, order_index.get(b.get("section-id"), 10**6), int(b.get("section-order") or 0), b["path"]))
         lines.append(f"# {title} — blocks")
         lines.append("")
         lines.append(f"_{len(chosen)} blocks from `{slug}` in section order ({span_txt}); "
-                     f"fallback blocks {'included' if args.include_fallback else 'hidden'} · generated {dt.date.today().isoformat()}_")
+                     f"fallback blocks {'included' if args.include_fallback else 'hidden'} · "
+                     f"archived blocks {'included' if args.include_archived else 'hidden'} · generated {dt.date.today().isoformat()}_")
         lines.append("")
         union = set()
         for n, b in enumerate(chosen, 1):
@@ -388,6 +418,7 @@ def main():
             lines.append(f"`{b['path']}` · {b.get('block-type')} · {b.get('status')} · {ref} · section-order {b.get('section-order', '—')} · "
                          f"{b.get('section-path') or sec.get('title', b.get('section-id'))}"
                          + (f" · superseded by `{b.get('superseded-by')}`" if b.get("superseded-by") else ""))
+            lines.append(freshness_line(b))
             lines.append("")
             lines.append("\n".join(bl).strip("\n"))
             lines.append("")

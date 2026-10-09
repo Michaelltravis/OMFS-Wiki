@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:13
 section-path: Section 7 - Appendix B - Project Descriptions
 section-order: 3
 doc-order: 73
+volatility: people
+review-due: 2026-09-29
+freshness-flags: []
 context: "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP"
 quality: "A named owner quote that does three things at once: states the client's own priority (protection of the receiving water), validates a competitive selection process, and names the Jacobs manager by name — the strongest form of client endorsement for a competitively procured O&M contract."
 reuse-notes: "Past-performance content is verbatim; the speaker, title, organization and the manager named in the quote stay as written. ATTRIBUTION CONFLICT: the same quotation appears in the OCWUT source attributed to Mayor Neil O'Leary with slightly different wording ('our City', 'very pleased') — see wiki/past-performance/project-waterbury-ct-odor-control-and-results.md. Confirm the correct speaker with the account team before either version is used externally. Permission status for this quote must be confirmed in testimonials/inventory.md before reuse."

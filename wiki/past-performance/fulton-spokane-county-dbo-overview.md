@@ -26,6 +26,9 @@ section-id: fulton-county-2025:15.jacobs-collection-system-pump-station-experien
 section-order: 10
 section-path: Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE
 doc-order: 154
+volatility: reference
+review-due: 2025-10-15
+freshness-flags: [open-ended-date, stale-contact]
 context: "Verbatim county DBO reference for membrane treatment, nutrient removal, biosolids, and energy recovery."
 quality: "Captures project origin, complete facility scope, nutrient performance, reference contact, term, and awards."
 reuse-notes: "Past-performance content is verbatim and exempt from client-name generalization. Retain client, location, contact, dates, and outcomes; strip only commercial fee or rate figures if present in a future source. Confirm contact and award currency before external reuse."

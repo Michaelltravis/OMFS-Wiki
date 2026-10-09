@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.plant-process-optimization-leveraging-di
 section-order: 12
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY › Plant Process Optimization – Leveraging Digital Tools and Data-Driven Operations'
 doc-order: 40
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: 'The digital-tools half of the process-optimization story: a calibrated digital process model selected from a named toolkit (BioWin, Pro2D, Replica), a worked example of what the model answers (lowering the DO setpoint traded against anoxic-zone nitrate removal), and a named digital-twin case at the Tillman AWPF where Replica optimized flow balance between an existing WWTP and a new AWPF and helped size membranes.'
 reuse-notes: The modeling-toolkit description, the single-source-of-truth digital-twin framing, and the Tillman AWPF case example are corporate capability content reusable across advanced-treatment pursuits; confirm the Tillman reference is still current and approved for external use. The DO-setpoint example is specific to MBR and activated-sludge trains - substitute an equivalent trade-off question for other process trains. Pairs with swip-process-optimization-digital-modeling.md, the process-control methodology this model supports.

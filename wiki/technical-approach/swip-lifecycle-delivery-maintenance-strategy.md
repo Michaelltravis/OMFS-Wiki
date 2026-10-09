@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-progr
 section-order: 26
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM'
 doc-order: 54
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Carries the hard, auditable maintenance service levels evaluators look for — corrective work orders issued within 24 hours of detection and closed within 120 days — plus a named PMO/Level 3 PdM program, an in-house delivery commitment, and the CMMS input/output workflow (graphic OMFS_AM_102).
 reuse-notes: The 24-hour issue and 120-day closeout commitments are contractual service levels — confirm they match what the pursuit team is willing to commit to before reuse. The CMMS workflow description and the in-house-delivery commitment are firm-wide and reusable as-is; name the client's actual CMMS platform.

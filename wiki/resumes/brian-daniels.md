@@ -26,6 +26,9 @@ section-id: ocwut-16-26:21
 section-order: 1
 section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › Key Team Member Resumes › Daniels, Brian
 doc-order: 150
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Proposed program Maintenance Manager leading work planning, PM/PdM execution, and asset reliability across a multi-facility portfolio. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; ODEQ regulatory regime.
 quality: "The house Maintenance Manager resume — 30 years of hands-on wastewater maintenance leadership, a licensed industrial electrician credential that few O&M maintenance managers carry, and the full predictive-maintenance toolset (thermography, vibration analysis, ultrasound). Repeated NFPA 70E arc flash training delivery across four projects makes it double as a safety-culture proof point."
 reuse-notes: "VERBATIM resume — real name and license numbers retained. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm Brian Daniels's current role, availability, and years of experience (30 total, 7 with Jacobs at time of writing); (2) verify the Arkansas Class 2 Wastewater, Arkansas B Industrial Wastewater, State of Arkansas Electrician Industrial Maintenance (I-1221), and Arkansas Class A CDL credentials are current, and note that no Oklahoma license is listed — an Oklahoma pursuit should state the reciprocity plan explicitly; (3) the 2024 NFPA 70E Trainer Training entry is date-stamped and should be refreshed; (4) the Fayetteville, Bixby, Duncan, JXN Water, and San Marcos entries name real clients — clear with the account teams before external use."

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:27.4-2-1-security-integration-prevention-and-rapid-resp
 section-order: 7
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.2. Site Physical Security › 4.2.1. Security, Integration, Prevention, and Rapid Response
 doc-order: 189
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The strongest available security credential claim — Jacobs experts helped write the federal security guidance for water and wastewater facilities with EPA, the Water Research Foundation, and DHS — followed immediately by a concrete staffing structure (full-time manager plus a coordinator at each facility) so the claim does not float free of delivery.
 reuse-notes: Verify the "more than 100 years of combined experience" figure and the federal-guidance authorship claim with the Global Security and Resilience team before reuse. Replace the RFP exhibit reference and the client counterpart titles; size the coordinator positions to the number of staffed facilities in the new scope.

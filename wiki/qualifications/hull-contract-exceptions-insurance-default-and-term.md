@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:19
 section-path: Section 7 - Appendix H - Contract Exceptions
 section-order: 2
 doc-order: 92
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP"
 quality: "Second half of the exceptions table, covering the four positions that recur in municipal O&M contracts - substantially similar insurance aligned to the corporate program, default limited to failures within the contractor's control, reciprocal default when the client withholds approval of maintenance or capital spending, and renewal by mutual agreement rather than unilateral option."
 reuse-notes: "Re-verify each article number against the new pursuit's draft agreement, and the term structure (initial term and number of one-year extensions) and the maintenance and repair approval threshold against that client's RFP. Confirm the insurance sentence with the corporate insurance program before submitting, and check whether the RFP's property coverage requirement was in fact excluded from the price."

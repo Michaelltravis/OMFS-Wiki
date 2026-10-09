@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:14.scada-control-system-deployment
 section-order: 7
 section-path: 'Section 4: Suggested Modificationsto the Scope of Work › ADDITIONAL ITEMS FOR CONSIDERATION › SCADA Control System Deployment'
 doc-order: 98
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A short pair of named-technology recommendations (Ignition virtualized redundancy, hyperconverged infrastructure) presented honestly as unpriced and needing further scoping — a useful pattern for suggesting high-value modifications without overcommitting on cost, plus the reusable framing sentence that opens an "Additional Items for Consideration" subsection.
 reuse-notes: This was explicitly presented as an idea requiring further information from the client before it could be scoped and priced — preserve that framing if reused. Confirm the named SCADA platform and infrastructure approaches are still the current recommendation, as products and versions change.

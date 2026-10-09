@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.cip-integration-and-regional-ot-support
 section-order: 38
 section-path: Section 1 | Technical Approach › Operations Plan › OCWUT-MANAGED › CIP Integration and Regional OT Support
 doc-order: 73
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The "2 a.m. PLC fault" opening is the best regional-bench proof device in this proposal — it converts an abstract corporate-scale claim into a scenario an operations director recognizes, then backs it with platform-specific experience and named OEM partnerships. The CIP paragraph answers capital-project integration in one sentence chain.
 reuse-notes: Replace the control platforms (Emerson ControlWave, Rockwell Allen-Bradley) with those actually installed at the pursuit's facilities, and confirm the OEM partnership list is current before publishing. The "one of North America's largest SCADA integration practices for water and wastewater" claim is a corporate scale statement that should be verified against the current qualifications language. Contract citation (Schedule 16) is pursuit-specific.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:10.value-added-extras-included-as-part-of-our-bas
 section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE
 section-order: 2
 doc-order: 26
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "The exhibit structure that made the value-added story credible: each committed offering priced at what it would cost as a stand-alone engineering contract, paired with what the team will do and what the client gets. The dollar column is the proof the prose blocks cannot carry."
 reuse-notes: "Re-price every investment line for the new pursuit and confirm each offering is genuinely inside the base fee before publishing the value column. The three-column pattern (investment value / what we will do / expected savings and benefits) plus a cross-reference column is the reusable asset; the line items are pursuit-specific. Pairs with the prose renderings in fulton-value-added-innovation-program.md, fulton-regional-training-maintenance-intelligence.md, and fulton-energy-management-strategy.md."

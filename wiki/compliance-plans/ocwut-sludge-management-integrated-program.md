@@ -26,6 +26,9 @@ section-id: ocwut-16-26:27.why-sludge-management-matters-to-ocwut
 section-order: 1
 section-path: Section 5 | Required Plans Submitted with the Proposal › Sludge Management Plan › Why Sludge Management Matters to OCWUT
 doc-order: 174
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: The opening of a required Sludge Management Plan that reframes solids from a hauling chore into a compliance-and-community risk the incumbent has been managing reactively — then states the integration promise (process control, dewatering, storage, odor, hauling, land application, reporting as one system) and ties it to the specific contract schedules that carry financial consequence
 reuse-notes: "Replace the schedule numbers (Schedule 14, Schedule 21), the state regulator, the approved-plan count, and the site/acreage figures with the pursuit's own. The \"when it runs well, it's invisible\" opening and the \"we manage them together\" close are the reusable moves. Keep the linkage sentence naming the companion plans and swap in the companion plan titles the RFP actually requires. Approved-for-external-use: pending — sourced from a live pursuit."

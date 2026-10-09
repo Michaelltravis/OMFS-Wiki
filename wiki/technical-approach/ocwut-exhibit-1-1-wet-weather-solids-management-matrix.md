@@ -26,6 +26,9 @@ section-id: ocwut-16-26:03.jacobs-understands-ocwut-s-facilities-and-its-goals-f
 section-order: 5
 section-path: Section 1 | Technical Approach › JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT
 doc-order: 20
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Two of the hardest rows in a multi-plant O&M bid handled without hedging — coordinated wet weather drawdown across facilities 25 to 50 minutes apart, and a biosolids program in mid-transition from land application to landfill. The septic-basin-return insight (settled sludge in wet weather basins generating H2S when basins are put back in service) is the kind of operator-level cause-and-effect that separates a real understanding section from a restated scope of work.
 reuse-notes: "Reusable: the linkage of wet weather storage strategy to odor consequences, the drawdown-clock framing (act within the schedule's window, not the deduction window), and the biosolids disposal-path recommendation stated as a near-term decision with named benefits. Pursuit-specific: the 7-day and 21-day drawdown terms, the ~170 sites and ~13,500 acres, the 2029 landfill target, the 3-day pad storage limit, and the COM-4/COM-5 weightings — all from this contract's schedules. Keep this block separate from the Integrated Solids Management Plan and Operational Integration Plan blocks; the three are distinct deliverables."

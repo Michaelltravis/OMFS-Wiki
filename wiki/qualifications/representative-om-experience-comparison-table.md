@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:06.representative-operations-experience-wit
 section-order: 5
 section-path: 'Section 2: Qualifications › 2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE › Representative Operations Experience with Advanced Water Treatment and Potable Reuse Facilities'
 doc-order: 23
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: [divergent-figure, newer-source-same-claim]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A crisp side-by-side technology/process comparison table that maps the pursuit facility's process train directly against Jacobs' current O&M project references — an efficient way to prove like-for-like relevant experience at a glance, with a "Total Project Experience in Jacobs" row that aggregates firm-wide scale.
 reuse-notes: Replace the "[CLIENT] FACILITY" row with the new pursuit's facility name, MGD, and process checkmarks taken from the RFP and scope documents. The four comparison project rows (Clovis, Soquel Creek, Turlock, West Basin) are real, verbatim Jacobs O&M references — keep them if still current and relevant, or swap in closer regional analogs; do not alter their figures. Recompute the "Total Project Experience in Jacobs" row if reference rows are swapped, and verify the aggregate counts are current.

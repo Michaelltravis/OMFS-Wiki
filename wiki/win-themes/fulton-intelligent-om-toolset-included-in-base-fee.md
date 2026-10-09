@@ -26,6 +26,9 @@ section-id: fulton-county-2025:10.maintenance-planner-scheduler-powered-by-palan
 section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Maintenance Planner/Scheduler Powered by Palantir
 section-order: 13
 doc-order: 37
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for three MBR wastewater facilities and associated pump stations under Georgia EPD oversight.
 quality: The value-proposition sentences that close each digital-tool description — they convert a feature into a quantified giveaway by naming what consulting clients pay for the same toolset and then including it at no additional cost.
 reuse-notes: Confirm the current consulting value of each module and that the pursuit's fee build actually absorbs the license, setup, and support cost before repeating the "no additional cost" commitment. The maintenance-metric improvement target reads "approximately 10—" in the source text layer (the unit symbol is dropped by the source PDF font); confirm the intended figure against the render before restating it. Pair with the planner/scheduler and AI Assistant blocks, which supply the capability narrative these sentences close.

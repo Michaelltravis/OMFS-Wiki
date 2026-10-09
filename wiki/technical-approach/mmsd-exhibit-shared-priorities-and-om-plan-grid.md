@@ -17,7 +17,7 @@ proof-point-ids: []
 testimonial-ids: []
 story-ids: []
 status: fallback
-superseded-by: mmsd-exhibit-priorities-and-om-plan-elements.md
+superseded-by: wiki/technical-approach/mmsd-exhibit-priorities-and-om-plan-elements.md
 house-favorite: false
 sanitized: true
 sanitization-loss: low
@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:21.energy-and-chemical-optimization
 section-order: 4
 section-path: IV. Approach Summary › Energy and Chemical Optimization
 doc-order: 78
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "A one-page tile grid that maps every element of the O&M plan to a single-sentence client benefit. The most portable summary device in the section — it previews the whole technical approach on one page."
 reuse-notes: "Keep the two-column device (element name + one benefit sentence). Re-title tiles to match the pursuit's scope elements; drop tiles that are not in scope (tunnel/wet weather, biosolids product) and add pursuit-specific ones. The CMMS tile names the client's chosen platform — replace it."

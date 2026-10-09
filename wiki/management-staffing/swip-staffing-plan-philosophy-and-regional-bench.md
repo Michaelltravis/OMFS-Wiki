@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:10
 section-order: 1
 section-path: 'Section 3: Key Personnel › 3.1 STAFFING PLAN'
 doc-order: 67
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: [divergent-figure]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A four-point staffing value proposition (certified onsite team, dedicated regional add-on hires, 100+-person SME bench, innovation culture) with a quantified bench size and a named nearby backup facility — strong, concrete staffing differentiation that goes explicitly beyond RFP minimums.
 reuse-notes: The certifications (AWTO, AWT3™/AWT5™, California WW Grade V), technologies named (MBR, RO, UV-AOP), and the 100+ SME bench figure must be matched to the pursuit's actual facility type, state certification scheme, and current bench size. Named individuals are kept per wiki policy.

@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.process-control-strategy
 section-order: 3
 section-path: Section 1 | Technical Approach › Operations Plan › PROCESS CONTROL STRATEGY
 doc-order: 38
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: [open-ended-date]
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A two-column "what we found / what we'll do" matrix grouped by facility — the most transferable device in the technical approach. It converts site-visit observations into commitments on one page and lets an evaluator score understanding and approach simultaneously. Graphic 113_009385.
 reuse-notes: The device is the reusable asset; the rows are pursuit-specific and must be rebuilt from the new client's site visits, data review, and compliance record. Keep the strict pairing (one finding, one action) and keep the actions specific enough to be auditable. Facility row labels appear as vertical banners in the source graphic; rebuild them as merged row headers. Pairs with the site-visit diagnosis narrative that precedes it.

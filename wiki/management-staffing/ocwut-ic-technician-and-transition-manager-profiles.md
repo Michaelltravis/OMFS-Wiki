@@ -26,6 +26,9 @@ section-id: ocwut-16-26:08.management-team-and-additional-key-personnel
 section-order: 22
 section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL
 doc-order: 129
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The transition-manager bio is the strongest single transition credential in the library — three named large-system transitions including one under federal oversight — and it is offered as an "additional key personnel" role beyond what the RFP required.
 reuse-notes: Names, years, and prior transitions are individual-specific. Offering a named Transition Manager and a named I&C Technician as additional key personnel beyond the RFP's required list is the reusable strategic move; state plainly that these are additions.

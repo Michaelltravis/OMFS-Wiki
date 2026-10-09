@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.transition-team
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Transition Team
 section-order: 7
 doc-order: 115
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Names the disciplines a fully staffed transition team covers and commits the same experts to stay reachable after the transition period — the answer to 'what happens when your transition team leaves?'"
 reuse-notes: "Swap the discipline list for the ones the target pursuit actually needs (odor control and sludge management are pursuit-specific here) and re-verify the named transition manager and the exhibit reference."

@@ -8,8 +8,8 @@ story-ids: []
 status: preferred
 house-favorite: false
 proof-point-ids: []
-extracted: '2026-09-05'
-last-verified: '2026-09-05'
+extracted: 2026-09-05
+last-verified: 2026-09-05
 block-type: recipe
 pairs-with: wiki/win-themes/project-narrative-utility-partnership-cost-savings.md
 source-pages: [15, 76, 77, 78, 79, 80]
@@ -25,6 +25,9 @@ section-id: hull-wwtf-om-2026:03.contract-termination
 section-order: 11
 section-path: Section 3 - Firm Qualifications and Experience › LITIGATION OR CONTRACT TERMINATION › CONTRACT TERMINATION
 doc-order: 22
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: [open-ended-date]
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: A consistent, evaluator-friendly layout used across five different past-performance write-ups in the same proposal — proven, repeatable structure that balances a relationship narrative with hard facility data and third-party validation

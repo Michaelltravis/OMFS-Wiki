@@ -26,6 +26,9 @@ section-id: ocwut-16-26:28.biosolids-transition-land-application-to-landfill-dis
 section-order: 8
 section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Staffing, Resource, and Cost Impacts › Biosolids Transition—Land Application to Landfill Disposal
 doc-order: 189
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral municipal water utility trust capital-program handover.
 quality: Operational-integration framework for sequencing a disposal change before a future thermal-drying asset enters service.
 reuse-notes: Use only as the operational-handover interface; pair with, but do not replace, a separate solids-management plan.

@@ -26,6 +26,9 @@ section-id: ocwut-16-26:06.warranty-management
 section-order: 13
 section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Warranty Management
 doc-order: 99
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A rare, specific treatment of warranty management as a maintenance-program element — warranty register in the CMMS, warranty flags on corrective work orders, warranty-preserving PMs treated as non-negotiable, and the contractual consequence of a voided warranty turned into a risk argument.
 reuse-notes: Replace the named CIP equipment and the two facility/date references with the target contract's warranty-bearing assets; re-cite the service-agreement clauses (here §3.03(d) monthly warranty list and §3.03(e) replace-at-no-cost) against the target agreement; the CMMS platform name (NexGen) should be swapped for whatever platform the client uses.

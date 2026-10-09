@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.laboratory-and-qa-qc-integration
 section-order: 20
 section-path: Section 1 | Technical Approach › Operations Plan › REGULATORY COMPLIANCE, LABORATORY AND SAMPLING PLANS › Laboratory and QA/QC Integration
 doc-order: 55
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Separates compliance sampling from process control sampling, then uses site observations to show why the second one is the real gap — and answers it with a named list of process parameters and a documented, double-verified Sample Tracking Tool.
 reuse-notes: The "operational floor, not the ceiling" line about the client's own reporting forms is broadly reusable. The Sample Tracking Tool description (locations, frequencies, parameters, individual accountability, same-day independent second check) is a Jacobs standard and transfers as written. Site observations must be replaced with the target system's due-diligence findings.

@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.phase-1-establishing-a-shared-baseline-for-process-co
 section-order: 33
 section-path: Section 1 | Technical Approach › Operations Plan › SCADA/OPERATIONAL TECHNOLOGY (OT)/ CYBERSECURITY › Process Control System Phased Performance Improvement Plan › Phase 1 – Establishing a Shared Baseline for Process Control Performance
 doc-order: 68
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A one-graphic answer to the question every utility asks about an O&M operator and its SCADA — who touches what. Naming the owner-retained items first, before claiming any scope, is what makes the transparency claim land.
 reuse-notes: The line items are this client's systems; rebuild the asset list from the pursuit's actual architecture and confirm each assignment with the client before publishing. The three-column device (owner-managed / shared / contractor-managed) is the reusable pattern. Source is a Venn-style graphic (asset ID 119_009385); the row assignments below are reconstructed from the exhibit's text layer, so verify against the render before reuse.

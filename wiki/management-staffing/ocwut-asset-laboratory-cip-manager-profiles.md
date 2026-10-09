@@ -26,6 +26,9 @@ section-id: ocwut-16-26:08.management-team-and-additional-key-personnel
 section-order: 21
 section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL
 doc-order: 128
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The asset-manager bio is the strongest incumbency-adjacent proof in this section — the proposed asset manager is already embedded in the client's own EAM implementation — and it carries hard portfolio numbers (10,000 assets added, 85 users trained) rather than adjectives.
 reuse-notes: "approved-for-external-use: pending — sourced from a live pursuit. Sanitizing the client name out of the NexGen EAM sentence removes most of its proof value, because the whole point is that this person is already working inside the client's system; read the verbatim page before reusing that sentence. Names, years, and prior projects are individual-specific."

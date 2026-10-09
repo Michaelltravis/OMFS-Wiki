@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-progr
 section-order: 28
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM'
 doc-order: 56
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A compact, concrete five-technology predictive-maintenance toolkit in which each technology carries the specific failure mode it catches — the kind of specificity that separates a real PdM program from a claim of one, and a direct answer to "how will you move us off reactive maintenance."
 reuse-notes: 'SYNTHESIS, NOT SOURCE PROSE: this body restructures the source rather than reproducing its sentences (measured verbatim overlap ~1%). Read the passage at the cited verbatim-ref before reusing, and prefer the source wording. Entirely facility-agnostic and reusable verbatim in any O&M pursuit that asks about predictive or reliability-centered maintenance. Add or drop technologies to match what the pursuit team will actually field on site (e.g., motor current signature analysis, partial discharge testing) and confirm which are delivered in-house versus by regional specialists.'

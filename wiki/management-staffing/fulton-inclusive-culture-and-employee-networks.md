@@ -27,6 +27,9 @@ section-id: fulton-county-2025:12.building-employee-culture-true-belonging-with-
 section-order: 6
 section-path: 'Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › STAFFING PLAN › Building Employee Culture: True Belonging with Diversity, Equality, and Inclusion'
 doc-order: 49
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim culture and employee-network narrative that connects belonging to retention, mentoring, and career development."
 reuse-notes: "Confirm current program names, sponsors, and external affiliations before reuse. Keep the JC Solutions/Jacobs/CERM delivery context only where the JV is proposed."

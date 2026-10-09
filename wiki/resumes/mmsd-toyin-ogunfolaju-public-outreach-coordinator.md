@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju
 section-order: 6
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Public Outreach Coordinator – Toyin Ogunfolaju
 doc-order: 60
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Staffs community outreach and workforce development as a named corporate-level role rather than a promise — a North America Director of Social Value with major-infrastructure programs (MTA, PHL, PANYNJ) behind her.
 reuse-notes: The transit and aviation program list is outside water; keep it when the argument is social value and workforce pipeline, and pair with water-side cards. The benefit paragraph must be retargeted to the specific community priorities the client has published.

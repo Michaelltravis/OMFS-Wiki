@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.training
 section-order: 25
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Training
 doc-order: 68
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: County wastewater O&M pursuit supported by JC Solutions, a Jacobs/CERM joint venture.
 quality: Near-verbatim account of the training, sampling, evaluation, escalation, and document-access tools proposed for sustained compliance.
 reuse-notes: Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV. Rebuild the training curriculum, sampling tools, and permit-evaluation scope around the current facilities and permits.

@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.operational-technology-ot-scada-intelligent-o-m
 section-order: 16
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › OPERATIONAL TECHNOLOGY (OT)/SCADA/ INTELLIGENT O&M
 doc-order: 49
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Clear three-phase maturity model with paired objectives/benefits framing that scales to any OT/SCADA modernization pitch, anchored by the "automation performs only as well as the instruments, controls, and data that support it" argument
 reuse-notes: Swap phase timelines and specific platform names (the client's existing SCADA/analytics tools) per pursuit; pair with the safety/cybersecurity block for a combined resiliency narrative.

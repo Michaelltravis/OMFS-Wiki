@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:24.systemwide-integration-for-optimized-operations
 section-order: 11
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Systemwide Integration for Optimized Operations
 doc-order: 111
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Walks the liquid train — preliminary/primary, secondary, tertiary/disinfection — with a named control strategy and a named benefit at each stage, then closes on a dashboard-and-KPI commitment tied to the client's priorities. Includes the rare and reassuring statement that automated disinfection control still requires human operator review and approval.
 reuse-notes: Replace the two-plant load-balancing content if the pursuit has a single facility; tailor the future-permit driver (E. coli limits, new UV system) to the pursuit's own permit horizon; confirm which advanced control measures are offered as commitments versus as collaborative evaluations before publishing.

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:18.public-outreach-coordinator-toyin-ogunfolaju
 section-order: 7
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Public Outreach Coordinator – Toyin Ogunfolaju
 doc-order: 61
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The most heavily quantified maintenance card in the bank — 85% planned maintenance completion against an 80% KPI, 25% fewer emergency repairs, four consecutive years of zero lost-time incidents — carried by someone who came up through the operating floor and stayed at one utility for 30+ years.
 reuse-notes: The Wilmington maintenance numbers are the proof value; register them and cite them rather than rounding. The "owner's lens" framing and the 85% PM / 15% CM commitment must be checked against the target client's own maintenance KPI before it is restated as a goal.

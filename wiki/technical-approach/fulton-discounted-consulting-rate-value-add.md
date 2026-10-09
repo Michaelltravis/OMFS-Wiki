@@ -26,6 +26,9 @@ section-id: fulton-county-2025:10.discounted-rate-for-engineering-services-provi
 section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › DISCOUNTED RATE FOR ENGINEERING SERVICES PROVIDED UNDER THE NORTH FULTON O&M CONTRACT
 section-order: 9
 doc-order: 33
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: A compact, self-contained value-add offer that converts the operator's parent-firm engineering bench into a quantified client saving, with a worked example that makes the discount concrete rather than abstract. Pairs the offer with an existing innovation mechanism (the Annual Innovation Workshop) so the discount has an obvious spending channel.
 reuse-notes: Confirm with the pricing lead that a discounted consulting rate structure is actually being offered on the new pursuit, and that the sole-source scope limitation and escalation terms match the commercial proposal before reusing this language. Replace the exhibit reference and the worked savings example with the pursuit's own figures; the illustrative project value, percentage, and savings shown here are specific to this pursuit's rate sheet. Where the client has no existing engineering MSA, the "compared to current rates" framing needs a different baseline.

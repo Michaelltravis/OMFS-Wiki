@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:14.direct-potable-reuse-operations
 section-order: 5
 section-path: 'Section 4: Suggested Modificationsto the Scope of Work › MECHANICAL AND I&C SUPPORT AT OTHER CITY FACILITIES › Direct Potable Reuse Operations'
 doc-order: 96
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A clear, auditable operator-staffing logic table that ties California operator certification grades (T5/T3, AWT5/AWT3) to specific DPR responsibilities and states, line by line, the scope assumption or exclusion behind each staffing decision — useful both as a technical exhibit and as a template for scoping optional add-on staffing.
 reuse-notes: T5/T3 and AWT5/AWT3 are California State Water Resources Control Board operator certification grades for water treatment and advanced water treatment; keep them verbatim for California pursuits and substitute the applicable state's grade nomenclature elsewhere. Facility names are generalized to [FACILITY] (in RFP scope) and [SECOND FACILITY] (the interconnected plant outside scope). The $662,997 year-5 price is this pursuit's Schedule B figure — reprice for any new pursuit.

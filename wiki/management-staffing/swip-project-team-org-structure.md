@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:10
 section-order: 2
 section-path: 'Section 3: Key Personnel › 3.1 STAFFING PLAN'
 doc-order: 68
+volatility: people
+review-due: 2026-03-11
+freshness-flags: [divergent-figure]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A clean three-tier staffing structure (named onsite team / shared local resources / named offsite regional-and-national support benches across three functional teams) with quantified summary stats (FTE counts, committed support hours) — a strong, reusable org-chart pattern with real, credentialed named individuals across every tier.
 reuse-notes: All names, titles, and credentials below are real Jacobs personnel as proposed for this pursuit and are kept verbatim per wiki policy (only the pursuing client's name is genericized). Replace with the actual proposed roster for a new pursuit; the tiered structure and stat-callout format are what's reusable.

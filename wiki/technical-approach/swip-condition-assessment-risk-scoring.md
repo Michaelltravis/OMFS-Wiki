@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.iso-55001-aligned-asset-management-progr
 section-order: 27
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › ISO 55001-ALIGNED ASSET MANAGEMENT PROGRAM'
 doc-order: 55
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California sustainable water infrastructure O&M, 2025; SWRCB-DDW
 quality: Element 7 (Risk Management) of the 10-Box asset management model, carrying the firm-scale condition-assessment proof point — 1 million water and wastewater plant assets assessed — alongside the risk-scoring-to-capital-investment logic evaluators look for.
 reuse-notes: The condition-assessment volume (1 million plant assets) is a firm-wide proof point and travels to any pursuit; confirm the as-of date before external use. The risk-scoring methodology and risk-profile language are facility-agnostic; name the client's actual criticality/risk scoring framework and capital planning cycle, and confirm the condition-assessment video and QR code are still live before including the callout.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.equipment-performance-testing-plan
 section-order: 43
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › JCEC › Equipment Performance Testing Plan
 doc-order: 86
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for a multi-facility MBR portfolio."
 quality: "Near-verbatim testing-plan structure covering managed assets, performance standards, execution, and continuous improvement."
 reuse-notes: "Tailor the contract standards, completion schedule, asset inventory, classifications, test methods, and owner-contractor roles. Retain JC Solutions as the Jacobs/CERM JV."

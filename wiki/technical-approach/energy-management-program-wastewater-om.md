@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.energy-management-a-core-operating-discipline
 section-order: 19
 section-path: 'Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › ENERGY MANAGEMENT: A CORE OPERATING DISCIPLINE'
 doc-order: 52
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Concrete, defensible baseline-driven energy methodology tied to a stated kWh/MG performance standard and a gainshare structure, with quantified proof points from other Jacobs facilities
 reuse-notes: Replace the 2,500 kWh/MG performance standard and the 50/50 gainshare split with the specific pursuit's terms; replace reference-facility examples with permissioned, pursuit-appropriate proof points. The Arizona facility's 20 percent energy reduction and approximately $300,000 annual savings, and the Mid-Atlantic facility's greater-than-20-percent chemical reduction, are outcome figures that are kept — confirm they are still accurate and permissioned before reuse.

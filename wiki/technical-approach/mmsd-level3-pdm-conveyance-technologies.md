@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:32.4-3-additional-pdm-technologies-included-in-our-base
 section-order: 5
 section-path: IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 4. JACOBS’ RECOMMENDED LEVEL 3 PdM PLAN › 4.3. Additional PdM Technologies Included in Our Base Fee
 doc-order: 228
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and a regional conveyance system, 2028 challenger bid against an incumbent operator; WDNR. Two of the four conveyance technologies were offered inside the base fee as value-added innovations."
 quality: "Conveyance-side PdM that is specific and honest — a two-station proof of concept for the Deragger, acoustic screening instead of blanket cleaning, and a candid 'cost and deployment considerations are still being evaluated' on the newest tools. Two technologies are given away inside the base fee, which is the no-cost value-add move in its cleanest form."
 reuse-notes: "Confirm the number of proof-of-concept pump stations and which technologies the pursuit's base fee will actually absorb. The SL-RAT 'two operators, no confined-space entry' operating facts carry over; the Dragonfly/ArgonLite maturity caveat should be re-checked against current deployment experience."

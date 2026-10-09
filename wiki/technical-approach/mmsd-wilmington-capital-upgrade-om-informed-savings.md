@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:26.3-9-1-integrated-approach-to-cip-planning
 section-order: 18
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration › 3.9.1. Integrated Approach to CIP Planning
 doc-order: 181
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Callout used inside a Midwest US regional sewerage district O&M pursuit to prove that operator input on capital design pays; the referenced project is the City of Wilmington, Delaware secondary treatment upgrade."
 quality: "A compact before/after story with two hard outcomes — 40% shorter construction schedule and 20% lower cost — driven by an operator's suggestion during a 90% design review, plus a named contingency plan that shows compliance risk was managed, not ignored."
 reuse-notes: "The Wilmington project is a real reference and stays verbatim; re-anchor the comparison to whatever aeration or secondary upgrade the target client has in its CIP, and confirm the 40% and 20% figures with the Wilmington team before external use."

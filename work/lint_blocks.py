@@ -2,15 +2,26 @@
 """Validate every content block in wiki/<category>/*.md against schema v2.
 
 Usage:
-    python work/lint_blocks.py [--json out.json]
+    python work/lint_blocks.py [--json out.json] [--today YYYY-MM-DD] [--strict]
 
-Always exits 0 (this is a report, not a gate). Prints a violation-count table
+Exits 0 by default (this is a report, not a gate); --strict exits 1 when any
+structural rule fires (everything except the report-only rules
+client-name-in-narrative and review-overdue). Prints a violation-count table
 by rule, then a per-file list of violations.
+
+Lifecycle rules (added with the curation layer, see CLAUDE.md "Keeping the bank
+current"): supersedes / superseded-by / pairs-with links must be
+wiki/<category>/<file>.md paths that resolve and are reciprocal; status must
+agree with the links (preferred blocks carry no superseded-by, fallback blocks
+name their winner, archived blocks carry archive-reason + archived-date);
+dates are bare ISO; volatility / freshness-flags use the enums; review-overdue
+is report-only and needs --today (defaults to the real date).
 """
 import sys
 import re
 import json
 import argparse
+import datetime as _dt
 from pathlib import Path
 
 try:
@@ -43,7 +54,18 @@ REQUIRED_KEYS = [
 ]
 
 BLOCK_TYPE_ENUM = {"prose", "recipe", "table", "exhibit", "roster"}
-STATUS_ENUM = {"preferred", "fallback"}
+STATUS_ENUM = {"preferred", "fallback", "archived"}
+VOLATILITY_ENUM = {"people", "reference", "corporate-figure", "safety-stat", "regulatory",
+                   "project-outcome", "evergreen"}
+FLAG_ENUM = {"open-ended-date", "divergent-figure", "newer-source-same-claim", "unresolved-conflict",
+             "person-duplicate", "dead-link", "link-nonreciprocal", "link-format", "status-link-mismatch",
+             "stale-contact", "feedback"}
+LINK_KEYS = ("supersedes", "superseded-by", "pairs-with")
+LINK_PATH_RE = re.compile(r"^wiki/[a-z-]+/[^/]+\.md$")
+DATE_KEYS = ("extracted", "last-verified", "review-due", "archived-date")
+BARE_ISO_LINE_RE = re.compile(r"^(" + "|".join(DATE_KEYS) + r"):\s*\d{4}-\d{2}-\d{2}\s*$")
+REPORT_ONLY_RULES = {"client-name-in-narrative", "review-overdue"}
+REVERSE_LINK = {"supersedes": "superseded-by", "superseded-by": "supersedes"}
 
 NARRATIVE_CATEGORIES = {
     "technical-approach", "management-staffing", "win-themes",
@@ -147,10 +169,35 @@ def as_list(v):
     return [v]
 
 
+def link_targets(v):
+    """supersedes/superseded-by values: a list, a path, a bare filename, or (legacy)
+    a comma-separated string. Returns the individual target strings."""
+    out = []
+    for item in as_list(v):
+        for part in str(item).split(","):
+            part = part.strip().replace("\\", "/")
+            if part:
+                out.append(part)
+    return out
+
+
+def link_stem(v):
+    return Path(str(v)).stem
+
+
+def iso_str(v):
+    if isinstance(v, (_dt.date, _dt.datetime)):
+        return v.strftime("%Y-%m-%d")
+    return str(v) if v is not None else ""
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--json", dest="json_out", default=None)
+    ap.add_argument("--today", default=None, help="ISO date for the review-overdue rule (default: today)")
+    ap.add_argument("--strict", action="store_true", help="exit 1 if any non-report-only rule fires")
     args = ap.parse_args()
+    today = _dt.date.fromisoformat(args.today) if args.today else _dt.date.today()
 
     if not HAVE_YAML:
         print("WARNING: pyyaml not available — frontmatter cannot be parsed; "
@@ -166,6 +213,28 @@ def main():
     def add(rule, path, detail):
         violations.append({"rule": rule, "path": path, "detail": detail})
 
+    # Pass 0: every block's frontmatter, keyed by repo-relative path and by stem, so
+    # the link rules can look at the other side of a supersedes pair.
+    all_fm = {}
+    by_stem = {}
+    for cat in CATEGORY_DIRS:
+        cat_dir = ROOT / "wiki" / cat
+        if not cat_dir.is_dir():
+            continue
+        for path in sorted(cat_dir.glob("*.md")):
+            rel = str(path.relative_to(ROOT)).replace("\\", "/")
+            fm0, _b0, err0 = load_frontmatter(path.read_text(encoding="utf-8"))
+            if not err0:
+                all_fm[rel] = fm0
+                by_stem.setdefault(path.stem, []).append(rel)
+
+    def resolve_link(target):
+        t = str(target).replace("\\", "/")
+        if t in all_fm:
+            return t
+        hits = by_stem.get(link_stem(t), [])
+        return hits[0] if len(hits) == 1 else None
+
     for cat in CATEGORY_DIRS:
         cat_dir = ROOT / "wiki" / cat
         if not cat_dir.is_dir():
@@ -178,6 +247,7 @@ def main():
             if err:
                 add("parse-error", rel, err)
                 continue
+            raw_fm_lines = text.split("\n")[1:]
 
             # 1. required keys present and non-empty
             # proof-point-ids is the one required key whose valid range
@@ -295,6 +365,68 @@ def main():
                 if so is not None and (not isinstance(so, int) or isinstance(so, bool) or so < 1):
                     add(f"{key}-invalid", rel, repr(so))
 
+            # 14. lifecycle: links are wiki/<cat>/<file>.md paths that resolve and are reciprocal
+            for key in LINK_KEYS:
+                if key not in fm or fm.get(key) in (None, "", []):
+                    continue
+                for target in link_targets(fm.get(key)):
+                    if not LINK_PATH_RE.match(target):
+                        add("supersedes-link-format", rel, f"{key}: {target}")
+                    resolved = resolve_link(target)
+                    if resolved is None:
+                        add("supersedes-link-missing", rel, f"{key}: {target}")
+                        continue
+                    if key in REVERSE_LINK:
+                        other = all_fm.get(resolved, {})
+                        back = {link_stem(t) for t in link_targets(other.get(REVERSE_LINK[key]))}
+                        if path.stem not in back:
+                            add("supersedes-nonreciprocal", rel,
+                                f"{key}: {resolved} has no {REVERSE_LINK[key]} pointing back")
+
+            # 15. lifecycle: status agrees with the links and the archive fields
+            has_winner = bool(link_targets(fm.get("superseded-by")))
+            if status == "preferred" and has_winner:
+                add("status-link-mismatch", rel, "preferred block carries superseded-by")
+            if status == "fallback" and not has_winner:
+                add("status-link-mismatch", rel, "fallback block names no superseded-by winner")
+            if status == "fallback" and fm.get("house-favorite") is True:
+                add("fallback-house-favorite", rel, "fallback block is house-favorite")
+            if status == "archived":
+                missing_arch = [k for k in ("archive-reason", "archived-date") if not fm.get(k)]
+                if missing_arch:
+                    add("archived-missing-fields", rel, ", ".join(missing_arch))
+            if status != "archived":
+                for target in link_targets(fm.get("superseded-by")):
+                    resolved = resolve_link(target)
+                    if resolved and all_fm.get(resolved, {}).get("status") == "archived":
+                        add("status-link-mismatch", rel, f"live block's winner is archived: {resolved}")
+
+            # 16. lifecycle: dates are bare ISO (not quoted), checked on the raw line
+            for line in raw_fm_lines:
+                if line.strip() == "---":
+                    break
+                m = re.match(r"^(" + "|".join(DATE_KEYS) + r"):(.*)$", line)
+                if m and m.group(2).strip() and not BARE_ISO_LINE_RE.match(line):
+                    add("date-not-bare-iso", rel, line.strip())
+
+            # 17. lifecycle: enums for the derived fields
+            vol = fm.get("volatility")
+            if vol is not None and vol not in VOLATILITY_ENUM:
+                add("volatility-invalid", rel, f"'{vol}' not in {sorted(VOLATILITY_ENUM)}")
+            bad_flags = [f for f in as_list(fm.get("freshness-flags")) if f not in FLAG_ENUM]
+            if bad_flags:
+                add("freshness-flag-invalid", rel, ", ".join(map(str, bad_flags)))
+
+            # 18. lifecycle (report-only): review-due in the past
+            due = fm.get("review-due")
+            if due and status != "archived":
+                try:
+                    due_d = _dt.date.fromisoformat(iso_str(due))
+                    if due_d < today:
+                        add("review-overdue", rel, f"review-due {due_d.isoformat()} ({(today - due_d).days} days ago)")
+                except ValueError:
+                    add("date-not-bare-iso", rel, f"review-due: {due}")
+
     # ---- report ----
     by_rule = {}
     by_file = {}
@@ -328,6 +460,10 @@ def main():
         )
         print(f"\nWrote {args.json_out}")
 
+    structural = [v for v in violations if v["rule"] not in REPORT_ONLY_RULES]
+    if args.strict and structural:
+        print(f"\n--strict: {len(structural)} structural violation(s) -> exit 1")
+        sys.exit(1)
     sys.exit(0)
 
 

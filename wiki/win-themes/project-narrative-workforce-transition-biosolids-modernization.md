@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:13.3-3-mgd
 section-order: 9
 section-path: Section 7 - Appendix B - Project Descriptions › 3.3 MGD
 doc-order: 79
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: [divergent-figure]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: One of the few reference narratives that leads with people and workforce outcomes rather than facility or cost outcomes — valuable wherever labor continuity and staff-transition risk is an evaluation concern, and paired with a concrete Class A biosolids modernization path.
 reuse-notes: "Pair with any management-staffing transition-plan content; strongest when the incumbent workforce is unionized or long-tenured and the client has expressed transition-risk concerns. Only use the workforce-transition framing if there is a real transition story to tell, and replace the capacity, flow, and collection-system figures with the cited project's own data. The reference client and contact are stated verbatim in past-performance/project-south-huron-mi.md, which also documents two source-document errors on the original page (a placeholder annual fee and a testimonial copied from another project)."

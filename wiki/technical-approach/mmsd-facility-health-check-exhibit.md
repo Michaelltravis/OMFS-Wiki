@@ -17,7 +17,7 @@ proof-point-ids: [PP-2133, PP-2134, PP-2135]
 testimonial-ids: []
 story-ids: []
 status: preferred
-supersedes: wiki/technical-approach/mmsd-system-health-check-challenges-and-value-add-table.md
+supersedes: [wiki/technical-approach/mmsd-system-health-check-challenges-and-value-add-table.md, wiki/technical-approach/mmsd-system-health-check-conveyance-collection-and-solids-table.md]
 house-favorite: false
 sanitized: true
 sanitization-loss: high
@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:22
 section-order: 4
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM
 doc-order: 86
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The single most persuasive artifact in a challenger technical approach — a color-coded system health check that names, area by area, what the incumbent has left unresolved and what the challenger will do about it, with quantified savings ranges on the chemical and aeration lines. The evaluator reads the whole operating philosophy from one page.
 reuse-notes: This is a findings table; it cannot be reused as content, only as a format. Rebuild it from the pursuit's own due-diligence findings, keep the two-row structure (Challenges/Improvements then Jacobs Solutions/Value Add), keep the color-coded severity legend, and only state a savings percentage that the process team will stand behind. Read the verbatim page — the sanitized facility names remove much of the specificity.

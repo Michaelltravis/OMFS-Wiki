@@ -26,6 +26,9 @@ section-id: fulton-county-2025:11.qualified-and-licensed-personnel
 section-order: 2
 section-path: Section 2 | Operations & Maintenance Plan › 2.7 | Approach to Providing Qualified and Licensed Personnel › QUALIFIED AND LICENSED PERSONNEL
 doc-order: 42
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Complete source roster of the proposed management, strategic-supervisor, technical-support, laboratory, SCADA, transition, and compliance roles with stated licenses and certifications.
 reuse-notes: Personnel assignments and every credential require current confirmation before use. Keep individual names and licenses only in an approved pursuit-specific roster.

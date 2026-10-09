@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.safety-plan-and-management
 section-order: 44
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SAFETY PLAN AND MANAGEMENT
 doc-order: 87
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim safety-management framework connecting behavior-based observation, work controls, training, audits, and leading/lagging indicators.
 reuse-notes: Confirm all safety-program names, historical rates, training inventory, and site observations before use.

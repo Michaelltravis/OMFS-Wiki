@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framew
 section-order: 9
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD
 doc-order: 96
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Turns a governance promise into a sequenced, deliverable-bearing plan — each step has a stated purpose and a named artifact (charter, governance handbook, program implementation plan, baseline report and risk register). Evaluators can score it.
 reuse-notes: Keep the goal / purpose / deliverable three-row structure. The due-diligence hours cited in Step 1 must be the pursuit's real figure. Map the seven steps onto the actual pre-term window so the schedule section and this exhibit agree.

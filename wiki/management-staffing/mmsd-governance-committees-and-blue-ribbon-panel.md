@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:11.1-3-mmsd-committees
 section-order: 3
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 1. OUR HR AND STAFFING COMMITMENT TO MMSD › 1.3. MMSD Committees
 doc-order: 23
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'Converts a contract governance requirement into a partnership offer: three standing joint committees stood up at the chartering session, each staffed by named Jacobs leads alongside client staff, plus an unrequested Blue-Ribbon Panel and annual Innovation Workshop that put global sector expertise at the client''s disposal.'
 reuse-notes: Re-map the committees to the new contract's governance exhibit and its required review cycles. Swap the named committee leads. The Blue-Ribbon Panel is offered, not required — confirm with the capture team that it is affordable and wanted before including it, and tailor the focus areas to the client's actual challenges.

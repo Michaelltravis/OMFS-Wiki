@@ -26,6 +26,9 @@ section-id: ocwut-16-26:31
 section-order: 1
 section-path: Section 6 | Disclosures
 doc-order: 209
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US water utility trust, four WWTPs >110 MGD + biosolids, 2026 challenger bid; ODEQ
 quality: The full self-disclosure device — a one-paragraph framing statement that scopes the disclosure (2 years, permit-holder test, 300+ facility denominator, not-at-fault list available on request) followed by the complete enforcement log with state, date, document type, notes and status for every entry. The table's own "Resolved / Completed / Submitted" status column is what converts a required disclosure into a compliance-leadership proof.
 reuse-notes: Regenerate the log from the current corporate enforcement tracker for the RFP's own lookback window and permit-holder test; the RFP section number ("RFP Section 4.2.6 and the issued Questions and Answers") and the facility-count denominator must be restated for the new pursuit. Confirm the status of every open entry before submission — a stale "Resolved" is a credibility loss. Keep the closing offer of the not-at-fault list; it is the transparency move.

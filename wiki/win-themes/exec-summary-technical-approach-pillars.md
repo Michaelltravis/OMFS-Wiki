@@ -26,6 +26,9 @@ section-id: ocwut-16-26:02.technical-approach-facility-specific-results-driven
 section-order: 4
 section-path: 'Executive Summary of Technical Approach › TECHNICAL APPROACH: FACILITY-SPECIFIC, RESULTS-DRIVEN'
 doc-order: 9
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "The technical spine of the executive summary compressed into five labeled pillars, each carrying a concrete mechanism rather than a claim — a four-layer odor strategy with a quantified analogue project, named predictive-maintenance techniques, design-phase review percentages, and self-reported payment requests. The NexGen EAM point is a genuine differentiator: the proposing firm is already the client's implementation consultant."
 reuse-notes: "approved-for-external-use: pending - sourced from a live pursuit. Keep the Waterbury, CT odor result stated exactly as written, including its \"55%+\" form and its attribution to source identification and odor control upgrades — do not restate it as a rounded figure or attach a different time window. The NexGen EAM statement is only usable where the same consulting relationship actually exists. Design-phase review percentages and the schedule number for payment requests are pursuit-specific."

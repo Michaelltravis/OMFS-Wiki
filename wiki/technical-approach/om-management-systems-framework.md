@@ -27,6 +27,9 @@ section-id: hull-wwtf-om-2026:05.our-o-m-approach-built-on-proven-transparent-sy
 section-order: 2
 section-path: Section 5 - Project Understanding and Technical Approach › OUR O&M APPROACH BUILT ON PROVEN, TRANSPARENT SYSTEMS
 doc-order: 35
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Clean, reusable organizational framework naming the 10 management systems a contract operator maintains; works as a standard structure for any O&M technical approach section, and functions as the "how we run O&M day to day" complement to the goals crosswalk that precedes it.
 reuse-notes: The wheel graphic (asset ID 132_HHull_0091KO_2 — see graphics catalog) is client-branded and would need re-creation; the 10 categories and one-line descriptions below are generic and reusable as-is, with facility-specific detail added under each.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.odor-and-noise-control-program
 section-order: 35
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ODOR AND NOISE MITIGATION › Odor and Noise Control Program
 doc-order: 78
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: JC Solutions (a Jacobs/CERM JV) complaint-response and source-evaluation approach for a Southeast county multi-facility wastewater system.
 quality: Near-verbatim response protocol coupled to a cited Jacobs odor-mitigation case study.
 reuse-notes: Confirm complaint protocol, air-quality permit obligations, source inventory, and the applicability of the Waterbury case study before reuse.

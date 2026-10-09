@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.operational-technology-cybersecurity-approach
 section-order: 37
 section-path: Section 1 | Technical Approach › Operations Plan › OCWUT-MANAGED › Operational Technology Cybersecurity Approach
 doc-order: 72
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A strategy/result/benefit ladder that keeps automation claims concrete — every strategy names the control mechanism, the operational result, and the benefit an evaluator can score. "Operators will stop chasing valves and pump speeds" is the memorable line.
 reuse-notes: Fully portable to any activated sludge or disinfection automation discussion; substitute the analytical parameters and control elements that exist at the pursuit's facilities. Rebuild the graphic (asset ID 177_009385) for the new client. Present it directly beside the Phase 3 narrative block.

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:02
 section-order: 6
 section-path: I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary
 doc-order: 6
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Converts "we do good maintenance" into auditable mechanics — ISO 55001 alignment governed through client-facing committees, the client's own CMMS as system of record, work orders closed with field evidence and supervisor verification, and shared dashboards tracking PM compliance, CM backlog and aging, cost and labor. Adds a named Director of Maintenance & Asset Management as an Above-and-Beyond position and states that reliability enhancement plans for both facilities are already written.
 reuse-notes: Substitute the pursuit's CMMS (here NEXGEN) and confirm the ISO 55001 alignment claim is "aligned," not "certified." The claim that reliability enhancement plans are already developed is only usable where the team has actually produced them for that pursuit; it is the strongest sentence in the block and the easiest to overclaim.

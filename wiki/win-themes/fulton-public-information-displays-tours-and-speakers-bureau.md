@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.public-information-display
 section-order: 60
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Public Information Display
 doc-order: 103
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim public-information, tour, and speakers-bureau passage."
 reuse-notes: "Tailor public-display content, tour schedule, guides, event calendar, and approval requirements to the current client."

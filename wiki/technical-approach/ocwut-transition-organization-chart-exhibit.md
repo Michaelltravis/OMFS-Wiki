@@ -20,12 +20,15 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: low
-extracted: '2026-09-07'
-last-verified: '2026-09-07'
+extracted: 2026-09-07
+last-verified: 2026-09-07
 section-id: ocwut-16-26:29.transition-leadership-and-coordination
 section-order: 6
 section-path: Section 5 | Required Plans Submitted with the Proposal › Draft Transition Plan › Transition Leadership and Coordination
 doc-order: 199
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US water-utility-trust wastewater O&M transition supported by named O&M, engineering, and corporate specialists.
 quality: Near-verbatim roster that makes the transition leadership chain and specialist bench explicit.
 reuse-notes: Replace the named team with the approved pursuit roster and verify all licenses and experience labels. Use the visual organization-chart format where the proposal permits an exhibit.

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:25.2-6-1-integrated-performance-management-framework
 section-order: 26
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.1. Integrated Performance Management Framework
 doc-order: 153
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: Names the source systems (SCADA, CMMS, Hach WIMS, NEXGEN, financial systems) and the single-dashboard commitment that both parties see the same data — the strongest partner-transparency device available for a monitoring section. Cites Intelligent O&M deployments at Jackson, MS and Wilmington, DE as proof the platform is already running, not promised.
 reuse-notes: Swap the source-system list for the client's actual platforms; naming a system the client does not own reads as a copy-paste tell. The "jointly establish KPIs for shared-cost items" commitment only applies where the contract has a shared-cost or gainshare mechanism — delete it otherwise. Jackson, MS and Wilmington, DE are real reference deployments and stay verbatim; confirm both are still current references before submitting.

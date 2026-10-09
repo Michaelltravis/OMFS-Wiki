@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.phase-3-process-automation-integration
 section-order: 35
 section-path: 'Section 1 | Technical Approach › Operations Plan › OCWUT-MANAGED › Phase 3: Process Automation Integration'
 doc-order: 70
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Converts a specific site-visit observation — every facility running over-aerated — into a concrete Phase 3 aeration control scope with named benefits (kWh/MG, blower runtime, DO stability), and explicitly ties the answer back to the RFP's energy management expectations.
 reuse-notes: The over-aeration observation is pursuit evidence; replace with the observation actually made, or frame as an assessment commitment. The four Phase 3 outcomes (permit compliance, asset reliability, resource efficiency, reduced operator task saturation) and the demand-responsive aeration scope are portable to any activated sludge plant. Pairs with the Exhibit 1-24 automation strategy table.

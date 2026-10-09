@@ -27,6 +27,9 @@ section-id: santamonica-swip-om-2025:08.annual-innovation-workshop
 section-order: 31
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › COMMUNICATIONS AND REPORTING › Annual Innovation Workshop'
 doc-order: 59
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: [divergent-figure, newer-source-same-claim]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A named, differentiated no-cost annual program with a real sample agenda, two attributed client testimonials (names, titles, phone numbers), and a quantified outcome (energy savings opportunities valued at more than $1 million for the Wilmington WWTP) — strong, credible differentiator content that also answers "what do you do that an O&M-only contractor cannot."
 reuse-notes: The workshop concept and the three "what sets ours apart" points are firm-wide and reusable as-is. The two testimonials and the Wilmington WWTP savings figure belong to other (non-pursuit) reference clients and are kept verbatim — confirm continued permission for the named contacts and their phone numbers before external use, and register the $1 million figure in the proof-point registry. The sample agenda is from the 2024 Wilmington, DE workshop and should be rebuilt around the target client's own technical priorities.

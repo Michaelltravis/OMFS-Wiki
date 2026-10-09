@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.chemical-cleaning-to-maintain-membrane-perform
 section-order: 19
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Chemical Cleaning to Maintain Membrane Performance
 doc-order: 62
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim, facility-specific membrane-chemistry and filterability analysis with commercial allowance language removed."
 reuse-notes: "These chemical-demand estimates and wasting configurations are pursuit-specific. Confirm process data, membrane condition, chemical dosage, and operating strategy before reuse."

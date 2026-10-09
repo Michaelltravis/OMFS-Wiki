@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.jc-solutions-ams-elements-built-on-the-10-box-
 section-order: 39
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ASSET MANAGEMENT AND MAINTENANCE › JC Solutions’ AMS Elements Built on the 10-Box Model
 doc-order: 82
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim lifecycle, PdM/PM, condition-assessment, KPI, and continual-improvement content."
 reuse-notes: "Tailor task-closeout targets, capital-planning horizons, dashboards, and named staff. Retain JC Solutions as the Jacobs/CERM JV and Jacobs attribution for technical support."

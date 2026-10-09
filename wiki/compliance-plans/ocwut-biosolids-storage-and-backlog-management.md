@@ -26,6 +26,9 @@ section-id: ocwut-16-26:30.biosolids-storage-and-backlog-management
 section-order: 6
 section-path: Section 5 | Required Plans Submitted with the Proposal › Solids Management Plan › Biosolids Storage and Backlog Management
 doc-order: 206
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US water utility trust challenger wastewater O&M pursuit, 2026; four-facility system exceeding 110 MGD under ODEQ.
 quality: Turns the contractual storage limit into an earlier internal trigger, named owner action, transparent authorization step, and contingency-disposal response.
 reuse-notes: Replace Schedule 14, Schedule 21, the Service Approval Form, General Manager role, and all thresholds with the pursuit's contract terms. The reusable move is the internal trigger below the contractual limit. Read the cited verbatim pages for the full passage.

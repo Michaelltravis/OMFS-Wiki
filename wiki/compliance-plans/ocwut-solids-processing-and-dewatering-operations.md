@@ -26,6 +26,9 @@ section-id: ocwut-16-26:30.biosolids-processing-and-dewatering-operations
 section-order: 5
 section-path: Section 5 | Required Plans Submitted with the Proposal › Solids Management Plan › Biosolids Processing and Dewatering Operations
 doc-order: 205
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US water utility trust challenger wastewater O&M pursuit, 2026; four-facility system exceeding 110 MGD under ODEQ.
 quality: A complete operating logic for coordinating production, transfer, dewatering, storage, hauling, and land application before one site becomes a bottleneck.
 reuse-notes: Replace facility count, permitted-site inventory, acreage, and Class B requirements with the pursuit's verified operating conditions. Preserve the daily-log, supervisory-review, and leading-indicator structure. Read the cited verbatim page for the complete source passage.

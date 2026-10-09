@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:18.capital-project-coordinator-liie-hill-pe
 section-order: 17
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.I. Key Staff Resumes › Capital Project Coordinator – Liie Hill, PE
 doc-order: 71
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The local-knowledge capital coordinator — every project on the list is the client's own or in-state, including the client's H2S and odor mitigation study, plus a named local internship and subcontractor relationship.
 reuse-notes: This card only works where the candidate genuinely has prior design work for the client; that is the entire claim. Refresh the named internship program and subcontractor per pursuit.

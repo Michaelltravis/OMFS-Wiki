@@ -27,6 +27,9 @@ section-id: fulton-county-2025:12.annual-innovation-workshop
 section-order: 54
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › ANNUAL INNOVATION WORKSHOP
 doc-order: 97
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "JC Solutions (a Jacobs/CERM JV) annual innovation forum for a Southeast county multi-facility wastewater system."
 quality: "Near-verbatim annual forum that links prior-year results to forward-looking goals and treatment practice."
 reuse-notes: "Tailor participants, agenda, and priorities. The $250,000 value-added investment callout is source-backed value framing, not a fee or rate; retain only after proposal-team review. Retain JC Solutions as the Jacobs/CERM JV and attribute utility expertise to Jacobs."

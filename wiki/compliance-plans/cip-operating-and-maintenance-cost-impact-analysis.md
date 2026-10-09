@@ -26,6 +26,9 @@ section-id: ocwut-16-26:28.expected-impacts-on-operating-and-maintenance-costs
 section-order: 6
 section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Staffing, Resource, and Cost Impacts › Expected Impacts on Operating and Maintenance Costs
 doc-order: 187
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Refuses to invent numbers for projects still in design and instead commits to direction of change plus an auditable process — cost tracking from day one, adjustment through the contract's formal amendment mechanism, and a GAAP audit after two years of operation. This is the transparency answer to a cost-impact question that evaluators cannot score against a competitor's guesswork.
 reuse-notes: Reuse whenever an RFP asks for cost impacts of capital projects that are not yet designed. Keep the "we recognize the directional nature of these changes" construction and the three-bullet cost-direction analysis; replace the projects, the contract's cost-adjustment instrument, the audit interval, and the work management system name. This block carries no fee or rate figures and is safe for technical sections; keep commercial pricing in the cost proposal.

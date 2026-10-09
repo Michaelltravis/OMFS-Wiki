@@ -26,6 +26,9 @@ section-id: fulton-county-2025:03
 section-order: 6
 section-path: Section 1 | Executive Summary
 doc-order: 7
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for three MBR wastewater facilities and associated pump stations under Georgia EPD oversight.
 quality: Near-verbatim four-cell benefits table that connects asset management, compliance, optimization, and innovation to operational outcomes.
 reuse-notes: Use the four-benefit structure when the source claims can be supported for the current pursuit. Revalidate ISO alignment, tools, workshops, and all performance claims before reuse.

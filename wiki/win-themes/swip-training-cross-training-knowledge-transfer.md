@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:03.training-cross-training-and-knowledge-tr
 section-order: 8
 section-path: Executive Summary › TRAINING, CROSS-TRAINING, AND KNOWLEDGE TRANSFER
 doc-order: 10
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Names the actual training sources rather than promising "comprehensive training" — three national associations plus a named private provider with its founding year and 50-state coverage — and then closes the loop with documented completion, incentives, and a client-benefit statement written in workforce terms (morale, overtime, contractor reliance) that a public-agency evaluator feels directly.
 reuse-notes: The American Water College detail is California-flavored (state-approved advanced water treatment courses); substitute the training provider and the regulator-approved course catalog that applies in the target state. Keep the intern-mentor pairing only where the client actually runs an internship program.

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:26.3-2-1-our-iso-aligned-10-box-ams-is-tailored-to-mmsd
 section-order: 5
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution › 3.2.1. Our ISO-aligned, 10-Box AMS is tailored to MMSD
 doc-order: 168
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent contract operator; WDNR
 quality: Carries the named KPI set (PM compliance, CM backlog and aging, MTBF/MTTR, asset availability, labor/parts cost, evidence lag) and the improvement cadence — monthly KPI reviews, quarterly PMO checkpoints, annual internal audits, after-action reviews. "Evidence lag" and "reliability per dollar" are the two phrases worth keeping verbatim.
 reuse-notes: Align the KPI thresholds to the pursuit's own Standards of Performance or liquidated-damage schedule before promising exception lists. The risk-matrix vulnerability scenarios are facility-specific and must be rewritten from the pursuit's asset base.

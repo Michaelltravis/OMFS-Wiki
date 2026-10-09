@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:30.project-management-office
 section-order: 7
 section-path: IV. Approach Summary › IV.B. Pre-term Activities › 1.3. Transition Leadership Team › 1.3.2. Mike Boven – Transition Deputy Manager › Project Management Office
 doc-order: 214
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A full named-SME transition bench — roughly forty individuals with credentials, split into O&M SMEs, engineering SMEs, subcontractor support and corporate functions — which answers the "will corporate actually show up?" doubt with a list an evaluator can count.
 reuse-notes: This is a named roster; every individual must be re-confirmed for availability before reuse and the discipline list re-cut to the pursuit's scope (drop biosolids-product or tunnel roles where they do not apply). The category structure — O&M SMEs / Engineering SMEs / Subcontractor support / Regional and corporate support — is the reusable part.

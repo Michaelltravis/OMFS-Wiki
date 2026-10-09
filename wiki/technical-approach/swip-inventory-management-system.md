@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.performance-reporting
 section-order: 29
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › PERFORMANCE & REPORTING'
 doc-order: 57
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A concise, well-organized six-category inventory-management services menu (roles, storage, process, technology, data/labeling, reporting) that drops into any O&M technical approach as a standalone capability.
 reuse-notes: Role titles (Inventory Manager, Parts Inventory Specialist, Inventory Control Clerk, Parts Clerk) and report types are generic and reusable as-is; scale the roles and storage plan to the target facility's actual parts volume and space. Note a related block, swip-inventory-management-asset-tracking.md, covers overlapping ground from a different page range — reconcile during the merge pass.

@@ -20,12 +20,15 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: low
-extracted: '2026-09-07'
-last-verified: '2026-09-07'
+extracted: 2026-09-07
+last-verified: 2026-09-07
 section-id: ocwut-16-26:29.risk-based-transition-management
 section-order: 4
 section-path: Section 5 | Required Plans Submitted with the Proposal › Draft Transition Plan › Risk-Based Transition Management
 doc-order: 197
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US water-utility-trust wastewater O&M pursuit; multi-facility transition to a January 1, 2027 operational start.
 quality: A near-verbatim risk-to-mitigation-to-outcome matrix that makes ownership and continuity controls scoreable.
 reuse-notes: Replace Schedule 19, named systems, and milestone dates with the new contract controls. Keep the risk, mitigation, and outcome columns together.

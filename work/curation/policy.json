@@ -1,0 +1,15 @@
+{
+  "_doc": "Review intervals (days) per volatility class, used by work/freshness.py to compute review-due from the basis date (last-verified when verified-by is set, else the source proposal date from sources.json). Tune here, not in code.",
+  "intervals_days": {
+    "people": 180,
+    "reference": 180,
+    "regulatory": 180,
+    "corporate-figure": 365,
+    "safety-stat": 365,
+    "project-outcome": 730,
+    "evergreen": 1095
+  },
+  "default_owner": "Michael Travis",
+  "dedupe_min_body_sim": 0.12,
+  "report_top_n": 50
+}

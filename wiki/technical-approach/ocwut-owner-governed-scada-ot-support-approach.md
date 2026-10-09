@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.collaborative-automation-and-ot-support-approach-alig
 section-order: 30
 section-path: Section 1 | Technical Approach › Operations Plan › SCADA/OPERATIONAL TECHNOLOGY (OT)/ CYBERSECURITY › Collaborative Automation and OT Support Approach Aligned with OCWUT Governance
 doc-order: 65
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The cleanest available statement of the "owner keeps governance, operator works at the owner's direction" OT posture, combined with a decade of prior SCADA and cybersecurity engineering work for the same client used as displacement proof.
 reuse-notes: Replace the prior-work list (SCADA Master Plan, SCADA Standards, vulnerability assessment, cybersecurity risk and resilience assessment, HMI programming, AVEVA/Wonderware application support) with what the firm has actually delivered for the pursuit client; where no prior relationship exists, cut the second passage and lead with the responsibility-boundary framing. Contract citations (Service Agreement 8.16, Schedule 17) must be re-cited to the new agreement. Pairs with the responsibility-split exhibit and the OT team roster.

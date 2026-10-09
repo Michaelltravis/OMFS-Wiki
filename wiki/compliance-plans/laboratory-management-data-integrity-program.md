@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.laboratory-management-and-data-integrity
 section-order: 9
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › OUR PHASED APPROACH TO SUSTAINABLE OPERATIONS › Laboratory Management and Data Integrity
 doc-order: 42
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Concise, checklist-style QA/QC program citing the correct federal standard (40 CFR Part 136) and covering quarterly PFAS composite sampling coordination with certified laboratories — directly reusable for any NPDES-permitted facility's compliance section, and the natural expansion of pillar 1 of the Six-Point Compliance Program.
 reuse-notes: Confirm the permit citation (40 CFR Part 136 plus the applicable state permit and regulations) matches the target jurisdiction, and that PFAS sampling frequency reflects the state rules current at time of reuse. Verify which laboratory certifications the target state requires of the operator versus a contract lab.

@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.jacobs-understands-santa-monica-s-challe
 section-order: 1
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › JACOBS UNDERSTANDS SANTA MONICA’S CHALLENGES AND GOALS FOR ITS FACILITIES'
 doc-order: 29
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: [divergent-figure]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement — multi-facility potable reuse program including an advanced water treatment facility, stormwater diversion/pump assets, an urban runoff recycling facility, groundwater replenishment reuse project (GRRP) injection wells, and an interface with an adjacent municipal water treatment plant
 quality: A section-opening device that grounds the technical approach in the client's own facility-by-facility conditions rather than generic O&M language — the 3-column table format (Understanding of Goals | Key Current/Future Challenges | Jacobs' Strategies) scales cleanly across a multi-facility, multi-technology reuse portfolio (MBR, RO, UV-AOP, SCADA/OT, stormwater assets, injection wells) and reads as evidence the team did real due-diligence fieldwork before writing.
 reuse-notes: The specific facility list, equipment (PLC models, server hardware, SCADA platform), and named challenges are drawn from this pursuit's actual site visits and RFP/scope documents — do not reuse the specific challenge language for a different pursuit's facilities. The narrative opener (decades of comparable-scale experience, due-diligence site visits, talking with client staff) and the 3-column per-facility matrix structure are fully reusable for any multi-facility O&M pursuit.

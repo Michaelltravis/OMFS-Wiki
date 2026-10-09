@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:16.2-maintaining-a-respectful-workplace-of-inclusion-an
 section-order: 3
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 2. MAINTAINING A RESPECTFUL WORKPLACE OF INCLUSION AND BELONGING
 doc-order: 44
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A culture claim with a measurable commitment attached — the 80% annual coaching-session goal converts "we care about retention" into something an evaluator can score and a client can later audit.
 reuse-notes: Refresh the client survey year. The 80% goal is a corporate commitment; confirm with the operations leadership that it is being carried into the pursuit before restating it, since it becomes a contract expectation.

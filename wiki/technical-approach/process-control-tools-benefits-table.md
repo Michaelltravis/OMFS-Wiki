@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.operating-under-low-flow-and-minimum-load-conditions
 section-order: 10
 section-path: Section 1 | Technical Approach › Operations Plan › PROCESS CONTROL STRATEGY › How We Monitor, Verify, and Elevate Performance › Operating Under Low-Flow and Minimum-Load Conditions
 doc-order: 45
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The fullest version of the process control tool table in the library — eight tools, each with a what-we-will-do column and an explicit benefit-to-the-client column, including the mass balance solids report and the Operations Resiliency Plan that the shorter five-tool version omits. Every benefit statement is written from the client's side of the table.
 reuse-notes: Same topic as the shorter five-tool table drawn from the coastal New England pursuit (see process-control-and-compliance-tools.md); use this one when the response covers multiple plants or a solids program, and the shorter one for a single small facility. Confirm the platform names (Hach WIMS, CMMS, STT) match what will actually be deployed, and renumber the contract schedule references. The mass balance row's interdependency language must be rewritten for the new client's solids routing.

@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:25
 section-order: 3
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints
 doc-order: 130
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: 'The incumbent-displacement proof for odor: Jacobs already built the client''s systemwide sulfide/corrosion model, backed by a 10-year research collaboration and a two-week emergency dosing deployment at another utility.'
 reuse-notes: Confirm whether a WATS model already exists for the target system or must be built; keep the Aalborg University collaboration and the Oakland County (Detroit area) ferric chloride deployment as attributed Jacobs credentials, and verify both before external use.

@@ -27,6 +27,9 @@ section-id: fulton-county-2025:15.jacobs-collection-system-pump-station-experien
 section-order: 13
 section-path: Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE
 doc-order: 157
+volatility: project-outcome
+review-due: 2027-04-18
+freshness-flags: [open-ended-date]
 context: "Verbatim municipal MBR reuse-facility operating-performance and safety reference."
 quality: "Preserves regulatory record, operating improvements, safety record, and the named Jacobs plant-manager process quote."
 reuse-notes: "Past-performance content is verbatim and exempt from client-name generalization. Retain client, facility details, outcomes, and quote; strip only commercial fee or rate figures if present in a future source. Confirm all current performance claims and quote permission before external reuse."

@@ -27,6 +27,9 @@ section-id: ocwut-16-26:27.understanding-ocwut-s-existing-program
 section-order: 2
 section-path: Section 5 | Required Plans Submitted with the Proposal › Sludge Management Plan › Understanding OCWUT’s Existing Program
 doc-order: 175
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: A two-bio sidebar inside a required plan that converts corporate reach-back into a specific client benefit — 45 years and two US patents on the engineering side, 34 years of hands-on lifecycle experience plus national hauler-market and pricing knowledge on the operations side. The second bio's "market knowledge needed to build a competitive and resilient program" is the differentiator a local incumbent cannot match.
 reuse-notes: "Swap in the biosolids SMEs actually committed to the pursuit and verify years of experience, patents, and project counts as of the proposal date. Keep the pattern of naming what each SME will do on this contract rather than listing credentials alone. Names are kept per wiki policy; the proposal team QCs staff availability before external use. Graphic asset ID 189_009385 accompanies this sidebar. Approved-for-external-use: pending — sourced from a live pursuit."

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.electronic-document-management-system
 section-order: 27
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › REGULATORY COMPLIANCE › Electronic Document Management System
 doc-order: 70
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: County wastewater O&M pursuit supported by JC Solutions, a Jacobs/CERM joint venture.
 quality: Near-verbatim governance pattern linking regulatory SMEs, controlled records, independent audit cadence, and enterprise risk review.
 reuse-notes: Retain JC Solutions only where the proposing entity is the Jacobs/CERM JV. Revalidate staff, audit counts, document-delivery dates, contract articles, and approval workflow for the new pursuit.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.key-elements-of-our-safety-program-and-plannin
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SAFETY PLAN AND MANAGEMENT › Key Elements of Our Safety Program and Planning
 section-order: 46
 doc-order: 89
+volatility: safety-stat
+review-due: 2026-04-18
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: A drop-in, two-column exhibit that answers "what is actually in your safety program" with seven named instruments and what each one does — the compliance-section table that saves a writer from prose-listing the same content.
 reuse-notes: Rows are program instruments and are reusable as written; confirm the scorecard parameters (TRR, at-fault motor vehicle incidents, training completion, Behavior Zero observations) still match current corporate metrics, and add the training/certification row from p0092 ¶3 when the exhibit is reproduced in full.

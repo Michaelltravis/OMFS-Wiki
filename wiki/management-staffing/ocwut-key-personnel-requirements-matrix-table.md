@@ -26,6 +26,9 @@ section-id: ocwut-16-26:26.organization-structure-and-leadership-team
 section-order: 2
 section-path: Section 5 | Required Plans Submitted with the Proposal › Staffing and Training Plan › Organization Structure and Leadership Team
 doc-order: 164
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The compliance device that wins staffing evaluations — the RFP's own minimum experience and certification requirements set side by side with the assigned person's actual credentials, each row checked off. An evaluator can score the requirement without leaving the page.
 reuse-notes: Rebuild the two right-hand columns from the client's own staffing schedule so the "required" text is quoted from their document, then fill the last column with the named individual's real years and licenses. Oklahoma license classes and the license-by-operational-start-date commitment are pursuit-specific. Names and credentials are verbatim from the source proposal — QC against current records before external use.

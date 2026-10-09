@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:28.5-4-additional-improvements-and-innovations-for-futu
 section-order: 8
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.5. Continuous Improvement and Innovation › 5.4 Additional Improvements and Innovations for Future Savings
 doc-order: 203
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: 'A short, high-leverage paragraph for a challenger bid: it converts limited pre-award access into a strength by saying that more than 25 improvement ideas came from only a handful of site visits, and that the flow of ideas accelerates once the team is embedded. Quantifies the second tier at $21M to $53M over ten years.'
 reuse-notes: Update the idea count and the savings range to whatever the team actually developed for the pursuit. The "just our initial takeaway from a handful of visits" line only works for a challenger with limited access — drop it on an incumbent rebid, where the equivalent claim is what the team has already delivered.

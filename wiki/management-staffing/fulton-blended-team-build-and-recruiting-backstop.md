@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.tapping-the-value-of-existing-staff
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Tapping the Value of Existing Staff
 section-order: 2
 doc-order: 110
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: "Answers the evaluator's unspoken question — what if the incumbent staff don't come with you — with a three-source team-build model and a named recruiting backstop, without conceding that retention will fail."
 reuse-notes: "Swap JC Solutions for the bidding entity or JV name. Point the cross-reference at whatever the pursuit's long-term staffing and succession section is actually titled. Confirm before submittal that a pipeline search has in fact been initiated and that named internal resources exist for the specific roles; the credibility of the passage rests on those being real. Add the local provider network detail only where a regional bench genuinely backs it."

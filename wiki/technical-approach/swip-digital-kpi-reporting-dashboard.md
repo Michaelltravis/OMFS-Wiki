@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.customized-digital-reporting-dashboards
 section-order: 16
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY › Customized Digital Reporting Dashboards'
 doc-order: 44
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A secure web-based dashboard with a concrete navigation structure (RTT, STT, SCADA, Water Quality, Biosolids, Reuse, Maintenance, Safety) that complements formal written reports - it gives evaluators a mental picture of always-on transparency beyond a monthly PDF.
 reuse-notes: The dashboard concept, navigation categories, and framing paragraph are generic and reusable; trim or extend the Quick Links list to the pursuit's actual scope. The example screenshot includes a map view of this pursuit's service area - swap it for the target pursuit's geography before reuse.

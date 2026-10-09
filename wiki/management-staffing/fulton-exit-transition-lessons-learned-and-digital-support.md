@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.lessons-learned
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Lessons Learned
 section-order: 16
 doc-order: 124
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Short closing pair for an exit-transition section: lessons learned from a real handback (Coos Bay) plus the digital tools and post-exit training offer, carried by an on-the-record client quote thanking the Jacobs team for the transfer. Answers the evaluator's unspoken question — have you actually handed a plant back before?"
 reuse-notes: "Swap Coos Bay for whichever handback reference is closest to the pursuit if a better one exists, and name the specific asset-tracking and compliance-reporting platforms being offered rather than leaving them generic. Confirm the Coos Bay quote's permission status in testimonials/inventory.md before external use."

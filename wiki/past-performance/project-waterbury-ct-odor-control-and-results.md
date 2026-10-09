@@ -26,6 +26,9 @@ section-id: ocwut-16-26:32.waterbury-water-and-wastewater-system-o-m
 section-order: 7
 section-path: Section 7 | Projects and References › RELEVANT PROJECT EXPERIENCE › Waterbury Water and Wastewater System O&M
 doc-order: 218
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: "Verbatim municipal water and wastewater O&M reference."
 quality: "Source-faithful odor-control, maintenance, collection-system, and sludge-backlog results."
 reuse-notes: "Past-performance content is verbatim and client-exempt. Confirm current outcomes before external use. Preserve the exact odor-reduction wording and time window."

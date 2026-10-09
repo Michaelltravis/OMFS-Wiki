@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.site-specific-odor-control-plan
 section-order: 14
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › SITE-SPECIFIC ODOR CONTROL PLAN
 doc-order: 47
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A structured five-step odor/corrosion evaluation methodology paired with a concrete 1-hour complaint-response commitment and named sensor/dosing technologies — reusable for any facility with residential proximity or odor sensitivity
 reuse-notes: The five-step framework (quantify, establish goals, determine impacts, evaluate alternatives, select) is Jacobs' standard, reusable methodology; confirm the technology names (bioxide, In-Pipe Technology, Wet Well Wizard, H2Scents, WATS modeling) are current before reuse. The Northeast-region odor-turnaround case study that runs alongside this passage lives in ../win-themes/embedded-differentiator-case-study-callout.md.

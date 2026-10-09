@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.media-relations-program
 section-order: 62
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Media Relations Program
 doc-order: 105
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV."
 quality: "Near-verbatim media governance, internship, and CERM-led workforce-development passage."
 reuse-notes: "Confirm internship partners, resident-preference rules, curriculum availability, client selection authority, and CERM partner roles before reuse."

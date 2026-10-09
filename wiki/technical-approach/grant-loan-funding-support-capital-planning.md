@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.jacobs-grant-loan-support-services
 section-order: 20
 section-path: 'Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › ENERGY MANAGEMENT: A CORE OPERATING DISCIPLINE › Jacobs Grant/Loan Support Services'
 doc-order: 53
+volatility: corporate-figure
+review-due: 2027-04-02
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Concrete four-step funding-strategy methodology paired with a credible corporate funding-track-record proof point; directly answers the "how do we pay for the CIP" question that follows any asset-management or energy-optimization pitch
 reuse-notes: Replace the WIFIA proof point with the financing programs actually relevant to the target client (state revolving fund, USDA, WIFIA, municipal bonds) if WIFIA is not applicable. The loan approval rate, cumulative loan volume, and cost-of-capital figures are corporate track-record outcome figures that are kept — refresh them from current corporate data before reuse, since this track record grows over time.

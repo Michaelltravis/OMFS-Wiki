@@ -18,7 +18,7 @@ testimonial-ids: []
 story-ids: []
 status: fallback
 superseded-by: wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md
-supersedes: mmsd-exhibit-value-added-savings-breakdown.md
+supersedes: wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md
 house-favorite: false
 sanitized: true
 sanitization-loss: low
@@ -28,6 +28,9 @@ section-id: mmsd-om-2028:21.energy-and-chemical-optimization
 section-order: 8
 section-path: IV. Approach Summary › Energy and Chemical Optimization
 doc-order: 82
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "A complete itemized inventory of everything a large O&M bid put on the table as value-add, bucketed with a dollar value per bucket. Useful as a checklist of offerable enhancements when building a new pursuit's value-add exhibit."
 reuse-notes: "Use the bucket structure and the item menu as a starting checklist; every dollar value is pursuit-specific. Category assignment of individual items is reconstructed from the graphic's text layer and should be verified against the page render before any item is quoted as an exhibit line."

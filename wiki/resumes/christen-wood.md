@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:11.why-christen
 section-order: 5
 section-path: 'Section 3: Key Personnel › 3.2 RESUMES › MEMBERSHIP/AFFILIATIONS › WHY CHRISTEN?'
 doc-order: 81
+volatility: people
+review-due: 2026-03-11
+freshness-flags: [open-ended-date]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "Exceptionally broad multi-state resume (11 distinct assignments) spanning startup/transition operations, staff augmentation, training-curriculum development, and capital-upgrade operations continuity ($170M Southerly biosolids upgrade; $19M Upper Tuscarawas BNR conversion); strong differentiator for workforce-development and training-focused pursuits."
 reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Very strong fit for pursuits emphasizing workforce development/training, staff augmentation during transitions, or advanced water purification (RO/UV-AOP/ozone) startup. The Grade V license is recorded in the source as exam-passed, license not yet issued - reconfirm status before reuse."

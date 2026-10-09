@@ -17,7 +17,7 @@ proof-point-ids: []
 testimonial-ids: []
 story-ids: []
 status: preferred
-supersedes: mmsd-pgm-cost-control-monitoring-and-reporting.md
+supersedes: wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md
 house-favorite: false
 sanitized: true
 sanitization-loss: none
@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framew
 section-order: 10
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD
 doc-order: 97
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Pairs informal daily communication with a formal weekly/monthly/quarterly governance rhythm, and commits the named project manager personally to board and public-meeting communication with executive sponsors behind him. Answers the "who do I call, and who speaks for you in public" question in one paragraph.
 reuse-notes: Replace the named project manager and align the meeting rhythm to the cadence table for the pursuit. The commitment to attend governing-board and public meetings should be confirmed with the proposed PM before it is repeated.

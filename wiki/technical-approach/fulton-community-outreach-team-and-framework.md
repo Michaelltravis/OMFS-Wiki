@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.public-education-and-community-outreach-plan
 section-order: 55
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › PUBLIC EDUCATION AND COMMUNITY OUTREACH PLAN
 doc-order: 98
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: "JC Solutions (a Jacobs/CERM JV) community-outreach team and framework for a Southeast county multi-facility wastewater system."
 quality: "Near-verbatim outreach-team and public-relations framework, retaining partner roles and community objectives."
 reuse-notes: "Tailor named staff, subcontractors, facilities, local associations, and contract exhibit references. Preserve CERM attribution where local workforce or presence is stated; retain unrelated client examples only after permission review."

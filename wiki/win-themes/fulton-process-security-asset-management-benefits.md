@@ -26,6 +26,9 @@ section-id: fulton-county-2025:10.value-added-extras-included-as-part-of-our-bas
 section-order: 5
 section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE
 doc-order: 29
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: JC Solutions JV value-added approach for membrane process performance, OT resilience, and asset management.
 quality: A detailed, near-verbatim bundle of operational improvements that joins process performance, cyber resilience, and lifecycle discipline.
 reuse-notes: Confirm the treatment process, membrane vendor, available SCADA reports, and cybersecurity scope. Attribute process, SCADA/OT, and asset-management expertise to Jacobs while retaining JC Solutions as the delivery entity.

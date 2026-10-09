@@ -26,6 +26,9 @@ section-id: ocwut-16-26:10
 section-order: 1
 section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › Key Team Member Resumes › Pitocchelli, David
 doc-order: 139
+volatility: people
+review-due: 2026-11-02
+freshness-flags: [person-duplicate]
 context: Proposed Project Manager and onsite representative. Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "Strongest available 'we have already run your system' resume — the proposed PM previously managed the same four-plant client system, which the proposal uses as the day-one-leadership proof for an incumbent-displacement bid."
 reuse-notes: "VERBATIM resume — real name, licenses, and client reference contact retained. approved-for-external-use: pending - sourced from a live pursuit. Before reuse: (1) confirm David Pitocchelli's current Jacobs role, availability, and total years of experience (30 at time of writing); (2) confirm the status of the Class A OK WW Operator License reciprocity, which was in progress; (3) re-verify the client reference (Bruce Brown, The Villages) before listing; (4) the 'Why David?' bullets and the summary paragraph are written against Schedule 10 minimum qualifications — rewrite the minimum-qualification mapping to the new RFP's stated minimums."

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.leadership-from-jc-solutions-staff
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Leadership from JC Solutions Staff
 section-order: 6
 doc-order: 114
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Short, direct statement of how leadership positions are filled in a transition — company-employed key staff, retention of qualified existing employees with client concurrence, and regional resources as the backfill guarantee for day-one staffing. Pairs with the transition team and staffing-plan blocks."
 reuse-notes: "Swap the JV name for the bidding entity. Confirm which specific key positions the RFP requires to be company employees versus retained incumbent staff, and confirm the client-approval language matches the RFP's terms on retaining existing employees. The regional-resources backfill claim should be supported by the relevant regional bench block for the pursuit's geography."

@@ -27,6 +27,9 @@ section-id: hull-wwtf-om-2026:01
 section-order: 2
 section-path: Section 1 - Cover Letter
 doc-order: 2
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A tight, five-paragraph cover letter structure that moves from client-specific challenge recognition to team credibility to transition risk mitigation to closing commitment, in under one page — a strong pattern for any O&M pursuit's transmittal letter
 reuse-notes: Each paragraph's content must be rewritten with the target client's actual drivers, named leadership, and true transition posture; the structure and paragraph purposes are what's reusable, not the sentences themselves

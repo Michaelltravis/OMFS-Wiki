@@ -26,6 +26,9 @@ section-id: ocwut-16-26:01
 section-order: 3
 section-path: Cover Letter
 doc-order: 3
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: [open-ended-date]
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The single most effective device for a challenger bid backed by a long engineering relationship — a full-page horizontal timeline that converts two decades of unrelated planning, design, SCADA, and asset-management assignments into an argument that the bidder already knows the system and its people
 reuse-notes: "This is a graphic, not body prose. Rebuild it from the target client's actual project history pulled from the account record, and place it facing the cover letter's first page so the letter can reference \"the timeline on the following page.\" Year-to-milestone pairings below follow the source graphic's label order and should be verified against the page render before reuse. Graphic asset ID 135_009385 is client-specific and must be re-branded. approved-for-external-use: pending — sourced from a live pursuit."

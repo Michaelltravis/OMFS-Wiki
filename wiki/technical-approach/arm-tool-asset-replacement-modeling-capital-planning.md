@@ -26,6 +26,9 @@ section-id: ocwut-16-26:06.asset-management-driven-capital-planning
 section-order: 18
 section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Asset Management-Driven Capital Planning
 doc-order: 104
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The clearest statement of the ARM tool in the library — three named triggers (risk, age, annualized maintenance cost), the maintain/repair/rehabilitate/replace decision, the M&R-to-R&R crossover flag, and the annual submittal that converts the analysis into funded capital requests.
 reuse-notes: The tool description and the three triggers are portable to any O&M pursuit with a capital-planning or renewal-recommendation requirement; replace the schedule citations (Schedule 1, Schedule 16, Schedule 20) and the October 1 submittal date with the target contract's reporting requirement, and adjust the H₂S example if the target assets face a different dominant degradation driver.

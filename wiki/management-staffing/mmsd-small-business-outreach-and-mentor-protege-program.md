@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:17.2-dedicated-workforce-development-team-and-reporting
 section-order: 8
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.H. Workforce Development › 2. DEDICATED WORKFORCE DEVELOPMENT TEAM AND REPORTING
 doc-order: 54
+volatility: corporate-figure
+review-due: 2027-01-30
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Three layers of proof in one exhibit — a pre-award outreach event the team actually hosted with an attendee quote, a mentor-protégé program on a $1.77B megaproject that won a diversity award, and a construction academy that produced nearly $43M in contracts for local firms. The dollar outcome at the end is what makes the small-business commitment believable.
 reuse-notes: The attendee quote is anonymous; confirm permission status in testimonials/inventory.md before external use and consider whether an attributed quote can be obtained. The Houston and Omaha examples are other clients' projects cited as evidence and stay verbatim. Replace the pre-award outreach event with the one actually held for the pursuit, or drop that paragraph rather than describing an event that did not happen.

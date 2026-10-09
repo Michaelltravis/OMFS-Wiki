@@ -26,6 +26,9 @@ section-id: ocwut-16-26:32.jackson-public-drinking-water-and-wastewater-faciliti
 section-order: 5
 section-path: Section 7 | Projects and References › RELEVANT PROJECT EXPERIENCE › Jackson Public Drinking Water and Wastewater Facilities O&M
 doc-order: 216
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: "Verbatim municipal water and wastewater turnaround reference."
 quality: "Source-faithful transition, stabilization, odor-control, and maintenance-recovery results."
 reuse-notes: "Past-performance content is verbatim and client-exempt. Confirm testimonial permission and operational results before external use."

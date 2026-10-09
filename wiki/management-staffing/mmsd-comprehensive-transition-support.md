@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:30.1-3-5-comprehensive-transition-support
 section-order: 8
 section-path: IV. Approach Summary › IV.B. Pre-term Activities › 1.3. Transition Leadership Team › 1.3.5. Comprehensive Transition Support
 doc-order: 215
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Four crisp commitments that cover the whole surface of a transition — systems, people, data, and the period after the handover — closed with the Wilmington testimonial, which proves the model held under COVID-era constraints. The "human and technical dimensions of change" line is the section's best single sentence.
 reuse-notes: Re-point the org chart reference and substitute the client's CMMS, SCADA, and reporting systems in the third bullet. The commitment to remain available beyond the handover is a real obligation — confirm it with the operations lead before repeating.

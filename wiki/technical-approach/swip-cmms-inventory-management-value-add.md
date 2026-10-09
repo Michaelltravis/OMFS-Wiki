@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:14.inventory-management-for-arcadia
 section-order: 9
 section-path: 'Section 4: Suggested Modificationsto the Scope of Work › ADDITIONAL ITEMS FOR CONSIDERATION › Inventory Management for Arcadia'
 doc-order: 100
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A short, standards-referenced pitch (ISO 55001) for extending an existing CMMS-integrated inventory system to a second, related facility outside the core scope — a reusable pattern for any multi-facility client, and one that ties the offer to the client's own stated future (the second plant's role in potable reuse).
 reuse-notes: The facility is generalized to [SECOND FACILITY] — substitute the target pursuit's actual facility name and the reason it matters to the client's broader strategy. No price was stated for this item in the source pursuit; it sat under the unpriced "Additional Items for Consideration" heading.

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:13
 section-order: 2
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.D. Use of Subcontractors
 doc-order: 36
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A four-row table that does real persuasive work — each partner is matched to a capability the operator cannot self-perform credibly (local hydraulic modeling, government affairs, workforce development, and an advisor with first-hand operational knowledge of the client's own facilities).
 reuse-notes: Firm names and roles are pursuit-specific and must be re-sourced for each geography; what transfers is the role mix — capacity building/outreach, a technical niche, stakeholder affairs, and a client-knowledgeable strategic advisor. Confirm each firm's teaming agreement and certification status before listing.

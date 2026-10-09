@@ -26,6 +26,9 @@ section-id: ocwut-16-26:02.we-know-oklahoma-city-and-what-s-at-stake
 section-order: 1
 section-path: Executive Summary of Technical Approach › WE KNOW OKLAHOMA CITY—AND WHAT’S AT STAKE
 doc-order: 6
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest incumbent-displacement opening in the library — it earns the right to criticize the incumbent by first proving the work was done (multi-day visits to every facility, SME strategy sessions), then states the failures as verified observations with hard numbers rather than accusations, and immediately reframes them as an opportunity the facilities' design already supports.
 reuse-notes: Every observed condition (H2S readings, scrubber counts, WET test failures, cascading failure patterns) must be replaced with findings the pursuit team actually verified on site — this beat only works if the numbers are defensible in a debrief. The capital program figure, the count of facilities visited, and the prior-projects count are pursuit-specific. Pairs with the leadership roster block and the technical-approach pillars block that follow it in the same executive summary.

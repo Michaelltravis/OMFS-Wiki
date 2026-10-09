@@ -26,6 +26,10 @@ section-id: mmsd-om-2028:25
 section-order: 1
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints
 doc-order: 128
+supersedes: wiki/technical-approach/mmsd-odor-control-focus-area-and-program-commitment.md
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: Opens an odor focus area by naming the client's actual odor pressures (encroaching residential development, crowd events, uncovered primaries, reactive ferric dosing) and then states the two-part promise — prevent, then respond — that the rest of the section proves.
 reuse-notes: Replace the encroachment and event examples with the target system's own odor pressure points; confirm which processes remain uncovered/untreated and whether intermittent chemical dosing is the current practice before repeating the "reacting after odors occur" contrast.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.school-program
 section-order: 59
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › School Program
 doc-order: 102
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, for three water-reclamation facilities and pump stations."
 quality: "Near-verbatim school outreach, STEM, and clean-water career pathway passage."
 reuse-notes: "Confirm school partners, facility-tour availability, named programs, and workforce partners before reuse."

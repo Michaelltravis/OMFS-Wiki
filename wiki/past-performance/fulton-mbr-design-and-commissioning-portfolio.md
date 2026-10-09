@@ -26,6 +26,9 @@ section-id: fulton-county-2025:15.jacobs-wastewater-engineering-and-mbr-experien
 section-order: 2
 section-path: Section 4 | Relevant Project Experience › JACOBS WASTEWATER ENGINEERING AND MBR EXPERIENCE
 doc-order: 146
+volatility: project-outcome
+review-due: 2027-04-18
+freshness-flags: []
 context: MBR design, conversion, commissioning, and selected-reference portfolio presented in a Southeast county wastewater O&M pursuit.
 quality: Source-verbatim chronology and portfolio overview that identifies technologies, design/build/operate references, and the exhibit’s capacity-comparison convention.
 reuse-notes: "VERBATIM past-performance content. Retain named facilities, locations, suppliers, capacities, and reference selections exactly; confirm project status and pipeline claims before external reuse."

@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:07.turlock-zero-liquid-discharge-facility-o
 section-order: 5
 section-path: 'Section 2: Qualifications › 2.3 REFERENCES › OPERATIONAL EXCELLENCE BACKED BY DIVERSE PROJECT EXPERIENCE › Turlock Zero Liquid Discharge Facility O&M'
 doc-order: 28
+volatility: reference
+review-due: 2026-03-11
+freshness-flags: [divergent-figure, newer-source-same-claim, open-ended-date, stale-contact]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: The nation's largest and most technically sophisticated water reuse facility (40 MGD, nine treatment trains, five fit-for-purpose product-water grades, drinking water conserved for up to 80,000 households a year), recently won from incumbent operator Veolia, with a Board President-level client quote — the flagship large-scale reuse reference and the portfolio's best documented incumbent-displacement and transition narrative.
 reuse-notes: Verbatim past-performance content. Confirm reference contact (Susanna Li) is still current before reuse. The contract began in 2025, so keep operating-history claims proportional to tenure and lead instead with the transition, membrane, and Digital OneWater content. Name the incumbent (Veolia) only where the new pursuit's competitive posture makes that appropriate.

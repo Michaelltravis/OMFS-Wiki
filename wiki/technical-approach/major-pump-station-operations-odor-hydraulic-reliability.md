@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.challenges-we-ll-address
 section-order: 49
 section-path: Section 1 | Technical Approach › Operations Plan › PUMP STATION OPERATIONS AND SEPTAGE RECEIVING › Challenges We’ll Address
 doc-order: 84
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A model challenger passage — specific site-visit observations (H2S corrosion, masking agents, leaking generators, discouraged wet weather basins) converted into named corrective priorities, framing the station as an extension of the downstream treatment process rather than a conveyance asset.
 reuse-notes: Every observation here comes from this pursuit's site visits — replace with your own findings; naming a defect you did not observe is not defensible. Schedule references (2, 5, 15) and the ferrous chloride feed are contract- and site-specific. Keep the "integrated extension of the treatment process, not simply a conveyance asset" framing and the masking-versus-measurable-sulfide-reduction contrast.

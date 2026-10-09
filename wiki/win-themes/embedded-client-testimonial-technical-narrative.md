@@ -27,6 +27,9 @@ section-id: hull-wwtf-om-2026:05.collection-system-operations
 section-order: 13
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › COLLECTIONS › Collection System Operations
 doc-order: 46
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: [divergent-figure, open-ended-date]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: A placement pattern distinct from the standard past-performance appendix — a full client testimonial dropped as a sidebar directly inside the technical-approach narrative, positioned exactly where the evaluator is reading about the capability (collections O&M) the quote validates. The quote itself carries genuine, checkable proof (32-year tenure, named annual industry awards since 2012) rather than generic praise.
 reuse-notes: This is a recipe describing how the quote is deployed; the quote itself lives in the paired prose block. Source a fresh, currently authorized quote for the target pursuit and confirm the quoted individual consents to being quoted in a new proposal — never reuse this reference relationship to support a different bid.

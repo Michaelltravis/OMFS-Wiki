@@ -27,6 +27,9 @@ section-id: ocwut-16-26:28.integration-approach-and-ocwut-s-planned-capital-impr
 section-order: 3
 section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Integration Approach and OCWUT’s Planned Capital Improvements
 doc-order: 184
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: A four-column device that proves the operator read the client's capital schedule and already knows what each project does to operations. The "key integration considerations" column is the differentiator — it converts a list of projects into an operator's problem statement (PSM/RMP elimination, 24/7 staffing, changed hauling and lab scope).
 reuse-notes: Rebuild the rows from the target RFP's capital schedule; keep the column set (facility, planned improvement, estimated completion, key integration considerations) and keep the habit of naming the operational consequence rather than restating the project scope. Verify every completion year against the client's current schedule before use — these dates age. Renumber the exhibit. Pairs with the Operational Integration Plan opener block.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.public-relations-plan
 section-order: 56
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › 3. Strategic partnerships › Public Relations Plan
 doc-order: 99
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "JC Solutions (a Jacobs/CERM JV) complaint-response and stakeholder-engagement approach for a Southeast county multi-facility wastewater system."
 quality: "Near-verbatim operational complaint protocol paired with regulatory, public-meeting, and peer-industry engagement."
 reuse-notes: "Tailor facility observations, complaint channels, notification obligations, agency participants, and local associations. Confirm the Jackson example remains approved before reuse; it is an unrelated client and remains named."

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:35
 section-order: 1
 section-path: V. Statement on Regional Partnership › V.B. Strategies for Bettering the Service Area through Targeted Regional Partnering
 doc-order: 235
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Turns community benefits into a managed program with a charter, task leaders, a schedule, dashboards, and a recalibration loop — then immediately backs the method with named local projects rather than leaving it as process. The Simetrica reference converts social value into a monetized, reportable number, which is the move that makes the dashboards credible.
 reuse-notes: Replace the four named regional projects with the pursuit region's equivalents — the sentence "we know this plan works" is only earned by local evidence. Keep the charter step naming the client's own public affairs team as the alignment target.

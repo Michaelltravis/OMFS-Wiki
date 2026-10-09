@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:25.installation-of-odor-early-warning-system-at-the-wrf
 section-order: 5
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › Installation of “Odor Early Warning System” at the WRFs to Minimize Odors
 doc-order: 132
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The offered innovation in the odor focus area — named, specific, and technically credible. Contrasts the client's current reactive ferric chloride dosing with a three-part predictive system (Sulfiloggers for liquid-phase sulfide, SUMO process modeling, AERMOD dispersion with a Jacobs-installed met station) and closes the loop by turning a model prediction into a resident notification. Honest about modeling uncertainty, which strengthens rather than weakens the claim.
 reuse-notes: Confirm the client's current odor chemical strategy so the "rather than reacting after odors occur" contrast is accurate. The Sulfilogger, SUMO, and AERMOD toolchain is a firm capability; the met station and notification channels (social media, email, opt-in text) need pursuit-specific confirmation of who owns public communications and which elected and neighborhood contacts receive notices.

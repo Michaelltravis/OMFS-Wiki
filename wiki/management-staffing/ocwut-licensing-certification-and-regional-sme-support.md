@@ -26,6 +26,9 @@ section-id: ocwut-16-26:26.licensing-certification-professional-development
 section-order: 11
 section-path: Section 5 | Required Plans Submitted with the Proposal › Staffing and Training Plan › Licensing, Certification, & Professional Development
 doc-order: 173
+volatility: corporate-figure
+review-due: 2027-05-06
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement; Oklahoma operator and laboratory licensing requirements.
 quality: Near-verbatim link between license readiness, career development, regional depth, and subcontractor accountability.
 reuse-notes: Verify all license requirements, incentive programs, support-hour and network-size claims, subcontractor scope, and the operational-start commitment. Names, contract schedules, and specialty needs must be tailored.

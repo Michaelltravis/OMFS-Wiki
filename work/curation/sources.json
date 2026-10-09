@@ -1,0 +1,8 @@
+{
+  "_doc": "Submission date of each source proposal (from its cover letter / cover page in verbatim/<slug>/pages). This is the age basis for every fact a block carries until someone re-verifies it (verified-by + last-verified). owner = who answers for the source's content.",
+  "hull-wwtf-om-2026":         {"proposal_date": "2026-04-02", "owner": "Michael Travis"},
+  "santamonica-swip-om-2025":  {"proposal_date": "2025-09-12", "owner": "Michael Travis"},
+  "ocwut-16-26":               {"proposal_date": "2026-05-06", "owner": "Michael Travis"},
+  "fulton-county-2025":        {"proposal_date": "2025-04-18", "owner": "Michael Travis"},
+  "mmsd-om-2028":              {"proposal_date": "2026-01-30", "owner": "Michael Travis"}
+}

@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:13
 section-path: Section 7 - Appendix B - Project Descriptions
 section-order: 2
 doc-order: 72
+volatility: project-outcome
+review-due: 2028-04-01
+freshness-flags: []
 context: "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP"
 quality: "Compact, specific unit-process description of a 27-MGD activated sludge plant with wet weather capacity and chemical phosphorus removal, paired with a community-stewardship proof point that shows the operator investing in the receiving water beyond permit obligations."
 reuse-notes: "Past-performance content is verbatim and exempt from the client-name generalization rule — Waterbury, the Naugatuck River, and the Naugatuck River Brigade stay as written. Confirm before external use that tertiary filters are still 'under construction' and that the Naugatuck River Brigade sponsorship and volunteer riverbank cleanups have continued; both statements were current as of the 2026 proposal. Pairs with the fuller Waterbury project description and results blocks (project-waterbury-ct.md, project-waterbury-ct-odor-control-and-results.md) and with the owner testimonial in hull-waterbury-owner-testimonial.md."

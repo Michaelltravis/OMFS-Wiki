@@ -26,6 +26,9 @@ section-id: ocwut-16-26:30
 section-order: 2
 section-path: Section 5 | Required Plans Submitted with the Proposal › Solids Management Plan
 doc-order: 202
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: The opening of a required Solids Management Plan that names the three failure modes an evaluator already worries about (pad backlog, dewatering odor, belt press downtime), converts each into a consequence the client feels, and then makes a single-sentence commitment tied to the specific contract schedules and deduction codes. Closes with the routing move — agricultural sites away from dense population, truck routes off residential corridors — that turns a standing community objection into a non-issue.
 reuse-notes: "Swap the schedule and deduction identifiers (Schedule 21, COM-3, COM-5) for the pursuit's own contract terms, and the equipment reference (belt press) for the client's dewatering technology. The reusable moves are the \"does not need a program that reacts to problems; you need one that prevents them\" antithesis and the routing paragraph. Pair with the storage and backlog block for the trigger detail behind the promise. Approved-for-external-use: pending — sourced from a live pursuit."

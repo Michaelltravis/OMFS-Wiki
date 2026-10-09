@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.industry-leading-expertise-in-comprehensive-bi
 section-order: 31
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SLUDGE/BIOSOLIDS MANAGEMENT › Industry-Leading Expertise in Comprehensive Biosolids Management Solutions
 doc-order: 74
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: JC Solutions (a Jacobs/CERM JV) biosolids-management approach for a Southeast county multi-facility wastewater system.
 quality: Near-verbatim biosolids capability statement, site observations, and named technical bench.
 reuse-notes: Tailor facility conditions, equipment manufacturers, and local biosolids requirements. Preserve Jacobs attribution for the technical bench; use the JC Solutions JV voice for the delivery commitment.

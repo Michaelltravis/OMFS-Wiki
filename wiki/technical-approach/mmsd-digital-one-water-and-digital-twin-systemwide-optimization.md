@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:25.2-3-1-digital-twin-enabling-system-wide-optimization
 section-order: 13
 section-path: 'IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.3. Deep Domain Expertise Powered by Advanced Digital Tools › 2.3.1. Digital Twin: Enabling System-Wide Optimization'
 doc-order: 140
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'The framing that makes a digital twin sellable to an operations-minded evaluator — it states plainly what the twin does NOT do ("does not automate plant operations," "don''t replace operator judgment — they reinforce it") before claiming what it does. Pairs the technology with a transparency promise (full client visibility into what we see, decide, and do) and ties it to named outcomes: permit compliance, CSO reduction, energy optimization and generation, biosolids product quality, and lower carbon footprint.'
 reuse-notes: Replace the outcome list with the pursuit's own priorities and the named system elements (tunnel storage, conveyance, the specific facilities). The "does not automate operations / reinforces operator judgment" guardrail should be kept in every reuse — it is what defuses operator resistance on the evaluation panel.

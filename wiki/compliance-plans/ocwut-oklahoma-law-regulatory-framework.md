@@ -26,6 +26,9 @@ section-id: ocwut-16-26:24.oklahoma-law-regulatory-knowledge-and-environmental-c
 section-order: 4
 section-path: 'Section 4 | Oklahoma Law › OKLAHOMA LAW: REGULATORY KNOWLEDGE AND ENVIRONMENTAL COMPLIANCE'
 doc-order: 156
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Oklahoma municipal wastewater facilities operating under federal, ODEQ, laboratory, operator-certification, air, and reuse rules.
 quality: Clearly translates layered federal and Oklahoma requirements into an operational compliance framework.
 reuse-notes: Verify that cited administrative rules and facility-specific permit requirements remain current for the target pursuit.

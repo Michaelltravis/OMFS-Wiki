@@ -27,6 +27,9 @@ section-id: santamonica-swip-om-2025:08.elements-of-our-emergency-response-plan-
 section-order: 35
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › EMERGENCY RESPONSE PLAN › Elements of our Emergency Response Plan (ERP)'
 doc-order: 63
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A complete, event-by-event ERP response matrix covering 14 event types from chemical spill through earthquake, including continuity of operations and advance contracting — the most directly reusable ERP exhibit in the library.
 reuse-notes: Reusable essentially as-is for any water, wastewater, or collection-system O&M pursuit; swap individual rows for facility-specific detail (for example, replace pipeline failure/blockage detail for a treatment-only scope, or add a coastal-storm row where relevant). "CPO" is the Chief Plant Operator role title — align to the target pursuit's proposed org chart.

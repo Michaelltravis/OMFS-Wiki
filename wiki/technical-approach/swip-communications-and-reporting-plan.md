@@ -27,6 +27,9 @@ section-id: santamonica-swip-om-2025:08.communications-and-reporting
 section-order: 30
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › COMMUNICATIONS AND REPORTING'
 doc-order: 58
+volatility: people
+review-due: 2026-03-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A complete communications cadence table (daily through annual, with who/what defined) paired with a concrete reporting-deliverables list carrying hard delivery commitments (MOR by the fifth day of each month; annual report draft in 30 days, final in 60) and a described customizable digital dashboard.
 reuse-notes: The cadence table and report-deliverable list are broadly reusable; the named CPO (Mack Mckenzie) is kept verbatim per wiki policy on staff names — replace with the pursuing team's assigned CPO. Adapt report names and the electronic submittal route (CIWQS/NetDMR here) to the pursuit's permits and jurisdiction.

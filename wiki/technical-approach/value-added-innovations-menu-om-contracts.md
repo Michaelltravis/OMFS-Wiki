@@ -8,8 +8,8 @@ story-ids: []
 status: preferred
 house-favorite: false
 proof-point-ids: [PP-0158, PP-0157, PP-0155, PP-0156, PP-0159, PP-0153, PP-0161]
-extracted: '2026-09-05'
-last-verified: '2026-09-05'
+extracted: 2026-09-05
+last-verified: 2026-09-05
 block-type: prose
 source-pages: [46, 50, 51]
 verbatim-ref: [verbatim/hull-wwtf-om-2026/pages/p0050.md#¶18, verbatim/hull-wwtf-om-2026/pages/p0051.md#¶2, verbatim/hull-wwtf-om-2026/pages/p0046.md#¶6]
@@ -24,6 +24,9 @@ section-id: hull-wwtf-om-2026:05.innovation
 section-order: 25
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › INNOVATION
 doc-order: 58
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: [divergent-figure]
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: differentiated, concrete list of no-added-cost value-adds that reads as substance rather than marketing fluff

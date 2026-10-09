@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.fermentation-zones
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Fermentation Zones
 section-order: 13
 doc-order: 56
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: Shows command of the specific adjustable variables in an existing fermentation train — tanks in series, input flow rates, mixer cycling — and commits to picking up the predecessor operator's testing rather than starting over.
 reuse-notes: Replace the tank count, input streams, and mixer configuration with the verified arrangement at the target facilities. The "pick up where our predecessor leaves off" line is an incumbent-displacement device and only works where a prior operator has an unfinished optimization program.

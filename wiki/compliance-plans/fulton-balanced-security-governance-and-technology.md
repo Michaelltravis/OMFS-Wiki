@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.security-governance
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SECURITY PLAN › Security Governance
 section-order: 49
 doc-order: 92
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: The full governance and technology halves of the three-part utility security model, written out rather than listed — leadership buy-in and enforceable policy on one side, the specific technology inventory a site assessment examines on the other, framed by the "secure without interrupting operations" premise evaluators respond to.
 reuse-notes: The governance and technology text is generic to utility security and transfers as written. Tailor the closing sentence to the target facilities and confirm which systems are already installed before implying an assessment finding.

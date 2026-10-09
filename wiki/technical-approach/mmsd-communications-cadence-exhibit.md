@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framew
 section-order: 11
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD
 doc-order: 98
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The most complete communications cadence table in the content bank — when, what, and who, from daily O&M reports through annual plan updates, including the standing committees (operations, maintenance, asset management, CMMS governance, IT governance, energy cost sharing, executive) and the contractual report due dates.
 reuse-notes: Rebuild the WHAT column from the target contract's required deliverables and due dates; the committee list should match the governance handbook proposed for that pursuit. Drop committees that do not exist in the target scope rather than promising governance the team will not staff.

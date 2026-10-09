@@ -26,6 +26,9 @@ section-id: ocwut-16-26:06.corrective-maintenance-program
 section-order: 10
 section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Corrective Maintenance Program
 doc-order: 96
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The clearest expression of the section's central argument — a documented failure chain (grit downtime to clarifier bypass to grit in aeration basins to accelerated wear to compliance events, repeating nearly monthly) used to prove that corrective maintenance is a data-generating control process, not a repair queue. Closes with three contractual KPIs and a per-facility corrective priority list.
 reuse-notes: The failure-chain device and the FMEA/root-cause discipline are universal; the specific chain, the monthly recurrence claim, the facility names, and the KPI identifiers and their day counts are pursuit-specific. Only use the failure-chain narrative where the proposer's own due diligence documented it — its persuasive force comes from being observed, not asserted.

@@ -26,6 +26,9 @@ section-id: ocwut-16-26:28.risk-management-and-continuity-of-operations
 section-order: 11
 section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Risk Management and Continuity of Operations
 doc-order: 192
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral municipal water utility trust capital-program handover.
 quality: Source-faithful risk-to-mitigation controls for cutovers, new technology, compliance, and continuity.
 reuse-notes: Rebuild the risk register against the target program; retain go/no-go, fallback, and communication controls.

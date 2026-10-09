@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:11.4-long-term-retention-and-succession-planning
 section-order: 9
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 4. LONG-TERM RETENTION AND SUCCESSION PLANNING
 doc-order: 29
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Answers the certified-operator shortage with mechanics rather than sentiment — pre-retirement hiring and cross-training, named career ladders from OIT to shift lead, analogous maintenance tracks, deliberate cross-training blocks for redundancy, and certification bonuses with stated award levels. The "Keep People, Grow People, Honor Knowledge" frame is a reusable header for any retention subsection.
 reuse-notes: Re-verify the certification bonus levels against current company policy before restating them, and register the figures in proof-points/registry.md. Swap the trade list in the apprenticeship-integration bullet to the trades the new facility actually employs. Tie the succession plan to the pursuit's own training section rather than to Section II.E.

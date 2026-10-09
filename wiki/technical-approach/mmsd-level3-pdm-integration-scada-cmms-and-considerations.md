@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:32.8-integration-with-scada-and-nexgen-cmms
 section-order: 9
 section-path: IV. Approach Summary › IV.D. Potential Additive Work – Level 3 PdM › 8. INTEGRATION WITH SCADA AND NEXGEN CMMS
 doc-order: 232
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production and regional conveyance, 2028 challenger bid against an incumbent operator; WDNR. Advanced PdM was priced as a separate additive line item with its own pricing worksheet item."
 quality: "Closes a technical offer the way an evaluator wants it closed — the data path drawn end to end (PdM tools → SCADA → historian → CMMS → work orders → asset health scores), then an explicit statement that base scope and additive scope do not overlap and that pricing, documentation, and cybersecurity follow the RFP's own exhibits."
 reuse-notes: "Re-point the exhibit references (Exhibit B documentation, Exhibit Q cybersecurity, Pricing Worksheet Item J here) at the target RFP's equivalents. The no-double-counting statement is the reusable move on any bid that splits base and additive scope; keep it explicit."

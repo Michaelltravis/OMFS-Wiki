@@ -27,6 +27,9 @@ section-id: ocwut-16-26:24.oklahoma-corporation-commission-occ-petroleum-storage
 section-order: 9
 section-path: Section 4 | Oklahoma Law › OKLAHOMA CORPORATION COMMISSION (OCC)— PETROLEUM STORAGE TANKS
 doc-order: 161
+volatility: regulatory
+review-due: 2026-11-02
+freshness-flags: []
 context: Oklahoma municipal utility with OPDES stormwater obligations and a 170-site, 13,500-acre Class B biosolids land-application program.
 quality: Pairs executable stormwater responsibility with a specific legislative-risk scenario and contingency-planning posture.
 reuse-notes: Validate current legislation, pilot status, land-application footprint, Schedule 12 responsibilities, and alternative disposal pathways before reuse.

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:02
 section-order: 1
 section-path: I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary
 doc-order: 1
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The opening move of a challenger executive summary — it restates the client's own stated reason for competing the contract (fresh perspective, innovation, accountability), promises to meet every requirement plus "Above and Beyond" improvements from Day 1, then compresses the whole proposal into six named attributes the reader can carry through the document.
 reuse-notes: Replace the client's strategic-plan name ("2035 Vision") with the pursuit's own plan or master plan name, and re-anchor the six attributes to the priorities the RFP actually states. The "One Water, One Team, One Vision" tagline and the ONE TEAM / ONE VISION / ONE WATER lockup are pursuit-branded; rebuild the equivalent for the new pursuit. Keep the six-attribute structure and the "Above and Beyond Value-Added Strategies" wrapper — they are what makes the rest of the executive summary navigable.

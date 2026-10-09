@@ -26,6 +26,9 @@ section-id: ocwut-16-26:03.jacobs-understands-ocwut-s-facilities-and-its-goals-f
 section-order: 6
 section-path: Section 1 | Technical Approach › JACOBS UNDERSTANDS OCWUT'S FACILITIES AND ITS GOALS FOR THIS O&M CONTRACT
 doc-order: 21
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The "firefighting maintenance mode" diagnosis, delivered with named evidence (RAS pumps, blowers and grit systems chronically out of service with no documented repair plan; a blower explosion; MCCs at end of life; OT assets absent from the CMMS; 23 maintenance FTEs across four dispersed plants with no planner/scheduler) and answered with a specific organizational fix rather than a slogan. The CIP row shows a bidder positioning O&M as an input to design reviews at 35, 60 and 100 percent — the more-than-an-operator argument in one cell.
 reuse-notes: "Reusable: the reactive-to-proactive culture argument anchored in a dedicated planner/scheduler, the joint Baseline Condition Assessment signed with the client, the 95% weekly PM closure commitment, and the design-review participation ladder. Pursuit-specific: equipment makes, plant conditions, CIP project list and dates, capacity figures, the ~$20K hypochlorite cartridge issue, and all deduction weights. The 95% PM closure target and the regional heavy-maintenance bench are house positions and travel well."

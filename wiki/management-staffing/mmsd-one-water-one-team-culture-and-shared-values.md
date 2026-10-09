@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:16.1-building-our-one-water-one-team-one-vision-culture
 section-order: 1
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.G. Positive Corporate Culture › 1. BUILDING OUR ONE WATER, ONE TEAM, ONE VISION CULTURE
 doc-order: 42
+volatility: corporate-figure
+review-due: 2027-01-30
+freshness-flags: [divergent-figure]
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Turns a soft "corporate culture" requirement into displacement evidence — the culture claim is immediately backed by three named utilities transitioned away from the same incumbent operator, then quantified with community-membership percentages rather than left as assertion.
 reuse-notes: The three cited transitions (Jackson, MS; West Basin, CA; Wilmington, DE) are real past-performance proof points and stay verbatim — confirm they are still current and that the incumbent being displaced in the new pursuit is the same operator before making the "from your current operator" claim. Refresh the FY community-membership percentages and the Communities of Practice / JEN counts to the current fiscal year.

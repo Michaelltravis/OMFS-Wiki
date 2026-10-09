@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.leadership-engagement-and-accountability
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SAFETY PLAN AND MANAGEMENT › Leadership Engagement and Accountability
 section-order: 45
 doc-order: 88
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: Names the specific leaders who own safety, ties leadership engagement to training and accountability mechanics, and closes with an industry-benchmarked incident-rate claim and a proactive-versus-reactive differentiator.
 reuse-notes: Replace the named supervisors, Health and Safety Manager, and Project Manager with the proposed team for the target pursuit; reconfirm the Exhibit 2-40 incident-rate benchmark and its data vintage before restating it; confirm tablet-based safety documentation is in the target operating model.

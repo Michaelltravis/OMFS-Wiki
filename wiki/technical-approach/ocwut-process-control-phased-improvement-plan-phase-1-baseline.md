@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.process-control-system-phased-performance-improvement
 section-order: 31
 section-path: Section 1 | Technical Approach › Operations Plan › SCADA/OPERATIONAL TECHNOLOGY (OT)/ CYBERSECURITY › Process Control System Phased Performance Improvement Plan
 doc-order: 66
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: States the discipline that separates a credible automation roadmap from a technology pitch — "automation and intelligence perform only as well as the process definition and data foundation beneath them" — then shows Phase 1 tailored separately to aging multi-lifecycle plants and to a brand-new plant.
 reuse-notes: The demands-versus-means framing and the shadow-asset definition are portable to any multi-facility O&M pursuit. Tailor the per-facility paragraphs to the actual mix of legacy and new plants in the pursuit; where all facilities are of one vintage, keep only the matching paragraph. Pairs with the Phase 2 and Phase 3 blocks — the three phases are written to be presented together.

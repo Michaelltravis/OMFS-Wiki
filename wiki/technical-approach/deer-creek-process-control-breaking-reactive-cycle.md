@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.deer-creek-wwtp-breaking-the-cycle-of-reactive-operat
 section-order: 6
 section-path: Section 1 | Technical Approach › Operations Plan › PROCESS CONTROL STRATEGY › Jacobs’ Process Control Strategy Tailored to Each OCWUT Facility › Deer Creek WWTP— Breaking the Cycle of Reactive Operations
 doc-order: 41
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: [open-ended-date]
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A model answer to the "what will you do before the capital project arrives" question — it separates the long-term CIP fix for severe H₂S from the operational adjustments (transfer timing, blending, pressing frequency) that deliver rapid odor relief in the meantime, and pairs that with restoring filtration automation and reactivating idle anoxic selectors.
 reuse-notes: "Reusable wherever an operator is inheriting reactive wasting, manual filtration, and a septic sludge holding tank. Pursuit-specific: the 2019 selector outage, the replaced submersible mixers, the 1,763 kWh/MG baseline, and the CIP schedule. Confirm whether the client already has the CIP funded before promising to sequence around it."

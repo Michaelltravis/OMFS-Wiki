@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:02.regional-partnership-ideas-to-enhance-the-community
 section-order: 12
 section-path: I. Identity of Proposer and Guarantor; Financial Assurances Requirements › Executive Summary › Regional Partnership Ideas to Enhance the Community
 doc-order: 12
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'A model executive-summary close: first restate the client''s own definition of success in their words, then answer it with six numbered commitments that map one-to-one onto the six core attributes opened on the first page, and finish with a signed statement from the firm''s Chair and CEO that makes the commitment personal at the top of the company.'
 reuse-notes: Rebuild the success-criteria sentence from the pursuit's RFP and capture notes — its power comes entirely from being the client's words. Keep the one-to-one mapping between the closing commitments and whatever attributes the summary opened with; if the opening changes, this list must change with it. Confirm the CEO quotation is current before use.

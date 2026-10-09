@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:26.3-9-capital-project-and-asset-life-cycle-integration
 section-order: 15
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.9. Capital Project and Asset Life-Cycle Integration
 doc-order: 178
+volatility: corporate-figure
+review-due: 2027-01-30
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, CIP exceeding $2B, 2028 challenger bid against an incumbent operator; WDNR."
 quality: "Connects maintenance data to capital decisions end to end: three investment streams, renewal forecasting from maintenance data, and the ARM tool's three triggers — with the client's own $2B CIP as the reason it matters."
 reuse-notes: "Replace the client's CIP size and the asset-type count with the target's numbers, and confirm which asset management tools (ARM, Asset Condition Evaluation System) the pursuit team is offering. A narrower ARM-only treatment exists at wiki/technical-approach/arm-tool-asset-replacement-modeling-capital-planning.md (source ocwut-16-26) — pick one per proposal rather than running both."

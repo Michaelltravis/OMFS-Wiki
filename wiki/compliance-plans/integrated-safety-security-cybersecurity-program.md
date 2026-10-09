@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.integrated-safety-security-and-cyber-resilience
 section-order: 17
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › INTEGRATED SAFETY, SECURITY, AND CYBER RESILIENCE
 doc-order: 50
+volatility: safety-stat
+review-due: 2027-04-02
+freshness-flags: [divergent-figure]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Combines quantified corporate safety proof points (5-year RIR and LTIR against BLS industry averages, EMR below 1.0) with a concrete, checklist-style site-specific safety, security, and OT-cybersecurity plan and a dated 30-day submission commitment
 reuse-notes: Refresh the BLS benchmark year range (2018-2022 here) and the RIR/LTIR statistics from current corporate safety data before reuse; rewrite the physical-security-findings paragraph from an actual site walk of the target facility rather than reusing the perimeter-fencing observation; confirm the 30-day plan submission commitment matches the target RFP.

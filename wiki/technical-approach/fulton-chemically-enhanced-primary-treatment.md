@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition
 section-order: 15
 doc-order: 58
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: Reads the original plant design drawings for intent — ferric chloride piping upstream of the primaries — and reasons from there to a two-metal-salt strategy that protects membranes and UV lamps. Closes with a stated client benefit.
 reuse-notes: Confirm whether the target facility has anaerobic digestion, what metal salt is fed today, and whether the design included primary-side chemical feed. The benefit statement should be restated in the client's own terms.

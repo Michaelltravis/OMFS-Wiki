@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:21.energy-and-chemical-optimization
 section-order: 7
 section-path: IV. Approach Summary › Energy and Chemical Optimization
 doc-order: 81
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The clearest statement of the "we bring value inside the fee, not as a change order" argument, with a quantified 10-year total, a 24-month implementation commitment, and a named pipeline of future savings. This is the paragraph that converts a technical approach into a financial case.
 reuse-notes: Every dollar figure must be recomputed for the target pursuit and locked in the spec sheet before use. Keep the structure — value inside the fee first, then the separately-tracked future pipeline — so the two are never confused. Confirm the implementation window (24 months) matches what operations will actually commit to.

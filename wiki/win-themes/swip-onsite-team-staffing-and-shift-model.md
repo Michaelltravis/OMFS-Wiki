@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:03.high-caliber-onsite-team-qualifications-
 section-order: 3
 section-path: Executive Summary › HIGH-CALIBER ONSITE TEAM—QUALIFICATIONS AND COMMITMENT
 doc-order: 5
+volatility: people
+review-due: 2026-03-11
+freshness-flags: [divergent-figure]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Names every leadership role with its certification grade, then converts the roster into three concrete commitments an evaluator can score — permit-required certifications backstopped by operators from nearby projects, two new shared regional technicians for surge, and a hybrid shift pattern that eliminates lone-shift operations.
 reuse-notes: Named individuals, certification grades, and the shift pattern are this pursuit's real proposed team and coverage plan — confirm current assignment and resize the shift model to the target facility's coverage requirements. Swap the nearby backstop projects (West Basin, Gilroy) for projects genuinely within surge distance of the new site.

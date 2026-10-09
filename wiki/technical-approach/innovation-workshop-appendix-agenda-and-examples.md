@@ -27,6 +27,9 @@ section-id: hull-wwtf-om-2026:15
 section-order: 1
 section-path: Section 7 - Appendix D - Innovation Workshop Agenda and Examples
 doc-order: 84
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: [divergent-figure]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Converts the annual Innovation Workshop promise into evidence — the appendix carries the proposed first-year agenda framing plus a real, dated agenda from a workshop already delivered for another O&M client, closed by a named client quote with a phone number on the record.
 reuse-notes: The delivered-workshop agendas (Traverse City, MI and Wilmington, NC/DE) are reference-client material and stay verbatim; confirm they remain shareable and current before reproducing. Replace the proposed first-workshop topic framing with topics drawn from the target client's own stated priorities, and re-confirm the client quote and attribution with the speaker before any external use.

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:12.3-pm-staffing-and-schedule-discipline
 section-order: 3
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.C. PM and CM Staffing › 3. PM STAFFING AND SCHEDULE DISCIPLINE
 doc-order: 34
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Solves the credibility problem every PM/CM ratio promise has — it names the mechanism (reserved CM capacity in the schedule, pre-kitted parts, criticality-based assignment) by which corrective work stops eating the preventive plan.
 reuse-notes: Swap the contract's CM classification model (here Level A/B) and the PdM maturity level for the pursuit's own terms, and point the wet-weather paragraph at the correct emergency response plan section.

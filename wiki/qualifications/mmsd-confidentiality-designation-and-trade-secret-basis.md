@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:08
 section-order: 1
 section-path: I. Identity of the Proposer and Guarantor; Financial Assurances Requirements › I.E. Confidentiality Statement
 doc-order: 15
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR regulatory regime, Wisconsin public records law.
 quality: A disciplined confidentiality statement that marks only specific pages rather than the whole proposal, cites the state public-records exemption by statute, enumerates the six categories of material claimed as trade secrets, states the two harms that public disclosure would cause, and concedes that the client makes the final exemption determination. This is the posture that keeps a confidentiality claim credible with a public-agency evaluator instead of reading as a blanket stamp.
 reuse-notes: Swap the statutory citations for the governing public-records and trade-secret statutes in the pursuit's state, and confirm with legal before filing. Keep the claim page-specific — list the actual page numbers designated and make sure the designated pages match what was stamped in the production file. The six-category list is reusable as written; drop any category the proposal does not actually contain (for example, internal pricing when pricing is submitted in a separate sealed volume).

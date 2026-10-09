@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.proven-approach-to-supporting-existing-employe
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Proven Approach to Supporting Existing Employees and Transition Success
 section-order: 3
 doc-order: 111
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: Short, concrete opening move for a staff-transition narrative — ties the needs assessment to a revised skillset list and to best-fit placement and development of incumbent staff, which answers the transitioning employee's first question without promising anything unverifiable.
 reuse-notes: Pair with the six-step retention and hiring process and the compensation-package language. Replace the JV name with the proposing entity if not a JV bid; confirm the needs assessment is actually scheduled in the transition schedule the proposal commits to, and name the transition week or milestone if the RFP asks for timing.

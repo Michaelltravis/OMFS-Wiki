@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:11.3-3-building-the-pipeline-with-apprenticeships-and-u
 section-order: 8
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.B. HR and Staffing Capability › 3. UNION AND LABOR RELATIONS › 3.3. Building the Pipeline with Apprenticeships and Union Partnerships
 doc-order: 28
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A workforce-development commitment with a concrete, already-underway artifact behind it — a state-approved apprenticeship program built with the State of Wisconsin and administered through MATC, with Jacobs as primary sponsor. That specificity is what separates this from generic pipeline language.
 reuse-notes: The state-approved apprenticeship program is real and specific to this pursuit's region; for another pursuit, name the actual state apprenticeship authority and community or technical college partner, or cite the Wisconsin/MATC program as precedent rather than as a local offer. Verify sponsorship status with the workforce development lead before claiming primary sponsor.

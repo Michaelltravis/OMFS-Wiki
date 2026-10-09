@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:36.4-thames-tideway-program-london-uk
 section-order: 3
 section-path: V. Statement on Regional Partnership › V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts › 4. Thames Tideway Program, London, UK
 doc-order: 246
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Pairs a large multi-system scope (13 water treatment systems, four wastewater facilities, collection and distribution, meter reading, solid waste, 55-plus communities) with community work that is unusually concrete — a resident academy that brought roughly 250 residents through the plants, and an operator development program that licensed four operators in one year by promoting from within.
 reuse-notes: Verify the system counts and the resident tour figure with the account team; both change with the client's growth. Select this example when the pursuit involves a portfolio of facilities or a ratepayer base that wants to understand what its fees buy.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:15.jacobs-wastewater-engineering-and-mbr-experien
 section-order: 4
 section-path: Section 4 | Relevant Project Experience › JACOBS WASTEWATER ENGINEERING AND MBR EXPERIENCE
 doc-order: 148
+volatility: project-outcome
+review-due: 2027-04-18
+freshness-flags: []
 context: Source-verbatim MBR additional-experience table from a Southeast county wastewater O&M pursuit.
 quality: Direct reference table pairing facility location, three flow measures, commissioning, Jacobs role, and membrane supplier across the additional-experience portfolio.
 reuse-notes: "VERBATIM past-performance table. Retain every facility name, capacity, role, supplier, footnote, and date exactly; confirm project status before external reuse."

@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.observations-and-understanding-of-the-ci
 section-order: 6
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › PROCESS CONTROL › Observations and Understanding of the City’s Operations'
 doc-order: 34
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Combines a technically credible MBR optimization methodology (weekly bug counts; SRT, MLSS, DO, ORP, ammonia, nitrate, pH, and suspended-solids monitoring; KPI development) with named proprietary modeling tools and direct access to national subject matter experts - operator-level discipline plus enterprise-level depth.
 reuse-notes: The MBR parameters apply directly to any MBR facility; substitute the relevant process-control parameters for other treatment trains. The lift-station monitoring language suits any pursuit with a critical upstream pump station. The page-46 digital-tools and Replica(TM) Digital Twin passage that used to close this block now lives in swip-replica-digital-twin-plant-digital-tools.md.

@@ -33,6 +33,7 @@ import sys
 import json
 import re
 import argparse
+import datetime as _dt
 from pathlib import Path
 
 try:
@@ -46,6 +47,8 @@ except ImportError:
 KEY_LINE_RE = re.compile(r'^([A-Za-z0-9_.\-]+):(\s.*|)$')
 
 NEW_KEY_ANCHOR = "context"
+ROOT = Path(__file__).resolve().parent.parent
+ISO_DATE_RE = re.compile(r"^[0-9]{4}-[0-9]{2}-[0-9]{2}$")
 
 
 def render_scalar(value):
@@ -55,6 +58,12 @@ def render_scalar(value):
         raise ValueError(
             f"Cannot patch a frontmatter value containing a newline: {value!r}"
         )
+    # ISO dates (str or datetime.date) are written bare: yaml.safe_dump would quote
+    # the string form ('2026-09-05'), which is how 22 blocks ended up with quoted dates.
+    if isinstance(value, _dt.date):
+        return value.isoformat()
+    if isinstance(value, str) and ISO_DATE_RE.match(value):
+        return value
     if HAVE_YAML:
         dumped = yaml.safe_dump(
             value, default_flow_style=True, allow_unicode=True, width=10**6
@@ -208,6 +217,50 @@ def apply_patch(text, patch, path_for_errors):
     return new_text, summary
 
 
+def resolve_path(p):
+    """Patch paths are repo-root-relative (the documented form); accept CWD-relative
+    and absolute paths too so callers in another directory still work."""
+    path = Path(p)
+    if path.is_absolute():
+        return path
+    if (ROOT / path).is_file():
+        return ROOT / path
+    return path
+
+
+def apply_patches(patches, dry_run=False, quiet=False):
+    """Apply a list of patch dicts in-process. Returns a list of
+    {"path", "action": WRITE | NO CHANGE | WOULD WRITE, "summary"}.
+    Raises FileNotFoundError (before writing anything) if any path is missing,
+    ValueError if a patch would change a body."""
+    if not isinstance(patches, list):
+        raise ValueError("patches must be a JSON list")
+    missing = [p["path"] for p in patches if not resolve_path(p["path"]).is_file()]
+    if missing:
+        raise FileNotFoundError("unknown path(s), no files were modified: " + ", ".join(missing))
+
+    results = []
+    for p in patches:
+        path = resolve_path(p["path"])
+        original = path.read_text(encoding="utf-8")
+        new_text, summary = apply_patch(original, p, p["path"])
+        _, orig_body = split_frontmatter(original)
+        _, new_body = split_frontmatter(new_text)
+        if orig_body != new_body:
+            raise ValueError(f"body would change for {p['path']} — aborting")
+        changed = new_text != original
+        action = "WOULD WRITE" if (dry_run and changed) else ("WRITE" if changed else "NO CHANGE")
+        if not quiet:
+            print(f"[{action}] {p['path']}")
+            for k in ("set", "appended", "added", "deleted"):
+                if summary[k]:
+                    print(f"    {k}: {', '.join(summary[k])}")
+        if changed and not dry_run:
+            path.write_text(new_text, encoding="utf-8")
+        results.append({"path": p["path"], "action": action, "summary": summary})
+    return results
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("patches_json")
@@ -215,57 +268,16 @@ def main():
     args = ap.parse_args()
 
     patches = json.loads(Path(args.patches_json).read_text(encoding="utf-8"))
-    if not isinstance(patches, list):
-        print("patches.json must be a JSON list", file=sys.stderr)
-        sys.exit(1)
-
-    # Validate all paths exist before touching anything.
-    missing = []
-    for p in patches:
-        path = Path(p["path"])
-        if not path.is_file():
-            missing.append(p["path"])
-    if missing:
-        print("ERROR: unknown path(s), no files were modified:", file=sys.stderr)
-        for m in missing:
-            print(f"  - {m}", file=sys.stderr)
-        sys.exit(1)
-
     if not HAVE_YAML:
         print("(pyyaml not found — using minimal built-in scalar renderer)")
-
-    for p in patches:
-        path = Path(p["path"])
-        original = path.read_text(encoding="utf-8")
-        try:
-            new_text, summary = apply_patch(original, p, p["path"])
-        except Exception as e:
-            print(f"ERROR patching {p['path']}: {e}", file=sys.stderr)
-            sys.exit(1)
-
-        # Verify body is byte-identical.
-        _, orig_body = split_frontmatter(original)
-        _, new_body = split_frontmatter(new_text)
-        if orig_body != new_body:
-            print(f"ERROR: body would change for {p['path']} — aborting this file", file=sys.stderr)
-            sys.exit(1)
-
-        changed = new_text != original
-        action = "WOULD WRITE" if args.dry_run else ("WRITE" if changed else "NO CHANGE")
-        print(f"[{action}] {p['path']}")
-        if summary["set"]:
-            print(f"    set: {', '.join(summary['set'])}")
-        if summary["appended"]:
-            print(f"    appended: {', '.join(summary['appended'])}")
-        if summary["added"]:
-            print(f"    added: {', '.join(summary['added'])}")
-        if summary["deleted"]:
-            print(f"    deleted: {', '.join(summary['deleted'])}")
-
-        if changed and not args.dry_run:
-            path.write_text(new_text, encoding="utf-8")
-
-    print("Done.")
+    try:
+        results = apply_patches(patches, dry_run=args.dry_run)
+    except Exception as e:
+        print(f"ERROR: {e}", file=sys.stderr)
+        sys.exit(1)
+    n_write = sum(1 for r in results if r["action"] == "WRITE")
+    n_would = sum(1 for r in results if r["action"] == "WOULD WRITE")
+    print(f"Done. {n_write} written, {n_would} would write, {len(results) - n_write - n_would} unchanged.")
 
 
 if __name__ == "__main__":

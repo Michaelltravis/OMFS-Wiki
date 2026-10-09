@@ -26,6 +26,9 @@ section-id: ocwut-16-26:26.cross-training-program
 section-order: 10
 section-path: Section 5 | Required Plans Submitted with the Proposal › Staffing and Training Plan › Individualized Training Program › Cross-Training Program
 doc-order: 172
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement.
 quality: Source exhibit reconstructed as a reusable role-to-topic matrix without losing its operations, maintenance, safety, and leadership specificity.
 reuse-notes: Replace topics with site hazards, permits, equipment, roles, and learning-platform offerings applicable to the pursuit. Rebuild graphically if visual design is required; source graphic asset is 187_009385.

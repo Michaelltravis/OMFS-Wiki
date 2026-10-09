@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.pre-start-transition-15-days-prior-to-june-6
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Pre-Start Transition (15 Days Prior to June 6)
 section-order: 11
 doc-order: 119
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "The two phases an evaluator actually worries about, written plainly: what gets done before anyone changes employers, and how the 'badge flip' is staged so institutional knowledge survives it."
 reuse-notes: "Reset both phase lengths and every calendar date to the target commencement date; keep the shadowing-before-badge-flip sequence, which is what makes the continuity claim credible."

@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:10.proven-innovative-regional-maintenance-t
 section-order: 7
 section-path: 'Section 3: Key Personnel › 3.1 STAFFING PLAN › PROJECT TEAM AND THEIR QUALIFICATIONS › Proven, Innovative Regional Maintenance Team Approach'
 doc-order: 73
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Four concrete, verifiable maintenance-execution case studies (equipment/system replacement, emergency power restoration, new equipment room construction, instrumentation replacement) from real projects — strong tangible evidence for any "our maintenance team can execute" claim in a technical approach or staffing section.
 reuse-notes: These are real other-client project names and are kept verbatim as proof points (not the pursuit client, so no [CLIENT] substitution applies). Select the subset most relevant to the target facility's likely maintenance needs; verify project names/details are still current/approved for external reuse before each pursuit.

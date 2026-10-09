@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiw
 section-order: 15
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF
 doc-order: 115
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The opening of a solids focus area that credits a century of successful operation, then earns the right to optimize by naming the real system complexity (interdependent sludge streams, interplant transfers, integrated energy). Also carries the original-designer proof point with named staff still at the firm.
 reuse-notes: 'The "almost a century" tenure, the interplant pumping system, and the named original design staff are pursuit-specific. Keep the framing pattern: credit performance, name the interdependency, then offer an integrated process-and-energy model for what-if scenarios.'

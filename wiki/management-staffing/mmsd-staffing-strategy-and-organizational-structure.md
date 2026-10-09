@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:10
 section-order: 1
 section-path: II. Statement on Staffing, Training and Corporate Culture › II.A. Staffing Strategy and Key Positions
 doc-order: 16
+volatility: people
+review-due: 2026-07-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The opening move of a challenger staffing section — earns the right to propose by naming two years of pre-RFP listening, then converts that into a staffing philosophy (energize the workforce, strengthen belonging), an organizational structure that is provably compliant plus "above and beyond," and a transparency commitment anchored in portfolio scale.
 reuse-notes: Replace the listening period, the client's long-range vision language, and the RFP exhibit reference for minimum staffing. Refresh the contract count and the wastewater-engineering tenure against the current corporate proof points. Re-point the exhibit references (org chart, value-added positions, resume page) to the new proposal's numbering.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:09.4-comprehensive-support-for-every-aspect-of-wa
 section-order: 11
 section-path: Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 4. Comprehensive support for every aspect of wastewater operations
 doc-order: 24
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim proof of incumbent transition, integrated asset management, water-system expansion, and community stewardship.
 reuse-notes: Confirm current project status, client authorization, and speaker approval before external use. Use the examples as reference material, not as a substitute for target-specific transition planning.

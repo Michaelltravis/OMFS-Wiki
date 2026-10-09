@@ -27,6 +27,9 @@ section-id: ocwut-16-26:06.lifecycle-delivery-and-how-the-samp-looks-day-to-day
 section-order: 6
 section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Asset Management Plans (AMPs) › Lifecycle Delivery and How the SAMP Looks Day-to-Day
 doc-order: 92
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Shows how policy becomes practice — a five-stage work order lifecycle with named role swimlanes (requestor, planner/scheduler, operations/maintenance) and an explicit chronic-issue loop back into RCA and PM/PdM strategy, anchored to a corporate standard (the Maintenance and Reliability Resource Guide).
 reuse-notes: The five-stage lifecycle, the swimlane structure, and the chronic-issue management loop are universal and reusable verbatim on any O&M pursuit. Note that the source graphic contains a leftover reference to dashboards "provided to MMSD" from a prior project's version of the exhibit — replace that with the target client before use. Confirm the current title of the corporate Maintenance and Reliability Resource Guide.

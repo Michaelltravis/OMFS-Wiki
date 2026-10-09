@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:25.2-4-2-jacobs-ot-asset-automated-backup-and-version-c
 section-order: 22
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.4. Delivering World-Class Operational Technology (OT) Tools and Expertise › 2.4.2. Jacobs OT Asset Automated Backup and Version Control
 doc-order: 149
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Converts five OT backup features into operating consequences the client cares about — restoring a failed controller in minutes, not hours, during wet weather to reduce overflow risk; auditable logic changes that simplify regulatory reporting and support discharge-permit compliance; governance that protects interlocks on critical assets; drift detection that catches contractor errors; and one standard across Rockwell, Schneider, Siemens, and other OEM systems.
 reuse-notes: Substitute the pursuit's controller vendors, its permit program, and the failure scenario in the recovery row (wet weather here; elsewhere it may be a peak-demand or process-critical window).

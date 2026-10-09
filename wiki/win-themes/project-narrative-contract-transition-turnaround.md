@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:13
 section-order: 5
 section-path: Section 7 - Appendix B - Project Descriptions
 doc-order: 75
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: [divergent-figure]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The strongest differentiator for pursuits where Jacobs is displacing a large incumbent operator — a quantified early-win list, savings against two forecasts, three years of permit-compliance awards, and a regulatory-driven design-build follow-on that shows both immediate operational lift and long-term technical partnership.
 reuse-notes: "Best used when the target facility is currently operated by a large national competitor or is facing a nutrient (nitrogen/phosphorus) consent order. Keep the savings figures — they are outcome figures, not commercial pricing — and register each in proof-points/registry.md before it appears in a draft. Replace the callout and debris-container counts with real, verifiable numbers from whichever reference project is actually being cited. The reference client, its awards, and the named incumbent are stated verbatim in past-performance/project-westerly-ri.md."

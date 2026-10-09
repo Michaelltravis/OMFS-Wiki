@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:22
 section-order: 2
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM
 doc-order: 84
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: 'The challenger''s answer to "you don''t know our system": two years of engagement and more than 16,000 hours of due diligence, quantified, followed by an explicit alignment to the client''s own strategic objectives. Rare, defensible proof of understanding.'
 reuse-notes: The hours figure must be the real, tracked figure for the pursuit — it is the entire load-bearing claim here. Replace the strategic-objective bullets with the target client's own published objectives, quoted in their words.

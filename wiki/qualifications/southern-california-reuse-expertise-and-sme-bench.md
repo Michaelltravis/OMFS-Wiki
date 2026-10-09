@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:06.proven-advanced-treatment-and-reuse-expe
 section-order: 4
 section-path: 'Section 2: Qualifications › 2.2 TECHNICAL QUALIFICATIONS, CAPABILITIES, REFERENCES ANDRELEVANT EXPERIENCE › Proven Advanced Treatment and Reuse Experience in California'
 doc-order: 22
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Names specific, checkable SMEs and regulatory relationships (Los Angeles RWQCB, Division of Drinking Water, WateReuse California DPR working group) — strong credibility signal for any potable/indirect potable reuse pursuit in California, and directly useful if pursuing IPR-to-DPR transition work.
 reuse-notes: Staff names are kept per wiki policy — verify the named SMEs (Melanie Holmer, Michael Hwang, Jim Lozier, Larry Schimmoller, Paul Swaim) are still current on Jacobs' potable reuse bench and available before naming them in a new proposal. Replace [CLIENT] with the pursuit's client descriptor and restate the client's own stated reuse ambition where this text says "[CLIENT]'s ambitions."

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:16.reference-project-3-clovis-wwtp-reuse-facility
 section-order: 4
 section-path: 'Section 5 | Environmental Compliance Record › ENVIRONMENTAL COMPLIANCE RECORD › Reference Project #3: Clovis WWTP Reuse Facility, City of Clovis, California'
 doc-order: 161
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast county multi-facility wastewater O&M pursuit, bid by JC Solutions, a Jacobs/CERM JV; disclosed reference-project compliance record."
 quality: "Detailed, dated permit-exception table retained as a transparent reference disclosure with stated causes and corrective context."
 reuse-notes: "City of Clovis is an unrelated reference client and is retained as source proof. Use only as a labeled historical disclosure after reference authorization is confirmed; retain all dated exceptions, stated causes, and zero-result categories."

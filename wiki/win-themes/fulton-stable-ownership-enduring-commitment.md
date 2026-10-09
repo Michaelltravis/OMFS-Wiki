@@ -26,6 +26,9 @@ section-id: fulton-county-2025:09.1-meaningful-partnership-built-on-transparency
 section-path: Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › 1. Meaningful partnership built on transparency, accountability, and investment in community
 section-order: 6
 doc-order: 19
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit — three MBR water reclamation facilities and 33 pump stations, bid as JC Solutions, a Jacobs/CERM JV, 2025.
 quality: Compact ownership-stability differentiator that turns corporate structure into a client-facing risk argument against private-equity- and venture-backed competitors, without naming a competitor.
 reuse-notes: Universal wherever the competing operators are privately held, PE-owned, or recently acquired; substitute [CLIENT] and confirm the ownership claim still holds at the time of submittal. Pairs naturally with a partnership/transparency paragraph ahead of it and with community-involvement language after it.

@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:03.references
 section-order: 9
 section-path: Section 3 - Firm Qualifications and Experience › REFERENCES
 doc-order: 20
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Two short passages that do disproportionate work — the first pre-empts the objection that some reference projects sit outside the client's own regulatory region, and the second reframes "comparable" away from capacity alone and onto the operating conditions a coastal town actually lives with (residential proximity, wet weather, odor sensitivity, community stewardship).
 reuse-notes: Swap the three named comparable communities (Traverse City, Michigan; Key West, Florida; Westerly, Rhode Island) for reference projects that genuinely share the new client's operating conditions, and confirm each is currently authorized for use as a reference. The out-of-region concession in the first paragraph is only worth making when some references really do sit outside the client's region — delete it if all references are in-region, since raising the issue unnecessarily invites the doubt.

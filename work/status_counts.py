@@ -4,10 +4,12 @@
 Usage:
     python work/status_counts.py [--md]
 
-For each source slug: content blocks by category, verbatim pages, proof-point
-registry rows that cite the source, uncovered / writer-skipped paragraphs from
-work/gaps/, and whether every block carries section-order. --md prints a
-markdown table ready to paste into README.md.
+For each source slug: live content blocks by category, archived blocks, blocks
+whose review-due is past (from work/curation/report.json when present — run
+python work/freshness.py first), verbatim pages, proof-point registry rows that
+cite the source, uncovered / writer-skipped paragraphs from work/gaps/, and
+whether every block carries section-order. --md prints a markdown table ready
+to paste into README.md.
 """
 from __future__ import annotations
 
@@ -35,11 +37,23 @@ def main():
     idx = json.loads((ROOT / "wiki" / "index.json").read_text(encoding="utf-8"))
     by_src: dict[str, Counter] = defaultdict(Counter)
     missing_order: Counter = Counter()
+    archived: Counter = Counter()
     for b in idx:
         s = str(b.get("source"))
+        if b.get("status") == "archived":
+            archived[s] += 1
+            continue
         by_src[s][str(b.get("category"))] += 1
         if not b.get("section-order") or not b.get("doc-order"):
             missing_order[s] += 1
+
+    overdue: dict = {}
+    rep = ROOT / "work" / "curation" / "report.json"
+    if rep.is_file():
+        try:
+            overdue = json.loads(rep.read_text(encoding="utf-8")).get("counts", {}).get("overdue_by_source", {})
+        except Exception:
+            overdue = {}
 
     reg_rows: Counter = Counter()
     reg = ROOT / "proof-points" / "registry.json"
@@ -61,17 +75,20 @@ def main():
         c = by_src[slug]
         total = sum(c.values())
         cats = ", ".join(f"{c[k]} {k}" for k in CATS if c.get(k))
-        rows.append((slug, total, cats, pages, reg_rows.get(slug, 0), unc, ws, missing_order[slug]))
+        rows.append((slug, total, cats, pages, reg_rows.get(slug, 0), unc, ws, missing_order[slug],
+                     archived.get(slug, 0), overdue.get(slug, 0) if rep.is_file() else "-"))
 
     if args.md:
-        print("| Source | Blocks | By category | Verbatim pages | Registry rows | Uncovered ¶ | Writer-skipped ¶ | Blocks without order |")
-        print("|---|---:|---|---:|---:|---:|---:|---:|")
+        print("| Source | Blocks | By category | Archived | Review overdue | Verbatim pages | Registry rows | Uncovered ¶ | Writer-skipped ¶ | Blocks without order |")
+        print("|---|---:|---|---:|---:|---:|---:|---:|---:|---:|")
         for r in rows:
-            print(f"| `{r[0]}` | {r[1]} | {r[2]} | {r[3]} | {r[4]} | {r[5]} | {r[6]} | {r[7]} |")
+            print(f"| `{r[0]}` | {r[1]} | {r[2]} | {r[8]} | {r[9]} | {r[3]} | {r[4]} | {r[5]} | {r[6]} | {r[7]} |")
     else:
         for r in rows:
-            print(f"{r[0]}: blocks={r[1]} ({r[2]}); pages={r[3]}; registry_rows={r[4]}; uncovered={r[5]}; writer_skipped={r[6]}; missing_order={r[7]}")
-    print(f"total blocks: {len(idx)}")
+            print(f"{r[0]}: blocks={r[1]} ({r[2]}); archived={r[8]}; overdue={r[9]}; pages={r[3]}; registry_rows={r[4]}; uncovered={r[5]}; writer_skipped={r[6]}; missing_order={r[7]}")
+    live = sum(r[1] for r in rows)
+    print(f"total blocks: {len(idx)} ({live} live, {sum(archived.values())} archived"
+          + (f", {sum(v for v in overdue.values() if isinstance(v, int))} review overdue as of {json.loads(rep.read_text(encoding='utf-8')).get('today')}" if rep.is_file() else "") + ")")
 
 
 if __name__ == "__main__":

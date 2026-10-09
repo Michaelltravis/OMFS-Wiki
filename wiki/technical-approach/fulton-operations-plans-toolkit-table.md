@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.process-control
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Process Control
 section-order: 11
 doc-order: 54
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: The plan-by-plan table that turns the process-control narrative into named, shareable operating instruments, each paired with a stated client benefit — the exhibit evaluators read to see how compliance is actually assured.
 reuse-notes: Re-title the exhibit number for the new pursuit and confirm which laboratory (client, in-house, or third party) receives samples. Confirm the commitment to share UPCPs with the client before repeating it.

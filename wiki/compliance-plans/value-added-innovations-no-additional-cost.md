@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.innovation
 section-order: 32
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › INNOVATION
 doc-order: 65
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: [divergent-figure]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: the single most quotable device in the section — six named innovations, each priced, each with a stated client benefit, summing to a headline total delivered at no additional cost over the contract term
 reuse-notes: a prose-menu version of this same exhibit exists at ../technical-approach/value-added-innovations-menu-om-contracts.md — use this block when the section has room for the exhibit table and that block when it does not; reprice every line for the target pursuit and term rather than carrying these values forward, and confirm the discounted-rate multiplier and percentage against the commercial proposal before publishing

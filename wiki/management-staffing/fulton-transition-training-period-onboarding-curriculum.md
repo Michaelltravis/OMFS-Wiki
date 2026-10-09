@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.transition-training-period
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Transition Training Period
 section-order: 8
 doc-order: 116
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Turns 'we will train the staff' into a scoped transition-period curriculum, and treats the incumbent lab staff as people to learn from before protocols change — the respectful-transition move evaluators look for."
 reuse-notes: "Confirm the leadership-training hours and the OSHA/compliance course list against current corporate offerings, and adjust the laboratory paragraph where the client keeps lab work in-house or contracts it out."

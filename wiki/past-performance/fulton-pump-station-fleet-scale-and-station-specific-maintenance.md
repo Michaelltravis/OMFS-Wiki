@@ -26,6 +26,9 @@ section-id: fulton-county-2025:15.jacobs-collection-system-pump-station-experien
 section-path: Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE
 section-order: 7
 doc-order: 151
+volatility: project-outcome
+review-due: 2027-04-18
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: Hard fleet-scale proof numbers for pump-station experience — station count, plant count, pump count, horsepower range and manufacturer breadth — followed by the station-by-station tailoring argument that turns scale into relevance.
 reuse-notes: "Verify the fleet counts (700+ lift stations, 75 plants, 2,490 pumps) against the current corporate figure before reuse; horsepower range and manufacturer list can stay as written. Pair with the portfolio-level narrative in fulton-pump-station-operations-experience.md and with pursuit-specific station counts from the RFP."

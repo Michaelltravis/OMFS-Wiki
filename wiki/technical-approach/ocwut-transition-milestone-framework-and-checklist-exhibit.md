@@ -20,12 +20,15 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: low
-extracted: '2026-09-05'
-last-verified: '2026-09-07'
+extracted: 2026-09-05
+last-verified: 2026-09-07
 section-id: ocwut-16-26:29.structured-phased-transition-with-clear-accountability
 section-order: 3
 section-path: Section 5 | Required Plans Submitted with the Proposal › Draft Transition Plan › Structured, Phased Transition with Clear Accountability
 doc-order: 196
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A single-page graphic device that converts a contract schedule into a credibility claim — four dated milestone columns from award to operational start, each with its deliverables, headlined by three numbers (1,730 action items, 30 workstreams, 40+ years of transition experience). Graphic asset 105_009385.
 reuse-notes: Rebuild the four milestone columns from the new contract's transition schedule; the deliverable names shown here are Schedule 3 and Schedule 19 artifacts specific to this procurement. The three headline numbers are corporate/house figures — reconfirm the current checklist action-item and workstream counts before restating.

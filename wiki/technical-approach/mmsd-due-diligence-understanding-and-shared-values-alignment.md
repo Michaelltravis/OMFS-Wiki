@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:22
 section-order: 1
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM
 doc-order: 83
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The challenger's credibility move: quantified due diligence (2 years of SME engagement, more than 16,000 hours) placed directly against the client's own published strategic objectives. Converts 'we understand you' from a claim into a countable investment."
 reuse-notes: "Recompute the due-diligence hours and engagement period for each pursuit and register them. Replace the six strategic objectives with the client's own, quoted from their strategic plan or RFP, in their wording and order."

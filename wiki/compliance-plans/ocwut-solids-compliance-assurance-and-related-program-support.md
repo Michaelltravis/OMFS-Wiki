@@ -26,6 +26,9 @@ section-id: ocwut-16-26:30.odor-and-environmental-controls
 section-order: 8
 section-path: Section 5 | Required Plans Submitted with the Proposal › Solids Management Plan › Odor and Environmental Controls
 doc-order: 208
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US water utility trust challenger wastewater O&M pursuit, 2026; four-facility system exceeding 110 MGD under ODEQ.
 quality: Establishes daily-to-monthly compliance assurance, ties solids decisions to odor and process control, and shows the same documentation discipline applied to residuals, septage, and pretreatment support.
 reuse-notes: Confirm COM-3, COM-5, Schedule 6, receiving location, residual type, and program scope before reuse. Keep the explicit integration with odor and process control, but retain this as a Solids Management Plan block rather than an Operational Integration Plan.

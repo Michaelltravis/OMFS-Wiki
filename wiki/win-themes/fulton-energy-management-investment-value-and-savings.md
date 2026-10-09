@@ -26,6 +26,9 @@ section-id: fulton-county-2025:10.investment-value-and-cost-savings
 section-order: 11
 section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › ENERGY MANAGEMENT STRATEGY › Investment Value and Cost Savings
 doc-order: 35
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for three MBR wastewater facilities and associated pump stations under Georgia EPD oversight.
 quality: Near-verbatim financial-impact framing that connects rate optimization and operating changes to immediate annual savings and long-term asset value.
 reuse-notes: Revalidate local utility structures, savings ranges, escalation assumptions, and the underlying energy analysis before reuse. These are operational savings and value claims, not a fee schedule.

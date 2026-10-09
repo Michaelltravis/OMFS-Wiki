@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:21
 section-order: 1
 section-path: IV. Approach Summary
 doc-order: 75
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The opening move of a challenger bid: restates the client's own published priorities as shared priorities, then promises a 'no surprises' partnership. Compact, reusable, and directly tied to the client's long-range vision document."
 reuse-notes: "Swap the client's priority list and the name/date of their long-range vision (here a 2035 Vision). Replace the biosolids-product reference with the client's own product or reuse commitment. Pair with the Exhibit IV-1 priorities/plan grid block."

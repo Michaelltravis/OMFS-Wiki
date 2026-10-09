@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:01
 section-order: 1
 section-path: Section 1 - Cover Letter
 doc-order: 1
+volatility: people
+review-due: 2026-09-29
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The winning cover letter's first two paragraphs — it earns credibility by naming the client's actual coastal operating conditions (residential proximity, storm preparedness, odor, biosolids, I/I and wet-weather peaks) before naming anyone, then pairs two named on-site leaders with the regional/national specialist bench and evidence of pre-proposal site visits
 reuse-notes: Replace the operating conditions with the target client's real drivers; substitute the actual Project Manager and Regional Operations Manager and the region where their municipal wastewater experience sits; keep the site-visit sentence only if subject matter experts genuinely walked the facility

@@ -26,6 +26,9 @@ section-id: ocwut-16-26:06.dedicated-cip-construction-manager
 section-order: 19
 section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › CIP Project Implementation and Construction Coordination › Dedicated CIP Construction Manager
 doc-order: 105
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Frames a large concurrent CIP portfolio as public investment to be protected, then names a single dedicated position accountable for the interface between the utility, its consultants, contractors, and the operating team — with two named personnel callouts that give the role a face.
 reuse-notes: Replace the CIP project list and the named personnel (Tanner Pipher, PE; Liie Hill, PE) with the target pursuit's portfolio and proposed staff; re-cite the schedules defining the position (Schedule 10) and the CIP scope (Schedule 16) and the performance requirements (Schedule 5). The bios name real projects (Bixby SBR startup) — keep them intact if the same people are proposed.

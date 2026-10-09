@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:02.continuous-improvement-through-an-annual-innova
 section-order: 7
 section-path: Section 2 - Executive Summary › CONTINUOUS IMPROVEMENT THROUGH AN ANNUAL INNOVATION WORKSHOP
 doc-order: 10
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The partnership beat of a winning executive summary — it re-uses the "extension of your staff" phrase from the leadership narrative, names a concrete recurring mechanism (a facilitated annual workshop with client staff and SMEs) that makes the partnership claim falsifiable rather than rhetorical, and lands a real client testimonial that validates the workshop as substantive rather than a sales event
 reuse-notes: The testimonial is a real, attributed quote from a former reference-client system manager; confirm permission is on file and the attribution is current before reuse, and never re-attribute it to a different client. Trim the SME discipline list (process engineering, biosolids, collections, odor control, energy management, digital optimization) to what is genuinely relevant to the target facility. The full program description and a sample topic list live in the technical-approach block; this block is the short executive-summary version.

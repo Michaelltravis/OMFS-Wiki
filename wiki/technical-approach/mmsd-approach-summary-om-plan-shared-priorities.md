@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:21
 section-order: 2
 section-path: IV. Approach Summary
 doc-order: 76
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The opening move of a challenger bid — it names the client's own stated priorities back to them, ties each to an operating strategy, and closes on a "no surprises" partnership promise. Strong section-opener pattern for any large multi-facility O&M approach.
 reuse-notes: Replace the client's long-range plan name ("2035 Vision") and the priority list with the priorities the target client actually stated in its RFP, strategic plan, or capture intelligence. The branded biosolids product reference must be swapped for the target client's own product or dropped. The claim of "extensive engagement with staff" requires real due-diligence hours to back it — see the companion understanding block.

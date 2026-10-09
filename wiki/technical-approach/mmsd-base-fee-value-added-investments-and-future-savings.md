@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:21.energy-and-chemical-optimization
 section-order: 5
 section-path: IV. Approach Summary › Energy and Chemical Optimization
 doc-order: 79
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "The clearest statement in the library of the two-tier value-add offer: what is already inside the base fee and committed to a 24-month implementation window, versus a named pipeline of future opportunities with a bounded savings range. Carries the headline $107M figure."
 reuse-notes: "The $107M, $21–53M, 25-opportunity, and 24-month figures are pursuit-specific and must be re-derived and re-registered for each bid. Keep the structure: Day-1 commitment, no additional cost, joint prioritization, then the explicitly out-of-fee pipeline so the distinction is unambiguous to an evaluator."

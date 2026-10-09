@@ -26,6 +26,9 @@ section-id: ocwut-16-26:33.discounted-engineering-services-to-support-innovation
 section-order: 3
 section-path: 'Section 8 | Innovative and/or Alternative Recommendations › MORE THAN AN OPERATOR: OUR INNOVATIVE APPROACH TO O&M › Discounted Engineering Services to Support Innovation and Improvements'
 doc-order: 224
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The clearest expression of the "more than an operator" theme as a concrete, contractual offer rather than a slogan — a named discount, an open scope, and a menu of studies the client already wants. It converts the full-service firm argument into something the evaluator can price.
 reuse-notes: The multiplier and the market-rate reference are commercial terms specific to this pursuit; confirm the current approved discounted-engineering multiplier with the operations and pricing leads before restating them, and confirm the client's procurement rules allow non-compete task orders under the O&M contract. The menu of candidate studies must be rebuilt from the client's own known initiatives.

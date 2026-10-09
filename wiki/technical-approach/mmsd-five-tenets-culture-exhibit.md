@@ -17,7 +17,7 @@ proof-point-ids: [PP-2136]
 testimonial-ids: []
 story-ids: []
 status: preferred
-supersedes: mmsd-approach-to-management-client-for-life-and-five-tenets.md
+supersedes: wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md
 house-favorite: false
 sanitized: true
 sanitization-loss: none
@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:23.1-2-pgm-framework-is-the-foundation-of-our-shared-su
 section-order: 4
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success
 doc-order: 91
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A fully client-neutral statement of Jacobs' operating culture in five named tenets with a written definition of each — drop-in reusable for any pursuit, any size, any service line.
 reuse-notes: Contains no client-specific content; reusable verbatim. Tie each tenet to a concrete pursuit-specific commitment in the surrounding text so it reads as practice rather than values-poster language.

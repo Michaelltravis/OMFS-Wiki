@@ -7,8 +7,8 @@ source-section: "Appendix A - Resumes, pp. 69-74 (A-1–A-6); Section 1, Cover L
 status: preferred
 house-favorite: false
 proof-point-ids: []
-extracted: '2026-09-05'
-last-verified: '2026-09-05'
+extracted: 2026-09-05
+last-verified: 2026-09-05
 block-type: roster
 source-pages: [3, 20, 69, 70, 71, 73]
 verbatim-ref: [verbatim/hull-wwtf-om-2026/pages/p0020.md#¶25, verbatim/hull-wwtf-om-2026/pages/p0073.md#¶1]
@@ -23,6 +23,9 @@ section-id: hull-wwtf-om-2026:04.key-staff-and-management-team
 section-order: 4
 section-path: Section 4 - Project Staffing and Project Management Plan › CULTURE-DRIVEN LEADERSHIP FOR THE TOWN OF HULL › KEY STAFF AND MANAGEMENT TEAM
 doc-order: 28
+volatility: people
+review-due: 2026-09-29
+freshness-flags: []
 context: Proposed key-personnel team for the Coastal New England municipal WWTF (3.07 MGD) + collection system O&M pursuit (Town of Hull, MA, 2026).
 sanitized: false
 quality: Verbatim roster of the proposed team with contact info pulled directly from the signed cover letter; links each name to its full resume.

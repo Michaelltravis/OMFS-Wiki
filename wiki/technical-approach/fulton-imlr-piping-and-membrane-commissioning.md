@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.little-river-wrf-internal-mixed-liquor-recycle
 section-order: 18
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Little River WRF Internal Mixed Liquor Recycle
 doc-order: 61
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for multi-facility MBR operations."
 quality: "Near-verbatim continuation of the IMLR diagnostic and membrane-commissioning commitment."
 reuse-notes: "Confirm IMLR configuration, membrane condition, replacement schedule, and commissioning responsibility before reuse."

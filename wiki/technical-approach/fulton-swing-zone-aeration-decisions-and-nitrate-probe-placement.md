@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.swing-zones
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Swing Zones
 section-order: 17
 doc-order: 60
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: Shows the operating logic behind a swing-zone aeration decision — the ammonia-limit override, the nitrate-delivery alternatives when IMLR pumping is short, and the instrument-placement consequence — in the plant-specific detail that demonstrates real process command.
 reuse-notes: Confirm which bioreactor zones at the target facility are true swing zones, whether IMLR exists and at what capacity, whether RAS flow can be increased to deliver nitrate, and where the nitrate probe is physically installed before repeating any of these conclusions. Exhibit reference must be renumbered to the new proposal's exhibit sequence.

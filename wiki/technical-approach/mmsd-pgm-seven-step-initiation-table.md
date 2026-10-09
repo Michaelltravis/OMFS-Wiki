@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:23.1-2-1-how-we-ll-successfully-stand-up-our-pgm-framew
 section-order: 8
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.1. Approach to Management of Facilities › 1.2. PgM Framework is the Foundation of Our Shared Success › 1.2.1. How We’ll Successfully Stand Up our PgM Framework for MMSD
 doc-order: 95
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR"
 quality: "Converts an abstract governance promise into seven sequenced steps, each with a purpose and a named deliverable an evaluator can hold the team to. Deliverable names (Program Leadership Charter, Governance Handbook, Baseline Report and Risk Register, Team Charter) are the portable asset."
 reuse-notes: "Reusable as a whole with only the client name and the due-diligence hour count changed. If the pursuit has a short pre-term window, compress steps 1–3 rather than dropping the baseline and governance deliverables, which are what make the promise auditable."

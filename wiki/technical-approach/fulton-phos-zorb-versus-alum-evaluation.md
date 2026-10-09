@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.phos-zorb-for-chemical-phosphorus-removal-and-
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › OPERATION & MAINTENANCE PLANS › Phos-Zorb for Chemical Phosphorus Removal and Alkalinity Addition
 section-order: 14
 doc-order: 57
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: A rare candor device — the team bids the chemical the contract specifies, then lays out on the page why a competitively procurable alternative may be better and asks to discuss it after selection. Sole-source and delivery-frequency arguments are made with numbers.
 reuse-notes: Verify current chemical pricing relationships, aluminum content, supplier names, and dose rates before restating them; chemical markets move. Keep the structure — bid what the contract requires, then offer the analysis — wherever an RFP specifies a proprietary chemical.

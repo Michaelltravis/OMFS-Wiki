@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.proven-results-at-comparable-facilities
 section-order: 48
 section-path: Section 1 | Technical Approach › Operations Plan › ENERGY MANAGEMENT – A CORE OPERATING DISCIPLINE › Proven Results at Comparable Facilities
 doc-order: 83
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Two tight, dollar-denominated energy proof points at named reference facilities, plus the disciplined move of parking bigger ideas in the innovations section so the base O&M approach stays scope-clean.
 reuse-notes: Confirm the Pima County and Carol Stream figures are current and permissioned before reuse, and register them in proof-points/registry.md. The closing paragraph must be re-pointed to whatever section the new proposal uses for unpriced or alternative recommendations.

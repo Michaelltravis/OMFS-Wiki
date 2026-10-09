@@ -4,3 +4,5 @@
 work/pulls/
 __pycache__/
 
+# Curation run patch files are regenerated each run.
+work/curation/patches_*.json

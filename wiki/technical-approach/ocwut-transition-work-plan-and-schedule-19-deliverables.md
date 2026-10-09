@@ -20,12 +20,15 @@ status: preferred
 house-favorite: false
 sanitized: true
 sanitization-loss: low
-extracted: '2026-09-07'
-last-verified: '2026-09-07'
+extracted: 2026-09-07
+last-verified: 2026-09-07
 section-id: ocwut-16-26:29.continuity-compliance-and-long-term-partnership
 section-order: 8
 section-path: Section 5 | Required Plans Submitted with the Proposal › Draft Transition Plan › Continuity, Compliance, and Long-Term Partnership
 doc-order: 201
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US water-utility-trust wastewater O&M transition from anticipated August 2026 award to January 1, 2027 operational start.
 quality: A near-verbatim, owner-visible work plan assigning every major readiness deliverable to a lead and completion date.
 reuse-notes: Rebuild this table from the target contract schedule. Preserve the task, lead, start date, and completion date fields; do not carry forward source-specific dates or Schedule 3/10/17/19 references.

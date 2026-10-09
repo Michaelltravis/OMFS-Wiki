@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-nee
 section-order: 23
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs
 doc-order: 123
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The single best demand-charge passage in the bank — it separates kWh from kW, names the actual peak driver, quantifies the opportunity (10% of demand charges, up to $600K/year), states that implementation needs no capital, and answers the autonomy objection head-on with "driving directions to licensed operators."
 reuse-notes: Re-derive the 10% and $600K figures from the target client's own billing and SCADA history before use; they are analysis outputs, not standard claims. Keep the key-person-risk argument and the operator-authority language verbatim — both defuse predictable evaluator objections.

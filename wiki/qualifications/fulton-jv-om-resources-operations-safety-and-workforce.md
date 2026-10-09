@@ -26,6 +26,9 @@ section-id: fulton-county-2025:14.o-m-resources
 section-order: 18
 section-path: Section 3 | Project Team Qualifications, Qualifications of Key Personnel › O&M RESOURCES
 doc-order: 142
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit (North Fulton), 2025, bid as JC Solutions, a JV of Jacobs and Atlanta-based minority-owned CERM; three water reclamation facilities (32 MGD MBR, 15 MGD MBR, 2.6 MGD) plus 28 wastewater and 5 potable water pump stations; MBR-heavy membrane operations, $750K workforce development commitment, incumbent engineering presence; Georgia EPD regulatory regime."
 quality: "Retains the broad operational and business-support bench, including the source's specific certifications, safety, biosolids, recruitment, procurement, and administrative capabilities."
 reuse-notes: "Select pertinent roles rather than presenting the entire roster by default. Confirm licenses, certifications, years, and company roles before reuse. Keep the source attribution to Jacobs for its resource-planning group."

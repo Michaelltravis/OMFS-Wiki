@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.summary-of-delivery-staffing-approach
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › STAFFING PLAN › Summary Of Delivery Staffing Approach
 section-order: 4
 doc-order: 47
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: Explains the shift-rotation mechanics in enough detail that an evaluator can verify minimum-staffing compliance from the narrative alone, rather than only from the schedule exhibits.
 reuse-notes: Rebuild the rotation pattern, group composition, and minimum-coverage counts from the target RFP's minimum-staffing requirement and plant size; keep the pattern-to-requirement link explicit and renumber the shift-schedule exhibit references.

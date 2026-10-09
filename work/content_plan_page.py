@@ -58,7 +58,7 @@ def load_blocks() -> list[dict]:
     out = []
     for r in rows:
         p = (r.get("path") or "").replace("\\", "/")
-        if p:
+        if p and r.get("status") != "archived":
             out.append({"path": p, "title": r.get("title", ""), "status": r.get("status", ""), "fav": bool(r.get("house-favorite"))})
     return sorted(out, key=lambda b: (not b["fav"], b["path"]))
 

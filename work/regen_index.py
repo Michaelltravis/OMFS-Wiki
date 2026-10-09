@@ -2,7 +2,12 @@
 """Rebuild wiki/index.md and wiki/index.json from block frontmatter.
 
 Usage:
-    python work/regen_index.py [--dry-run] [--md OUT.md] [--json OUT.json]
+    python work/regen_index.py [--dry-run] [--md OUT.md] [--json OUT.json] [--include-archived]
+
+Blocks with status: archived are kept in index.json (full frontmatter, so tools can
+still resolve them) but left out of the index.md tables and facets; they are listed
+in a trailing "## Archived" section with their archive-reason. --include-archived
+puts them back in the tables.
 
 Without --dry-run, overwrites wiki/index.md and wiki/index.json in place.
 With --dry-run, writes to --md / --json paths instead (defaults land in the
@@ -13,6 +18,7 @@ Facet sections (By rfp-section-type, By win-theme-map) are included only if
 at least one block in the wiki defines that key; otherwise a note explains
 why the section was omitted.
 """
+import sys
 import json
 import argparse
 from pathlib import Path
@@ -81,13 +87,17 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--md", default=None, help="output path for index.md (dry-run only)")
     ap.add_argument("--json", dest="json_out", default=None, help="output path for index.json (dry-run only)")
+    ap.add_argument("--include-archived", action="store_true", help="list archived blocks in the tables and facets too")
     args = ap.parse_args()
 
     if not HAVE_YAML:
-        print("WARNING: pyyaml not available — cannot parse frontmatter, index would be empty.")
+        print("ERROR: pyyaml not available — cannot parse frontmatter; refusing to write an empty index. "
+              "Run: python -m pip install pyyaml", file=sys.stderr)
+        sys.exit(1)
 
     blocks_by_category = {cat: [] for cat in CATEGORY_DIRS}
     all_blocks = []  # for index.json: full frontmatter dict + path
+    archived = []    # status: archived — listed at the end, not in the tables
 
     for cat in CATEGORY_DIRS:
         cat_dir = ROOT / "wiki" / cat
@@ -101,6 +111,9 @@ def main():
             entry = dict(fm)
             entry["path"] = rel_from_root
             all_blocks.append(entry)
+            if fm.get("status") == "archived" and not args.include_archived:
+                archived.append({"fm": fm, "rel": rel, "cat": cat})
+                continue
             blocks_by_category[cat].append({"fm": fm, "rel": rel})
 
     has_rfp_section_type = any(b["fm"].get("rfp-section-type") for cat in blocks_by_category for b in blocks_by_category[cat])
@@ -133,7 +146,10 @@ def main():
         "block's `pursuit-type`, `client-size`, and `status`/`house-favorite` "
         "frontmatter) to narrow to the blocks relevant to the section you're "
         "drafting and the win theme you're proving; prefer `status: preferred` "
-        "and `house-favorite: true` blocks first."
+        "and `house-favorite: true` blocks first. `volatility` and `review-due` "
+        "(set by `python work/freshness.py --write`) say how fast a block's facts age "
+        "and when they are next due for a check; a past `review-due` means verify "
+        "the figures before reuse (see CLAUDE.md, Keeping the bank current)."
     )
     lines.append("")
 
@@ -143,8 +159,8 @@ def main():
             continue
         lines.append(f"## {cat}")
         lines.append("")
-        lines.append("| Title | block-type | status | house-favorite | rfp-section-type | pursuit-type | client-size | proof-point-ids | tags |")
-        lines.append("|---|---|---|---|---|---|---|---|---|")
+        lines.append("| Title | block-type | status | house-favorite | volatility | review-due | rfp-section-type | pursuit-type | client-size | proof-point-ids | tags |")
+        lines.append("|---|---|---|---|---|---|---|---|---|---|---|")
         for item in items:
             fm, rel = item["fm"], item["rel"]
             title = fm.get("title") or Path(rel).stem
@@ -158,8 +174,10 @@ def main():
             pp_count = len(as_list(fm.get("proof-point-ids")))
             pp_count_cell = str(pp_count) if pp_count else DASH
             tags = cell(fm.get("tags"))
+            volatility = cell(fm.get("volatility"))
+            review_due = cell(fm.get("review-due"))
             lines.append(
-                f"| {link} | {block_type} | {status} | {house_fav} | {rfp_section} "
+                f"| {link} | {block_type} | {status} | {house_fav} | {volatility} | {review_due} | {rfp_section} "
                 f"| {pursuit_type} | {client_size} | {pp_count_cell} | {tags} |"
             )
         lines.append("")
@@ -283,6 +301,31 @@ def main():
                      "then `python work/assign_block_sections.py`._")
         lines.append("")
 
+    # Archived blocks: out of the tables and facets, listed here for the record
+    lines.append("## Archived")
+    lines.append("")
+    if archived:
+        lines.append(
+            "_Blocks retired from active use (`status: archived`, set only on the maintainer's "
+            "confirmation via `work/curate.py archive` / `work/apply_curation.py`). They stay on disk "
+            "for provenance and still appear in `index.json`; pulls and drafting skip them. "
+            "`python work/curate.py unarchive <path>` restores one._"
+        )
+        lines.append("")
+        lines.append("| Title | category | archived-date | archive-reason | superseded-by |")
+        lines.append("|---|---|---|---|---|")
+        for item in sorted(archived, key=lambda a: (str(a["fm"].get("archived-date") or ""), a["rel"])):
+            fm, rel = item["fm"], item["rel"]
+            title = fm.get("title") or Path(rel).stem
+            lines.append(
+                f"| [{title}]({rel}) | {item['cat']} | {cell(fm.get('archived-date'))} "
+                f"| {cell(fm.get('archive-reason'))} | {cell(fm.get('superseded-by'))} |"
+            )
+        lines.append("")
+    else:
+        lines.append("_No archived blocks._")
+        lines.append("")
+
     md_text = "\n".join(lines).rstrip() + "\n"
     json_text = json.dumps(all_blocks, indent=2, default=str)
 
@@ -302,7 +345,7 @@ def main():
         print("Wrote wiki/index.md")
         print("Wrote wiki/index.json")
 
-    print(f"Total blocks indexed: {total_rows}")
+    print(f"Total blocks indexed: {total_rows} ({len(archived)} archived, listed under ## Archived)")
 
 
 if __name__ == "__main__":

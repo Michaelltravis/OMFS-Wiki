@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.aquadna-deragger-for-ocean-avenue-lift-s
 section-order: 13
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY › AquaDNA Deragger for Ocean Avenue Lift Station'
 doc-order: 41
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A named, exclusive-partnership technology with a concrete installed base (nearly 100 US installations and a decade of operating experience) and a specific non-client case example (Rio Rancho, NM - eight sewage pumps retrofitted with no pump, starter, or VFD changes) that makes the SSO-prevention claim verifiable rather than generic.
 reuse-notes: The technology description, installed-base statistics, and Rio Rancho case example are corporate capability content, reusable for any pursuit with ragging-prone lift or pump stations. Reverify the installed-base count before each reuse. The specific lift-station name and the deployment commitment are pursuit-specific.

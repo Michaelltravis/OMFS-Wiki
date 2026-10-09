@@ -27,6 +27,9 @@ section-id: ocwut-16-26:28.integration-approach-and-ocwut-s-planned-capital-impr
 section-order: 1
 section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Integration Approach and OCWUT’s Planned Capital Improvements
 doc-order: 182
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Draws the boundary line most operational integration sections leave fuzzy — the client owns planning, design, construction, and commissioning; the operator picks up at commissioning and operational handover. Framing the plan as a repeatable framework that adapts as the capital program changes answers the "what if the CIP list moves" objection before it is raised.
 reuse-notes: Replace the four named CIP projects with the target client's capital program and re-cite the schedule that governs construction coordination. The two structural moves — respect for client ownership of design and construction, and a framework that survives project changes — transfer to any O&M contract with an active CIP. Pairs with the Exhibit 5-10 capital improvements table block and with the CIP staffing, training, maintenance, and risk blocks from the same section.

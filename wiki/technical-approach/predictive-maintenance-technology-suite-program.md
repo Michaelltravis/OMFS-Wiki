@@ -26,6 +26,9 @@ section-id: ocwut-16-26:06.predictive-maintenance-pdm-program
 section-order: 9
 section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Predictive Maintenance (PdM) Program
 doc-order: 95
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "A PdM program written down to the equipment list and the response clock — quarterly vibration on named horsepower classes, the full Schedule 4 electrical testing scope across quarterly/annual/5-year cycles, six PdM technologies, and three KPI-bound response windows (5 days to open, 60 days to close). Ends with the argument that matters: PdM data refines PM frequencies and justifies further monitoring investment where avoided downtime is clear."
 reuse-notes: The technology suite, the criticality-and-failure-mode targeting rule, and the feedback loop from PdM findings into PM frequencies are universal. Replace the equipment inventory, horsepower ratings and counts, schedule references, KPI identifiers and their day counts, and the site-specific blower-failure rationale with the target contract's own. Note the Exhibit 167_009385 technology descriptions were recovered from a partially corrupted text layer and were reassembled; verify wording against the source graphic before external use.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:14.fulton-county-department-of-public-works
 section-path: Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M › Fulton County Department of Public Works
 section-order: 3
 doc-order: 127
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "The complete named roster behind the proposed team org chart (Exhibit 3-1) — every key person, offsite management resource, consulting specialist and onsite position count in one place. This is the staffing skeleton a multi-plant MBR O&M pursuit is built on, with certifications (PE, CMRT, CRL, CMRP, ASP, PhD) attached to the names."
 reuse-notes: "Roster is pursuit-specific: names, plant assignments and FTE counts must be re-set for the new pursuit's facilities and shift model. Reuse the STRUCTURE — senior/executive sponsors above a project manager, an offsite management bench (O&M resources, asset management, compliance and reporting, energy, cybersecurity, laboratory, intelligent O&M, HR, procurement, recruiting), a named consulting-resources panel by discipline, and onsite resources grouped by plant with lead/shift operator counts and a consolidated maintenance crew. Confirm each named person's availability and certifications are current before reuse, and confirm state operator certification labels match the new pursuit's state. The org-chart graphic is asset ID 100_007M9V_06 (client-specific: true — re-brand before reuse). Pair with the individual resume blocks in wiki/resumes/ for the named key personnel."

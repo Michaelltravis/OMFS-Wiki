@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.security-plan
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › SECURITY PLAN
 section-order: 48
 doc-order: 91
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: The component-by-component commitments behind a contractual Security Plan, each written as an operating obligation rather than a topic heading — access control, incident reporting, annual assessment, information protection, and construction coordination.
 reuse-notes: Replace the contract article citation (Article 50.8) with the target contract's security clause, and confirm which components the client's own IT and security standards govern. Pair with the parallel components this passage omits (security awareness and training; zero-tolerance policy enforcement) when a full component list is required.

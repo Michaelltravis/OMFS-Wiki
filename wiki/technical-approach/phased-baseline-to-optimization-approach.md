@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.our-phased-approach-to-sustainable-operations
 section-order: 6
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › OUR PHASED APPROACH TO SUSTAINABLE OPERATIONS
 doc-order: 39
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The strongest technical-credibility passage in the source proposal — specific diagnostic findings drawn from the incumbent's own operating records (primary clarifier data gaps, negative chemical usage values, 600-900 lb/day wasting rates, missing DO data, low SVI) tied to a whole-plant mass-balance model of more than 70 components and a concrete four-row improvement-opportunity table. Demonstrates diagnostic rigor rather than generic promises, and is a textbook incumbent-displacement device.
 reuse-notes: Every specific finding is this facility's actual condition, drawn from data supplied with the RFP and two site tours — replace them with the conditions actually found in the target facility's data room before reuse. The phased logic (baseline first, sustainability second) and the improvement-opportunity table structure (area / observed issue / opportunity / expected benefit) are fully reusable. If a whole-plant simulation model will be built, state the real number of components and the real data years.

@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.financial-responsibility
 section-order: 32
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › FINANCIAL RESPONSIBILITY'
 doc-order: 60
+volatility: corporate-figure
+review-due: 2026-09-12
+freshness-flags: [divergent-figure, newer-source-same-claim]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Strong, quantified financial-qualification proof points (revenue figures, credit rating, backlog, comparable-contract dollar values) plus a differentiator (single-entity guarantor versus joint-venture or multi-entity structures) that directly answers typical financial-capacity RFP requirements.
 reuse-notes: All dollar, revenue, and credit-rating figures are financial-qualification statistics (not commercial pricing) and are kept per wiki policy — verify each figure is current before reuse, since revenue, backlog, and credit rating change year to year. Named reference projects and clients (Tucson, San Diego, and Seattle water and wastewater operations; Hartsfield-Jackson Atlanta International Airport; North Hudson Sewerage Authority; Jackson Water) are real, non-pursuit reference-client proof points and are kept verbatim — do not genericize them.

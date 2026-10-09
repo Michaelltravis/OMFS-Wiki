@@ -26,6 +26,9 @@ section-id: ocwut-16-26:31.at-fault-violation-events
 section-order: 2
 section-path: Section 6 | Disclosures › AT-FAULT VIOLATION EVENTS
 doc-order: 210
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US water utility trust, four WWTPs >110 MGD + biosolids, 2026 challenger bid; ODEQ
 quality: The at-fault disclosure done the way that wins rather than concedes — each event states the parameter, limit type, permit limit, actual value and duration, then names the root cause plainly (operator error, missed valve, lab method) and the specific corrective action taken. Every row ends in a fix, which is what turns a required admission into evidence of a functioning corrective-action program.
 reuse-notes: Regenerate from the corporate violation tracker for the RFP's lookback window; keep the five-column structure (project, date, compliance issue with numbers, root cause, corrective action) because the corrective-action column is the persuasive one. Do not soften root causes — the plain admissions ("operator did not follow procedures") are what make the corrective actions believable. Verify each corrective action is closed before submission.

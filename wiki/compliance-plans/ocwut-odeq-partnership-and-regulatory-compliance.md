@@ -26,6 +26,9 @@ section-id: ocwut-16-26:24
 section-order: 1
 section-path: Section 4 | Oklahoma Law
 doc-order: 153
+volatility: people
+review-due: 2026-11-02
+freshness-flags: [open-ended-date]
 context: Southcentral US municipal water utility trust with four WWTPs and biosolids land application under ODEQ oversight.
 quality: Demonstrates long-running Oklahoma regulatory relationships with concrete compliance, emergency-response, permitting, and savings evidence.
 reuse-notes: Replace the generalized client references with the target utility and confirm current agency contacts, reporting deadlines, and facility-specific permit obligations before reuse.

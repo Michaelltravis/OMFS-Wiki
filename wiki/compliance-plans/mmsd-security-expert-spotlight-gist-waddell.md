@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:27.4-1-8-commitment-to-a-safe-operation
 section-order: 6
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.4. Safety, Security Approach and Emergency Preparedness › 4.1. Safety › 4.1.8. Commitment to a Safe Operation
 doc-order: 188
+volatility: corporate-figure
+review-due: 2027-01-30
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: A two-person expert spotlight that converts corporate scale into named, credentialed people — 60+ years combined, 250+ security projects delivered, a security and resilience program covering more than 40,000 employees — with the specific technologies (shoreline intrusion detection, Genetec Security Center, mobile video) that the innovation recommendations later in the section depend on.
 reuse-notes: Confirm both experts are available and their credentials, project counts, and employee-coverage figures are current before reuse; the technology list should match the systems the pursuit client actually operates. Where only one expert is offered, keep the paragraph structure and drop the other.

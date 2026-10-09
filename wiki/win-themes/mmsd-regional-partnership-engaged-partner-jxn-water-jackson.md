@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:36.1-jxn-water-jackson-mississippi
 section-order: 1
 section-path: V. Statement on Regional Partnership › V.C. Examples - Serving as an Engaged Regional Partner in Other Communities with Similar Contracts › 1. JXN Water, Jackson, Mississippi
 doc-order: 244
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The strongest community-benefits proof in the section because the community stakes were highest — a city whose residents had lost safe drinking water. Carries a rebid outcome (a 9-year wastewater contract awarded in 2025 on the strength of the water work), countable hires (six interns, three converted to full-time), two named scholarship endowments with matching, and a public-health program outside the contract scope.
 reuse-notes: Verify the contract term, award year, intern conversion count, and endowment amounts with the Jackson account team before restating. Used in a challenger bid, the takeover framing is the point — in a rebid against yourself, cut it and lead with the workforce pipeline.

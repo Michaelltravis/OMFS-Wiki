@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:03.top-water-reuse-experts-on-call-for-sant
 section-order: 6
 section-path: Executive Summary › TOP WATER REUSE EXPERTS—ON CALL FOR SANTA MONICA
 doc-order: 8
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: The sharpest incumbent-displacement device in this executive summary — it names four individuals with the specific reuse credential that makes each one irreplaceable, including a seat on the state board working group that wrote the DPR regulations, and frames them as people the evaluator's own staff already know rather than as an anonymous national bench.
 reuse-notes: These are real individuals; confirm each person's current availability, role, and project list before naming them in a new pursuit. The claim that the client's staff already know the names only works where the experts have a genuine public profile in that state or program — drop that framing outside California reuse circles.

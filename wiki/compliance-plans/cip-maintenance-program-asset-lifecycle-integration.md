@@ -26,6 +26,9 @@ section-id: ocwut-16-26:28.maintenance-program-adjustments
 section-order: 10
 section-path: Section 5 | Required Plans Submitted with the Proposal › Operational Integration Plan › Maintenance Program Adjustments
 doc-order: 191
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral municipal water utility trust capital-program handover.
 quality: Links commissioning documentation, warranty protection, CMMS setup, spares, and lifecycle planning into one day-one maintenance workflow.
 reuse-notes: Tailor the EAM platform, consumables, reporting cycle, and asset-management tools.

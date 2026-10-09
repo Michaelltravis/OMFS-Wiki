@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.three-customers-three-facilities-one-standard
 section-order: 13
 section-path: Section 1 | Technical Approach › Operations Plan › REUSE WATER › We Understand the Challenges and Goals of OCWUT’s Reuse Program › Three Customers, Three Facilities, One Standard
 doc-order: 48
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A current/challenges/planned-future matrix that states the incumbent's disinfection deficiencies facility by facility without editorializing — the strongest single device in the reuse section for a challenger bid.
 reuse-notes: Rebuild the columns for the target system's reuse points. Keep the three-row structure (CURRENT / CHALLENGES / PLANNED-FUTURE) and the header device that states one standard across differing conditions. Verify each stated deficiency against due-diligence notes before reuse — these are observations of a specific incumbent operation.

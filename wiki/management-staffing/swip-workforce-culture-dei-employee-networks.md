@@ -27,6 +27,9 @@ section-id: santamonica-swip-om-2025:08.true-belonging-with-diversity-equality-a
 section-order: 10
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › EMPLOYEE TRAINING › True Belonging with Diversity, Equality, and Inclusion'
 doc-order: 38
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Names a corporate strategic framework (TogetherBeyond, four strategic pillars), five professional-society affiliations, and eight named employee resource groups with one-line missions - concrete evidence of an operationalized culture program rather than a generic diversity statement.
 reuse-notes: Fully generic corporate workforce-culture content. Adapt or drop the sentence about the service community being truly diverse to reflect the target community, and confirm current program naming and the list of employee networks before reuse.

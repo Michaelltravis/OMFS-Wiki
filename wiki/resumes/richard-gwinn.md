@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:11.skills
 section-order: 8
 section-path: 'Section 3: Key Personnel › 3.2 RESUMES › SKILLS'
 doc-order: 84
+volatility: people
+review-due: 2026-03-11
+freshness-flags: [divergent-figure]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "30+ year facility maintenance veteran with deep CMMS breadth (Maximo, Infor EAM, Maintenance Connection; 20+ years of CMMS experience) and a distinctive non-water background (theme-park ride-control systems, international task force) that demonstrates transferable high-reliability maintenance discipline."
 reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Useful for maintenance-management sections needing CMMS depth and predictive-maintenance program experience; his water/wastewater-specific tenure (Jacobs, 1 year) is comparatively short relative to his total facility-maintenance experience, so pair him with a water-sector-tenured colleague where the RFP weights direct water years heavily."

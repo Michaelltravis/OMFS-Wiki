@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:16
 section-order: 1
 section-path: Section 7 - Appendix E - SmartCover Information
 doc-order: 86
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement — vendor capability literature carried as a proposal appendix
 quality: Vendor-supplied capability sheet with hard, quotable performance numbers (40,000 overflows prevented; 75–95% cleaning reduction at high-frequency locations) plus three named-utility testimonials — an efficient way to make a smart-sewer value-add credible without spending proposal pages on Jacobs-authored claims.
 reuse-notes: This is third-party (SmartCover, a Badger Meter brand) marketing content included as an appendix, not Jacobs-authored prose. Confirm the vendor's current numbers and permission to reproduce before reuse, and keep the vendor attribution visible so the numbers are not read as Jacobs claims. Pair with the Jacobs-authored collection-system O&M narrative that proposes the deployment.

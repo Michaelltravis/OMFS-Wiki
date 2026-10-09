@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.guiding-principles
 section-order: 1
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › GUIDING PRINCIPLES
 doc-order: 44
+volatility: people
+review-due: 2025-10-15
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Near-verbatim operating-principles and support-network language that connects system plans, audits, onsite delivery, regional management, and SME reach-back.
 reuse-notes: Verify CMMS, audit frequency, required plans, delivery formats, and client requirements. Retain JC Solutions as a Jacobs/CERM JV rather than collapsing attribution to Jacobs.

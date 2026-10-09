@@ -17,7 +17,7 @@ proof-point-ids: []
 testimonial-ids: []
 story-ids: []
 status: fallback
-superseded-by: mmsd-odor-challenge-and-proactive-odor-management-strategy.md
+superseded-by: wiki/technical-approach/mmsd-odor-challenge-and-proactive-odor-management-strategy.md
 house-favorite: false
 sanitized: true
 sanitization-loss: low
@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:25
 section-order: 2
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints
 doc-order: 129
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR
 quality: Opening frame for an odor-control focus area — names the real drivers of complaints (encroaching residential development, large public events, numerous uncovered collection-system emission points), credits the client's progress, then states the two-part promise (prevent, then respond fast) and maps it to the client's own stated goals. Sets up the early warning system, complaint protocol, and outreach blocks that follow.
 reuse-notes: Replace the specific encroachment drivers (nearby redevelopment districts, festival crowds, named pump stations and diversion structures) with the pursuit's own odor-complaint geography. Confirm which processes remain uncovered/untreated and what interim mitigation (ferric chloride or equivalent) the client uses today before restating the "remaining emissions stem mainly from uncovered/untreated processes" framing.

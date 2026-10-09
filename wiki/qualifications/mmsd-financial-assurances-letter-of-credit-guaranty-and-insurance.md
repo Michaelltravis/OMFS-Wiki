@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:06
 section-order: 1
 section-path: I. Identity of the Proposer and Guarantor; Financial Assurances Requirements › I.B. Letter of Credit › I.C. Guaranty
 doc-order: 14
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR regulatory regime.
 quality: The complete financial-assurances answer in three short, unhedged statements — letter of credit capability, an irrevocable parent guaranty through JEG, and insurance compliance evidenced by a broker letter of insurability from Marsh. Also shows the move of offering an alternate insurance approach that saves the client money, cross-referenced to the exceptions section rather than buried here.
 reuse-notes: Confirm the guarantor entity name and that JEG financial statements are the ones offered for review; on some pursuits the guarantor is a different Jacobs entity. Request a fresh broker letter of insurability for each pursuit — it must name the RFP number, the insurance exhibit, and the current coverage lines, and it must be signed within the proposal's validity window. Only claim the alternate insurance approach when the exceptions section actually carries it and pricing has been reconciled to it.

@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.required-documentation-delivery
 section-order: 30
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › REQUIRED DOCUMENTATION DELIVERY
 doc-order: 63
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: comprehensive, well-organized deliverables checklist spanning ongoing/monthly/annual/one-time/event-driven cadences — directly usable as an O&M plan appendix skeleton
 reuse-notes: swap MassDEP for the target facility's actual state regulator (the regulator is named verbatim here, not generalized — only the client name is); confirm every window (24-hour, 4-hour, 5-day, 60-day, 90/120-day, 5-year diffuser cycle) against the pursuit's own NPDES permit and contract before reuse

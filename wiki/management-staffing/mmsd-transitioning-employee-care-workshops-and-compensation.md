@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:30.1-2-1-care-and-sensitivity-toward-transitioning-empl
 section-order: 4
 section-path: IV. Approach Summary › IV.B. Pre-term Activities › 1.2. Thoughtful and Smooth Step-by-Step Transition Process for New Employees › 1.2.1. Care and Sensitivity Toward Transitioning Employees
 doc-order: 211
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR
 quality: The human core of a displacement bid — workshops that include employees' families, sessions framed as listening rather than selling, an unconditional offer of employment to qualified incumbent staff, and a completed regional salary analysis that turns "competitive pay" from a claim into a piece of work already done.
 reuse-notes: Confirm that the regional salary analysis has actually been performed and that the offer-to-all-qualified commitment has been cleared by HR and labor relations before repeating either. Substitute the labor market named in the compensation paragraph. Workshops "already begun" is a claim about this pursuit's timeline — re-check the tense.

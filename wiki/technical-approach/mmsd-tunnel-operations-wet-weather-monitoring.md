@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:25.2-6-3-tunnel-system-operations
 section-order: 28
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.6. Monitoring, Tracking, and Reporting Operational Parameters › 2.6.3. Tunnel System Operations
 doc-order: 155
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: The best available treatment of deep-tunnel/inline-storage operations as a monitored, modeled, and post-event-reported process rather than a reactive one. Ties CSO capture, energy cost, and digital twin evaluation into one loop, and names the specific post-event report contents (captured volume, pump-out rate, overflow prevention, energy utilization).
 reuse-notes: Only for clients with storage tunnels, deep tunnels, equalization basins, or a CSO/SSO storage asset. For systems without storage, keep the post-event reporting structure and the weather-forecast-driven optimization but recast around wet-weather flow routing and peak-flow treatment. Dewatering pump energy is called out as a top shared-cost driver here; verify that framing applies before repeating it.

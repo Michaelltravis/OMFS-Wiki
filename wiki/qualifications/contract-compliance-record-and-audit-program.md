@@ -26,6 +26,9 @@ section-id: ocwut-16-26:08.contract-compliance
 section-order: 14
 section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › CONTRACT COMPLIANCE
 doc-order: 121
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: [open-ended-date]
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Backs the headline compliance rate with the machinery behind it — audits within 6 months of contract start, 70 topics per audit, findings to the PM on a 30/60/90-day timeline, a named compliance director and a team of 20 specialists — which is what separates a compliance claim from a compliance program.
 reuse-notes: The audit cadence (6 months from start, 70 topics, 30/60/90-day findings timeline) is a commitment the operations team must be able to honor on the new contract — confirm before restating. Re-name the compliance lead from the actual proposed team. The Dodge City stat block is a separate facility's record and travels well as a standalone callout in any Midwest or plains pursuit.

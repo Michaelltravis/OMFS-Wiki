@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:05.emergency-response-and-storm-preparation
 section-order: 18
 section-path: Section 5 - Project Understanding and Technical Approach › OPERATIONAL APPROACH › EMERGENCY RESPONSE AND STORM PREPARATION
 doc-order: 51
+volatility: people
+review-due: 2026-09-29
+freshness-flags: [divergent-figure]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Complete emergency-response lifecycle (framework → storm identification and advance preparation → high-flow operations → post-storm recovery) with hard response commitments (24-hour line, response begins within 20 minutes) and a concrete, dated collection-system emergency proof point
 reuse-notes: Replace the named coordination contact (Nathan Callison) and the client-side Emergency Management Director reference with the proposed team's actual names and roles; confirm the 20-minute response commitment against the target RFP's stated expectation; replace the Waterbury, CT case study if that reference project already appears elsewhere in the same proposal, and confirm it remains permissioned.

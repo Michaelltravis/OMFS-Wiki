@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.long-term-staffing-succession-planning-practic
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Long-Term Staffing/Succession Planning Practices
 section-order: 13
 doc-order: 121
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Eight named advancement programs with durations and cohort sizes in one exhibit — the concrete answer to 'why would my people stay with you,' and it lands the retention argument as a client benefit (stable workforce, elevated skills) rather than an HR brochure."
 reuse-notes: "Verify each program still runs and update the cohort numbers (20+ talent development staff, 35 mentored staff) and program lengths before reuse; drop rows the delivery team cannot actually offer at the target site."

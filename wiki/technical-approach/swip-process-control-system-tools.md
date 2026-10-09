@@ -27,6 +27,9 @@ section-id: santamonica-swip-om-2025:08.process-control
 section-order: 5
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › PROCESS CONTROL'
 doc-order: 33
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: [divergent-figure]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement — advanced water treatment facility with MBR/RO/UV-AOP train
 quality: Names a proprietary companywide framework (CPCS) and pairs it with six concrete, named tools (UPCPs, Sampling Plan, Sample Tracking Tool, Data Management/LIMS/HachWIMS, SOPs, Operator Round Sheets, Peak Flow Tests) each with an explicit client benefit statement — a strong template for demonstrating "not just a philosophy, an actual tool stack."
 reuse-notes: The CPCS name, all six tool descriptions, and their benefit framing are fully generic and reusable across any water/wastewater O&M pursuit. The peak-flow-test cadence (monthly, one-hour at design peak) is specific to membrane-train facilities; adapt for non-membrane process trains.

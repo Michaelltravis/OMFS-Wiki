@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:03.corporate-profile
 section-order: 2
 section-path: Section 3 - Firm Qualifications and Experience › CORPORATE PROFILE AND LEGAL QUALIFICATIONS › CORPORATE PROFILE
 doc-order: 13
+volatility: corporate-figure
+review-due: 2027-04-02
+freshness-flags: [divergent-figure, open-ended-date]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Strong, quantified national-scale proof points paired with a clear "more-than-an-operator" differentiator framing that ties corporate scale directly back to the client's specific requirements.
 reuse-notes: Refresh revenue, backlog, headcount, portfolio counts, ENR ranking, and renewal/compliance percentages from the latest corporate fact sheet before reuse — all are point-in-time figures. Replace the bracketed facility specifics with the new pursuit's actual MGD/collection-system scope so the "directly aligns" sentence lands as a specific match rather than boilerplate. Founding year and headquarters location are stable and reusable as-is.

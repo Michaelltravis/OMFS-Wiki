@@ -27,6 +27,9 @@ section-id: santamonica-swip-om-2025:08.innovation-and-advanced-techniques-for-o
 section-order: 11
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › INNOVATION AND ADVANCED TECHNIQUES FOR OPERATIONAL EFFICIENCY'
 doc-order: 39
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: [divergent-figure]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: A single wheel exhibit that itemizes ten value-added services bundled into the base fee, each with an assigned value and a one-line description, rolling up to a $4.1 million five-year total - the strongest incumbent-displacement device in this proposal, because it converts an abstract claim of extra value into a countable benefits package.
 reuse-notes: 'These figures are value-delivered-at-no-additional-charge amounts, not fee or rate content, and they are kept. They are scoped to this pursuit''s facility set: re-scope, re-cost, and re-verify every line and the headline total against the target pursuit''s actual facilities and negotiated inclusions - reuse the device, not the numbers. The benefits paragraph is largely generic and adapts easily.'

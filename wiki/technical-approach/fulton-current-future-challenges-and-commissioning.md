@@ -26,6 +26,9 @@ section-id: fulton-county-2025:09.planned-improvements-to-meet-future-needs
 section-order: 3
 section-path: Section 2 | Operations & Maintenance Plan › 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations › LITTLE RIVER PLANT › Planned Improvements to Meet Future Needs
 doc-order: 16
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV; three MBR water-reclamation facilities.
 quality: A concise diagnosis tying permit-compliance philosophy, capital changes, staffing, odor, biosolids, membranes, and commissioning into a single project-understanding narrative.
 reuse-notes: These findings are pursuit-specific. Reuse only the diagnostic structure after site visits, document review, and a confirmed capital-program status; read the cited source pages for complete detail.

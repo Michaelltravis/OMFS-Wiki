@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:26.3-2-3-how-our-samp-looks-day-to-day
 section-order: 7
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.3. Approach to PM and CM › 3.2. Jacobs’ Maintenance Philosophy in Action– From Asset Management to Daily Execution › 3.2.3. How our SAMP looks day-to-day
 doc-order: 170
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent contract operator; WDNR
 quality: A tight six-item success list that closes the asset management argument. The backlog bullet is the best line in the section — it defines backlog as a leading risk indicator and names the failure mode the client is trying to escape, deferred maintenance left until equipment fails.
 reuse-notes: Keep the backlog-discipline bullet even when the list is trimmed for page count; it is the one that answers a challenger's deferred-maintenance theme. Replace NEXGEN with the client's CMMS and adjust the linear-asset bullet where there is no tunnel or collection scope.

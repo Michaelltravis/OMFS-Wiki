@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.operational-technology-cybersecurity-approach
 section-order: 36
 section-path: Section 1 | Technical Approach › Operations Plan › OCWUT-MANAGED › Operational Technology Cybersecurity Approach
 doc-order: 71
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "Answers OT cybersecurity without over-claiming: the operator writes and maintains the required plan jointly with the owner, names the five control domains, and commits to a living document reviewed with the client — a stance that survives an owner who insists on keeping cybersecurity governance."
 reuse-notes: The plan name and contract citation (ITS Implementation and Use Plan under Schedule 17) are pursuit-specific and must be re-cited to whatever the new agreement requires; where no such deliverable is named, offer the plan as a value-add. The five control domains and the "practical, enforceable, and fully transparent to the system owner" test are portable. Pairs with the responsibility-split exhibit.

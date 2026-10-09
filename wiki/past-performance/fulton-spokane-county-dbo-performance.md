@@ -26,6 +26,9 @@ section-id: fulton-county-2025:15.jacobs-collection-system-pump-station-experien
 section-order: 11
 section-path: Section 4 | Relevant Project Experience › JACOBS COLLECTION SYSTEM PUMP STATION EXPERIENCE
 doc-order: 155
+volatility: project-outcome
+review-due: 2027-04-18
+freshness-flags: [open-ended-date]
 context: "Verbatim county DBO delivery, compliance, staffing, and operating-performance reference."
 quality: "Preserves lead-DBO responsibilities, startup/compliance record, capital work, regional staffing support, and County director testimonial."
 reuse-notes: "Past-performance content is verbatim and exempt from client-name generalization. Retain client, dates, compliance outcomes, and quote; strip only commercial fee or rate figures if present in a future source. Confirm contact status and quote permission before external reuse."

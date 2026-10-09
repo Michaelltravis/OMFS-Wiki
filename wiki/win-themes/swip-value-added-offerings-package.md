@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:03.more-than-an-operator-integrated-o-m-eng
 section-order: 5
 section-path: Executive Summary › MORE THAN AN OPERATOR—INTEGRATED O&M + ENGINEERING
 doc-order: 7
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: [divergent-figure]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Bundles ten distinct no-cost enhancements into one totaled, memorable headline figure displayed as a radial chart, and pairs it with a plain-language "how it works" explainer for the on-call engineering hours that removes the client's main objection (new procurement steps).
 reuse-notes: Every dollar figure and the ten-offering mix are this pursuit's real worked example — rebuild the bundle and its total from the target pursuit's actual value-add package rather than carrying these figures forward as a standard offer. Confirm the engineering-rate multiplier against the current commercial position before restating it.

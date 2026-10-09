@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:08.structured-training-programs-and-complia
 section-order: 9
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › EMPLOYEE TRAINING › Structured Training Programs and Compliance Alignment'
 doc-order: 37
+volatility: evergreen
+review-due: 2028-09-11
+freshness-flags: []
 context: Southern California sustainable water infrastructure O&M, 2025; SWRCB-DDW. Advanced water treatment and recycled-water facility O&M with lift stations and stormwater assets, bid against an incumbent operator.
 quality: A complete, paste-ready training curriculum matrix broken out by staff category (operations, maintenance, all staff, selected staff, and the corporate university), naming specific courses rather than describing a training philosophy. Answers "what will you actually train our staff on" in one exhibit and pairs directly with the narrative training-program block.
 reuse-notes: Rows are generic Jacobs O&M curriculum and reuse as-is. Tailor the site-specific rows (plant-specific process control testing, solids handling, site-specific odor control, NPDES permit training) to the target facility's processes and permit type - swap NPDES for the WDR, Title 22, or drinking-water permit that governs the pursuit. Confirm the Jacobs University course count and the current list of leadership offerings before restating them, and confirm which safety courses are currently mandatory. Exhibit number (2-13) must be renumbered to the new proposal's sequence.

@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:12.why-kevin
 section-order: 4
 section-path: 'Section 7 - Appendix A - Resumes › PROFESSIONAL BACKGROUND µ Total Experience: 31 years EDUCATION › WHY KEVIN?'
 doc-order: 69
+volatility: people
+review-due: 2026-09-29
+freshness-flags: [divergent-figure, person-duplicate]
 context: Proposed as Regional Director of Operations. Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement (Town of Hull, MA).
 quality: Verbatim key-personnel resume for the proposed Regional Director of Operations; senior oversight profile with PE licensure, large-flow activated-sludge and phosphorus-upgrade project experience, and direct client-liaison track record.
 reuse-notes: "VERBATIM — real name and license info; no phone/email is given in the source resume (not a cover-letter signatory). Before reuse on a new pursuit: (1) confirm Kevin Dahl is still employed by Jacobs and still holds this role/title; (2) verify PE (CT), CRL, CMRT, and CT/RI Class IV wastewater operator/collection licenses are current and unexpired; (3) confirm current availability/assignment before proposing him on a new pursuit."

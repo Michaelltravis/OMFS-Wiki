@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:07.operational-excellence-backed-by-diverse
 section-order: 1
 section-path: 'Section 2: Qualifications › 2.3 REFERENCES › OPERATIONAL EXCELLENCE BACKED BY DIVERSE PROJECT EXPERIENCE'
 doc-order: 24
+volatility: project-outcome
+review-due: 2027-09-12
+freshness-flags: [divergent-figure, open-ended-date]
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Verbatim references-section framing paragraph that ties together the four detailed reference sheets that follow; a working model for how to introduce a references section with a one-paragraph-per-reference summary and a closing relevance tie-back to the pursuing client.
 reuse-notes: 'Verbatim past-performance content — real client names retained per wiki policy. Swap the four summarized references for the 3-5 most technically and geographically relevant to the new RFP, and rewrite the closing sentence to name the new client. Keep the structure: client, facility, key technology, relevance.'

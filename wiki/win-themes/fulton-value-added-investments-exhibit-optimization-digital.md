@@ -26,6 +26,9 @@ section-id: fulton-county-2025:10.value-added-extras-included-as-part-of-our-bas
 section-path: Section 2 | Operations & Maintenance Plan › 2.6 | Benefits of JC Solutions' Approach to Operations and Maintenance › VALUE-ADDED EXTRAS INCLUDED AS PART OF OUR BASE FEE
 section-order: 6
 doc-order: 30
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Carries the closing half of the value-added exhibit and the total that anchors the whole offer — $8,047,500 of investment inside the base fee, delivered within the first 24 months and sequenced to the client's own priorities."
 reuse-notes: "The total line is the load-bearing number; re-add it from the new pursuit's own rows rather than carrying it forward. Confirm platform names (Palantir Foundry, AquaDNA, Replica) are still current offerings and that each row is genuinely committed inside the base fee. The 24-month completion promise and the transition-time prioritization conversation are the reusable commitments."

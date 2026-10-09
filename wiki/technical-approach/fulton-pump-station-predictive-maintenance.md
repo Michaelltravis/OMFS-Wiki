@@ -26,6 +26,9 @@ section-id: fulton-county-2025:12.key-findings-of-our-initial-facilities-assessm
 section-order: 41
 section-path: Section 2 | Operations & Maintenance Plan › 2.8 | Approach and Understanding of the Scope of Work and Required Facilities Plans › JCEC › Key Findings of Our Initial Facilities Assessments
 doc-order: 84
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county wastewater O&M pursuit by JC Solutions, a Jacobs/CERM JV, including wastewater and potable-water pump stations."
 quality: "Near-verbatim pump-station assessment and PdM implementation content."
 reuse-notes: "Tailor the assessment findings, station designs, telemetry platform, and critical assets. Retain JC Solutions as the Jacobs/CERM JV."

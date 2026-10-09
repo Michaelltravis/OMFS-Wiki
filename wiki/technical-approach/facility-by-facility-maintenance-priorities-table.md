@@ -27,6 +27,9 @@ section-id: ocwut-16-26:06.facility-by-facility-maintenance-priorities
 section-order: 2
 section-path: Section 1 | Technical Approach › Maintenance Plan (Assets) › Facility-by-Facility Maintenance Priorities
 doc-order: 88
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: "A four-column device — facility, key maintenance challenges, critical equipment, and the proposer's priority response — that turns site-visit observations into a per-site action plan on a single page. The third and fourth columns are what separate it from a findings list: named equipment with its status, and a specific first-year response for each site."
 reuse-notes: The column structure is fully portable to any multi-facility O&M pursuit. Every row's content is pursuit-specific and must be rebuilt from the target system's due diligence. Keep the honest qualifiers ("recent failure incident — to be confirmed," "CIP planned — year TBD," "design issues") — they signal genuine site knowledge rather than boilerplate. Pair with the system findings narrative that introduces this exhibit.

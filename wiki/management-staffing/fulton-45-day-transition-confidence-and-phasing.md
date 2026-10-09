@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.45-day-schedule-for-smooth-transition-of-opera
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › 45-Day Schedule for Smooth Transition of Operations and Related Systems
 section-order: 10
 doc-order: 118
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "Answers a duration the RFP never set by proposing one and owning it — a confidence statement plus the four things the schedule is built to protect (early engagement, structured onboarding, clear communication, retention of local knowledge)."
 reuse-notes: "Reset the duration, the start date, and the exhibit number from the target pursuit's award and commencement dates; keep the 'RFP does not specify' framing only where that is true."

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiw
 section-order: 21
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF
 doc-order: 121
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: A tight five-bullet operating strategy for an onsite generation fleet — demand management, renewable fuel priority, turbine availability through PdM, heat cascade priority, and strategic peak-shaving — each written as an operator action rather than an aspiration.
 reuse-notes: Turbine types, dual-fuel burner count, and gas conditioning options are pursuit-specific. The heat-use priority order (dryers first, then waste heat boiler, minimize blowoff) and the compliance guardrail on aeration load shedding are the transferable parts.

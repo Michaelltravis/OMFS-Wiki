@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:24.specific-optimization-opportunities-at-sswrf-and-jiw
 section-order: 19
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › Specific Optimization Opportunities at SSWRF and JIWRF
 doc-order: 119
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: Shows how to propose changes to a branded, market-facing product without threatening it — stepwise execution, monitoring, and close work with the client's own compliance and marketing staff. Also the model passage for dust, chaff, and housekeeping commitments on a drying facility.
 reuse-notes: The silo storage, packaging contractor, chaff sock method, and aging dust control system are pursuit-specific. Keep the stepwise-change commitment and the SOP-plus-training pairing; both travel to any facility with a marketed product or a tight product specification.

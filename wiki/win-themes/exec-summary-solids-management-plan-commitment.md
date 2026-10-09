@@ -26,6 +26,9 @@ section-id: ocwut-16-26:02.required-plans-built-for-ocwut-ready-on-day-one
 section-order: 7
 section-path: 'Executive Summary of Technical Approach › REQUIRED PLANS: BUILT FOR OCWUT, READY ON DAY ONE'
 doc-order: 12
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Positions solids as a system rather than a task list — dewatering, storage, hauling, and disposal governed by shared triggers and escalation protocols that are explicitly aligned with the odor and process control plans — and then commits to guiding the client through two pending changes (a disposal-route transition and a new heat drying facility) rather than merely operating around them.
 reuse-notes: The disposal-route transition and the heat drying integration are this client's pending changes; substitute the target utility's actual pending solids changes. Keep this block distinct from the Sludge Management Plan block and the Operational Integration Plan block — all three were scored against separate contract schedules.

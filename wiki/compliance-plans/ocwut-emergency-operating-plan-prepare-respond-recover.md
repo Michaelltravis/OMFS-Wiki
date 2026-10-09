@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.protecting-service-public-health-and-community-confid
 section-order: 43
 section-path: Section 1 | Technical Approach › Operations Plan › EMERGENCY OPERATING PLAN › Protecting Service, Public Health, and Community Confidence
 doc-order: 78
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: A complete four-beat emergency narrative — prepare, respond, recover, coordinate — that is anchored to vulnerabilities the team found during its own facility assessments (influent pump station flood risk, H2S access restrictions, redundancy gaps) rather than to generic preparedness language, and that names the leaders who stay engaged during a major event
 reuse-notes: Replace the three named vulnerabilities with findings from the target facility assessments, and name the client plans the emergency operating plan must align to (here the client's Emergency Response Plan, Flood Emergency Response Plan, Risk Management Plan, the municipal Emergency Operations Plan, and each facility's SPCC Plan). Confirm the named Project Manager and Emergency Response SME are committed to the pursuit. The 24/7 emergency reporting hotline is a corporate capability — verify it is offered under the target contract before including the callout.

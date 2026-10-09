@@ -26,6 +26,9 @@ section-id: fulton-county-2025:14.team-organization-optimizes-and-elevates-o-m
 section-path: Section 3 | Project Team Qualifications, Qualifications of Key Personnel › TEAM ORGANIZATION OPTIMIZES AND ELEVATES O&M
 section-order: 2
 doc-order: 126
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, three MBR water reclamation facilities plus 33 pump stations, bid as JC Solutions, a Jacobs/CERM JV.
 quality: Compact, reusable statement of the incumbent-staff retention offer paired with a named-staff backstop for every key and non-key position, which removes the client's staffing risk without pressuring incumbent employees.
 reuse-notes: Confirm which positions are RFP-mandated and which incumbent staff are actually in scope before reuse; name the specific key positions and the individuals held in reserve for the target pursuit; adjust the JV or single-entity team name.

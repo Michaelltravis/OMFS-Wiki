@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:11.why-jason
 section-order: 6
 section-path: 'Section 3: Key Personnel › 3.2 RESUMES › MEMBERSHIP/AFFILIATIONS › WHY JASON?'
 doc-order: 82
+volatility: people
+review-due: 2026-03-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "Multi-facility California water-treatment operator resume including 53-MGD and 3-MGD desalination and 6-MGD advanced water treatment experience, with strong process and SCADA breadth."
 reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Useful as a supporting operator resume for California drinking-water, desalination, and advanced-treatment pursuits."

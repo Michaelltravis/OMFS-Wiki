@@ -26,6 +26,9 @@ section-id: fulton-county-2025:03
 section-order: 4
 section-path: Section 1 | Executive Summary
 doc-order: 5
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for three MBR wastewater facilities and associated pump stations under Georgia EPD oversight.
 quality: Near-verbatim transition from firsthand site understanding to a targeted compliance, membrane, maintenance, safety, and appearance response.
 reuse-notes: Use only where the team has verified site knowledge. Replace the platform names, cited provider, facilities, and observed conditions with current-pursuit evidence; keep the JV voice and attribute partner-specific capability accurately.

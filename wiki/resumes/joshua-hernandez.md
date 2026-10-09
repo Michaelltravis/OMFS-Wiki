@@ -26,6 +26,9 @@ section-id: santamonica-swip-om-2025:11.why-josh
 section-order: 4
 section-path: 'Section 3: Key Personnel › 3.2 RESUMES › MEMBERSHIP/AFFILIATIONS › WHY JOSH?'
 doc-order: 80
+volatility: people
+review-due: 2026-03-11
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "Solid mid-career operator resume emphasizing SCADA/PLC skill development, mentorship of junior operators, and OSHA/EPA compliance leadership; ten years of full-plant wastewater operations with laboratory testing and regulatory reporting."
 reuse-notes: "Verbatim - resumes are not sanitized per CLAUDE.md. Useful as a supporting operator-level resume for California wastewater and advanced-treatment O&M staffing plans."

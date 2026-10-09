@@ -26,6 +26,9 @@ section-id: ocwut-16-26:32.awards
 section-order: 9
 section-path: Section 7 | Projects and References › AWARDS
 doc-order: 220
+volatility: reference
+review-due: 2026-11-02
+freshness-flags: [open-ended-date]
 context: "Verbatim county DBO reference for advanced wastewater treatment, reclaimed water, capital delivery, odor control, and long-term O&M."
 quality: "Integrated design-through-O&M, accelerated capital performance, reuse production, workforce continuity, and data-driven maintenance evidence."
 reuse-notes: "VERBATIM — past-performance blocks retain real client, facility, personnel, and contact information. Reconfirm contacts, dates, award years, status, and figures before external use. The source annual operations-budget figure is omitted as commercial pricing; operational, capital, and outcome figures remain."

@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:24.sswrf-digester-gas-may-meet-all-facility-s-power-nee
 section-order: 24
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.2. Approach to Operations of Facilities › 03 STRATEGIC AND CONTINUOUS IMPROVEMENT › 2.2.2. JIWRF and SSWRF Wet Processes - Focus Area › SSWRF digester gas may meet all facility’s power needs
 doc-order: 124
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; WDNR
 quality: The governing framework behind every chemical savings claim in the proposal. It pre-answers the evaluator's fear that savings come out of compliance margin ("not where it was achieved 99% of the time"), commits to open-book vendor pricing, and backs innovation with 50+ deployments, a client quote, and a university teaching engagement.
 reuse-notes: The four pillars and the compliance-safety-factor language are house framework text and travel unchanged. Refresh the deployment count and the university course dates; confirm the client testimonial's permission status in testimonials/inventory.md before reusing the quote.

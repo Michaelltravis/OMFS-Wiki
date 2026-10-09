@@ -26,6 +26,9 @@ section-id: ocwut-16-26:04
 section-order: 1
 section-path: Section 1 | Technical Approach › Management Plan
 doc-order: 23
+volatility: people
+review-due: 2026-11-02
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The opening of a winning challenger Management Plan — it converts "we will manage well" into a named governance structure, a named leadership trio, and a promise (real-time data, structured reports, proactive notice) that the rest of the section then proves. The local-knowledge argument for the Project Director and Project Manager is the incumbent-displacement engine of the whole proposal.
 reuse-notes: The persuasive force comes from named leaders who previously worked inside the client's own system — verify who on the proposed team actually has that history before reusing the "knows your culture" framing, and read the verbatim pages for the specific facility each leader ran. Replace Steve Carpenter / David Pitocchelli / Alex Rodriguez with the proposed team, confirm availability, and re-cite the turnaround projects (Jackson, Mississippi; West Basin, California) only if those leaders are actually proposed.

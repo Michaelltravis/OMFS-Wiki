@@ -8,8 +8,8 @@ story-ids: []
 status: preferred
 house-favorite: false
 proof-point-ids: []
-extracted: '2026-09-05'
-last-verified: '2026-09-05'
+extracted: 2026-09-05
+last-verified: 2026-09-05
 block-type: prose
 source-pages: [96]
 verbatim-ref: [verbatim/hull-wwtf-om-2026/pages/p0096.md#¶1]
@@ -24,6 +24,9 @@ section-id: hull-wwtf-om-2026:17.wastewater-aerobic-anaerobic-transformations-in
 section-order: 2
 section-path: Section 7 - Appendix F - WATS Modeling › WASTEWATER AEROBIC/ANAEROBIC TRANSFORMATIONS IN SEWERS (WATS) MODELING
 doc-order: 89
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, ~10,000 residents
 sanitized: true
 quality: Compact, visual, easily-understood differentiator chaining real-time sensing to predictive dispersion modeling; strong for win-theme and technical-approach sections addressing community odor complaints near sensitive receptors.

@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.long-term-staffing-succession-planning-practic
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Long-Term Staffing/Succession Planning Practices
 section-order: 12
 doc-order: 120
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD"
 quality: "The fullest version of the long-term staffing story in this source: a corporate group with results attached, four named recruiting channels including the at Ease military program, and incentives stated at the dollar level rather than described."
 reuse-notes: "Refresh the Resource Planning Group results to the current year, swap the named local colleges for schools near the target facilities, and confirm the certification bonus and tuition-reimbursement amounts are still current and approved."

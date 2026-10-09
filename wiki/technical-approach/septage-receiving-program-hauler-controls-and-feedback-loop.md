@@ -26,6 +26,9 @@ section-id: ocwut-16-26:05.septage-receiving-program
 section-order: 50
 section-path: Section 1 | Technical Approach › Operations Plan › PUMP STATION OPERATIONS AND SEPTAGE RECEIVING › Septage Receiving Program
 doc-order: 85
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: Connects septage intake discipline to biosolids quality and odor — the causal chain most operators leave unstated — and backs it with concrete, enforceable hauler site rules and a trend-analysis feedback loop into the solids program.
 reuse-notes: The Schedule 6 reference, the observed testing gap (pH and visual inspection only), and the porta-potty load observation come from this pursuit's site visits and contract — replace with your own findings and the applicable contract schedule. Re-number Exhibit 1-27 to the new proposal's exhibit sequence.

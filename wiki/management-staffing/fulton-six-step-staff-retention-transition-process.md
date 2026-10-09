@@ -26,6 +26,9 @@ section-id: fulton-county-2025:13.compensation-package
 section-path: Section 2 | Operations & Maintenance Plan › 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date › Compensation Package
 section-order: 5
 doc-order: 113
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: A complete, numbered staff-transition process that reads as a schedule rather than a promise — retain first, then introduce, then assess, then offer, then start up, then train continuously. Each step names what the client gets from it (continuity, alignment, minimal disruption), so the sequence doubles as the benefit argument for keeping the incumbent workforce.
 reuse-notes: Tailor the recruiting channels (local job boards, professional networks, outreach initiatives) to the actual labor market and name the region. Replace the JV name if not bidding as a JV. Align the steps with the dates in the transition schedule exhibit, and confirm with HR that offers to all interested and qualified incumbents is in fact the commitment being made before reusing steps 1 and 4 verbatim.

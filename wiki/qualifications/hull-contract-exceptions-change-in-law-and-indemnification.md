@@ -26,6 +26,9 @@ section-id: hull-wwtf-om-2026:19
 section-path: Section 7 - Appendix H - Contract Exceptions
 section-order: 1
 doc-order: 91
+volatility: evergreen
+review-due: 2029-04-01
+freshness-flags: []
 context: "Coastal New England municipal WWTF (3.07 MGD) + collection system O&M, 2026; MassDEP"
 quality: "Model exceptions table that states each requested contract revision as an issue plus a clean proposed redline, opening with a partnership framing rather than a refusal - the risk-allocation positions (tax-law Change in Law, prevailing wage, negligence-based indemnification) are Jacobs' standard municipal O&M positions and reusable across pursuits."
 reuse-notes: "Re-verify every section number against the draft agreement of the new pursuit - the article references (2.02, 7.01) are specific to this client's draft contract. Confirm state/regulator references (Commonwealth of Massachusetts) and the citizen-suit citation. Legal must approve the indemnification redline before it is submitted; the wording here is the starting position, not a final commitment."

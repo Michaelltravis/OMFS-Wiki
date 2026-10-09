@@ -1,9 +1,19 @@
 {
   "files_checked": 835,
   "by_rule": {
-    "client-name-in-narrative": 85
+    "fallback-house-favorite": 1,
+    "client-name-in-narrative": 85,
+    "supersedes-link-format": 11,
+    "supersedes-nonreciprocal": 5,
+    "status-link-mismatch": 2,
+    "date-not-bare-iso": 44
   },
   "violations": [
+    {
+      "rule": "fallback-house-favorite",
+      "path": "wiki/technical-approach/annual-innovation-workshop-program.md",
+      "detail": "fallback block is house-favorite"
+    },
     {
       "rule": "client-name-in-narrative",
       "path": "wiki/technical-approach/chisholm-creek-process-control-proactive-risk-reduction.md",
@@ -60,6 +70,91 @@
       "detail": "North Canadian, North Canadian WWTP, Witcher Pump Station"
     },
     {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-day-to-day-communication-and-governance.md",
+      "detail": "supersedes: mmsd-pgm-cost-control-monitoring-and-reporting.md"
+    },
+    {
+      "rule": "supersedes-nonreciprocal",
+      "path": "wiki/technical-approach/mmsd-day-to-day-communication-and-governance.md",
+      "detail": "supersedes: wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md has no superseded-by pointing back"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-exhibit-priorities-and-om-plan-elements.md",
+      "detail": "supersedes: mmsd-exhibit-shared-priorities-and-om-plan-grid.md"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-exhibit-shared-priorities-and-om-plan-grid.md",
+      "detail": "superseded-by: mmsd-exhibit-priorities-and-om-plan-elements.md"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+      "detail": "superseded-by: mmsd-exhibit-value-added-savings-by-category.md"
+    },
+    {
+      "rule": "status-link-mismatch",
+      "path": "wiki/technical-approach/mmsd-exhibit-value-added-savings-breakdown.md",
+      "detail": "preferred block carries superseded-by"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-exhibit-value-added-savings-by-category.md",
+      "detail": "supersedes: mmsd-exhibit-value-added-savings-breakdown.md"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-five-tenets-culture-exhibit.md",
+      "detail": "supersedes: mmsd-approach-to-management-client-for-life-and-five-tenets.md"
+    },
+    {
+      "rule": "supersedes-nonreciprocal",
+      "path": "wiki/technical-approach/mmsd-five-tenets-culture-exhibit.md",
+      "detail": "supersedes: wiki/technical-approach/mmsd-approach-to-management-client-for-life-and-five-tenets.md has no superseded-by pointing back"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-odor-control-focus-area-and-program-commitment.md",
+      "detail": "superseded-by: mmsd-odor-challenge-and-proactive-odor-management-strategy.md"
+    },
+    {
+      "rule": "supersedes-nonreciprocal",
+      "path": "wiki/technical-approach/mmsd-odor-control-focus-area-and-program-commitment.md",
+      "detail": "superseded-by: wiki/technical-approach/mmsd-odor-challenge-and-proactive-odor-management-strategy.md has no supersedes pointing back"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-pgm-framework-foundation-of-shared-success.md",
+      "detail": "superseded-by: mmsd-approach-to-management-of-facilities-pgm-foundation.md"
+    },
+    {
+      "rule": "supersedes-nonreciprocal",
+      "path": "wiki/technical-approach/mmsd-pgm-framework-foundation-of-shared-success.md",
+      "detail": "superseded-by: wiki/technical-approach/mmsd-approach-to-management-of-facilities-pgm-foundation.md has no supersedes pointing back"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-pgm-framework-foundation-of-shared-success.md",
+      "detail": "superseded-by: mmsd-pgm-framework-standup-and-leadership.md"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-pgm-framework-standup-and-leadership.md",
+      "detail": "supersedes: mmsd-pgm-framework-foundation-of-shared-success.md"
+    },
+    {
+      "rule": "supersedes-link-format",
+      "path": "wiki/technical-approach/mmsd-system-health-check-conveyance-collection-and-solids-table.md",
+      "detail": "superseded-by: mmsd-facility-health-check-exhibit.md"
+    },
+    {
+      "rule": "supersedes-nonreciprocal",
+      "path": "wiki/technical-approach/mmsd-system-health-check-conveyance-collection-and-solids-table.md",
+      "detail": "superseded-by: wiki/technical-approach/mmsd-facility-health-check-exhibit.md has no supersedes pointing back"
+    },
+    {
       "rule": "client-name-in-narrative",
       "path": "wiki/technical-approach/north-canadian-process-control-stabilize-first.md",
       "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian, Witcher"
@@ -70,9 +165,39 @@
       "detail": "Deer Creek, North Canadian, Witcher Pump Station"
     },
     {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-advanced-odor-monitoring-and-data-driven-control.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-advanced-odor-monitoring-and-data-driven-control.md",
+      "detail": "last-verified: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-biosolids-and-disinfection-systems-as-odor-drivers.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-biosolids-and-disinfection-systems-as-odor-drivers.md",
+      "detail": "last-verified: '2026-09-05'"
+    },
+    {
       "rule": "client-name-in-narrative",
       "path": "wiki/technical-approach/ocwut-collection-system-odor-control-wats-and-wet-weather-basins.md",
       "detail": "North Canadian, Witcher Pump Station"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-collection-system-odor-control-wats-and-wet-weather-basins.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-collection-system-odor-control-wats-and-wet-weather-basins.md",
+      "detail": "last-verified: '2026-09-05'"
     },
     {
       "rule": "client-name-in-narrative",
@@ -100,6 +225,16 @@
       "detail": "North Canadian"
     },
     {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-fence-line-performance-rapid-response-and-integration.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-fence-line-performance-rapid-response-and-integration.md",
+      "detail": "last-verified: '2026-09-05'"
+    },
+    {
       "rule": "client-name-in-narrative",
       "path": "wiki/technical-approach/ocwut-four-facility-process-control-diagnosis.md",
       "detail": "Chisholm Creek, Deer Creek, North Canadian, South Canadian"
@@ -110,9 +245,39 @@
       "detail": "Deer Creek, North Canadian, Witcher"
     },
     {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-maintenance-as-a-driver-of-odor-control.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-maintenance-as-a-driver-of-odor-control.md",
+      "detail": "last-verified: '2026-09-05'"
+    },
+    {
       "rule": "client-name-in-narrative",
       "path": "wiki/technical-approach/ocwut-odor-control-why-it-matters-and-systemwide-framework.md",
       "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-odor-control-why-it-matters-and-systemwide-framework.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-odor-control-why-it-matters-and-systemwide-framework.md",
+      "detail": "last-verified: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-oklahoma-regulatory-knowledge-odeq-relationship.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-oklahoma-regulatory-knowledge-odeq-relationship.md",
+      "detail": "last-verified: '2026-09-05'"
     },
     {
       "rule": "client-name-in-narrative",
@@ -120,9 +285,89 @@
       "detail": "Deer Creek, North Canadian, South Canadian"
     },
     {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-oshg-conversion-transition-experience.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-oshg-conversion-transition-experience.md",
+      "detail": "last-verified: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-risk-based-transition-management.md",
+      "detail": "extracted: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-risk-based-transition-management.md",
+      "detail": "last-verified: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-client-testimonials-proven-success.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-client-testimonials-proven-success.md",
+      "detail": "last-verified: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-communications-training-asset-validation-and-partnership.md",
+      "detail": "extracted: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-communications-training-asset-validation-and-partnership.md",
+      "detail": "last-verified: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-milestone-framework-and-checklist-exhibit.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-milestone-framework-and-checklist-exhibit.md",
+      "detail": "last-verified: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-organization-chart-exhibit.md",
+      "detail": "extracted: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-organization-chart-exhibit.md",
+      "detail": "last-verified: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-plan-phased-approach-and-schedule-19-deliverables.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-plan-phased-approach-and-schedule-19-deliverables.md",
+      "detail": "last-verified: '2026-09-07'"
+    },
+    {
       "rule": "client-name-in-narrative",
       "path": "wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
       "detail": "Witcher Pump Station"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
+      "detail": "extracted: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-transition-work-plan-and-schedule-19-deliverables.md",
+      "detail": "last-verified: '2026-09-07'"
     },
     {
       "rule": "client-name-in-narrative",
@@ -130,9 +375,29 @@
       "detail": "Deer Creek, North Canadian, South Canadian, Witcher Pump Station"
     },
     {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md",
+      "detail": "extracted: '2026-09-07'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-workforce-transition-leadership-and-operational-readiness.md",
+      "detail": "last-verified: '2026-09-07'"
+    },
+    {
       "rule": "client-name-in-narrative",
       "path": "wiki/technical-approach/ocwut-wwtf-odor-control-dispersion-modeling-and-equipment-restoration.md",
       "detail": "Deer Creek, North Canadian"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-wwtf-odor-control-dispersion-modeling-and-equipment-restoration.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/ocwut-wwtf-odor-control-dispersion-modeling-and-equipment-restoration.md",
+      "detail": "last-verified: '2026-09-05'"
     },
     {
       "rule": "client-name-in-narrative",
@@ -170,9 +435,29 @@
       "detail": "Chisholm Creek, Deer Creek, North Canadian, Witcher"
     },
     {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/sensor-dispersion-model-odor-early-warning-system.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/sensor-dispersion-model-odor-early-warning-system.md",
+      "detail": "last-verified: '2026-09-05'"
+    },
+    {
       "rule": "client-name-in-narrative",
       "path": "wiki/technical-approach/south-canadian-new-plant-process-control-day-one.md",
       "detail": "South Canadian"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/value-added-innovations-menu-om-contracts.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/technical-approach/value-added-innovations-menu-om-contracts.md",
+      "detail": "last-verified: '2026-09-05'"
     },
     {
       "rule": "client-name-in-narrative",
@@ -235,6 +520,11 @@
       "detail": "Deer Creek, North Canadian Wastewater Treatment Plant"
     },
     {
+      "rule": "status-link-mismatch",
+      "path": "wiki/win-themes/discounted-engineering-savings-example-table.md",
+      "detail": "fallback block names no superseded-by winner"
+    },
+    {
       "rule": "client-name-in-narrative",
       "path": "wiki/win-themes/exec-summary-innovation-benefit-table.md",
       "detail": "Witcher Pump Station"
@@ -283,6 +573,26 @@
       "rule": "client-name-in-narrative",
       "path": "wiki/win-themes/fulton-proactive-media-relations-program.md",
       "detail": "Johns Creek, North Fulton"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/win-themes/past-performance-narrative-structure.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/win-themes/past-performance-narrative-structure.md",
+      "detail": "last-verified: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/win-themes/similar-facilities-comparison-table-framing.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/win-themes/similar-facilities-comparison-table-framing.md",
+      "detail": "last-verified: '2026-09-05'"
     },
     {
       "rule": "client-name-in-narrative",
@@ -428,6 +738,16 @@
       "rule": "client-name-in-narrative",
       "path": "wiki/compliance-plans/sampling-compliance-and-process-control.md",
       "detail": "Chisholm Creek, Deer Creek, North Canadian"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/resumes/proposed-team-roster-hull-wwtf-om-2026.md",
+      "detail": "extracted: '2026-09-05'"
+    },
+    {
+      "rule": "date-not-bare-iso",
+      "path": "wiki/resumes/proposed-team-roster-hull-wwtf-om-2026.md",
+      "detail": "last-verified: '2026-09-05'"
     }
   ]
 }

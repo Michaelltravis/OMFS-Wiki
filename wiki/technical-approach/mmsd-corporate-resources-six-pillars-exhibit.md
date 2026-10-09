@@ -26,6 +26,9 @@ section-id: mmsd-om-2028:25.2-5-leveraging-corporate-resources-for-operational-e
 section-order: 25
 section-path: IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.5. Leveraging Corporate Resources for Operational Excellence
 doc-order: 152
+volatility: corporate-figure
+review-due: 2027-01-30
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid against an incumbent operator; state DNR regulatory regime
 quality: Five corporate-support pillars, each with a capability statement and an explicit "Benefit to [CLIENT]" line — the cleanest feature-to-benefit exhibit in the source. Carries the two headline scale numbers (43,000 professionals globally, 5,000+ in-house water professionals) and names AquaDNA as the differentiating analytics tool.
 reuse-notes: Every "Benefit to [CLIENT]" line must be rewritten against the client's own stated objectives — they are the half of each row that earns the score. Verify the 43,000 and 5,000 figures against the current registry values before reuse; both move year to year. Exhibit asset ID 286_007CAM_2. Executive-support row should name the actual executive sponsor committed in the staffing section.

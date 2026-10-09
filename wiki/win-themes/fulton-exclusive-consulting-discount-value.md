@@ -26,6 +26,9 @@ section-id: fulton-county-2025:03
 section-path: Section 1 | Executive Summary
 section-order: 3
 doc-order: 4
+volatility: evergreen
+review-due: 2028-04-17
+freshness-flags: []
 context: Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD
 quality: The shortest form of the "more than an operator" argument in an executive summary — a contractual, priceable offer (a discounted consulting rate structure tied to the O&M contract) rather than a slogan, framed as cost transparency and long-term partnership. It gives the evaluator a concrete reason to believe the engineering bench is reachable.
 reuse-notes: Confirm with the pursuit lead that a discounted consulting rate structure is actually being offered before reusing this claim, and keep the commercial rate table itself out of narrative sections — the rates belong in the cost proposal. Name the studies or services the discount applies to using the pursuit's own examples (here, follow-up studies from the Annual Innovation Workshops). Retain "JC Solutions" only when the proposing entity is the Jacobs/CERM JV; otherwise attribute the offer to Jacobs.

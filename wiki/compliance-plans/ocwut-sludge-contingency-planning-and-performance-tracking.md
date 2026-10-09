@@ -26,6 +26,9 @@ section-id: ocwut-16-26:27.contingency-planning-and-upset-response
 section-order: 7
 section-path: Section 5 | Required Plans Submitted with the Proposal › Sludge Management Plan › WEATHER/ DEWATERING HAULING SITE PAD NOAA OUTPUT SCHEDULE AVAILABILITY UTILIZATION › Contingency Planning and Upset Response
 doc-order: 181
+volatility: evergreen
+review-due: 2029-05-05
+freshness-flags: [divergent-figure]
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime
 quality: Closes a sludge management plan on the two things an evaluator scores hardest — what happens when the weather stops land application, and how performance is measured afterward. Ties contingency disposal directly to the contract's storage-threshold and fee-at-risk exposure rather than leaving it as generic assurance.
 reuse-notes: Re-map COM-3/COM-5 to the target contract's performance-requirement numbering, and replace the Exhibit B landfill reference with whatever the target contract's approved alternative-disposal instrument is. The KPI list (pad utilization, tons processed and hauled, odor incidents, hauling performance, compliance metrics, site utilization) transfers as written to any Class B land application or landfill program. Pairs with the Solids Management Plan and Operational Integration Plan blocks from the same source.

@@ -27,6 +27,9 @@ section-id: mmsd-om-2028:25.2-3-1-digital-twin-enabling-system-wide-optimization
 section-order: 12
 section-path: 'IV. Approach Summary › IV.A. Approach to Management, Operations, PM, and CM › IV.A.6. Responding to Public Odor Complaints › 2.3. Deep Domain Expertise Powered by Advanced Digital Tools › 2.3.1. Digital Twin: Enabling System-Wide Optimization'
 doc-order: 139
+volatility: evergreen
+review-due: 2029-01-29
+freshness-flags: []
 context: Midwest US regional sewerage district, two large water reclamation facilities plus biosolids production, 2028 challenger bid vs. incumbent operator; WDNR.
 quality: Handles the two objections a digital twin always draws — does it take control away from operators, and does the client get to see what the operator sees — with an explicit "does not automate plant operations" and a transparency commitment.
 reuse-notes: Tailor the connected-system list (collection system, storage, plants, biosolids) and the outcome list (permit compliance, overflow reduction, energy, resource recovery, carbon) to the target system. Pair with the digital twin benefits exhibit and the digital tools table rather than restating their content here.
