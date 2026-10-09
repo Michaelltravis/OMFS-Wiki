@@ -26,8 +26,8 @@ section-id: santamonica-swip-om-2025:08.in-house-procedures-to-provide-accuracy-
 section-order: 7
 section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL'
 doc-order: 35
-volatility: evergreen
-review-due: 2028-09-11
+volatility: people
+review-due: 2026-03-11
 freshness-flags: [divergent-figure, newer-source-same-claim]
 updated: 2026-10-09
 update-notes: '2026-10-09: O&M experience four decades -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0149)'

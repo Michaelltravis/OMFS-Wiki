@@ -18,8 +18,8 @@
    "fallback": 44
   },
   "by_volatility": {
-   "evergreen": 544,
-   "people": 201,
+   "evergreen": 543,
+   "people": 202,
    "reference": 18,
    "safety-stat": 8,
    "corporate-figure": 46,
@@ -37,19 +37,19 @@
    "person-duplicate": 6
   },
   "flagged_blocks": 110,
-  "overdue": 180,
+  "overdue": 181,
   "overdue_by_owner": {
-   "Michael Travis": 180
+   "Michael Travis": 181
   },
   "overdue_by_volatility": {
-   "people": 145,
+   "people": 146,
    "reference": 12,
    "corporate-figure": 18,
    "safety-stat": 3,
    "regulatory": 2
   },
   "overdue_by_source": {
-   "santamonica-swip-om-2025": 38,
+   "santamonica-swip-om-2025": 39,
    "hull-wwtf-om-2026": 27,
    "mmsd-om-2028": 69,
    "fulton-county-2025": 46
@@ -7547,6 +7547,43 @@
    "rank": 291
   },
   {
+   "path": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
+   "title": "QA/QC Program with Annual Audit Process (Regional Team Model, 4-Step Audit Lifecycle)",
+   "category": "compliance-plans",
+   "source": "santamonica-swip-om-2025",
+   "status": "preferred",
+   "house_favorite": false,
+   "volatility": "people",
+   "basis_date": "2025-09-12",
+   "basis": "source",
+   "review_due": "2026-03-11",
+   "overdue_days": 212,
+   "usage": 0,
+   "flags": [
+    {
+     "flag": "divergent-figure",
+     "detail": "PP-0149",
+     "evidence": "proof-points/registry.md"
+    },
+    {
+     "flag": "newer-source-same-claim",
+     "detail": "PP-0149: santamonica-swip-om-2025 says 4, 4 decades; hundreds, 40, more than 40; hull-wwtf-om-2026 (2026-04-02) says 45+ years",
+     "evidence": "proof-points/registry.json"
+    }
+   ],
+   "severity": 1,
+   "owner": "Michael Travis",
+   "current": {
+    "volatility": "evergreen",
+    "review_due": "2028-09-11",
+    "flags": [
+     "divergent-figure",
+     "newer-source-same-claim"
+    ]
+   },
+   "rank": 292
+  },
+  {
    "path": "wiki/resumes/howard-brewen.md",
    "title": "Howard Brewen - Director of Operations (WW Grade V)",
    "category": "resumes",
@@ -7581,7 +7618,7 @@
      "newer-source-same-claim"
     ]
    },
-   "rank": 292
+   "rank": 293
   },
   {
    "path": "wiki/management-staffing/swip-key-personnel-operations-leadership-bios.md",
@@ -7612,7 +7649,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 293
+   "rank": 294
   },
   {
    "path": "wiki/resumes/chris-catlin.md",
@@ -7643,7 +7680,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 294
+   "rank": 295
   },
   {
    "path": "wiki/resumes/mack-mckenzie.md",
@@ -7674,7 +7711,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 295
+   "rank": 296
   },
   {
    "path": "wiki/win-themes/swip-transmittal-letter-value-bullets.md",
@@ -7705,7 +7742,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 296
+   "rank": 297
   },
   {
    "path": "wiki/qualifications/california-om-track-record-and-governance.md",
@@ -7736,7 +7773,7 @@
      "open-ended-date"
     ]
    },
-   "rank": 297
+   "rank": 298
   },
   {
    "path": "wiki/resumes/christen-wood.md",
@@ -7767,7 +7804,7 @@
      "open-ended-date"
     ]
    },
-   "rank": 298
+   "rank": 299
   },
   {
    "path": "wiki/management-staffing/swip-key-personnel-cpo-and-operators-bios.md",
@@ -7790,7 +7827,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 299
+   "rank": 300
   },
   {
    "path": "wiki/management-staffing/swip-key-personnel-maintenance-ic-technician-bios.md",
@@ -7813,7 +7850,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 300
+   "rank": 301
   },
   {
    "path": "wiki/management-staffing/swip-project-team-org-structure.md",
@@ -7836,7 +7873,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 301
+   "rank": 302
   },
   {
    "path": "wiki/resumes/jason-holst.md",
@@ -7859,7 +7896,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 302
+   "rank": 303
   },
   {
    "path": "wiki/resumes/joshua-hernandez.md",
@@ -7882,7 +7919,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 303
+   "rank": 304
   },
   {
    "path": "wiki/resumes/mayo-miller.md",
@@ -7905,7 +7942,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 304
+   "rank": 305
   },
   {
    "path": "wiki/resumes/richard-gwinn.md",
@@ -7928,7 +7965,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 305
+   "rank": 306
   },
   {
    "path": "wiki/technical-approach/swip-comprehensive-om-plan-list.md",
@@ -7951,7 +7988,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 306
+   "rank": 307
   },
   {
    "path": "wiki/technical-approach/swip-dpr-readiness-expert-bench-and-monitoring.md",
@@ -7974,7 +8011,7 @@
     "review_due": "2026-03-11",
     "flags": []
    },
-   "rank": 307
+   "rank": 308
   },
   {
    "path": "wiki/compliance-plans/fulton-safety-program-key-elements-table.md",
@@ -7997,7 +8034,7 @@
     "review_due": "2026-04-18",
     "flags": []
    },
-   "rank": 308
+   "rank": 309
   },
   {
    "path": "wiki/management-staffing/fulton-jv-regional-workforce-and-technical-bench.md",
@@ -8020,7 +8057,7 @@
     "review_due": "2026-04-18",
     "flags": []
    },
-   "rank": 309
+   "rank": 310
   },
   {
    "path": "wiki/management-staffing/fulton-servant-leadership-and-regional-compatibility.md",
@@ -8043,7 +8080,7 @@
     "review_due": "2026-04-18",
     "flags": []
    },
-   "rank": 310
+   "rank": 311
   },
   {
    "path": "wiki/management-staffing/fulton-train-to-retain-development-programs-table.md",
@@ -8066,7 +8103,7 @@
     "review_due": "2026-04-18",
     "flags": []
    },
-   "rank": 311
+   "rank": 312
   },
   {
    "path": "wiki/win-themes/exec-summary-jv-partnership-value-proposition.md",
@@ -8089,7 +8126,7 @@
     "review_due": "2026-04-18",
     "flags": []
    },
-   "rank": 312
+   "rank": 313
   },
   {
    "path": "wiki/management-staffing/mmsd-value-added-staff-positions-exhibit.md",
@@ -8120,7 +8157,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 313
+   "rank": 314
   },
   {
    "path": "wiki/resumes/mmsd-kevin-dahl-project-manager.md",
@@ -8151,7 +8188,7 @@
      "person-duplicate"
     ]
    },
-   "rank": 314
+   "rank": 315
   },
   {
    "path": "wiki/compliance-plans/mmsd-safety-how-we-do-it-and-training-curriculum.md",
@@ -8174,7 +8211,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 315
+   "rank": 316
   },
   {
    "path": "wiki/management-staffing/mmsd-dual-management-leadership-model.md",
@@ -8197,7 +8234,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 316
+   "rank": 317
   },
   {
    "path": "wiki/management-staffing/mmsd-fulfill-and-sustain-minimum-staffing-plan.md",
@@ -8220,7 +8257,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 317
+   "rank": 318
   },
   {
    "path": "wiki/management-staffing/mmsd-governance-committees-and-blue-ribbon-panel.md",
@@ -8243,7 +8280,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 318
+   "rank": 319
   },
   {
    "path": "wiki/management-staffing/mmsd-hr-commitment-award-winning-culture-and-integrated-hr-team.md",
@@ -8266,7 +8303,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 319
+   "rank": 320
   },
   {
    "path": "wiki/management-staffing/mmsd-integrated-asset-management-and-maintenance-support.md",
@@ -8289,7 +8326,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 320
+   "rank": 321
   },
   {
    "path": "wiki/management-staffing/mmsd-internships-and-career-awareness-outreach.md",
@@ -8312,7 +8349,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 321
+   "rank": 322
   },
   {
    "path": "wiki/management-staffing/mmsd-key-leader-philosophy-and-client-testimonials.md",
@@ -8335,7 +8372,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 322
+   "rank": 323
   },
   {
    "path": "wiki/management-staffing/mmsd-leadership-team-org-chart-roles.md",
@@ -8358,7 +8395,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 323
+   "rank": 324
   },
   {
    "path": "wiki/management-staffing/mmsd-pm-cm-maintenance-staffing-model.md",
@@ -8381,7 +8418,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 324
+   "rank": 325
   },
   {
    "path": "wiki/management-staffing/mmsd-safe-work-environment-and-healthy-workforce.md",
@@ -8404,7 +8441,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 325
+   "rank": 326
   },
   {
    "path": "wiki/management-staffing/mmsd-staffing-strategy-and-organizational-structure.md",
@@ -8427,7 +8464,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 326
+   "rank": 327
   },
   {
    "path": "wiki/management-staffing/mmsd-step-by-step-employee-transition-and-knowledge-retention.md",
@@ -8450,7 +8487,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 327
+   "rank": 328
   },
   {
    "path": "wiki/management-staffing/mmsd-transition-continuity-and-proven-track-record.md",
@@ -8473,7 +8510,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 328
+   "rank": 329
   },
   {
    "path": "wiki/management-staffing/mmsd-transition-organization-team-roster.md",
@@ -8496,7 +8533,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 329
+   "rank": 330
   },
   {
    "path": "wiki/management-staffing/mmsd-union-and-labor-relations-and-employee-transition.md",
@@ -8519,7 +8556,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 330
+   "rank": 331
   },
   {
    "path": "wiki/management-staffing/mmsd-uwm-scholarship-commitment.md",
@@ -8542,7 +8579,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 331
+   "rank": 332
   },
   {
    "path": "wiki/management-staffing/mmsd-workforce-development-team-and-transparent-reporting.md",
@@ -8565,7 +8602,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 332
+   "rank": 333
   },
   {
    "path": "wiki/qualifications/mmsd-proposer-identity-financial-strength-and-contracting-entity.md",
@@ -8588,7 +8625,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 333
+   "rank": 334
   },
   {
    "path": "wiki/resumes/mmsd-aleksey-reznik-wrf-operations-manager.md",
@@ -8611,7 +8648,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 334
+   "rank": 335
   },
   {
    "path": "wiki/resumes/mmsd-bill-desing-chief-engineer.md",
@@ -8634,7 +8671,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 335
+   "rank": 336
   },
   {
    "path": "wiki/resumes/mmsd-brooke-winters-hr.md",
@@ -8657,7 +8694,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 336
+   "rank": 337
   },
   {
    "path": "wiki/resumes/mmsd-dave-haverly-safety-security-jiwrf.md",
@@ -8680,7 +8717,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 337
+   "rank": 338
   },
   {
    "path": "wiki/resumes/mmsd-eric-habermayer-conveyance-manager-cmms.md",
@@ -8703,7 +8740,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 338
+   "rank": 339
   },
   {
    "path": "wiki/resumes/mmsd-frank-dipietrapaul-maintenance-asset-manager-wrfs.md",
@@ -8726,7 +8763,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 339
+   "rank": 340
   },
   {
    "path": "wiki/resumes/mmsd-jeff-williams-labor-relations.md",
@@ -8749,7 +8786,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 340
+   "rank": 341
   },
   {
    "path": "wiki/resumes/mmsd-john-loucks-powell-director-maintenance-asset-management.md",
@@ -8772,7 +8809,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 341
+   "rank": 342
   },
   {
    "path": "wiki/resumes/mmsd-kelly-irving-transition-manager.md",
@@ -8795,7 +8832,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 342
+   "rank": 343
   },
   {
    "path": "wiki/resumes/mmsd-keoki-sears-program-management-advisor.md",
@@ -8818,7 +8855,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 343
+   "rank": 344
   },
   {
    "path": "wiki/resumes/mmsd-liie-hill-capital-project-coordinator.md",
@@ -8841,7 +8878,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 344
+   "rank": 345
   },
   {
    "path": "wiki/resumes/mmsd-monty-sedlak-maintenance-asset-manager-conveyance.md",
@@ -8864,7 +8901,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 345
+   "rank": 346
   },
   {
    "path": "wiki/resumes/mmsd-natalie-lenz-capital-project-coordinator.md",
@@ -8887,7 +8924,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 346
+   "rank": 347
   },
   {
    "path": "wiki/resumes/mmsd-quitterie-cotten-program-management-initiation.md",
@@ -8910,7 +8947,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 347
+   "rank": 348
   },
   {
    "path": "wiki/resumes/mmsd-rick-warner-deputy-project-manager.md",
@@ -8933,7 +8970,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 348
+   "rank": 349
   },
   {
    "path": "wiki/resumes/mmsd-susan-moisio-wet-weather-conveyance-director.md",
@@ -8956,7 +8993,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 349
+   "rank": 350
   },
   {
    "path": "wiki/resumes/mmsd-toyin-ogunfolaju-public-outreach-coordinator.md",
@@ -8979,7 +9016,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 350
+   "rank": 351
   },
   {
    "path": "wiki/resumes/mmsd-tracy-james-safety-security-sswrf.md",
@@ -9002,7 +9039,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 351
+   "rank": 352
   },
   {
    "path": "wiki/resumes/mmsd-travis-leech-security-safety-manager.md",
@@ -9025,7 +9062,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 352
+   "rank": 353
   },
   {
    "path": "wiki/technical-approach/mmsd-ams-drives-maintenance-delivery-and-work-order-lifecycle.md",
@@ -9048,7 +9085,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 353
+   "rank": 354
   },
   {
    "path": "wiki/technical-approach/mmsd-capital-project-coordination-and-om-input.md",
@@ -9071,7 +9108,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 354
+   "rank": 355
   },
   {
    "path": "wiki/technical-approach/mmsd-cmms-implementation-key-personnel-roster.md",
@@ -9094,7 +9131,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 355
+   "rank": 356
   },
   {
    "path": "wiki/technical-approach/mmsd-continuous-improvement-innovation-partnership-rationale.md",
@@ -9117,7 +9154,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 356
+   "rank": 357
   },
   {
    "path": "wiki/technical-approach/mmsd-day-to-day-communication-and-governance.md",
@@ -9140,7 +9177,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 357
+   "rank": 358
   },
   {
    "path": "wiki/technical-approach/mmsd-effective-efficient-wet-weather-operations.md",
@@ -9163,7 +9200,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 358
+   "rank": 359
   },
   {
    "path": "wiki/technical-approach/mmsd-odor-complaint-protocol-and-investigation.md",
@@ -9186,7 +9223,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 359
+   "rank": 360
   },
   {
    "path": "wiki/technical-approach/mmsd-odor-continuous-improvement-and-community-outreach.md",
@@ -9209,7 +9246,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 360
+   "rank": 361
   },
   {
    "path": "wiki/technical-approach/mmsd-pdm-roles-and-responsibilities.md",
@@ -9232,7 +9269,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 361
+   "rank": 362
   },
   {
    "path": "wiki/technical-approach/mmsd-pgm-cost-control-monitoring-and-reporting.md",
@@ -9255,7 +9292,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 362
+   "rank": 363
   },
   {
    "path": "wiki/technical-approach/mmsd-pgm-framework-foundation-of-shared-success.md",
@@ -9278,7 +9315,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 363
+   "rank": 364
   },
   {
    "path": "wiki/technical-approach/mmsd-pgm-framework-standup-and-leadership.md",
@@ -9301,7 +9338,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 364
+   "rank": 365
   },
   {
    "path": "wiki/technical-approach/mmsd-process-monitoring-control-system-wide-insight.md",
@@ -9324,7 +9361,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 365
+   "rank": 366
   },
   {
    "path": "wiki/technical-approach/mmsd-project-manager-leadership-decision-philosophy.md",
@@ -9347,7 +9384,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 366
+   "rank": 367
   },
   {
    "path": "wiki/technical-approach/mmsd-solids-dewatering-sme-bench.md",
@@ -9370,7 +9407,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 367
+   "rank": 368
   },
   {
    "path": "wiki/technical-approach/mmsd-solids-processing-and-energy-nexus-approach.md",
@@ -9393,7 +9430,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 368
+   "rank": 369
   },
   {
    "path": "wiki/win-themes/mmsd-regional-partnership-leadership-team-and-local-partners.md",
@@ -9416,7 +9453,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 369
+   "rank": 370
   },
   {
    "path": "wiki/win-themes/mmsd-regional-partnership-strategy-research-development.md",
@@ -9439,7 +9476,7 @@
     "review_due": "2026-07-29",
     "flags": []
    },
-   "rank": 370
+   "rank": 371
   },
   {
    "path": "wiki/compliance-plans/swip-emergency-response-plan-approach.md",
@@ -9470,7 +9507,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 371
+   "rank": 372
   },
   {
    "path": "wiki/management-staffing/swip-long-term-staffing-succession-planning.md",
@@ -9493,7 +9530,7 @@
     "review_due": "2026-09-12",
     "flags": []
    },
-   "rank": 372
+   "rank": 373
   },
   {
    "path": "wiki/resumes/anthony-rose.md",
@@ -9530,7 +9567,7 @@
      "newer-source-same-claim"
     ]
    },
-   "rank": 373
+   "rank": 374
   },
   {
    "path": "wiki/resumes/scott-mangold.md",
@@ -9567,7 +9604,7 @@
      "newer-source-same-claim"
     ]
    },
-   "rank": 374
+   "rank": 375
   },
   {
    "path": "wiki/resumes/kevin-dahl.md",
@@ -9604,7 +9641,7 @@
      "person-duplicate"
     ]
    },
-   "rank": 375
+   "rank": 376
   },
   {
    "path": "wiki/resumes/mike-boven.md",
@@ -9635,7 +9672,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 376
+   "rank": 377
   },
   {
    "path": "wiki/resumes/nathan-callison.md",
@@ -9666,7 +9703,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 377
+   "rank": 378
   },
   {
    "path": "wiki/compliance-plans/transition-team-organization-roster.md",
@@ -9689,7 +9726,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 378
+   "rank": 379
   },
   {
    "path": "wiki/management-staffing/blended-onsite-offsite-org-structure.md",
@@ -9712,7 +9749,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 379
+   "rank": 380
   },
   {
    "path": "wiki/management-staffing/key-personnel-role-descriptions.md",
@@ -9735,7 +9772,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 380
+   "rank": 381
   },
   {
    "path": "wiki/management-staffing/proposed-team-org-chart-roster.md",
@@ -9758,7 +9795,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 381
+   "rank": 382
   },
   {
    "path": "wiki/management-staffing/regional-technical-support-bench.md",
@@ -9781,7 +9818,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 382
+   "rank": 383
   },
   {
    "path": "wiki/past-performance/hull-waterbury-owner-testimonial.md",
@@ -9804,7 +9841,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 383
+   "rank": 384
   },
   {
    "path": "wiki/resumes/proposed-team-roster-hull-wwtf-om-2026.md",
@@ -9827,7 +9864,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 384
+   "rank": 385
   },
   {
    "path": "wiki/technical-approach/biosolids-hauling-disposal-and-market-risk-management.md",
@@ -9850,7 +9887,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 385
+   "rank": 386
   },
   {
    "path": "wiki/win-themes/cover-letter-coastal-context-and-named-leadership.md",
@@ -9873,7 +9910,7 @@
     "review_due": "2026-09-29",
     "flags": []
    },
-   "rank": 386
+   "rank": 387
   },
   {
    "path": "wiki/compliance-plans/swip-environmental-regulatory-compliance-program.md",
@@ -9897,43 +9934,6 @@
     {
      "flag": "newer-source-same-claim",
      "detail": "PP-0232: santamonica-swip-om-2025 says 99.98; hull-wwtf-om-2026 (2026-04-02) says 99.8 percent",
-     "evidence": "proof-points/registry.json"
-    }
-   ],
-   "severity": 1,
-   "owner": "Michael Travis",
-   "current": {
-    "volatility": "evergreen",
-    "review_due": "2028-09-11",
-    "flags": [
-     "divergent-figure",
-     "newer-source-same-claim"
-    ]
-   },
-   "rank": 387
-  },
-  {
-   "path": "wiki/compliance-plans/swip-qaqc-program-audit-process.md",
-   "title": "QA/QC Program with Annual Audit Process (Regional Team Model, 4-Step Audit Lifecycle)",
-   "category": "compliance-plans",
-   "source": "santamonica-swip-om-2025",
-   "status": "preferred",
-   "house_favorite": false,
-   "volatility": "evergreen",
-   "basis_date": "2025-09-12",
-   "basis": "source",
-   "review_due": "2028-09-11",
-   "overdue_days": 0,
-   "usage": 0,
-   "flags": [
-    {
-     "flag": "divergent-figure",
-     "detail": "PP-0149",
-     "evidence": "proof-points/registry.md"
-    },
-    {
-     "flag": "newer-source-same-claim",
-     "detail": "PP-0149: santamonica-swip-om-2025 says 4, 4 decades; hundreds, 40, more than 40; hull-wwtf-om-2026 (2026-04-02) says 45+ years",
      "evidence": "proof-points/registry.json"
     }
    ],
@@ -18604,9 +18604,7 @@
    "current": {
     "volatility": "corporate-figure",
     "review_due": "2027-05-06",
-    "flags": [
-     "newer-year-available"
-    ]
+    "flags": []
    },
    "rank": 757
   },
@@ -77544,6 +77542,18 @@
    "b_words": 414
   },
   {
+   "a": "wiki/qualifications/corporate-entity-legal-qualifications.md",
+   "b": "wiki/qualifications/swip-financial-transparency-and-litigation-history.md",
+   "a_source": "hull-wwtf-om-2026",
+   "b_source": "santamonica-swip-om-2025",
+   "a_status": "preferred",
+   "b_status": "preferred",
+   "body_sim": 0.1714,
+   "title_sim": 0.1667,
+   "a_words": 759,
+   "b_words": 727
+  },
+  {
    "a": "wiki/win-themes/fulton-regional-training-maintenance-intelligence.md",
    "b": "wiki/win-themes/fulton-value-added-investments-exhibit-studies-support.md",
    "a_source": "fulton-county-2025",
@@ -77566,18 +77576,6 @@
    "title_sim": 0.1429,
    "a_words": 470,
    "b_words": 992
-  },
-  {
-   "a": "wiki/qualifications/corporate-entity-legal-qualifications.md",
-   "b": "wiki/qualifications/swip-financial-transparency-and-litigation-history.md",
-   "a_source": "hull-wwtf-om-2026",
-   "b_source": "santamonica-swip-om-2025",
-   "a_status": "preferred",
-   "b_status": "preferred",
-   "body_sim": 0.1537,
-   "title_sim": 0.1667,
-   "a_words": 718,
-   "b_words": 670
   },
   {
    "a": "wiki/technical-approach/fulton-biosolids-capability-and-facility-assessment.md",

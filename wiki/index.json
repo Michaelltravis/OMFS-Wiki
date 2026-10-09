@@ -30659,6 +30659,8 @@
       "divergent-figure",
       "newer-source-same-claim"
     ],
+    "updated": "2026-10-09",
+    "update-notes": "2026-10-09: O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0149)",
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "A named transition-leadership pairing (executive Transition Manager plus administrative Transition Administrator) with credible, checkable track records, backed by a full named regional support roster (Exhibit 3-4) and a concrete Communications Plan (response-time commitments, meeting cadence, report contents, dashboard access) \u2014 a complete governance package for a transition-plan section.",
     "reuse-notes": "Client name generalized to [CLIENT] per wiki sanitization rules. Named Jacobs personnel (Kelly Irving, Cheryl Reeves, and the full regional support roster) and the named reference projects (JXN Water / Jackson, MS; West Basin in El Segundo, CA; Baton Rouge, Baltimore, Waterbury, Lincoln, Southbridge, Pasadena) are kept verbatim \u2014 reconfirm each individual is still available and assigned before naming them in a new pursuit, and refresh the recent-transition list as newer transitions close. The 45-minute remote and 60-minute onsite response times and the Ignition v8.1 SCADA platform are pursuit commitments and must be re-set for each new contract.",
@@ -39766,6 +39768,8 @@
     "freshness-flags": [
       "divergent-figure"
     ],
+    "updated": "2026-10-09",
+    "update-notes": "2026-10-09: annual revenue $12B -> ~$16B (unlabelled current figure) from source hull-wwtf-om-2026 (2026-04-02) (PP-0167)",
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The mandatory corporate/legal-qualifications response almost every O&M RFP asks for \u2014 contracting entity, tax ID, incorporation facts, principal office and contact, good-standing statement, and a candid, non-defensive litigation and contract-termination disclosure that turns a compliance question into a transparency proof point.",
     "reuse-notes": "Corporate/legal qualifications are kept verbatim per sanitization rule 5 \u2014 entity structure, tax ID, incorporation date/state, and good-standing language are corporate facts, not pursuit-specific. Refresh the principal office address, named principal contact, headcount, and revenue figures from the latest corporate qualifications fact sheet before each proposal. Swap the state of registration in the legal-standing paragraph to the pursuit's state, and confirm the contract-termination lookback period matches the new RFP's question.",
@@ -39816,7 +39820,8 @@
     "proof-point-ids": [
       "PP-0748",
       "PP-0749",
-      "PP-0750"
+      "PP-0750",
+      "PP-0167"
     ],
     "testimonial-ids": [],
     "story-ids": [],
@@ -39833,6 +39838,8 @@
     "volatility": "corporate-figure",
     "review-due": "2027-05-06",
     "freshness-flags": [],
+    "updated": "2026-10-09",
+    "update-notes": "2026-10-09: annual revenue $12B -> ~$16B (unlabelled current figure) from source hull-wwtf-om-2026 (2026-04-02) (PP-0167)",
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.",
     "quality": "The standard Company Facts sidebar in its most complete form \u2014 including the contracting-party disclosure (OMI as the wholly owned subsidiary that signs O&M contracts), which RFPs routinely ask for \u2014 paired with the repeat-business and employer-of-choice culture paragraphs that run beside it.",
     "reuse-notes": "The fact box fields (revenue, local office address, principal contact) are pursuit-specific and must be re-set every time; the local office line is the point of the box, so never carry a stale address. Confirm the OMI contracting-party language against the entity actually signing the new contract. The \"50 Best Companies to Work for\" recognition and the 98% repeat-business figure need a current-year check before external use.",
@@ -40296,6 +40303,8 @@
       "newer-source-same-claim",
       "open-ended-date"
     ],
+    "updated": "2026-10-09",
+    "update-notes": "2026-10-09: annual revenue $12B -> ~$16B; O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0167, PP-0149)",
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Concise, well-quantified firm-history narrative combining founding date, revenue scale, O&M portfolio breadth, and hard proof points (client retention, environmental compliance, ENR ranking) \u2014 strong opener for a Qualifications or Firm Overview section.",
     "reuse-notes": "Swap the named award-winning facility examples (Twin Oaks Valley WTP, Pure Water Soquel, Pima County Agua Nueva) for facilities most relevant to the pursuing region if a closer analog exists. Replace [CLIENT] and [REGION] with pursuit specifics. Revenue/backlog figures and stat-bar metrics should be checked against the current fiscal year before reuse, as they are refreshed periodically corporate-wide.",
@@ -43172,6 +43181,8 @@
       "divergent-figure",
       "newer-source-same-claim"
     ],
+    "updated": "2026-10-09",
+    "update-notes": "2026-10-09: annual revenue $15B -> ~$16B; O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0167, PP-0149)",
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Strong, quantified financial-qualification proof points (revenue figures, credit rating, backlog, comparable-contract dollar values) plus a differentiator (single-entity guarantor versus joint-venture or multi-entity structures) that directly answers typical financial-capacity RFP requirements.",
     "reuse-notes": "All dollar, revenue, and credit-rating figures are financial-qualification statistics (not commercial pricing) and are kept per wiki policy \u2014 verify each figure is current before reuse, since revenue, backlog, and credit rating change year to year. Named reference projects and clients (Tucson, San Diego, and Seattle water and wastewater operations; Hartsfield-Jackson Atlanta International Airport; North Hudson Sewerage Authority; Jackson Water) are real, non-pursuit reference-client proof points and are kept verbatim \u2014 do not genericize them.",
@@ -43250,6 +43261,8 @@
       "divergent-figure",
       "newer-source-same-claim"
     ],
+    "updated": "2026-10-09",
+    "update-notes": "2026-10-09: global talent force 45,000 -> 42,000+; revenue $15B -> ~$16B; O&M experience 40 -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0171, PP-0167, PP-0149)",
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "A ready-made legal and litigation-disclosure response pattern \u2014 frames scale-proportionate litigation as normal, points to SEC filings for independent verification, states a specific termination-history fact, and contrasts publicly traded ownership with private-equity models \u2014 commonly required by public-agency RFPs.",
     "reuse-notes": "Litigation-disclosure language must be reconfirmed with legal and contracts counsel before each use, since the \"not terminated for cause in the last five years\" claim (including for the named subsidiary, Operations Management International, Inc./OMI) must reflect current, accurate status at time of submission. The subsidiary name and SEC investor-relations URLs are Jacobs corporate and legal facts, not pursuit-client identifiers, and are kept verbatim.",
@@ -45580,6 +45593,8 @@
     "freshness-flags": [
       "divergent-figure"
     ],
+    "updated": "2026-10-09",
+    "update-notes": "2026-10-09: NPDES compliance record 99.8% -> 99.98% (the figure every other 2025-2026 source states, Hull p31, OCWUT, MMSD) from source hull-wwtf-om-2026 (2026-04-02) (PP-0232)",
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Combines a named safety-culture program with hard performance metrics (TRIR, EMR, a 20-year NPDES compliance rate) and an honest, non-defensive disclosure of the only two minor violations in five years \u2014 evaluators respond far better to a small, fully-detailed violations table framed as \"administrative, promptly resolved, no service impact\" than to silence on the topic.",
     "reuse-notes": "All safety and compliance metrics are point-in-time and must be refreshed from current corporate EHS and compliance data before each submission \u2014 never present a prior year's TRIR, EMR, or violations table as current. Confirm the RFP's own EMR/TRIR threshold and verify the current figures actually clear it before using 'below the RFP requirement' or 'below industry averages' language. The violations table must be re-pulled from EHS for the RFP's stated lookback period; a new fine could be open. Keep the fine amounts \u2014 they are enforcement disclosures, not commercial pricing, and their smallness is the argument.",
@@ -50255,12 +50270,14 @@
     "section-order": 7,
     "section-path": "Section 2: Qualifications \u203a 2.4 FIRM APPROACH \u203a IN-HOUSE PROCEDURES TO PROVIDE ACCURACY, INTEGRITY, AND QUALITY CONTROL",
     "doc-order": 35,
-    "volatility": "evergreen",
-    "review-due": "2028-09-11",
+    "volatility": "people",
+    "review-due": "2026-03-11",
     "freshness-flags": [
       "divergent-figure",
       "newer-source-same-claim"
     ],
+    "updated": "2026-10-09",
+    "update-notes": "2026-10-09: O&M experience four decades -> 45+ years from source hull-wwtf-om-2026 (2026-04-02) (PP-0149)",
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Combines a named governance model (Local Team surrounded by a Compliance Team, Regional Manager, Regional Process Specialist, Regional Maintenance Specialist, and Audit Team) with a concrete 70+-criteria audit scope and a detailed 4-step audit lifecycle (Preparation, Onsite Assessment, Evaluation, Action Plan) that closes the loop with 30/60/90-day corrective-action tracking \u2014 demonstrates a real internal accountability mechanism, not just a QA/QC policy statement.",
     "reuse-notes": "The governance model, 4-step audit lifecycle, and corrective-action tracking cadence are fully generic and reusable for any O&M pursuit. The specific regulatory citations (WDRs, Title 22 GRRP, South Coast Air Quality Management District (SCAQMD/AQMD), CalEPA-required ERP/IIPP) are Southern California-specific \u2014 swap for the target pursuit's applicable regulatory framework.",
