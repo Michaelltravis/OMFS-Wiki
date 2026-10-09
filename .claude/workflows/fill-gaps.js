@@ -132,6 +132,8 @@ const fin = await agent(`Finalize the content bank after a gap-fill run for sour
 3. python "${W}\\work\\build_proof_point_registry.py"   then   python "${W}\\work\\patch_frontmatter.py" "${W}\\work\\fragments\\pp_patches.json"
 4. python "${W}\\work\\regen_index.py"
 5. python "${W}\\work\\lint_blocks.py" --json "${W}\\work\\lint_report.json"
+6. python "${W}\\work\\freshness.py" --today ${TODAY} --write --source ${slug}   — stamps volatility / review-due / freshness-flags on the new blocks (currency pass; see CLAUDE.md, Keeping the bank current).
+7. python "${W}\\work\\dedupe_candidates.py" --min 0.12 --new-only ${slug} --skip-linked --decided "${W}\\work\\curation\\log.jsonl" --out "${W}\\work\\fragments\\${slug}\\dedupe_gapfill.json"   — report the pair count; these are the next curate run's supersession candidates (do not decide them here).
 Then read the lint report and fix ONLY mechanical violations on blocks whose path contains "/${PREFIX}-" and whose extracted date is ${TODAY} (unquoted colon in a frontmatter value, missing key with an obvious default such as testimonial-ids [] / story-ids [] / house-favorite false, tag not in vocabulary → replace with the closest canonical tag from ${W}\\vocabulary\\tags.md) using ${W}\\work\\patch_frontmatter.py; re-run steps 2, 4 and 5. Do not touch bodies or older blocks. Return summary, files, counts {residual_uncovered, blocks_assigned, lint_violations_before, lint_violations_after}.`, {model:'sonnet', effort:'low', phase:'Finalize', label:'finalize', schema:TEXT})
 log(`Finalize: ${fin?.summary||'-'}`)
 

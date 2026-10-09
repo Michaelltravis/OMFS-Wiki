@@ -61,7 +61,16 @@ work/                       Scripts: pdf_to_verbatim.py, coverage.py,
                             assign_block_sections.py, assemble_section.py,
                             find_uncovered.py, make_gap_ranges.py,
                             map_blocks_to_pages.py, regen_index.py, build_docx.py,
-                            validate_v2.py.
+                            validate_v2.py; currency layer: freshness.py, curate.py,
+                            apply_curation.py, build_queue.py (see "Keeping the bank
+                            current").
+work/curation/              The currency layer's state: policy.json (review intervals
+                            per volatility class, default owner), sources.json (each
+                            source proposal's date — the age basis of its facts — and
+                            owner), report.md/.json (latest freshness report),
+                            queue.md/.json (the confirm-before-apply curation queue),
+                            feedback.jsonl (fact-check findings fed back from pursuits),
+                            log.jsonl (every lifecycle change, who, when, why).
 templates/content-block.md  Template for new content blocks (schema v2).
 templates/standard-topics.md  The topics Jacobs includes in every cover letter, exec
                             summary, qualifications, staffing and approach section whether
@@ -97,11 +106,14 @@ One modular, reusable block per file. Frontmatter fields (schema v2 — all requ
 | `win-theme-map` | Which win-theme archetypes this block proves (e.g. `partner-transparency`, `compliance-leadership`, `regional-bench`, `odor-control`, `incumbent-displacement`) |
 | `proof-point-ids` | Registry ids for every number stated in the body |
 | `testimonial-ids` / `story-ids` | Optional links into testimonials/ and stories/ |
-| `status` | `preferred` · `fallback` (duplicate topic — `supersedes`/`superseded-by` names the pair) |
+| `status` | `preferred` · `fallback` (duplicate topic — `supersedes`/`superseded-by` names the pair, always as `wiki/<cat>/<file>.md` paths, reciprocal) · `archived` (retired on the maintainer's confirmation; carries `archive-reason`, `archived-date`, `archived-by`; hidden from the index tables, pulls and drafting, kept on disk and in `index.json`) |
 | `house-favorite` | `true` for the narratives the proposal team reaches for first |
 | `sanitized` | `true` once client identifiers are generalized |
 | `sanitization-loss` | `none` · `low` · `high` — how much proof value the generalization removed; `high` requires a `verbatim-ref` the writer should read instead |
-| `extracted` / `last-verified` | ISO dates; `verified-by` optional |
+| `extracted` / `last-verified` | ISO dates (bare, never quoted). `last-verified` moves only when a person checks the block (`python work/curate.py verify`), which also sets `verified-by`; until then the block's facts are as old as its source proposal |
+| `volatility` | How fast the block's facts age — `people` · `reference` · `corporate-figure` · `safety-stat` · `regulatory` · `project-outcome` · `evergreen`. Derived from content by `work/freshness.py --write`; never hand-edit |
+| `review-due` | Basis date + the class interval in `work/curation/policy.json` (basis = `last-verified` when `verified-by` is set, else the source proposal date in `work/curation/sources.json`). A past `review-due` means verify before reuse. Same script |
+| `freshness-flags` | Machine-detected currency problems: `open-ended-date`, `divergent-figure`, `newer-source-same-claim`, `person-duplicate`, `stale-contact`, `feedback`, `dead-link`, `link-nonreciprocal`, `link-format`, `status-link-mismatch`. Same script; empty when clean |
 | `context` | Generalized context of the original pursuit |
 | `quality` | Why this content was selected |
 | `reuse-notes` | What must be tailored per pursuit |
@@ -134,7 +146,7 @@ Drafting workflow (v2):
 0. **Build and approve the content plan** (`python work/new_content_plan.py <slug> --directive <Directive.docx> --docx`): sections in Proposal Directive order, cross-checked against the RFP's requirement exports; the proposal manager ticks the Jacobs-standard topics to include under each section and adds pursuit-specific ones. Ticked topics are the only ones the spec sheet plans for and the writers draft. The `content-plan` skill (`.claude/skills/content-plan/SKILL.md`, Sonnet) runs this end to end: scaffold → interactive checklist page (Artifact, `db` capability) for the proposal manager → selections written back → docx.
 1. **Start from the pursuit spec sheet** (`pursuits/<pursuit>/spec-sheet.md`, status `locked`): locked numbers, approved proof points, preferred references, ranked stories and "the closer", quotable inventory, gap decisions, page/device budget per section, win-theme evidence map. If no spec sheet exists, draft one and get it approved before writing sections.
 2. Build the section outline from the RFP's requirements and evaluation criteria (answer what is asked, in the order asked) — but headings carry an assertion, not the RFP label.
-3. Select blocks via the faceted `wiki/index.md` (rfp-section-type × pursuit-type × client-size); prefer `status: preferred`, `house-favorite: true`; read the **verbatim source** behind any block with `sanitization-loss: high`.
+3. Select blocks via the faceted `wiki/index.md` (rfp-section-type × pursuit-type × client-size); prefer `status: preferred`, `house-favorite: true`; never `archived`; read the **verbatim source** behind any block with `sanitization-loss: high`. **Check currency**: the index and every blocks-mode pull show `volatility` / `review-due` / `freshness-flags`. A block with `newer-source-same-claim` or `divergent-figure` is cited only with the newer registry figure (or both values noted for the fact-checker); a block past its `review-due`, or flagged `stale-contact` / `person-duplicate` / `feedback`, is used only for figures the spec sheet locks — otherwise a verify note goes to the companion notes file, never a guess into the body.
 4. Write to the voice guide (`voice/voice-guide.md`) and its rubric. Lead with the client's outcome; every number carries its consequence for the client; win themes recur in identical words; proof is layered (inline number, stat callout, fact box, table); at least one client quote per persuasive section when permission is on file.
 5. Every number in a draft must resolve to a registry id whose value matches the spec sheet's locked value; every quote to a testimonial id with permission `on-file`.
 6. Gaps are decided in the spec sheet (DROP / SOURCE BY / WRITE AROUND) — **placeholders and [VERIFY] tags never appear in body text**; open items go to a companion notes file.
@@ -143,6 +155,22 @@ Drafting workflow (v2):
 Content blocks are **starting points, not final text**; the verbatim layer is where the winning prose lives.
 
 **Pulling a whole section** ("give me the asset management section from Hull, in order, verbatim"): `python work/assemble_section.py <slug> "<section words>"` (the `pull-section` skill wraps it). Default output is the section's verbatim prose in PDF order, sanitized per `verbatim/<slug>/sanitize.json`, running headers/footers dropped, exhibit text reduced to `[graphic: <id>]` markers, written to `work/pulls/<slug>/` (gitignored). `--mode blocks` lists the wiki blocks in the section in `section-order` with a coverage trailer; `--docx` renders through `work/build_docx.py`; `--raw` keeps the real client name (QC before any external use). The faceted index ends with a **By source section** facet that lists every block in reading order.
+
+## Keeping the bank current
+
+Knowledge bases rot when currency depends on people remembering. Here currency is computed, surfaced where content is used, and changed only on a human yes.
+
+**What is computed (zero tokens).** `python work/freshness.py --today <ISO> --write` classifies every block's `volatility`, derives `review-due` (basis date + interval from `work/curation/policy.json`; basis = `last-verified` once someone has verified it, else the source proposal's date from `work/curation/sources.json` — extraction stamps say nothing about how old a fact is), detects `freshness-flags` (open-ended "2018 – Present" dates, registry conflicts behind the block's `proof-point-ids`, a newer-dated source stating the same claim with a different value, two resume files for one person, unverified reference contacts, broken or one-sided `supersedes` links, status/link contradictions, fact-check feedback from pursuits) and writes `work/curation/report.md`: counts, **overdue by owner**, the ranked blocks (house-favorite → usage in pursuits/templates/stories → days overdue → flag severity), duplicate people, registry conflicts with the newest source per claim, and unlinked duplicate pairs (`dedupe_candidates.py --skip-linked`). Lint (`lint_blocks.py`) enforces the lifecycle structurally — link format, resolution and reciprocity, status/link agreement, archive fields, bare ISO dates, derived-field enums — and reports `review-overdue`.
+
+**Where it surfaces.** `wiki/index.md` tables carry `volatility` and `review-due`; `assemble_section.py --mode blocks` prints a `freshness:` line per block (and the `pull-section` skill reports anything OVERDUE or flagged); the write-section brief copies each cited block's currency line and routes `newer-source-same-claim` to the newer figure; the fact-checker's unsupported findings flow back through `curate.py feedback` into `work/curation/feedback.jsonl`, so a figure that failed in a pursuit is flagged in the bank the next run.
+
+**What the agent proposes.** `/curate` (`.claude/workflows/curate.js`, `args.today` required) runs the detectors, triages each flagged or overdue block (Sonnet: block + reuse-notes + registry rows + competing block + feedback → `keep` / `verify` / `update-figure` / `supersede-with` / `merge-into` / `archive`, each with evidence refs), has Fable judge every supersede / merge / archive proposal against both blocks and both verbatim pages, and writes the tick list `work/curation/queue.md` (grouped by owner) + `queue.json`. The workflow applies nothing.
+
+**What only a human confirms.** `status` flips, `supersedes` links and archiving. The maintainer ticks items in `queue.md` (or says which CQ ids) → `python work/apply_curation.py --dry-run` → `python work/apply_curation.py`; or gives a direct instruction → `python work/curate.py archive|unarchive|supersede|verify|flag|owner` (`--dry-run` first). Archiving is in place: `status: archived` + `archive-reason` / `archived-date` / `archived-by`; the file stays for provenance, the index lists it under **Archived**, pulls and drafting skip it, `curate.py unarchive` restores it. `archive` refuses a block that is a live fallback's winner or is named in `templates/standard-topics.md` unless re-pointed. Every change is one line in `work/curation/log.jsonl` (who, action, from → to, why). `update-figure` never edits a body — it records the approved value for a writer.
+
+**Cadence.** On demand (`/curate`, or "what's stale?" answered from `report.md`), and automatically at the end of every ingest: `extract-proposal.js` / `fill-gaps.js` finalize runs `freshness.py --write --source <slug>` and `dedupe_candidates.py --new-only <slug> --skip-linked`, so a new source is stamped and its duplicates against the bank are queued for the next curate run. The one place status is set without a tick is the ingest merge step for *newly ingested* blocks (no users yet); it logs each decision as `ingest-merge` so later runs do not re-propose them. No scheduled run yet; add one after two manual passes.
+
+**Ownership.** `sources.json` names an owner per source, `policy.json` a default; registry rows take an `owner` via `curate.py owner PP-xxxx --set <name>`; the report groups overdue items by owner. Agents never change `policy.json` intervals or `sources.json` dates to make a flag disappear.
 
 ## Source registry
 

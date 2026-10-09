@@ -31,6 +31,7 @@ The script also accepts a unique prefix (`hull`, `mmsd`, `ocwut`, `fulton`, `san
 2. **Exit code 2** means the query matched several sections: show the numbered candidates the script printed, ask which one, rerun with `--pick N`. **Exit 3**: nothing matched — run `--list` and offer the closest headings.
 3. **Send the file** with `SendUserFile` (`work/pulls/<slug>/<section>.md`, plus the `.docx` if requested; `display: "attach"`).
 4. **Reply in a few lines**: the section title and span (pages, paragraphs), the headings it contains, approximate word count, the sanitization replacement count, and any names the script listed as "left as-is for review" (e.g. `Veolia`, `the City`). Never paste the body into chat.
+5. **Currency (blocks mode)**: every block in the pull carries a `` `freshness:` `` line (volatility · review-due · **OVERDUE n d** · flags). Report any block that is OVERDUE or carries `newer-source-same-claim`, `divergent-figure`, `stale-contact`, `person-duplicate` or `feedback`, in one line each, so the writer verifies those figures before reuse. Archived blocks are hidden by default (`--include-archived` shows them). If the line reads "not computed", run `python work/freshness.py --today <today> --write` first.
 
 ## Rules
 

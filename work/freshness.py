@@ -393,7 +393,14 @@ def rank_key(r):
     return (not r["house_favorite"], -r["usage"], -r["overdue_days"], r["severity"], r["path"])
 
 
-def build_report(fx: Freshness, source_filter=None, only_overdue=False, only_flagged=False):
+def build_report(fx: Freshness, source_filter=None, only_overdue=False, only_flagged=False, attention=False, paths=None):
+    wanted = None
+    if paths:
+        wanted = set()
+        for p in str(paths).split(","):
+            p = p.strip().replace("\\", "/")
+            if p:
+                wanted.add(p if p.startswith("wiki/") else Path(p).stem)
     results = []
     for b in fx.blocks:
         if b["fm"].get("status") == "archived" and not fx.include_archived:
@@ -405,7 +412,9 @@ def build_report(fx: Freshness, source_filter=None, only_overdue=False, only_fla
     for i, r in enumerate(results, 1):
         r["rank"] = i
     shown = [r for r in results
-             if (not only_overdue or r["overdue_days"] > 0) and (not only_flagged or r["flags"])]
+             if (not only_overdue or r["overdue_days"] > 0) and (not only_flagged or r["flags"])
+             and (not attention or r["overdue_days"] > 0 or r["flags"])
+             and (wanted is None or r["path"] in wanted or Path(r["path"]).stem in wanted)]
     counts = {
         "blocks": len(results),
         "by_status": dict(Counter(r["status"] for r in results)),
@@ -520,13 +529,41 @@ def main():
     ap.add_argument("--source", default=None, help="restrict output and --write to one source slug")
     ap.add_argument("--only-overdue", action="store_true")
     ap.add_argument("--only-flagged", action="store_true")
+    ap.add_argument("--attention", action="store_true", help="flagged OR overdue (the curate workflow's default scope)")
+    ap.add_argument("--paths", default=None, help="comma-separated block paths/stems to select")
+    ap.add_argument("--limit", type=int, default=None, help="cap the selected items (ranked order)")
+    ap.add_argument("--items-out", default=None, help="write the selected items compactly (path, flags, details, competitors) for the curate workflow")
     ap.add_argument("--include-archived", action="store_true")
     ap.add_argument("--quiet", action="store_true")
     args = ap.parse_args()
 
     today = dt.date.fromisoformat(args.today) if args.today else dt.date.today()
     fx = Freshness(today, include_archived=args.include_archived)
-    rep = build_report(fx, source_filter=args.source, only_overdue=args.only_overdue, only_flagged=args.only_flagged)
+    rep = build_report(fx, source_filter=args.source, only_overdue=args.only_overdue, only_flagged=args.only_flagged,
+                       attention=args.attention, paths=args.paths)
+    selected = rep["blocks"][: args.limit] if args.limit else rep["blocks"]
+    if args.items_out:
+        pairs_by_path = defaultdict(set)
+        for pr in rep["pairs"]:
+            pairs_by_path[pr["a"]].add(pr["b"])
+            pairs_by_path[pr["b"]].add(pr["a"])
+        compact = []
+        for r in selected:
+            comps = set(pairs_by_path.get(r["path"], set()))
+            for f in r["flags"]:
+                if f["flag"] in ("person-duplicate", "link-nonreciprocal") and str(f["evidence"]).startswith("wiki/"):
+                    comps.add(f["evidence"])
+                for m in re.finditer(r"wiki/[a-z-]+/[^\s,;]+\.md", f["detail"]):
+                    comps.add(m.group(0))
+            compact.append({"rank": r["rank"], "path": r["path"], "title": r["title"], "source": r["source"],
+                            "owner": r["owner"], "volatility": r["volatility"], "review_due": r["review_due"],
+                            "overdue_days": r["overdue_days"], "flags": [f["flag"] for f in r["flags"]],
+                            "details": [f"{f['flag']}: {f['detail']}" for f in r["flags"]],
+                            "competitors": sorted(c for c in comps if c != r["path"])})
+        out = Path(args.items_out)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(json.dumps(compact, indent=1, ensure_ascii=False), encoding="utf-8")
+    rep["counts"]["selected"] = len(selected)
 
     CURATION.mkdir(parents=True, exist_ok=True)
     Path(args.json_out).write_text(json.dumps(rep, indent=1, default=str), encoding="utf-8")
@@ -535,7 +572,7 @@ def main():
     c = rep["counts"]
     if not args.quiet:
         print(f"freshness {today.isoformat()}: {c['blocks']} blocks · flagged {c['flagged_blocks']} · overdue {c['overdue']} "
-              f"· registry conflicts {c['registry_conflicts']} · unlinked pairs {c['dedupe_pairs_unlinked']}")
+              f"· registry conflicts {c['registry_conflicts']} · unlinked pairs {c['dedupe_pairs_unlinked']} · selected {c['selected']}")
         print("  volatility: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_volatility"].items(), key=lambda kv: -kv[1])))
         print("  flags:      " + (", ".join(f"{k} {v}" for k, v in sorted(c["by_flag"].items(), key=lambda kv: -kv[1])) or "none"))
         print("  overdue by volatility: " + (", ".join(f"{k} {v}" for k, v in sorted(c["overdue_by_volatility"].items(), key=lambda kv: -kv[1])) or "none"))

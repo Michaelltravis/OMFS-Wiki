@@ -99,6 +99,9 @@ Adding a new winning proposal to the library is a separate job: "Extract this pr
 - Content plan — the proposal manager.
 - Spec sheet — the proposal manager, with named owners confirming individual numbers.
 - Section drafts — the writer or section lead reviewing the assistant's output.
+- The library itself (blocks, registry) — the maintainer named in `ONBOARDING.md`, who ticks the curation queue; individual numbers — the owner named on the registry row (`work/curate.py owner`), who confirms a figure is still current.
+
+**How do we know a figure in the library is still current?** Every block carries a review-due date counted from the proposal that stated it, and a flag if a newer proposal says something different. Pulls and briefs show that line next to the block; "what's stale?" lists everything past due by owner; `/curate` proposes what to verify, update or retire, and nothing changes without the maintainer's tick.
 
 **What if a number in a draft looks wrong?** Say so. Every number traces to a registry entry and a source page, so the assistant can show you where it came from in seconds.
 

@@ -37,6 +37,17 @@ templates/         The content-block template for new entries.
 2. In Claude Code, run `/extract-proposal <filename>`. The skill runs the full proven pipeline: parallel extraction agents, a mandatory second-pass completeness audit, graphics cataloging by asset ID, index regeneration, and a sanitization sweep.
 3. Review the report it produces — especially any flagged source-document defects — and spot-check a few blocks.
 
+## Keeping it current
+
+Content ages: people move, reference contacts change, corporate and safety figures are restated yearly, a newer proposal supersedes an older claim. The bank tracks this for you — see `CLAUDE.md`, **Keeping the bank current**.
+
+- **Ask "what's stale?"** — Claude runs `python work/freshness.py --today <date> --write` (zero tokens) and answers from `work/curation/report.md`: what is overdue, by owner; duplicate people; registry conflicts.
+- **Run `/curate`** every month or two, and after each new proposal is ingested. Agents triage the flagged blocks into `work/curation/queue.md` with a proposed action and evidence. You tick what you agree with; `python work/apply_curation.py` applies it. Nothing changes status or gets archived without your tick.
+- **Tell Claude directly**: "archive X", "X was superseded by Y", "I verified X with the account team". Each maps to one `work/curate.py` command, shown to you as a dry run first, and logged in `work/curation/log.jsonl`.
+- **In every pull and draft** the blocks carry a `freshness:` line (how fast the facts age, when they are next due, what the detectors flagged). A past review-due means verify the figure before it goes in a proposal.
+
+Archiving keeps the file (status `archived`, listed at the end of `wiki/index.md`); `python work/curate.py unarchive <block>` brings it back.
+
 ## Golden rules
 
 - **Content blocks are starting points, not final text.** Verbatim boilerplate loses evaluations — always tailor to the client's drivers and evaluation criteria.
@@ -66,5 +77,7 @@ Also outside the repo:
 - **The Richmond content-plan checklist artifact** (claude.ai link in `pursuits/richmond-2026/`) is bound to the account that published it; `pursuits/richmond-2026/content-plan.md` is the source of truth and `work/apply_content_plan.py` re-applies selections from it.
 
 Python 3.12+ with `pymupdf`, `pyyaml`, `python-docx` (see `PORTING.md` for the full environment) is the only local dependency. Every script prints its usage with `--help`.
+
+**Currency layer (October 2026):** every block carries `volatility` / `review-due` / `freshness-flags`; `work/curation/` holds the policy, source dates, latest report, curation queue, feedback and change log. The first freshness run (2026-10-09) found 173 blocks past review (mostly people content from the 2025 proposals), 84 registry conflicts and 30 unlinked duplicate pairs — the first `/curate` pass works that list down.
 
 **Where the work stands (September 2026):** all five sources are extracted, every block carries `section-id` / `section-path` / `section-order` / `doc-order`, every `verbatim/<slug>/` has `sections.json` and a draft `sanitize.json` (the proposal team should confirm the name lists, `review_status: draft`), and the block layer is complete — `python work/find_uncovered.py <slug>` reports zero uncovered paragraphs per source, the remainder being writer-skipped with a recorded reason in `work/gaps/<slug>.skips.json`. `python work/status_counts.py --md` prints the current numbers.

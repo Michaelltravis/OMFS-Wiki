@@ -257,3 +257,15 @@ This is the flawless-repeatability path. CLAUDE.md §"Adding new content" is the
 ## 11. If you are also continuing the writing stage
 
 `HANDOFF-writing.md` in this directory covers that separately: what a pursuit spec sheet is, how a section gets drafted and validated, the model-cost profiles, and the items that remain human-owned. The short version: the pursuit spec sheet decides *what* goes in a section before any writing starts, the voice guide decides *how* it reads, and `work/validate_v2.py` plus `voice/metrics.py` are the gates. Placeholders and unverified tags never reach body text; they go to a companion notes file.
+
+## 12. Currency layer (October 2026)
+
+The bank now carries its own staleness model; port it with the toolkit.
+
+- **State:** `work/curation/` — `policy.json` (review interval per volatility class, default owner), `sources.json` (each source proposal's date and owner — the age basis of its facts), `report.md/.json`, `queue.md/.json`, `feedback.jsonl`, `log.jsonl`. `patches_*.json` there are regenerated and gitignored.
+- **Scripts:** `work/freshness.py` (derive `volatility` / `review-due` / `freshness-flags`, write the report, `--write` stamps frontmatter idempotently), `work/curate.py` (archive / unarchive / supersede / verify / flag / owner / normalize-links / feedback / log), `work/apply_curation.py` (apply ticked queue items), `work/build_queue.py` (merge a curate run's fragments into the queue). `dedupe_candidates.py` exposes `find_pairs` and `--skip-linked --exclude-archived --new-only --decided`; `patch_frontmatter.py` exposes `apply_patches` and writes bare ISO dates.
+- **Workflow + skill:** `.claude/workflows/curate.js` (Detect → Triage (Sonnet) → Judge (Fable) → Queue; applies nothing; `args.today` required) and `.claude/skills/curate/SKILL.md`.
+- **Gates added to §7:** `lint_blocks.py --strict` exits non-zero on any structural lifecycle violation (`supersedes-link-format`, `supersedes-link-missing`, `supersedes-nonreciprocal`, `status-link-mismatch`, `fallback-house-favorite`, `archived-missing-fields`, `date-not-bare-iso`, `volatility-invalid`, `freshness-flag-invalid`); `review-overdue` and `client-name-in-narrative` stay report-only. `freshness.py --write` run twice must report 0 updates the second time.
+- **Hard requirement:** `pyyaml` (the index and dedupe scripts now refuse to run without it rather than writing an empty index), `python-docx`, `pymupdf`.
+- **Baseline at port time (2026-10-09):** 835 blocks, 173 past review-due, 147 flagged, 84 registry conflicts, 30 unlinked duplicate pairs, 3 open status/link decisions (see `work/curation/report.md`).
+

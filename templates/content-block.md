@@ -21,13 +21,16 @@ win-theme-map: [<partner-transparency | compliance-leadership | regional-bench |
 proof-point-ids: [<PP-0001, ...>]
 testimonial-ids: []
 story-ids: []
-status: <preferred | fallback>
+status: <preferred | fallback | archived — archived only via work/curate.py archive / apply_curation.py; then also archive-reason, archived-date, archived-by>
 supersedes: <path of the fallback block this one replaces, if any>
 house-favorite: false
 sanitized: true
 sanitization-loss: <none | low | high>
-extracted: <YYYY-MM-DD>
-last-verified: <YYYY-MM-DD>
+extracted: <YYYY-MM-DD, bare — never quoted>
+last-verified: <YYYY-MM-DD; moves only when a person checks the block (python work/curate.py verify), which also sets verified-by>
+volatility: <set by python work/freshness.py --write — people | reference | corporate-figure | safety-stat | regulatory | project-outcome | evergreen; do not hand-edit>
+review-due: <set by the same script — basis date (last-verified if verified-by, else the source proposal date in work/curation/sources.json) + the class interval in work/curation/policy.json>
+freshness-flags: [<set by the same script — machine-detected currency problems; [] when clean>]
 context: <Generalized pursuit context — size, scope, region, client type>
 quality: <why this content was selected>
 reuse-notes: <what must be tailored per pursuit — never "do not restate the figure">

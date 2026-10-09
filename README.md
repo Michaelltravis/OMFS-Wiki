@@ -9,6 +9,10 @@ A curated, reusable library of Jacobs' best water & wastewater O&M proposal cont
 - **`wiki/graphics/`** catalogs every exhibit by its Jacobs graphics-library asset ID (e.g., `126_Hull_0091KO_2`) — no image files, just retrievable references.
 - **`CLAUDE.md`** is the schema agents read first: organization, sanitization rules, and how to use content.
 
+## Keeping it current
+
+Currency is computed, not remembered: `python work/freshness.py --today <date> --write` stamps every block with how fast its facts age (`volatility`), when it is next due for a check (`review-due`, counted from the source proposal's date until someone verifies it) and what the detectors flagged (`freshness-flags`: open-ended dates, registry conflicts, a newer source with a different value, duplicate people, unverified reference contacts, broken supersedes links, fact-check feedback from pursuits). `/curate` turns the flagged list into a tick-list of proposed actions with evidence (`work/curation/queue.md`); only the maintainer's ticks — `python work/apply_curation.py` — or a direct `python work/curate.py archive|supersede|verify` change a block's status. Archived blocks stay on disk, listed at the end of `wiki/index.md`, and are skipped by pulls and drafting. Every change is logged in `work/curation/log.jsonl`. See `CLAUDE.md`, **Keeping the bank current**.
+
 ## Golden rule
 
 Content blocks are **starting points, not final text**. Tailor everything to the pursuit. Verbatim boilerplate loses evaluations.
@@ -23,6 +27,8 @@ Content blocks are **starting points, not final text**. Tailor everything to the
 | Fulton County 25RFP146289K | Complete through Section 8 / page 187 — 163 content blocks (51 technical-approach, 30 management-staffing, 32 win-themes, 7 qualifications, 19 compliance-plans, 11 resumes, 13 past-performance), 507 verbatim pages, 337 proof-point registry rows; block layer complete (0 uncovered, 41 writer-skipped). Pages 188+ (appendices) intentionally out of scope. |
 | MMSD O&M (2028) | Complete — 250 content blocks (133 technical-approach, 51 management-staffing, 27 win-themes, 6 qualifications, 13 compliance-plans, 20 resumes, 0 past-performance), 147 verbatim pages, 766 proof-point registry rows; block layer complete (0 uncovered, 26 writer-skipped). |
 
+
+**Currency status 2026-10-09:** 835 live blocks, 0 archived, 173 past review-due (people 146, reference 12, corporate-figure 10, safety-stat 3, regulatory 2 — the 2025 Fulton and Santa Monica sources and the 180-day people interval drive most of it), 147 flagged (divergent-figure 91, open-ended-date 56, newer-source-same-claim 19, stale-contact 12, person-duplicate 6), 84 registry conflicts, 30 unlinked duplicate pairs, 3 status/link decisions open. `python work/status_counts.py --md` prints the per-source table with Archived and Review-overdue columns.
 
 **Bank status 2026-09-14:** 835 blocks across 7 categories in 5 sources; every block carries `section-id` / `section-path` / `section-order` / `doc-order` (reading order inside its PDF-bookmarked section); every source has `verbatim/<slug>/sections.json` (heading spans) and a draft `sanitize.json`; the block layer is complete (`python work/find_uncovered.py <slug>` reports 0 uncovered substantive paragraphs per source, 121 writer-skipped with recorded reasons in `work/gaps/<slug>.skips.json`). Lint: 0 schema violations; 85 report-only client-name-in-narrative hits (service-area and reference names such as "North Fulton", "Johns Creek", "Milwaukee" pending a sanitization-rule call). Whole sections pull in reading order with `python work/assemble_section.py <slug> "<section>"` (the `pull-section` skill). `python work/status_counts.py --md` prints this table's numbers. See PORTING.md §3 for the earlier verified result and §7 for the acceptance gates; ONBOARDING.md for the handoff checklist.
 

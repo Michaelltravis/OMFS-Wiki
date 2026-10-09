@@ -1,0 +1,701 @@
+[
+ {
+  "rank": 1,
+  "path": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+  "title": "Wastewater O&M Transition Plan and Mobilization Approach",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0135"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 2,
+  "path": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+  "title": "Value-Added Approach — No-Additional-Cost Enhancements as a Quantified Value Story",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0128, PP-0153, PP-0160"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 3,
+  "path": "wiki/win-themes/swip-value-added-offerings-package.md",
+  "title": "Value-Added Offerings Package — 1,000 Discounted Engineering Hours and a $4.1M No-Cost Bundle",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2028-09-11",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0461, PP-0462, PP-0463, PP-0464, PP-0465, PP-0466 …"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 5,
+  "path": "wiki/compliance-plans/swip-emergency-response-regional-resources.md",
+  "title": "Regional and National Emergency Response Surge Capability",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-03-11",
+  "overdue_days": 212,
+  "flags": [],
+  "details": [],
+  "competitors": []
+ },
+ {
+  "rank": 6,
+  "path": "wiki/technical-approach/collection-system-om-program.md",
+  "title": "Collection System O&M Program (I/I Reduction, CCTV/Cleaning, SmartCover Monitoring)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "open-ended-date",
+   "divergent-figure"
+  ],
+  "details": [
+   "open-ended-date: since 2012",
+   "divergent-figure: PP-0128, PP-0304"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 12,
+  "path": "wiki/past-performance/project-westerly-ri.md",
+  "title": "Project Description — Westerly Wastewater Treatment Plant O&M and DBO Services (Town of Westerly, RI)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "reference",
+  "review_due": "2026-09-29",
+  "overdue_days": 10,
+  "flags": [
+   "open-ended-date",
+   "divergent-figure",
+   "stale-contact"
+  ],
+  "details": [
+   "open-ended-date: 2017 to Present",
+   "divergent-figure: PP-0049, PP-0050, PP-0052, PP-0055, PP-0057, PP-0058",
+   "stale-contact: reference contact unverified since 2026-04-02"
+  ],
+  "competitors": [
+   "wiki/past-performance/project-southbridge-ma.md",
+   "wiki/past-performance/project-traverse-city-mi.md"
+  ]
+ },
+ {
+  "rank": 13,
+  "path": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+  "title": "Annual Innovation Workshop — No-Cost Continuous Improvement Program",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2028-09-11",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure",
+   "newer-source-same-claim"
+  ],
+  "details": [
+   "divergent-figure: PP-0113",
+   "newer-source-same-claim: PP-0113: santamonica-swip-om-2025 says 9; hull-wwtf-om-2026 (2026-04-02) says 10 agenda sessions"
+  ],
+  "competitors": [
+   "wiki/technical-approach/mmsd-annual-innovation-workshop.md"
+  ]
+ },
+ {
+  "rank": 14,
+  "path": "wiki/win-themes/project-narrative-contract-transition-turnaround.md",
+  "title": "Project Narrative — Incumbent Turnaround Plus Progressive Design-Build (Small Coastal WWTP)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0049, PP-0050"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 15,
+  "path": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+  "title": "Project Description — Westside and Marine Park WWTPs O&M (City of Vancouver, WA)",
+  "source": "ocwut-16-26",
+  "owner": "Michael Travis",
+  "volatility": "reference",
+  "review_due": "2026-11-02",
+  "overdue_days": 0,
+  "flags": [
+   "open-ended-date"
+  ],
+  "details": [
+   "open-ended-date: 2016 – Ongoing"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 16,
+  "path": "wiki/technical-approach/annual-innovation-workshop-program.md",
+  "title": "Annual Innovation Workshop Program",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "status-link-mismatch"
+  ],
+  "details": [
+   "status-link-mismatch: fallback and house-favorite"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 24,
+  "path": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+  "title": "Communications and Reporting Plan — Structure, Cadence, and Deliverables",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-03-11",
+  "overdue_days": 212,
+  "flags": [],
+  "details": [],
+  "competitors": [
+   "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md"
+  ]
+ },
+ {
+  "rank": 25,
+  "path": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+  "title": "Sodium Hypochlorite Disinfection Dosage Optimization — Predictive Dosing Use Case",
+  "source": "mmsd-om-2028",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-07-29",
+  "overdue_days": 72,
+  "flags": [],
+  "details": [],
+  "competitors": []
+ },
+ {
+  "rank": 26,
+  "path": "wiki/past-performance/project-southbridge-ma.md",
+  "title": "Project Description — Southbridge Wastewater Treatment Plant O&M (Town of Southbridge, MA)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "reference",
+  "review_due": "2026-09-29",
+  "overdue_days": 10,
+  "flags": [
+   "open-ended-date",
+   "divergent-figure",
+   "stale-contact"
+  ],
+  "details": [
+   "open-ended-date: 2025 to Present",
+   "divergent-figure: PP-0064, PP-0065",
+   "stale-contact: reference contact unverified since 2026-04-02"
+  ],
+  "competitors": [
+   "wiki/past-performance/project-westerly-ri.md"
+  ]
+ },
+ {
+  "rank": 27,
+  "path": "wiki/past-performance/project-traverse-city-mi.md",
+  "title": "Project Description — Traverse City Regional Wastewater Treatment Plant DBO (City of Traverse City, MI)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "reference",
+  "review_due": "2026-09-29",
+  "overdue_days": 10,
+  "flags": [
+   "open-ended-date",
+   "divergent-figure",
+   "stale-contact"
+  ],
+  "details": [
+   "open-ended-date: 1990 to Present; Since 1990",
+   "divergent-figure: PP-0074, PP-0077, PP-0079, PP-0080",
+   "stale-contact: reference contact unverified since 2026-04-02"
+  ],
+  "competitors": [
+   "wiki/past-performance/project-westerly-ri.md"
+  ]
+ },
+ {
+  "rank": 28,
+  "path": "wiki/technical-approach/tiered-communication-reporting-protocol.md",
+  "title": "Tiered Communication and Reporting Protocol (Day-to-Day through Annual)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-09-29",
+  "overdue_days": 10,
+  "flags": [],
+  "details": [],
+  "competitors": []
+ },
+ {
+  "rank": 29,
+  "path": "wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md",
+  "title": "Health, Safety, and Environmental Compliance Performance Record",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "safety-stat",
+  "review_due": "2027-04-02",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0229, PP-0232, PP-2063, PP-2064"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 30,
+  "path": "wiki/compliance-plans/six-point-compliance-program.md",
+  "title": "Six-Point Compliance Program",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0232"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 31,
+  "path": "wiki/qualifications/comparable-scale-track-record-treatment-and-collection.md",
+  "title": "Track Record Operating Facilities and Collection Systems of Comparable Scale",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0148, PP-0173"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 32,
+  "path": "wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md",
+  "title": "OMFS Corporate Scale and O&M Portfolio Proof Points",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "corporate-figure",
+  "review_due": "2027-04-02",
+  "overdue_days": 0,
+  "flags": [
+   "open-ended-date",
+   "divergent-figure"
+  ],
+  "details": [
+   "open-ended-date: since 2013",
+   "divergent-figure: PP-0149, PP-0150, PP-0167, PP-0168, PP-0169, PP-0171 …"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 33,
+  "path": "wiki/qualifications/regional-presence-local-support-value-prop.md",
+  "title": "Regional Presence and Regulatory Relationships as a Qualifications Differentiator",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0169, PP-0177"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 34,
+  "path": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
+  "title": "Project Understanding Narrative and Goals/Challenges/Response Crosswalk Matrix",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0277"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 35,
+  "path": "wiki/technical-approach/swip-scada-ic-cybersecurity-approach.md",
+  "title": "SCADA, Instrumentation & Controls, and Cybersecurity Approach",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2028-09-11",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0471"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 36,
+  "path": "wiki/win-themes/project-narrative-long-term-dbo-performance-excellence.md",
+  "title": "Project Narrative — Multi-Decade DBO Partnership With Sustained Award Recognition (Regional WWTP)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0077, PP-0079"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 47,
+  "path": "wiki/past-performance/edward-c-little-water-recycling-facility-om.md",
+  "title": "Edward C. Little Water Recycling Facility O&M — Reference Project (West Basin Municipal Water District, El Segundo, CA)",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "reference",
+  "review_due": "2026-03-11",
+  "overdue_days": 212,
+  "flags": [
+   "open-ended-date",
+   "divergent-figure",
+   "newer-source-same-claim",
+   "stale-contact"
+  ],
+  "details": [
+   "open-ended-date: 2025 – Ongoing",
+   "divergent-figure: PP-0022, PP-0396, PP-0413",
+   "newer-source-same-claim: PP-0022: santamonica-swip-om-2025 says 40; hull-wwtf-om-2026 (2026-04-02) says 30-40 MGD (approximate)",
+   "stale-contact: reference contact unverified since 2025-09-12"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 48,
+  "path": "wiki/win-themes/value-proposition-table-approach-impact-value.md",
+  "title": "Value Proposition Table — Approach / Operational Impact / Value to Client (Exhibit 2-1)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-09-29",
+  "overdue_days": 10,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0149, PP-0150"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 49,
+  "path": "wiki/win-themes/leadership-team-and-coordinated-operations-narrative.md",
+  "title": "Leadership Team Introduction and \"Extension of Client Staff\" Coordinated-Operations Narrative",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-09-29",
+  "overdue_days": 10,
+  "flags": [],
+  "details": [],
+  "competitors": []
+ },
+ {
+  "rank": 50,
+  "path": "wiki/past-performance/project-waterbury-ct.md",
+  "title": "Project Description — Waterbury Water and Wastewater System O&M (City of Waterbury, CT)",
+  "source": "ocwut-16-26",
+  "owner": "Michael Travis",
+  "volatility": "reference",
+  "review_due": "2026-11-02",
+  "overdue_days": 0,
+  "flags": [
+   "open-ended-date",
+   "divergent-figure"
+  ],
+  "details": [
+   "open-ended-date: 2018 – Ongoing",
+   "divergent-figure: PP-0032, PP-0035, PP-0042, PP-0043, PP-0046"
+  ],
+  "competitors": [
+   "wiki/past-performance/project-waterbury-ct-odor-control-and-results.md"
+  ]
+ },
+ {
+  "rank": 51,
+  "path": "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md",
+  "title": "Project Narrative — Holistic Utility Partnership Drives Multi-Million-Dollar Cost Savings (Large Coastal WWTP)",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-04-01",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0032, PP-0035, PP-0042"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 52,
+  "path": "wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md",
+  "title": "Project Description — Agua Nueva Water Reclamation Facility DBO (Pima County, AZ)",
+  "source": "ocwut-16-26",
+  "owner": "Michael Travis",
+  "volatility": "reference",
+  "review_due": "2026-11-02",
+  "overdue_days": 0,
+  "flags": [
+   "open-ended-date"
+  ],
+  "details": [
+   "open-ended-date: 2010 – Ongoing"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 53,
+  "path": "wiki/past-performance/project-jackson-jxn-water-om.md",
+  "title": "Project Description — Jackson Public Drinking Water and Wastewater Facilities O&M (JXN Water, Jackson, MS)",
+  "source": "ocwut-16-26",
+  "owner": "Michael Travis",
+  "volatility": "reference",
+  "review_due": "2026-11-02",
+  "overdue_days": 0,
+  "flags": [
+   "open-ended-date"
+  ],
+  "details": [
+   "open-ended-date: 2022 – Ongoing"
+  ],
+  "competitors": [
+   "wiki/past-performance/project-jackson-jxn-water-turnaround-results.md"
+  ]
+ },
+ {
+  "rank": 54,
+  "path": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+  "title": "Exhibit — \"A Trusted Partnership Built Over Two Decades\" Relationship Timeline",
+  "source": "ocwut-16-26",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2029-05-05",
+  "overdue_days": 0,
+  "flags": [
+   "open-ended-date"
+  ],
+  "details": [
+   "open-ended-date: 2018 to present; 2020 to present"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 60,
+  "path": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+  "title": "Asset Management System — 10-Box Model Methodology and Predictive Maintenance Technologies",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-03-11",
+  "overdue_days": 212,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0464, PP-0514"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 61,
+  "path": "wiki/win-themes/swip-onsite-team-staffing-and-shift-model.md",
+  "title": "High-Caliber Onsite Team — Named Leadership, Certifications, Regional Surge, and Shift Model",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-03-11",
+  "overdue_days": 212,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0550, PP-0573, PP-0665, PP-2930"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 62,
+  "path": "wiki/win-themes/swip-partner-integration-and-technical-bench.md",
+  "title": "Partnership Framing — Extension of Client Staff, Quantified Technical Bench, and Integrated O&M plus Engineering",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-03-11",
+  "overdue_days": 212,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0553"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 63,
+  "path": "wiki/compliance-plans/swip-safety-plan-performance-record.md",
+  "title": "Safety Plan and Management with BeyondZero Culture and Multi-Year Performance Metrics",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "safety-stat",
+  "review_due": "2026-09-12",
+  "overdue_days": 27,
+  "flags": [],
+  "details": [],
+  "competitors": []
+ },
+ {
+  "rank": 64,
+  "path": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+  "title": "Executive Summary Opening — \"Ready for a Change\" Positioning and System Profile",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-09-29",
+  "overdue_days": 10,
+  "flags": [
+   "divergent-figure"
+  ],
+  "details": [
+   "divergent-figure: PP-0148"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 65,
+  "path": "wiki/technical-approach/low-pressure-sewer-grinder-pump-om-experience.md",
+  "title": "Low-Pressure Sewer and Grinder Pump System O&M Experience",
+  "source": "hull-wwtf-om-2026",
+  "owner": "Michael Travis",
+  "volatility": "people",
+  "review_due": "2026-09-29",
+  "overdue_days": 10,
+  "flags": [],
+  "details": [],
+  "competitors": []
+ },
+ {
+  "rank": 66,
+  "path": "wiki/management-staffing/swip-training-certification-program.md",
+  "title": "Training and Certification Program for O&M Personnel (AWTO-Focused, Incentive-Driven)",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2028-09-11",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure",
+   "newer-source-same-claim"
+  ],
+  "details": [
+   "divergent-figure: PP-0150",
+   "newer-source-same-claim: PP-0150: santamonica-swip-om-2025 says 300, 300+; hull-wwtf-om-2026 (2026-04-02) says >300 O&M projects"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 67,
+  "path": "wiki/win-themes/swip-compliance-systems-and-laboratory-program.md",
+  "title": "Compliance Systems and Laboratory Program — WIMS/LIMS Integration, Sample Tracking, and the Six-Point Compliance Program",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2028-09-11",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure",
+   "newer-source-same-claim"
+  ],
+  "details": [
+   "divergent-figure: PP-0232",
+   "newer-source-same-claim: PP-0232: santamonica-swip-om-2025 says 99.98; hull-wwtf-om-2026 (2026-04-02) says 99.8 percent"
+  ],
+  "competitors": []
+ },
+ {
+  "rank": 68,
+  "path": "wiki/win-themes/swip-om-qualifications-proof-points.md",
+  "title": "O&M Qualifications Proof Points — Scale, California Advanced-Treatment Track Record, and Governance Model",
+  "source": "santamonica-swip-om-2025",
+  "owner": "Michael Travis",
+  "volatility": "evergreen",
+  "review_due": "2028-09-11",
+  "overdue_days": 0,
+  "flags": [
+   "divergent-figure",
+   "newer-source-same-claim"
+  ],
+  "details": [
+   "divergent-figure: PP-0149, PP-0150, PP-0177, PP-0232, PP-0304, PP-0356",
+   "newer-source-same-claim: PP-0149: santamonica-swip-om-2025 says 4, 4 decades; hundreds, 40, more than 40; hull-wwtf-om-2026 (2026-04-02) says 45+ years | PP-0150: santamonica-swip-om-2025 says 300, 300+; hull-wwtf-om-2026 (2026-04-02) says >300 O&M projects | PP-0232: santamonica-swip-om-2025 says 99.98; hull-wwtf-om-2026 (2026-04-02) says 99.8 percent"
+  ],
+  "competitors": []
+ }
+]
