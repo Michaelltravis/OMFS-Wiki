@@ -72,7 +72,7 @@ Jacobs' eLearning system, accessible to all employees, serves both as a knowledg
 
 Jacobs' total compliance and regulatory training hours provided to O&M staff annually (a 21-year corporate trend): 1,875 hours (2005); 1,078 (2006); 2,989 (2007); 2,937 (2008); 2,965 (2009); 4,977 (2010); 4,455 (2011); 5,642 (2012); 9,196 (2013); 4,628 (2014); 4,787 (2015); 9,034 (2016); 10,285 (2017); 6,502 (2018); 8,155 (2019); 9,433 (2020); 12,641 (2021); 11,588 (2022); 9,185 (2023); 8,963 (2024); 12,039 (2025).
 
-<!-- curation 2026-10-09 (CQ-0002): 12,039 hours (2025) appended from the MMSD 2026 proposal, verbatim/mmsd-om-2028/pages/p0087.md ¶18 (PP-2603); year-series rule in CLAUDE.md. Verify before external use. -->
+<!-- curation 2026-10-09 (CQ-0002): 12,039 hours (2025) appended from source mmsd-om-2028 (2026-01-30), verbatim/mmsd-om-2028/pages/p0087.md ¶18 (PP-2603); year-series rule in CLAUDE.md. Verify before external use. -->
 
 ## Operator certification incentives
 

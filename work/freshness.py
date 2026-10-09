@@ -315,6 +315,9 @@ class Freshness:
                 if rx.search(ln):
                     if ln.lstrip().startswith("|"):
                         years += [int(y) for y in YEAR_RE.findall(ln)]
+                    elif len(set(YEAR_RE.findall(ln))) >= 3:  # a series listed inline: every year counts
+                        years += [int(y) for y in YEAR_RE.findall(ln)]
+                        is_series = True
                     else:  # prose: only years close to the stat mention count
                         for m in rx.finditer(ln):
                             window = ln[max(0, m.start() - 80): m.end() + 80]

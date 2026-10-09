@@ -50,7 +50,7 @@ Jacobs uses a Safety Scorecard to measure both proactive (leading) and reactive 
 
 **Safety statistics for Jacobs' operations and maintenance organization:**
 
-<!-- curation 2026-10-09 (CQ-0001): 2025 TRIR 0.89 and 7/1/2025–7/1/2026 ERM 0.45 appended from the Hull 2026 proposal, verbatim/hull-wwtf-om-2026/pages/p0017.md ¶7 and ¶12 (PP-0225, PP-0228); year-series rule in CLAUDE.md. Verify before external use. -->
+<!-- curation 2026-10-09 (CQ-0001): 2025 TRIR 0.89 and 7/1/2025–7/1/2026 ERM 0.45 appended from source hull-wwtf-om-2026 (2026-04-02), verbatim/hull-wwtf-om-2026/pages/p0017.md ¶7 and ¶12 (PP-0225, PP-0228); year-series rule in CLAUDE.md. Verify before external use. -->
 
 Experience Rate Modification (ERM) for Worker Compensation (as measured by NCCI):
 

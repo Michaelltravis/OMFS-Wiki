@@ -325,11 +325,13 @@ def main():
                             add("recipe-pairs-with-not-prose", rel, str(pairs_with))
 
             # 8. no pursuit client name in body, for narrative categories
+            #    (HTML comments are excluded: build_docx strips them, and curation provenance
+            #    notes name the source proposal by design)
             if cat in NARRATIVE_CATEGORIES:
                 src = fm.get("source")
                 pattern = CLIENT_NAME_PATTERNS.get(src)
                 if pattern:
-                    hits = sorted(set(pattern.findall(body)))
+                    hits = sorted(set(pattern.findall(re.sub(r"<!--.*?-->", "", body, flags=re.DOTALL))))
                     if hits:
                         add("client-name-in-narrative", rel, ", ".join(hits))
 
