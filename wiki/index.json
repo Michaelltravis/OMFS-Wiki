@@ -16222,7 +16222,8 @@
       "PP-1270",
       "PP-1271",
       "PP-1272",
-      "PP-1273"
+      "PP-1273",
+      "PP-2603"
     ],
     "testimonial-ids": [],
     "story-ids": [],
@@ -45705,7 +45706,8 @@
       "PP-2093",
       "PP-2094",
       "PP-2095",
-      "PP-2096"
+      "PP-2096",
+      "PP-0228"
     ],
     "testimonial-ids": [],
     "story-ids": [],
@@ -45721,9 +45723,7 @@
     "doc-order": 50,
     "volatility": "safety-stat",
     "review-due": "2027-04-02",
-    "freshness-flags": [
-      "newer-year-available"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Combines quantified corporate safety proof points (5-year RIR and LTIR against BLS industry averages, EMR below 1.0) with a concrete, checklist-style site-specific safety, security, and OT-cybersecurity plan and a dated 30-day submission commitment",
     "reuse-notes": "Refresh the BLS benchmark year range (2018-2022 here) and the RIR/LTIR statistics from current corporate safety data before reuse; rewrite the physical-security-findings paragraph from an actual site walk of the target facility rather than reusing the perimeter-fencing observation; confirm the 30-day plan submission commitment matches the target RFP.",

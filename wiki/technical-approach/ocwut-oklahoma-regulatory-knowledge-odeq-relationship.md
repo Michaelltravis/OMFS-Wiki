@@ -13,7 +13,7 @@ client-size: ">110 MGD combined / 4 WWTPs + 1 major pump station / 109 FTE"
 geography: "Southcentral / OK / ODEQ"
 rfp-section-type: [tech-approach]
 win-theme-map: [compliance-leadership, partner-transparency, regional-bench]
-proof-point-ids: [PP-1265, PP-1266, PP-1267, PP-1268, PP-1269, PP-1270, PP-1271, PP-1272, PP-1273]
+proof-point-ids: [PP-1265, PP-1266, PP-1267, PP-1268, PP-1269, PP-1270, PP-1271, PP-1272, PP-1273, PP-2603]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -42,7 +42,8 @@ Jacobs brings direct, current experience working within Oklahoma's regulatory fr
 
 We'll coordinate with ODEQ as a regulatory partner. **Notifying ODEQ early and proactively when issues arise, providing complete and accurate reports, and maintaining a consistent track record of good-faith cooperation is how we protect [CLIENT]'s regulatory standing and prevent minor issues from becoming enforcement actions.**
 
-**Compliance and regulatory training hours provided to O&M staff:** 9,034 (2016); 10,285 (2017); 6,502 (2018); 8,155 (2019); 9,433 (2020); 12,641 (2021); 11,588 (2022); 9,185 (2023); 8,963 (2024). *(Graphic ID 108_009385.)*
+**Compliance and regulatory training hours provided to O&M staff:** 9,034 (2016); 10,285 (2017); 6,502 (2018); 8,155 (2019); 9,433 (2020); 12,641 (2021); 11,588 (2022); 9,185 (2023); 8,963 (2024); 12,039 (2025). *(Graphic ID 108_009385.)*
+<!-- curation 2026-10-09 (newer-year-available): 12,039 hours (2025) appended from the MMSD 2026 proposal, verbatim/mmsd-om-2028/pages/p0087.md ¶18 (PP-2603); year-series rule in CLAUDE.md. Verify before external use. -->
 
 ## Reuse guidance
 

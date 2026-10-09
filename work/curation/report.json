@@ -34,10 +34,10 @@
    "open-ended-date": 56,
    "stale-contact": 12,
    "newer-source-same-claim": 16,
-   "newer-year-available": 2,
-   "person-duplicate": 6
+   "person-duplicate": 6,
+   "newer-year-available": 1
   },
-  "flagged_blocks": 112,
+  "flagged_blocks": 111,
   "overdue": 180,
   "overdue_by_owner": {
    "Michael Travis": 180
@@ -827,8 +827,7 @@
     "volatility": "safety-stat",
     "review_due": "2027-04-02",
     "flags": [
-     "divergent-figure",
-     "newer-year-available"
+     "divergent-figure"
     ]
    },
    "rank": 28
@@ -3754,37 +3753,6 @@
    "rank": 138
   },
   {
-   "path": "wiki/compliance-plans/integrated-safety-security-cybersecurity-program.md",
-   "title": "Integrated Safety, Security, and Cybersecurity Program for Wastewater Facilities",
-   "category": "compliance-plans",
-   "source": "hull-wwtf-om-2026",
-   "status": "preferred",
-   "house_favorite": false,
-   "volatility": "safety-stat",
-   "basis_date": "2026-04-02",
-   "basis": "source",
-   "review_due": "2027-04-02",
-   "overdue_days": 0,
-   "usage": 2,
-   "flags": [
-    {
-     "flag": "newer-year-available",
-     "detail": "EMR: block ends 2022; bank has 2026 in wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md",
-     "evidence": "wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md"
-    }
-   ],
-   "severity": 2,
-   "owner": "Michael Travis",
-   "current": {
-    "volatility": "safety-stat",
-    "review_due": "2027-04-02",
-    "flags": [
-     "newer-year-available"
-    ]
-   },
-   "rank": 139
-  },
-  {
    "path": "wiki/qualifications/corporate-entity-legal-qualifications.md",
    "title": "Corporate Entity Details, Legal Standing, and Litigation/Termination Disclosure",
    "category": "qualifications",
@@ -3813,7 +3781,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 140
+   "rank": 139
   },
   {
    "path": "wiki/qualifications/financial-strength-low-risk-partner-value-prop.md",
@@ -3844,7 +3812,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 141
+   "rank": 140
   },
   {
    "path": "wiki/win-themes/project-narrative-workforce-transition-biosolids-modernization.md",
@@ -3875,7 +3843,7 @@
      "divergent-figure"
     ]
    },
-   "rank": 142
+   "rank": 141
   },
   {
    "path": "wiki/past-performance/ocwut-om-portfolio-and-oklahoma-track-record.md",
@@ -3906,7 +3874,7 @@
      "open-ended-date"
     ]
    },
-   "rank": 143
+   "rank": 142
   },
   {
    "path": "wiki/past-performance/project-san-marcos-tx.md",
@@ -3937,7 +3905,7 @@
      "open-ended-date"
     ]
    },
-   "rank": 144
+   "rank": 143
   },
   {
    "path": "wiki/technical-approach/fulton-successful-experience-multi-facility-mbr.md",
@@ -3966,6 +3934,31 @@
     "review_due": "2028-04-17",
     "flags": [
      "open-ended-date"
+    ]
+   },
+   "rank": 144
+  },
+  {
+   "path": "wiki/compliance-plans/integrated-safety-security-cybersecurity-program.md",
+   "title": "Integrated Safety, Security, and Cybersecurity Program for Wastewater Facilities",
+   "category": "compliance-plans",
+   "source": "hull-wwtf-om-2026",
+   "status": "preferred",
+   "house_favorite": false,
+   "volatility": "safety-stat",
+   "basis_date": "2026-04-02",
+   "basis": "source",
+   "review_due": "2027-04-02",
+   "overdue_days": 0,
+   "usage": 2,
+   "flags": [],
+   "severity": 99,
+   "owner": "Michael Travis",
+   "current": {
+    "volatility": "safety-stat",
+    "review_due": "2027-04-02",
+    "flags": [
+     "newer-year-available"
     ]
    },
    "rank": 145
@@ -10049,7 +10042,7 @@
    "flags": [
     {
      "flag": "newer-year-available",
-     "detail": "training hours: block ends 2024; bank has 2025 in wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
+     "detail": "training hours: block ends 2019; bank has 2025 in wiki/technical-approach/mmsd-commitment-to-zero-excursions.md",
      "evidence": "wiki/technical-approach/mmsd-commitment-to-zero-excursions.md"
     }
    ],

@@ -313,7 +313,12 @@ class Freshness:
             while i < len(lines):
                 ln = lines[i]
                 if rx.search(ln):
-                    years += [int(y) for y in YEAR_RE.findall(ln)]
+                    if ln.lstrip().startswith("|"):
+                        years += [int(y) for y in YEAR_RE.findall(ln)]
+                    else:  # prose: only years close to the stat mention count
+                        for m in rx.finditer(ln):
+                            window = ln[max(0, m.start() - 80): m.end() + 80]
+                            years += [int(y) for y in YEAR_RE.findall(window)]
                     if annual.search(ln):
                         is_series = True
                     if ln.lstrip().startswith("|"):  # table header: take the rows beneath it
