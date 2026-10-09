@@ -35,10 +35,15 @@ VREF_RE = re.compile(r"(verbatim/[^#\s]+\.md)(?:#¶(\d+))?")
 def load_fragments(folder: Path, prefix: str, key: str):
     out = []
     for p in sorted(folder.glob(f"{prefix}_*.json")):
-        try:
-            data = json.loads(p.read_text(encoding="utf-8"))
-        except Exception as e:
-            print(f"  skipping unreadable {p.name}: {e}", file=sys.stderr)
+        data = None
+        for enc in ("utf-8", "utf-8-sig", "cp1252"):  # agents on Windows sometimes write cp1252
+            try:
+                data = json.loads(p.read_text(encoding=enc))
+                break
+            except Exception:
+                continue
+        if data is None:
+            print(f"  skipping unreadable {p.name}", file=sys.stderr)
             continue
         rows = data.get(key, []) if isinstance(data, dict) else data
         for r in rows:
@@ -142,7 +147,8 @@ def main():
          "_Tick `[x]` the items to apply as proposed, leave the rest, then run_ "
          "`python work/apply_curation.py --dry-run` _and, when the dry run looks right,_ `python work/apply_curation.py`. "
          "_Items you want done differently: leave unticked and issue the exact `python work/curate.py …` command instead. "
-         "`update-figure` items change nothing in the body — they record the approved new value for a writer._", "",
+         "Ticking a **verify** item asserts that you confirmed the facts it names (it sets last-verified / verified-by); "
+         "**keep** ticks only log the decision; `update-figure` items change nothing in the body — they record the approved new value for a writer._", "",
          "Counts: " + ", ".join(f"{a} {by_action[a]}" for a in ACTIONS if by_action.get(a))
          + (f" · evidence refs that did not resolve: {bad_refs}" if bad_refs else ""), ""]
     by_owner = defaultdict(list)

@@ -1,0 +1,290 @@
+{
+ "items": [
+  {
+   "path": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+     "text": "**Contract dates:** January 2016 – Ongoing"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+     "text": "**Zero lost-time incidents** since contract start in 2015."
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/management-staffing/swip-transition-plan-overview-and-track-record.md",
+     "text": "— Frank Dick, P.E., Sewer and Wastewater Engineering Supervisor, City of Vancouver – Public Works | 360.487.7179"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-1395",
+     "text": "25 USD million | multi-year | ocwut-16-26 | p172 ¶8 (status: single-source)"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Verbatim reference with an open-ended 'January 2016 - Ongoing' date and a named owner contact; its last-verified (2026-09-07) equals the extraction date and log.jsonl has no verify entry, so nothing has actually been confirmed. Confirm with the account team: (1) contract still ongoing; (2) Frank Dick's title and contact - this block says 'Wastewater Treatment Engineering Manager', 360.487.7179, while swip-transition-plan-overview-and-track-record.md and mmsd-transitioning-employee-care-workshops-and-compensation.md give him as 'Sewer and Wastewater Engineering Supervisor'; (3) 'zero lost-time incidents since contract start in 2015' vs the January 2016 contract start; (4) NACWA awards 2017-2025, the 2024/2022/2020 award list, $25M SCADA and $900K rebates (single-source PP-1395, PP-1396). No registry conflict and no competing block, so no figure change.",
+   "flags": [
+    "open-ended-date"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "reference",
+   "rank": 15
+  },
+  {
+   "path": "wiki/technical-approach/annual-innovation-workshop-program.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/annual-innovation-workshop-program.md",
+     "text": "status: fallback ... house-favorite: true ... superseded-by: [wiki/technical-approach/swip-annual-innovation-workshop.md, wiki/technical-approach/mmsd-annual-innovation-workshop.md]"
+    },
+    {
+     "kind": "block",
+     "ref": "templates/standard-topics.md",
+     "text": "| Annual innovation workshop | wiki/technical-approach/swip-annual-innovation-workshop.md; wiki/technical-approach/annual-innovation-workshop-program.md | A dated, repeatable commitment |"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+     "text": "supersedes: [wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md, wiki/technical-approach/annual-innovation-workshop-program.md, wiki/technical-approach/fulton-annual-innovation-workshop.md]"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0141",
+     "text": "1 full day per year | 2026 contract commitment | hull-wwtf-om-2026 | p27 ¶5 | annual-innovation-workshop-program.md"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Already linked as a fallback (superseded-by the swip and mmsd preferred twins); the contradiction is only the stray house-favorite: true, so resolve by deleting that field (or setting false) and keeping the block. Not archivable: templates/standard-topics.md still names it as the second source for the annual-innovation-workshop topic, it holds the only Hull-specific topic menu (SSES/I-I, standby power, biosolids, regionalization, incinerator reuse, AI, PFAS) that neither preferred twin carries, and PP-0141/0278/0279/2078 cite it. House-favorite already sits on the preferred swip twin.",
+   "flags": [
+    "status-link-mismatch"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 16
+  },
+  {
+   "path": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+     "text": "**CPO Mack Mckenzie** will serve as [CLIENT]'s primary point of contact"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0525",
+     "text": "5 day of month | 2025 | santamonica-swip-om-2025 | p61 ¶13 (single-source)"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
+     "text": "status: fallback; superseded-by: wiki/technical-approach/mmsd-communications-cadence-exhibit.md"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/mack-mckenzie.md",
+     "text": "title: Mack Mckenzie - Chief Plant Operator (WW Grade V, AWT3); review-due: 2026-03-11; freshness-flags: [divergent-figure]"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Preferred house-favorite; the only competitor (mmsd-exhibit-communications-and-reporting-cadence.md) is itself a fallback already superseded by mmsd-communications-cadence-exhibit.md, so there is no live twin and no dedupe action. The time-bound content is the named CPO Mack Mckenzie (volatility people, 212 days overdue from the 2025-09-12 source date). Confirm with the account team: Mack Mckenzie's current CPO role (wiki/resumes/mack-mckenzie.md also carries a divergent-figure flag), and that the delivery commitments (Monthly Operating Report by the 5th, annual report draft 30 days / final 60 days - PP-0525/0526/0527) and the CIWQS/NetDMR submittal route still reflect how the account operates; they are Santa Monica contract commitments and must be re-set per pursuit regardless.",
+   "flags": [],
+   "owner": "Michael Travis",
+   "volatility": "people",
+   "rank": 24
+  },
+  {
+   "path": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-2188",
+     "text": ">40 percent | recent, as stated in 2028 proposal | mmsd-om-2028 | p69 ¶16 (single-source)"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-2191",
+     "text": ">80 percent acceptance rate | 2028 proposal | mmsd-om-2028 | p70 ¶12 (single-source)"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-2180",
+     "text": "525000 USD per year or more | 2028 proposal, current chemical prices | mmsd-om-2028 | p69 ¶5 (client-specific)"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+     "text": "never carry them to another pursuit. Everything explaining the mechanism, the track record range, and the adoption evidence is reusable."
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Flagged only because it is classed volatility: people (72 days overdue); no registry conflict, no twin, no feedback. The reusable facts are track-record claims that age: confirm with the digital/process-optimization group that the use case still spans 5 to 340+ MGD (PP-2186), typical savings 20-30% (PP-2187), West Basin CA >40% after takeover from another provider (PP-2188, dated only 'recent'), operator acceptance >80% (PP-2191) and 3-8 notifications/day (PP-2189). The >30% / ~20% / $525K-per-year figures (PP-2180, PP-2183, PP-2184) are MMSD-specific analysis outputs and must not be reused. Maintainer may also reclassify volatility to a track-record class at the next policy pass (not applied here).",
+   "flags": [],
+   "owner": "Michael Travis",
+   "volatility": "people",
+   "rank": 25
+  },
+  {
+   "path": "wiki/past-performance/project-southbridge-ma.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0065",
+     "text": "1.7 million USD per year (p78 ¶14) vs unresolved USD/year (p15 ¶2, client-references.md) - status: conflict"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0064",
+     "text": "2025 year (p78 ¶12) vs 2025 – Present years (p15 ¶2) - status: conflict"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-southbridge-ma.md",
+     "text": "QC before external use: confirm John Jovan, Jr. is still Town Manager and Rich Benoit still Director of Public Works, and that phone/email are current"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/client-references.md",
+     "text": "**Annual Project Fee:** $1.7M"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "Reference block with an unverified owner contact (extraction stamp 2026-09-05, proposal 2026-04-02) and an open-ended 'Years of Service 2025 to Present'. The divergent-figure flag (PP-0064, PP-0065) does not put this block's values in question: the other row is the same claim from client-references.md (p15 ¶2) - '2025 - Present' for the start year and an 'unresolved' fee caused by a garbled table cell in the source ('nnua rojec ee:') - while client-references.md's text agrees with this block ($1.7M, 2025). So no update-figure. Confirm with the account team: John Jovan, Jr. still Town Manager (508.764.5405, jjovan@southbridgemass.org) and Rich Benoit still Director of Public Works; the 5-year contract (from 2025-02-01) is still in force; the $1.7M annual fee; the $85M nitrogen-reduction design-build award (from Section 3 Exhibit 3-5, not Appendix B). Westerly (competitor) is a different project, not a twin.",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure",
+    "stale-contact"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "reference",
+   "rank": 26
+  },
+  {
+   "path": "wiki/past-performance/project-traverse-city-mi.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0080",
+     "text": "3.5 million USD per year (p80 ¶11) vs 3500000 USD/year (p15 ¶2) - same value, status: conflict"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0079",
+     "text": "30 percent (more than) (p80 ¶7) vs >30 percent (p15 ¶2) - same value, status: conflict"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-traverse-city-mi.md",
+     "text": "confirm Art Krueger is still Director of Municipal Facilities and the phone/email are current; verify award names/years against MWEA, USEPA Region 5, ACEC, and Michigan Water Environment Association records"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/project-traverse-city-mi.md",
+     "text": "under the guidance of Jacobs for 29 plus years."
+    }
+   ],
+   "confidence": "high",
+   "rationale": "Reference block with an unverified owner contact and an open-ended '1990 to Present'. Divergent-figure flags PP-0074/0077/0079/0080 are format-only conflicts: the competing rows from client-references.md (p15 ¶2) carry the same values (1990 - Present; ~50,000; >30%; $3.5M), so the block's figures are not in question and no update-figure applies. Confirm with the account team: Art Krueger still Director of Municipal Facilities (231.922.4923, akrueger@traversecitymi.gov); DBO contract still active; 13 staff, 17 MGD peak, $3.5M annual fee and >30% electrical reduction (PP-0075/0078/0080/0079); award names/years against MWEA, EPA Region 5, ACEC records; and that the Commissioner Lewis quote ('29 plus years') is still current and releasable. Westerly (competitor) is a different project, not a twin.",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure",
+    "stale-contact"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "reference",
+   "rank": 27
+  },
+  {
+   "path": "wiki/technical-approach/tiered-communication-reporting-protocol.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/tiered-communication-reporting-protocol.md",
+     "text": "Project Manager Nathan Callison will maintain open day-to-day coordination with [CLIENT] staff"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+     "text": "title: \"Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)\""
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0281",
+     "text": "5 meeting/reporting tiers | 2026 contract commitment | hull-wwtf-om-2026 | p27 ¶9 (single-source)"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/tiered-communication-reporting-protocol.md",
+     "text": "Attendee titles, the named project manager, and specific deliverables (5-year CIP recommendations, org chart updates) should be tailored to contract scope"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Preferred house-favorite classed volatility: people because the narrative names Project Manager Nathan Callison; no flags, no registry conflict (PP-0137, PP-0280, PP-0281, PP-2079 are consistent/single-source contract commitments), no twin (the swip and mmsd cadence blocks are different pursuit-specific tables). Confirm with the account team that Nathan Callison is still the proposed/assigned PM for Hull-type accounts (the bank also carries him as Johns Creek Plant Manager in the Fulton resume, so his role has changed between pursuits) and that the attendee tiers (Regional Management, Executive Team) still match current practice. The five-tier cadence itself is evergreen.",
+   "flags": [],
+   "owner": "Michael Travis",
+   "volatility": "people",
+   "rank": 28
+  },
+  {
+   "path": "wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0232",
+     "text": "99.8 percent | 20-year record, as of 2026 | hull-wwtf-om-2026 | p17 ¶17 vs 99.98 % compliance | hull-wwtf-om-2026 | p31 ¶2 and 99.98 percent | 2025 | santamonica-swip-om-2025 | p15 ¶6 - status: conflict"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0229",
+     "text": "1.0 EMR (p17 ¶12) vs <1.0 EMR (p40 ¶5) - threshold wording, status: conflict"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md",
+     "text": "| 7/1/2025 – 7/1/2026 | 0.45 |"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md",
+     "text": "All safety and compliance metrics are point-in-time and must be refreshed from current corporate EHS and compliance data before each submission"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The divergent-figure flag does involve this block's own value, but the registry holds no newer same-claim figure to apply: PP-0232 has this block's '99.8%, 20-year record' (Hull p17 ¶17) against 99.98% from the same Hull proposal (p31 ¶2) and from the 2025 Santa Monica proposal; those are same-date or older, so update-figure is unsupported and the choice (99.8% 20-year vs 99.98%) needs corporate compliance. Confirm with Jacobs EHS/compliance: (1) the NPDES compliance rate and its lookback; (2) TRIR 0.89 for 2025 and whether a later figure exists (PP-2063: 1.38 in 2024, 1.89 in 2023); (3) EMR 0.45 for the 7/1/2025-7/1/2026 NCCI period - that policy year has ended, so pull the current EMR (PP-0229 and PP-2064 conflicts concern the 1.0 threshold wording and prior-year EMRs, not 0.45); (4) the Exhibit 3-9 violations table (two 2022 Oregon herbicide-license fines) re-pulled for the new RFP's lookback.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "safety-stat",
+   "rank": 29
+  }
+ ]
+}

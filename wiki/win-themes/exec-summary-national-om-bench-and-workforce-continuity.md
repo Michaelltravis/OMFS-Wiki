@@ -26,8 +26,8 @@ section-id: ocwut-16-26:02.a-team-built-for-this-program
 section-order: 2
 section-path: Executive Summary of Technical Approach › A TEAM BUILT FOR THIS PROGRAM
 doc-order: 7
-volatility: evergreen
-review-due: 2029-05-05
+volatility: corporate-figure
+review-due: 2027-05-06
 freshness-flags: [open-ended-date]
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: A compact, high-density corporate credential paragraph that names four peer-scale operating contracts with their capacities, the renewal rate, the staff count, and the ENR rankings — then immediately turns the credential into a people promise ("credentials alone don't run your plants") and commits to retaining and upgrading the incumbent workforce. The pivot is what makes the credentials land in an incumbent-displacement bid.

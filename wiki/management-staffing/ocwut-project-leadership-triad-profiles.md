@@ -26,8 +26,8 @@ section-id: ocwut-16-26:08.management-team-and-additional-key-personnel
 section-order: 18
 section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL
 doc-order: 125
-volatility: people
-review-due: 2026-11-02
+volatility: corporate-figure
+review-due: 2027-05-06
 freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The best example in the library of key-personnel bios written as arguments rather than resumes — each one names the role, the numbers, the directly relevant prior situation (taking over an underperforming contract, restoring compliance), and closes with a first-person quote in the individual's own voice.

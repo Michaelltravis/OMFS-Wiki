@@ -26,8 +26,8 @@ section-id: santamonica-swip-om-2025:13.long-term-staffing-succession-planning-p
 section-order: 6
 section-path: 'Section 3: Key Personnel › 3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS › LONG-TERM STAFFING/SUCCESSION PLANNING PRACTICES'
 doc-order: 91
-volatility: evergreen
-review-due: 2028-09-11
+volatility: corporate-figure
+review-due: 2026-09-12
 freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: "A concise, well-organized eight-program catalog (Exhibit 3-6) of Jacobs' corporate staff-development and succession-planning infrastructure — useful whenever a proposal needs to show the workforce pipeline behind a transition plan, beyond the specific transition itself."

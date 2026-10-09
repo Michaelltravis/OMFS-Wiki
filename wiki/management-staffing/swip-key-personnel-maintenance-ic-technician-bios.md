@@ -28,7 +28,7 @@ section-path: 'Section 3: Key Personnel › 3.1 STAFFING PLAN › PROJECT TEAM A
 doc-order: 71
 volatility: people
 review-due: 2026-03-11
-freshness-flags: [divergent-figure]
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Concise, credential-backed technician bios showing decades of hands-on maintenance/I&C experience plus a training/teaching credential and a state-level industry award — good differentiators for the maintenance-staffing portion of a proposal.
 reuse-notes: Named individuals and their real credentials are kept verbatim per wiki policy. Swap in the actual proposed technicians' bios for a new pursuit.

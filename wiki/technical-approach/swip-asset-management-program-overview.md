@@ -28,7 +28,7 @@ section-path: 'Section 2: Qualifications › 2.4 FIRM APPROACH › ASSET MANAGEM
 doc-order: 52
 volatility: evergreen
 review-due: 2028-09-11
-freshness-flags: [divergent-figure]
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Shows how to frame an asset-management response around meeting the client where they are on the AM maturity journey while offering concrete no-cost value-adds (a named deragger technology, a dedicated shared regional technician) with quantified embedded value ($75,000 and $170,000).
 reuse-notes: The named technology (AquaDNA Deragger, a Jacobs-owned tool) is not client-identifying and is kept verbatim. The $75,000 and $170,000 embedded-value figures are value-add claims, not fee or rate data — verify current tool availability and value before offering. Named role Graham Knowles (Director of Asset Management for O&M) is kept verbatim per wiki policy on staff names; substitute the pursuing team's actual assigned staff.

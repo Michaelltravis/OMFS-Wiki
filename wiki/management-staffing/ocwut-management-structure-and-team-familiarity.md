@@ -26,8 +26,8 @@ section-id: ocwut-16-26:08.experience-and-qualifications-of-the-management-team
 section-order: 16
 section-path: Section 3 | Experience and Qualifications of the Firm and Management Team › EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM
 doc-order: 123
-volatility: people
-review-due: 2026-11-02
+volatility: corporate-figure
+review-due: 2027-05-06
 freshness-flags: []
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The opening move of a challenger management section — it converts prior individual history with the client's own facilities into a "not starting from scratch" claim, then names every Schedule 10 manager by role so the client can see the whole team at once.

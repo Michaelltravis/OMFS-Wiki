@@ -28,7 +28,7 @@ section-path: 'Section 4: Suggested Modificationsto the Scope of Work › DISCOU
 doc-order: 92
 volatility: evergreen
 review-due: 2028-09-11
-freshness-flags: [divergent-figure]
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Concrete "more than an operator" framing tied to a defined discounted-hours bank, with named example study topics (leech management, chlorate/chemical quality control) that show SME bench depth instead of generic marketing language. Also carries the reusable opening paragraph for an entire suggested-modifications section.
 reuse-notes: The opening paragraph is reusable as a general opener for any "Suggested Modifications to the Scope of Work" section — swap in the target client's stated drivers. The 2.3 multiplier and the $250,000 Schedule B value are this pursuit's commercial position; confirm both with the commercial lead and reprice before they appear in a new proposal. The two example study topics are specific to an MBR/advanced-treatment context — substitute study topics matched to the target facility's known operational challenges.

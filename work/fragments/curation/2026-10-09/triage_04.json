@@ -1,0 +1,256 @@
+{
+ "items": [
+  {
+   "path": "wiki/win-themes/value-proposition-table-approach-impact-value.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0149",
+     "text": "45+ years (hull-wwtf-om-2026 p5 para 8, 2026) vs 40 years O&M experience (santamonica-swip-om-2025 p15 para 3, 2025); status conflict"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0150",
+     "text": "300+ facilities (hull-wwtf-om-2026 p5 para 8, 2026) vs 300 facilities (santamonica-swip-om-2025 p15 para 4, 2025); status conflict"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/value-proposition-table-approach-impact-value.md",
+     "text": "Verify the credibility-banner statistics (45+ years, 300+ facilities) are current before reuse."
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The divergent-figure flag is not a contradiction of this block: its 45+ years and 300+ facilities come from the newer source (Hull, 2026-04-02) and the conflicting values are from the older Santa Monica proposal (2025-09-12), so update-figure does not apply. The banner is a firm-wide corporate scale claim, now 10 days overdue, and the reuse-notes explicitly require a currency check. Maintainer should confirm with the corporate O&M account team that 45+ years of O&M experience and 300+ facilities are still the approved figures, then run curate.py verify. The table rows hold no named people (volatility people is a classifier artefact).",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "people",
+   "rank": 48
+  },
+  {
+   "path": "wiki/win-themes/leadership-team-and-coordinated-operations-narrative.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/leadership-team-and-coordinated-operations-narrative.md",
+     "text": "Replace every named individual with the actual proposed team and their real roles; confirm \"OneWater\" is still the current firm-wide integrated-water methodology name before reuse"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/proposed-team-roster-hull-wwtf-om-2026.md",
+     "text": "Nathan Callison, CRL, CMRT | Project Manager; Scott Mangold, CRL | Regional Operations Manager; Anthony \"Tony\" Rose | Assistant Project Manager"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0143",
+     "text": "10000 residents (2026) hull-wwtf-om-2026 p5 para 6; status single-source"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Named-leadership narrative with no flags and no contradiction in the bank: the three names and roles match the Hull roster and resume blocks (all from the 2026-04-02 proposal, the newest source naming them). It is overdue only because people-type facts age. Confirm with the account team that Nathan Callison (PM), Scott Mangold (Regional Operations Manager) and Tony Rose (Assistant PM) still hold those roles on the Hull contract, that OneWater is still the current firm-wide approach name, and the ~10,000 year-round resident figure (PP-0143); then run curate.py verify.",
+   "flags": [],
+   "owner": "Michael Travis",
+   "volatility": "people",
+   "rank": 49
+  },
+  {
+   "path": "wiki/past-performance/project-waterbury-ct.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0032",
+     "text": "310 miles (hull-wwtf-om-2026 p76 para 4, 2026) vs 27 MGD / 320 miles / 20 pumping stations (hull-wwtf-om-2026 p13 para 3, client-references block); the conflict is between other blocks, not a different value for this one"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0827",
+     "text": "27 MGD / 320 mi / 20 pump stations (ocwut-16-26 p79 para 1) vs 48 miles (hull-wwtf-om-2026 p71 para 8); this block's own page p169 states approximately 310 miles"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-waterbury-ct.md",
+     "text": "Confirm current client contact, dates, scope, and outcomes before external use"
+    },
+    {
+     "kind": "dedupe",
+     "ref": "wiki/past-performance/project-waterbury-ct-odor-control-and-results.md",
+     "text": "Companion block carries the odor and results half of the same reference (p169 para 10 to p170); complementary, not a subset"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Reference block with a named client contact (Michael LeBlanc, Director of Finance/Water Pollution Control, 203.574.6840 x7059) and an open-ended 'November 2018 - Ongoing' contract, so verify (references are never archived for age). The PP-0032/0035/0042/0043/0046 conflicts are formatting variants or involve the client-references and resume blocks (PP-0032: 310 vs 320 miles); this block's 310 mi, 27 MGD, $25M, $12.7M and Nov 2018 values are not contradicted by any newer-dated source, and the companion odor block is complementary, so no merge. Confirm: LeBlanc's title and contact details; that the contract is still active (10-year term from Nov 2018); 310 vs 320 miles of sewer (the bank also carries 320 in the client-references block and ocwut p79 text); and that the 38-MGD WFP contract (awarded July 2023) is in force.",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "reference",
+   "rank": 50
+  },
+  {
+   "path": "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0042",
+     "text": "12.7 million USD (hull-wwtf-om-2026 p76 para 3) and up to 12700000 USD (hull-wwtf-om-2026 p15 para 2); same value, conflict is formatting only"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0045",
+     "text": "<54 MGD wet weather (hull-wwtf-om-2026 p76 para 7, 2026-04-02); also conflicts with PP-0034"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/ocwut-16-26/pages/p0169.md#¶21",
+     "text": "WWTP: 27 MGD (wet weather: >54 MGD) -- ocwut-16-26 (2026-05-06), newer than the Hull source, not registered as a row"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The flagged conflicts (PP-0032, PP-0035, PP-0042) are the same values written differently and do not involve a different figure for this block; the narrative is an evergreen sanitized sibling of the Waterbury reference, so a plain keep is nearly right. One real discrepancy remains: the block says wet-weather flow capacity 'below 54 MGD' (Hull p76, 2026-04-02) while the later OCWUT proposal (2026-05-06) says '>54 MGD'; no registry row holds the newer value, so update-figure is not available. Ask the Waterbury account team which is correct, plus 310 vs 320 miles of sewer and whether the $25M phosphorus upgrade / tertiary filters ('under construction at the time of writing') are now complete; then run curate.py verify.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 51
+  },
+  {
+   "path": "wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md",
+     "text": "Reconfirm contacts, dates, award years, status, and figures before external use."
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0097",
+     "text": "32 MGD (hull-wwtf-om-2026 p82 para 3, 2026) -- consistent with this block's 32 MGD; PP-0359 also 32 MGD (santamonica-swip-om-2025 p15 para 4)"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/similar-facilities-table.md",
+     "text": "County of Pima - Agua Nueva Reclamation Facility | AZ | 15 Years, 5 Months | 10/10/2010"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Verbatim reference block with an open-ended 'October 2010 - Ongoing' DBO contract and a named client contact, so verify (references are never archived for age). The bank corroborates the 32 MGD capacity and the 10/10/2010 start date; nothing contradicts the block and no newer-dated value exists. Confirm with the Pima County account team: Jeff Prevatt's title, phone numbers and email; that the O&M contract is still ongoing; and that the $77M under-budget / 8-months-ahead outcomes and 20% energy-cost reduction (PP-1399, PP-1400) are still approved for external use.",
+   "flags": [
+    "open-ended-date"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "reference",
+   "rank": 52
+  },
+  {
+   "path": "wiki/past-performance/project-jackson-jxn-water-om.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-jackson-jxn-water-om.md",
+     "text": "Confirm client contacts, contract status, personnel, and scope before external use."
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0705",
+     "text": "99 pump stations (ocwut-16-26 p6 para 2, 2026) -- matches this block; PP-0851 also 99, whereas PP-0797 says 98 lift stations (ocwut-16-26 p77 para 1)"
+    },
+    {
+     "kind": "dedupe",
+     "ref": "wiki/past-performance/project-jackson-jxn-water-turnaround-results.md",
+     "text": "Companion block carries the results half (p168); complementary, not a subset"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Reference block for an EPA-appointed interim third-party manager arrangement: the contact (Ted Henifin, Interim Third-Party Manager, JXN Water) and the open-ended '2022 - Ongoing' status are exactly the facts that go stale, and the ITPM structure is itself time-limited. The bank agrees on system scale (99 pump stations, 65 MGD WWTPs) and nothing is contradicted, so verify. Confirm: Henifin's current role and contact; that the JXN Water contract is still active; the ten-person relevant-personnel list and roles; and 99 vs 98 pump/lift stations (PP-0797 sits in a different block). The companion results block is complementary, so no merge.",
+   "flags": [
+    "open-ended-date"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "reference",
+   "rank": 53
+  },
+  {
+   "path": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+     "text": "This is a graphic, not body prose. Rebuild it from the target client's actual project history pulled from the account record"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+     "text": "Two engagements are flagged as continuing rather than completed -- Enterprise SCADA Application Support Services (2018 to present) and Program Management Office Support (2020 to present)"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive: the 'to present' dates are part of the described exhibit device, which the reuse-notes say must be rebuilt per pursuit from the target client's own history. The block is evergreen (review due 2029-05-05) and carries no figures a writer would copy forward.",
+   "flags": [
+    "open-ended-date"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 54
+  },
+  {
+   "path": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0464",
+     "text": "300000 USD embedded value (santamonica-swip-om-2025 p57 para 7) and 300000 USD over 5 years (p45 para 5) -- same value, status conflict is phrasing only"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0514",
+     "text": "55001 ISO standard number (p57 para 3) vs ISO 55001 standard (p11 para 6) -- same standard, phrasing only"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+     "text": "Named individuals (Mack Mckenzie, Graham Knowles, Richard Gwinn) are kept verbatim per wiki policy on staff names -- replace with the pursuing team's assigned staff."
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0520",
+     "text": "1000000 assets with condition assessments completed (santamonica-swip-om-2025 p59 para 3, 2025); single-source"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Both divergent-figure conflicts are the same value stated two ways, so the block's figures are not in question and nothing newer supersedes them. The MMSD 10-box blocks (2026-01-30) are client-specific, split by elements and built around a different tool (NEXGEN EAM), so they do not replace this block, which is the only SWIP-origin full 10-Box methodology. It is 212 days overdue because it holds people and single-source corporate stats from the 2025-09-12 proposal. Confirm: Mack Mckenzie (CPO), Graham Knowles (Asset Management Support Lead; still named in later MMSD/OCWUT rosters) and Richard Gwinn roles; the 1-million-asset condition-assessment statistic (PP-0520); and the $300,000 embedded-value figure for the ISO 55001 program; then run curate.py verify.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "people",
+   "rank": 60
+  }
+ ]
+}

@@ -28,7 +28,7 @@ section-path: Section 5 - Project Understanding and Technical Approach › PROJE
 doc-order: 34
 volatility: evergreen
 review-due: 2029-04-01
-freshness-flags: [divergent-figure]
+freshness-flags: []
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: The section-opening device that grounds the entire technical approach in the client's own stated goals — an 8-row table mapping each client goal to its key challenge and the operator's specific response, cross-referencing nearly every other technical-approach and compliance-plan block in this wiki. Highly reusable structure for any O&M pursuit's Section 5 opener.
 reuse-notes: The 8 goal categories and their challenge/response content are drawn directly from this client's stated RFP objectives — confirm they match the target RFP's actual stated priorities before reuse. The 3-column crosswalk structure (Goal/Requirement | Key Challenges | How We Will Deliver Results) and the practice of opening Section 5 with it are fully reusable regardless of facility size or region.

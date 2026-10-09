@@ -73,7 +73,9 @@ PHONE_RE = re.compile(r"(?<!\d)\(?\d{3}\)?[-.\s]\d{3}[-.\s]\d{4}(?!\d)")
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 SAFETY_RE = re.compile(r"\b(TRIR|EMR|DART|LTIR|RIR|TRR)\b|\b(lost[- ]time|recordable incident|recordable injur)", re.IGNORECASE)
 CORP_DOLLAR_RE = re.compile(r"\$\s?\d+(?:\.\d+)?\s?(?:B\b|billion)", re.IGNORECASE)
-CORP_SCALE_RE = re.compile(r"\b(\d[\d,]*\+?)\s+(employees|professionals|staff members|people worldwide|offices|countries)\b", re.IGNORECASE)
+CORP_SCALE_RE = re.compile(r"\b(\d[\d,]*\+?)\s+(employees|professionals|staff members|staff|personnel|team members|"
+                           r"people worldwide|offices|locations|countries)\b|"
+                           r"\b(renewal rate|retention rate|ENR\b|Fortune 500|Engineering News-Record)", re.IGNORECASE)
 REG_RE = re.compile(r"\b(legislation|house bill|senate bill|[HS]B\s?\d{2,5}|rulemaking|proposed rule|"
                     r"PFAS (?:limit|rule|MCL|regulation)|effective (?:date )?(?:of )?20\d\d|regulatory change|"
                     r"new (?:federal|state) (?:rule|requirement|regulation))", re.IGNORECASE)
@@ -84,6 +86,47 @@ RESUME_TITLE_PREFIX_RE = re.compile(r"^\s*(?:Resume|Résumé)\s*[—–-]\s*", r
 PP_RE = re.compile(r"\bPP-\d{4}\b")
 
 CORPORATE_FAMILIES = {"corporate-revenue", "global-employee-count", "corporate-bonding-capacity"}
+
+
+NUM_RE = re.compile(r"[-+]?\d[\d,]*(?:\.\d+)?")
+
+
+def num_of(s) -> float | None:
+    """'~$5.04M' -> 5.04; '1,300' -> 1300; '99.98%' -> 99.98; ranges and words -> None."""
+    t = str(s or "").strip().replace("~", "").replace("+", "").replace(">", "").replace("<", "")
+    if re.search(r"\d\s*[–-]\s*\d", t):  # a range, not a value
+        return None
+    m = NUM_RE.search(t)
+    if not m:
+        return None
+    try:
+        return float(m.group(0).replace(",", ""))
+    except ValueError:
+        return None
+
+
+def same_value(a, b) -> bool:
+    """Equal after formatting, or one is the other rounded to its own precision
+    (5 vs 5.04, 700 vs 712 → same; 99.8 vs 99.98, 42 vs 40 → different)."""
+    x, y = num_of(a), num_of(b)
+    if x is None or y is None:
+        return re.sub(r"[^0-9a-z.]", "", str(a).lower()) == re.sub(r"[^0-9a-z.]", "", str(b).lower())
+    if x == y:
+        return True
+    for p, q in ((x, y), (y, x)):
+        digits = len(re.sub(r"[^0-9]", "", str(q).rstrip("0").rstrip(".")) or "0")
+        digits = max(1, min(digits, 6))
+        if q != 0 and float(f"{p:.{digits}g}") == float(f"{q:.{digits}g}"):
+            return True
+    return False
+
+
+def distinct_values(values) -> list:
+    out = []
+    for v in values:
+        if not any(same_value(v, o) for o in out):
+            out.append(v)
+    return out
 
 
 def iso(v) -> str:
@@ -272,14 +315,23 @@ class Freshness:
             row = self.registry.get(pid)
             if not row:
                 continue
+            vals = row.get("values", [])
             if row.get("status") == "conflict":
-                conflicts.append(pid)
+                # a real divergence: more than one value after formatting/rounding equivalence,
+                # and the block's own source is involved (or the block's source disagrees with itself)
+                mine_vals = [v.get("number") for v in vals if v.get("source_slug") == src]
+                all_distinct = distinct_values([v.get("number") for v in vals])
+                mine_distinct = distinct_values(mine_vals)
+                others_differ = any(not any(same_value(v.get("number"), m) for m in mine_vals)
+                                    for v in vals if v.get("source_slug") != src) if mine_vals else False
+                if len(all_distinct) > 1 and (len(mine_distinct) > 1 or others_differ):
+                    conflicts.append(pid)
             if my_date:
-                mine = {str(v.get("number")) for v in row.get("values", []) if v.get("source_slug") == src}
-                for v in row.get("values", []):
+                mine = [str(v.get("number")) for v in vals if v.get("source_slug") == src]
+                for v in vals:
                     od = self.source_date(v.get("source_slug"))
-                    if od and od > my_date and str(v.get("number")) not in mine and mine:
-                        newer.append(f"{pid}: {src} says {', '.join(sorted(mine))}; {v.get('source_slug')} "
+                    if od and od > my_date and mine and not any(same_value(v.get("number"), m) for m in mine):
+                        newer.append(f"{pid}: {src} says {', '.join(sorted(set(mine)))}; {v.get('source_slug')} "
                                      f"({od.isoformat()}) says {v.get('number')} {v.get('unit') or ''}".strip())
                         break
         if conflicts:

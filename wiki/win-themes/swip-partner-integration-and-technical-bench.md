@@ -28,7 +28,7 @@ section-path: Executive Summary › OUR ROLE—AN EXTENSION OF CITY STAFF
 doc-order: 6
 volatility: people
 review-due: 2026-03-11
-freshness-flags: [divergent-figure]
+freshness-flags: []
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Three short, stackable passages that answer the three questions every O&M partnership narrative has to answer — how you will behave day to day, what happens when a problem exceeds routine O&M, and what makes you more than a pure operator — with the middle answer quantified as a specific annual hour commitment instead of a vague "backed by our national network" claim.
 reuse-notes: The 1,300 annual support hours is this pursuit's actual offer and must be resized to the real value-added package proposed; the named single point of contact must be the person actually assigned; the interlocking puzzle graphic's client-side label must be reset to the client entity type (the Authority, the District, the Utility).

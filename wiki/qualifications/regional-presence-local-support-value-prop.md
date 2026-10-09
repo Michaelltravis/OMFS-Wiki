@@ -26,8 +26,8 @@ section-id: hull-wwtf-om-2026:03.robust-regional-resources
 section-order: 4
 section-path: Section 3 - Firm Qualifications and Experience › TECHNICAL QUALIFICATIONS › YEARS OF EXPERIENCE PROVIDING O&M SERVICES FOR WASTEWATER FACILITIES › Robust Regional Resources
 doc-order: 15
-volatility: evergreen
-review-due: 2029-04-01
+volatility: corporate-figure
+review-due: 2027-04-02
 freshness-flags: [divergent-figure]
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Converts "we have local offices" into a differentiated value proposition — ties physical and staffing proximity directly to named regulatory relationships, coastal and community-sensitive operating conditions, and a "one fully integrated team" concept, then lands the 98% contract renewal rate as evidence that the model holds up over time.

@@ -725,9 +725,7 @@
     "doc-order": 54,
     "volatility": "evergreen",
     "review-due": "2029-04-01",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Complete, self-consistent asset-management narrative spanning the client's asset environment, platform strategy, workflow, self-performance model, regional maintenance bench, and capital-planning linkage \u2014 with an explicit incumbent-displacement framing (\"visible change\" from reactive to planned)",
     "reuse-notes": "Replace the facility inventory specifics (3.07 MGD, seven pump stations, the stormwater station, roughly 42 miles of main, the low-pressure grinder system) and the named CMMS/EAM platforms with the target client's actual environment; swap the Traverse City and Waterbury maintenance proof points for permissioned, region-appropriate examples; confirm the 90-day baseline-condition-assessment commitment against the target contract.",
@@ -4967,8 +4965,8 @@
     "section-order": 9,
     "section-path": "Section 2 | Operations & Maintenance Plan \u203a 2.5 | Project Understanding, Approach to Achieving the County's Goals, and Successful Experience at Other Locations \u203a 4. Comprehensive support for every aspect of wastewater operations",
     "doc-order": 22,
-    "volatility": "evergreen",
-    "review-due": "2028-04-17",
+    "volatility": "corporate-figure",
+    "review-due": "2026-04-18",
     "freshness-flags": [],
     "context": "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.",
     "quality": "Source-prose employee-satisfaction and external-recognition evidence supporting the workforce proposition.",
@@ -11292,9 +11290,7 @@
     "doc-order": 112,
     "volatility": "evergreen",
     "review-due": "2029-01-29",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Midwest US regional sewerage district, two large water reclamation facilities (Jones Island and South Shore) plus biosolids production, RFP P-3216, 2028 challenger bid vs. incumbent operator; WDNR",
     "quality": "The sharpest challenger passage in this section \u2014 it names a persistent settleability problem that has caused effluent violations, credits the client's own upgrade, quotes the client's design documentation against the assumption that the upgrade alone is sufficient, then offers three specific technologies with quantified capacity gains (10-15% from two-pass step feed, up to 40% from MBAS). Proprietary MBAS (Jacobs/Nuvoda) is a genuine differentiator.",
     "reuse-notes": "The capacity-gain percentages are facility-specific screening-level estimates and must be re-derived against the pursuit's basin geometry, loading, and blower capacity before restating; confirm MBAS and hydrocyclone applicability with the technology leads; keep the pattern of crediting the client's existing investment before proposing more.",
@@ -18327,9 +18323,7 @@
     "doc-order": 34,
     "volatility": "evergreen",
     "review-due": "2029-04-01",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The section-opening device that grounds the entire technical approach in the client's own stated goals \u2014 an 8-row table mapping each client goal to its key challenge and the operator's specific response, cross-referencing nearly every other technical-approach and compliance-plan block in this wiki. Highly reusable structure for any O&M pursuit's Section 5 opener.",
     "reuse-notes": "The 8 goal categories and their challenge/response content are drawn directly from this client's stated RFP objectives \u2014 confirm they match the target RFP's actual stated priorities before reuse. The 3-column crosswalk structure (Goal/Requirement | Key Challenges | How We Will Deliver Results) and the practice of opening Section 5 with it are fully reusable regardless of facility size or region.",
@@ -18596,9 +18590,7 @@
     "doc-order": 87,
     "volatility": "evergreen",
     "review-due": "2029-04-01",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement \u2014 vendor case study carried as a proposal appendix to substantiate a smart-sewer value-add",
     "quality": "The strongest proof in the SmartCover appendix \u2014 a named utility, a dated acquisition, hard before/after numbers (12 annual SSOs to 0; 16 SSOs prevented in four months; 40 units grown to 196 in under two years), and a credible time-savings mechanism (12 months faster than 18-to-24-month traditional I&I methods).",
     "reuse-notes": "This is a SmartCover/Hazen-authored case study about New Jersey American Water, not a Jacobs project \u2014 attribute it as a technology case study, never as Jacobs past performance. Client and partner names (NJAW, Hazen and Sawyer) are reference names and stay verbatim. Confirm the vendor's permission and current numbers before reproducing in a live proposal.",
@@ -19015,9 +19007,7 @@
     "doc-order": 53,
     "volatility": "people",
     "review-due": "2026-03-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "A complete, ISO 55001-aligned, 10-element asset-management methodology with named roles, a CMMS workflow, hard maintenance service levels (work orders issued within 24 hours, closed within 120 days), a 1-million-asset condition-assessment proof point, and a five-technology predictive-maintenance toolkit \u2014 a comprehensive, drop-in AM methodology section.",
     "reuse-notes": "The 10-Box Model structure, CMMS workflow, service-level commitments, and predictive-maintenance technology list are firm-wide capabilities reusable near-verbatim. Named individuals (Mack Mckenzie, Graham Knowles, Richard Gwinn) are kept verbatim per wiki policy on staff names \u2014 replace with the pursuing team's assigned staff. Update the ISO 55001 value-add figure ($300,000 here) and confirm the 1-million-asset condition-assessment statistic against the proof-point registry per pursuit.",
@@ -19081,9 +19071,7 @@
     "doc-order": 52,
     "volatility": "evergreen",
     "review-due": "2028-09-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Shows how to frame an asset-management response around meeting the client where they are on the AM maturity journey while offering concrete no-cost value-adds (a named deragger technology, a dedicated shared regional technician) with quantified embedded value ($75,000 and $170,000).",
     "reuse-notes": "The named technology (AquaDNA Deragger, a Jacobs-owned tool) is not client-identifying and is kept verbatim. The $75,000 and $170,000 embedded-value figures are value-add claims, not fee or rate data \u2014 verify current tool availability and value before offering. Named role Graham Knowles (Director of Asset Management for O&M) is kept verbatim per wiki policy on staff names; substitute the pursuing team's actual assigned staff.",
@@ -19585,9 +19573,7 @@
     "doc-order": 92,
     "volatility": "evergreen",
     "review-due": "2028-09-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Concrete \"more than an operator\" framing tied to a defined discounted-hours bank, with named example study topics (leech management, chlorate/chemical quality control) that show SME bench depth instead of generic marketing language. Also carries the reusable opening paragraph for an entire suggested-modifications section.",
     "reuse-notes": "The opening paragraph is reusable as a general opener for any \"Suggested Modifications to the Scope of Work\" section \u2014 swap in the target client's stated drivers. The 2.3 multiplier and the $250,000 Schedule B value are this pursuit's commercial position; confirm both with the commercial lead and reprice before they appear in a new proposal. The two example study topics are specific to an MBR/advanced-treatment context \u2014 substitute study topics matched to the target facility's known operational challenges.",
@@ -19863,9 +19849,7 @@
     "doc-order": 29,
     "volatility": "evergreen",
     "review-due": "2028-09-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement \u2014 multi-facility potable reuse program including an advanced water treatment facility, stormwater diversion/pump assets, an urban runoff recycling facility, groundwater replenishment reuse project (GRRP) injection wells, and an interface with an adjacent municipal water treatment plant",
     "quality": "A section-opening device that grounds the technical approach in the client's own facility-by-facility conditions rather than generic O&M language \u2014 the 3-column table format (Understanding of Goals | Key Current/Future Challenges | Jacobs' Strategies) scales cleanly across a multi-facility, multi-technology reuse portfolio (MBR, RO, UV-AOP, SCADA/OT, stormwater assets, injection wells) and reads as evidence the team did real due-diligence fieldwork before writing.",
     "reuse-notes": "The specific facility list, equipment (PLC models, server hardware, SCADA platform), and named challenges are drawn from this pursuit's actual site visits and RFP/scope documents \u2014 do not reuse the specific challenge language for a different pursuit's facilities. The narrative opener (decades of comparable-scale experience, due-diligence site visits, talking with client staff) and the 3-column per-facility matrix structure are fully reusable for any multi-facility O&M pursuit.",
@@ -19933,9 +19917,7 @@
     "doc-order": 30,
     "volatility": "evergreen",
     "review-due": "2028-09-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "The opening move of a winning technical approach \u2014 an italic commitment paragraph naming 24/7 compliance and the exact technology stack, followed by four paragraphs that prove the team did real due diligence (site visits, staff conversations, RFP/scope/draft-agreement review) and that flatter the client's pioneering achievements before proposing anything. Sets up the facility-by-facility matrix that follows.",
     "reuse-notes": "The commitment paragraph and the due-diligence paragraph are fully reusable for any multi-facility O&M pursuit \u2014 swap the technology list and the regulatory order numbers. The \"first of its kind\" facility claims belong to this pursuit's client and must be replaced with the target client's own distinctions. Keep the flattery-then-aspiration move (naming the client's next ambition and offering to help achieve it); it is a strong incumbent-displacement device.",
@@ -20594,9 +20576,7 @@
     "doc-order": 33,
     "volatility": "evergreen",
     "review-due": "2028-09-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement \u2014 advanced water treatment facility with MBR/RO/UV-AOP train",
     "quality": "Names a proprietary companywide framework (CPCS) and pairs it with six concrete, named tools (UPCPs, Sampling Plan, Sample Tracking Tool, Data Management/LIMS/HachWIMS, SOPs, Operator Round Sheets, Peak Flow Tests) each with an explicit client benefit statement \u2014 a strong template for demonstrating \"not just a philosophy, an actual tool stack.\"",
     "reuse-notes": "The CPCS name, all six tool descriptions, and their benefit framing are fully generic and reusable across any water/wastewater O&M pursuit. The peak-flow-test cadence (monthly, one-hour at design peak) is specific to membrane-train facilities; adapt for non-membrane process trains.",
@@ -21318,9 +21298,7 @@
     "doc-order": 25,
     "volatility": "people",
     "review-due": "2026-09-29",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Clean articulation of a two-tier staffing model (dedicated on-site team backed by an off-site regional/technical bench) with a clear line-of-authority narrative \u2014 reusable as the framing for any org-chart section, independent of facility size.",
     "reuse-notes": "FTE counts, role titles, and the reporting line into the client's Director of Wastewater Operations are pursuit-specific; the two-tier framing (dedicated on-site accountability + regional technical reach-back) and the benefit language are broadly reusable.",
@@ -22652,8 +22630,8 @@
     "section-order": 3,
     "section-path": "Section 2 | Operations & Maintenance Plan \u203a 2.7 | Approach to Providing Qualified and Licensed Personnel \u203a LEADERSHIP APPROACH AND DEVELOPMENT",
     "doc-order": 43,
-    "volatility": "evergreen",
-    "review-due": "2028-04-17",
+    "volatility": "corporate-figure",
+    "review-due": "2026-04-18",
     "freshness-flags": [],
     "context": "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV.",
     "quality": "Personnel-development language paired with locally rooted, integrated-service positioning.",
@@ -23067,8 +23045,8 @@
     "section-path": "Section 2 | Operations & Maintenance Plan \u203a 2.9 | Transition Plan with Approach and Timeline of Activities Necessary to Achieve the Commencement Date \u203a Long-Term Staffing/Succession Planning Practices",
     "section-order": 13,
     "doc-order": 121,
-    "volatility": "evergreen",
-    "review-due": "2028-04-17",
+    "volatility": "corporate-figure",
+    "review-due": "2026-04-18",
     "freshness-flags": [],
     "context": "Southeast US county, three MBR WRFs + 33 pump stations, 2025, bid as JC Solutions (Jacobs/CERM JV); GA EPD",
     "quality": "Eight named advancement programs with durations and cohort sizes in one exhibit \u2014 the concrete answer to 'why would my people stay with you,' and it lands the retention argument as a client benefit (stable workforce, elevated skills) rather than an HR brochure.",
@@ -28019,8 +27997,8 @@
     "section-order": 16,
     "section-path": "Section 3 | Experience and Qualifications of the Firm and Management Team \u203a EXPERIENCE AND QUALIFICATIONS OF THE MANAGEMENT TEAM",
     "doc-order": 123,
-    "volatility": "people",
-    "review-due": "2026-11-02",
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
     "freshness-flags": [],
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.",
     "quality": "The opening move of a challenger management section \u2014 it converts prior individual history with the client's own facilities into a \"not starting from scratch\" claim, then names every Schedule 10 manager by role so the client can see the whole team at once.",
@@ -28230,8 +28208,8 @@
     "section-order": 5,
     "section-path": "Section 5 | Required Plans Submitted with the Proposal \u203a Staffing and Training Plan \u203a Staffing Approach and Facility Coverage \u203a Fewer Managers, More Doers",
     "doc-order": 167,
-    "volatility": "evergreen",
-    "review-due": "2029-05-05",
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
     "freshness-flags": [],
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.",
     "quality": "The position-by-position FTE table behind a 109-FTE multi-facility proposal, grouped by management, by plant, and by a shared maintenance pool, with subtotals that reconcile to the grand total. Evaluators can verify coverage math without a separate cost volume.",
@@ -28318,8 +28296,8 @@
     "section-order": 20,
     "section-path": "Section 3 | Experience and Qualifications of the Firm and Management Team \u203a MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL",
     "doc-order": 127,
-    "volatility": "people",
-    "review-due": "2026-11-02",
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
     "freshness-flags": [],
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.",
     "quality": "Bios that carry unusually specific scale evidence \u2014 132 professionals, a $27.4M combined budget, 126 pump stations, a 320-MGD expansion \u2014 plus a maintenance-manager bio that names the actual predictive technologies rather than claiming \"predictive maintenance\" generically.",
@@ -28596,8 +28574,8 @@
     "section-order": 18,
     "section-path": "Section 3 | Experience and Qualifications of the Firm and Management Team \u203a MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL",
     "doc-order": 125,
-    "volatility": "people",
-    "review-due": "2026-11-02",
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
     "freshness-flags": [],
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.",
     "quality": "The best example in the library of key-personnel bios written as arguments rather than resumes \u2014 each one names the role, the numbers, the directly relevant prior situation (taking over an underperforming contract, restoring compliance), and closes with a first-person quote in the individual's own voice.",
@@ -28672,8 +28650,8 @@
     "section-order": 19,
     "section-path": "Section 3 | Experience and Qualifications of the Firm and Management Team \u203a MANAGEMENT TEAM AND ADDITIONAL KEY PERSONNEL",
     "doc-order": 126,
-    "volatility": "people",
-    "review-due": "2026-11-02",
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
     "freshness-flags": [],
     "context": "Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.",
     "quality": "Two strong plant-level bios plus a QA/QC bio that answers the \"who checks the checkers\" question with named audit and DMR-review duties at prior utilities, and a compliance-recovery story (Duncan) that maps directly onto a challenger pitch.",
@@ -29655,9 +29633,7 @@
     "doc-order": 70,
     "volatility": "people",
     "review-due": "2026-03-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Detailed, technology-specific operator bios (MBR, ultrafiltration, RO, UV disinfection/UV-AOP) with named prior facilities across multiple MGD scales, plus a clear cross-training/coverage statement for off-hours and emergency response \u2014 a strong reusable pattern for advanced-treatment operator qualifications.",
     "reuse-notes": "Named individuals and their real credentials are kept verbatim per wiki policy. Note: the source document's subheading names \"Chris Catlin\" as a third Operator alongside Josh Hernandez and Christen Wood, but the third bio beneath it is for Jason Holst \u2014 this appears to be a source-document inconsistency (Chris Catlin is elsewhere named Manager of Operations, not an Operator in Charge). Flagged here for the proposal team to verify/correct before reuse; the bios below are transcribed faithfully from the source.",
@@ -29722,9 +29698,7 @@
     "doc-order": 71,
     "volatility": "people",
     "review-due": "2026-03-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Concise, credential-backed technician bios showing decades of hands-on maintenance/I&C experience plus a training/teaching credential and a state-level industry award \u2014 good differentiators for the maintenance-staffing portion of a proposal.",
     "reuse-notes": "Named individuals and their real credentials are kept verbatim per wiki policy. Swap in the actual proposed technicians' bios for a new pursuit.",
@@ -29878,8 +29852,8 @@
     "section-order": 6,
     "section-path": "Section 3: Key Personnel \u203a 3.4 SEAMLESS TRANSITION: ADMINISTRATIVE AND OPERATIONALPLAN FOR TRANSITION TO JACOBS \u203a LONG-TERM STAFFING/SUCCESSION PLANNING PRACTICES",
     "doc-order": 91,
-    "volatility": "evergreen",
-    "review-due": "2028-09-11",
+    "volatility": "corporate-figure",
+    "review-due": "2026-09-12",
     "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "A concise, well-organized eight-program catalog (Exhibit 3-6) of Jacobs' corporate staff-development and succession-planning infrastructure \u2014 useful whenever a proposal needs to show the workforce pipeline behind a transition plan, beyond the specific transition itself.",
@@ -29943,9 +29917,7 @@
     "doc-order": 68,
     "volatility": "people",
     "review-due": "2026-03-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "A clean three-tier staffing structure (named onsite team / shared local resources / named offsite regional-and-national support benches across three functional teams) with quantified summary stats (FTE counts, committed support hours) \u2014 a strong, reusable org-chart pattern with real, credentialed named individuals across every tier.",
     "reuse-notes": "All names, titles, and credentials below are real Jacobs personnel as proposed for this pursuit and are kept verbatim per wiki policy (only the pursuing client's name is genericized). Replace with the actual proposed roster for a new pursuit; the tiered structure and stat-callout format are what's reusable.",
@@ -30450,10 +30422,7 @@
     "doc-order": 36,
     "volatility": "evergreen",
     "review-due": "2028-09-11",
-    "freshness-flags": [
-      "divergent-figure",
-      "newer-source-same-claim"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "A complete workforce-development package: individualized needs assessment, a categorized training-topics catalog, 20 years of quantified annual training hours, a named eLearning platform with 36 instructional volumes, concrete certification-incentive mechanics (a six- to 12-month OIT path, AWTO cost coverage), named CMRT and CRL programs, twelve California AWTO-certified employees, and a Culture Coach program with an 80 percent participation goal.",
     "reuse-notes": "The training-topics catalog, eLearning description, certification-incentive mechanics, CMRT/CRL references, and Culture Coach program are generic and reusable. Refresh before reuse: the twelve California AWTO-certified employees figure, the more-than-300 O&M sites figure, the Newsweek Top 100 Most Loved Workplaces award year, the 2005-2024 training-hours series, and the 2023 client-survey reference. This block runs long for a single block (about 1,400 words) - split it into a training-delivery block and a certification/career-development block if a section needs only one half.",
@@ -32114,8 +32083,8 @@
     "section-order": 2,
     "section-path": "Section 1 | Executive Summary",
     "doc-order": 3,
-    "volatility": "people",
-    "review-due": "2025-10-15",
+    "volatility": "corporate-figure",
+    "review-due": "2026-04-18",
     "freshness-flags": [],
     "context": "Southeast US county wastewater O&M pursuit, bid as JC Solutions, a Jacobs/CERM JV, for three MBR wastewater facilities and associated pump stations under Georgia EPD oversight.",
     "quality": "Near-verbatim executive-summary benefit sequence that turns the JV's regulatory, technical, transition, digital, and workforce commitments into a unified client-value argument.",
@@ -32670,8 +32639,8 @@
     "section-order": 2,
     "section-path": "Executive Summary of Technical Approach \u203a A TEAM BUILT FOR THIS PROGRAM",
     "doc-order": 7,
-    "volatility": "evergreen",
-    "review-due": "2029-05-05",
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
     "freshness-flags": [
       "open-ended-date"
     ],
@@ -32876,9 +32845,7 @@
     "doc-order": 5,
     "volatility": "people",
     "review-due": "2026-09-29",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The opening and closing bookends of a winning incumbent-displacement executive summary \u2014 credits the client's own investment, reframes the real gap as leadership, communication, and proactivity rather than technical failure, grounds the pitch in hard system statistics, and closes on what selecting the firm lets the client do next",
     "reuse-notes": "The acknowledged investments and the named gap must come from actual RFP language, site-visit notes, or published client data \u2014 a \"gap\" the client never expressed reads as presumption to the evaluators who wrote the RFP. Replace every system statistic with the target facility's real figures and the named on-site leader with the actual proposed project manager. Pairs with the recipe block `exec-summary-client-readiness-framing.md`, which explains the beat structure behind this prose.",
@@ -37425,9 +37392,7 @@
     "doc-order": 75,
     "volatility": "evergreen",
     "review-due": "2029-04-01",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The strongest differentiator for pursuits where Jacobs is displacing a large incumbent operator \u2014 a quantified early-win list, savings against two forecasts, three years of permit-compliance awards, and a regulatory-driven design-build follow-on that shows both immediate operational lift and long-term technical partnership.",
     "reuse-notes": "Best used when the target facility is currently operated by a large national competitor or is facing a nutrient (nitrogen/phosphorus) consent order. Keep the savings figures \u2014 they are outcome figures, not commercial pricing \u2014 and register each in proof-points/registry.md before it appears in a draft. Replace the callout and debris-container counts with real, verifiable numbers from whichever reference project is actually being cited. The reference client, its awards, and the named incumbent are stated verbatim in past-performance/project-westerly-ri.md.",
@@ -37506,11 +37471,9 @@
     "section-order": 11,
     "section-path": "Section 7 - Appendix B - Project Descriptions \u203a 3.3 MGD",
     "doc-order": 81,
-    "volatility": "evergreen",
-    "review-due": "2029-04-01",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "volatility": "corporate-figure",
+    "review-due": "2027-04-02",
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "The strongest trust-and-durability proof point in the set \u2014 a relationship running since 1990, a noncompliant-facility turnaround that resolved enforcement actions, a greater-than-30% electrical consumption reduction after MBR optimization, and five third-party awards spanning 2004 to 2019.",
     "reuse-notes": "Use when the pursuit values long-term partnership stability and technical depth over rapid turnaround; less effective for pursuits driven primarily by dissatisfaction with a long-tenured incumbent, where the decades-of-continuity framing can read as ironic \u2014 lead with the noncompliance turnaround instead. Replace the technology (MBR) and the efficiency percentage with whatever is actually true of the project being cited. The reference client, contact, award names/years, and testimonial are stated verbatim in past-performance/project-traverse-city-mi.md.",
@@ -38073,9 +38036,7 @@
     "doc-order": 12,
     "volatility": "evergreen",
     "review-due": "2028-09-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Contains the single most quotable service-level commitment in this executive summary \u2014 repair recommendations delivered within 72 hours for large or emergency repairs, justified by warranty and asset-life protection \u2014 wrapped in an ISO 55001-aligned program that runs in the client's own CMMS rather than a proprietary system the client cannot see.",
     "reuse-notes": "The 72-hour turnaround is a real contractual commitment; confirm the operations and engineering leads can meet it for the target scope before repeating it. Name the client's actual CMMS or asset performance management platform rather than assuming Mentor APM is in place.",
@@ -38367,8 +38328,8 @@
     "section-order": 2,
     "section-path": "Executive Summary \u203a JACOBS\u2019 O&M QUALIFICATIONS FOR ADVANCED WATER TREATMENT",
     "doc-order": 4,
-    "volatility": "evergreen",
-    "review-due": "2028-09-11",
+    "volatility": "corporate-figure",
+    "review-due": "2026-09-12",
     "freshness-flags": [
       "divergent-figure",
       "newer-source-same-claim"
@@ -38521,9 +38482,7 @@
     "doc-order": 6,
     "volatility": "people",
     "review-due": "2026-03-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Three short, stackable passages that answer the three questions every O&M partnership narrative has to answer \u2014 how you will behave day to day, what happens when a problem exceeds routine O&M, and what makes you more than a pure operator \u2014 with the middle answer quantified as a specific annual hour commitment instead of a vague \"backed by our national network\" claim.",
     "reuse-notes": "The 1,300 annual support hours is this pursuit's actual offer and must be resized to the real value-added package proposed; the named single point of contact must be the person actually assigned; the interlocking puzzle graphic's client-side label must be reset to the client entity type (the Authority, the District, the Utility).",
@@ -38724,9 +38683,7 @@
     "doc-order": 11,
     "volatility": "evergreen",
     "review-due": "2028-09-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "Walks the client's asset inventory one at a time and attaches a specific, testable commitment to each \u2014 monthly peak-flow stress tests, monthly alarm testing, vac-truck cleaning every eight weeks, injection-well telemetry embedded in the plant dashboard \u2014 which is what separates an operator who has read the engineering report from one offering generic reliability language.",
     "reuse-notes": "Every commitment here is tied to a real asset in this system; rebuild the list from the target facility's own asset inventory. The frequencies (monthly stress tests, eight-week vac-truck cycle) are operational commitments the operations lead must confirm as achievable and priced before they are repeated.",
@@ -39019,8 +38976,7 @@
     "volatility": "people",
     "review-due": "2026-03-11",
     "freshness-flags": [
-      "divergent-figure",
-      "newer-source-same-claim"
+      "divergent-figure"
     ],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "The persuasive core of a winning transmittal letter \u2014 eight tightly written value bullets that each pair a named capability with the client-facing consequence, sequenced team credentials \u2192 track record \u2192 technical depth \u2192 forward-looking readiness \u2192 integrated bench \u2192 no-cost value-add \u2192 transparency \u2192 transition risk. Doubles as an executive-summary preview and as the win-theme spine for the rest of the volume.",
@@ -39519,8 +39475,6 @@
     "volatility": "people",
     "review-due": "2026-03-11",
     "freshness-flags": [
-      "divergent-figure",
-      "newer-source-same-claim",
       "open-ended-date"
     ],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
@@ -39662,9 +39616,7 @@
     "doc-order": 16,
     "volatility": "evergreen",
     "review-due": "2029-04-01",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Converts raw portfolio size into a \"well beyond the requirement\" argument by comparing Jacobs' facility, mileage, and pump-station counts directly against the RFP's minimum-experience threshold \u2014 a persuasive pattern, not a stat dump \u2014 and then bridges from scale into the operating conditions (I/I, wet weather, grease and odor, pump station reliability) the client actually worries about.",
     "reuse-notes": "Recompute the facility, client, and mileage counts from current internal data before reuse. Rebuild the \"well beyond the requirement\" sentence around the actual RFP's minimum-experience language for the new pursuit \u2014 it only lands if you can point at the specific number the RFP asked for. Swap the ~42-mile network, multiple pump stations, and low-pressure sewer descriptors for the new client's actual system configuration. The client-by-client Exhibit 3-3 table backing this narrative is captured verbatim in past-performance/client-references.md.",
@@ -42838,8 +42790,8 @@
     "section-order": 4,
     "section-path": "Section 3 - Firm Qualifications and Experience \u203a TECHNICAL QUALIFICATIONS \u203a YEARS OF EXPERIENCE PROVIDING O&M SERVICES FOR WASTEWATER FACILITIES \u203a Robust Regional Resources",
     "doc-order": 15,
-    "volatility": "evergreen",
-    "review-due": "2029-04-01",
+    "volatility": "corporate-figure",
+    "review-due": "2027-04-02",
     "freshness-flags": [
       "divergent-figure"
     ],
@@ -44233,9 +44185,7 @@
     "doc-order": 51,
     "volatility": "people",
     "review-due": "2026-09-29",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Complete emergency-response lifecycle (framework \u2192 storm identification and advance preparation \u2192 high-flow operations \u2192 post-storm recovery) with hard response commitments (24-hour line, response begins within 20 minutes) and a concrete, dated collection-system emergency proof point",
     "reuse-notes": "Replace the named coordination contact (Nathan Callison) and the client-side Emergency Management Director reference with the proposed team's actual names and roles; confirm the 20-minute response commitment against the target RFP's stated expectation; replace the Waterbury, CT case study if that reference project already appears elsewhere in the same proposal, and confirm it remains permissioned.",
@@ -45770,9 +45720,7 @@
     "doc-order": 50,
     "volatility": "safety-stat",
     "review-due": "2027-04-02",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement",
     "quality": "Combines quantified corporate safety proof points (5-year RIR and LTIR against BLS industry averages, EMR below 1.0) with a concrete, checklist-style site-specific safety, security, and OT-cybersecurity plan and a dated 30-day submission commitment",
     "reuse-notes": "Refresh the BLS benchmark year range (2018-2022 here) and the RIR/LTIR statistics from current corporate safety data before reuse; rewrite the physical-security-findings paragraph from an actual site walk of the target facility rather than reusing the perimeter-fencing observation; confirm the 30-day plan submission commitment matches the target RFP.",
@@ -54472,9 +54420,7 @@
     "doc-order": 84,
     "volatility": "people",
     "review-due": "2026-03-11",
-    "freshness-flags": [
-      "divergent-figure"
-    ],
+    "freshness-flags": [],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",
     "quality": "30+ year facility maintenance veteran with deep CMMS breadth (Maximo, Infor EAM, Maintenance Connection; 20+ years of CMMS experience) and a distinctive non-water background (theme-park ride-control systems, international task force) that demonstrates transferable high-reliability maintenance discipline.",
     "reuse-notes": "Verbatim - resumes are not sanitized per CLAUDE.md. Useful for maintenance-management sections needing CMMS depth and predictive-maintenance program experience; his water/wastewater-specific tenure (Jacobs, 1 year) is comparatively short relative to his total facility-maintenance experience, so pair him with a water-sector-tenured colleague where the RFP weights direct water years heavily.",
@@ -55968,8 +55914,8 @@
     "section-order": 3,
     "section-path": "Section 4 | Relevant Project Experience \u203a JACOBS WASTEWATER ENGINEERING AND MBR EXPERIENCE",
     "doc-order": 147,
-    "volatility": "project-outcome",
-    "review-due": "2027-04-18",
+    "volatility": "corporate-figure",
+    "review-due": "2026-04-18",
     "freshness-flags": [],
     "context": "MBR operating experience, engineering support, and named technical-resource profile presented in a Southeast county wastewater O&M pursuit.",
     "quality": "Detailed, source-verbatim account of operating plants designed by others, technical communities, regional design support, and a named MBR subject-matter expert.",
@@ -56673,8 +56619,8 @@
     "section-order": 1,
     "section-path": "Section 7 | Projects and References",
     "doc-order": 212,
-    "volatility": "people",
-    "review-due": "2026-11-02",
+    "volatility": "corporate-figure",
+    "review-due": "2027-05-06",
     "freshness-flags": [
       "open-ended-date"
     ],
@@ -57718,7 +57664,6 @@
     "volatility": "reference",
     "review-due": "2026-11-02",
     "freshness-flags": [
-      "divergent-figure",
       "open-ended-date"
     ],
     "context": "Verbatim municipal water and wastewater O&M reference.",
@@ -57905,7 +57850,6 @@
     "volatility": "project-outcome",
     "review-due": "2027-09-12",
     "freshness-flags": [
-      "divergent-figure",
       "open-ended-date"
     ],
     "context": "Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement",

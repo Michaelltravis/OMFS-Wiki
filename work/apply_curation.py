@@ -18,7 +18,9 @@ Item actions (from work/curation/queue.json) → what is written:
   archive         curate.act_archive(path, reason=rationale, superseded_by=target)
   supersede-with  curate.act_supersede(loser=path, winner=target)
   merge-into      same as supersede-with, plus a TODO line in the summary (bodies are never merged here)
-  verify / keep   curate.act_verify(path): last-verified = today, verified-by = NAME
+  verify          curate.act_verify(path): last-verified = today, verified-by = NAME — ticking it asserts
+                  the maintainer confirmed the facts the item names
+  keep            log only (the flag was judged a false positive; nothing on the block changes)
   update-figure   NO body edit; logged as feedback-resolved and left flagged — the figure change
                   is a writer's job, listed in the summary
 
@@ -117,8 +119,10 @@ def main():
                 p, e = curate.act_supersede(path, target, reason=reason, by=args.by, all_fm=all_fm, by_stem=by_stem)
                 if action == "merge-into":
                     todo.append(f"{cid}: merge the body of {path} into {target} (writer task; frontmatter done)")
-            elif action in ("verify", "keep"):
+            elif action == "verify":
                 p, e = curate.act_verify(path, args.by, today, all_fm=all_fm, by_stem=by_stem)
+            elif action == "keep":
+                p, e = [], [{"by": args.by, "action": "keep", "path": path, "to": "", "reason": f"{cid}: {reason}"}]
             elif action == "update-figure":
                 p, e = [], [{"by": args.by, "action": "update-figure-approved", "path": path, "to": target or "",
                              "reason": f"{cid}: {it.get('proposed_value') or ''} — body edit pending"}]

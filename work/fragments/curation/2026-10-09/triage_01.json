@@ -1,0 +1,279 @@
+{
+ "items": [
+  {
+   "path": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0135",
+     "text": "Hull: duration of the Initial Transition phase - 30 days (hull-wwtf-om-2026 p99 para3); 1-30 days (hull-wwtf-om-2026 p46 para12)"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0099.md",
+     "text": "Initial Transition (30 days starting July 1st)"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+     "text": "Initial Transition (Days 1-30), and Extended Transition (Days 31-120)"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. PP-0135's two values are the same fact worded differently (30 days = Days 1-30) within one source; the block's own figure is not in question. Block is evergreen and review-due 2029-04-01. The reuse-notes item (confirm West Basin/JXN quotes still permissioned) is already tracked in the block.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 1
+  },
+  {
+   "path": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0153",
+     "text": "5000000 USD (stated as '$5 million') (hull p8 para7); 5040000 USD (hull p51 para2)"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+     "text": "Initiative table sums 4,450,000 + 350,000 + 100,000 + 80,000 + 60,000 = 5,040,000; headline stated as '$5 million'"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0128",
+     "text": "up to 12 months (p8 para15); 12 months sooner (p34 para19); 12 months sooner (up to) (p92 para11) - same figure, wording only"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0160",
+     "text": "up to 19 percent (p8 para6); 19 percent savings (up to) (p51 para2) - same figure"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. All three conflicts are same-source rounding or wording differences ($5M headline vs $5.04M exact total in the compliance-plans twin value-added-innovations-no-additional-cost.md; 12 months; 19%). Block is the exec-summary rounded presentation and is internally consistent. Writers should pick one form per draft; reuse-notes already says to rebuild every figure for the target pursuit.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 2
+  },
+  {
+   "path": "wiki/win-themes/swip-value-added-offerings-package.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0461",
+     "text": "Total value of value-added offerings over five years: 4100000 USD (p45 para5); 4,100,000 USD (p13 para3) - formatting-only conflict"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0471",
+     "text": "35000 USD over 5 years (p45 para5); 34000 USD embedded value (p68 para10); 35,000 USD value (p13 para3) - this block's $35,000 matches p45"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/win-themes/swip-value-added-offerings-package.md",
+     "text": "Ten line items sum to $4,095,000 against the $4.1M headline"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. PP-0461..0471 are flagged only because the same dollar values are written two ways within one source (4100000 vs 4,100,000). The one real mismatch (PP-0471 cybersecurity survey, $34K at p68 in swip-scada-ic-cybersecurity-approach.md) sits in a different block; this block's $35,000 agrees with p13 and p45. Possible follow-up on that other block, not this one.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 3
+  },
+  {
+   "path": "wiki/compliance-plans/swip-emergency-response-regional-resources.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/compliance-plans/swip-emergency-response-regional-resources.md",
+     "text": "Confirm current FEMA contractor status and quote permission before reuse."
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/management-staffing/key-personnel-role-descriptions.md",
+     "text": "Kevin Dahl, PE, CRL, CMRT - Regional Director of Operations (this block says 'Regional Director'; fulton-team-organization-and-key-personnel.md says 'Executive Director of Operations'; mmsd-dual-management-leadership-model.md says 'Project Manager')"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0545",
+     "text": "Jacobs staff, including Regional Director Kevin Dahl, mobilized at the request of the City of Waterbury, CT during a water supply emergency (2019; santamonica-swip-om-2025 p67 para6)"
+    },
+    {
+     "kind": "block",
+     "ref": "testimonials/inventory.md",
+     "text": "TM-0018 Gilbert Davidson, Town Manager, Town of Prescott Valley, AZ - letter quoted in this block; permission column unknown"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Volatility people, 212 days overdue (basis is the 2025-09-12 proposal date; interval lapsed 2026-03-11). Nothing in the bank contradicts the facts, so verify rather than update. Confirm with the account team: (1) Jacobs is still a certified FEMA Disaster Response and Recovery contractor; (2) Kevin Dahl's current title/role (the bank shows four different titles); (3) Gilbert Davidson is still Prescott Valley Town Manager and the quoted letter may be reused (TM-0018); (4) the 2019 Waterbury water-supply-emergency support attribution. Then run curate.py verify.",
+   "flags": [],
+   "owner": "Michael Travis",
+   "volatility": "people",
+   "rank": 5
+  },
+  {
+   "path": "wiki/technical-approach/collection-system-om-program.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0304",
+     "text": "Jacobs O&M tenure at the City of Auburn, CA - 32 years (hull-wwtf-om-2026 p34 para10, 2026-04-02); 33 years (santamonica-swip-om-2025 p15 para9 and p7 para2, 2025-09-12)"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0034.md",
+     "text": "For the past 32 years, Jacobs has been our contract operator for the City of Auburn's Wastewater Treatment Plant and Collections System ... every year since 2012"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/collection-system-om-program.md",
+     "text": "The Auburn, CA testimonial requires the quoted individual's current permission before reuse."
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0128",
+     "text": "12 months sooner / up to 12 months - same figure, wording only (not a real conflict)"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Two flags are false positives: open-ended-date ('since 2012') is award-streak language inside a client quote, not a Present-dated claim, and PP-0128 is wording only. PP-0304 is a real inconsistency touching this block: Auburn tenure is 32 years (client quote, newer Hull source) vs 33 years (Jacobs' own map in the older SWIP proposal). The newer source is the lower number and is a verbatim client quote that cannot be edited, so this is not update-figure; confirm the actual Auburn start year and quote permission with the account team, then run curate.py verify. Also confirm SmartCover/SL-RAT/WATS vendor names are still current (per reuse-notes).",
+   "flags": [
+    "open-ended-date: false positive (award streak inside a client quote)",
+    "divergent-figure: PP-0304 real; PP-0128 wording only"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 6
+  },
+  {
+   "path": "wiki/past-performance/project-westerly-ri.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-westerly-ri.md",
+     "text": "QC before external use: confirm Max Sposato is still Utilities Director and the phone/email are current ... reconfirm the $500,000 / $250,000 savings figures ... and the $2.4M annual project fee with the account team."
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/project-westerly-ri.md",
+     "text": "Owner Contact: Max Sposato, Utilities Director, T: 401.348.2561, E: msposato@westerlyri.gov; Years of Service: July 2017 to Present"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0058",
+     "text": "Westerly annual project fee - 2.4 million USD per year (p77 para17); 2400000 USD/year (p15 para2) - formatting-only conflict"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/client-references.md",
+     "text": "Westerly WWTP ... Owner Contact: Max Sposato, Utilities Director | 401.348.2561 | msposato@westerlyri.gov (same contact in the p15 table)"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "Reference block, 10 days overdue, contact unverified since 2026-04-02; never archive for age. All divergent-figure rows (PP-0049/0050/0052/0055/0057/0058) are formatting-only duplicates of the same value in the p15 reference table. The listed competitors (Southbridge, Traverse City) are sibling projects, not twins. Confirm with the account team: Max Sposato still Utilities Director at 401.348.2561 / msposato@westerlyri.gov (same contact sits in client-references.md, so verify both); Sheila M. McGauvran, PE, Town Engineer quote permission; contract still active ('July 2017 to Present'); $2.4M annual fee; more than $500,000 and about $250,000 savings; award list (RICWA 2019-2023 and 2022; EPA New England 2018) and whether newer awards should be added.",
+   "flags": [
+    "open-ended-date: 'July 2017 to Present' is a live-contract claim",
+    "divergent-figure: formatting only",
+    "stale-contact"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "reference",
+   "rank": 12
+  },
+  {
+   "path": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0113",
+     "text": "Agenda sessions in the delivered 2024 (Wilmington) Innovation Workshop - 10 agenda sessions (hull p86 para9); 9 sessions (santamonica p62 para20); both dated 2024-06-05"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md",
+     "text": "Identical 12-row agenda (Welcome and Introductions ... Additional Discussion & Closing Remarks, with two breaks and lunch)"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+     "text": "Body states no session count; the table has 9 content sessions plus two breaks and lunch"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
+     "text": "Complementary, not a subset: WEFTEC participation proof; lacks the sample agenda and the two testimonials this block carries"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. The 'newer source' (Hull, 2026-04-02) describes the identical 2024-06-05 Wilmington agenda; 9 vs 10 is only a counting difference and this block never states a count, so update-figure would be wrong. The competitor mmsd-annual-innovation-workshop.md is not a superset: it holds the WEFTEC competitive proof, this block holds the agenda and testimonials, so both stay preferred. Housekeeping: both blocks list annual-innovation-workshop-program.md and fulton-annual-innovation-workshop.md in supersedes; no status change warranted.",
+   "flags": [
+    "divergent-figure: counting difference only",
+    "newer-source-same-claim: same agenda, not a new value"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 13
+  },
+  {
+   "path": "wiki/win-themes/project-narrative-contract-transition-turnaround.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0049",
+     "text": "Westerly savings vs original 6-year forecast - 500,000 USD (more than) (hull p77 para5); >500000 USD (hull p15 para2)"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0050",
+     "text": "Westerly savings vs adjusted forecast - 250,000 USD (approximately) (p77 para5); ~250000 USD (p15 para2)"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/win-themes/project-narrative-contract-transition-turnaround.md",
+     "text": "more than $500,000 in savings against the original 6-year forecast and about $250,000 against the adjusted forecast"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. The PP-0049/0050 conflicts are the same values formatted differently within one source. The block is the sanitized win-theme narrative of the Westerly project, deliberately distinct from the verbatim past-performance block (cross-referenced in reuse-notes), so no twin action. Minor wording drift only (block says 'following 3 years', verbatim says 'last 3 years').",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 14
+  }
+ ]
+}

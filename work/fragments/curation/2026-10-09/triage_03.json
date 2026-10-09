@@ -1,0 +1,271 @@
+{
+ "items": [
+  {
+   "path": "wiki/compliance-plans/six-point-compliance-program.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0232",
+     "text": "99.8 percent | 20-year record, as of 2026 | hull-wwtf-om-2026 | p17 para17"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0232",
+     "text": "99.98 % compliance | unknown | hull-wwtf-om-2026 | p31 para2 | wiki/compliance-plans/six-point-compliance-program.md"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0017.md",
+     "text": "20-year compliance record of 99.8% with the NPDES permit requirements"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/compliance-plans/six-point-compliance-program.md",
+     "text": "Verify the 99.98% compliance rate, the 30,000 training hours, and the 20+ SME count against the current corporate figures before each reuse"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "PP-0232 is a real conflict that touches this block: the block headlines 99.98% compliance (Hull p31, matching five Santa Monica 2025 rows) but the same Hull proposal states a 20-year NPDES record of 99.8% at p17 (cited by the health-safety block). Both come from one 2026-04-02 source, so no newer value exists to adopt; they may be different measures (current-period rate vs 20-year record). Confirm with the account team: the 99.98% rate and its measurement basis/period versus the 99.8% 20-year figure; the 30,000 training hours in 3 years; and the 20+ compliance SME count (all named in reuse-notes as time-bounded).",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 30
+  },
+  {
+   "path": "wiki/qualifications/comparable-scale-track-record-treatment-and-collection.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0148",
+     "text": "42 miles | 2026 | hull-wwtf-om-2026 | p5 para6; ~42 miles | p12 para9 | this block"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0173",
+     "text": "40 miles | p10 para6; >40 miles | 2026 | hull-wwtf-om-2026 | p12 para9 | this block"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0012.md",
+     "text": "approximately 42-mile network ... multiple systems exceeding 40 miles in length"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive: PP-0148 (Hull's own network, 42 / ~42 mi) and PP-0173 (comparable-system threshold, 40 / >40 mi) are two distinct claims clustered under conflict status; the block states both correctly (approximately 42-mile network vs systems exceeding 40 miles) and all rows are the same 2026-04-02 source. The corporate counts (106 facilities, 6,700 miles) stay point-in-time per reuse-notes and are rechecked at reuse.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 31
+  },
+  {
+   "path": "wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0167",
+     "text": "~12000000000 USD | FY24 | hull p10 para5 (this block); ~16000000000 USD | 2026 | hull p14 para2; 15 billion USD per year | 2025 | santamonica p63 para3"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0171",
+     "text": "42000+ staff | hull p10 para5 (this block); 45000 employees | 2025 | santamonica p64 para4"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0149",
+     "text": "45+ years | hull p5 para8; >45 years | hull p10 para6 (this block); 40 years | santamonica p63 para3"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md",
+     "text": "Refresh revenue, backlog, headcount, portfolio counts, ENR ranking, and renewal/compliance percentages from the latest corporate fact sheet before reuse"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Corporate-figure block with genuine same-source disagreement and no newer source to adopt. Confirm with the account team / corporate fact sheet: annual revenue (block says ~$12B FY24; Hull p14 also says ~$16B at para2 and ~$12B at para10; Santa Monica 2025 says $12B at p15 and $15B at p63/p64); global workforce (42,000+ here vs 45,000 Santa Monica p64); O&M backlog >$2.4B; years of O&M experience (>45 here vs 40 in Santa Monica); 300+ projects; ~700 NE staff (712 on p12); and the contract renewal rate since 2013 (open-ended date) plus ENR rankings and customer count, which the block says are unrecoverable from the text layer.",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "corporate-figure",
+   "rank": 32
+  },
+  {
+   "path": "wiki/qualifications/regional-presence-local-support-value-prop.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0169",
+     "text": "~700 staff | hull p10 para5; 712 staff | 2026 | hull-wwtf-om-2026 | p12 para11 | this block"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0177",
+     "text": "98 percent | 2026 | hull-wwtf-om-2026 | p12 para5 | this block; 99 percent | 2025 | santamonica p63 para24"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/qualifications/regional-presence-local-support-value-prop.md",
+     "text": "the ~20-mile, 398/712/2,900+ staff counts are point-in-time Northeast figures and must be re-pulled"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The block's own figures are not in question: PP-0169 pairs '~700' (Hull p10, rounded corporate sentence) with the exact '712' on the block's Exhibit 3-2 callout (same source, same date); PP-0177 has the block's 98% corroborated by Hull p12 and Santa Monica p15/p7, with only an older Santa Monica p63 outlier at 99%. Note for the maintainer: volatility is labelled evergreen (review-due 2029-04-01) although the block carries point-in-time headcounts (398/712/2,900+) and a renewal rate; reclassified to corporate-figure it would fall due 2027-04-02 like the corporate-scale block.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 33
+  },
+  {
+   "path": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0277",
+     "text": "24/7 hours coverage | 2026 contract commitment | hull-wwtf-om-2026 | p26 para2 | this block; 24 hours per day | p41 para6"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0026.md",
+     "text": "Provide a 24/7 emergency number ... to be answered by a person who will respond within 20 minutes"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive: PP-0277 rows are '24/7' (Hull p26, this block) and '24 hours per day' (Hull p41) - the same commitment worded two ways in one proposal, with no differing value. The 24/7 emergency number with 20-minute response is a contract commitment already flagged pursuit-specific in the block's reuse guidance.",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 34
+  },
+  {
+   "path": "wiki/technical-approach/swip-scada-ic-cybersecurity-approach.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0471",
+     "text": "34000 USD embedded value | 2025 | santamonica-swip-om-2025 | p68 para10 | this block"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0471",
+     "text": "35,000 USD value | 2025 | santamonica-swip-om-2025 | p13 para3 | wiki/win-themes/swip-value-added-offerings-package.md"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0068.md",
+     "text": "at no additional cost (a $34,000 value)"
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md",
+     "text": "| Cybersecurity Survey | $35,000 | Right-sized OT/SCADA assessment aligned to the client's standards. |"
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "PP-0471 conflict sits inside this block's own source: the block states $34,000 for the cybersecurity survey (p68, twice, 'EMBEDDED VALUE BY JACOBS') while summary tables at p13 and p45 (and two other blocks) state $35,000. One 2025-09-12 source, so no newer figure exists and update-figure does not apply. Confirm with the Santa Monica pursuit team which value was in the submitted offer ($34,000 vs $35,000), and whether a dollar value belongs in reusable text at all (it is a value-added offer figure, not a fee).",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 35
+  },
+  {
+   "path": "wiki/win-themes/project-narrative-long-term-dbo-performance-excellence.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0077",
+     "text": "50,000 residents (approximately) | hull p80 para3; ~50000 population | hull p15 para2"
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0079",
+     "text": "30 percent (more than) | hull p80 para7; >30 percent | hull p15 para2"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0080.md",
+     "text": "reduced electrical consumption by more than 30%"
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive: PP-0077 (~50,000 population / approximately 50,000 residents) and PP-0079 (more than 30% / >30%) are the same values worded differently on Hull p15 and p80; the block states both consistently. Facts are a closed historical project record (relationship since 1990, awards 2004-2019).",
+   "flags": [
+    "divergent-figure"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "evergreen",
+   "rank": 36
+  },
+  {
+   "path": "wiki/past-performance/edward-c-little-water-recycling-facility-om.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0022",
+     "text": "30-40 MGD (approximate) | unknown | hull-wwtf-om-2026 | p72 para7 | wiki/resumes/mike-boven.md; 40 MGD | 2025 | santamonica-swip-om-2025 | p28 para5 | this block"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0028.md",
+     "text": "Susanna Li, Manager of Engineering ... 310.660.6238 ... susannal@westbasinca.gov; PLANT SIZE 40 MGD"
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/mmsd-om-2028/pages/p0119.md",
+     "text": "Susanna Li, Manager of Engineering, West Basin Municipal Water District, 310.660.6238"
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/edward-c-little-water-recycling-facility-om.md",
+     "text": "Confirm reference contact (Susanna Li) is still current before reuse."
+    }
+   ],
+   "confidence": "high",
+   "rationale": "Reference block, 212 days overdue; never archive. No update-figure: the 'newer' Hull value (2026-04-02) is '30-40 MGD (approximate)' from Mike Boven's resume (p72), an approximation in a transition manager's bio, whereas the block's 40 MGD is the owner-supplied reference sheet 'max monthly average' (Santa Monica p28, 2025-09-12); no row shows a corrected capacity, so the PP-0022/0396/0413 conflicts are wording/rounding. Confirm with West Basin: Susanna Li is still Manager of Engineering with the same phone/email (still printed in the 2026 Hull and MMSD proposals); 40 MGD max-monthly-average vs rated capacity; 5 grades / 9 treatment streams; up to 80,000 households; four satellite facilities and ~600 connections; that the 5-year contract is active and the Veolia transition is complete (text says currently leading the transition). Also: frontmatter section-id/section-path reads 'turlock-zero-liquid-discharge-facility-o-m', a section mismatch for the maintainer.",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure",
+    "newer-source-same-claim",
+    "stale-contact"
+   ],
+   "owner": "Michael Travis",
+   "volatility": "reference",
+   "rank": 47
+  }
+ ]
+}

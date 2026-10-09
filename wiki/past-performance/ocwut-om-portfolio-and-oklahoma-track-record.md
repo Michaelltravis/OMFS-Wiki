@@ -26,8 +26,8 @@ section-id: ocwut-16-26:32
 section-order: 1
 section-path: Section 7 | Projects and References
 doc-order: 212
-volatility: people
-review-due: 2026-11-02
+volatility: corporate-figure
+review-due: 2027-05-06
 freshness-flags: [open-ended-date]
 context: Southcentral US municipal water utility trust wastewater O&M competitive procurement, 2026 award for Jan 1 2027 start; four WWTPs plus one major pump station, >110 MGD combined design capacity, Class B biosolids land application, 109 FTE proposed; challenger bid against an underperforming incumbent operator, backed by a 20-year engineering relationship; ODEQ regulatory regime.
 quality: The strongest single-page proof stack in the source — portfolio scale (300+ projects, 18-year average relationship, 98% renewal), four named marquee large-plant programs with capacities, and a state-specific 44-year/30-year regulatory tenure argument that converts corporate scale into local credibility.

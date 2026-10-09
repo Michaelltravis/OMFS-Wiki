@@ -1,0 +1,1626 @@
+{
+ "run": "2026-10-09",
+ "today": "2026-10-09",
+ "counts": {
+  "update-figure": 2,
+  "verify": 27,
+  "keep": 11
+ },
+ "unresolved_evidence_refs": 0,
+ "items": [
+  {
+   "id": "CQ-0001",
+   "path": "wiki/compliance-plans/swip-safety-plan-performance-record.md",
+   "action": "update-figure",
+   "target": "",
+   "proposed_value": "2025 TRIR 0.89; ERM 0.45 for policy period 7/1/2025 - 7/1/2026 (append to the TRIR and ERM tables; block currently ends at 2024 TRIR 1.38 and 7/1/2024-7/1/2025 ERM 0.42)",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0225",
+     "text": "0.89 TRIR | 2025 | hull-wwtf-om-2026 (2026-04-02) p17 ¶7 - Jacobs current TRIR",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0228",
+     "text": "0.45 EMR | 7/1/2025 - 7/1/2026 | hull-wwtf-om-2026 (2026-04-02) p17 ¶12 - current EMR",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0226",
+     "text": "1.38 TRIR | 2024 | santamonica-swip-om-2025 (2025-09-12) p49 ¶12 - the block's latest TRIR; PP-0230 likewise 0.42 ERM 7/1/2024-7/1/2025",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/compliance-plans/swip-safety-plan-performance-record.md",
+     "text": "Refresh every metric (ERM by policy year, TRIR by year, the BLS 2018-2022 benchmark window) from current corporate safety data before each reuse",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The registry holds a later period for the same series from a later-dated source: Hull (2026-04-02) reports 2025 TRIR 0.89 and a 7/1/2025-7/1/2026 EMR of 0.45, while this block (SWIP, 2025-09-12) stops at TRIR 2024 = 1.38 and ERM 7/1/2024-7/1/2025 = 0.42. All overlapping years agree (PP-0226, PP-0227, PP-0230, PP-0231 consistent), so this extends the series rather than correcting it. The BLS 2018-2022 benchmark window is unchanged in later sources (Hull p40, MMSD p103). This block is the only one carrying the Safety Scorecard and benchmark comparison, so it should not be superseded by the Hull health-safety block. EHS should still confirm before external use.",
+   "judge": "",
+   "flags": [],
+   "volatility": "safety-stat",
+   "owner": "Michael Travis",
+   "rank": 63,
+   "fragment": "triage_05.json"
+  },
+  {
+   "id": "CQ-0002",
+   "path": "wiki/management-staffing/swip-training-certification-program.md",
+   "action": "update-figure",
+   "target": "",
+   "proposed_value": "12,039 compliance and regulatory training hours for 2025 (append to the 2005-2024 series; block currently ends 2024 = 8,963)",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-2603",
+     "text": "12039 training hours | 2025 | mmsd-om-2028 (2026-01-30) p87 ¶18 - compliance and regulatory training hours provided to O&M staff in 2025",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-1273",
+     "text": "8963 training hours | 2024 | ocwut-16-26 and mmsd-om-2028 - the block's last year, consistent across sources",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0150",
+     "text": "300+ O&M sites (santamonica p40 ¶11) vs >300 O&M projects (hull p11 ¶3) - same claim, wording only; flag is a false positive",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/management-staffing/swip-training-certification-program.md",
+     "text": "the 2005-2024 training-hours chart (extend with the current year, do not present a past year as current)",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Both flags are false positives: PP-0150 is 300 / 300+ / >300 across all sources (same figure), so the block's 300+ sites stays. But the registry holds a newer data point for the block's 20-year training-hours series: MMSD (2026-01-30) adds 2025 = 12,039 hours, while this block (SWIP, 2025-09-12) ends at 2024 = 8,963; every overlapping year (2016-2024) agrees between OCWUT, MMSD and this block. The reuse-notes already say to extend with the current year. Recorded as an approved value for the writer; the body is not edited. Separate refresh items per reuse-notes: 12 California AWTO employees (PP-0449, single-source, 2025) and the Newsweek Top 100 status.",
+   "judge": "",
+   "flags": [
+    "divergent-figure",
+    "newer-source-same-claim"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 66,
+   "fragment": "triage_05.json"
+  },
+  {
+   "id": "CQ-0003",
+   "path": "wiki/compliance-plans/swip-emergency-response-regional-resources.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/compliance-plans/swip-emergency-response-regional-resources.md",
+     "text": "Confirm current FEMA contractor status and quote permission before reuse.",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/management-staffing/key-personnel-role-descriptions.md",
+     "text": "Kevin Dahl, PE, CRL, CMRT - Regional Director of Operations (this block says 'Regional Director'; fulton-team-organization-and-key-personnel.md says 'Executive Director of Operations'; mmsd-dual-management-leadership-model.md says 'Project Manager')",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0545",
+     "text": "Jacobs staff, including Regional Director Kevin Dahl, mobilized at the request of the City of Waterbury, CT during a water supply emergency (2019; santamonica-swip-om-2025 p67 para6)",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "testimonials/inventory.md",
+     "text": "TM-0018 Gilbert Davidson, Town Manager, Town of Prescott Valley, AZ - letter quoted in this block; permission column unknown",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Volatility people, 212 days overdue (basis is the 2025-09-12 proposal date; interval lapsed 2026-03-11). Nothing in the bank contradicts the facts, so verify rather than update. Confirm with the account team: (1) Jacobs is still a certified FEMA Disaster Response and Recovery contractor; (2) Kevin Dahl's current title/role (the bank shows four different titles); (3) Gilbert Davidson is still Prescott Valley Town Manager and the quoted letter may be reused (TM-0018); (4) the 2019 Waterbury water-supply-emergency support attribution. Then run curate.py verify.",
+   "judge": "",
+   "flags": [],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 5,
+   "fragment": "triage_01.json"
+  },
+  {
+   "id": "CQ-0004",
+   "path": "wiki/technical-approach/collection-system-om-program.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0304",
+     "text": "Jacobs O&M tenure at the City of Auburn, CA - 32 years (hull-wwtf-om-2026 p34 para10, 2026-04-02); 33 years (santamonica-swip-om-2025 p15 para9 and p7 para2, 2025-09-12)",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0034.md",
+     "text": "For the past 32 years, Jacobs has been our contract operator for the City of Auburn's Wastewater Treatment Plant and Collections System ... every year since 2012",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/collection-system-om-program.md",
+     "text": "The Auburn, CA testimonial requires the quoted individual's current permission before reuse.",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0128",
+     "text": "12 months sooner / up to 12 months - same figure, wording only (not a real conflict)",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Two flags are false positives: open-ended-date ('since 2012') is award-streak language inside a client quote, not a Present-dated claim, and PP-0128 is wording only. PP-0304 is a real inconsistency touching this block: Auburn tenure is 32 years (client quote, newer Hull source) vs 33 years (Jacobs' own map in the older SWIP proposal). The newer source is the lower number and is a verbatim client quote that cannot be edited, so this is not update-figure; confirm the actual Auburn start year and quote permission with the account team, then run curate.py verify. Also confirm SmartCover/SL-RAT/WATS vendor names are still current (per reuse-notes).",
+   "judge": "",
+   "flags": [
+    "open-ended-date: false positive (award streak inside a client quote)",
+    "divergent-figure: PP-0304 real; PP-0128 wording only"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 6,
+   "fragment": "triage_01.json"
+  },
+  {
+   "id": "CQ-0005",
+   "path": "wiki/past-performance/project-westerly-ri.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-westerly-ri.md",
+     "text": "QC before external use: confirm Max Sposato is still Utilities Director and the phone/email are current ... reconfirm the $500,000 / $250,000 savings figures ... and the $2.4M annual project fee with the account team.",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/project-westerly-ri.md",
+     "text": "Owner Contact: Max Sposato, Utilities Director, T: 401.348.2561, E: msposato@westerlyri.gov; Years of Service: July 2017 to Present",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0058",
+     "text": "Westerly annual project fee - 2.4 million USD per year (p77 para17); 2400000 USD/year (p15 para2) - formatting-only conflict",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/client-references.md",
+     "text": "Westerly WWTP ... Owner Contact: Max Sposato, Utilities Director | 401.348.2561 | msposato@westerlyri.gov (same contact in the p15 table)",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "Reference block, 10 days overdue, contact unverified since 2026-04-02; never archive for age. All divergent-figure rows (PP-0049/0050/0052/0055/0057/0058) are formatting-only duplicates of the same value in the p15 reference table. The listed competitors (Southbridge, Traverse City) are sibling projects, not twins. Confirm with the account team: Max Sposato still Utilities Director at 401.348.2561 / msposato@westerlyri.gov (same contact sits in client-references.md, so verify both); Sheila M. McGauvran, PE, Town Engineer quote permission; contract still active ('July 2017 to Present'); $2.4M annual fee; more than $500,000 and about $250,000 savings; award list (RICWA 2019-2023 and 2022; EPA New England 2018) and whether newer awards should be added.",
+   "judge": "",
+   "flags": [
+    "open-ended-date: 'July 2017 to Present' is a live-contract claim",
+    "divergent-figure: formatting only",
+    "stale-contact"
+   ],
+   "volatility": "reference",
+   "owner": "Michael Travis",
+   "rank": 12,
+   "fragment": "triage_01.json"
+  },
+  {
+   "id": "CQ-0006",
+   "path": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+     "text": "**Contract dates:** January 2016 – Ongoing",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/project-vancouver-wa-westside-marine-park.md",
+     "text": "**Zero lost-time incidents** since contract start in 2015.",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/management-staffing/swip-transition-plan-overview-and-track-record.md",
+     "text": "— Frank Dick, P.E., Sewer and Wastewater Engineering Supervisor, City of Vancouver – Public Works | 360.487.7179",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-1395",
+     "text": "25 USD million | multi-year | ocwut-16-26 | p172 ¶8 (status: single-source)",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Verbatim reference with an open-ended 'January 2016 - Ongoing' date and a named owner contact; its last-verified (2026-09-07) equals the extraction date and log.jsonl has no verify entry, so nothing has actually been confirmed. Confirm with the account team: (1) contract still ongoing; (2) Frank Dick's title and contact - this block says 'Wastewater Treatment Engineering Manager', 360.487.7179, while swip-transition-plan-overview-and-track-record.md and mmsd-transitioning-employee-care-workshops-and-compensation.md give him as 'Sewer and Wastewater Engineering Supervisor'; (3) 'zero lost-time incidents since contract start in 2015' vs the January 2016 contract start; (4) NACWA awards 2017-2025, the 2024/2022/2020 award list, $25M SCADA and $900K rebates (single-source PP-1395, PP-1396). No registry conflict and no competing block, so no figure change.",
+   "judge": "",
+   "flags": [
+    "open-ended-date"
+   ],
+   "volatility": "reference",
+   "owner": "Michael Travis",
+   "rank": 15,
+   "fragment": "triage_02.json"
+  },
+  {
+   "id": "CQ-0007",
+   "path": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/swip-communications-and-reporting-plan.md",
+     "text": "**CPO Mack Mckenzie** will serve as [CLIENT]'s primary point of contact",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0525",
+     "text": "5 day of month | 2025 | santamonica-swip-om-2025 | p61 ¶13 (single-source)",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/mmsd-exhibit-communications-and-reporting-cadence.md",
+     "text": "status: fallback; superseded-by: wiki/technical-approach/mmsd-communications-cadence-exhibit.md",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/mack-mckenzie.md",
+     "text": "title: Mack Mckenzie - Chief Plant Operator (WW Grade V, AWT3); review-due: 2026-03-11; freshness-flags: [divergent-figure]",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Preferred house-favorite; the only competitor (mmsd-exhibit-communications-and-reporting-cadence.md) is itself a fallback already superseded by mmsd-communications-cadence-exhibit.md, so there is no live twin and no dedupe action. The time-bound content is the named CPO Mack Mckenzie (volatility people, 212 days overdue from the 2025-09-12 source date). Confirm with the account team: Mack Mckenzie's current CPO role (wiki/resumes/mack-mckenzie.md also carries a divergent-figure flag), and that the delivery commitments (Monthly Operating Report by the 5th, annual report draft 30 days / final 60 days - PP-0525/0526/0527) and the CIWQS/NetDMR submittal route still reflect how the account operates; they are Santa Monica contract commitments and must be re-set per pursuit regardless.",
+   "judge": "",
+   "flags": [],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 24,
+   "fragment": "triage_02.json"
+  },
+  {
+   "id": "CQ-0008",
+   "path": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-2188",
+     "text": ">40 percent | recent, as stated in 2028 proposal | mmsd-om-2028 | p69 ¶16 (single-source)",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-2191",
+     "text": ">80 percent acceptance rate | 2028 proposal | mmsd-om-2028 | p70 ¶12 (single-source)",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-2180",
+     "text": "525000 USD per year or more | 2028 proposal, current chemical prices | mmsd-om-2028 | p69 ¶5 (client-specific)",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/mmsd-sodium-hypochlorite-disinfection-dosage-optimization.md",
+     "text": "never carry them to another pursuit. Everything explaining the mechanism, the track record range, and the adoption evidence is reusable.",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Flagged only because it is classed volatility: people (72 days overdue); no registry conflict, no twin, no feedback. The reusable facts are track-record claims that age: confirm with the digital/process-optimization group that the use case still spans 5 to 340+ MGD (PP-2186), typical savings 20-30% (PP-2187), West Basin CA >40% after takeover from another provider (PP-2188, dated only 'recent'), operator acceptance >80% (PP-2191) and 3-8 notifications/day (PP-2189). The >30% / ~20% / $525K-per-year figures (PP-2180, PP-2183, PP-2184) are MMSD-specific analysis outputs and must not be reused. Maintainer may also reclassify volatility to a track-record class at the next policy pass (not applied here).",
+   "judge": "",
+   "flags": [],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 25,
+   "fragment": "triage_02.json"
+  },
+  {
+   "id": "CQ-0009",
+   "path": "wiki/past-performance/project-southbridge-ma.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0065",
+     "text": "1.7 million USD per year (p78 ¶14) vs unresolved USD/year (p15 ¶2, client-references.md) - status: conflict",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0064",
+     "text": "2025 year (p78 ¶12) vs 2025 – Present years (p15 ¶2) - status: conflict",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-southbridge-ma.md",
+     "text": "QC before external use: confirm John Jovan, Jr. is still Town Manager and Rich Benoit still Director of Public Works, and that phone/email are current",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/client-references.md",
+     "text": "**Annual Project Fee:** $1.7M",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "Reference block with an unverified owner contact (extraction stamp 2026-09-05, proposal 2026-04-02) and an open-ended 'Years of Service 2025 to Present'. The divergent-figure flag (PP-0064, PP-0065) does not put this block's values in question: the other row is the same claim from client-references.md (p15 ¶2) - '2025 - Present' for the start year and an 'unresolved' fee caused by a garbled table cell in the source ('nnua rojec ee:') - while client-references.md's text agrees with this block ($1.7M, 2025). So no update-figure. Confirm with the account team: John Jovan, Jr. still Town Manager (508.764.5405, jjovan@southbridgemass.org) and Rich Benoit still Director of Public Works; the 5-year contract (from 2025-02-01) is still in force; the $1.7M annual fee; the $85M nitrogen-reduction design-build award (from Section 3 Exhibit 3-5, not Appendix B). Westerly (competitor) is a different project, not a twin.",
+   "judge": "",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure",
+    "stale-contact"
+   ],
+   "volatility": "reference",
+   "owner": "Michael Travis",
+   "rank": 26,
+   "fragment": "triage_02.json"
+  },
+  {
+   "id": "CQ-0010",
+   "path": "wiki/past-performance/project-traverse-city-mi.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0080",
+     "text": "3.5 million USD per year (p80 ¶11) vs 3500000 USD/year (p15 ¶2) - same value, status: conflict",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0079",
+     "text": "30 percent (more than) (p80 ¶7) vs >30 percent (p15 ¶2) - same value, status: conflict",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-traverse-city-mi.md",
+     "text": "confirm Art Krueger is still Director of Municipal Facilities and the phone/email are current; verify award names/years against MWEA, USEPA Region 5, ACEC, and Michigan Water Environment Association records",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/project-traverse-city-mi.md",
+     "text": "under the guidance of Jacobs for 29 plus years.",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "Reference block with an unverified owner contact and an open-ended '1990 to Present'. Divergent-figure flags PP-0074/0077/0079/0080 are format-only conflicts: the competing rows from client-references.md (p15 ¶2) carry the same values (1990 - Present; ~50,000; >30%; $3.5M), so the block's figures are not in question and no update-figure applies. Confirm with the account team: Art Krueger still Director of Municipal Facilities (231.922.4923, akrueger@traversecitymi.gov); DBO contract still active; 13 staff, 17 MGD peak, $3.5M annual fee and >30% electrical reduction (PP-0075/0078/0080/0079); award names/years against MWEA, EPA Region 5, ACEC records; and that the Commissioner Lewis quote ('29 plus years') is still current and releasable. Westerly (competitor) is a different project, not a twin.",
+   "judge": "",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure",
+    "stale-contact"
+   ],
+   "volatility": "reference",
+   "owner": "Michael Travis",
+   "rank": 27,
+   "fragment": "triage_02.json"
+  },
+  {
+   "id": "CQ-0011",
+   "path": "wiki/technical-approach/tiered-communication-reporting-protocol.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/tiered-communication-reporting-protocol.md",
+     "text": "Project Manager Nathan Callison will maintain open day-to-day coordination with [CLIENT] staff",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/fulton-nathan-callison-johns-creek-plant-manager.md",
+     "text": "title: \"Resume — Nathan Callison, CRL, CMRT (Johns Creek Plant Manager)\"",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0281",
+     "text": "5 meeting/reporting tiers | 2026 contract commitment | hull-wwtf-om-2026 | p27 ¶9 (single-source)",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/tiered-communication-reporting-protocol.md",
+     "text": "Attendee titles, the named project manager, and specific deliverables (5-year CIP recommendations, org chart updates) should be tailored to contract scope",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Preferred house-favorite classed volatility: people because the narrative names Project Manager Nathan Callison; no flags, no registry conflict (PP-0137, PP-0280, PP-0281, PP-2079 are consistent/single-source contract commitments), no twin (the swip and mmsd cadence blocks are different pursuit-specific tables). Confirm with the account team that Nathan Callison is still the proposed/assigned PM for Hull-type accounts (the bank also carries him as Johns Creek Plant Manager in the Fulton resume, so his role has changed between pursuits) and that the attendee tiers (Regional Management, Executive Team) still match current practice. The five-tier cadence itself is evergreen.",
+   "judge": "",
+   "flags": [],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 28,
+   "fragment": "triage_02.json"
+  },
+  {
+   "id": "CQ-0012",
+   "path": "wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0232",
+     "text": "99.8 percent | 20-year record, as of 2026 | hull-wwtf-om-2026 | p17 ¶17 vs 99.98 % compliance | hull-wwtf-om-2026 | p31 ¶2 and 99.98 percent | 2025 | santamonica-swip-om-2025 | p15 ¶6 - status: conflict",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0229",
+     "text": "1.0 EMR (p17 ¶12) vs <1.0 EMR (p40 ¶5) - threshold wording, status: conflict",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md",
+     "text": "| 7/1/2025 – 7/1/2026 | 0.45 |",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/compliance-plans/health-safety-environmental-compliance-performance-record.md",
+     "text": "All safety and compliance metrics are point-in-time and must be refreshed from current corporate EHS and compliance data before each submission",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The divergent-figure flag does involve this block's own value, but the registry holds no newer same-claim figure to apply: PP-0232 has this block's '99.8%, 20-year record' (Hull p17 ¶17) against 99.98% from the same Hull proposal (p31 ¶2) and from the 2025 Santa Monica proposal; those are same-date or older, so update-figure is unsupported and the choice (99.8% 20-year vs 99.98%) needs corporate compliance. Confirm with Jacobs EHS/compliance: (1) the NPDES compliance rate and its lookback; (2) TRIR 0.89 for 2025 and whether a later figure exists (PP-2063: 1.38 in 2024, 1.89 in 2023); (3) EMR 0.45 for the 7/1/2025-7/1/2026 NCCI period - that policy year has ended, so pull the current EMR (PP-0229 and PP-2064 conflicts concern the 1.0 threshold wording and prior-year EMRs, not 0.45); (4) the Exhibit 3-9 violations table (two 2022 Oregon herbicide-license fines) re-pulled for the new RFP's lookback.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "safety-stat",
+   "owner": "Michael Travis",
+   "rank": 29,
+   "fragment": "triage_02.json"
+  },
+  {
+   "id": "CQ-0013",
+   "path": "wiki/compliance-plans/six-point-compliance-program.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0232",
+     "text": "99.8 percent | 20-year record, as of 2026 | hull-wwtf-om-2026 | p17 para17",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0232",
+     "text": "99.98 % compliance | unknown | hull-wwtf-om-2026 | p31 para2 | wiki/compliance-plans/six-point-compliance-program.md",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0017.md",
+     "text": "20-year compliance record of 99.8% with the NPDES permit requirements",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/compliance-plans/six-point-compliance-program.md",
+     "text": "Verify the 99.98% compliance rate, the 30,000 training hours, and the 20+ SME count against the current corporate figures before each reuse",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "PP-0232 is a real conflict that touches this block: the block headlines 99.98% compliance (Hull p31, matching five Santa Monica 2025 rows) but the same Hull proposal states a 20-year NPDES record of 99.8% at p17 (cited by the health-safety block). Both come from one 2026-04-02 source, so no newer value exists to adopt; they may be different measures (current-period rate vs 20-year record). Confirm with the account team: the 99.98% rate and its measurement basis/period versus the 99.8% 20-year figure; the 30,000 training hours in 3 years; and the 20+ compliance SME count (all named in reuse-notes as time-bounded).",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 30,
+   "fragment": "triage_03.json"
+  },
+  {
+   "id": "CQ-0014",
+   "path": "wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0167",
+     "text": "~12000000000 USD | FY24 | hull p10 para5 (this block); ~16000000000 USD | 2026 | hull p14 para2; 15 billion USD per year | 2025 | santamonica p63 para3",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0171",
+     "text": "42000+ staff | hull p10 para5 (this block); 45000 employees | 2025 | santamonica p64 para4",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0149",
+     "text": "45+ years | hull p5 para8; >45 years | hull p10 para6 (this block); 40 years | santamonica p63 para3",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/qualifications/omfs-corporate-scale-and-om-portfolio-proof-points.md",
+     "text": "Refresh revenue, backlog, headcount, portfolio counts, ENR ranking, and renewal/compliance percentages from the latest corporate fact sheet before reuse",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Corporate-figure block with genuine same-source disagreement and no newer source to adopt. Confirm with the account team / corporate fact sheet: annual revenue (block says ~$12B FY24; Hull p14 also says ~$16B at para2 and ~$12B at para10; Santa Monica 2025 says $12B at p15 and $15B at p63/p64); global workforce (42,000+ here vs 45,000 Santa Monica p64); O&M backlog >$2.4B; years of O&M experience (>45 here vs 40 in Santa Monica); 300+ projects; ~700 NE staff (712 on p12); and the contract renewal rate since 2013 (open-ended date) plus ENR rankings and customer count, which the block says are unrecoverable from the text layer.",
+   "judge": "",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure"
+   ],
+   "volatility": "corporate-figure",
+   "owner": "Michael Travis",
+   "rank": 32,
+   "fragment": "triage_03.json"
+  },
+  {
+   "id": "CQ-0015",
+   "path": "wiki/technical-approach/swip-scada-ic-cybersecurity-approach.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0471",
+     "text": "34000 USD embedded value | 2025 | santamonica-swip-om-2025 | p68 para10 | this block",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0471",
+     "text": "35,000 USD value | 2025 | santamonica-swip-om-2025 | p13 para3 | wiki/win-themes/swip-value-added-offerings-package.md",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0068.md",
+     "text": "at no additional cost (a $34,000 value)",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/swip-innovation-value-added-offerings-overview.md",
+     "text": "| Cybersecurity Survey | $35,000 | Right-sized OT/SCADA assessment aligned to the client's standards. |",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "PP-0471 conflict sits inside this block's own source: the block states $34,000 for the cybersecurity survey (p68, twice, 'EMBEDDED VALUE BY JACOBS') while summary tables at p13 and p45 (and two other blocks) state $35,000. One 2025-09-12 source, so no newer figure exists and update-figure does not apply. Confirm with the Santa Monica pursuit team which value was in the submitted offer ($34,000 vs $35,000), and whether a dollar value belongs in reusable text at all (it is a value-added offer figure, not a fee).",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 35,
+   "fragment": "triage_03.json"
+  },
+  {
+   "id": "CQ-0016",
+   "path": "wiki/past-performance/edward-c-little-water-recycling-facility-om.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0022",
+     "text": "30-40 MGD (approximate) | unknown | hull-wwtf-om-2026 | p72 para7 | wiki/resumes/mike-boven.md; 40 MGD | 2025 | santamonica-swip-om-2025 | p28 para5 | this block",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/santamonica-swip-om-2025/pages/p0028.md",
+     "text": "Susanna Li, Manager of Engineering ... 310.660.6238 ... susannal@westbasinca.gov; PLANT SIZE 40 MGD",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/mmsd-om-2028/pages/p0119.md",
+     "text": "Susanna Li, Manager of Engineering, West Basin Municipal Water District, 310.660.6238",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/edward-c-little-water-recycling-facility-om.md",
+     "text": "Confirm reference contact (Susanna Li) is still current before reuse.",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "Reference block, 212 days overdue; never archive. No update-figure: the 'newer' Hull value (2026-04-02) is '30-40 MGD (approximate)' from Mike Boven's resume (p72), an approximation in a transition manager's bio, whereas the block's 40 MGD is the owner-supplied reference sheet 'max monthly average' (Santa Monica p28, 2025-09-12); no row shows a corrected capacity, so the PP-0022/0396/0413 conflicts are wording/rounding. Confirm with West Basin: Susanna Li is still Manager of Engineering with the same phone/email (still printed in the 2026 Hull and MMSD proposals); 40 MGD max-monthly-average vs rated capacity; 5 grades / 9 treatment streams; up to 80,000 households; four satellite facilities and ~600 connections; that the 5-year contract is active and the Veolia transition is complete (text says currently leading the transition). Also: frontmatter section-id/section-path reads 'turlock-zero-liquid-discharge-facility-o-m', a section mismatch for the maintainer.",
+   "judge": "",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure",
+    "newer-source-same-claim",
+    "stale-contact"
+   ],
+   "volatility": "reference",
+   "owner": "Michael Travis",
+   "rank": 47,
+   "fragment": "triage_03.json"
+  },
+  {
+   "id": "CQ-0017",
+   "path": "wiki/win-themes/value-proposition-table-approach-impact-value.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0149",
+     "text": "45+ years (hull-wwtf-om-2026 p5 para 8, 2026) vs 40 years O&M experience (santamonica-swip-om-2025 p15 para 3, 2025); status conflict",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0150",
+     "text": "300+ facilities (hull-wwtf-om-2026 p5 para 8, 2026) vs 300 facilities (santamonica-swip-om-2025 p15 para 4, 2025); status conflict",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/value-proposition-table-approach-impact-value.md",
+     "text": "Verify the credibility-banner statistics (45+ years, 300+ facilities) are current before reuse.",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The divergent-figure flag is not a contradiction of this block: its 45+ years and 300+ facilities come from the newer source (Hull, 2026-04-02) and the conflicting values are from the older Santa Monica proposal (2025-09-12), so update-figure does not apply. The banner is a firm-wide corporate scale claim, now 10 days overdue, and the reuse-notes explicitly require a currency check. Maintainer should confirm with the corporate O&M account team that 45+ years of O&M experience and 300+ facilities are still the approved figures, then run curate.py verify. The table rows hold no named people (volatility people is a classifier artefact).",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 48,
+   "fragment": "triage_04.json"
+  },
+  {
+   "id": "CQ-0018",
+   "path": "wiki/win-themes/leadership-team-and-coordinated-operations-narrative.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/leadership-team-and-coordinated-operations-narrative.md",
+     "text": "Replace every named individual with the actual proposed team and their real roles; confirm \"OneWater\" is still the current firm-wide integrated-water methodology name before reuse",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/proposed-team-roster-hull-wwtf-om-2026.md",
+     "text": "Nathan Callison, CRL, CMRT | Project Manager; Scott Mangold, CRL | Regional Operations Manager; Anthony \"Tony\" Rose | Assistant Project Manager",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0143",
+     "text": "10000 residents (2026) hull-wwtf-om-2026 p5 para 6; status single-source",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Named-leadership narrative with no flags and no contradiction in the bank: the three names and roles match the Hull roster and resume blocks (all from the 2026-04-02 proposal, the newest source naming them). It is overdue only because people-type facts age. Confirm with the account team that Nathan Callison (PM), Scott Mangold (Regional Operations Manager) and Tony Rose (Assistant PM) still hold those roles on the Hull contract, that OneWater is still the current firm-wide approach name, and the ~10,000 year-round resident figure (PP-0143); then run curate.py verify.",
+   "judge": "",
+   "flags": [],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 49,
+   "fragment": "triage_04.json"
+  },
+  {
+   "id": "CQ-0019",
+   "path": "wiki/past-performance/project-waterbury-ct.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0032",
+     "text": "310 miles (hull-wwtf-om-2026 p76 para 4, 2026) vs 27 MGD / 320 miles / 20 pumping stations (hull-wwtf-om-2026 p13 para 3, client-references block); the conflict is between other blocks, not a different value for this one",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0827",
+     "text": "27 MGD / 320 mi / 20 pump stations (ocwut-16-26 p79 para 1) vs 48 miles (hull-wwtf-om-2026 p71 para 8); this block's own page p169 states approximately 310 miles",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-waterbury-ct.md",
+     "text": "Confirm current client contact, dates, scope, and outcomes before external use",
+     "resolves": true
+    },
+    {
+     "kind": "dedupe",
+     "ref": "wiki/past-performance/project-waterbury-ct-odor-control-and-results.md",
+     "text": "Companion block carries the odor and results half of the same reference (p169 para 10 to p170); complementary, not a subset",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Reference block with a named client contact (Michael LeBlanc, Director of Finance/Water Pollution Control, 203.574.6840 x7059) and an open-ended 'November 2018 - Ongoing' contract, so verify (references are never archived for age). The PP-0032/0035/0042/0043/0046 conflicts are formatting variants or involve the client-references and resume blocks (PP-0032: 310 vs 320 miles); this block's 310 mi, 27 MGD, $25M, $12.7M and Nov 2018 values are not contradicted by any newer-dated source, and the companion odor block is complementary, so no merge. Confirm: LeBlanc's title and contact details; that the contract is still active (10-year term from Nov 2018); 310 vs 320 miles of sewer (the bank also carries 320 in the client-references block and ocwut p79 text); and that the 38-MGD WFP contract (awarded July 2023) is in force.",
+   "judge": "",
+   "flags": [
+    "open-ended-date",
+    "divergent-figure"
+   ],
+   "volatility": "reference",
+   "owner": "Michael Travis",
+   "rank": 50,
+   "fragment": "triage_04.json"
+  },
+  {
+   "id": "CQ-0020",
+   "path": "wiki/win-themes/project-narrative-utility-partnership-cost-savings.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0042",
+     "text": "12.7 million USD (hull-wwtf-om-2026 p76 para 3) and up to 12700000 USD (hull-wwtf-om-2026 p15 para 2); same value, conflict is formatting only",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0045",
+     "text": "<54 MGD wet weather (hull-wwtf-om-2026 p76 para 7, 2026-04-02); also conflicts with PP-0034",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/ocwut-16-26/pages/p0169.md#¶21",
+     "text": "WWTP: 27 MGD (wet weather: >54 MGD) -- ocwut-16-26 (2026-05-06), newer than the Hull source, not registered as a row",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The flagged conflicts (PP-0032, PP-0035, PP-0042) are the same values written differently and do not involve a different figure for this block; the narrative is an evergreen sanitized sibling of the Waterbury reference, so a plain keep is nearly right. One real discrepancy remains: the block says wet-weather flow capacity 'below 54 MGD' (Hull p76, 2026-04-02) while the later OCWUT proposal (2026-05-06) says '>54 MGD'; no registry row holds the newer value, so update-figure is not available. Ask the Waterbury account team which is correct, plus 310 vs 320 miles of sewer and whether the $25M phosphorus upgrade / tertiary filters ('under construction at the time of writing') are now complete; then run curate.py verify.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 51,
+   "fragment": "triage_04.json"
+  },
+  {
+   "id": "CQ-0021",
+   "path": "wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-agua-nueva-dbo-pima-county-az.md",
+     "text": "Reconfirm contacts, dates, award years, status, and figures before external use.",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0097",
+     "text": "32 MGD (hull-wwtf-om-2026 p82 para 3, 2026) -- consistent with this block's 32 MGD; PP-0359 also 32 MGD (santamonica-swip-om-2025 p15 para 4)",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/past-performance/similar-facilities-table.md",
+     "text": "County of Pima - Agua Nueva Reclamation Facility | AZ | 15 Years, 5 Months | 10/10/2010",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Verbatim reference block with an open-ended 'October 2010 - Ongoing' DBO contract and a named client contact, so verify (references are never archived for age). The bank corroborates the 32 MGD capacity and the 10/10/2010 start date; nothing contradicts the block and no newer-dated value exists. Confirm with the Pima County account team: Jeff Prevatt's title, phone numbers and email; that the O&M contract is still ongoing; and that the $77M under-budget / 8-months-ahead outcomes and 20% energy-cost reduction (PP-1399, PP-1400) are still approved for external use.",
+   "judge": "",
+   "flags": [
+    "open-ended-date"
+   ],
+   "volatility": "reference",
+   "owner": "Michael Travis",
+   "rank": 52,
+   "fragment": "triage_04.json"
+  },
+  {
+   "id": "CQ-0022",
+   "path": "wiki/past-performance/project-jackson-jxn-water-om.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/past-performance/project-jackson-jxn-water-om.md",
+     "text": "Confirm client contacts, contract status, personnel, and scope before external use.",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0705",
+     "text": "99 pump stations (ocwut-16-26 p6 para 2, 2026) -- matches this block; PP-0851 also 99, whereas PP-0797 says 98 lift stations (ocwut-16-26 p77 para 1)",
+     "resolves": true
+    },
+    {
+     "kind": "dedupe",
+     "ref": "wiki/past-performance/project-jackson-jxn-water-turnaround-results.md",
+     "text": "Companion block carries the results half (p168); complementary, not a subset",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Reference block for an EPA-appointed interim third-party manager arrangement: the contact (Ted Henifin, Interim Third-Party Manager, JXN Water) and the open-ended '2022 - Ongoing' status are exactly the facts that go stale, and the ITPM structure is itself time-limited. The bank agrees on system scale (99 pump stations, 65 MGD WWTPs) and nothing is contradicted, so verify. Confirm: Henifin's current role and contact; that the JXN Water contract is still active; the ten-person relevant-personnel list and roles; and 99 vs 98 pump/lift stations (PP-0797 sits in a different block). The companion results block is complementary, so no merge.",
+   "judge": "",
+   "flags": [
+    "open-ended-date"
+   ],
+   "volatility": "reference",
+   "owner": "Michael Travis",
+   "rank": 53,
+   "fragment": "triage_04.json"
+  },
+  {
+   "id": "CQ-0023",
+   "path": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0464",
+     "text": "300000 USD embedded value (santamonica-swip-om-2025 p57 para 7) and 300000 USD over 5 years (p45 para 5) -- same value, status conflict is phrasing only",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0514",
+     "text": "55001 ISO standard number (p57 para 3) vs ISO 55001 standard (p11 para 6) -- same standard, phrasing only",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/swip-asset-management-10-box-model.md",
+     "text": "Named individuals (Mack Mckenzie, Graham Knowles, Richard Gwinn) are kept verbatim per wiki policy on staff names -- replace with the pursuing team's assigned staff.",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0520",
+     "text": "1000000 assets with condition assessments completed (santamonica-swip-om-2025 p59 para 3, 2025); single-source",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Both divergent-figure conflicts are the same value stated two ways, so the block's figures are not in question and nothing newer supersedes them. The MMSD 10-box blocks (2026-01-30) are client-specific, split by elements and built around a different tool (NEXGEN EAM), so they do not replace this block, which is the only SWIP-origin full 10-Box methodology. It is 212 days overdue because it holds people and single-source corporate stats from the 2025-09-12 proposal. Confirm: Mack Mckenzie (CPO), Graham Knowles (Asset Management Support Lead; still named in later MMSD/OCWUT rosters) and Richard Gwinn roles; the 1-million-asset condition-assessment statistic (PP-0520); and the $300,000 embedded-value figure for the ISO 55001 program; then run curate.py verify.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 60,
+   "fragment": "triage_04.json"
+  },
+  {
+   "id": "CQ-0024",
+   "path": "wiki/win-themes/swip-onsite-team-staffing-and-shift-model.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/swip-onsite-team-staffing-and-shift-model.md",
+     "text": "Named individuals, certification grades, and the shift pattern are this pursuit's real proposed team and coverage plan - confirm current assignment",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0665",
+     "text": "AWT5, T3 operator certifications (santamonica-swip-om-2025 p7 ¶7) vs 5 AWT certification level (plus T3) (p4 ¶12) - same grade, two phrasings; status conflict",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0573",
+     "text": "4/10 and 5/8 shift pattern (p79 ¶12) vs 4x10 / 5x8 shift pattern (p8 ¶1) - same pattern, two notations",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/mack-mckenzie.md",
+     "text": "Mack Mckenzie - Chief Plant Operator (WW Grade V, AWT3) - resume agrees with the block",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The divergent-figure flags (PP-0550, PP-0573, PP-0665, PP-2930) are notation differences inside one source (Grade V/AWT3, AWT5+T3, 4x10/5x8), not contradictory values, so no figure change is needed. The real issue is a people block 212 days overdue naming three individuals and certification grades. Confirm with the account team: Howard Brewen is still Director of Operations (WW Grade V), Chris Catlin still Manager of Operations (AWT5, T3), Mack Mckenzie still CPO (WW Grade V, AWT3); certifications unexpired; the surge backstop projects (West Basin, Gilroy) still valid; then run curate.py verify.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 61,
+   "fragment": "triage_05.json"
+  },
+  {
+   "id": "CQ-0025",
+   "path": "wiki/win-themes/swip-partner-integration-and-technical-bench.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0553",
+     "text": "1300 hours of annual support (santamonica-swip-om-2025 p74 ¶17) vs 1,300 hours per year (p8 ¶10) - identical figure, formatting only; status conflict",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/swip-partner-integration-and-technical-bench.md",
+     "text": "The 1,300 annual support hours is this pursuit's actual offer and must be resized ... the named single point of contact must be the person actually assigned",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/mack-mckenzie.md",
+     "text": "Mack Mckenzie - Chief Plant Operator (WW Grade V, AWT3) - the block's named single point of contact",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "PP-0553 conflict is 1300 vs 1,300 from the same source, so the block's figure is not in question. The block is a people-volatility block 212 days overdue because it names Mack Mckenzie as the single point of contact. Confirm with the account team that Mack Mckenzie is still CPO / the intended SPOC, and that the 1,300 annual support hours is understood as a pursuit-specific offer (not a house number), then run curate.py verify. Nothing in the bank contradicts the facts.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 62,
+   "fragment": "triage_05.json"
+  },
+  {
+   "id": "CQ-0026",
+   "path": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0148",
+     "text": "42 miles (hull-wwtf-om-2026 p5 ¶6); ~42 miles (p12 ¶9, p43 ¶7) - same value, approximation marker only; status conflict",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/exec-summary-readiness-and-system-profile-opening.md",
+     "text": "Replace every system statistic with the target facility's real figures and the named on-site leader with the actual proposed project manager.",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/resumes/nathan-callison.md",
+     "text": "reuse-notes: confirm Nathan Callison is still employed by Jacobs and still holds this role/title ... confirm current availability/assignment",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The divergent-figure flag is a false positive: PP-0148 is 42 miles vs ~42 miles within the Hull source, and the block's other system figures (PP-0143 to PP-0147) are consistent or single-source. The block is overdue only because it names Nathan Callison as the on-site leader in the Your Next Chapter close. Confirm with the account team that Nathan Callison is still the Project Manager for this account and available; then run curate.py verify. The Hull system statistics (10,000 / 5,000 residents, 3.07 MGD, 7 pump stations, 42 miles) are pursuit facts and need re-confirming only if reused for Hull itself.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 64,
+   "fragment": "triage_05.json"
+  },
+  {
+   "id": "CQ-0027",
+   "path": "wiki/technical-approach/low-pressure-sewer-grinder-pump-om-experience.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/technical-approach/low-pressure-sewer-grinder-pump-om-experience.md",
+     "text": "re-confirm the named project manager and the Northport-Leelanau grinder-pump count with the account team ... The Westerly out-of-scope evaluation is real and current - confirm it is still authorized for reference use.",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0210",
+     "text": "~160 grinder pump installations | 2026 | hull-wwtf-om-2026 p13 ¶8 - single-source; Northport-Leelanau Township Utility Authority",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0209",
+     "text": "~175 grinder pumps | 2026 | hull-wwtf-om-2026 p13 ¶6 and p36 ¶5 - consistent",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "No flags and no contradiction in the bank: ~175 (client system) and ~160 (Northport-Leelanau) are different systems, and Callison's resume line (about 120 grinder pump systems at Suttons Bay/Northport) is an earlier role. It is a people-volatility block 10 days overdue resting on one named person and one single-source count. Confirm: Nathan Callison is still the proposed PM with the dual-pressure (grinder plus STEP) experience; Jacobs still operates the Northport-Leelanau system with about 160 grinder pump installations (PP-0210 is single-source); and the Westerly, RI low-pressure evaluation is still current and authorized for reference use.",
+   "judge": "",
+   "flags": [],
+   "volatility": "people",
+   "owner": "Michael Travis",
+   "rank": 65,
+   "fragment": "triage_05.json"
+  },
+  {
+   "id": "CQ-0028",
+   "path": "wiki/win-themes/swip-compliance-systems-and-laboratory-program.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0232",
+     "text": "99.98 percent (swip p7, p11, p15, p52, p63; hull p31 ¶2) vs 99.8 percent (hull-wwtf-om-2026 2026-04-02, p17 ¶17)",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0017.md#¶17",
+     "text": "20-year compliance record of 99.8% with the NPDES permit requirements across the wastewater treatment plants that we operate nationwide",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/ocwut-16-26/pages/p0073.md",
+     "text": "99.98% environmental compliance rate, one of the highest in the industry (OCWUT, 2026-05-06; MMSD 2026-01-30 p86-87 also 99.98%)",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/swip-compliance-systems-and-laboratory-program.md",
+     "text": "The 99.98% compliance figure is a firm-wide statistic refreshed periodically, not a pursuit value - confirm it is current before it appears in text.",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The block's 99.98% is repeated in every later source (Hull p31, MMSD p86-87, OCWUT p8/p19/p73/p80, Fulton p10), so it is not outdated; the one outlier is Hull p17's 99.8% 20-year NPDES record, in the same proposal that uses 99.98% on p31, which looks like a different metric or a typo rather than a newer value. Because the two differ by an order of magnitude in non-compliance and the figure anchors the Six-Point graphic, have compliance/EHS confirm that 99.98% is the current firm-wide environmental compliance figure and its period and metric, and whether 99.8% / 20 years is a separate or erroneous figure, before running curate.py verify. No change to the block is proposed.",
+   "judge": "",
+   "flags": [
+    "divergent-figure",
+    "newer-source-same-claim"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 67,
+   "fragment": "triage_05.json"
+  },
+  {
+   "id": "CQ-0029",
+   "path": "wiki/win-themes/swip-om-qualifications-proof-points.md",
+   "action": "verify",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0149",
+     "text": "4 decades of O&M delivery (swip p7 ¶2, 2025-09-12) vs 45+ years / >45 years (hull-wwtf-om-2026 2026-04-02 p5, p10, p11); MMSD 2026-01-30 says more than 40 years",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/ocwut-16-26/pages/p0008.md",
+     "text": "Jacobs has provided full-service water and wastewater O&M since 1980 (OCWUT, 2026-05-06)",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0304",
+     "text": "33 years (swip p7 ¶2, p15 ¶9) vs 32 years (hull p34 ¶10, a client reference quote) - City of Auburn tenure",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/swip-om-qualifications-proof-points.md",
+     "text": "Verify the 300+ projects, 4,000+ professionals, 98% client retention, and 99.98% environmental compliance figures are current at proposal time",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "None of the six flagged figures is contradicted by a trustworthy newer value: 300+ (PP-0150), 98% (PP-0177; the 99% is a stray in another SWIP page) and 99.98% (PP-0232, see the compliance-systems item) are stable across sources; 'four decades' (PP-0149) is still true and consistent with MMSD/Fulton wording, though Hull and OCWUT use 45+ years / since 1980; the 32-vs-33 Auburn tenure (PP-0304) is a client quote in Hull rather than a newer corporate value. These are firm-wide corporate figures plus per-site tenure years on the California map (Crescent City 6, Red Bluff 5, Lincoln 1, Davis-Woodland 11, Auburn 33, Turlock 20, Soquel Creek 4, Clovis 16, Gilroy 41, Fort Irwin 20, Twin Oaks 19, now about a year stale). Have the account team confirm: 300+ projects, 4,000+ O&M professionals, 98% retention, 99.98% compliance, the years-of-experience wording (4 decades vs 45+), the per-site tenure years, and that West Basin Edward C. Little, Pure Water Soquel and Twin Oaks are still valid references.",
+   "judge": "",
+   "flags": [
+    "divergent-figure",
+    "newer-source-same-claim"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 68,
+   "fragment": "triage_05.json"
+  },
+  {
+   "id": "CQ-0030",
+   "path": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0135",
+     "text": "Hull: duration of the Initial Transition phase - 30 days (hull-wwtf-om-2026 p99 para3); 1-30 days (hull-wwtf-om-2026 p46 para12)",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0099.md",
+     "text": "Initial Transition (30 days starting July 1st)",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/management-staffing/wastewater-om-transition-plan-mobilization.md",
+     "text": "Initial Transition (Days 1-30), and Extended Transition (Days 31-120)",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. PP-0135's two values are the same fact worded differently (30 days = Days 1-30) within one source; the block's own figure is not in question. Block is evergreen and review-due 2029-04-01. The reuse-notes item (confirm West Basin/JXN quotes still permissioned) is already tracked in the block.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 1,
+   "fragment": "triage_01.json"
+  },
+  {
+   "id": "CQ-0031",
+   "path": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0153",
+     "text": "5000000 USD (stated as '$5 million') (hull p8 para7); 5040000 USD (hull p51 para2)",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/win-themes/value-added-no-cost-enhancements-framing.md",
+     "text": "Initiative table sums 4,450,000 + 350,000 + 100,000 + 80,000 + 60,000 = 5,040,000; headline stated as '$5 million'",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0128",
+     "text": "up to 12 months (p8 para15); 12 months sooner (p34 para19); 12 months sooner (up to) (p92 para11) - same figure, wording only",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0160",
+     "text": "up to 19 percent (p8 para6); 19 percent savings (up to) (p51 para2) - same figure",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. All three conflicts are same-source rounding or wording differences ($5M headline vs $5.04M exact total in the compliance-plans twin value-added-innovations-no-additional-cost.md; 12 months; 19%). Block is the exec-summary rounded presentation and is internally consistent. Writers should pick one form per draft; reuse-notes already says to rebuild every figure for the target pursuit.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 2,
+   "fragment": "triage_01.json"
+  },
+  {
+   "id": "CQ-0032",
+   "path": "wiki/win-themes/swip-value-added-offerings-package.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0461",
+     "text": "Total value of value-added offerings over five years: 4100000 USD (p45 para5); 4,100,000 USD (p13 para3) - formatting-only conflict",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0471",
+     "text": "35000 USD over 5 years (p45 para5); 34000 USD embedded value (p68 para10); 35,000 USD value (p13 para3) - this block's $35,000 matches p45",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/win-themes/swip-value-added-offerings-package.md",
+     "text": "Ten line items sum to $4,095,000 against the $4.1M headline",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. PP-0461..0471 are flagged only because the same dollar values are written two ways within one source (4100000 vs 4,100,000). The one real mismatch (PP-0471 cybersecurity survey, $34K at p68 in swip-scada-ic-cybersecurity-approach.md) sits in a different block; this block's $35,000 agrees with p13 and p45. Possible follow-up on that other block, not this one.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 3,
+   "fragment": "triage_01.json"
+  },
+  {
+   "id": "CQ-0033",
+   "path": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0113",
+     "text": "Agenda sessions in the delivered 2024 (Wilmington) Innovation Workshop - 10 agenda sessions (hull p86 para9); 9 sessions (santamonica p62 para20); both dated 2024-06-05",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/innovation-workshop-appendix-agenda-and-examples.md",
+     "text": "Identical 12-row agenda (Welcome and Introductions ... Additional Discussion & Closing Remarks, with two breaks and lunch)",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+     "text": "Body states no session count; the table has 9 content sessions plus two breaks and lunch",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/mmsd-annual-innovation-workshop.md",
+     "text": "Complementary, not a subset: WEFTEC participation proof; lacks the sample agenda and the two testimonials this block carries",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. The 'newer source' (Hull, 2026-04-02) describes the identical 2024-06-05 Wilmington agenda; 9 vs 10 is only a counting difference and this block never states a count, so update-figure would be wrong. The competitor mmsd-annual-innovation-workshop.md is not a superset: it holds the WEFTEC competitive proof, this block holds the agenda and testimonials, so both stay preferred. Housekeeping: both blocks list annual-innovation-workshop-program.md and fulton-annual-innovation-workshop.md in supersedes; no status change warranted.",
+   "judge": "",
+   "flags": [
+    "divergent-figure: counting difference only",
+    "newer-source-same-claim: same agenda, not a new value"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 13,
+   "fragment": "triage_01.json"
+  },
+  {
+   "id": "CQ-0034",
+   "path": "wiki/win-themes/project-narrative-contract-transition-turnaround.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0049",
+     "text": "Westerly savings vs original 6-year forecast - 500,000 USD (more than) (hull p77 para5); >500000 USD (hull p15 para2)",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0050",
+     "text": "Westerly savings vs adjusted forecast - 250,000 USD (approximately) (p77 para5); ~250000 USD (p15 para2)",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/win-themes/project-narrative-contract-transition-turnaround.md",
+     "text": "more than $500,000 in savings against the original 6-year forecast and about $250,000 against the adjusted forecast",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive. The PP-0049/0050 conflicts are the same values formatted differently within one source. The block is the sanitized win-theme narrative of the Westerly project, deliberately distinct from the verbatim past-performance block (cross-referenced in reuse-notes), so no twin action. Minor wording drift only (block says 'following 3 years', verbatim says 'last 3 years').",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 14,
+   "fragment": "triage_01.json"
+  },
+  {
+   "id": "CQ-0035",
+   "path": "wiki/technical-approach/annual-innovation-workshop-program.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/annual-innovation-workshop-program.md",
+     "text": "status: fallback ... house-favorite: true ... superseded-by: [wiki/technical-approach/swip-annual-innovation-workshop.md, wiki/technical-approach/mmsd-annual-innovation-workshop.md]",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "templates/standard-topics.md",
+     "text": "| Annual innovation workshop | wiki/technical-approach/swip-annual-innovation-workshop.md; wiki/technical-approach/annual-innovation-workshop-program.md | A dated, repeatable commitment |",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/technical-approach/swip-annual-innovation-workshop.md",
+     "text": "supersedes: [wiki/technical-approach/mmsd-innovation-workshop-exhibit-agenda-and-testimonials.md, wiki/technical-approach/annual-innovation-workshop-program.md, wiki/technical-approach/fulton-annual-innovation-workshop.md]",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0141",
+     "text": "1 full day per year | 2026 contract commitment | hull-wwtf-om-2026 | p27 ¶5 | annual-innovation-workshop-program.md",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "Already linked as a fallback (superseded-by the swip and mmsd preferred twins); the contradiction is only the stray house-favorite: true, so resolve by deleting that field (or setting false) and keeping the block. Not archivable: templates/standard-topics.md still names it as the second source for the annual-innovation-workshop topic, it holds the only Hull-specific topic menu (SSES/I-I, standby power, biosolids, regionalization, incinerator reuse, AI, PFAS) that neither preferred twin carries, and PP-0141/0278/0279/2078 cite it. House-favorite already sits on the preferred swip twin.",
+   "judge": "",
+   "flags": [
+    "status-link-mismatch"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 16,
+   "fragment": "triage_02.json"
+  },
+  {
+   "id": "CQ-0036",
+   "path": "wiki/qualifications/comparable-scale-track-record-treatment-and-collection.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0148",
+     "text": "42 miles | 2026 | hull-wwtf-om-2026 | p5 para6; ~42 miles | p12 para9 | this block",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0173",
+     "text": "40 miles | p10 para6; >40 miles | 2026 | hull-wwtf-om-2026 | p12 para9 | this block",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0012.md",
+     "text": "approximately 42-mile network ... multiple systems exceeding 40 miles in length",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive: PP-0148 (Hull's own network, 42 / ~42 mi) and PP-0173 (comparable-system threshold, 40 / >40 mi) are two distinct claims clustered under conflict status; the block states both correctly (approximately 42-mile network vs systems exceeding 40 miles) and all rows are the same 2026-04-02 source. The corporate counts (106 facilities, 6,700 miles) stay point-in-time per reuse-notes and are rechecked at reuse.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 31,
+   "fragment": "triage_03.json"
+  },
+  {
+   "id": "CQ-0037",
+   "path": "wiki/qualifications/regional-presence-local-support-value-prop.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0169",
+     "text": "~700 staff | hull p10 para5; 712 staff | 2026 | hull-wwtf-om-2026 | p12 para11 | this block",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0177",
+     "text": "98 percent | 2026 | hull-wwtf-om-2026 | p12 para5 | this block; 99 percent | 2025 | santamonica p63 para24",
+     "resolves": true
+    },
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/qualifications/regional-presence-local-support-value-prop.md",
+     "text": "the ~20-mile, 398/712/2,900+ staff counts are point-in-time Northeast figures and must be re-pulled",
+     "resolves": true
+    }
+   ],
+   "confidence": "medium",
+   "rationale": "The block's own figures are not in question: PP-0169 pairs '~700' (Hull p10, rounded corporate sentence) with the exact '712' on the block's Exhibit 3-2 callout (same source, same date); PP-0177 has the block's 98% corroborated by Hull p12 and Santa Monica p15/p7, with only an older Santa Monica p63 outlier at 99%. Note for the maintainer: volatility is labelled evergreen (review-due 2029-04-01) although the block carries point-in-time headcounts (398/712/2,900+) and a renewal rate; reclassified to corporate-figure it would fall due 2027-04-02 like the corporate-scale block.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 33,
+   "fragment": "triage_03.json"
+  },
+  {
+   "id": "CQ-0038",
+   "path": "wiki/technical-approach/project-understanding-goals-challenges-response-matrix.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0277",
+     "text": "24/7 hours coverage | 2026 contract commitment | hull-wwtf-om-2026 | p26 para2 | this block; 24 hours per day | p41 para6",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0026.md",
+     "text": "Provide a 24/7 emergency number ... to be answered by a person who will respond within 20 minutes",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive: PP-0277 rows are '24/7' (Hull p26, this block) and '24 hours per day' (Hull p41) - the same commitment worded two ways in one proposal, with no differing value. The 24/7 emergency number with 20-minute response is a contract commitment already flagged pursuit-specific in the block's reuse guidance.",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 34,
+   "fragment": "triage_03.json"
+  },
+  {
+   "id": "CQ-0039",
+   "path": "wiki/win-themes/project-narrative-long-term-dbo-performance-excellence.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "registry",
+     "ref": "PP-0077",
+     "text": "50,000 residents (approximately) | hull p80 para3; ~50000 population | hull p15 para2",
+     "resolves": true
+    },
+    {
+     "kind": "registry",
+     "ref": "PP-0079",
+     "text": "30 percent (more than) | hull p80 para7; >30 percent | hull p15 para2",
+     "resolves": true
+    },
+    {
+     "kind": "verbatim",
+     "ref": "verbatim/hull-wwtf-om-2026/pages/p0080.md",
+     "text": "reduced electrical consumption by more than 30%",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive: PP-0077 (~50,000 population / approximately 50,000 residents) and PP-0079 (more than 30% / >30%) are the same values worded differently on Hull p15 and p80; the block states both consistently. Facts are a closed historical project record (relationship since 1990, awards 2004-2019).",
+   "judge": "",
+   "flags": [
+    "divergent-figure"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 36,
+   "fragment": "triage_03.json"
+  },
+  {
+   "id": "CQ-0040",
+   "path": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+   "action": "keep",
+   "target": "",
+   "proposed_value": "",
+   "evidence": [
+    {
+     "kind": "reuse-notes",
+     "ref": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+     "text": "This is a graphic, not body prose. Rebuild it from the target client's actual project history pulled from the account record",
+     "resolves": true
+    },
+    {
+     "kind": "block",
+     "ref": "wiki/win-themes/exhibit-trusted-partnership-relationship-timeline.md",
+     "text": "Two engagements are flagged as continuing rather than completed -- Enterprise SCADA Application Support Services (2018 to present) and Program Management Office Support (2020 to present)",
+     "resolves": true
+    }
+   ],
+   "confidence": "high",
+   "rationale": "False positive: the 'to present' dates are part of the described exhibit device, which the reuse-notes say must be rebuilt per pursuit from the target client's own history. The block is evergreen (review due 2029-05-05) and carries no figures a writer would copy forward.",
+   "judge": "",
+   "flags": [
+    "open-ended-date"
+   ],
+   "volatility": "evergreen",
+   "owner": "Michael Travis",
+   "rank": 54,
+   "fragment": "triage_04.json"
+  }
+ ]
+}
