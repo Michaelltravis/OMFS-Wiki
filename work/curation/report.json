@@ -832,7 +832,8 @@
     "volatility": "safety-stat",
     "review_due": "2027-04-02",
     "flags": [
-     "divergent-figure"
+     "divergent-figure",
+     "newer-year-available"
     ]
    },
    "rank": 28
@@ -1793,8 +1794,8 @@
    "severity": 99,
    "owner": "Michael Travis",
    "current": {
-    "volatility": "evergreen",
-    "review_due": "2028-09-11",
+    "volatility": "corporate-figure",
+    "review_due": "2026-09-12",
     "flags": []
    },
    "rank": 64
@@ -2430,8 +2431,8 @@
    "severity": 99,
    "owner": "Michael Travis",
    "current": {
-    "volatility": "evergreen",
-    "review_due": "2029-05-05",
+    "volatility": "corporate-figure",
+    "review_due": "2027-05-06",
     "flags": []
    },
    "rank": 87
@@ -3346,9 +3347,7 @@
    "current": {
     "volatility": "evergreen",
     "review_due": "2029-04-01",
-    "flags": [
-     "status-link-mismatch"
-    ]
+    "flags": []
    },
    "rank": 123
   },
@@ -3784,7 +3783,9 @@
    "current": {
     "volatility": "safety-stat",
     "review_due": "2027-04-02",
-    "flags": []
+    "flags": [
+     "newer-year-available"
+    ]
    },
    "rank": 139
   },
@@ -10060,9 +10061,11 @@
    "severity": 2,
    "owner": "Michael Travis",
    "current": {
-    "volatility": "evergreen",
-    "review_due": "2029-05-05",
-    "flags": []
+    "volatility": "corporate-figure",
+    "review_due": "2027-05-06",
+    "flags": [
+     "newer-year-available"
+    ]
    },
    "rank": 391
   },
@@ -16598,8 +16601,8 @@
    "severity": 99,
    "owner": "Michael Travis",
    "current": {
-    "volatility": "evergreen",
-    "review_due": "2029-01-29",
+    "volatility": "corporate-figure",
+    "review_due": "2027-01-30",
     "flags": []
    },
    "rank": 669
@@ -17175,9 +17178,7 @@
    "current": {
     "volatility": "evergreen",
     "review_due": "2029-01-29",
-    "flags": [
-     "status-link-mismatch"
-    ]
+    "flags": []
    },
    "rank": 694
   },
