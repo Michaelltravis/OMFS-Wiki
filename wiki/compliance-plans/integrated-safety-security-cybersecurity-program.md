@@ -13,7 +13,7 @@ client-size: "3.07 MGD / 42 mi / ~10k pop"
 geography: "Northeast / MA / MassDEP"
 rfp-section-type: [tech-approach, compliance]
 win-theme-map: [safety-culture, compliance-leadership, digital-tools, transition-continuity, partner-transparency]
-proof-point-ids: [PP-0229, PP-0311, PP-0312, PP-0313, PP-0314, PP-0315, PP-0316, PP-0317, PP-2090, PP-2091, PP-2092, PP-2093, PP-2094, PP-2095, PP-2096, PP-0228]
+proof-point-ids: [PP-0229, PP-0311, PP-0312, PP-0313, PP-0314, PP-0315, PP-0316, PP-0317, PP-2090, PP-2091, PP-2092, PP-2093, PP-2094, PP-2095, PP-2096, PP-0228, PP-0496]
 testimonial-ids: []
 story-ids: []
 status: preferred
@@ -29,6 +29,8 @@ doc-order: 50
 volatility: safety-stat
 review-due: 2027-04-02
 freshness-flags: []
+updated: 2026-10-12
+update-notes: '2026-10-12: industry-benchmark figures (RIR 0.19 vs 0.62, 60% better; DART/LTIR 0.056 vs 0.20, 72% better; BLS 2018-2022) confirmed current by Michael Travis against corporate graphics 103_0037AJ / 154_0037AJ; no value change; graphic references added (PP-0311..PP-0316, PP-0496)'
 context: Coastal New England municipal WWTF (3.07 MGD) + 42-mile collection system O&M, 2026, incumbent displacement
 quality: Combines quantified corporate safety proof points (5-year RIR and LTIR against BLS industry averages, EMR below 1.0) with a concrete, checklist-style site-specific safety, security, and OT-cybersecurity plan and a dated 30-day submission commitment
 reuse-notes: Refresh the BLS benchmark year range (2018-2022 here) and the RIR/LTIR statistics from current corporate safety data before reuse; rewrite the physical-security-findings paragraph from an actual site walk of the target facility rather than reusing the perimeter-fencing observation; confirm the 30-day plan submission commitment matches the target RFP.
@@ -46,6 +48,9 @@ Our objective is simple: **zero injuries, zero security breaches, and zero servi
 
 Safety metrics will be reviewed with [CLIENT] during routine meetings to support transparency and continuous improvement. Jacobs maintains an **Experience Modification Rate (EMR) of 0.45 (NCCI, 7/1/2025 – 7/1/2026 policy period), well below 1.0**, exceeding the RFP safety requirement, and our industry-leading safety performance is further illustrated in **Exhibit 5-10** (graphic asset `104_HHull_0091KO_1`): Jacobs outperforms averages in top safety categories, with a 5-year average Recordable Incident Rate (RIR) of 0.19 against an industry average of 0.62 — **60% better than the industry average** — and a 5-year average DART/Lost Time Injury Rate (LTIR) of 0.056 against an industry average of 0.20 — **72% better than the industry average**. Both comparisons use 2018-2022 data from the Bureau of Labor Statistics.
 <!-- curation 2026-10-09 (newer-year-available): headline EMR set to the current NCCI figure 0.45 for 7/1/2025–7/1/2026 from source hull-wwtf-om-2026 (2026-04-02), verbatim/hull-wwtf-om-2026/pages/p0017.md ¶12 (PP-0228); year-series rule in CLAUDE.md. Verify before external use. -->
+
+**Related graphics:** `103_0037AJ` (horizontal banner) and `154_0037AJ` (vertical) — corporate versions of this benchmark chart, catalogued in `wiki/graphics/corporate-assets.md`; figures confirmed current 2026-10-12.
+
 
 ## Site-Specific Safety and Security Planning
 

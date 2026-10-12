@@ -23,9 +23,11 @@ wiki/resumes/               Key personnel resumes, verbatim (names, certs, exper
                             one file per person, plus proposed-team rosters.
 wiki/past-performance/      Project descriptions, reference lists, similar-facility
                             tables — verbatim, real client names and contacts.
-wiki/graphics/              Graphics catalog — one file per source proposal. Text
-                            references only (no image files); IDs resolve in the
-                            Jacobs graphics library/DAM.
+wiki/graphics/              Graphics catalog — one file per source proposal, plus
+                            corporate-assets.md for graphics the proposal team supplies
+                            directly (who, when, figures shown). Text references only
+                            (no image files); IDs resolve in the Jacobs graphics
+                            library/DAM.
 verbatim/<slug>/            THE SOURCE OF TRUTH FOR PROSE. Page-anchored, paragraph-
                             numbered (`<!-- ¶n -->`) markdown of every source proposal,
                             produced by a local converter (zero model tokens) and

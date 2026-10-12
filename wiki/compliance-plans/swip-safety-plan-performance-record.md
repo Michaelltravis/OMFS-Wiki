@@ -29,6 +29,8 @@ doc-order: 45
 volatility: safety-stat
 review-due: 2026-09-12
 freshness-flags: []
+updated: 2026-10-12
+update-notes: '2026-10-12: industry-benchmark figures (RIR 0.19 vs 0.62, 60% better; DART/LTIR 0.056 vs 0.20, 72% better; BLS 2018-2022) confirmed current by Michael Travis against corporate graphics 103_0037AJ / 154_0037AJ; no value change; graphic references added (PP-0311..PP-0316, PP-0496)'
 context: Southern California advanced water treatment / potable reuse facility O&M, 2025, incumbent (Veolia) displacement
 quality: Combines the BeyondZero safety-culture narrative with a Safety Scorecard concept (five leading, two lagging indicators) and six years of hard corporate safety metrics (ERM by policy year through 7/1/2026, TRIR by year through 2025) plus an industry-benchmark comparison.
 reuse-notes: The BeyondZero narrative, the Safety Scorecard leading/lagging framework, and the industry-benchmark framing are fully generic. Refresh every metric (ERM by policy year, TRIR by year, the BLS 2018-2022 benchmark window) from current corporate safety data before each reuse, and confirm the RFP's required EMR/TRIR thresholds are cleared before citing better-than-industry language.
@@ -79,6 +81,9 @@ Jacobs' safety and employee welfare are among the best in the industry — the E
 **Industry benchmark comparison (5-year averages, 2018-2022 BLS data):**
 - Recordable Incident Rate (RIR): industry average 0.62 vs. Jacobs 0.19 — Jacobs is 60% better than the industry average.
 - DART / Lost Time Injury Rate (LTIR): industry average 0.20 vs. Jacobs 0.056 — Jacobs is 72% better than the industry average.
+
+**Related graphics:** `103_0037AJ` (horizontal banner) and `154_0037AJ` (vertical) — corporate versions of this benchmark chart, catalogued in `wiki/graphics/corporate-assets.md`; figures confirmed current 2026-10-12.
+
 
 ## Reuse guidance
 
